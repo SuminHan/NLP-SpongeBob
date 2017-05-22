@@ -1,0 +1,1 @@
+ Hi, I tried installing KDE on the default Ubuntu 11.04, but then switched back. Unfortunately the splash screen at boot up  still says "Kubuntu". Is there an easy fix for this?

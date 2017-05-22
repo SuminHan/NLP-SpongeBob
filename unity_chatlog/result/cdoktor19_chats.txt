@@ -1,0 +1,23 @@
+ ohhhh, i think they copy to all server in the world now
+ where to download ubuntu 11.04 release ?????
+ aw aw aw
+ are 28 April now
+ ohhhh, i think they copy to all server in the world now
+ can some one tell me what version must i download i386 or amd64 my processor is Intel Core2Duo T6570 i read in cpu test its 64-bit processor
+ even my processor not AMD based ?
+ how to make a 32 bit chroot ??? am newbie
+ how to make a 32 bit chroot or multilib which is the easy way,
+ oh
+ ok i will fin some information about multilib and how to make a 32 bit chroot, are some one have a link to that page ?
+ [ 3551.409037] pwrdown, 0x6(BIT6)=ff
+ [ 3551.514123] rtl819xSE:No more TX desc@6, ring->idx = 0,idx = 0, skblen = 0x2a
+ [ 3551.514131] rtl819xSE:No more TX desc@6, ring->idx = 0,idx = 0, skblen = 0x2a
+ [ 3551.625982] rtl819xSE:No more TX desc@6, ring->idx = 0,idx = 0, skblen = 0x2a
+ [ 3551.625989] rtl819xSE:No more TX desc@6, ring->idx = 0,idx = 0, skblen = 0x2a
+ [ 3553.415696] pwrdown, 0x6(BIT6)=ff
+ [ 3555.415823] pwrdown, 0x6(BIT6)=ff
+ i have that message, is that ok
+ :)
+ when 11.04 release
+ am still 10.04 Lts it just upgrade to 10.10
+ i will wait to download iso

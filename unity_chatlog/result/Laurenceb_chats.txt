@@ -1,0 +1,3 @@
+ hi, im trying to get integrated webcam working on a lenovo thinkpad sl510
+ can anyone help?
+ GeogeJ: auto lo iface lo inet loopback

@@ -1,0 +1,2 @@
+ trying to use usb-create-gtk to create a bootable image on an external eSATA drive, and it's not detecting the drive
+ anyone know how to get it to notice it?

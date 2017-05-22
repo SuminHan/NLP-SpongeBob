@@ -1,0 +1,43 @@
+ hello
+ there
+ how to check my filesystem ?
+ hello
+ anyone there ?
+ are you fool ?
+ i m asking you for a command to check for filesystem
+ no is there any other method to check ?
+ filesystem
+ i simply want to make sure that my filesystem is ext3 instead of ext4 usr13
+ thanks working llutz
+ thanks working llutz_
+ but i don't why fdisk -l not df -h not giving that info about filesytem
+ but i don't why fdisk -l not df -h not giving that info about filesytem  llutz_
+ as i got lots of native  i don't know which one is "mine" usr13
+ hello there
+ i got ubuntu on my pc
+ well my question is : i got ubuntu on my pc with 3 other pc runing on ubuntu too on a same network, i got my hard disk serial number
+ of one that 3 computer
+ my question is simply from the ubuntu cli how identify my hard disk presence in which pc ?
+ who get my questioN ?
+ simply i got 3 pc runing on ubuntu, i need to find one of my hard disk location, so i got my hard disk serial number how to identify my hard disk in which computer ?
+ all 3 computer are in same network
+ hello
+ what up ? there is no answer
+ very simple my question Pici let me explain you again
+ i got a serial number of one my hard disk, which is present on one computer, i got 3 pc all 3 pc are in ubuntu, and also 3 pc are in a same network
+ my question is simply how to IDENTIFY  my hard disk location ( the presence of my hard disk in which computer) from the command  line
+ to able to find my hard disk
+ is it clear now ? Pici
+ but i don't want to run that command in each individual computer Pici that's why i m talking about all the 3 computer on a same network qin
+ i don't want to ssh to each one
+ just wanna discover that functionality
+ fi that possible
+ then how nagios get information without sshing to any computer  ? Pici qin High_Priest
+ so it is possible ?
+ i don't have any experience with snmp
+ i know that method don't worry High_Priest , but it is not what i m looking for
+ so if i understand correctly, if nagios is present on all 3 compter what  i have to do to find my disk ?
+ from the command line ?
+ how to check if snmp is present on my computer or not ?
+ how to check if snmp is present on my computer or not ? High_Priest
+ yes it is present snmpd , Pici

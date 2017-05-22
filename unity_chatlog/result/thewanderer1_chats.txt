@@ -1,0 +1,1 @@
+ hi. any idea why a chroot made with debootstrap has "squeeze/sid" in /etc/debian_version and Ubuntu 11.04 in issue.net? or how do I check the version reliably?

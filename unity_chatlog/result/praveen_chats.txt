@@ -1,0 +1,15 @@
+ i want to upgrade to 11.04 but my update manager is not showing option of 11.04...how to upgrade to 10.10 to 11.04??
+ drdj013:i have tried this...not working
+ ubottu: that is quite helpful..thanks!!!
+ preyas: open it in full size...right click on it and click on "set as a desktop background"
+ preyas: just open it in your browser...even you don't have to download it..it is very simple process of setting pics
+ puneet: go here -http://www.gnome3.org/tryit.html and try out usb image writer
+ billy1987: i think you are looking for this--http://ubuntuforums.org/showthread.php?p=10733442#post10733442
+ my pleasure!!!
+ sam_00393948: i think you must upgrade by alternate iso torrent...it is much faster
+ Dasj_Dasj:http://angger-kaboel.net/linux/how-to-upgrade-to-ubuntu-11-04-natty-narwhal-with-or-without-an-internet-connection/
+ i am sharing files with my friends on lan..but i am not able to see all shared computers , i am able to see only some of the computers.what is wrong??
+ yes
+ i think so,actually some of them are able to access my computer and able to copy the files...but some are saying i am not able to see your computer on lan??
+ ZzTribble: but when i switched to window , i am able to see all shared computers on lan....so this is little bit confusing for me!!!
+ ZzTribble: i haven't configured samba.conf...i have installed samba gui version..and i share my folders with the help of this...

@@ -1,0 +1,12 @@
+ where is gs installed in ubuntu?
+ vish, yes
+ vish, its just a normal ubuntu 10.04 shell
+ in bash, i have variable $i, how do i concatenate it with a c in a command? so that i can do myprogram $i ['c' $i]     so if i has the value  'myfile.png'  it would be myprogram myfile.png cmyfile.png   ?
+ where is gs installed in ubuntu?
+ if I have a sequence like 1,10,4,8,10   how do i plot that with gnu plot from the command line?
+ To this day i still do not understand why the clipboard in ubuntu has not been fixed yet. When i copy something from a program or window or whatever it goes to the clipboard-> good. But when i close the program or window....my copy is ALSO deleted from the clipboard...this is something which should have been fixed in alpha version 0.0.1.....but in ubuntu 11.04 it still exists. I am baffled!
+ To this day i still do not understand why the clipboard in ubuntu has not been fixed yet. When i copy something from a program or window or whatever it goes to the clipboard-> good. But when i close the program or window....my copy is ALSO deleted from the clipboard...this is something which should have been fixed in alpha version 0.0.1.....but in ubuntu 11.04 it still exists. I am baffled!
+ Smiledon, yes. it is a shame
+ Smiledon, but what is there to do
+ Aginor, it does not work in all programs
+ if i have 2 series of numbers: [1 2 4 6 8 9] and [3 5 1 3 6 9]. how do i plot that with gnuplot?

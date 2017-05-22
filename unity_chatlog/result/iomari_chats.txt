@@ -1,0 +1,2 @@
+ greetings, anyone here use multicd?
+ when running multicd, it keeps ignoring ubuntu. every other iso works.

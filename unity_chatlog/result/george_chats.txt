@@ -1,0 +1,24 @@
+ Communication controller: Intel Corporation 5 Series/3400 Series Chipset HECI Controller (rev 06)
+ hello
+ I need some help with a realtek driver
+ can any budy hekp me??
+ Realtek Driver any here body out there who can help??
+ i have no idea?
+ is boult in
+ no hiexpo is a built in to a toshiba
+ ok
+  let me see if i can toshiba drivers for win 7 dose not have info on the chipset only on the units compatible
+ <hiexpo> u think i can run the driver with WINE???
+ 00:00.0 Host bridge: Intel Corporation Core Processor DRAM Controller (rev 02)
+         Subsystem: Toshiba America Info Systems Device fd00
+         Flags: bus master, fast devsel, latency 0
+         Capabilities: <access denied>
+         Kernel driver in use: agpgart-intel
+         Kernel modules: intel-agp
+ so can any help me??
+ o crap
+ so what can u do?
+ fron the board is an intel
+ Communication controller: Intel Corporation 5 Series/3400 Series Chipset HECI Controller (rev 06)
+ Communication controller: Intel Corporation 5 Series/3400 Series Chipset HECI Controller (rev 06)
+ i need  some help with a wireless realtek can anybody help??

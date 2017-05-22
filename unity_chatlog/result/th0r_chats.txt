@@ -1,0 +1,4 @@
+ W43372: whining helps alot
+ Soothsayer: you can set both computers to use the same mac, so long as only one is online at a time
+ Ultimate_Chaos: close, it is really 'stupid computer operator'
+ Juest: the logs will be in /var/log. You might also try running gmixer from a terminal to see if you get any error messages

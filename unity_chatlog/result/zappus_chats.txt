@@ -1,0 +1,14 @@
+ Hey everyone
+ im installing ubuntu 11.04 on a laptop together with win7
+ and resizing the partitions takes like 10 min
+ and still going
+ is something gone wrong
+ guys?
+ how long does resizing of partitions take?
+ oh ok
+ there is an option in installler "skip"
+ what would that do?
+ oh ok nvm
+ :P
+ it moved on
+ thanks for help

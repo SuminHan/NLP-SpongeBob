@@ -1,0 +1,1 @@
+ Hi, I am unable to find the 'Contacts' shortcut, which is part of Evolution, in order to access my contacts. I do not want to use the mail client just 'Contacts'. Anybody has an idea?

@@ -1,0 +1,27 @@
+ hey all
+ got a question
+ never used Ubuntu before... when you log into the computer after installing does it give you the dual boot option?
+ i have a separate partition for it
+ first time i'll be using linux actually
+ aside from my android phone :P
+ Windows 7 Pro x64bit
+ i set aside a 100GB partition for installing another oS
+ i havne't installed it yet
+ downloading the file
+ well the iso
+ essentially i'm a linux noob
+ sorry guys =/
+ lol
+ so after making the disk
+ boot from cd?
+ or should i just install it from windows
+ the problem is, my mobo doesn't like to recognize my USB mouse
+ in the boot screens
+ i tried to install ubuntu awhile ago
+ ok
+ install it to the free partition
+ then will i get the boot choice when i start the computer?
+ sigh 50min left on the.iso download
+ what is unity?
+ is v11 not recommended over 10?
+ oh i'm d/l 11

@@ -1,0 +1,26 @@
+ Hi, I have installed Natty and want to use Classic Gnome as the default instead of having to select it every time before login. How to do it?
+ Braiam: Ok, how do I change the default?
+ extraclassic: How do I change the default desktop environment in natty?
+ Logan_: I didn't realize the option would in gdmsetup. Let me try it out. Thanks :)
+ linusasus6: It is not as if unity is so buggy but it is due to people so used to traditional Gnome :)
+ Hi, there was an issue with Nvidia proprietary drivers and plymouth in older releases. Doesn't seem to be fully fixed in natty either. On selecting Ubuntu in grub, there appears a purple screen for some time, then a low resolution plymouth screen appears for a second and then a black screen before gdm appears. Any way to fix/workaround this annoying bug?
+ mello: Gnome shell and unity aren't as mature and hence aren't as customizable as Gnome 2.x. So for now I am sticking to gnome 2.x waiting for gnome-shell/unity to mature a lot more and become fully customizable as gnome 2.x
+ mello: you have a choice to use gnome 2.x without having to install anything extra
+ mello: then go for gnome-shell or try out different environments like xfce/lxde
+ mello: or KDE
+ mello: http://wiki.lxde.org/en/Ubuntu hth :-)
+ mello: hmmm, go ahead try things and use the one that suits you :)
+ Hi all, I am using Ubuntu Natty with Nvidia proprietary drivers. I had an issue with the plymouth splash screen getting displayed in low resolution which I fixed by setting the correct resolution through GRUB_GFXMODE parameter. But I am getting a purple screen instead of a splash screen for a long time and the ubuntu splash comes up for a second before GDM starts. How to make the splash display instead of the plain purple screen?
+ yellabs-r2: I was doing the same till the previous release. Now that I realized I could have a proper high resolution splash screen I want to get it working, but I get to see it only for a brief second after seeing the empty purple screen for a boringly long time :)
+ Hi, I found in Ubuntu Natty that Gwibber supports only Twitter, Identica and Facebook accounts though actually Gwibber supports more social networks. Why?
+ Dr_Willis: Exactly. I see now that there are packages to add social networks. But I am wondering why these networks which were present, were moved to plugins while Twitter, Identica and facebook escaped? Guess it is due to popularity
+ wazzup: You need to install sensors
+ wazzup: sensord and sensor-applets
+ wazzup: the package names are 'sensord' and 'sensor-applets'
+ Hi, I am using Natty. I find that even when I am connected to the internet, my me menu status set to available, still there is no textbox in the me menu to post. What is the issue?
+ xangua: Yes. I have twitter, facebook and identi.ca accounts added. In fact I get notifications for all those accounts
+ Hi, I have gwibber accounts configured and working, memenu status is set to available but still there is no textbox to broadcast the status message. Any ways to get it working?
+ hi all, I am using gwibber in natty and added google buzz account, but the statuses aren't fetched and the timeline remains blank. Any clues?
+ Hi, I am using Ubuntu 11.04. I have nvidia proprietary drivers enabled and I use classic gnome. I have an issue where some times while placing the mouse over a button and trying to click it, it doesn't work as the focus is not correctly on the button. Has anyone faced such an issue?
+ Hi in Ubuntu 11.04, Network tools utility, ping tool doesn't work at all, though ping command works fine in the terminal. Any clues?
+ vibhav: Just saw that bug, added 'affects me' and subscribed to :) Thanks

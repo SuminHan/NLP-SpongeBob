@@ -1,0 +1,10 @@
+ ruum: the new DE seems bugged to me, otherwise no problems so far
+ ruum: isn't maximized windows a feature now?
+ ruum: I'm not using the new DE, but I think I remember that
+ ruum: yes, I think that is a feature, more Mac OS X-ish
+ ruum: you can still use Ubuntu Classic
+ ruum: AFAIK that is Gnome
+ ruum: well then, use GNOME if you like it better
+ ruum: my prefered wm is the Awesome Window Manager
+ ruum: just don't use the new desktop!!
+ ruum: I've said it, pick Ubuntu Classic when you log in, it's just like back in 10.x

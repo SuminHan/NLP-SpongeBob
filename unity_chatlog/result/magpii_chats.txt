@@ -1,0 +1,10 @@
+ i just had my system upgrade to 11. something, can someone show me how to get compiz back on? all my desktop settings are reset
+ i just updated to ubuntu 11 and now i cannot see the panels on my desktop, also, i cannot move any open windows or resize them . any help?
+ i cannot view the panels on my desktop, also windows wont move or resize and the close, minimize and maximize buttons ar not visible, can someone advise please?
+ can anyone tell me how i can revert to ubuntu 10 seeing as 11.04 has just screwed my perfectly decent system up
+ none of my panels are showing on desktop, the close window, minimize an resize options are gone, so is my 3d desktop
+ i just wanted to have my desktop as it was in ubuntu 10 after the upgrade to 11.04, but since upgrade, the entire desktop is screwed, and the new sidebar panal has disapeared as well as the main menu bar when windows are opened
+ ok i will try classic first, as for the mouse over, tried for the last hour and nothing. will re log and follow classic option then try 2d
+ thanks for the help, cya soon
+ thanks, is it bundled with package manager?
+ ok thanks, will log back in shortly with any issue after reboot into classic, fingers crossed

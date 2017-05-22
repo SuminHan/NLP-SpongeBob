@@ -1,0 +1,94 @@
+ Spaz_Dynamic: is this a new install?
+ Spaz_Dynamic: have you checked /var/log/Xorg.0.log?
+ Spaz_Dynamic: is this a new install?
+ Spaz_Dynamic: I suggest reinstalling
+ Spaz_Dynamic: yeah.. it is the fastest solution
+ Spaz_Dynamic: just use manual partitioning, and make sure /home isn't formatted
+ cordoval_: I use middle click
+ cordoval_: maybe with the wheel, or maybe emulated by pressing both at the same time
+ cordoval_: what's wrong with the current behaviour?
+ cordoval_: pastebinit doesn't involve clicks??
+ cordoval_: example?
+ cordoval_: sometimes doing it like this works for me: pastebinit<(command etc etc)
+ dunno
+ !alternate | victorhugo289
+ dr0id: lsb_release -a
+ Incarus6: how did it fail?
+ Incarus6: I think we can debug that
+ Incarus6: I don't think the upgrade started yet
+ Incarus6: did you use the xorg ppa?
+ Incarus6: well if not, you need to pastebin some of the files from /var/log/dist-upgrade I believe, so we can take a look
+ Incarus6: I would start at the top, see if you can remove xserver-xorg-video-8
+ Incarus6: actually, Im not sure
+ Incarus6: what about term.log?
+ Incarus6: what file was it that you posted?
+ Incarus6: are there any other files?
+ Incarus6: can I see that?
+ Incarus6: apt-cache policy <package>
+ Incarus6: maybe just try aptitude full-upgrade       and see what it reports
+ Incarus6: yeah, Im not sure.  I also like to run `sudo apt-get install ubuntu-desktop^`  with the ^
+ Incarus6: yes
+ cholo: try update-manager -c
+ Incarus6: I think
+ Monotoko:  http://torrent.ubuntu.com:6969/
+ cholo is just trolling folks
+ Incarus6: what command is that from?
+ Incarus6: is that the only error?  or just the last?
+ Incarus6: ok, can you translate for me?  :)
+ bkerensa: classic is part of natty already
+ Incarus6: you could try aptitude upgrade libpolkit-gobject-1-0        see what options it gives
+ Incarus6: ok, go for it.  but maybe libpolkit-gtk-1-0 is the problem package
+ bkerensa: who knows.  It might be their goal, but it is best to wait till after the UDS
+ lsheeba: yeah
+ lsheeba: https://help.ubuntu.com/community/MaverickUpgrades#Upgrading Using the Alternate CD/DVD
+ lsheeba: just make sure not to delete the ubuntu partition if you are using grub
+ lsheeba: only install gnome3 on a testing install, or in a vm
+ koichirose: do you have all the toolbars enabled?
+ Osmodivs: it is: sudo do-release-upgrade
+ Osmodivs: do you have update-manager-core installed?
+ Osmodivs: or ubuntu-standard
+ Osmodivs: I dunno, pastebin?
+ venik: please don't use enter as punctuation
+ venik: wait, do you have ubuntu-desktop?  and did you try to login with unity?
+ venik: try installing ubuntu-desktop
+ mikebeecham: which driver?
+ mikebeecham: hi  :)
+ mikebeecham: yeah, I have the same issue.  Not sure if it is accurate though.  It looks like 'nvidia' driver is the one in use
+ mikebeecham: what driver is being used according to this?  sudo lshw -C video
+ mikebeecham: is there a "configuration" line?
+ cablop: use classic
+ yfk: try alt-sysrq-k to kill the xserver
+ yfk: :p
+ Lxndr: uvc sounds like just the webcam...
+ Rehan: what is it now?
+ Lxndr: it might be unrelated though.  Maybe check your /var/log/Xorg.0.log file, or dmesg
+ Lxndr: nano /var/log/Xorg.0.log
+ Lxndr: dmesg
+ Rehan: I know a way to do that, it's a little tricky.  edit /etc/init.d/ondemand so it sets it to what you want instead of ondemand
+ Lxndr: errors at the end  unfortunately, I don't really know
+ econdudeawesome: window list
+ Lxndr: anything before that?
+ Lxndr: that's the one!
+ Lxndr: what does dkms status say?
+ Lxndr: dkms status
+ Lxndr: are they all marked installed?
+ Lxndr: is your kernel listed?  prolly 2.6.38-8
+ Rehan: sure
+ Lxndr: yeah, I dunno, you could at least remove the nvidia driver to get going again.  Not sure how to fix it
+ Lxndr: sudo apt-get remove nvidia-current
+ Rehan: look for the line like echo -n ondemand > $CPUFREQ
+ Lxndr: you can check with dkms status again, but yeah
+ Rehan: I changed ondemand to conservative.  maybe you can just put in powersave?
+ Rehan: well, you just want powersave, I think it will work, just change ondemand to powersave
+ trihope: can you just click it again?
+ trihope: also try right clicking the launcher
+ eoss: have you checked the wine app page for your app?
+ eoss: if it is just wine, then you should ask in #winehq
+ jonrafkind: try adding indicator applet session
+ jonrafkind:  session <
+ jonrafkind: yeah, i think it is confusing too  :)
+ kippers: what card?
+ Jordan_U: what is your cooling like, have you checked the temps?
+ Jordan_U: I heard there is some sort of kernel regression causing increased temps/power usage
+ Jordan_U: wait, nm, that was for at idle
+ haroon: do you have an ubuntuone account?  have you plugged in the details?

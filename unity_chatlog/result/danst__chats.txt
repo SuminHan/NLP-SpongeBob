@@ -1,0 +1,10 @@
+ hello guys, I'm doing ubuntu netboot so I compile kernel by hand. But after it starts booting I see just clear display with only flashing cursor in text mode
+ I can switch to tty1, and the last string tells me init: unreadahead main process (68) terminated with status 5
+ Dr_Willis: how do I boot ubuntu single without framebuffer text mode
+ I think framebuffer is the problem
+ uh
+ how do I specify it
+ APPEND root=/dev/nfs nfsroot=192.168.3.241:/home/nfsroot/ubuntu ip=dhcp rw
+ Dr_Willis: no grub menu in netboot
+ Dr_Willis: could you paste your grub.cfg please
+ so I grab your options for text mode

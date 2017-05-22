@@ -1,0 +1,8 @@
+ I was trying a cli version upgrade but it failed with a bunch of broken packages. Is there a way to fix it?
+ rgr: to 11.04
+ google chrome window decorations are broken after ubuntu 11.04 upgrade. Once, I maximize and restore the chrome window it's covered by regular application window border
+ how do I install applets for weather or cpu-scaling etc?
+ on ubuntu 11.04?
+ LjL: thnaks
+ LjL: indicator-weather is pulling about 10 other packages!
+ LjL: yes

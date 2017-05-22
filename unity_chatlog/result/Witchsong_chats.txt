@@ -1,0 +1,16 @@
+ Does the Unity interface have a built-in way to enable desktop/visual effects like you could with the GNOME interface?
+ I did something, and now Windows + A and Windows + F key combinations don't open Find Applications/Find Files anymore.
+ :S
+ I want my Super + A / Super + F shortcuts back. Anyone know how?
+ The area where the launcher would appear isn't functional for other applications using that area.
+ For example, I cannot use Firefox's back and forward buttons.
+ conorhogan: You can upgrade from 10.10 to 11.04.
+ conorhogan: Just boot from the DVD and the setup will give you the option to either wipe your existing 10.10 install before you install or just upgrade it to 11.04.
+ Does anyone else have the issue that the launcher area cannot be used by other applications? Like there is an overlay which won't let you click through?
+ Yes.
+ Does anyone else have the issue that the launcher area cannot be used by other applications? Like there is an overlay which won't let you click through?
+ No one here knows how to add another icon set to LibreOffice?
+ Yeah, but no answer there. Was hoping maybe someone here knew. :)
+ Anyone had any issues with VPN connections since they installed Natty?
+ niteye: Minimized applications should be on the Launcher.
+ niteye: You cannot really reach them anymore in that case. You can kill the process and reboot the application, that's the best option. Some applications, like XChat in my instance, have a bug where the minimize to tray doesn't work like it used to in 10.10.

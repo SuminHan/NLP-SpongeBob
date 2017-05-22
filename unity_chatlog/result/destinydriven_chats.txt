@@ -1,0 +1,12 @@
+ ubuntu 11.04 :D
+ I noticed that bununtu 11.04 is not displaying top menu of a number of apps, anyone else having that problem?
+ escott: this works with some but not others
+ Aptana 3 (release) is one example
+ escott: ok thanks, but why firefox, I have no problems with ff
+ escott: Aptana Studio 3
+ escott: I did
+ escott: should I reinstall it on 11.04. I had it from 10.10
+ escott: hmm ok, guess I will have to use another ide for now
+ zeeegis: as of today
+ escott: I'd love to know that
+ I tried to change my computer name in /etc/hosts and /etc/hostname, rebooted and old name still there in natty. Did I miss something?

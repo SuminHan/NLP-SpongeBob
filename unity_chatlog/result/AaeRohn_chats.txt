@@ -1,0 +1,48 @@
+ *pokes around* My scanner isn't working... I got the driver and everything, and the printer part of it works, but it doesn't scan... can anyone help?
+ *pokes around* My scanner isn't working... I got the driver and everything, and the printer part of it works, but it doesn't scan... can anyone help?
+ anyone available to help with a printer/scanner issue?
+ well I did try a couple times... I have a Brother MFC-6490CW and the printer works fine, but the scanner does not... I have both the printer, and scanner drivers for this model for linux, but it still doesnt work
+ ActionParsnip, samtate: (in case you didnt see it, forgot to add names) well I did try a couple times... I have a Brother MFC-6490CW and the printer works fine, but the scanner does not... I have both the printer, and scanner drivers for this model for linux, but it still doesnt work
+ ActionParsnip: i686
+ ActionParsnip: the only drivers available for the printer/scanner, so yes
+ anyone who can help with scanner issue that's not being occupied with somoene else at the moment?... My scanner (MFC-6490CW) will not work with Simple Scan, or Xsane Image Scanner, even though I have all the drivers installed... this is part of my income, so I need the scanner to work
+ Rockj: that's a long list >.> *starts looking through for the scanner*
+ RockJ: okaaay... did so... but how is knowing what th emessages say help me get the scanner working?
+ Rockj: ok, now what?
+ Rockj: http://paste.ubuntu.com/601009/
+ Rockj: alright
+ Rockj: that's the printer driver I installed, there's also a scanner driver for my MFC, and both are installed, and it still doesnt work
+ Rockj: printer works perfectly, scanner doesnt
+ ohsix: do I still need to if it half-works? printer part of it works fine, the scanner part is what I'm having trouble with
+ ActionParsnip: I've had both printer and scanner drivers installed for a few days now
+ Rockj: checked, and nothing says scanner or printer... I am the only user on this computer
+ ActionParsnip: I've tried Simple Scan, Xsane Image Scanner, and GIMP
+ Rockj: no scanner group
+ ActionParsnip: only in the Xsane, "Invalid arguement"
+ Rockj: as I ad, it's been a few days with these drivers and MFC
+ as I said*
+ rockj: it detected
+ rockj: http://paste.ubuntu.com/601030/
+ rockj: there is no scanner group
+ Rockj: it says: device `brother3:bus7;dev1' is a Brother MFC-6490CW USB scanner
+ Rockj: scanimage: open of device brother3:bus7;dev1 failed: Invalid argument
+ Rockj: http://paste.ubuntu.com/601035/
+ http://paste.ubuntu.com/601037/
+ rockj:http://paste.ubuntu.com/601037/
+ rockj: I didnt have Ubuntu before, my Win XP crashed and I had no disc, and no money... so I got Ubuntu and upgraded as much as I could...
+ rockj: WinXP crashed and burned*
+ Rockj: I'll be back, I have to run something around the block
+ Rockj: same result
+ Rockj: I have the drivers for this MFC
+ Rockj: both the printer and scanner drivers from that place
+ Rockj: I got the 32 bit, the 64s are an invalid build
+ Rockj: http://paste.ubuntu.com/601044/
+ Rockj: pressing scan > select oputput type > start color or B&W
+ Rockj: aaand still nthing works
+ Rockj: nope, nothing
+ Rockj: I gotta run an errand, I'll be back and we can resume beating out heads on our desks about this
+ rockj: still here?
+ rockj: added lines, restart?
+ Rockj: added lines, saved, and still nothing
+ Rockj: eet works now :D
+ ROckj: thank you man, have a good one

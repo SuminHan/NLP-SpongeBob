@@ -1,0 +1,6 @@
+ chille, also have a look at Netbeans, less messy ;)
+ aLeSD, think you have to rename the binary of it, used that once when i tried fancy dock like panel
+ jozefk, have a look at compiz-config-manager
+ aLeSD, yes that's the one i tried once too (AWN), just renamed gnome-panel
+ jozefk, install compizconfig-settings-manager
+ jozefk, well that is a very advanced config program ;)

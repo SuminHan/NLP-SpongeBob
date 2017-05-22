@@ -1,0 +1,4 @@
+ so... i upgraded to natty, and now i can't install fglrx
+ or better, i can, but it doesn't boot :\
+ anyone had a similar experience?
+ zvacet, i tried that... but it errors out :(

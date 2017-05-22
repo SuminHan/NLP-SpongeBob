@@ -1,0 +1,9 @@
+ How do I access an external device in Narwhal?
+ External drive, i mean.
+ How do I access a usb drive in Narwhal?
+ ActionParsnip, it is plugged in, but then what? There's no "Places" in the taskbar and "files and folders" just includes Downloads, Music, etc.
+ and it's not displayed on the desktop
+ I didn't last use it on that computer. This is the first time I have plugged it in.
+ what's SUPPOSED to happen in narwhal?
+ Should Narwhal be showing my external drive on the desktop and when i click Files and Folders?
+ Considering it is recognized in the GNOME version

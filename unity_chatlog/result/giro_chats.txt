@@ -1,0 +1,9 @@
+ is there someone who knows how XFRM works?
+ sorry you're right
+ I'd like to know how XFRM (ip xfrm policy\state) check keys, if it does
+ checks*
+ because I need to add an SA (security association)
+ the outbound SA adding works fine
+ but the inbound SA adding doesn't work
+ do you have any idea?
+ no one could help me? do I have to be more clear?

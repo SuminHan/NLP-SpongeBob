@@ -1,0 +1,2 @@
+ hi, i've successfully installed ubuntu 11.04 on two computers but my third computer does not lot load correct grub2, it loads the old grub. what can i do?
+ im running the livecd of 11.04 and suddenly i can only use mouse, no more way of clicking windows etc. ideas?

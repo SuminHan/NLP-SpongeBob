@@ -1,0 +1,7 @@
+ is 64bit ok on 64cpu or better to use 32bit for better app compatibility?
+ is 64bit ok on 64cpu or better to use 32bit for better app compatibility?
+ let's just talk in general terms for any and all situations....
+ yes I know
+ so overall is 64bit pretty safe to use?
+ not going to use compiz but 64bit flash working?
+ ok thanks guys

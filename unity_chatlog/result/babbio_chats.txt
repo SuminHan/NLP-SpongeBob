@@ -1,0 +1,1 @@
+ Hi guys I've a problem connecting with svn+ssh, I can connect with ssh to my server but when I use svn+ssh I get the error message "ssh could not resolve hostname name or service not known" what can I do? thank you

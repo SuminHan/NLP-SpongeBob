@@ -1,0 +1,5 @@
+ is this the link to the release version of 11.04? http://cdimage.ubuntu.com/daily-live/current/natty-desktop-amd64.iso
+ or do I have to wait until it is released to ubuntu.com ?
+ ... I'm just excited to get 11.04 upgraded
+ does anyone know what time 11.04 will be up for download?
+ Hi, I have a Acer Aspire 4810T laptop, I press FN+LEFT to reduce screen brightness and FN+RIGHT to increase screen brightness. Since the update to Natty, the OSD appears, but brightness doesn't change ... :(

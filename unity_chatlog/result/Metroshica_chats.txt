@@ -1,0 +1,3 @@
+ how do you view contents of a zip file in command line?
+ 1. Thank you for referring me to the man page, I already know about it though and I couldn't find what I was looking for. 2. That command just unzips the file, I want to view the contents without unzipping
+ Well it's unzip -l, just found it

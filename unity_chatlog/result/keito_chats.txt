@@ -1,0 +1,2 @@
+ is there a command to open the gnome2 menu, that I can then assign to a screen edge?
+ I know alt+f1 opens the menu, but I still have no idea how to execute the same action via a single command

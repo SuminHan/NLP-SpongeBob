@@ -1,0 +1,24 @@
+ you need to install the plugins packages for compiz
+ anyone here use pyrit with the latest available kernel?
+ Dr_Willis, man up and use the real nvidia drivers
+ download mplayer plugin for firefox ShawnRisk
+ c4pt did compiz really break or did you not have a startup item for it anymore, like compiz.real --replace
+ strange, even with driver workingn still
+ c4pt, I would try recompiling my driver manually, since you probably are using a different one with an updated kernel
+ champ__ you were the one I meant to say download mplayer plugin for firefox
+ mkdri
+ mkdir I mean
+ yeah, your just enabling a plugin that it can't handle c4pt, you need to find out how to clear your plugin selections or remove, purge your compiz packages and replace
+ why does everyone insist on attempting to upgrade instead of reinstalling, your bound for trouble
+ bbiab?
+ you need to enable window decoration plugin c4pt
+ c4pt think a little, move windows plugin maybe?
+ Yeah, I only noticed it in my last install (having to re-enable all the plugins in compiz)
+ c4pt:  what?
+ c4pt did you enable the move windows plugin?
+ may need to also select resize window, etc.
+ rpk, maybe you need to setup port forwarding on your router
+ no problem
+ there are many different scenarios for that issue.  Are you trying a dns resolve?  Do you use dns services that need to be refreshed?  Maybe your public ip has changed, etc.
+ maybe you need to chown your apache directory or whatever service your running
+ you could just have the interface you want setup correctly in interfaces and then update-rc.d for networking

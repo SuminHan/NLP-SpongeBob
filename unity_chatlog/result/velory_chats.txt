@@ -1,0 +1,7 @@
+ Hello I'm using natty, I want to start Guake Terminal everytime I open ubuntu. But I couldn't find in preferences any idea ?
+ ardchoille:  thanks.
+ ardchoille:  and one more thing is, for e.g. f12 is opening volume like in Mac. But in Mac OSX I can change F keys to functions
+ can I do that here ?
+ ardchoille:  because now in guake I have to press shift + f12 instead of f12 :)
+ I changed it because f12 was only opening volume
+ k

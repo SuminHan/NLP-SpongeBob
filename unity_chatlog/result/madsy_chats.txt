@@ -1,0 +1,10 @@
+ I'd like to buy an external video recorder. Any recommendations that is guaranteed to work with Ubuntu over USB or Firewire?
+ rgr: Cinerella if possible.
+ rgr: But I don't plan to do a lot of editing anyway. I just want to record my desktop in HD without botching my processor.
+ rgr: As I mentioned, I use Cinerella when I need to edit video. Nothing else (for Linux) comes close in my opinion.
+ ohsix: Indeed. That's exactly why I want to stream video to an external device instead. Which was my initial question here.
+ ohsix: All of them.
+ ohsix: I havne't tried vnc2swf, but istanbul yes
+ ohsix: But it doesn't really matter much which software I use. Recording in 1280x800 is too work intensive for my laptop.
+ ohsix: The best solution would be to record from my DVI port with an external device
+ ohsix: Yes, and that was my question. Suggestions for devices that can record video from DVI, VGA, USB or Firewire. Which works on Ubuntu

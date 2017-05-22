@@ -1,0 +1,11 @@
+ I'm considering switching from maverick to natty.  Would I be better off with a fresh install from scratch, or upgrading (obviously will be backing up everything in either case)
+ kyubutsu, why torrent?
+ binox, the jscal package is listed as in the maverick repo here :http://manpages.ubuntu.com/manpages/maverick/man1/jscal.1.html
+ np
+ kneaux, if you state your specific problem, if someone can help, they will
+ popo: gimp
+ it's great
+ popo, you can find apps that do most things you's need in the software center under applications==>Ubuntu software center.  Many windows specific apps can be run under wine
+ Abhijit, you can change it's sampling rate under settings
+ Abhijit, under adjustments tab, calculation rate I think
+ galacia, for running exe's on linux you'll need wine, and their support channel is #winehq

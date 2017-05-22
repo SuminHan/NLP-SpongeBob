@@ -1,0 +1,11 @@
+ Still cannot get this chat applet to load.
+ http://pastebin.com/zntiBqn1
+ Hey guys, im kickin myself with this, cannot get javaapplet to load.
+ http://pastebin.com/zntiBqn1
+ Any help?
+ Third time asking help for this. Java chat applet error. Have Ubuntu 10.10, went with icedtea web plug-in, did not work. All java web plugins installed and certs are configured. Here is the error.
+ http://pastebin.com/Lh3AG4dP
+ Anyone? Bueller? Anyone?
+ xangua: have asked three times man
+ xangua:you read my pastebin? Make any sense of it?
+ My java chat applet web plug-in does not work, was wondering if anyone knows about this problem?

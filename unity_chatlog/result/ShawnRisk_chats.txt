@@ -1,0 +1,2 @@
+ I am using 11.04 and there are a few adjustments I want to make but can't figure out how.  First how do I remove the dock on the left side, and leave just which windows are open?
+ ActionParsnip: I can't do this with the current one?

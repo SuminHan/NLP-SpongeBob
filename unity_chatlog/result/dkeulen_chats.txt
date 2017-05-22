@@ -1,0 +1,5 @@
+ hey all, anyone could help me with a vnc problem with 11.04?
+ anyone knows wat the problem could be with vnc not showing the windows on 11.04
+ anyone knows why vnc to ubuntu 11.04 is not working? i see my desktop but nothing is responding when i click on it
+ anyone knows why vnc to ubuntu 11.04 is not working? i see my desktop but nothing is responding when i click on it
+ how can nobody knows this freaking bug is alive since v8 by google

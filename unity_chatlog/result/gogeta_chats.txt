@@ -1,0 +1,94 @@
+ probl couse unity is fail and we all are running other distros
+ phoenixsampras: well your better running something like kde these days gtk itsself  has gone downhill after gnome 2 however there is a remix of ubuntu out thats uses gnome 2 on 11.04
+ 64bit makes sense with anything more then 3gb
+ blame flash for being crashy
+ Fodi69: unity is fail but shhh
+ Fodi69: couse cannel cant let go of gtk
+ jiltdil: no but gnome 3 is fail to sooo
+ Fodi69: its been buggy and unstable sense the day they launched it in 10.10
+ step21: better they fork gnome 2 call it there own
+ step21: rather then trainwreck the distro with unity
+ hey does btrfs still need a ext4 boot
+ jdahm: nooo please dont say lies like that
+ diegoviola: no
+ diegoviola: 11.10
+ diegoviola: maybe
+ diegoviola: not set in stone yet
+ jdahm: i run kde now soo you can see my thoughts on both of them
+ jdeslaur_: not 4.6 yea i hated kde 3 man it was junk
+ zachgretzinger: your just packing the jar file into a deb doing that
+ zachgretzinger: umm thers no trick your thinking of a launcher
+ zachgretzinger: bascily a script along with the jar file to make a menu shortcut and stuff
+ zachgretzinger: well you can make a sh script with any icons and use that script to start the jar
+ tase: nope relesed and total fail
+ wip would mean its not defult
+ soreau: hehe why im sporting kde now
+ fcuk112: i would say turn off compiz but unity screws you there its forced
+ a7ndrew: you are now
+ ohsix: naa they fell off with the tablet market
+ ohsix: desktops and labbys are still the biggest sellers
+ ohsix: naa that was when they first came out its slowed down alot
+ ohsix: being everyone owns one now heh
+ ohsix: yea tablets are takeing off
+ ohsix: iv seen a few omap on ebay the launch ones
+ soreau: cough kde
+ m1ck3y: the repos are flodded so it may just be slowness of the internet
+ PovAddict: there is
+ PovAddict: just not a offical kindda like lubuntu isnt
+ PovAddict: the lxde varent
+ PovAddict: http://ugr.teampr0xy.net/
+ taglass: its unity bascily a relly relly bad ui
+ taglass: that uses gnome
+ yes and the shell is everything
+ the rest is just gtk
+ Herbs: why did gnome and cannel decide to screw up gnome
+ Herbs: questions with no answers there
+ ohsix: gnome shell and unity both sucking
+ ohsix: fork gnome 2 problem fixed
+ ohsix: becouse gnome 3 droped metacity and are using gnome shell
+ ohsix: well i dont care anyways its just gonna spell doom for gtk
+ ohsix: you think that
+ ohsix: gtk is part of the gnome ui and if people dump gnome in mass due to unity and gnome shell everyone will start uing anything else
+ ohsix: acully they did when kde whent downhill and gnome got good
+ ohsix: same for e17
+ ohsix: i have been around longer then you think
+ ohsix: or even xfree
+ ohsix: they all had there high  useage times
+ extraclassic: yes pretty nice
+ extraclassic: using it on my netbook
+ ohsix: what hat my netbook runs kde plasma
+ that
+ ohsix: thats after i ripped out unity
+ arand_: what abought btrfs?
+ spungo: communty help no cannel
+ arand: wow i asked that like forever ago
+ arand: so it can be a pure root fs now grub2 finnly supports it
+ arand: i did a diffrent hack to install os on compressed fs
+ arand: full kubuntu install btrfs compressed 1.2 gb
+ arand: still bootable?
+ arand: well i made a 100mb ext4 anyways
+ arand: being i never got a answer
+ arand: but with the zlib enabled i got more space outta my ssd anyways
+ arand: its it takes a hack to do it bascily as soon as the installer make the part you remount it with the compression flage
+ arand: its aculy very responsiv
+ arand: better then when it was uncompressed
+ arand: naa the installer does a few things before it acully copys files just do it then
+ arand: it doesent notec the swap out
+ arand: in fedora you can just add the flage ubuntu hasent added it yet
+ arand: so after install you gotta add the flage back to fstab as well
+ arand: but it works
+ arand: well ill try to install on a zlib compressed root grub2 and see if the system explodes
+ arand: ill be compressing everything now even the kernel
+ arand: just a test heh
+ arand: test machine'
+ arand: i kneo it work fine with grub2 having a ext4 boot
+ ohsix: yea i wasent having a issue i got the entire os compressed in a sabble state
+ ohsix: gonna see if grub blows up in my face if i put it in zlib compression as well
+ arand: gotta admit the entire os installed at 1.2gb is impressiv
+ arand: for a 4gb ssd
+ arand: zlib compressed btrfs root install no error other then the one you said would happon
+ Herbs: lol the is your free speech is limited to the ops wims
+ irc
+ death to unity
+ lol
+ Icallitvera: kubuntu

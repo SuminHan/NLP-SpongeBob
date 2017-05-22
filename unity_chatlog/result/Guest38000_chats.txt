@@ -1,0 +1,1 @@
+ Hi, guys. I want to configure on Ubuntu Server 10.10 Wi-Fi access point. Adapter is plugged in lsusb it is visible. Tell me if there is a program that provides WEB INTERFACE to easily setup and manage Wi-Fi to the client computers. To make it similar to the Web Interface for routers.

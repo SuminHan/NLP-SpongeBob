@@ -1,0 +1,14 @@
+ does ubuntu have python 2.7 on repositories?
+ I'm running 10.04 LTS
+ is it available for that
+ I know python 2.6.5 is for lucid. why isn't only available for unity and lucid
+ I mean not lucid
+ that make sense
+ right
+ ok
+ thank you
+ i'll try it out
+ thank you
+ for android development in ubuntu, is it better to do the plugin for eclipse or the actual sdk
+ that is what I thought
+ I just want to make sure. Thank you

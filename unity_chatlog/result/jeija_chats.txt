@@ -1,0 +1,13 @@
+ cool-RR: it works in the latest virtualbox version i think
+ cool-RR: http://www.omgubuntu.co.uk/2011/04/heads-up-unity-working-with-the-lastest-virtualbox/
+ ray: you could user the super grub disk
+ you could use gnome tweak
+ there aren't many options for gnome 3
+ preyas: have a look at this: http://blog.fpmurphy.com/2011/03/customizing-the-gnome-3-shell.html
+ most parts should also work for ubuntu
+ especially the gnome3 tweak section
+ preyas, do you mean ubuntu tweak or gnome 3 tweak?
+ oussama: if you want to fix your system from a live cd, you chroot in to the system
+ gac: you could try to fix it with the super grub cd or the ubuntu live cd
+ gac: are you sure both drives are plugged in at the moment?
+ eddie_: xfce, lxde. kde (won't break unity) gnome 3 (will break unity), classic gnome (at login)

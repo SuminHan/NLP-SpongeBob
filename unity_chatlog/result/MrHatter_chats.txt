@@ -1,0 +1,7 @@
+ i just upgraded my desktop to 11.04 and now i can move the mouse around but nothing works. no buttons, no keyboard, nada.
+ upgrade to 11.04, no keystrokes or mouse buttons, anyone know where i can start ?
+ compubomb, dont do it!
+ compubomb, well it just hosed my system.
+ compubomb, mine was an ordinary default system too. now i have to figure out how to fix it.
+ shiftingcontrol, hell would reign down.
+ i just upgraded to 11.04 and have know desktop input, ctrl-alt-f2 works, but nothing on the desktop, mouse moves around, but no clicking or keyboard stuff. where do i start ???

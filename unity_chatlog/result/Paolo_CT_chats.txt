@@ -1,0 +1,22 @@
+ HI there, the link to download the 11.04 Netbook version (Torrent) is broken
+ This is the link: http://releases.ubuntu.com/11.04/ubuntu-11.04-netbook-i386.iso.torrent
+ Hello everyone
+ I been using Ubuntu since 8.04 and I was so happy to upgrade to 11.04, but after that is been just problems, I ....(lol, just had a weird behavior with empathy). Every time I use LibreOffice, my netbook with totally freeze (Not even able to change to a tti), and like five other bugs. Well after saying it, I dont know if I should go back to 10.10 or just wait (and stop using libreoffice :p)
+ tepster: No, I just upgrade saturday, and been way to busy (The main reason I was unhappy with libreoffice was that It frozze will writting my tesis <,/ lost like an hour), I will try reinstalling
+ This is weird, second time that happened (In empathy) will I write, and the line end, I cannot keep writting, and had to resize window to continue
+ I dont know if there is a lot of people having bugs, or might that be with my computer
+ I have a Samsung Netbok
+ Other thing, I cant change between windows with ALT+TAB anymore, is there a way to change that to work again=
+ tepster: Oh, that is kinda good (Because is not just me), in the unity search thingy if I try to use tild ( example.  ó) I will get ´o
+ tepster: And I cant get a tild with any other combination
+ tepster: Im really thinking of going back to 10.10, but I kinda like unity as a concept
+ :(
+ tepster: Wow, this is annoying, empathy is not working right with my netbook resolution.
+ You have a good point, will try with a fresh install
+ LittleRed: I install in a Samsung Netbook, but my experience wasnt good
+ Reinstall time, later all
+ Wow, definetly, I needed a fresh install, now almost every bug I was having is gonne (Upgrading from 10.10 to 11.04 gave me way to many bugs)
+ tepster: THe ALT+TAB works, the problems with empathy are gonne, but I still got a problem with the tild in the unity search
+ tepster: Anyway, now I will install, Im running it in test mode
+ tepster: I will go ask in ubuntu-es about the tild bug
+ dagon: why=

@@ -1,0 +1,30 @@
+ how do I add remmina to the panel on 11.04? Or how do you add anything to the panel
+ How do you add somethign to the panel in natty?
+ How do you add something to the panel in natty?
+ ActionParsnip: the top panel
+ ActionParsnip: I want to add Remminal to the top panel
+ ActionParsnip: s/Remminal/Remmina/
+ ActionParsnip: Thanks, I really liked having all of my rdesktop servers in one list. I will look for something else.
+ other_max: do a USB stick install
+ other_max: there is program that will help, but I can't think of it. Give me a second...
+ other_max: http://unetbootin.sourceforge.net/
+ other_max: I think there might have been a bug I remember. When prompted, don't just hit enter, go into the menu and choose the default. That seems like how I  got around it
+ Is Virtualbox-ose not available for natty? I don't see the repo listed on virtualbox's site
+ How do you change an icon on the unity panel?
+ Is Google Chrome working on Natty? I get an error when trying to install the .deb
+ jiohdi: I didn't know it was in local repos, I will try
+ Samsagax: I need 64 bit version
+ I think natty is going to make me want to do more stuff in the console
+ kdubois: so true
+ jiohdi: it says google chrome 32 bit does not match my amd64 system and won't install
+ Anyone here know much about remmina?
+ It seems like the password hashes are not the same for all bookmarks now, which means all of my saved files are broken
+ For anyone who rdesktops into a lot of windows servers, what do you use instead of remmina?
+ Anyone know where I can download a .deb of shc for natty?
+ My touchpad stops working on my thinkpad, there was a bug but it says it was fixed. Is there a way to restart the touchpad services?
+ Is there a way to restart the touchpad on a laptop?
+ AFD: Are you using Natty?
+ AFD: remove the repo for nilarimongard and then apt-get update
+ Is anyone aware of a simple network load balance router project?
+ My touchpad on my thiknpad stops working
+ My touchpad on my thiknpad stops working, is there a way to restart it so I can work on figuring out why it stops?

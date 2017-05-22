@@ -1,0 +1,8 @@
+ So I just installed slim login mgr and rebooted in 11.04 and the menu is not loading
+ unity-2d-panel: [CRITICAL] Gtk: IA__gtk_widget_size_request: assertion `GTK_IS_WIDGET (widget)' failed
+ any ideas on that?
+ ShockDoc, install startupmanager and uncheck show splash
+ hmm
+ it should all be logged in messages
+ just type dmesg
+ brb, rebooting

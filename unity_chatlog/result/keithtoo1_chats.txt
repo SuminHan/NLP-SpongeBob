@@ -1,0 +1,2 @@
+ rubydiamond: gateway and dns servers are usually listed on your router/modem config screen
+ sure - I love networking problems

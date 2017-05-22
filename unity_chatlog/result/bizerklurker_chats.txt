@@ -1,0 +1,29 @@
+ Every time I login, I get the same default icons despite removing them and adding new ones ( by right-clicking on apps like skype and pressing "keep in launcher.") I hope I have explained my problem thoroughly - I am a ubuntun00b. Is this just a bug, is it fixable, or am I missing something here?
+ how do I get my launcher icons to stop reverting to default upon every login in unity?
+ how do I get my launcher icons to stop reverting to default upon every login in unity?
+ how do I get my launcher icons to stop reverting to default upon every login in unity?
+ how do I get my launcher icons to stop reverting to default upon every login in unity?
+ how do I get my launcher icons to stop reverting to default upon every login in unity?
+ how do I get my launcher icons to stop reverting to default upon every login in unity?
+ how do I get my launcher icons to stop reverting to default upon every login in unity?
+ the question to answer ratio 10 : 1
+ coz, yes
+ coz_, okay. thank you.
+ how do I get my launcher icons to stop reverting to default upon every login in unity?
+ Can someone please answer my question?: https://answers.launchpad.net/ubuntu/+question/154875
+ https://answers.launchpad.net/ubuntu/+question/154875
+ can someone please answer my question https://answers.launchpad.net/ubuntu/+question/154875
+ Every time I login, I get the same default icons despite removing them and adding new ones ( by right-clicking on apps like skype and pressing "keep in launcher.") I hope I have explained my problem thoroughly - I am a ubuntun00b. Is this just a bug, is it fixable, or am I missing something here?
+ Can someone tell me why my launcher icons revert to default upon login?
+ I'm using Unity
+ Launcher Icons Revert to Default Upon Login
+ mikinanuq er... I can't log in with root...
+ mikinanuq after ctrl alt f1
+ mikinanuq I already created a new unix password
+ mikinanuq I don't know why I can't log in as root
+ mikinanuq do I just type sudo cd /home? I did that. I types in the password and it said it was wrong.
+ I just logged out of nowhere
+ mikinanuq sorry it logged me out out of nowhere.
+ mikinanuq you said sudo su.... what?
+ mikinanuq I kind of lost you there
+ mikinanuq sorry to bother... thanks you

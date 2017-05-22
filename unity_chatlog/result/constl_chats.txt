@@ -1,0 +1,19 @@
+ Can you suggest a nice video editing application?
+ Thanks guys
+ Does an upgrade from 10.10 to 11.04 is a good practise for the long run or a fresh install of the latest release is the best practise? I mean is there any clutter left behind after the upgrade?
+ Dr_Willis: What about installed applications? I'm just trying linux and not sure what method to choose for fully replacing my windows
+ Krishnandu: If you boot with the CD should give you the option to upgrade/install ?
+ Krishnandu: Why dont you try the CD first?
+ Do you need swap if you have 4 GiB of memory ?
+ Incarus6: Im not using swap (as Im aware of) and can suspend just fine. Maybe it has to do with how many open applications you have?
+ The empathy irc channel keeps changing its size as my sentence gets bigger. Anyone else experiencing the same?
+ Mole: When you login you are given at the bottom the option to chose which environment to use
+ Isn't there any functionality like expose in the new Unity desktop ? (or any plugin mechanism...)
+ sweb: Tomorrow
+ ravi: You are wrong sir
+ ravi: You first
+ kde is faster than gnome?
+ mstef: It worked for me but gave me a bit of trouble at the beginning
+ I've just an ubuntu natty on my network but can't actually ping it from the other pcs using its hostname (ping does work). Any tips?
+ How can you activate proprietary drivers for graphics cards? On the "additional drivers" i can see that ubuntu recommends one but it's not actually activated
+ or actually it is "activated but not currenlty in use"

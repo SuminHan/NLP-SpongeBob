@@ -1,0 +1,43 @@
+ hi.  where can I see the list of startup services upon booting the OS?
+ where can I see the list of startup services upon booting the OS?
+ where can I see the list of startup services upon booting the OS?
+ what's the restart command in ubuntu?
+ not found
+ -su: /sbin/restart: No such file or directory
+ i'm root.
+ Flashtek, to restart the OS
+ there is no shutdown command
+ (its a virtual serveR)
+ not able to restart it!
+ Flashtek, no shutdown cmd
+ root@vps:~# chroot /mnt/tmp/root, chroot: cannot run command `/bin/bash': No such file or directory <-- how can i deal with that?
+ /bin/bash exists
+ root@vps:~# chroot /mnt/tmp/root, chroot: cannot run command `/bin/bash': No such file or directory <-- how can i deal with that? /bin/bash exists!
+ hi. i'm doing: root@vps:~# chroot /mnt/tmp/root, chroot: cannot run command `/bin/bash': No such file or directory <-- how can i deal with that? /bin/bash exists!
+ now that i did chroot .. how can I check why the box wasn't booting .. someone apparently installed upstart and removed it .. broke things
+ someone installed upstart and removed it .. the system hangs at booting .. is there a way to revert things to before upstart was installed?
+ sorry?
+ terry, yes
+ terry, how can i test if the booting sequence is ok?
+ terry, i managed to boot: "The rescue mode installs a temporary Slackware distro on a separate partition, gives it your IP,and then mounts your main disk to make it available:"
+ terry, is there a boot log somewhere in ubuntu?
+ just wana see where it hangs
+ i chrooted into the install
+ terry, upstart wasnt there .. and the system was booting until it was installed
+ until it was installed/uninstalled
+ pfifo, terry, http://pastebin.com/pc6qrj5h
+ how can i know which version of ubuntu i'm running.  uname -a doesnt give it
+ 9.04
+ Errors were encountered while processing:
+  upstart
+ root@vps:/# dpkg -i upstart, dpkg: error processing upstart (--install): cannot access archive: No such file or directory, Errors were encountered while processing: upstart
+ i have: deb http://archive.ubuntu.com/ubuntu maverick main, deb http://security.ubuntu.com/ubuntu maverick-security main, what to add more?  i want to install rcconf
+ what sources should i have in sources.lst
+ what sources should i have in sources.lst
+ sources.list*
+ terry, 10.10 now
+ terry, and i only have 2 sources ..
+ terry, im doing this through console
+ terry, this is a remote server and not my desktop .. no gui .. only command line
+ terry, it only has 2 records: deb http://archive.ubuntu.com/ubuntu maverick main, deb http://security.ubuntu.com/ubuntu maverick-security main
+ terry, what sources do i need to add so that i can install say svn,rcconf etc

@@ -1,0 +1,9 @@
+ Hello all
+ I'm having a lot of problems with the repositories in 11.04
+ a lot of indexes aren't found, so a lot of packages are not present
+ i.e. Err http://ppa.launchpad.net natty/main amd64 Packages
+   404  Not Found
+ could someone please share a working sources.list for 11.04 with me using pastebin?
+ Hello
+ I'm suffering an error trying to install gnome3
+ http://pastebin.com/nub31ru9

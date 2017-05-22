@@ -1,0 +1,8 @@
+ hi, the fan of my thinkpad t60 running ubuntu 10.4 is always on, any ideas what to do?  some time ago it was turning off wen the temperature was low enough
+ hi, the fan of my thinkpad t60 running ubuntu 10.4 is always on, any ideas what to do?  some time ago it was turning off wen the temperature was low enough
+ hey, my terminal currently looks like this http://imagebin.org/151658
+ and ideas how to revert this?
+ I have no idea how that happened, I just turned on the pc and it looked like this :(
+ I tried rebooting but it didn't help either
+ usr13: it's urxct
+ usr13: actually it's  "urxvt +tr -tint black -sh 25 -tn rxvt-unicode"

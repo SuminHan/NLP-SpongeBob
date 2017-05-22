@@ -1,0 +1,7 @@
+ I tried an update, didn't get many updates at all.. like 700kb
+ thanks arand
+ Didn't find any upgrades, suppose my system is up-to-date
+ bkerensa, many people are updating now perhaps
+ euthymos, you can't move the launcher from what I can gather.
+ euthymos, you can change the behavious using CCSM
+ !ccsm

@@ -1,0 +1,393 @@
+ is natty as buggy as was predicted?
+ thegoodcushion: go HP
+ paranox: move to your Mom's basement.
+ Black_Phantom: and then demended he justified his Q.
+ crikey, what a noise. No wonder Ubuntu is considered the fanboi distro.
+ someone told me 64 bit was 100% as good as 32 bit. Is that not true?
+ jrib: not according to jus about every google I have done. Wishful thinking.
+ jrib: works for you. ok. Well the facts are that it doesnt for many others. And to say otherwise is misleading and dishonest.
+ nonsense
+ about everything you have said. It does not work fine for everyone. And a prooerly configured flash should NOT hog the cpu.
+ even a cursory google shows there to be hundreds if not thousands of people with Flash issues in 64 bit and/or Ubuntu in general. Frequently down to video drivers and xorg configs.
+ For you.
+ Not for many others.
+ Why do you continue to talk nonsense. It does not work "fine" for everyone.
+ And flash works fine on some linu distros and not on others.
+ jrib: are you being serious? Even people in this irc channel have reported issues. 2 fps is NOT "running fine".
+ jatt: yes, thats more my opinion. But I dont see the need for msot people to use 32 bit. It can often hog more resources with no notable performance increase too.
+ s/32/64
+ if you really need 16 gigs then yes
+ then it makes sense.
+ jaredquinn: huh? Of course it is.
+ this machine is 64 bit and is 4 years old with 3 gigs. Cant imageine ever needing more ram on it with a Debian install but then I dont run VMs that often.
+ Whats the general feeling about Unity? Is it easy to turn off?
+ unity is gnoe isnt it?
+ I thought it was a new WM for gnome. Oh well!
+ crikey. How ridiculous. A whole new DE? Are they releasing their own desktop apps as well?
+ eek
+ jaredquinn: it will mother all the different DE apps to look and life the same? Ha. I will believe that when I see it.
+ s/life/feel
+ ikonia: what are you talking about? He didnt swear.
+ No he didn't.
+ ban him! ;)
+ why would chipsets be buggy with unity?
+ DirtyDawg: thats a surprise on release day.
+ karlhunt: which drivers?
+ Eduard: nvidia issues? have you used sgfxi?
+ There is a terrible tendency for those that offer the least help in this group to be the ones popping in with the most net nannying. Its very sad.
+ Eduard: I had issues with liquorix kernels with nvidia too. I dropped the liquorix usage as a result.
+ Intel graphics?
+ good luck with that..
+ one in a hundred is pretty good for a Ubuntu release.
+ Flynsarmy: you wouldnt think to check the login dialog options?
+ its far more than appearance its the entire DE.
+ because Ubuntu is branching more and more from mainline Linux desktops.
+ html_inprogress: a buggy attempt by canonical to tie people to Ubuntu.
+ Pici: he asked a Q as to what unity is. I answered.
+ z0mbyk1d: google. "&".
+ yes. #bash.
+ Incarus6: you're German?
+ Looks like dependency issues from here.
+ html_inprogress: what are you ranting about? Whats ms got to to with it? I am a FOSS programmer.
+ is ubuntu with Unity as a default called UUbuntu? Ubuntu by definition is a gnome distro.
+ No. They should leave it as it is and give a special name to the Unity distro.
+ bazhang: we are discussing ubuntu issues. Unity is one such.
+ Why is it that the people with the least to contribute are the ones that chuck around the ops threats and power the most. Everything was perfectly friendly.
+ its not obsolete at all
+ obsix : there are loads of bugs.
+ ohsix: You would be correct on the former. Stop misleading people. There are oodles of cases where an xorf.conf is required. It is not true to say its obsolete.
+ ohsix: this is simply not true.
+ ohsix:  then you dont know what youre talking about.
+ xorg.conf contains a lot more than nvidia info and xrandr doesnt work on many cards.
+ and if you set up multiple mointor then the nvidia settings writes to xorg.cof still. You're talking through your arse.
+ Look, I use use nvidia for years on multi monitor. I know you're wrong.
+ ohsix: it is the users problem.
+ lucas: bottom line is that xorg.conf is NOT obsolete. There are cases where you can get by without one. Its still a transition time. Idiots saying "blame nvidia" are on a moral crusade and not one to actually help you.
+ lucas: nouveau is garbage compared to the ndiai one. Look up using sgfxi for your nvidia setup.
+ ActionParsnip: ohsix is talking nonsense. In many many many cases you need an xorg.conf. It is NOT obsolete : end of story.
+ Ah ok, I cant stand people misleading others in a help channel as he is doing.
+ lucas: sane as. I write code for FSF but I use what works.
+ daniel__: ipv6 possibly.
+ daniel__: google
+ I told him what area to look for. ipv6.
+ daniel__: who knows. I dont know the details. Look up ipv6 issues with Ubuntu. It *might* be the issue. I am merely giving you a pointer. ipv6 often fubars debian and ubuntu updates.
+ naoko: its logged as a bug already. google xchat minimised.
+ http://fossplanet.com/f10/[bug-772524]-re-when-minimising-xchat-xchat-gnome-unity-icondisappears-143124/
+ truepurple: explain your needs. else read the wiki.
+ what wiki? google ubuntu video drivers. There are umpteen sources. Asking for an entire descritpion in #irc is a little optimistic.
+ depends on card type for a start
+ dijonyummy: have you looked at the Ubuntu supprot forums? There are oodles of issues.
+ ditto here. NVidia all the way for me.
+ cmb151:  what card do you have?
+ get a cheap alternative much easier if you can.
+ if alsa is borked with your card you are entering support hell IMO. Get something that works.
+ why remove it at all?
+ nsahoo: an upgrade of what to what?
+ coreire: whats OSen? And why?
+ s/whats/what
+ wow, the same old issue from when I first tried Ubuntu 5 years ago. LOL. What a crock.
+ install windows first. then the Linuxes. The run sudo update-grub for it to find win 7.
+ well, that worked for me with debian and win 7.
+ what does "break" mean in this context?
+ you sure you're not overwriting partitions?
+ well, you're optimisitc using a typically buggy pos release like 11.04 with multi boot imo. It might and probably does screw up your partitions on install ;)
+ Nesto: what have you tried? Have you run firestarter?
+ coreire: Ubuntu releases are a farce.
+ how did you try to connect?
+ try ssh directly
+ enable port 22 of course.
+ as for "firestarter" - google it
+ truepurple: who told you that? The same bull artist who told people that xorg.conf is defunct ?
+ kpoman: stop reteating
+ rpeating
+ truepurple: who told you that? LOL!
+ truepurple: so use google and check for yourself. Never accept blindly in somewhere like a Linux channel. There are too many clueless zealots with a political eganda. Seriously.
+ truepurple: is it a laptop?
+ who triggered that bot? This IS Ubuntu support.
+ Well, if you're such a noob then I suggest nvidia over ati. but good luck anyway.
+ truepurple: of course.
+ but earlier you seemed unaware that there is a wiki dedicated to video issues. Try it.
+ a lot is trial and error and hard work.
+ j_anon1: plug it on and browse...
+ I already gave the google string. Its really not hard.
+ SpockSpork: left? right? both? middle button?
+ yes, my crystal can see that...
+ codex84: select it from the login dialog or?
+ hopefully you didnt upgrade. You would be mad to trust a Ubuntu upgrade.
+ canthus13: if he can see his wallpaper then gdm has started.
+ codex84: have you restarted?
+ you mean C-alt-f1?
+ Its ludicrous to release such buggy crap on poor users regardless of state.
+ codex84: sounds like your system is hosed. But you DO see your wallpaper indicating the video works,
+ and change it?!?! How do you change it if "nothing works"?
+ Julie972: you're not a girl.
+ so what? Expect special treatmenmt? ;) my bet is a fat buy in the celler...
+ kz3: read this channel. If you upgrade to 11-04 you're nuts.
+ "sudo mountall"!?
+ lol, I didnt expect it to be this bad a release. Wow. The support forums are totally overrun. Why oh why do they release such crap on a fixed date rather than a properly tested stable base? Silly.
+ Why is unity tied in with Compiz? Must it use 3d wobbles or what?
+ I cant help but wonder why Canonical took it on themsleves to make the default Unity which in turn puts huge HW/Driver match issue in front of people who simply want to stick with their "classic" Gnome. Its nothing short of incompetent. Many people have upgraded and now get no desktop at all becuase of Unity/Compiz issues.
+ gmachine_24: look up laptop mode
+ and powertop
+ in google of course withe word "ubuntu".
+ powertop is real nice
+ Chrom_: why not check the bug lists. Wouldnt that be the smart thing to do?
+ gmachine_24: ok, then guess. google can help. Its not a monster.
+ Chrom_: right, and so are most people here. But if you use Linux then it shouldnt be beyond your cinompetence to search the bug lists if you want to know if something is already logged.
+ Bubbblebutt: just ask.
+ Chrom_: I mean check.
+ it takes as long to google "ubuntu bug *problem" as it does to ask here you know ;) if you want something explained then ask here.
+ GuyCanada: sudo /etc/init.d/gdm restart
+ then its probably not known...
+ Bubbblebutt: welcome to a Ubuntu upgade. My advice? Ditch it and reinstall from scratch.
+ Bubbblebutt: as it sounds really hosed.
+ przemoReX: maybe ask in #eclipse
+ not really. slim it down yourself when you know its working.
+ one thing often suggested is xfce etc but I dont recommend that route necessarily.
+ the problem above
+ unity is gnome I was told yesterday...
+ Chrom_: dbus issues?
+ Chrom_: dmesg maybe
+ Just a suggestion. Same issues each time with ubuntu.
+ pmitros: shhh. The fanbois will ban you...
+ yes it is
+ _Neytiri_: http://www.google.de/search?q=unmount+drive+from+cli+ubuntu   my pleasure
+ s33k: take all that advice with a large pinch of salt. They dont have to be mounted in /mnt for a start when copying the files.
+ jbicha: I didnt, but thanks for poking your nose in.
+ I gave him the actual list of answers that are easily googled.
+ rtfm is rude. "google this simple phrase" is not.
+ how to umount from a cli is not specfic or complex.
+ terry: that has been discussed I thought. a Fuse file.
+ jbicha: are you here to net nanny or help? I ask because I am in the process of contributing constructively to about three threads.
+ once again : suggesting people google simple Qs is not rtfm
+ hihihi100: see applications?
+ glaceon_: did you set up ssh keys?
+ _Neytiri_: yes there is.
+ glaceon_: no, you need to read the tutorials and man pages.
+ glaceon_: ssh isnt trivial when you start. And you need to be sure you do it properly or you will leave your sytsem open.
+ glaceon_: guess. The internet.
+ glaceon_: http://www.google.de/search?&q=ubuntu+ssh
+ ssh is really great and worth mstering.
+ oCean: please re-read.
+ I gave him the correct google string. UNless you think here is the place to list the entire how to on setting ssh up.
+ oCean: clearly they dont.
+ that is not better for a noob
+ ssh is mire complex than just the ssh comman itself.
+ it needs to be thought about and planned and in conjunction with things like gpg-agent or seahorse etc.
+ ohsix: we discussed you butting in yesterday when you were incorrect about xorg.conf.
+ glaceon : here https://help.ubuntu.com/community/SSH/OpenSSH/Keys
+ no. Please re-read them piggy backing and then what I actually said and not what they are claiming. I didt just send people to google. I providied working search queries and solid links.
+ and the google was one in ten help replies.
+ Its a really really bad idea doing the equivalent of a net install on release week.
+ Sledge: C-a-f7 probably
+ mstef: you paste in into pastebin the detailed message you actually got indicating what HW is deemed not to work for a start. People cant not guess.
+ stefg: ++ on thinkpads. Asus run debian well too so I guess probably Ubuntu too.
+ Sledge: no. That does nothing whatsoever unless you put in defaults again.
+ mstef: nothing in the logs?
+ mstef: possibly dmesg. /var/log/syslog. google up the details for Ubuntu system logging.
+ muneeb: I dont know.
+ "doesnt work" is not a lot to go on.
+ switching back and forther wont remove his defaults. He needs top reinstall his default config files.
+ p_ahuja: what problem? I saw one of the "regs" telling you 10.10 was not relevant but missed what went before.
+ madsy: what SW do you intend to use with it out of curiosity? most SW i looked at for use with video editing on my Linux desktop was simple awful.
+ madsy: yeah, most of the screen capture utils for X are pretty rubbish : especially with xmonad as a WM. Did you find any decent annottion SW by any chance for adding text to a screen capture?
+ p_ahuja: your java version?
+ did you not install as root?
+ I dont know I must admit.
+ ah yes
+ d3tour: if you want to really impress your friends use ffmpeg too ...
+ rach0: thats doesnt replace config files
+ writing a plugin ... or, just maybe, use another app ...
+ stravant: you would be silly to assume that. It could still be one of many things not least inter process messaging over dbus.
+ Froq: what "x11 command"?
+ do you mean using x forwarding?
+ why not use a terminal one like irssi? Much better and faster.
+ [thor]: yes. Stay away from intel graphics at all costs. I had AWFUL performance on my thinkpads with intel.
+ [thor]: sorry, mind warp. I was just looking at another video issue.
+ [thor]: are you sure the nvidia driver is loaded? (silly Q I know but best to check).
+ Have you considered trying sgfxi?
+ [thor]: consider sgfxi. I dont know, but you never know.
+ C mostly in Linux world...
+ very rarely assembler.
+ Froq: the internet.
+ or you can install it.
+ alone08: no. not from kernel.org at all.
+ ubuntu has a patched kernel.
+ learn to use the help facilities your desktop has too. open synaptic and search.
+ IdleOne: please mind your own business or READ what I said.
+ I corrected the WRONG answers and then suggested using SYNAPTIC!
+ IdleOne: once more. Please read what I typed. I did NOT refer him to google. I corrected tge wrong answers and suggsted he use Synaptic. This is helpful.
+ gurmal: whats with the underscores?
+ Or use synaptic and search.
+ there is no shame in using the gui tool. Its there for a reason and can show you related packages very easily.
+ greg__: what are you trying to install exactly?
+ herol3oy: this is really a great resource - https://help.ubuntu.com/community/SSH/OpenSSH/Keys
+ it explains the setup well
+ akashm1990: you might need to sudo update-grub after installing to get win7 back in to grub,
+ carandraug: of course ubuntu uses X.
+ And xorg.conf is still there and useable and in many cases (mine) necessary too.
+ akashm1990: no. Not with minimal effort. depends on HOW your current partitions are set up. You MUST do your homework. Dont listen to the "its easy" advice.
+ carandraug: so why tell someone its not used anymore? That could lead to them hosing their systems. Just saying like ... ;)
+ akashm1990: it might be. But be careful. Tjhere are oodles of issues with many many people. its not me making things up.
+ phibxr: thats nice but its no help to the hundreds who do. Its worth being careful - thats all I am saying.
+ at the very least have a rescue image/cd/stick ready ;)
+ should be fine. but even upgrades of grub have hosed systems.
+ carandraug: you told him to back up first I hope?
+ escott: +1
+ what card?
+ best util I have used is nvidia-settings but recently discovered sgfxi.
+ osse: why guess that?
+ There are loads of issues with upgrading that simply dont occur with a fresh install for obvious reasons.
+ including but not limited to other tweaks you might have applied on the older version that can not be migrated by the update utility. Anyone who says they are the same thing is misleading you.
+ [thor]: I guess you never upgraded Ubuntu much then ;)
+ but the upgrade will never be as clean as the fresh install. And there should be zero reason to install 10.10 amd then dirextly update.
+ you check which repo cinelerra should be in and added it to your sources.list?
+ Did you use synaptic or apt-cache search to verify the install candidate name?
+ Froq: may I ask why? You had to ask where to get it. Did you install the source via synaptic?
+ so you installed it via aptitude or apt or synaptic or what?
+ What source is it you are extracting?
+ Froq: there are some nice tools on the web to help you navigate the source code online.
+ lol..
+ Froq: lxr for a start. but there are many. http://www.google.de/search?q=browse+linux+source+code+online
+ but note that the linux kernel is C and in no way prepares you for complex C++
+ sigh
+ but lxr is nice for a start. Also a editor which can use etags is good
+ the linux kernel makefile  includes a tags target
+ Froq: well, enjoy it ;) Also note that the C in the kernel is about the best you will find. very "clean".
+ Froq: depends if they are used elsewhere
+ arrrghhh: what did you change?
+ mikebot: yes. Multiple reports of mice being broken.
+ no its realtek
+ vantage: yes. your video is hosed. try resetting back to vesa only driver.
+ nfs can be a real dog if reverse dns isnt configrued properly. I dont have the details at hand. I just recall having similar issues.
+ arrrghhh: 11
+ ^^ rather
+ then its probably not. I didnt know that. But then it mioght. The whole thing is hairy. Just mentioed it to give you some more to go on.
+ yes, it does.
+ lol. The new definition of optimism!
+ chromium is highly recommended.
+ ActionParsnip: be careful. The anti google brethren are here in num,bers - even when you provide the actual searhc string which shows how to get the information.
+ really is. I gave the search string to and the link to a really good ssh tutorial and got threatened with banning.
+ Its not. Chromium is very very good on Linux systems.
+ ohsix is also the man who claimed that xorg.conf is obsolete.
+ chromium is fast ans good keyboard UI.
+ running chromium on ubuntu is on topic.
+ staing its not as supported as firefox is simply wrong.
+ LjL: the subject si about installing chromium on Ubuntu. Please try and read the thread with all due respect. I am correcting his staement that chromium is not supported properly. It is not true.
+ brb
+ ActionParsnip: agreed. + until FF4 Chromium browser was far suprioer in terms of css compliance, speed and keyboard navigation. I recommend it over FF as a general rule.
+ Goliath: "run sudo update-grub" and hope for the best
+ Omega: sorry? I never said it was.
+ Goliath: probably not.
+ I recently dit and got win 7 back just fine.
+ Omega: keyboard navigation <> acessibility.
+ Omega: not my finding but if you dont think so you're entitled to that. I dont wish to talk about chromium vd firefox. My only real comment was to correct that claim that FF is better supported for Ubuntu.
+ if you find noip hard then I suspect using it wont be that much of a benefit since its not foolproof and can have substantial performance impacts.
+ you can still use htop ;)
+ div-0: does grub not already have a failsafe entry for you?
+ div-0: its not in /etc thats why
+ /etc/X11
+ look up sgfxi too
+ yes, its a half arsed move to not needing one. many people do.
+ sudo touch /etc/X11/xorg.conf but that wont help one iota.
+ anonymity: just ask
+ oh god...
+ MrMist1: why do you want to spin your disks down out of curiosity?
+ div-0: it doesnt. it was a silyl thing to recommend.
+ what card?
+ arrrghhh: best not to question nfs ;)
+ div-0: did you run nvidia-settings?
+ pr sgfxi?
+ arrrghhh: dont join the net nannying spammers please ...
+ kjxl9: http://www.ehow.com/how_7729420_use-ps3-controller-ubuntu.html
+ very hard to find..
+ arrrghhh: well, you just came back to say nfs was working. He just came back to say unity was working. I fail to see why you "botted" him. IMO theres too much of that in response to perfectly good and on topic answers.
+ anywy glad its working. brb-
+ wow, is he STILL spouting nonsense about not needing an xorg,conf? Streuth.
+ ebiester: I missed your card. Which is it?
+ ADSDS: Ask a Q if you have one ;)
+ ebiester: have you ran nvidia-settings or sgfxi?
+ andeeeuk: use a third party mail notifier.
+ possibly something like gnubiff. There are multiple possibilities.
+ wow. firestarter is MUCH better than those suggestions.
+ When did that happen?
+ first I heard of I must say. Damn good UI.
+ I know what it is.
+ But deprecated? Why? Its just a easy way to set up iptables.
+ I never heard of a GUI tool that good being deprecated. I'll take a peek as I always recommend it : nice logging too.
+ but nothing has destaically changed in iptables.
+ heh. good typo..
+ Guest46633: yes
+ Guest46633: did you also install banip or something?
+ firestarter has frozen. Its not deprecated from what I can see.
+ Elad1234: there are logged bugs with notify-osd on dual screen. not least it being invisible.
+ depends on which irc client you use
+ becuase there is not such command as nautilis
+ hmm, after a quick play I really wonder why gufw was developed as opposed to simply maintaining the much more intuitive firestarter. Oh well.
+ Ultimate_Chaos: irssi, xchat, pigeon.
+ Ultimate_Chaos: it has good docs.
+ argh, why do they insist on calling things like gufw and firestarter "firewalls" - they are not.
+ stercor: here or #linux
+ kfizz: yes
+ init scripts
+ thats be user local for sure
+ Juest: using lilo is pretty stupid.
+ unless you have a very godo reason
+ depends on wha encryption you use obviously and from what.
+ Juest: whats a non ordinary uid?
+ no.
+ it might. but unlikely. since its unlikely that reinstalling it will change anything since the config files are already set up.
+ Juest: You still have given NO reason as to why you would use lilo.
+ then ask in a lilo forum. Ubuntu defaults to grub. you are far more likely to get informed opinions elsehwere that its actually used.
+ no
+ debian is grub too and has been for ages
+ Soothsayer: that is a non Q. What "user"? And when?
+ it is. but debian defaults to grub.
+ Soothsayer: correct
+ you dont
+ normally you would symbolically link back to that users files
+ Or I certainly do.
+ The fact you asked means I suspect you dont understant permissions. YOu need to understand them if you want to play with apache2.
+ Soothsayer: I strongly recommend NOT doing that. Link back to your home directory files. Much easier to back then too.
+ back up
+ Just is clearly trolling.
+ Soothsayer: please read why i said. Dont go adding users to www-data etc until you know what you're doing. Use a symbolic link for now.
+ You will thank me in the long run if you nede to reinstall etc ;)
+ does sound pretty smooth to me ;) I guess epxectations have changed ;)
+ s/does/doesn't
+ or put in a link in var/www to point back.
+ me, I point the links in my vhost files back to my home dir.
+ Soothsayer: e.g a vhost file enabled using a2ensite : http://pastebin.com/rhBmibKG
+ that vhost is stored "locally" as well and symlinked to from sites-available.
+ no its an external site.
+ but can be of course.
+ kingofswords: for what?
+ ok... have fun.
+ bazhang: he is trolling
+ kingofswords: think a little. what browser for example.
+ right kingofswords , there are multiple download managers for firefox, all easily tried. Why not attempt to see what you like from the firefox add ons?
+ ^Mike: not its not stable. far from it.
+ nolistening that is silly advice for a noob who is using a browser to access download site ;)
+ kingofswords: very subjective.
+ try them. Its so easy.
+ read the reviews
+ using wget or curl is plain silly since you will frequently still want to click, confirm and download. Most use wget or curl underneatha nyway. They are no more efficient whatsoever.
+ sometimes I really despair at people telling noobs to use things like wget. its as if you want to confuse them and screw up their acceptance of a *GUI* Linux distro.
+ sakuramboo: check you're really launching gnome-terminal and if so then check your bashrc that it isnt attaching.
+ Fudge: an old thinkpad?
+ Fudge: you mean his keyboard works outside of the login dialog?
+ Fudge: does Ctl-Alt-f1 work for example?
+ anyone upgrading to Natty needs their head examining if they need their PC IMO.
+ niadh: try #linux
+ its trivial
+ and well documented
+ linusasus6: nothing with grub 2 you are in the wrong place afaik, you must modify default. and run update-grub.
+ linusasus6: not quite rememebring I tried http://www.google.de/search?q=grub2+config+default and from that got : https://help.ubuntu.com/community/Grub2
+ Its listed in the second link and explained
+ thats not hot for a CPU but is for a HD ...
+ phonex01: saying 11.04 is really bad is not OT. But say why so people can learn.
+ aguitel: where?
+ aguitel: you might find it faster to look in the natty packages here :- http://packages.ubuntu.com/search?suite=natty&keywords=searc
+ karthick1987: unsuscribe.
+ deitarion: my own experience is never to mix apt-get and aptitude. others swear its fine. I know its ont.
+ But its not worth arguing with people - if they want to think it works good luck to them. But when I mixed the two my system fell to pieces.

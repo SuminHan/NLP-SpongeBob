@@ -1,0 +1,8 @@
+ 11.04 is not compatible with my GPU
+ sure wish it had told me that before I installed it...
+ well, my computer's basically a brick now
+ :(
+ carandraug: it works on the LiveCD
+ carandraug: but after about 5 minutes of runtime
+ carandraug: the screen is covered in horizontal lines. after that, all windows don't redraw
+ carandraug: me too :(

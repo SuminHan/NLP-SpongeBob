@@ -1,0 +1,4 @@
+ Hi, I'm looking for help to get back a working initramfs to boot my encrypted LVM: https://answers.launchpad.net/ubuntu/+source/initramfs-tools/+question/154973/
+ stefg: Thank you for having a look.  I did the update-initramfs part already but I'm not sure if I reconfigured lvm.  I'll do that.  Let's see if it helps.
+ stefg: yes, understood.  Thank you.  I'll have a look
+ Hi, I'm looking for help to get back a working initramfs to boot my encrypted LVM: https://answers.launchpad.net/ubuntu/+source/initramfs-tools/+question/154973/ (FWIW, "sudo dpkg-reconfigure lvm2 && sudo update-initramfs -u -k all" as suggested earlier unfortunately did not do the trick)

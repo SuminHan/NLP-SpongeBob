@@ -1,0 +1,4 @@
+ How do I set the icon sizes for unity-2D?
+ blackbit: I tried to google around and it seems like that changing the icon size in Unity-2D involves some programming, but I can't really get it working. It is such a shame as Unity2D rocks without bugs and bad performance.
+ blackbit: which graphics drivers are you using? Im on Nvidia.
+ blackbit: My computer is a small laptop which does not like all the unity effects. If I had a proper desktop computer I might not be that bothered. But flash has always been crashing for me - is it worse with unity2d?

@@ -1,0 +1,2 @@
+ hey guys I removed my linux partition and now I get "error: no such partition" how do I restore windows 7 bootloader?
+ taglass: is there a way to fix this without the dvd?

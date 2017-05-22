@@ -1,0 +1,3 @@
+ so i was dd'ing an old hdd, and it epicfails. http://pastebin.com/S8Hh4JfT - can anybody tell me how im gonna be able to dump the contents of the hdd in linux?
+ i just want to get a raw backup of the drive.
+ so how would I go about doing a dd of this hard drive if it doesnt seem to want to?

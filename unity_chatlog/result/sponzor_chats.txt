@@ -1,0 +1,1 @@
+ hi i have a "trojan.exe" and i want to see the source code of exe file.. is there any program in linux that can help me?

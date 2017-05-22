@@ -1,0 +1,5 @@
+ has anyone run into an issue with crypt() on natty?
+ im pretty stuck on an issue with crypt() - both my jabber server and any program i try to write complain about crypt() being undefined...and i just can't seem to find what might have happened in the upgrade to cause this
+ Having some problems with crypt and Jabberd2 following an upgrade to natty...
+ basically - if i try to use crypted passwords in the config - it crashes and complaints about an undefined symbol crypt
+ anyone around here maybe have any experience in this area?

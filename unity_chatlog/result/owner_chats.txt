@@ -1,0 +1,20 @@
+ hey can anyone help me. I have tried to get Blender 2.57b to work with openshot in Ubuntu 10.10 and 11.04 and so far it won't work.
+ I'm running 11.04 too
+ OpenShot video editor wants Blender 2.57b installed in order for it to do the CGI stuff.
+ I tried going into prefrences and telling OpenShot where the new blender executable was but it won't do it.
+ I hate unity.
+ ohsix I asked how to get OpenShot video editor to work with Blender 2.57b
+ ohsix even if you go into prefrences and point it at the executable for Blender 2.57b it won't work.
+ No one knows what to say. Here is what I need to know ohsix. I need to know where to stick the files in the package for Blender 2.57b so that they will replace the outdated version.
+ Ya unity is like using an iphone or droid.
+ I'm copying all the files into /usr/bin maybe that will work.
+ WHA HA HA HA HA I FIXED IT!
+ And no one else has
+ :D
+ Hello FloodBot2
+ Raju: Are you still here?
+ taiyal^: That might happen if the partition table is corrupted. see if parted is seeing the table correctly
+ taiyal^: install testdisk http://www.cgsecurity.org/wiki/TestDisk
+ taiyal^: you can install it thru apt-get. enable the universe packages to get it
+ I am not able to boot into windows xp after upgrading to natty. I am able to see the grub boot menu, but when i select windows nothing happens. the screen goes blank with only a cursor on the top left corner. I am able to boot into natty just fine. Can somebody help me?
+ taiyal^: did you install testdisk

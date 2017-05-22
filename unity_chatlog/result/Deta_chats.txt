@@ -1,0 +1,14 @@
+ hi, anyone help me out with apache2 under 10.04 LTS server. Have copied some files over to /var/www but I get permission denied in error.log when attempting to access them from a browser
+ without LVM
+ (if you have to ask, you likely don't need it)
+ I'm not sure tbh, I was relaying what I was told (n00b here too)
+ i'm not sure, but i'm not sure how to check / what they should be set to spacebug-
+ drwx------ 17
+ that'll be a no then!
+ chmod a+r file ?
+ yes, it is a directory that i'm trying to access
+ that's done it spacebug-, thanks
+ (now to work out why jiznora is throwing php errors :| )
+ spacebug-: using those permissiosn I'm now getting permission denied errors in error.log when php is trying to open streams, but 755 should be ok for scripts shouldn't it ??
+ I can open the dir, and apache doesn't return a 403 anymore when loading the index - but the script doesn't seem to execute properly
+ ok, can chmod be used with a mask to do set the permissions of all files in a directory?

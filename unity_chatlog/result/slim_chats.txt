@@ -1,0 +1,1 @@
+ Hi! I installed a minimal ubuntu cd 11:04 via command-line, and LXDE-core and xinit. When system start I can't mount CD-ROM or other drives, but as root I can. This did not happen on Ubuntu 10.10 and before. Is there some help?

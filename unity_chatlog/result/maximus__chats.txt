@@ -1,0 +1,15 @@
+ Hey. I'm about to install Natty, i have 2 hdd's, will I get any performance boost if i put everything on hda except /usr and swap (which i will put on hdb)?
+ escott - hard drives are different sizes...)=
+ ~escott - where can I read up about that..dont want to bother anyone with asking how to do that..
+ escott thanks, will give it a look at. btw, never used IRC, how do i reply just to you? what am i supposed to put infront of the name?
+ escott_, awesome, thanks (=
+ Does anyone know what command I can use as a keyboard shortcut to Suspend my pc (without su)
+ escott_, hey! you helped me before, was wondering if you know a command I can use to suspend natty without su...want to add it as a keyboard shortcut
+ escott, hey! you helped me before, was wondering if you know a command I can use to suspend natty without su...want to add it as a keyboard shortcut
+ escott, ty
+ Fredje, will try that
+ step2, too lazy to use the mouse every time, when i'm running out the door its cool to have a button to press..my old logitech had one, new kb doesnt
+ step2, thanks
+ Fredje, AWESOME! i used      bash -c "echo 559 | sudo -S pm-suspend"    and it works perfectly (= If i ever meet you i'm buying u a beer!
+ Fredje, lol yes i just published my password...blonde moment
+ Fredje, only have a simple one coz ubuntu wants one...so no biggie. Thanks for ur help. chow

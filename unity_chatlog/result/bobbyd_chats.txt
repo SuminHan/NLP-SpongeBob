@@ -1,0 +1,7 @@
+ Hey, is there any way to move the window close icon to the right when a window is maximized in 11.04 and using unity?
+ Enekk, that only seems to work when not maximised
+ Np, thanks anyway :)
+ Enekk, that's what I thought, but it's really annoying to be forced to do that if I want to use unity, I'll just go back to classic mode then
+ Yeah, it's a shame though as it's got potential
+ Eoss, video like movies? Or just the 3d scene?
+ Ok, how about using winetweaks to instal the official d3d libs?

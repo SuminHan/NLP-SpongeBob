@@ -1,0 +1,3 @@
+ hi everyone, I have a really weird issue where google searches seem to be intercepted
+ like as if my dns was cache poisoned
+ qbert_: is flo.bellsouth short for floriida?

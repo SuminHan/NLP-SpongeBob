@@ -1,0 +1,11 @@
+ HI, i was upgrading from 10.10 to 11.04, and machine restarted or may be Internet went, i was sleeping at that time, Now, I can not boot linux, i am on the consol selecting M for manual, but and I manuall assigned IP and i can access the internet , how to upgrade,
+ HI, i was upgrading from 10.10 to 11.04, and machine restarted or may be Internet went, i was sleeping at that time, Now, I can not boot linux, i am on the consol selecting M for manual, but and I manuall assigned IP and i can access the internet , how to upgrade,
+ HI, i tried to upgrade from 10.10 to 11.04, but the internet went off or may be Machine restart or some power problem, but upgrade interrupted , I came to real mode with pressing M, I can ping Yahoo.com, i have an internet on my laptop now, but i can not upgrade now, it says, / not mounted, HELP
+ escott, fsck / clean files and blocks.
+ escott, i did fsck /dev/sda5 it says clean fildes and blocks.
+ escott, do not have cd now,  when i did apt-get update, so it says, /var/lib/dpkg/lock,  and dpkg --configure -a also says, read-only filesystem, I can i be root to access, while i am root here,
+ escott, Yea i did that, and it worked, now what is next step, i did dpkg --configure -a, and it is working... i do not what it is working...
+ escott, Ok. it is workign.. i am jsut watching the running text going up .
+ How to categorize my self, i am Newbe, Just a user, Simi Expert or Expert in Linux.
+ LjL, Several friends asked me, Am i Linux Expert, So i was unable to answer the, because i do not know, i am newbe or expert etc.
+ LjL, Ok. again i got help here, now i will go to #ubuntu-offtopic , Again thanks to ubuntu. you guys really helped a lot.

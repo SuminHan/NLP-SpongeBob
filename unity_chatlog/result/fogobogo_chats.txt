@@ -1,0 +1,34 @@
+ sure
+ Eyes_Only: tried a waterproof marker?
+ hmm
+ Eyes_Only: why not just change the keys then
+ Eyes_Only: the screwdriver method might not work but there could be something in the system menu
+ Eyes_Only: some crippletop
+ Eyes_Only: yeah. but what makes you think that has anything to do with ubuntu?
+ Eyes_Only: im under the impression you at least hacked the box to install ubuntu. correct me if im wrong
+ Eyes_Only: if it still runs the google spyware i have no clue. maybe the browser settings?
+ Eyes_Only: nope. not at all. lucky you i run openbox. get obkeys
+ Eyes_Only: well. its a gui for editing keybindings of the openbox wm. so its not flexible at all. but you have a gui
+ Eyes_Only: you sissy
+ Eyes_Only: the real men's way would be to open ~/.config/openbox/rc.xml and edit your keybindings there manually
+ Eyes_Only: unfortunately using a text editor is a dying art :/
+ or that
+ Eyes_Only: definitely worth to learn vim but as a bloody beginner you might be better off using geany or gedit
+ Eyes_Only: because it has buttons and shit
+ Eyes_Only: youre welcome
+ Eyes_Only: oh hai fellow archer
+ :D
+ Eyes_Only: way too easy :D
+ *pew* *pew*
+ Guest71831: try?
+ anthonyl: lol?
+ anthonyl: just gimme here ip and ssh pw and i will uhm... fix it
+ dunno. i just use arch
+ anthonyl: intel gpu?
+ hhmm
+ anthonyl: oh. if thats all
+ anthonyl: sure. just switch the runlevel and disable it
+ anthonyl: timidity is just a crappy software midi card anyway
+ anthonyl: should be
+ anthonyl: however, i suspect it to be a ubuntu packaging bug
+ xfce4 is pretty good these days...

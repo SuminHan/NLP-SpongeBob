@@ -1,0 +1,162 @@
+ anyone know how to put the launcher bar at the bottom on Natty?
+ nutsfornatty> yeah they give a bunch of options with that downloadable plugin, but why wouldnt they just give an option of where to put that monstrosity
+ well, how do i go to classic desktop mode until then?
+ id there a way to use natty, but looking like Maveric?
+ will it do that for my profile only?
+ um, is it ok to install the missing plugins from pandora.com
+ ?
+ my ubuntu is 10.10 and fresh install so i dont know if its ok
+ yeah, i know... but i was on it at my moms house (she got 10.10 yesterday thanx to me, then updated today to 11.04)
+ yeah, nice looks... not impressed yet, it needs alot of options added
+ um how do i fix this: The package indexes are currently changed by apt-get.
+ in Ubuntu Software center
+ um how do i fix this: Ubuntu Software Center - The package indexes are currently changed by apt-get. it says i cant download anything cus theres something else working
+ yes, natty is buggy
+ especially when switching from profile to profile,,,
+ if ur having problems with not seeing ur bar i just logged off, then hopped back on
+ cleaned it up
+ i like classic a million times more
+ yeah, 11.04 classic is clean as a whistle
+ heh, the only problem i had the first time i ran it was the clock... but even that fixed itself
+ somehow
+ brb
+ is it cool to install the adobe flack plugins for ubuntu from the software center?
+ oops flash
+ heh
+ <extraclassic> whys that?
+ <extraclassic> oh, well it seems to be fine for me... i only install what i need... xchat and so on
+ and i gotta have my internet radio
+ <extraclassic> i saw that, it seems to be pretty cool
+ im seriously thinking about getting my usb full of the stuff i need to get my USB wifi adapter working again, the going ahead and wiping out my unregged (f-ing viruses) Win 7
+ brb
+ can somone tell me why Ubuntu cant find my nVIDIA card?
+ i cant update to natty becuase of it
+ Natty is cool, but just switch to classic mode... the new gui is unstable
+ yeah it says i cant even use it
+ bars dissappear and stuff
+ is there a way to update my nVIDIA driver?
+ cablop>its a bit buggy still, give it a month or so
+ we installed Natty on my Moms comp, and it updated nvidia fine, and it did it all on its own, but mine says i have no driver
+ upgrading
+ trying xconfig
+ eiriksvin@ubuntu:~$ sudo nvidia-xconfig
+ [sudo] password for eiriksvin:
+ sudo: nvidia-xconfig: command not found
+ eiriksvin@ubuntu:~$
+ wee
+ how?
+ thank you
+ ok, downloading and installing recommended driver
+ <TheHackOps> many of us do
+ im just gonna use classic mode, no need to revert back:)
+ Natty classic mode is clean as a whistle
+ <JoshDreamland> go to ur login screen, at the bottom choose Classic Mode as ur session
+ doh, he beat me to it
+ and he even had it "right" it is called Ubuntu Classic
+ heh
+ brb restarting
+ is there an easy way to install this on Ubuntu 10.10: http://dbgthekafu.deviantart.com/art/black-white-2-Style-73276755
+ well i finally found out whats been going on with my Natty, it was the graphics driver, problem is i have it but dont know how to activate it, it just says its not in use what do i do?
+ anyone have any luck getting Rune of Magic to work?
+ Runes
+ im trying so hard to get Runes of Magic to work, everything is good, but my screen stays black, i saw a picture once, but i cant seem to even get that repeated
+ you cant
+ <isarl>you cant not == supported yet
+ give it another month somone will find a way!
+ yeah, itll happen, there are plenty of people wanting to do that
+ but the way i see it, why change your GUI from classic to natty on your release and knowing the huge mods i have done to my old screen, id have to say that was a bad call
+ my thoughts is that they should have went with an ultra easy custimisable desktop
+ all set with the tools to let any user design their desktop in a smooth and seamless way
+ yep
+ <spicytaco>not so loud but clear:)
+ they could easily have made the GUI ultra custom and offered ends to can
+ for support
+ im just sick, i cant play Runes of Magic:(
+ Herc if you update, you might not find it all that
+ im thinking on going back to 10.10, until they open this whale up
+ anyone know where i could go for some help getting Runes of Magic working?
+  there, now its all smooth but my graphics drivers are saying: This driver is activated but not currently in use.< it was fine before i updated, i could run it perfectly in the highest setting
+  there, now its all smooth but my graphics drivers are saying: This driver is activated but not currently in use.< it was fine before i updated, i could run it perfectly in the highest setting can someone help me?
+ im in classic mode because the other one is a little sluggish
+ nVIDIA not doing good?
+ i guess ill just go play Regnum:(
+ i wanna play RoM so bad
+ is there a way to get a transparent screensaver?
+ does natty have a way to make classic ubuntu have transparent menus?
+ does natty have a way to make classic ubuntu have transparent menus?
+ how do i get Natty to stop loading in the top left?
+ all the programs load in the top left, and the new natty bar keeps dissappearing, i want to change those 2 thing
+ i want everything to load in the center, and i want the natty bar to stay there, how to i fix that?
+ try switching an app to another workspace then alt tab
+ whats the name of the program i gotta download to stop the launcher from moving and or disappearing?
+ whats the name of the program i gotta download to stop the launcher from moving and or disappearing?
+ whats the name of the program i gotta download to stop the launcher from moving and or disappearing? it had Unity in the name i know that
+ is there a way to get tranparent windows in Natty?
+ is there a way to get tranparent windows in Natty? i want to be able to see through any windows  i have up
+ does jabber work through empathy right along side facebook
+ does someone have jabber set up through empathy that can send me a message?
+ how do i stop  the stuff from disappearing on the top bar in natty?
+ like in xchat how XChat   View   Sever   Settings   Window   Help       all disappear when i move the mouse away from it
+ cna somone type my name so i can see if my new sounds work on this ubuntu
+ thanx:)
+ cna somone type my name so i can see if my new sounds work on this ubuntu
+ one more time please
+ awesome!
+ thanks, i had to make sure it would work along side andother sound
+ anyone else got a .ogg problem with natty?
+ is there a way to use gnome3 in 11.04 Classic?
+ i want to keep unity for my gf, but i want the sweet eye candy for my classic
+ is unity 2D gonna give me that little glow around my windows, and make my menus  and windows tranpsparent?
+ cus thats what i want, i like my inside veiw desktop box too
+ is it possible to get gnome3 on 11.04?
+ crap, is there anything else i can do for classic... other than be stuck with what little compiz offers?
+ Ubuntu (Classic Session) when you choose your session at the login creen at the bottom
+ Angelic whats ur Wifi adapter, and what driver are you using?
+ ok are you using it through Wireless Windows Drivers?
+ Angelic^
+ Angelic open it up, and the driver name will be in there
+ Angelic open ur terminal and type lsusb             <that will tell you what adapter you have
+ robin0800 lspci will only give you pci info, lsusb will give you usb info
+ ok, take that online and google it to see if theres a way to get it to run native, thats the best:)
+ yeah, sorry:)
+ flodine check your graphics driver
+ Angelic google it and see if u can run in Native
+ flodine whats ur graphics card?
+ heh.. thats why...
+ flodine ok, heres what u do, ru in Natty now?
+ flodine Search for System Settings then inside there look for Additional Drivers
+ flodine use the nVIDIA 173 driver
+ flodine if its an option
+ flodine then youll be welcome to Natty:)
+ flodine then get Compiz
+ flodine trust me you will want that:)
+ flodine just use Applications>Search>Compiz
+ Does anyone know how to get Regnum online to run in windowed mode?
+ KM0201!! Hey buuuuuddy!
+ KM0201 i have been telling Angelic to search google and try to run the usb adapter native if its possible, thats what i have to do to get rid of that, but i got a different adapter
+ <bull9408> easy
+ <bull9408> just search for the app, run it the right click on it and check the keep in luancher
+ oh, uh thats a good question
+ thats why i went to classic mode
+ <anthonyl> uh what is wrong?
+ <anthonyl> uh what is wrong?
+ <Thedemon007>hi
+ <Thedemon007>be careful if you have gnome3 or anything like that you dont want to update
+ <anthonyl>use the 173 driver if your having freezing ussues
+ <anthonyl> go to additional drivers and switch to 173, trust me its nVIDIA acting up
+ i think that when they bumped Gnome3 they shouldnt have, they should have worked it so you could load either one
+ dagon im looking to do the same thing
+ is there a way to get more plugins for compiz?
+ i want to make my windows have that glow around the
+ ouside
+ 'how?
+ thanx
+ how do i take screen video with ubuntu?
+ how do i take screen video with ubuntu?
+ how do i go abaout getting that?
+ and is it compatible with Natty?
+ <julian_c> is it compatible with Natty?
+ <sary> is it in the repo?
+ <julian_c> sweet getting it now
+ <sary> imma try that one too
+ hello, im trying to use Remote Desktop Veiwer, how do i set up my desktop to be veiwed by me from another computer?

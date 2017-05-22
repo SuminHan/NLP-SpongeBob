@@ -1,0 +1,4 @@
+ hi, my mail notification for evolution is not working in ubuntu 11.04, anybody know how to get it working?
+  hi, my mail notification for evolution is not working in ubuntu 11.04, anybody know how to get it working?
+ imap
+ ok, thks

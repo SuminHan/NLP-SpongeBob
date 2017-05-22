@@ -1,0 +1,6 @@
+ hello, all. Now, I'm using debian 6.0. But I want to try ubuntu11.04. How can I install it from my hard disk?
+ Logan_: No, I don't have a cd-rw
+ talntid: How? where to click?
+ talntid: But I'm using debian now. I have only a alternate iso for ubuntu11.04. I think I have to boot from this iso to install it.
+ Could somebody give me some links or some suggestions about install ubuntu alternate iso from hard disk under debian?
+ hi

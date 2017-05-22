@@ -1,0 +1,9 @@
+ hello...how can i install gnome 3 on ubuntu 11.04?  any link on web to explain? it has many ways and i'm confused what is right
+ hello...how can i install gnome 3 on ubuntu 11.04?  any link on web to explain? it has many ways and i'm confused what is right
+ tanath: why doesn't work?
+ tanath: i tried recently with ppa and then install gnome-shell and it didn't have the right theme (not the adwaita but an older look like)
+ tanath: is that the problem?
+ tanath: i tried recently with ppa and then install gnome-shell and it didn't have the right theme (not the adwaita but an older look like)
+ ok..i installed gnome 3 on ubuntu 11.04 . everything's ok except the auto login......could anyone tell me how to fix the auto login? thanks
+ Logan_: what do you mean? not the right channel for gnome 3 - ubuntu?
+ Logan_: yes but i have a problem and i want to solve it and i need help....where i can get this help?

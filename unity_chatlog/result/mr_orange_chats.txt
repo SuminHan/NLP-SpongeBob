@@ -1,0 +1,11 @@
+ I have installed 11.04 on my desktop along side windows 7 and when i try to boot up ubuntu it just sits on a blank screen and does nothing. Can anyone tell me my problem
+ I have installed 11.04 on my desktop along side windows 7 and when i try to boot up ubuntu it just sits on a blank screen and goes into sleep mode. Can anyone tell me my problem?
+ I have installed 11.04 on my desktop along side windows 7 and when i try to boot up ubuntu it just sits on a blank screen and goes into sleep mode. Can anyone tell me my problem?
+ Chipzzz, how do i fix that or check that
+ Chipzzz, how is grub going to be my issue. The menu for me to choose which os i want to boot into shows up and lets me get into windows just when i try to boot into ubuntu it sits at a blank screen.
+ I have installed 11.04 on my desktop along side windows 7 and when i try to boot up ubuntu it just sits on a blank screen and goes into sleep mode, but it lets me boot into windows no problem. Can anyone tell me my problem?
+ I am trying to install ubuntu along side Windows 7 on my desktop and after I install ubuntu and I restart my computer it goes into grub without a problem but when I try to load ubuntu it splashes the load screen then goes black and just sits there. I am using 11.04, can anyone tell me what my issue might be?
+ 1403, and what would I be looking for in there and how can i get to it if ubuntu 11.04 doesnt load?
+ l403, and what would I be looking for in there and how can i get to it if ubuntu 11.04 doesnt load?
+ l403, how can I see them if Ubuntu does not load?
+ l403, ok thank you

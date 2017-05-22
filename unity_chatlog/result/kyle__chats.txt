@@ -1,0 +1,6 @@
+ using Banshee media player, connecting to DAAP server, when i exit the record is removed and i have to add again. how do i make it stay?
+ using Banshee media player, connecting to DAAP server, when i exit the record is removed and i have to add again. how do i make it stay?
+ using Banshee media player, connecting to DAAP server, when i exit the record is removed and i have to add again. how do i make it stay?
+ using Banshee media player, connecting to DAAP server, when i exit the record is removed and i have to add again. how do i make it stay?
+ using Banshee media player, connecting to DAAP server, when i exit the DAAP record is removed and i have to add again. how do i make it stay?
+ using Banshee media player, connecting to DAAP server, when i exit the DAAP record is removed and i have to add again. how do i make it stay?

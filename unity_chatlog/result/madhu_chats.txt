@@ -1,0 +1,31 @@
+ hi all
+ how to add dns suffix in ubuntu
+ hello
+ ?
+ hi maco
+ how to mention suffix name in ubuntu
+ hi maco
+  how to mention suffix name in ubuntu
+ in windows we add computer and dns suffix name right---- system.india.org
+ how to get this in ubuntu
+ ya hostname is ok
+ i need like this---  hostname.ubuntu.com
+ in /etc/hostname it is showing only the hostname not the suffix name
+ in redhat we had this---http://www.centos.org/docs/5/html/CDS/ag/8.0/Configuring_Directory_Databases-Creating_and_Maintaining_Suffixes.html
+ hi lapion
+ hi maco
+ hi maco
+ how to get dns names, hostname.ubuntu.com
+ ya
+ u r not responding so
+ yes
+ how to be the owner of *.com
+ how to create it
+ before i buy
+ i had the domain name----- darkhorseboa.com
+ how to create a local dns server
+ ok
+ i will check with bind9
+ ok
+ ya i installed bind9
+ wen i configured the named.conf.local

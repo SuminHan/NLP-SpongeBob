@@ -1,0 +1,9 @@
+ I just installed ubuntu 11.04 on my new ideapad u160 i5 with internal intel hd grafik card. Unfortunately, when I switch the screen settings with the screen dialog, my display goes black and never recovers :( And ideas?
+ Oh Yes: I googeld for 4 hour now :(
+ nemo: here i have the same problem
+ i dont know what metacity is, but i switched the startup screen to classic with no effects
+ Wow. There is an update already. I will try it ....
+ THX
+ hi nemo still does not work. :(
+ Looks like the intel hd chip is not working correctly :(
+ Any ideas, why the screen stays black after switching monitors on my intel hd chip based notebook

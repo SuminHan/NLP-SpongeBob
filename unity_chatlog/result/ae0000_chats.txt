@@ -1,0 +1,7 @@
+ there used to be a way of using a operating system installed on your machine (windows) as a virtual machine inside of ubuntu... can anyone point me to how or what tech is used to do this?
+ i remember doing it years ago... just cant remember how
+ jack123, not sure will take a look... i really cat remember :)
+ atlef, maybe.. i'll have a look
+ found it .. .vmware converter :)
+ Herbs, hmmm have you done it before with virtualbox? cant find any docs for it
+ Herbs, i take that back :)

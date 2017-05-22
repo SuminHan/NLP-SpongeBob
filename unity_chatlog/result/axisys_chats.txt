@@ -1,0 +1,29 @@
+ I am getting this when trying to upgrade
+ PicPaste
+ Picture: ubuntu-OdtsGDtF.png
+ http://picpaste.com/ubuntu-OdtsGDtF.png
+ how do I get around this? http://picpaste.com/ubuntu-OdtsGDtF.png ..
+ how do I put lvm on ubuntu desktop ? I do not see LVM option
+ izinucs: no wonder why I did not see it
+ DasEi: i guess with alternate iso correct?
+ DasEi: are you saying desktop live may have lvm option as well?
+ DasEi: default whole disk is LVM? i did not know that.. will it put /boot on separate slice as well?
+ DasEi: i use only my home dir encrypted.. so i guess i will be ok
+ is there a ppa for google chromium?
+ is there a ppa for google chrome rather?
+ xangua: oh ok
+ xangua: i see.. i was looking for google chrome which is based on chromium
+ xangua: will it autoupdate like ppa does ?
+ greylurk_: it has ppa in 10.10 you mean? do you have the link?
+ xangua: ppa or the direct download from google ?
+ greylurk_: nice! then I should be set
+ greylurk_: nice! like you said after installing the google chrome the repository added google download link
+ is there a way to put the unity menu on the bottom instead of on the left side?
+ when I try to run a video in metacafe using google chrome it just says missing link.. anyone knows the fix?
+ i cannot install metacafe video from ff either.. missing plugin
+ any pkg that will intsall all the plugins? or a list of pkgs?
+ i needed to install ubuntu-restricted-extras for the firefox and google chrome plugin to work with metacafe
+ how do I enable automatic security update ?
+ how do I got the window menubar back.. it disappeared after enabling the rotate cube in compiz
+ kowen: that did not help.. i am on ubuntu classic btw
+ how do I automate the security update?

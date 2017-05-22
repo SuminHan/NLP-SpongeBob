@@ -1,0 +1,3 @@
+ Is there a way to install Ubuntu Server on a headless box?
+ jack123: if you can't get ubuntu to work, try gentoo
+ I hate companies who brand their stuff 4G. I'm surprised the FCC lets them get away with it. It's all 3.8 or 3.9G.

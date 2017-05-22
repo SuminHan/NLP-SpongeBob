@@ -1,0 +1,17 @@
+ hey guys , when i boot my laptop this message appear >> BusyBox v1.17.1 (ubuntu 1:1.17.1-8ubuntu1)
+ Built-in shell (ash)
+ Enter help for a list of built-in commands
+ (initramfs)
+ any one know how can i solve it , i can't open my ubuntu NOW ><
+ any help please ?!
+ when i boot my laptop this message appear
+ BusyBox v1.17.1 (ubuntu 1:1.17.1-8ubuntu1)
+ Built-in shell (ash)
+ Enter help for a list of built-in commands
+ (initramfs)
+ and i can't open my ubuntu till now ?
+ ??
+ so , how can i do that , i'm totally new to ubuntu  , can u tell me please ?!
+ ?
+ arand : no , i didn't , and actually i don't where's the problem
+ ?

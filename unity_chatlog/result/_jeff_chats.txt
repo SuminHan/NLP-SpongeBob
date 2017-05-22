@@ -1,0 +1,4 @@
+ whenever i turn on my system and type my username and before i enter a password, the login screen appears to quick drop down to a shell and asks me to enter my username again and this second time i can enter my password. is gdm crashing?
+  whenever i turn on my system and type my username and before i enter a password, the login screen appears to quick drop down to a shell and asks me to enter my username again and this second time i can enter my password. is gdm crashing?
+ whenever i turn on my system and type my username and before i enter a password, the login screen appears to quick drop down to a shell and asks me to enter my username again and this second time i can enter my password. is gdm crashing?
+ whenever i turn on my system and type my username and before i enter a password, the login screen appears to quick drop down to a shell and asks me to enter my username again and this second time i can enter my password. is gdm crashing?

@@ -1,0 +1,5 @@
+ Just installed Natty (on Dell Dimension 9150 with NVidia graphics) - does not work - the unity UI comes up but accept no input
+ only works in "safe mode" it appears
+ not even in "classical mode" etc
+ Is there a known problem with NVidia drivers for Natty?
+ Natty on my PC does not accept any input, e.g. mouse clicks etc (the mouse cursor is there but no actions)

@@ -1,0 +1,6 @@
+ Hello folks
+ I have some Skype trouble
+ I updated it on Maverick and now the sound pops and it crashes pulseaudio
+ So I was wondering if someone had run into the same problem with Skype or if at least ir runs well on 11.04
+ So... anyone using Skype on Natty?
+ KNUBBIG: ok, maybe I should try updating...

@@ -1,0 +1,47 @@
+ woo! anyone upgrading to narwhal right now?
+ i could get rid of docky right?
+ shane4ubuntu, how do you feel about unity?
+ shane4ubuntu, hehe
+ i have no clue about unity :(
+ shane4ubuntu, if upgrade to narwal, i could remove docky right? do i also still need compiz to do cool desktop switching?
+ shane4ubuntu, eek!
+ Herbs, those are concepts to stabilize society. much like religion. duh
+ -_-
+ oooh i just remembered something important (to me at least): will i be able to type in korean, chinese, and japanese when i upgrade?
+ i use the keyboard input methods thing on 10.10
+ will that still be around when i upgrade?
+ dasy2k1, what do you mean? i can't search synaptic or something?
+ Herbs, seriously, as long as you aren't flooding the channel, who cares what you type?
+ ah ok
+ dasy2k1, do you have suggestions for switching language inputs? or is keyboard input methods the best one?
+ i like it because i can CTRL+space and type in 한글
+ OMG this is taking soooo long to download
+ and i have a final tomorrow. i kinda don't wanna sleep until i've figured it out
+ lsheeba, oooh
+ thanks for that!
+ wooo! i'm almost done downloading
+ yay
+ oooh. 11.04 is now installing.
+ wish me luck everyone haha
+ efox29, anything i should look out for?
+ i can lose docky right?
+ also, anyone know of an easy way to switch language inputs?
+ efox29, you're talking about the aesthetics or the actual functionality?
+ oop
+ anyway. anyone know a nice way to switch language inputs on narwhal? i use keyboard input methods on 10.10 i wonder if it'll carry over nicely
+ noob question but if i buy a mac book pro, i could just install ubuntu over it and it'll work fine right? any issues regarding that?
+ zachgretzinger, that's pretty much it. i just like the design haha
+ OOOH i'm about to restart!
+ this is so exciting
+ wooo
+ how do i make it so that i'm asked for a password every time i sudo?
+ that seems to have been gone when i restarted into 11
+ hi everyone! i'm on narwhal right now. things are looking pretty good except for zeitgeist. will i be able to remove it without incurring penalties?
+ or is zeitgeist something we're not allowed to talk about :X
+ o well. i'm removing zeitgeist right now
+ i have made peace with zeitgeist...for now -_-
+ Phylock, i'm looking into it myself
+ anyone know how i can display bandwidth usage and system resources at the top in narwhal?
+ ok i got an interesting problem. i use the windows key (Super L) as a shortcut for terminal. it also happens to be the shortcut for narwhal's dash. i tried changing the shortcut for narwhal dash to CTRL+SuperL but then terminal doesn't pop up anymore. when i hit SuperL, BOTH dash and terminal pop up.
+ it's okay. minus zeitgeist
+ so... since i can't change the shortcut key for terminal in control center > keyboard shortcuts, how do i do it using the terminal?

@@ -1,0 +1,6 @@
+ thousands: do apt-get install libglib2.0-0 and see if that helps
+ thousands: did that also pull up libglib2.0-bin? Might need that too
+ thousands: check in your lib directory for that lib - on my system it's  /lib/i386-linux-gnu/libglib-2.0.so.0
+ thousands: I'm stumped there... seems that if the links are there, the prog should roll
+ anyone know how to configure vmalloc size in grub on natty?
+ magpii: log in under classic desktop

@@ -1,0 +1,5 @@
+ n-iCe: as long as you have a PAE enabled kernel (which the ubuntu server kernel is), it's fine to use 32 bit
+ zachgretzinger: it sounds to me like what you're really asking is how you can run a jar file in ubuntu, is that correct?
+ a deb is an installation package, not an executable program
+ you don't convert a jar to a deb, you package a jar, along with other things to run it, eg a shell script, inside a deb
+ http://blog.noizeramp.com/2005/08/31/packaging-java-applications-for-ubuntu-and-other-debians/

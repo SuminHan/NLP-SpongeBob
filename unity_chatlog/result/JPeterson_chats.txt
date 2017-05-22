@@ -1,0 +1,11 @@
+ I upgraded to 11.04 on what I thought was a plain vanilla 10.10, now I'm stuck on the grub command prompt
+ To be clearer I get the "Ubuntu 11.04 upgrade stuck on grub 1.97 beta 4 CLI" problem!
+ why wont it boot?
+ if I do ls /grub there is no grub file!
+ if I do "boot" then "no kernel is loaded"
+ if I do linux /vmlinuz root=/dev/sda1 ro
+ then "cannot open root device sda1"
+ well this 11.04 upgrade seems to have went well
+ first I had to recover grub from the live cd
+ then I get "error no suitable mode found"
+ and not a single line of boot text

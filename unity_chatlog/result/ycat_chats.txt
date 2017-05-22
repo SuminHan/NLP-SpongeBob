@@ -1,0 +1,4 @@
+ FordPrefect: Did you check the permissions? And if it exists?
+ FordPrefect: you might need to sudo
+ blackbit: restart your client?
+ hi! does anyone know of a software/script showing the status of KVM/libvirt/virsh for apache?

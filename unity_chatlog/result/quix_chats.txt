@@ -1,0 +1,5 @@
+ Hello
+ I've been using LibreOffice on Ubuntu 11.04 a lot these days and I've noticed a strange behavior
+ when I drag content within LibreOffice (text, images, etc), Ubuntu"s dock locks up above all otehr windows, ifen if they are maximized
+ anzone else having this problem
+ even*

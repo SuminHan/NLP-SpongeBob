@@ -1,0 +1,2 @@
+ can someone verify this bug in unity + compiz? https://bugs.launchpad.net/unity/+bug/769957
+ ok

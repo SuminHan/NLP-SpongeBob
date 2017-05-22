@@ -1,0 +1,14 @@
+ vadviktor: depends which eee pc
+ !gnome3 | Cryp71c
+ mintux: sadly a flaw with recordmydesktop
+ Cryp71c: click the link and you can see the team responsible
+ mintux: recordmydesktop isn't very good at recording 3d stuff
+ mintux: i run natty in a vm and use ffmpeg to record rather than recordmydesktop
+ mintux: do it live rather than recorded :)
+ !gnome3 | raven_
+ raven_: you can logon to classic mode instead, choose that at the logon screen
+ johanhar: top right of the screen, bottom of the menu under the power button
+ Aer: sudo update-grub should list them
+ herol3oy: its ssh not sshd
+ Seven_Six_Two: I use ubuntu on a dual screen setup, whats the issue?
+ Seven_Six_Two: i use ubuntu 11.04 with twinview on my desktop, works well

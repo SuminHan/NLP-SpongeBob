@@ -1,0 +1,52 @@
+ Hey guys. I just upgraded from 10.10 to 11.04 and I don't know if I am in unity or gnome3 but does anyone know how I can revert to gnome2 / the gnome I had before the upgrade?
+ freaky[t]: thanks. Let me try
+ freaky[t]: thank god that did the trick
+ linuasus6: see freaky[t]'s comment
+ freaky[t]: seriously. That freaked me out. I knew ubuntu was moving to unity but I kind of didn't expect a change on upgrades
+ abhinav: thats fascinating not that I asked
+ I don't get it. freaky[t] answered my question followed by two people who seem to think it couldn't be done. weird
+ Inphernal: run this and tell me if you get results: dpkg --get-selections | sed -e '/hold$/!d'
+ Inphernal: well that was just checking for any packages on your system which may have had a hold on them so if nothing then I don't know what the next step would be to debug it
+ Inphernal: on the other hand, you would have got one line for every package with a hold so we would have known what to remove the hold from but since you got nothing then not sure
+ Name141: for 11.04 it's nvidia-current but I would install the binary from nvidia. Ubuntu is always behind on the latest nvidia driver
+ Inphernal: and neither am I so good luck and hope someone else has a... wait, ppa, I thought you meant ppc for a sec, no I don't think that would be it. third party repos are automatically disabled during the upgrade
+ Inphernal: meaning ppa's are automatially disabled during the upgrade
+ Name141: what I meant is I wouldn't install it from the repos if I were you since ubuntu usually doesn't have the latest. go to nvidia.com and download the linux driver. If you really want to install it from the repos which is the ubuntu version then type: sudo apt-get install nvidia-common
+ Inphernal: keep in mind we have determined two things. It isn't a package on hold and it isn't a ppa. At least you're narrowing the list of what it could be
+ Guest29994: what?
+ vultraz: because it was just released
+ vultraz: if you want stable your best bet is 10.04.02
+ vultraz: 10.04 is stable. 11.04 is not devel.
+ vultraz: long story short I don't care if you like 10.04 or not. You asked for stable
+ vultraz: and if you like the dev version then expect it to be unstable
+ 11.04 is a final release / not a dev version but it's also very new. It has passed beta and all the RC but I bet in the next 18 months of it's life it will receive thousands of patches
+ vultraz: so now you know why it's not "stable"
+ vultraz: I run 10.04 on all of the servers I manage, on my home desktop and on my laptop and am running, as of 20 minutes ago 11.04 on my office workstation. 10.04 is pretty damned good IMHO and only a idiot would run 10.10, 11.04 or 11.10 on a server
+ vultraz: 10.04 is LTS or long term support release which comes out every two years and is designed to be stable from the ground up. The downside is it doesn't always have the latest software
+ I'm going for a smoke. be back in 10
+ celthunder: no packages are being held. I already made him do a check
+ celthunder: As far as I helped was I made him check for held packages (dpkg --get-selections | sed -e '/\thold$/!d') and confirmed that PPA was not the issue since upgrade disabled third party repos when you upgrade
+ celthunder: and that's as involved as I got
+ celthunder: np
+ JoseeAntonioR: if you are using /etc/X11/xorg.conf then you can edit that file. Ubuntu also has another means for configuring this but I don't know what it is since I use a pretty custom xorg.conf myself
+ celthunder: rmmod shouldn't apply. In order for the card to use it, part of X has to invoke it which means it should be reloaded next time he starts X
+ celthunder: for example if I have Nouvou listed in xorg.conf then it will load that driver each time I start X
+ celthunder: nah X needs the driver when it starts. You can't really change the driver mid session
+ JoseeAntonioR: well this isn't one of them. lol
+ JoseeAntonioR: http://goo.gl/72RPO
+ JoseeAntonioR: the module is nouveau but blacklisting probably won't help either. Sorry celthunder. I'm not trying to step on your feet here
+ celthunder: the problem is that X thinks it should use this driver so we need for X to think it should use the proper one
+ JoseeAntonioR: run: sudo lspci
+ JoseeAntonioR: then put that on pastebin.com and send me the link
+ JoseeAntonioR: xorg.conf works in 11.04. I am using it now
+ xorg.conf should always work and should always be the over ride afaik
+ JoseeAntonioR: sudo lspci -n | sed -e '/00:02\.0/!d'
+ then paste that one line
+ abhinav_: yes I do and it's usually not easy
+ JoseeAntonioR: sudo lsmod | grep -e 'i[89]'
+ JoseeAntonioR: sudo modprobe i810
+ JoseeAntonioR: just tell me if it gives you an error or anything
+ celthunder: I must have missed that part as I was looking into his problem. JoseeAntonioR so you're problem is resolved?
+ ohsix: yeah I have read that his card is i810 and I have also read that there are a list of issues with i810
+ JoseeAntonioR: you can try
+ celthunder: thats an option but I don't think it applies though I could be wrong

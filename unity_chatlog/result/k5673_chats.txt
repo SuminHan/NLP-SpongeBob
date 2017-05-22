@@ -1,0 +1,1 @@
+ Hello! Somebody have vmbuilder config file for ubuntu? i want to call vmbuilder with vmbuilder -c /path/to/config/file

@@ -1,0 +1,1 @@
+ david8732: libre is a fork from ooffice due to some layer 8 issues with oracle

@@ -1,0 +1,97 @@
+ taglass, that's what i told thegoodcushion in #debian
+ Starminn, don't hold your breath.  Ubuntu isn't going to use Gnome...
+ Starminn, i've personally moved to Debian because of Unity
+ amit, i've never heard of either nvidia or nvidia-utils (but i'm not using 11.04)
+ silvery, you can only use the Alternative CD for upgrade, NOT LiveCDs
+ mello, debian is an option...
+ thegoodcushion, you don't understand linux.  Choice is a good thing.
+ mello, good thing there are lots of options out there ;)  see above ^^
+ red2kic, that's way too complicated ;)
+ red2kic, i'm just joking
+ linuxuz3r, no 10.04is LTS
+ related to Rehan's question above, it is possible to use Nvidia Proprietary drivers in 11.04?
+ Magnusson, cd -
+ spikebike, i didn't think it was possible to use proprietary Nvidia with 11.04
+ ManOfTheTuxWorld, you might want to ask in #vbox, when I tried 11.04 in VBox guest additions didn't work either.  Good luck.
+ lampliter, faster in most areas, supports more ram
+ lampliter, little has changed with 64bits in the last year...
+ vibhav, -d in update-manager if for "development" ie. alpha/beta -- Natty is now stable
+ MohammadAG, dist-upgrade does NOT update to a new version
+ MohammadAG, sorry that is correct then!
+ nabi1, you need the alternate cd, NOT the LiveCD - don't ask me how though
+ Artarian, reinstall...
+ Artarian, as in - fresh reinstall, rollback not supported
+ Flynsarmy, i don't think any Nvidia proprietary drivers will work on 11.04... I've asked in the channel, and don't believe the one person who said they have it working (i could certainly be wrong)
+ Flynsarmy, in 11.04?
+ Flynsarmy, interesting...
+ Flynsarmy, Nvidia said they weren't interested in using the replacement of Xorg... forgot what it's called.
+ Nabi, i don't think the DVD is an alternate, i think that's a Live, thus can't do upgrades
+ html_inprogress, "hostname" in a terminal will show you
+ Flynsarmy, thanks.
+ miles__, expect all mirrors to be busy for the next couple of days
+ jaymeskeller, see !grub2 but you probably want /etc/default/grub
+ Shaggy2, "sudo service gdm stop" perhaps
+ !register > Avt_
+ !natty > Vustom
+ Avt_, you need to register with Freenode, see the !register factoid (i already tried to send it to you)
+ dxdemetriou, "sudo nvidia-xconfig" would generate one (at least pre-11.04)
+ Lesterwood, follow the logout / classic option to get a more familiar UI
+ Blue1, very common
+ Lesterwood, well forget the bottom panel ;)
+ Byan, /etc/X11 - but it's not there by default
+ Lesterwood, i don't think you can customize Unity very much.  Good luck.
+ Byan, you need to stop GDM then run "sudo X --configure" then copy the generated xorg.conf.FOO (in /root) to the proper location
+ Byan, i'm done.  Good luck.
+ Byan, sorry yes Xorg
+ Byan, no, it is X --configure
+ Ubuntu_user, 110.10 - what that's a WAY future version ;)
+ Ubuntu_user, /etc/fstab
+ Ubuntu_user, drive?  if your the one asking about the windows bootloader BCE (whatever) I have no idea.  Linux doesn't use drive letters.
+ beoyndcr, Stryker there are other distros out there
+ Maahes, mplayer
+ stercor, did you install ssh server?  is it running "ps aux | grep ssh"?
+ Viking667, there is an Ubuntu One channel... probably #ubuntuone (but i didn't check)
+ !panels | thelorax
+ !panels | thelorax
+ thelorax, are you using 11.04?
+ thelorax, disregard the !panel factoid then!
+ thelorax, welcome to unity ;)
+ thelorax, i repeat - welcome to unity.  I've stopped using Ubuntu because of Unity myself.  Good luck.
+ thelorax, debian / trisquel
+ thelorax, have you tried "Classic Mode" from the GDM screen?
+ thelorax, GDM = the login screen, select your user name, then at the bottom click Session
+ thelorax, glad to help
+ alokar, mozilla PPA
+ alokar, i couldn't tell you for sure, but i'm sure that would work - i believe there is a stable (vs daily build) PPA though
+ alokar, the daily ppa is built each night
+ Romance, a question for #ubuntu-offtopic
+ OsamaDeadYay, for desktops until 2013 April or so
+ OsamaDeadYay, after that?  I guess so?!?!
+ Josesordo, i was just looking at http://www.ghacks.net/2010/07/11/run-compiz-with-xfce4/
+ Josesordo, ?
+ bear_, if u-r-e doesn't have what you're looking for check out w32codec (or w64codec) from Medibuntu
+ bear_, u-r-e should cover "most" of it
+ Rehan, vga= is deprecated
+ Rehan, what version of ubuntu did you find that by default?  it's not directly translated to a 795 pixel resolution BTW.
+ Rehan, lol figures.
+  _genuser_ i don't think many of the experienced users in this channel would recommend upgrading ubuntu.
+ _genuser_, sure, downgrade = fresh install
+ wolfreak_99, it's very unlikely that you find a method to install to non-standard location I'm afraid.  Best of luck.
+ Buddhacz, unlikely, you'd need to symlink a lot of different folders (libs, bin, etc)
+ wolfreak_99, dd will replace EVERYTHING at a low level (proceed with caution), rsync is at least at a file system level, and more common for backups
+ IsmAvatar, to find your gfx card "lspci | grep -i vga"
+ Jasonn, close any update / synatpic / usc windows
+ jwtiyar, you can only use the Alternative CD, and NOT the LiveCD for upgrading
+ !alternate | jwtiyar Omega
+ xangua, oh, then the !alternate factoid needs updating ;)  thanks good to know.
+ Omega, as well as being a text mode installer it's "also" capable of updates
+ Newbiehere, AMD64 will work on Intel as well
+ Jasonn, XFCE uses close to the same amount of resources as Gnome, lxde (what lubuntu uses) is lightweight in comparison
+ Jasonn, you could install lxde on Xubuntu and give it a try, you certainly don't need to reinstall an OS
+ beanstalk, by default LTSs will only upgrade to another LTS - sorry I don't know what you have to change to get non-LTS version.  Good luck.
+ DasEi, "u-m -d" is saying update to development version
+ wasabi, multiarch is a Debian thing isn't it?
+ Jasonn, "lspci | grep -i vga"
+ pie_, alt+sysrq(usually printscreen)+k
+ pie_, /etc/X11/xorg.conf probably
+ belak, in /etc/grub.d "sudo chmod -x 20_memtest86+"

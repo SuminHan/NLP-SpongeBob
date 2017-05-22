@@ -1,0 +1,7 @@
+ Hi
+ If I download an iso with torrent, it's not possible to be corrupted, right ?
+ rhizmoe, I've heard it's not possible with torrent, but possible in http/ftp download.
+ ayecee, Yes I've heard that.
+ gaurav_sood91, what is the error ?
+ rhizmoe, thanks.
+ Good afternoon / night everyone

@@ -1,0 +1,152 @@
+ is clicking on Firfox... watching the icon pulse... and .... nothing happens (acer aspire one, win 7 starter garbage, Ubuntu on 4 gig flash, everything loaded ok, got internet access)
+ brb in 1 minute... I would like to PM anyone about my firefox issue in Ubuntu on my flash drive
+ this room is flying!
+ etcetera
+ latin for "and so on"
+ ha hahahhahaha
+ sorry
+ lol
+ have to leave my chair for 1 minute
+ brb
+ is now sitting at his computer, asking for help with Ubuntu on a flash drive... trying to get Firefox to actually open and not just blink
+ does anyone know why the Firefox icon would pulse, but Firefox wouldn't open? I'm using ubuntu on a flash drive
+ Dr. Willis: Thanks, but can you help me understand what a terminal is?
+ is it like a dos window?
+ @Dr Willis : thank you... doing that now
+ I'm in a terminal window, can anyone tell me the command line to start Firefox this way.. and I'll look for errors.
+ lol...
+ So I'm surprised...
+ firefox opened just fine this way!!!!!
+ weird
+ I just typed "firefox" in the terminal window and it opened just fine. For some reason the icon on the apps bar won't open Firefox correctly.
+ I wonder if I have to install something to make the Firefox icon work properly... I would hate to open a terminal window every time I want to open Firefox!
+ I would very much like to PM with someone who can help me with my new flash loaded Ubuntu.
+ This room is very busy.
+ I think it's good that people are getting into Linux.
+ Would anyone like to help me with my flash installed ubuntu?
+ is talking with Jenk
+ is messaging Jenk
+ yes, a thumb drive... I'm messaging you back in pm
+ pm'ed Dr. Willis
+ would like to continue to pm Jenk
+ I'm looking for help with Ubuntu I loaded onto a flash memory drive
+ ok
+ I loaded Firefox on ubuntu... I click on the icon and it just pulses.. but doesn't open.. so I...
+ opened a terminal window, typed "firefox" and..
+ it opened just fine..
+ I'm perplexed
+ In short: 1-loaded ubuntu on flash drive, 2-reloaded Firefox to try and fix issue of Firefox not opening 3-still wouldn't open, 4-opened a terminal window typed "firefox" and it opened. I'm looking to pm someone who thinks they know what is wrong.
+ I want to learn ubuntu so I can start helping other noobs.
+ I loaded using the flash installer file that was recommended on ubuntu's website
+ I did in fact drag a new icon into the bar, but that didn't work either
+ is pming Jenk right now..
+ is still working with "Jenk" on my flash drive ubuntu issues
+ Can an experienced person help me with my flash loaded ubuntu. So far I'm pm'ing Jenk, but we seem to be stalled.
+ Can someone help me with my flash installed ubuntu?
+ is pming html_inprogress
+ Is there anyone who is very knowledgeable in debugging icons that won't open the app?
+ I'm running into icon's that won't open the app
+ @LAcan : can you pm me?
+ ok
+ how do I configure the change from sudo to gksudo?
+ is that something in the system or the icon properties maybe?
+ I'm editing the shortcut...... thanks LAcan. I'll see if this works
+ How do I get into the properties for an icon?
+ anyone able to tell me how to edit an icon to use gksudo instead of sudo?
+ Sorry if someone responded to me, but I didn't see it, I'm trying to change the way an icon initiates the opening of it's respective app by switching it from sudo to gksudo. Whatever that means
+ @LAcan : can you tell me where to look for sudo?
+ I don't know how to get to the launcher properties.
+ LAcan, when I right click the only menu options are 1-open a new window, 2-Firefox web browser, and 3 -keep in launcher
+ if I say "launcher" I mean the icon in the bar on the left side of the screen
+ perhaps I need to understand what launcher means?
+ lacan, i downloaded ubuntu from canonicals website... it loaded with a pretty app icon bar on the left side of the screen
+ ubuntu stopped the netbook distro
+ they merged everything into one ubuntu
+ there is no more netbook ubuntu distro
+ lol
+ cool lacan. I'll try that now
+ awww.... man! There was an error while copying saying that the specified location isn't supported!
+ can someone tell me how to dig up the properties of an icon?
+ @gedO : sorry I'm a noob or I'd help you.
+ I'm trying to find someone who knows the way to open an icon's properties
+ anyone good at fixing broken icons?
+ jdahm? what?
+ jdahm: I'll try that.... again :)
+ some please tell me how to access icon properties
+ can someone pm me and tell me how to access icon properties
+ I'm trying to get an icon to open the app it's associated with
+ souperman, yes
+ the launcher icon
+ left click?
+ Souperman, there is no menu item for properties when i right click on the launcher icon
+ LAcan, can you tell me where the icon properties are again?
+ Souperman, I don't know what unity is
+ should I get rid of it?
+ Souperman, oh heck... I'm reading an article right now about it!!!   Man, I had no idea I was using something that hadn't been debugged yet!
+ Souperman, here's the article: http://mybroadband.co.za/news/columns/20018-Ubuntu-Unity-not-all-that-unifying.html
+ Souperman, I'm in IRC through unity's website the room is #ayatana
+ join/ #ayatana
+ join /#ayatana
+ Souperman, what's xubuntu like? will it run good on a netbook?
+ Does anyone use Gnome desktop?
+ or is everyone a XFCE fan?
+ eternicode, you tell me what you like
+ talk to me man!
+ So, eternicode, please help me to understand if your approach is superior to a fancy desktop
+ or if you're just settled in a comfort zone
+ eternicode, So do you know if there is a desktop environment, say that your friends use and are happy with? Something tried and true?
+ I see
+ lighter is good for a netbook
+ eternicode, So Gnome has been around for a while, but maybe the problem is the new "unity" thing?
+ also, do you know about XFCE?
+ I see why people fall into the poisoning embrace of Windows
+ This is nuts
+ It's so much work to fart around with Linux
+ I've spent 2 days fudging with this stuff
+ exactly eternicode!!!
+ I have a life I want to get back to!
+ lol
+ oh my freakin god!
+ I mean it's fun talking with people.. I understand why there are Linux groups :)
+ my launcher icon is broken. I can only open Firefox directly with the command window (Alt+F2)
+ ActionParsnip,
+ ActionParsnip, I tried, but I can't place icons on the desktop
+ it's not a valid location
+ ActionParsnip, nope, not yet, thinking about it though
+ it may be lighter too
+ Dr_Willis, I'll have to try that after I'm done with Unity's support person
+ thanks though
+ ActionParsnip, yeah, seems like unity is too "wet behind the ears" still...
+ does pasting my .xsession-errors expose my confidential information?
+ just wondering
+ mang), were you talking to me?
+ anyone experienced with natty?
+ can you tell me why the Firefox icon isn't showing in the launchbar when there's an open window?
+ ActionParsnip, yes I am
+ ActionParsnip, can you tell me how to get the icons back in the launch bar?
+ ActionParsnip, I wish there was a way for me to get the Unity to work
+ but if you think that it's too new than I'll switch
+ How many people here have tried Unity and not liked it?
+ tsimpson, can you tell me how to get the Firefox icon to show up in the launch bar?
+ tsimpson, what do you use for Linux OS?
+ tsimpson, have you used anything else?
+ tsimpson, this channel is about ubuntu, see I understand that, what I'm trying to do is learn whether learning about ubuntu is a waste of my time, why are you here if you use Kubuntu?
+ tsimpson, ok, I'm using ubuntu, it's not working, does that satisfy you?
+ can someone help me make ubuntu work?
+ I'm using the new Natty with Unity and the launch bar is bugged. It should be put back in the beta room.
+ Ubuntu people must be too worried about their competition to admit that they have realeased something prematurely.
+ By Ubuntu people I mean Canonical people
+ ThinkT510, see your the second person pushing XFCE. I'm thinking that it's currently the best desktop environment. I've also had a couple people suggest that I just go gnome classic with Compz or something like that
+ jrib, can you help me fix my icons to work?
+ jrib, than go kiss a cobra
+ Can someone help me switch to Gnome classic from Unity on Ubuntu Natty?
+ Where do I log off?
+ I see lock screen, Switch from ubuntu, suspend, restart, shut down, system settings
+ ActionParsnip, I don't see log off in the upper right corner.
+ ActionParsnip, What is restart x?
+ ActionParsnip, c-a-d doesn't have a log off option
+ ActionParsnip, When I push Ctrl+Alt+Bkspc nothing happens.
+ ActionParsnip, how do I enable the keyboard command Ctrl+Alt+Backspace to show the log off option?
+ ActionParsnips, I found it in "Keyboard Shortcuts"
+ it allows you press the keys you wish to use to modify the shortcut also, very cool
+ ActionParsnip, yes, that was the option I was looking for

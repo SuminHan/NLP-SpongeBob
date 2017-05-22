@@ -1,0 +1,37 @@
+ HyperShock, try http://www.webupd8.org/2011/04/things-to-tweak-fix-after-installing.html
+ malik: i tried that and and worked
+ I tried "top &". It went background
+ lykkefeen, this is a good question
+ lykkefeen, I am actually finding unity-3d more stable :) not sure if statistically relevant, but I have a few glitches on the unity-2d and I stil hadn't in unity-3d
+ lykkefeen, homewer, I am sticking to unity-2d because I use BOINC and the GPU for scientific computing, so having an hardware-accelerated desktop is unpratical
+ lykkefeen, Nvidia 270's on a Fermi GT430, but most of glitches occur while using flash player with firefox
+ lykkefeen: Not sure if its an unity-2d issue, because too many variables changed:  Firefox version, Ubuntu version, even the Flash version: I still have the default plugin, I am not sure its the nonfree one. As you can see, I am not a statistically relevant case, but I am loving Unity...
+ why everything I read is double?
+ no, other rooms are fine. Its just this room: each message is displayed twice
+ but he does reach the grub item 'rescue mode' I guess
+ baskak: upgrades are being a curse
+ baskak: just be prepared in case something fail. have a burned ISO of the 11.04, backup of data, home and so on...
+ baskak, try ubuntu forums and google, I bet the online community will be able to help you
+ wolfreak: just use 2 hard disks in raid :)
+ or simply 2 hard disks manually mirrorer
+ jeniffer82: what do you mean by no frame?
+ jeniffer82: of course not. If something didn't went well after upgrade (common occurrence) then burn an iso of 11.04, backup your data and do a fresh install
+ Lcawte: Thats not good. We are talking about an ubuntu problem I guess, but make your first priority to backup your data as IF your hardware should fail for whatever reason, your data would be lost anyway. This applies to Windows, to Linux and to every other Os.
+ dd214, first selet a user
+ dd214: then menu should appear, as long as the password box appear
+ dd214: It will work ;)
+ zvacet, the menu in wich you can choose gnome or unity appear only when you select a user from the list...
+ zvacet: wait for he to report back ;)
+ burn iso, reboot, start the livecd
+ then it will ask you if you want to install or just upgrade
+ fachher: excess number of simultaneous connections maybe?
+ gare: I am a power user and like it. Its nead and orderly, and I like it even if I am not a noob
+ flametai1: what error does it give you?
+ flametai1: upgrade I bet
+ flametai1: I can't solve your issue, but I had a similar one while upgrading from 10.10. Stuck on login, it gave me a 'module is unknown' error after typing credentials and pressing login. I spent about 1 hour looking for solutions in a forum but just spent 15 minutes making a fresh install
+ flametai1: Hope you get the idea
+ flametai1: I am not sure because I never did an USB install, but I've read that USB-boot is not always possible with older bioses. Maybe I am wrong, but I suggest you to check your bios to see if you see any related option and enable it eventually
+ takeshi I heard gnome3 + unity might cause problems
+ why empathy often do not show in the launcher'
+ !bazhang
+ !bazhang

@@ -1,0 +1,3 @@
+ ...Hello?
+ Hi! :) I'm trying to figure out this new version of Ubuntu and I'm not used to the chat client. How can I get it to tell me which of my friends are online?
+ Oh! Never mind, I figured it out, it's up under the mail icon. You click on the chat client from there and it'll bring up your contact list.

@@ -1,0 +1,3 @@
+ eiriksvin: Best bet would be recordmydesktop (with the gtk-recordmydesktop front-end).
+ eiriksvin: sudo "apt-get install gtk-recordmydesktop" (works in Natty, AFAIK)
+ Perhaps clear out the directory </var/lib/apt/lists>, and then run "apt-get update" again.

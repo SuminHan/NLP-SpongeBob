@@ -1,0 +1,4 @@
+ wieldy_NIOS: today
+ while I boot my ubuntu 10.10 I get a *underscore* blinking for about 4 seconds, is there any way to replace it by ubuntu boot screen?
+ would it be safe if  I remove quiet and splash from GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nomodeset video=uvesafb:mode_option=1280x1024-24,mtrr=3,scroll=ywrap"
+ I want Ubuntu boot menu instead of the blinking *underscore*

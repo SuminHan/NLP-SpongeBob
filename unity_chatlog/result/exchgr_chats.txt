@@ -1,0 +1,9 @@
+ does anyone know how i can use a mirror for upgrading to natty? this is slooooow
+ ActionParsnip, yes, but wouldn't at least one of them be less slow?
+ ActionParsnip, they should set up a torrent-based apt
+ ActionParsnip, wtf is that? *googles*
+ is anyone else missing a ton of indicator applets?
+ DasEi, how do I go about doing that?
+ DasEi, thanks
+ is that true, what that spambot said?
+ good stuff

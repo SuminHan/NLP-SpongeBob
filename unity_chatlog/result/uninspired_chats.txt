@@ -1,0 +1,8 @@
+ My question does not contain any unity bashing, i would really like to give it a try -- but am failing to get it setup as i would like. I have a dual monitor setup, an external screen hooked up to a laptop. I set the external screen as primary display hoping it would show the dock on there but that unfortunately did not work. The global menu does show up on both screens, does anyone have any suggestions ? ( i did set the external
+ Dr_Willis: thank you, it's a bit inconvenient to go from the "main screen" to the "secondary" to open up applications.
+ Dr_Willis: the only settings i can find are wether to unfold the dock when hovering the mouse on the left or left angle.
+ Dr_Willis: reorder meaning?
+ Dr_Willis: right, thats what i did i set my external monitor as primary, still no go.
+ Dr_Willis: i'll try the link you gave me, thank you.
+ Dr_Willis: have the same problem as alfalive on this ticket: http://askubuntu.com/questions/17074/dual-monitor-unity-launcher-opening-on-wrong-monitor
+ not sure why he says "good news" tho :P

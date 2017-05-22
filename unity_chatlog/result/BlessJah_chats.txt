@@ -1,0 +1,1 @@
+ i have guy that moved hd from one computer to another, what is name of package that he has to dpkg --reconfigure in order to get new xorg.conf (old computer had nvidia, new one has intel)

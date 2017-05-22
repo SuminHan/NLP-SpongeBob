@@ -1,0 +1,6 @@
+ any ideas how to fix my touchpad random clicking on acer aspire?
+ aspire 5310
+ ActionParsnip, do you do that in grub?
+ ActionParsnip, man, I dont know how to thank you! this fixed it!
+ what does nomux mean?
+ awsm :)

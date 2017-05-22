@@ -1,0 +1,4 @@
+ I just installed gnome 3 on ubuntu natty by adding the official ppa and dist-upgrade + gnome-shell. gdm now doesn't list any users (just auto-login and other) and doesn't allow me to login. When I keep pressing return I can see 'Permission Denied' flickering.
+ rumpe1, it's a new install so I didn't lose anything. But experimental ? doesn't 'released' mean it's tested and stable ?
+ I can see that..
+ ActionParsnip, yeah I asked there already

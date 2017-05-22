@@ -1,0 +1,4 @@
+ does ubuntu 11.04 's ffmpeg come with h264 support builtin ?
+ does ubuntu 11.04 's ffmpeg come with h264 support builtin ?
+ ikonia, how can i be sure ?
+ k, nm, i see

@@ -1,0 +1,2 @@
+ i dont know if anyone else has the same problem - after upgrading to 11.04 on my netbook all i can see in GUI is the background and the coursor. If i go ctr alt f2 i can go to console but i do not know how to fix my GUI
+ i got background only after upgrade please help

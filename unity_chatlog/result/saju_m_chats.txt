@@ -1,0 +1,10 @@
+ how set 10.10 style back to 11.04
+ have any way to set ubuntu 10.10 theme(GUI) in 11.04
+ 11.04 UI is very confusing
+ i need 11.04 with 10.10 theme
+ <Dr_Willis> how do that ?
+ ok
+ i tried to install cinelerra, but getting error, http://dpaste.com/537555/
+ i trying to install cinelerra, but getting error, http://dpaste.com/537555/
+ please check this http://dpaste.com/537555/
+ i trying to install cinelerra, but getting error, http://dpaste.com/537555/

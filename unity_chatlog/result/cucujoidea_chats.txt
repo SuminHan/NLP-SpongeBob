@@ -1,0 +1,2 @@
+ hello, thanx for the new ubuntu. I have a question regarding the installation: i have the 11.04 .iso file (on ubuntu 10.10), right clicked on it and integrated it as a "drive" which is shown on my desktop. can i upgrade from it without burning the cd? if yes, how can i point the package manager to it?
+ rumpel: does that allow an upgrade without complete reinstall?

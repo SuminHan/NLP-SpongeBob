@@ -1,0 +1,9 @@
+ Hi i hav a problem with making a usb startup disk with 11.04
+ for some reason the live usb installation disk i made can't boot
+ it doesnt even get to booting
+ i've done it before on the same computer and it worked
+ with a different distro
+ no it was lubuntu
+ no both computers used intel graphics
+ Dr_Willis, do think they .iso image i downloaded might be corrupt?
+ Dr_Willis, the download isn't corrupt

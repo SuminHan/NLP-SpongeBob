@@ -1,0 +1,12 @@
+ rww_, what's the differences in packages between the natty you can have now, and the natty that comes out later today?
+ rww_, bugfixes since the last freeze? how much time elapsed since then? :P
+ rww_, huh, cool!
+ so -- what are the common questions that people ask about nattttty
+ Natty's keyboard is less responsive than maverick's -- anyon equess why?
+ does ubuntu have a really stylish digital clock screensaver somewhere
+ Froq, more like netflix can't handle silvermoon
+ what does the command "cd" do when used this way? cd && bzr get lp:~b0h3m4/+junk/noflipqlo
+ pestilence, thanks
+ Is it possible to start programs before gdm? I'd like to start redshift before gdm starts so that my login screen is more gentle on the eyes at night
+ celthunder, awesome! any idea how?
+ celthunder, there's nothing in that file

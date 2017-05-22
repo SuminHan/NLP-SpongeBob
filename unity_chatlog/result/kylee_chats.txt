@@ -1,0 +1,1 @@
+ Does Ubuntu work good for a LAMP server?

@@ -1,0 +1,1 @@
+ Just installed 11.04 inside a Virtualbox and it's not picking up my second ethernet adaptor - what can I do to debug it? I've added a line for eth1 in /etc/network/interfaces

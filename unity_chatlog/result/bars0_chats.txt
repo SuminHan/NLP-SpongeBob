@@ -1,0 +1,1 @@
+ rhin0: you can install later kernel from standard Ubuntu repository: as far as I remember 2.6.35

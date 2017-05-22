@@ -1,0 +1,2 @@
+ Hi, for installing on macbookpro7.1 do I need the +mac iso, or normal one ? also 32 or 64 bits ?
+ Hi, anyone running natty on macbookpro7.1 ? I'm not getting wifi

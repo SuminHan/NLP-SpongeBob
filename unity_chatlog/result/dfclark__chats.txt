@@ -1,0 +1,6 @@
+ Any help on installing Java on Ubuntu 10.10?
+ jdk 1.6
+ yes
+ I downloaded the JDK package from Oracle, then followed their instructions to install.  But what env vars have to be set, and where, so that other tools, etc, can use the JDK?
+ Oracle (nee Sun) JDK.  Should I use something different on Ubuntu?
+ Thank you, to all

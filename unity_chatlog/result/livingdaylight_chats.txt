@@ -1,0 +1,5 @@
+ guys: I installed wine, and I'm looking for wine configuration tool?
+ Dr_Willis, yes, used to find it under applications but having trouble with the new release
+ found it...
+ html_inprogress, winetricks is something different still. Requires separate installation
+ winecfg was what I was looking for, but couldn't remember the name, which made finding it hard.

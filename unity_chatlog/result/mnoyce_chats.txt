@@ -1,0 +1,28 @@
+ Spotted a bug in the 11.04 disk partition part of the installer. No longer lets you type a mount point. You can only select from the drop-down list of options.
+ Not liking 11.04 at all... Going to give it a chance for a week, but I'm just getting frustrated with it at the moment... :-/
+ shane4ubuntu: I could, but I want to give it a try if this the future of the Ubuntu desktop, just to be fair...
+ Is there anyway to turn off the Apps for Download list?
+ ninjai: Ctrl+N?
+ ninjai: If you have the file manager open, Ctrl+N should open another window.
+ ninjai: I had the same issue this morning and when trying to open multiple terminal windows. :-/
+ Does anyone know if there's any way to turn off the Apps for Download list thingy?
+ skulltip: It's different...
+ skulltip: Feels very... clunky and awkward at the moment. But it's only been a few hours in the driving seat.
+ skulltip: Don't play that many games, to be honest, so I cannot help you there.
+ skulltip: First time I've used Compiz for a few releases.
+ Ctrl+W makes switching between Apps on Desktops a lot easier...
+ Oops! I meant Super+W makes switching between Apps on Desktops a lot easier...
+ ManDay: No. The netbook and desktop versions are now one and the same.
+ Webupd8 (http://www.webupd8.org/2011/04/things-to-tweak-fix-after-installing.html) has some nice tweeks. I've turned off the new scrollbars as: A) Not all Apps support them, and B) I just prefer proper scollbars.
+ Why are most Apps opening maximised when I launch them?!?
+ yuskhanzab: I guess the servers are getting overloaded a bit at the moment. Apt-get install is also slower than normal at the moment.
+ conorhogan: Super+S or Ctrl+Alt+Arrow
+ conorhogan: Windows Key + S
+ conorhogan: Assuming your keyboard has Windows key, of course...
+ conorhogan: That would be a know then... ;-)
+ conorhogan: Maybe the "Command" key?
+ Does anyone know if there's any way to turn off the "Apps for Download" list thingy?
+ How do I report a bug in the Natty installer? I have Launchpad account, but when I click on Report a Bug, I just get taken to another web page about reporting bugs...
+ Nevermind... I've figured it out...
+ ninjai: You can also open multiple windows by clicking with the middle mouse button on the launcher icon.
+ I'm getting quite annoyed with applications seemlingly defaulting to opening maximised, e.g. Totem. Is there anyway to turn this maximise behaviour off?

@@ -1,0 +1,16 @@
+ I have a no permission erro for ~/.ICEauthority after installing gnome 3 on ubuntu 11.04 anyone can help?
+ permission is already -rw-------
+ permission is already -rw-------  user user
+ ActionParsnip:  -rw------- user user
+ ActionParsnip:  so how do I solve it, I cant boot into gnome
+ ActionParsnip: that is the only user I created from a fresh install
+ ActionParsnip: k
+ ActionParsnip: created a new user and tried login to gnome get the same error
+ Im getting cant update ~/.ICEauthority with fresh install and new user any help?
+ anyone running gnome 3 on natty?
+ i dont know i cant bott into it
+ boot
+ ActionParsnip: created a new user and tried login to gnome get the same error
+ ActionParsnip: do u use gnome 3 on natty and does /var/lib/gdm need some permissions?
+ is anyone running gnome 3 on natty?
+ SWEET METHUSILAH : I HAD TO INSTALL LXDE, BOOT INTO IT THEN LOG INTO GNOME 3

@@ -1,0 +1,18 @@
+ kassah, looked under the file menu for save  ?
+ kassah perhaps print it to a file and then you have a file that has the entered contents?
+ kassah, nah, i don think it is a bug, remember it is a viewer not an editor?
+ kassah not that I can think of the moment, those xml editor perhaps can do it
+ tansell-laptop, try this  http://www.linux.com/archive/feature/125977
+ Pricey, is that a wifi chip?
+ Pricey, umm i find that newer linux-es have been lacking a stable i/o interrupt services recovery, mine get stuck at even Firefox stalling the download and the rest of system freezes
+ Pricey, i know, its the interrupt service not recovering
+ jjlee perhaps via upstart?
+ plan_rich, you can recover via livecd  and re-create the user
+ ikonia, is the newer ubuntu much much more into using upstart?
+ umm still the upgrade seems to cause lots of problems for many,  Ubuntu ought to just say, may as well install from Fresh and do away with upgrades, causes too much issues since version 7
+ excelsior, do a fresh install instead
+ karthick87, on the grub options  remove  quiet
+ karthick87, on the grub options  remove  quiet -- did you try this yet?
+ MK``, if it has data you would want to use gparted
+ upgrade as oppose to fresh install causes so much headaches
+ stercor umm you may have to parse the PAM configs for those

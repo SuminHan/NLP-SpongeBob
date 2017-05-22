@@ -1,0 +1,15 @@
+ dumb question but how to I turn off the disappearing slider feature for gtk apps?
+ Grrr system bell isn't working anyone have any idea why?
+ Grrr system bell isn't working anyone have any idea why?
+ anyone know why I can't turn on the system bell, and how to get sliders visible in gtk2 apps?
+ WTH is pcspkr not found as a valid kernel module on natty
+ I can't enable system bell, or make gtk app sliders visible at all times any ideas?
+ in a terminal
+ celthunder: terminal I am running pulseaudio but its configured to use pc speaker and worked before Natty
+ celthunder: I don't want to comeout via the speakers, I want it to use the beep on pc case
+ celthunder: gets better I can't even modprobe the damned module I need
+ great now it found it
+ but still no beep
+ How do I disable the disappering reapperaring slider in gtk
+ something chaged pan and other gtk2 apps you have to hold your mouse and hover to make the slider appear now how do I fix it to the way it was
+ how do I disable the now you see it now you don't slider bars...

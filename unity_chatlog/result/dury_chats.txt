@@ -1,0 +1,35 @@
+ hi there channel :)
+ I have created boot in a usb pendrive 11.04... it  boots without any problem...
+ the problem is in the installation procedure.... (the box I'm trying to install to it hasn't got cd-rom device)
+ and some point in the installation proccess it ask me to put the cdrom
+ when is trying to install the apt proccess
+ jiltdill: what's that?
+ jiltdill: right
+ jiltdill: I'm trying to install 11.04 through usb pendrive, right?
+ jiltdill: the box hasn't got cd/dvd reader....
+ jiltdill: that's ok but in the installation procedure it says to put the cd-rom
+ jiltdill: I told you the bios usb devicw it's ok,,, because I already boot it from it
+ escott: it boots from the usb pendrive.... the thing it's when is trying to install the apt it ask me for cd-rom
+ escott that's right
+ no grub screen
+ it get stuck
+ as escott says
+ escott: when s
+ escott: when it's to install apt module or packages or whatever
+ escott: sorry I mean when it's trying to install apt module or packages or whatever
+ escott: that's right
+ escott: are there another way to install it?
+ tried to install 11.04 from usb stick in a box without cd/dvd Device and it's impossible
+ I guess solution it's put cd/dvd reader and install it from there
+ bug usb stick installation procedure
+ Omega: yeah it does
+ Omega: so?
+ Omega: http://www.ubuntu.com/download/ubuntu/download... I've followed the 2 point  Burn your CD or create a USB drive
+ Omega: mmm Ubuntu
+ Omega: usb stick and ubuntu
+ Omega: start disk creator
+ Omega: in ubuntu
+ Omega: so I need another new usb stick then?
+ Omega: but there are other important files in the same sub stick :(
+ Omega: minimum space required for 11.04 in the usb stick?
+ Omega: I will see

@@ -1,0 +1,608 @@
+ probably wouldn't work as that's not even java but :/ i just run mine from the cli
+ cc11rocks: java -jar <file>
+ or javacc i think works
+ it is
+ cc11rocks: add a shebang to it? idk if that'd work or not
+ just an idea
+ cc11rocks: #!/usr/bin/java -jar  at the top of the file
+ probably wouldn't work as that's not even java but :/ i just run mine from the cli
+ cdoktor19: amd64
+ though you can run either...no reason not to run 64 if you can
+ Spaz_Dynamic: setup the partitions and don't format /home?
+ cdoktor19: yeah it's fin
+ temporarytao: flash works fine...just make a 32 bit chroot or use multilib
+ cdoktor19:  multilib is probably easier then unless you want to seperate 32 bit apps from 64 and since you don't seem to care...
+ renancoelho: any errors? is gdm running?
+ Herbs: init 5 is i thought X session init 3 is terminal
+ init 1 single user and 2/6 reboot/shutdown (i think)
+ Herbs: yeah sounds right
+ renancoelho: no
+ gueriLLaPunK: whatever you want? just make sure he has a shell and preferably a home dir so he doesn't get thrown in /
+ BC_: install the 32 bit libs?
+ cordoval_: stop repeating...if someone knows they'll answer
+ snow_us: visudo
+ snow_us: hmm...remove it from group wheel/sudo?
+ snow_us: you use su
+ snow_us: if you don't set a root pw or forget to just login to single user mode and set one
+ snow_us: su is a command to switch user
+ Zavior: what's the error
+ herc_: within the next 23 hours
+ guest345345: hopefully 0
+ newbie28: what's your wifi chipset
+ newbie28: ok
+ newbie28: ath9k module should work fine
+ newbie28: ? so type in the right one
+ newbie28: did you pick the right network security type
+ newbie28: do you have wpa_supplicant installed (you should but...never hurts to double check)
+ jasonmchristos: zip files are easily cracked ..not a good method of security
+ fedora fails...
+ ChronicSyncope: go for arch it totally rapese debian
+ S-M-Gl: what's the error
+ S-M-Gl: whats the error?
+ Tully_: Dta
+ Medfordite: that driver should work already
+ Medfordite: b43 i've seen used before
+ Medfordite: so? find the broadcom modules and install them and load them if they don't work use ndiswrapper
+ Medfordite: regardless b43 support works one way or another
+ rgoytacaz: blame nvidia...or use the open source drivers...which work quite well
+ rgoytacaz: cause you're insane?
+ Souperman: that's just plain wrong
+ rgoytacaz: nah lol just saying...using the oss drivers works for 99/100 things...try them out first
+ laumonier: transmission-gtk
+ Souperman: i'm on arch...which is rolling release...which just proves the above statement abundantly false ...as does gentoo, slackware, lfs, etc
+ Souperman: all of them allow you to pretty much update anything whenever you want as long a you upgrade everything else with it
+ NotTooDumb3: it's a plugin
+ Captainkrtek: what's your printer doing
+ ikevin_: crossover cable
+ ikevin_: or straight through depending what the nics are
+ Belinrahs: chipset?
+ ikevin_: ok i'll read that ina moment
+ ikevin_: switch justno router?
+ ikevin_: :/ not sure then
+ ikevin_: fibre ends are annoying...or maybe that's just cause i do them with bad equipment
+ ikevin_: i meant like physically doing them
+ not routing them /etc
+ ikevin_: hook me up with some hw :)
+ rgoytacaz: hold alt i think
+ rgoytacaz: or ctrl
+ ikevin_: yeh put them in different vlans and use the pc as the router to itself...
+ ikevin_: what's your switch?
+ ikevin_: :/ ouch...is it that different from other switches/routers?
+ ikevin_: from the variety of cisco routers/switches/etc i used 9/10 times the commands are the same despite model
+ ikevin_: ah
+ ikevin_: well nice job...i'm envious....if you're hiring...let me know :)
+ ikevin_: mix of both
+ ikevin_: more software
+ ikevin_: move this to pm?
+ tanath: what packages is buggy
+ tanath: ok i just got here let me scroll up
+ tanath: ok is it a physical mouse or a touchpad
+ tanath: do you have an Xorg configuratioj
+ tanath: ok can you check /etc/X11/xorg.conf.d/ see if you have a config there thats limiting your scrolling
+ tanath: that's where synaptics allows you to limit that stuff anyway
+ tanath: yeah but doesn't hurt to check if they used the same config location (and other stuff goes in that dir too)
+ tanath: ok do you have a /etc/X11/xorg.conf
+ tanath: ok can you pastebin your xorg.conf then
+ Cairo|Mac: unless you're WM is on the samba drive it has nothing to do with samba that you're getting dropped to terminal
+ tanath: ok np
+ Cairo|Mac: then swifch to a terminal and fix you video drivers
+ alt f1 / f2
+ Geet: thats preference i prefer arch to anything else but others will give you different answers
+ Cairo|Mac: alt f1 f2 f3 etc
+ tanath: add an entry for your mouse
+ tanath: it's probablty not a bug...just add an entry in your xorg.conf for your mouse
+ krakpot: is gdm loaded?
+ krakpot: or some other startup manager switch to a terminal and telinit 3 then startx
+ tanath: ok
+ tanath: then it could be evdev the kernel or any number of things
+ mikinanuq: yes you can
+ mikinanuq: randr
+ mikinanuq: try xrandr to load your hdmi after booting
+ krakpot: go to a terminal telinit 3 then type startx
+ krakpot: what happens?
+ Julie972: those aren't commands you run in grub
+ Julie972: so they should fail
+ krakpot: so install it
+ antiphysicist: duh...it's supposed to do that
+ antiphysicist: if you want to use your terminal more than one app at a time add an anmperstnd after the command
+ krakpot: so install a login manager like gdm kdm slim whatever
+ krakpot: lol ....you need one if you want to satrt x automatically
+ krakpot: so add a 3 in grub to boot to terminal mode
+ krakpot: then you'll boot to init 3
+ LAcan: you can install gnome if you want
+ LAcan: and to answer your question on swap ...depends on your ram usage and how much you have..if you have 20gb and you on average use one...don't make a swap dir
+ krakpot: that work?
+ krakpot: http://nixcraft.com/linux-software/2654-ubuntu-set-default-runlevel-etc-inittab.html
+ ZykoticK9: theres no such thing as 100 percent stable software
+ krakpot: ? any luck
+ Shaggy2: xrandr -output <OUTPUTTORESIZE> -mode 800x600
+ krakpot: then edit /boot/grub/grub.cfg and add a 3 to the kernel line
+ krakpot: save and next reboot should work
+ Shaggy2: so use that and change 800x600 to whatever
+ Shaggy2: ok uhm what ui you using
+ Shaggy2: that sounds more like a window manager restriction than anything
+ Shaggy2: change the outputhere part to the one you want
+ Shaggy2: for example i'm on a netbook so i use xrandr -output LVDS1 -mode 1024x600 -output VGA1 -mode 1440x900
+ Shaggy2: also helps to spcefiy where to put them such ass ad -right-of LVDS1 after output vga1 asw ell
+ Shaggy2: sure type xrandr by itslef to find what the current outputs/settings for each are
+ Shaggy2: should be able to find the errant one
+ Barsuk: install unity/gnome whichever you want
+ Cairo: i helped you ? when
+ karthick87: that's a security feature.
+ pamela: .bashrc or .profile or in inittab
+ pamela: depending on the command and who you want to run it as and at what init level
+ Pascalcmoi: so start submitting bug reports
+ Pascalcmoi: i don't even look at my ubuntu comp...it's a server and i havn't touched it other than to fix a thing or two ...i use arch day to day
+ pamela: probably in your gui's startup scripts then
+ pamela: add it to your .xinitrc
+ pamela: open a terminal nano ~/.xinitrc find the uncommented line (the one not starting with a #) and add your conky line before that one
+ B_K_N: ntp
+ well assuming you want the right time ntp and set your timezone in sysconfig/tzdata
+ pamela: try adding it to .bashrc or .profile then
+ HomuHomuHomura: depends what's broken
+ Inphernal: so what packages are being held
+ jetole: ok
+ thanks MK```
+ Inphernal: jetole did you md5 your packages, any of them just crashing out? what happens if you install a few at a time
+ HomuHomuHomura: uhm what're you recovering from
+ if you're recovering something i'm assuming something is broken
+ HomuHomuHomura: then yeah
+ jetole: ok sorry for highlighting you then
+ JoseeAntonioR: rmmod <whatever nvidia driver is loaded< modprobe i915 or whatever intel driver applies
+ jetole: eh it'd fix it for the current session at least
+ JoseeAntonioR: blacklist the module you don't want
+ and it won't load it
+ jetole: fine by me lol i'm just listing off solutionsas thhey occur...i set every module i want loaded on boot and blacklisted the rest
+ sly: try alsamixer
+ Inphernal: no not really sorry
+ Pascalcmoi: what's your issue sorry wasn't reading
+ sly: ok what gui are you using?
+ sly: and what's your default audio controller alsa or pulse?
+ and either way i'm fairly sure your multimedia keys shouldn't be affected by which...
+ Pascalcmoi: oh that's easy
+ add a .desktop file
+ for ratpoison
+ abhinav_: partition resize
+ sly: is something else locking up audio device? (fuser /dev/snd
+ Pascalcmoi: no you have to make one one sec
+ Pascalcmoi: ok so do this vi /usr/share/xsessions/ratpoison.desktop
+ Pascalcmoi: and then add this text to it http://pastebin.com/Scs4N6Zy
+ Pascalcmoi: replace the executable line
+ meganerd: it's in /etc/issue /etc/motd and /etc/banner or whatever files are mentioned in your sshd config
+ sly: ok
+ Pascalcmoi: so change it to xfce ...
+ meganerd: yeah...it's a script in /etc/ that sshd calls
+ Pascalcmoi: add the file i just told you to..if it doesn't exist...
+ Pascalcmoi: idk
+ and meganerd i edited it out on my server...i forgot where...it was in /etc though
+ Pascalcmoi: i just listed a possible solution if it doesn't work...oh well...if it does...yay
+ newb_: ps x |grep gnome-shell
+ jetole: he said he was using i915
+ Pascalcmoi: ok so it worked?
+ kk
+ Pascalcmoi: idk unbind it in unity...i use xmonad...so i don't have that issue
+ ohsix: i810 can work for 3d...kms is broken though
+ ohsix: jetole JoseeAntonioR disable kms?
+ ohsix: ok i stopped using that comp a while ago...was just a remembering
+ illmortal: what's your login issue
+ illmortal: ctrl alt f1 login and dmesg tail /var/log/syslog.log
+ (dmesg and the tail part are two different)
+ eh just want to know what it's stopping on
+ no
+ well if it reboots instead of throwing you in a terminal yes
+ monekfygh: not a gnome thing but acpi / apmtool
+ iam126: http://www.downforeveryoneorjustme.com/http://godmode.cc/
+ Pascalcmoi: replace what?
+ iam126:idk probably ping/traceroute
+ nslookup then ping then traceroute
+ would be the order i would test in
+ maybe switch traceroute and ping
+ np
+ iam126: ok what's the issue ?
+ iptables running on the server?
+ bad routing at a router?
+ ARP/RARP working properly?
+ illmortal: boot to init 3 does that work?
+ illmortal: from there run startx and see if that fials
+ iam126: if you're using cisco hw for the routers i can probably help a bit
+ illmortal: edit grub when booting to boot to init 3
+ illmortal: you could also use init 1 but..either way from there login as your user and type startx
+ iam126: i need a new job so lol :) feel free i'd gladly throw in a few hours free for something worth it in the end
+ tyr: whats your card chipset and issue with it also any network managers used /modules/etc
+ iam126: move to pm?
+ illmortal: in grub push e and then go to kernel line and edit it to add a 1 or a 3 at the very end (with a space after last line made) then ctrl x to boot it
+ tyr: read up and answer above questions
+ karthick87: 64 bit or 32 bit
+ karthick87: then it should be as easy as adding whatever repo flashplugin is in to your sources.list and apt-get update apt-get install flashplugin
+ brandonc503_: install an ftpd
+ Bsims: pulseaudio oss or alsa?
+ tamara__: i could read that line
+ bsims ok try load-sample-lazy x11-bell /usr/share/sounds/freedesktop/stereo/dialog-error.oga
+ load-module module-x11-bell sample=x11-bell
+ Bsims: ah that does exactly the opposite to it lol
+ newb_: do they show up as hardware, pulseuadio oss or alsa and what're you using to test did you check if muted
+ Bsims: can it find it? whats the error from modprobe
+ spicytaco: #chatzilla ?
+ dreamsforgotten: is it in your path?
+ permissions?
+ dreamsforgotten: permissions?
+ spicytaco: what're you trying todo with chatzilla i hate it as it's a terible client but ...
+ luthfi: hi
+ dreamsforgotten: set it +x lol
+ since most of the stuff in there you're executing
+ kazuhiko: ?
+ what about installing it
+ spicytaco: weechat/irssi or xchat
+ dreamsforgotten: chmod
+ newb_: is pulseuadio taking over it?
+ newb_: i'd bet if the mixer looks wierd and wierd sounds come from alsa that pulse took over the device (or that's what happens for me if i use alsa for something s while pulse is using the hardware
+ kazuhiko: ok where did you get stuck?
+ spicytaco: silverex.org -- free version for windows
+ spicytaco: not much lol it's literally the same
+ dreamsforgotten: chmod 777 adb then do ./adb
+ dreamsforgotten: if it still doesn't find it something is majorly wrong (like your 32 bit lib's
+ dreamsforgotten: add it to your path and chmod the entire directory like this chmod -R 777 ./
+ and then you can skip the ./ whenever (as long as its in your path
+ newb_: yeah you can make it work do tthis ps auxf |grep pulseaudio any results oether than your grep command?
+ Guest55198: /nick changes your nick
+ dreamsforgotten: lol i'm useless...just helping a few that i can
+ wolfric: do we care?
+ kazuhiko: what drive did you install grub to and whats the error and what version of grub/etc
+ harushimo: that's up to you but you need the SDK either way
+ _genuser_: launcher for what?
+ newb_: kill them all
+ kazuhiko: did you install 64 bit version on a 32 bit machine
+ kazuhiko: is the processor 32 only?
+ faateh: ? depends on your hardware/what you use
+ _genuser_: launcher for what? X? your WM? your question is a bit generic
+ Ziber: laptop-mode-tools
+ also acpi/apm
+ Ziber: i'm not on ubuntu so idk the relevant package names but acpi is pretty common service for monitoring stuff like temp/battery and laptop-mode-tools conrols fans/etc
+ DrMax: boot to a cd and chroot to your system
+ DrMax: then build your kernel and should be fine
+ DrMax: uhm boot to usb/cd ...go to a terminal instead of using the setup then type mkdir /tmp/a /tmp/b then do mount /dev/<yourhddwith/boot> /tmp/a  then mount /dev/<yourhddpartitionwith /> /tmp/b
+ DrMax: then chroot /tmp/b
+ er shit sorry drmax change /tmp/a to /tmp/b/a
+ in all above references
+ then chroot to it
+ dreamsforgotten: ok did you check for held packages ? someone i weas helping the other day i remember the solution for if not
+ DrMax: from the chroot finish ompiling your kernel
+ DrMax: chroot /tmp/a
+ dreamsforgotten: ?
+ DrMax: now either reinstlal the kernal package or go to kernel.org in links/lynx /using wget and dl a kernel source and start compiling
+ DrMax: to reinstall the package dpkg -i /var/apt-cache/whateveryour kernelpackage is
+ dreamsforgotten: no held packages?
+ redgone: backtrack is cool...kind of shitty for a daily distro though
+ good for what it's made for though
+ DrMax: ?
+ crlcan81: gts 250's shouldn't lag just loading the ui...
+ dreamsforgotten: idk i didn't read the first link
+ CoinOp: what else does it say
+ DrMax: what didn't?
+ DrMax: did you make your initramfs?
+ DrMax: ok
+ and in /etc/fstab your line for proc is waht
+ DrMax: mkinitcpio
+ DrMax: ? that?
+ tamara__: what's the issue with them?
+ DrMax: mount proc /prpc
+ er
+ DrMax: mount proc /proc sorr
+ drAg: i need help
+ DrMax: -t procfs
+ drAg: i need help
+ drAg: do you provide psychological help for the demented
+ DrMax: you compiled your kernel wrong then
+ DrMax: put yes for procfs support
+ drAg: you don't necessarily need a rescue cd to fix boot issues
+ DrMax: how did you reinstall the kernel
+ DrMax: mount /proc and /dev in your chroot then redo the kernel
+ DrMax: sorry i probably should have said that
+ drAg: help me..stop spamming the freaking channel
+ Ato/b 22
+ Sharpshooter761: hello
+ DrMax: you need to mount /proc...
+ not unmount it
+ DrMax: mount it before joining the chroot hang on
+ DrMax: http://ubuntuforums.org/archive/index.php/t-1156240.html read that
+ lol
+ DrMax: sorry...i shoulda specified you'd need those the first time
+ DrMax: more like i just didn't think about mentioningi t
+ furous: what's your issue sorry wasn't paing attention
+ _genuser_: what version did you start out on when upgrading
+ aauthor: is there a conflicting entry in .xinitrc or in xsessions
+ aauthor: furous conflicting entry in xsessions/xinitrc/etc
+ furous: aauthor also login manager being used?
+ DrMax: sarcastic or happy?
+ lol ok
+ furous: ok login manager used?
+ drAg: why? i don't even use compiz and it sucks but if people want to use it let them
+ mdel: he's being a douche anyway, pming people etc...
+ anyway
+ aauthor: furous uhm can you boot to init 3 and type startx please
+ aauthor: furous you can just telinit 3 otherwise and do it from there
+ furous: aauthor try the above
+ aauthor: can we get someone to kick him?
+ furous: ctrl alt f1 login type telinit 3
+ furous: then type startx
+ what's the result
+ !kick drAg
+ Rockj: hi
+ DrMax: np
+ Sharpshooter761: that's because you complained about it :)
+ Sharpshooter761: so it had to work
+ furous: and result?
+ furous: so make one
+ Sharpshooter761: you can make as many clipboards as you want..theres 2 by default though
+ Dice-Man: install build-essential and go to rythmbox's site get the source extract and compile or use git/svn
+ furous: it's a file so touch .xauthority
+ furous: telinit 5
+ furous: note telinit 5 won't work if startx didn't
+ or it shouldn't
+ Sharpshooter761: i have apple pie and caramels?
+ taglass: lol true enough telinit 5 without starting x kind of is telinit 3 though (unless he added something to his int
+ eigba_: telinit just switches between runlevels
+ eigba_: though yeah i worded that badly
+ Eric__: what wireless adapter?
+ Eric__: so install intel-firmware or i2600 or whatever its called i think it's something i2600-fm?
+ Eric__: lshw
+ Sharpshooter761: ircd?
+ Sharpshooter761: pick an ircd software to run (preferably not unreal ) and install it configure it and start it
+ Sharpshooter761: if you want services install those to
+ and then link
+ furous: ?
+ furous: stay there
+ furous:
+ furous: ok so while you're there....touch .xauthority
+ (as your user in your users home dir
+ furous: capitalize the X .Xauthority sorry
+ furous: then try
+ furous: try running startx after doing that
+ soreau: change it in xsessions or .xinitrc?
+ soreau: uhm its probably what your gui stuff is changing anyway
+ Rehan: uhm what were you doing
+ Rehan: not enough tty's?
+ crlcan81: welcome to linux
+ Rehan: uhm if you ran outo f vtty's your virtual terminal won't work
+ Rehan: ...that's messed up... f6 should be your desktop and 1-5 should be terminals
+ f7 f6 close enough
+ Rehan: you could and if i were busy i wouldn't be idling here
+ ngc604: hi
+ quick answer
+ there you go
+ ok what's the permissions on your home dir
+ furous: what's the permissions on your home dir an files in it...this is starting to look like it's having problems accessing those files
+ ngc604: depending what you consider daily activities
+ ngc604: if you consider resursive compiling gcc a daily activity no if you consider normal things...you'd be fine
+ drAg: good
+ Eric__: ?
+ d4gg3r: install it
+ Eric__: lspci and look for it
+ d4gg3r: sudo /etc/init.d/NetworkManager start
+ d4gg3r: then run network manager
+ or whatever the executable is called
+ d4gg3r: then run the executable for it whatever it's called
+ stercor: iptables -L
+ cyrex: cd .wine
+ cyrex: i agree with iceroot and install ntfs-3g and mount your windows drive and cp it over then
+ stercor: hosts.allow sshd: ALL: ALL
+ furous: what's your file permissions can you pastebin ls -al ~ please as your user
+ stercor: vi /etc/hosts.allow
+ stercor: and add sshd: ALL: ALL
+ d4gg3r: one moment i'll look it up
+ d4gg3r: nmcli
+ furous: how about write permissions on other files?
+ glaceman: somewhere on somenetwork yes
+ d4gg3r: so install the libraries networkmanager relies on
+ d4gg3r: ? why should it?
+ Viking667: what's the bug?
+ furous: ok
+ d4gg3r: blame the package manager and just becauase YOU need those libraries doesn't mean everyone else wants them
+ furous: no
+ Viking667: yeah sounds like a bug to me
+ d4gg3r: i didn't say that
+ binox: why are you editting xorg to blacklist/unblacklist modules?
+ binox: /etc/modprobe.d
+ daniel_: what wm/de
+ daniel_: window manager/desktop environment you're using?
+ daniel_: ok idk then...i use xmonad
+ semitones: yes it's entirely possible
+ Peddy: dmesg | less
+ daniel_: does wlan0 or similar show up in ifconfig
+ semitones: edit /etc/inittab
+ daniel_: or whats wrong with your wireless
+ xyq: english?
+ binox: /etc/modprobe.d
+ semitones: ok edit whatever replaced that then
+ daniel_: is usb0 your wireless?
+ mah454: edit your cups setting
+ daniel_: no
+ thelorax: perhaps
+ daniel_: ok lspci do you see your wireless card?
+ hi MK`` sup
+ daniel_: Network controller: Broadcom Corporation BCM4311 802.11b/g WLAN (rev 01)
+ daniel_: did you loadthe broadcom drivers/firmware?
+ thelorax: i think that's supposed to happen no idea though...
+ thanks tmp__
+ daniel_: did you read tmp__ 'scomment on it?
+ daniel_: also modprobe b43
+ POOPHAMMMER: did what right?
+ POOPHAMMMER: sure why not
+ Zeeofu: personal preferences
+ someone kick poophammer
+ .votekick poophammmer
+ you spam the hell out of the channel until a bot bans you poophamme thats how
+ thank you bazhang
+ boot: open source drivers for ati are better than catalsyt for 9/10 things
+ b 21
+ madradavid: you're here...whats the problem
+ Anax192: whats the prolem
+ problem
+ Anax192: boot to init 1 (add a 1 to the end of the kernel line in grub)
+ rafi_: that's a problem?
+ Kingsy101: network is  your subnet gateway is your way out of the network (usually your router)
+ Kingsy101: you at home on a home network with stock settings it's likely 255.255.255.0
+ Kingsy101: nvm sorry
+ Kingsy101: i'm doing too many things at once atm ignore me
+ biz is key the right arguement for that?
+ chaospsychex: what graphics drivers/gui are you using
+ chaospsychex: lsmod |grep i915
+ area51pilot: startx
+ area51pilot: or telinit 5
+ area51pilot: do you have X insatlle?
+ chaospsychex: searches loaded module for i915
+ ikonia: ok good to know
+ area51pilot: what did it fail with?
+ chaospsychex: that's the most common intel driver (including the one I use)
+ area51pilot: ok
+ chaospsychex: lsmod
+ area51pilot: what graphics card are you using that fglrx is fubared
+ chaospsychex: rmmod <current driver>;modprobe <new one>
+ area51pilot: are you uing proprietary drivers for your card?
+ area51pilot: switch to th open source ones then try
+ chaospsychex: what gui are you using and what's currently loaded?
+ chaospsychex: go into fallback mode does that work?
+ chaospsychex: perhaps your card can't handle gnome 3
+ chaospsychex: i mean gnome3 in fallback mode
+ chaospsychex: no
+ chaospsychex: delete gnome-shell or if you can accss the menu's of the garbled ui go to gnome-control-center. Open System Info > Graphics. Change Forced Fallback Mode to ON.
+ Vhozard: xrandr
+ Vhozard: ouch?
+ ios32: autofs i think has a way to do that
+ FalsAlarm: build-essential
+ bison: what part of xorg
+ bison: can you get to a terminal?
+ bison: alt f1 /ctrl alt f1 when it starts going nuts
+ can someone kick him?
+ bison: ok what gui were you trying to load?
+ unityproblem: what's the dpkg error
+ html_inprogress: he needs help being kicked
+ bison ok can you try loading in fallback mode?
+ bison: can your video card handle it
+ unityproblem: what's the dpkg error
+ Bison using propriertary drivers or open source?
+ bison back sorry
+ went afk for a minute to answer a call
+ let me scrol up
+ bison: try the open source ones
+ bison: unless you set a specific driver in xorg.conf install them and then use modprobe
+ bison: still having issues?
+ bison: did the open source drivers help?
+ bison: ? i thought you could get to a terminal?
+ bison: i'd start with lsmod find your video drivers and modprobe -r them
+ bison: i'd then apt-cache search nvidia and find the open source ones and install them
+ yeah...so login?
+ bison: ? login as your user and sudo su -
+ bison: if you don't know your own usernames password then you deserve to get screwed over
+ bison: ??????? what does that have todo with anything set a .bash_profile if you want it has nothing to do with your X issue
+ uberfrau: you on 64 bit or 32?
+ bison: find your video modules and modprobe -r them
+ uberfrau: make a 32 bit chroot if 64 bit flash fails (which it does) and install it in that
+ uberfrau: then you get your 64 bit system with the 32 bit flash
+ bp0: and flash-aid is better than finding the one that works yourself how?
+ bp0: j/w....i generally view stuff like that....badly
+ bison: modprobe -r <module>
+ jgould: can just compile it there, or chroot to it
+ alphamale: dd -o <iso> <usb> that'll put the iso on your usb drive so you can install from it
+ chrisbster: do they show up in fdisk?
+ faryshta: not very...
+ chrisbster: so use that to partition instead of the crap default partitioner?
+ chrisbster: then mount your drives and skip that step
+ bison: ? how's that goign to help
+ jgould: you can set --prefix to somewhere other than root would probably be better
+ bison: yeah those are your loaded kernel modules
+ chrisbster: he's got X issues i told him to use the open source drivers
+ chrisbster: and he can't apparently find the nvidia proprietary drivers to get rid of first...meh if he reinstalls hes just gonna end up in the same place
+ chrisbster: lsmod lol
+ chrisbster: where else would you look
+ chrisbster: lsmod modprobe -r them and modprobe up the right ones
+ chrisbster: unless you have a better way
+ tripelb: vobcopy poweriso or cdrkit
+ bison: pastebin the list
+ chrisbster: it also saves from having to reinstall the proprietary ones if they aren't the issue
+ bison: wgetpaste or curlpaste (you may have to install them with apt-get install)
+ chrisbster: i don't want him to uninstall them though just unload them
+ faryshta: it's like 530 am and i'm on like no sleep again...give me a break
+ :)
+ bison: ?  sudo su - type in your user passwrod then type passwd set a root password and then type apt-get install one of the two packages
+ van7hu: chrisbster you can increase hibernate speed...depending on other factors though
+ van7hu: chrisbster you can suspend to ram instead of hdd for instance...
+ chrisbster: it does
+ chrisbster: van7hu you combine suspend to disk with suspend to ram....
+ chrisbster: van7hu that way it goes fast and if you lose power completely it's ok
+ chrisbster: something like that...benefits of both
+ chrisbster: is he trying to increase hibernate shutdown or power up
+ bison: still there?
+ chrisbster: nvm then lol i misread the first line
+ chrisbster: what i said would increase startup (or did for me) by a lot
+ chrisbster: bison uhm where we at with the pastebin
+ chrisbster: what's the default suspend method? uswusp? perhaps compcache mixed with that?
+ chrisbster: van7hu ever try using compcache with uswusp...that'd suspend pretty fast?
+ bison: what can't you do
+ Blackflowers: what's the problem
+ Blackflowers: other than a generic description of "lock up"
+ bison: chrisbster which part didn't work?
+ whatisthat: that depends on your window manager
+ bison: ?
+ Feyisayo: nvidia?
+ bison: whoami
+ bison: type that it'll tell you your username
+ bison: apt-cache search pastebin..and pick one
+ whatisthat: idk if you can do that in xfce...i know i can in my wm
+ Feyisayo: what's your video hardware
+ whatisthat: Xmonad
+ Feyisayo: ok do they have 3d support with the open source drivers
+ shcherbak: you shouldn't
+ json: chown and chmod
+ bison: ? apt-get install pastebinit
+ bison: type that
+ json: what else do you need? chown can change group and owner chmod changes execute read and writability of the group user and other
+ whatisthat: yes
+ bison: you forgot the it at the end
+ it's pastebinit
+ whatisthat: get xmonad-contrib and xmobar too...you'll want them
+ json: chown <user>:<group> <file> <file2>
+ bison: and?
+ json: chmod <user><group><other> <file> <file2>  777 is everyone can do everything
+ json: to set on a directory add a -R after chmod so chmod -R 777 / means everyone can do anything on any file (don't do that...it's suicidal)
+ bison: you don't have sudo access?
+ json: the -R works on both commands btw
+ bison: chrisbster idk i told him run that he didn't give back output
+ json: man pages and common command knowledge
+ Feyisayo: yes
+ bison: chrisbster lol no wonder he can't do anything LOL bison logout (type exit) and login as your user
+ json: they're there for a reason :)
+ json: theres some bash guides as someone just suggested that might help if you're lazy
+ __shai: yeah there is
+ Feyisayo: ? if you're using catalyst no wonder it's broken those havn't been updated since like 2004
+ Feyisayo: find them in apt then install modprobe -r the existing ones and modprobe up the right ones
+ chrisbster: i told him to sudo su - and set a root pw and just use that for now a while ago...
+ chrisbster: why not? i ALWAYS have at least 3 root terminals open...and a few user terminals too but...they're needed
+ chrisbster: ? his root password is his user password? that's just dumb
+ Feyisayo: ctrl alt f1
+ Blackflowers: up to you...
+ wn1zid: how is installing ubuntu going to help Blackflowers if it's a driver problem he should be asble to fix it in fedora or any other distro as well as ubuntu
+ bison: chrisbster ok boot to grub edit the kernel line and add a 1 at the end.  when done booting you'll be at a root terminal type passwd set a password then tytpe telinit 3 to boot the rest of the way into a terminal
+ Blackflowers: use the 64 bit....why use 32 when 64 is supported
+ vibhav: what was your issue didn't se it sorry
+ Feyisayo: when your screen is fubared
+ Feyisayo: though sooner probably will still work
+ ?
+ vibhav: uhm can't help you sorry...don't use ubuntuone
+ ali_: ifconfig -a
+ ali_: anything listed?
+ ali_: did you type ifconfig -a you shouldh ave at LEAST the lo devic
+ ali_: yeah i know lol when you said no results i was just ??? if you had screwed up your /etc/hosts anyway....uhm does it see your hardware?
+ ali_: ok but they don't show up in ifconfig? do you have the kernel modules for them loaded
+ ali_: what's your hardware?
+ ali_: you'll need b43 driver and fwcutter or something like that
+ ali_: try installing those 2 and seeing if that works
+ Chepoll: ifconfig eth0 <ip> netmask <netmask> && route add default gw <yourgateway>
+ Chepoll: do you have hotplugging disabled?
+ ali_: add the cd to your sources.list
+ Chepoll: check your xorg.conf
+ Chepoll: also do you have evdev installed
+ magum: ctrl alt f1 ps and kill the x session
+ coun: nvidia cards are still by far better supported than ati, just use the open source ones
+ coun: uninstall and modprobe -r the proprietary ones and install the open source ones and modprobe them up
+  /b 7

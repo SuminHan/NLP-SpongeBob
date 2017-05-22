@@ -1,0 +1,14 @@
+ hi, where does ubuntu normally mount a CD?
+ I am trying to mount an iso as a CD so that wine recognizes it by default :-D
+ thankyou
+ Stereocaulon_: sigh, doesn't seem to have the result I expected
+ Stereocaulon_: I have an ISO of a game. I want to open it up with wine.
+ Stereocaulon_: I mounted it with -o loop... what else must I do
+ it works that way
+ wine just doesn't recognize it :p
+ Dr_Willis: ah, okay, I think I found where
+ hey!
+ it works! ^_^
+ Stereocaulon_: I was about to say no, but it does now.
+ Stereocaulon_: diablo 2 :P
+ Dr_Willis: it's okay, I just mounted it with -o loop and told wine it's a CD.

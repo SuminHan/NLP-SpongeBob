@@ -1,0 +1,9 @@
+ Why does gksu nautilis not do anything?
+ Why does gksu nautilis not do anything?
+ Can someone please help me: Why does gksu nautilis not do anything?
+ ohsix: oh ok thanks
+ ohsix: I do want to run nautilis as root and "gksu natilus" does the same thing as "gksu nautilis": NOTHING
+ ohsix: I want to run it as root because I have a folder with a shitload of files that I need to change ownership of and i don't want to do it one by one
+ ohsix: so the -r will make it apply to everyting in the folder?
+ ohsix: so i just need to do chown  username /path/to/folder -r and that will set me to owner?
+ ohsix: that worked! thanks a ton.

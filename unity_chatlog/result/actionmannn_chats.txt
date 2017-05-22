@@ -1,0 +1,2 @@
+ Ubuntu11.04 32bit "Time&DateSettings" BROKEN       I cannot set/adjust time and date preferences. Any1 confirm this ?
+ "Time&Date Settings" BROKEN I am unable to adjust the date/time in Ub11.04 32bit

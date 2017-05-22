@@ -1,0 +1,3 @@
+ why does compiz not work like how it did in 10.04 and 10.10?  Even in ubuntu classic it strips my top bar for close, minimize and maximize, and then doesn't let me move any of my windows
+ Dr_Willis, correct, but it says gtk window decorator is running, false positive?
+ coz_, alt-f2 is doing nothing, but in a terminal gtk-window-decorator --replace just hangs

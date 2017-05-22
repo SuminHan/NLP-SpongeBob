@@ -1,0 +1,61 @@
+ [19:16] <Mali> hi there... I wish to mke a usb disk but have no ubuntu nor windows, only arch linux.. how do I go about it?
+ [19:16] <-- toogreen_ has left this server (Remote host closed the connection).
+ [19:16] <Mali> unetbootin for some reason is not allowing to make me choos emy usb disk LOL.. any other ways than unetbootin (eg. dd?)
+ [19:16] <-- andevell1cus has left this server (Client Quit).
+ [19:16] <jbeatty> Can we get an op in -offtopic? We have a flooder and a derailer.
+ [19:16] <-- pizzaman has left this server (Ping timeout: 240 seconds).
+ hey, how can I make the ubuntu live usb when I don't have ubuntu (no, an dno windows)
+ Dcite.. ye .. my unetbootin is playing up though and wo't show my usb disk sigh... hehe.. ah well I will put theiso on my hard disk and boot it from there I guess
+ an ntfs partition of all things lol
+ it only finds my linux partition on an external hard disk
+ yes, it's weird.. I don't get it.. first time I see it
+ which is why I am in such a hapless position :p although actually hwen I think of it, I can install grub2 somewhere and launch an old livecd with grub2 (IM on arch2) i mean with the usb creator (i have a lubuntu 10.10 and a mint 10.10 iso on the ntfs partition
+ although I forgot about it.. haven't used them in ages
+ well they failed in me in the past alwasy KM0201 which is why I ended up putting isos on my hard disk bt anyway, here I go... thanks!
+ numbah1hax0r: thatwould have to be through wine (or a vm)
+ ok added ubu natty to my ntfs partition , will see if it works... if not I guess I will be back weeping :p
+ ok yay.. it only took  amin and I had the ubu natty on the ntfs partitin working.. sorry I forgot about my own boot system :P
+ strange, the livecd is in fallback mode?
+ if only it remained like so ^^
+ took me longer time to figure out this empathy thing ;/
+ well I booted the iso and well it looks like old gnome, not unity
+ on the live cd?
+ I have launched the iso from disk.. ah ok, nah works like a charm, crispy gfx even .. although this is HOW I want ubuntu. not unity/G3 but ah well
+ last time I tried to do that, it ended up crashing my whole system, so I left ubu for a while  but that was beta anyway
+ this is the godo thign about keeping grub on an oem partition , independent of installs.. as long as one has ONE grub2 livecd (Which I didn't but was logged in on arch with grub1 and just installed grub2) and I was set.. phew
+ sandeep I *suspect* a lot of new bugs will be abundant due to quite a 'paradigm' in gnome2- gnome 3 (and unity fo rthat matter)
+ oops, I think the installer is trying to unmount the iso partition LOL
+ r0hit: are you form sloth?
+ sleuth
+ slough or
+ damn , of all the millions of rohits, I hoped for a random encounter with an old bud ;)
+ :)
+ SASL of course: Sassy Anti-Secure Layer!
+ probably a lot of loops on fire yesh.. like a midsummer night's lady of the night's erm treasurebox
+ puda , you on alsa or?
+ blah, sound slike 11.04 is like 10.04.. not the best version
+ ye KM0201: fair enough, but I came back here for stability issues... but perhaps hmm,
+ ah man I been distro hopping for 2 months now... what a nightmare :p
+ ye lubuntu is cool
+ true KM0201: but I also wanna get used to G3 , might as well as frikking  as kde has alwasy crashe don me since 2000
+ hehe lubuntu :p
+ compiz + lxde any nifty?
+ KM0201: it is why I left ubuntu (unity + G3) although unity actually was a bit nicer I guess
+ but gnome man.. I loved them for a decade.. and well if ONLY I can bring down the menu bar back onto the windows I guess I can deal with it :p
+ I HATE moving my mouse up to the top for each little bl**dy thing I gotta do
+ lubuntu: I wa shoping so, but couldn't figure it out, ende dup deleteing the whole menu.. how?
+ coz_: when i did that I couldn't log back in to my system, had to reformat and went arch linux instead
+ it's actually AWESOME but pacman is still a lil unreliable
+ nope lubuntu when I enabled fallabck on (beta) it entirely crashed couldn't log in in any X
+ KM0201: so do I , but it isn't reliable
+ and typically, when I try and fix things, it gets itself stucjk and breaks my system, hehe
+ nope coz_ I COUDN'T I am trying ot tell you now
+ aka beta bug I guess... or alpha 3... either way.. KDE as well crashed every 3 mins
+ \so I left ubuntu
+ yesh, but I like my compiz effects ;) although I saw a very nice layout on youtube with compiz + lxde tbh
+ anyway, I wrote a post install script for archlinux and I'm at the nightmare now of seieng if I will implement wm + de combos
+ or just stick to some basic confs
+ ye ok.. sorry :)
+ not a single channel on the planet I don't get showve dinto offtopic ;)
+ MrADz: that sounds like a potentially broken ISO , have you checked the mda5sum?
+ erm hey, I mounted a ntfs partitoin it seems with -o loop and it won't umount.. and I can't install natty because of it... now when I killed the handle with fuser.. I now get stale bla bla NFS thingy

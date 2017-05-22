@@ -1,0 +1,7 @@
+ Hi, how do I know if selinux is enabled on Natty?
+ How do I open a minimized app in Unity? there is no mention at the top toolbar
+ pfifo: Which panel?
+ pfifo: Its not there. the instance is working and in the old view a small icon apeared on the top menu
+ pfifo: thx
+ Hi, how can I change the mirror I use to get the updates / new apps?
+ KM0201: thx

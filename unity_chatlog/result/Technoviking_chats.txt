@@ -1,0 +1,2 @@
+ what should I file a printing bug againist?
+ Natty nlonger reconizes my dnssd printer:(

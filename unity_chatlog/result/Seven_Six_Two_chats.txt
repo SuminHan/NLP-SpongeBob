@@ -1,0 +1,19 @@
+ uh oh. I'm going to have to install 11.04 in order to participate... Is gnome in 11.04 similar enough to 10.10?
+ gboers, so no huge surprises?
+ gboers, no I tried unity on 10.04. not for me
+ shcherbak, well it may take a while. but in, ah, about 1,400 releases from now, I'm going to have the awesomest nick
+ I'm sure by then .04-.10 will get old, and they'll switch to the more humane .2-.42 series
+ g[r]eek, the newer it is, the more likely it is that there are still bugs. If you *need* it to work, use LTS if you can.
+ geet, aren't we all?  ;)
+ Roger_Bonjabee, you mean like gray-white-gray-white-gray-white? That would drive me insane. It would reverse every line all up the screen.
+ has anyone had/heard about problems with dual-head setups?
+ popey, oh nothing yet. I use twinview with absolute positioning so that I can drag from one screen to the other. I haven't gone to 11.04 yet, so I wanted confirmation from at least one person that it can maybe work. I have an nvidia 6800gtoc
+ popey, I've downloaded the installer, and was going to try it in vmware, but that won't show me anything useful. unfortunately my only free partition right now is being used by backtrack
+ popey, good, thanks. I remember having an ati card, and discovering after an upgrade (long, long ago) that their new driver cut off support for a whole whack of cards, and xfree updated at the same time and required the new ati driver. I was so mad. SO mad.
+ I read that the new version of xorg has multipointer functionality built in...
+ tenX, a cursor for each input device. 3 mice? you get 3 pointers. all usable at the same time
+ for multihead setups? Freaking brilliant. 2 people can use a computer at the same time.
+ tenX, if you run a school...or a computer camp, or a library, or an internet cafe, there are a lot of awesome reasons
+ I downloaded 11.04 iso. mounted loop. tried to import packages in to apt-cacher, but only 24 were found. ls -R | grep deb   shows 24. Where are all of the debs? Mounted /ubuntu/casper/filesystem/squashfs and grepped again, but no debs. Where does the installer get them from??
+ Dr_Willis, I'd do a straight upgrade, but I already downloaded the iso. I'll repack from the live, and it should be ok
+ apt made it's name when people pulled their hair out because of rpm's dependency hell

@@ -1,0 +1,1 @@
+ hi all, maybe somebody can help me with setting eth card speed? somehow it does not communicate with ftth switch by default

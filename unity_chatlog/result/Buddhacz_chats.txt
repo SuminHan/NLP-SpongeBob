@@ -1,0 +1,85 @@
+ sine: you have to install nvidia drivers 4 sure
+ sine: sudo apt-get install nvidia-current nvidia-current-modaliases nvidia-settings
+ Trackymaniac: there is no Netbook edition
+ Trackymaniac: http://ubuntu-with-wubi.blogspot.com/2011/04/no-more-netbook-edition-on-natty.html
+ Trackymaniac: no Netbook for Wubi
+ Trackymaniac: noprob
+ Trackymaniac: I have tried Unity on my netbook and I was not very satisfied either...
+ vanguard: sudo passwd user
+ vanguard: root can set whatever password to any user
+ vanguard: sudo rm -f /bin/laden :D
+ Trackymaniac: I have switched back to 10.04 and replaced kernel with 2.6.38-8 and nVidia with 270
+ andreas-aaa: not booting?
+ probably yes
+ I am using classic Ubuntu, not Netbook version
+ wolfreak_99: you can install/extract anywhere
+ nanuganga: you can reinstall 10.04 and then replace some packages - you get nearly the same
+ wolfreak_99: you can symlink the entire folder
+ wolfreak_99: or set it to a special partition (probably not an option)
+ MustardCU: cannot be done
+ MustardCU: it is a system device, it is always rooted
+ wolfreak_99: use gparted
+ wolfreak_99: / set as 16 GB or so, swap = 2 GB, /var may be for 5 GB and /home for the rest
+ sine_: lspci
+ MustardCU: not sure for this one
+ MustardCU: /sys cannot be moved or linked
+ wolfreak_99: not exactly
+ wolfreak_99: http://www.thegeekstuff.com/2010/09/linux-file-system-structure/
+ MustardCU: http://www.thegeekstuff.com/2010/09/linux-file-system-structure/ same for you
+ MustardCU: very good website for knowledge IMHO
+ wolfreak_99: MintBackup
+ wolfreak_99: and you have to backup you source list (or maybe you can use ubuntu-tweak)
+ wolfreak_99: for backing up, I have some scripts on my git: mxd.cz/git
+ I have 2 scripts for backing up and restore
+ sure you have symlink some Apps folders and move it to your /home
+ wolfreak_99: the best backup solution is dd :) but takes time to create and to restore
+ ZykoticK9: symlinked folder could work - as root of course
+ wolfreak_99: I setup /media/BACKUP symlink to an external drive and then use my scripts - works great
+ wolfreak_99: https://github.com/fifunja/Linux-shell-scripts
+ wolfreak_99: when something happens, just boot Live flash, restore to / and reboot
+ wolfreak_99: nVidia?
+ wolfreak_99: you can google for some xorg.conf files for your card
+ wolfreak_99: restore - erase / and restore back from the backup
+ wolfreak_99: my friend had a problem with a new monitor so I have written the xorg.conf from scratch, fixed something and it works
+ wolfreak_99: well - the best is to create a backup first
+ wolfreak_99: I think that Live CD install erases the /
+ wolfreak_99: oki doki
+ wolfreak_99: have ya tried to purge compiz and then reinstall?
+ wolfreak_99: try this - http://ubuntuforums.org/showthread.php?t=1724835
+ wolfreak_99: BTW you do not have to sudo compiz...
+ wolfreak_99: compiz runs with your privs. only X11 runs as root
+ Jasonn: new kernel, LibreOffice, Unity
+ !unity
+ Jasonn: makes headaches for many...
+ Jasonn: http://www.ubuntu.com/ubuntu/whats-new
+ Jasonn: there are possible some tweaks to the fstab, newer kernel
+ wolfreak_99: as you can see, your Intel driver is not capable of compiz, neither Unity as it is a plugin to compiz
+ Jasonn: http://blog.mxd.cz/clanky-2011/ubuntu-asus-eee/ubuntu-asus-eee-en
+ Jasonn: this article applies to any latest Ubuntu as well
+ Jasonn: oops
+ Jasonn: check it later then - there are pictures on my site
+ wolfreak_99: The vesa driver is not capable of running Compiz, you need to install  the proper driver for your graphics card.
+ wolfreak_99: nope, wine is not an option here
+ SirScott: pastebin lspci here
+ SirScott: it is not there listed
+ SirScott: isn't it USB?
+ SirScott: like mine --- Bus 008 Device 002: ID 0a12:0001 Cambridge Silicon Radio, Ltd Bluetooth Dongle (HCI mode)
+ SirScott: try lsusb and pastebin here
+ SirScott: yeap, oki
+ LAcan: you mean = I want to run remote Ubuntu Terminal on my Windows?
+ LAcan: mmnt, my memory...
+ Jasonn: mxd.cz - asus eee english link
+ LAcan: PuTTY
+ LAcan: PuTTU is a telnet/ssh client for Windows
+ LAcan: just ssh
+ LAcan: remote desktop = teamviewer
+ !teamviewer | LAcan
+ LAcan: www.teamviewer.com/
+ KNUBBIG: he just does not know :)
+ LAcan: another option is RealVNC but takes more time to setup
+ KM0201: right (Lacan)
+ SirScott: sometimes things die... or get stolen :)
+ envygeeks: I am behind 5 routers and teamviewer works
+ KM0201: exactly - not very nice to portforward tons of ports on any router/AP in the network
+ vanguard: killall pulseaudio ?
+ gotta go, see ya round :)

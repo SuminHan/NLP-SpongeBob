@@ -1,0 +1,12 @@
+ Hi, I just installed Ubuntu 11.04 except when I tried to boot into it I got given an error message saying that my hardware isn't supported and that I'll be shown the classic environment. I have an ATI 5850 graphics card with the latest FGLRX drivers installed so I'm not sure why it's causing this. Anyone have any ideas?
+ Upgrade
+ unity_support_test gave  No such file or directory
+ I just did a standard upgrade :S
+ But it looks like unity-common wasn't installed...
+ incarus6, yes
+ vibhav, unity is saying my hardware isn't installed
+ vibhav, sorry tired. *compatible
+ incarus6, hopefully. Don't see how my hardware isn't compatible since I only bought the graphics card last year (ATI 5850)
+ vibhav, 5850 ATI
+ vibhav, It seems that you do not have the hardware required to run Unity. Please choose Ubuntu Classic at the login screen and you will be using the traditional environment.
+ vibhav, 1GB. it's a mid/upper end graphics card

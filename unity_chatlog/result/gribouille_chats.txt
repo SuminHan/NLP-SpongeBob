@@ -1,0 +1,3 @@
+ hi
+ I have a problem with kmix
+ kmix freezes constantly

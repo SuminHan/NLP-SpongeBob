@@ -1,0 +1,2 @@
+ anyone know how to switch the default desktop from kdm to gdm?
+ id10t: I wasn't able to earlier either

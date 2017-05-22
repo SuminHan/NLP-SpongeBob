@@ -1,0 +1,25 @@
+ hey, i clicked upgrade to 11.04.. and desktop is broken
+ looks like compiz is gone..
+ Incarus6, yah
+ and the left column thingy  is weird.. leaving marks  like when windows is frozen and you move window...
+ how can I change workspace?
+ ActionParsnip, don't work with 11.04
+ i want to have only one workspace
+ ccsm?
+ Dr_Willis|2, 11.04 is not compiz
+ compiz is gone
+ ActionParsnip, how can I do that?
+ reinstate 3d acceleration
+ ActionParsnip, it is ATI
+ and I'm using Additional Drivers
+ how can I find out my video chip?
+ vibhav, desktop is funky. left column taskbar thingy is funky
+ 0f:00.0 VGA compatible controller: ATI Technologies Inc Device 68a9
+ that sucks.. this graphic gard is pretty good card
+ thankfuly i still have display
+ ubuntu upgrade is always  a mess for graphics
+ euclid, don't upgrade
+ hey, in unity, how can I reduce number of workspaces?
+ I only need one workspace
+ no.. ccsm doesn't work... Win+n  does not negative window.. it opens dash board
+ vibhav, thanks

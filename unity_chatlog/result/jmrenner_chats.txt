@@ -1,0 +1,1 @@
+ hey guys ever since I've installed Natty I've had all sorts of suspend/hibernate/resume issues

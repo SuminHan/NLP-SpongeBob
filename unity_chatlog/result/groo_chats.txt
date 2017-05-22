@@ -1,0 +1,1 @@
+ i just learned the hard way that gnome 3 does >not< play well with unity

@@ -1,0 +1,12 @@
+ anyone here know anything about PXE over wireless?
+ well, that's part of the question
+ I was reading about making a grub boot disk http://wiki.linuxmce.org/index.php/GRUB_PXE_network_boot
+ Basically, I wanna boot a static CD with PXE enabled Grub, and then grab my boot image wirelessly.  anyone done this?
+ I have a couple of really old intel wireless cards I wanna use instead of throwing them away
+ nanog, can you point me in the right direction?  I'm kinda weak here...
+ is there any kind of "make boot disk" utility that will add the drivers I select?
+ nanog, what about stubborn biatches who wanna learn?
+ cool
+ u8 and u10 can both ID my old PCMCIA WLAN card, so I have faith I can get it working.
+ OH NO!  LINUX ILLEGAL?
+ sorry, ziz... couldn't help myself

@@ -1,0 +1,22 @@
+ guys how do I set a static local IP address on my local machine?
+ ifconfig tells me its changed from 192.168.0.11 to 192.168.0.4 I need to change it to 192.168.0.11 perminatly
+ extraclassic - yeah I was looking at that but, my interfaces file only contains 2 lines
+ it looks NOTHING like that example
+ should I just add a "address 192.168.0.11" line ? and thats it ?
+ anyone?
+ extraclassic - so change    iface lo inet loopback   to     iface lo inet static     and then insert the other info below ?
+ extraclassic - is that right ?
+ extraclassic - ah ok
+ thanks
+ I am assuming my ubuntu pc is using dhcp.. however in /etc/network/interfaces there is only two lines --> auto lo      iface lo inet loopback        shouldnt there be another two lines regarding eth0 and dhcp ?
+ i.e am I looking in the wrong file ?
+ ActionParsnip - so what would you advise is the easiest way to get it on a static ip ?
+ ActionParsnip - ok I will try..
+ ActionParsnip - what is the difference between network and gateway ? when I am specifying them in the interfaces file ?
+ I cant see reference to either in a ifconfig
+ celthunder - how do I find out my subnet ?
+ celthunder - I thought that was the subnet mask ?
+ sorry mask
+ celthunder - so if thats the case what do I put for "mask" ?
+ can someone tell me where I find out    network and gateway  for the interfaces file? I cant see mention of them in ifconfig...
+ can someone tell me where I find out    network and gateway  for the interfaces file? I cant see mention of them in ifconfig...

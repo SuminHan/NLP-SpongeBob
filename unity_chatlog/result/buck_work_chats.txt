@@ -1,0 +1,12 @@
+ How do I disable Unity and go back to the standard Gnome UI?
+ Well, that was an odd lag spike.
+ Not sure if you guys got my question the first time, so I'll be bad and repost it: How do I disable Unity and go back to the traditional Gnome UI?
+ Ahhh, got it. Thanks lubuntu, xangua
+ Well, one problem solved, way too many more to go. *sigh* I'm back in Ubuntu classic, and nothing works on my second monitor.
+ I get the top and bottom bars, and my desktop, but no window manager, no widgets (they all crash and won't reload)...
+ Applications I launch there won't get focus so I can't use them...
+ So does anyone running 11.04 have a fully-working Seperate X Server configuration? (Nvidia card) I was using this in 10.04 and 10.10 with no issue, but 11.04 has totally broken it.
+ I'd be a lot happier if they hadn't broken seperate X server dual-monitor mode while they were busy "innovating"
+ How do I disable Compiz in 11.04?
+ Ahhhhh.
+ Time for another logout then. Thanks, cheapie.

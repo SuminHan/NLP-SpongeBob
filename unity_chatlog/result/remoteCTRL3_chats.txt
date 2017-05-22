@@ -1,0 +1,2 @@
+ hi guys! i need some sort of linux app that helps me shrink 3MB jpegs to 150KB jepegs, any ideas please?
+ hiexpo: erm... maybe smothing that does not require an academical title...?

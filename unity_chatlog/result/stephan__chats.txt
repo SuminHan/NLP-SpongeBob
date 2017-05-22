@@ -1,0 +1,2 @@
+ hey, I have a question. I am running natty with unity and my clock applet in the panel is missing. How can I restore it?
+ Hey I got a problem with untiy, I miss my clock applet in the panel. I don't know if I deleted it or what i have done. So someone know how to restore it?

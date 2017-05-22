@@ -1,0 +1,11 @@
+ Vustom: deluge
+ (does anyone know how to organize the ubuntu launcher? there doesnt seem to be a good way to re-organize the order apps and stuff appear in...)
+ roasted_: if it's possible to adjust the brightness on your laptop you should be able to do it in the power settings in ubuntu
+ why wouldnt your laptop have brightness buttons anyway o_O
+ FREDDYP: because your caps lock key is broken. fix your computer.
+ ooops, i was scrolled all the way up and didnt realize it xD
+ rolling releases ROCK! >:O
+ does anyone know how to organize the items in the Launcher? like, re-order them? when i try dragging and dropping to a different place, it just drags the whole launcher instead of the item i clicked.
+ oh, thanks sakuramboo!
+ sakuramboo: is there some official documentation or tutorial or something for the new launcher in unity?
+ chadi: learn to create themes, then you can make it look like anything you want

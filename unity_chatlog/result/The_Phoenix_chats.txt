@@ -1,0 +1,9 @@
+ Hi guys, am trying to install RALink Wifi USB adapter on Ubuntu 10.04.
+ insmod for RT3070 ko file fails with invalid symbol.
+ (as well as modprobe)
+ the network manager shows that it established a successful wifi connection but am not able to browse. RT2870 drivers load fine.
+ what are floodbot1, 2 , 3? :/
+ anybody willing to help me with the drivers? :(
+ sara2010: a lot of people are here.
+ Am trying to install RT3072/RT3070/RT30xx RALink USB wifi adapter on 10.04. I can't modprobe/insmod the relevant driver. Says invalid symbol.
+ sara2010: Please keep questions/answers on one line, and address the recipient. Which + key did you use?

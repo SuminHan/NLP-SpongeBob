@@ -1,0 +1,144 @@
+ !release
+ whomie: no
+ Whatamess: no
+ wthf
+ ahh
+ well it's not delayed it's just waitin
+ see ubuntu doesn't sleep it just lies in wait like chuck norris
+ ayecee: I type too fast to catch it
+ renshai: here
+ Bob___: you could alwasy upgrade now and you will have it.
+ maco: well it's 7am there
+ lol
+ maco: yeah right
+ maco: you read this in a book or just make it up as you go along?
+ aroman: set keyboard shortcut preferences to what ever you want.
+ maco: they dont' fly to london for a release just fyi
+ aroman: then not quite sure what you are trying to do?
+ aroman: you can't have one key have two functions. You have to use a modifier like the Fn key
+ There haven't been updates for a couple of days now 11.04 has been done.
+ Just download the daily iso if you people want it so bad
+ tanath: devs
+ aroman: then change your keyboard shortcut preferences
+ aroman: no you can assign that a different hotkey
+ aroman: but do what you want.
+ tanath: well they aren't going to completely change the interface because you don't like it
+ tanath: just don't drag windows past the panel and they won't maximize
+ aroman: please stop
+ tanath: I don't have those issues
+ tanath: if you don't drag it past the top panel it won't maximize
+ tanath: further you drag the bigger it gets
+ tanath: you hvae to go passed it as i've stated but you'll see for yourself
+ #ubuntu-release-party would be more appropriate rather than here
+ !ot | Spaz_Dynamic ouyes
+ !ot > AustinWolfclaw
+ kaatta: you could try using a different gui. Something like xfce or xubuntu etc...
+ kaatta: there is help.ubuntu.com has low memory systems options
+ Roasted: they are out
+ ^Phantom^: what are you trying to do exactly?
+ ^Phantom^: well you can lsmod | grep snd-pcm  to see if it's running. If not try locate snd-pcm-oss
+ ^Phantom^: and I believe it's snd_pcm_oss
+ kaatta: cairo compmgr is a good one that will work well
+ kaatta: if you don't want to run compiz
+ kaatta: Or you can try mudder I believe gnome3 is using that.
+ !party > cdoktor19
+ !upgrade > cdoktor19
+ !party > dani_
+ !party > konaya
+ !ot > smw Spaz_Dynamic
+ !ot > Spaz_Dynamic
+ x3464: you can build a deb and submit it.
+ konaya: there more than 3 and it is off topic here
+ !ot | Spaz_Dynamic
+ !party > quellhorst
+ x3464: http://lmgtfy.com/?q=ubuntu+mangler+ppa
+ x3464: yes
+ Spaz_Dynamic: http://lubuntu.net/about
+ Spaz_Dynamic: http://ubuntuforums.org/showthread.php?p=10714672
+ !ot > Spaz_Dynamic
+ ktwo: http://alternativeto.net/software/pyload/
+ Spaz_Dynamic: well then stop being offtopic
+ x3464: it looks like they need a package for natty but they probably missed that deadline as well.
+ x3464: they need to release a package for the development version.
+ x3464: so it can be tested etc.. and made sure that it doesn't break anything etc...
+ x3464: otherwise it will be in ppa. Or you can build from source.
+ KatronixSerf: /j #ubuntu+1
+ x3464: it would if someone would submit a deb to teh development version
+ econnell: it's not that hard of a process to understand and there are reasons for it.
+ asee: can you describe not working
+ !party > forces
+ econnell: it's not my policy. it's pretty much every distros
+ !volunteer | econnell
+ econnell: if a user of a distro wants a package. They will submit a deb/rpm/whatever distro plox to a development version so it can be added to official repositories
+ econnell: arch/gentoo development is faster because they are rolling releases
+ econnell: i bet it was in aur in arch not official repos first
+ econnell: or testing
+ econnell: I don't know what you want. Distros that just accept any code without it being vetted or requested that would work out well.
+ econnell: aur is a user repo like ppa's
+ econnell: your app is in ppa so I don't understand the issue
+ econnell: I agree with your stance.
+ econnell: then maybe nobody wants the app?
+ econnell: it's a user based distro
+ econnell: community based distro
+ econnell: then one of them will make a ppa and produce a deb i'm sure.
+ econnell: ventrillo client or something right?
+ !part > wieldy_BIOS
+ !party > wieldy_BIOS
+ econnell: I understand your complaint but that's how ever distro works
+ econnell: okay
+ econnell: we're just trying to explain
+ !hi | sobersabre
+ econnell: you and every other linux dev
+ sobersabre: add a vga mode to
+ econnell: then perhaps the project needs to be picked up by someone else. That's how linux works I don't know what you want.
+ sobersabre: here let me get you link you need something like vga=771
+ econnell: I would put a message on your forums asking for such
+ sobersabre: sorry just saw you are using grub2 read post#17 here http://ubuntuforums.org/showthread.php?p=8024427
+ x3464: there were other words used
+ x3464: scrollback
+ econnell: nope just don't understand what you want? or what your question is? perhaps there is a miss comunication
+ econnell: I'm just trying to help and explain why it is the way it is.
+ maco: a ventrillo client. It's a voice chatting app.
+ tuckaway: is it just a default install?
+ maco: mangler
+ tuckaway: secure it from?
+ tuckaway: well if you don't enable them then no.
+ VlRUS: hit window key and type in appearance
+ VlRUS: nvm they got rid of it. You'd have to install compizconfig-settings-manager if you want to add more effects
+ avij: any of the mirrors should support rsync
+ avij: rsync doesnt care where you are pulling from
+ numberto: is it installed?
+ numberto: no are you sure gedit is installed
+ numberto: huh?
+ Trashi1: drag it there
+ launch: .10 comes out in october .04 is in april
+ jatt: let me check
+ jatt: I don't see a way but you can check. If you install compizconfig-settings-manager it will give you all theoptions to configure unity
+ !party > kristoffer_
+ avij: https://help.ubuntu.com/community/ZsyncCdImage?action=show&redirect=RsyncCdImage
+ stbain1: you need the firmware for that card. In the hardware drivers app
+ xsinick: switch to classic console
+ jubei: in natty you have to install compizconfig-settings-manager and change settings under that
+ xsinick: no it's running unity
+ eiriksvin: you can switch to classic mode instead of unity at the login screen. It's a session choice
+ zetheroo1: many people may not switch
+ zetheroo1: well you don't have to use unity on 11.04 but I still run 10.04 on my servers etc...
+ tanath: just because the version number is higher doesn't make it better fyi. 10.04 is LTS. people running servers aren't going to jump to the latest greates bug filled release
+ killer_: pidgin I believe if not it's empathy
+ blackshirt: apt-get update && apt-get dist-upgrade
+ blackshirt: add sudo in there ofcourse: sudo apt-get update && sudo apt-get dist-upgrade
+ pie_: on the homepage
+ pie_: ubuntu homepage
+ pie_: they just added a new features thing or something
+ blackshirt: cat /etc/issue
+ Ubuntu 10.10 \n \l
+ blackshirt: ^^^^
+ killer_: gnome has an applet called system monitor or something
+ killer_: there are many others xfce has one as well
+ killer_: right click in xfce and select add to panel then start typing in cpu
+ Tomas: if you don't likie unity you can run classic mode rather than switching back to 10.10
+ Geoffrey2: from ppa
+ Geoffrey2: http://news.softpedia.com/news/How-to-Install-GNOME-3-on-Ubuntu-11-04-194085.shtml
+ bibleboy: select classic from the session drop down on the login screen and you will have gnome back
+ !language | Belial`
+ omfg

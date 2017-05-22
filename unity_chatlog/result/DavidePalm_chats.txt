@@ -1,0 +1,1 @@
+ I'm having an issue, My NTFS partition shows as being smaller under windows7 than it actually should be.  If I check with gparted under ubuntu it says it should be 70+GB 30used and 40unused, but under windows it says the disk is only 37gb total 30 used, 7 unusued any idea what's going on?

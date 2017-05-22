@@ -1,0 +1,1 @@
+ just upgraded my ubuntu, and it seems that my GeForce GT 430 isn't be used by X at all, just using the on-board intel. Enabling the nvidia driver broke  3d acceleration on the intel.

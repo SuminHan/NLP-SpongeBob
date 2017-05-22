@@ -1,0 +1,13 @@
+ upgraded to 11.04 and there is no graphic desktop ... how do i start from term
+ how do i start graphic desktop from term?
+ celthunder: fails
+ celthunder: connection refused
+ celthunder...upgraded 10  to 11.04
+ celthunder:(EE) fglrx(0): firegl_SetSuspendResumeState Failed -9 ddxSigGiveUp: Closing Log
+ celthunder: unable to connect to xserver: connection refused
+ celthunder: xinit: server error
+ celthunder...any clue or clueless?  :P
+ celthunder: not sure
+ celthunder: can i list from term?
+ celthunder: I believe so
+ celthunder: ok ... im going into failesafe mode now

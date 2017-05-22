@@ -1,0 +1,41 @@
+ Anyone got time to answer a question about why I can't get my image cd to work>
+ It starts but then pauses and tells me 'undevd 83: worker unexpectedly returned with status 0x0100' and then I can't move
+ I thought maybe it was a bad image, but I downloaded a new one and it still does it
+ I right clicked the image and selected 'burn to cd'... whatever it did for that.
+ I burned a 10.04 LTS image with the same process, no problem.
+ No, from the main Ubuntu page.
+ Enter the URL in Transmission, you mean?
+ This is gonna make me sound like a moron. cd /Downloads says the folder doesn't exist.
+ I'm already in my home folder.
+ File checked out ok... burning a new cd, this time at the lowest speed possible. We'll see. I really don't want to have to sit through a 4 hour upgrade to 10.10, then another 4 to 11.04.
+ Tried my live cd again. It shows me lines of code in my BIOS font, like it's working, and then says 'udevd - work (84): /sbin/modprobe -bv pci:(string of letters and numbers which I did write down) unexpected exit with status 0x0009.
+ Repeating: "It shows me lines of code in my BIOS font, like it's working, and then says 'udevd - work (84): /sbin/modprobe -bv pci:(string of letters and numbers which I did write down) unexpected exit with status 0x0009."
+ It's a properly burned live cd with an image file that checked out.
+ Yes.
+ The hash checked out with "ubuntu-11.04-desktop-i386.iso" which is what my image file is.
+ Tried it with a USB... same error. Different work[number] but the same long string of letters/numbers and message.
+ I pressed enter to interrupt normal cd start and selected 'try ubuntu without installing' and a line of green illegible letters started scrolling down like I was suddenly in the Matrix.
+ This is what I get if I let it just run: "udevd - work[84]: '/sbin/modprobe -bv pci:v00001002d00009591sv000017AAsd00002116bc03sc00i00' unexpected exit with status 0x0009"
+ And then it stops.
+ I get the same error using a cd or a usb.
+ Repeat: When booting from live, it stops and I get this message: "udevd - work[84]: '/sbin/modprobe -bv pci:v00001002d00009591sv000017AAsd00002116bc03sc00i00' unexpected exit with status 0x0009"
+ Checked the hash on the image before burning, burned at low speed on cd, tried with cd and usb.
+ Yep.
+ Same thing.
+ If I toggle the keyboard at the first purple screen, which does appear, it lets me pick a language and gives me a couple of options, but whether I choose try or install, it doesn't work.
+ When I just pick 'install,' the green matrix letters start scrolling down the purple screen.
+ On the cd? Or the USB?
+ Well, I'm in 10.04lts... I right clicked on the iso and chose 'write to disk' and set it to the lowest speed.
+ I burned the 10.04 disk at the same time, and it worked.
+ gnomebaker?
+ I burned this latest one exactly according to that page... I also made a USB installer and they both show the same message.
+ Yet my image file checks out and I downloaded it three times from three different mirrors to be sure.
+ Thinkpad T500
+ I was running 10.10 on it. I tried to upgrade and it wouldn't boot properly after that. I had to tell it to run a 'previous linux version' but then it ran 11.04. I wanted to do a clean install so I could just start my computer.
+ I have like half an hour to get this started before I leave it for the weekend... probably gonna let it upgrade to 10.10 while I'm away and get back to it on Monday.
+ botcity, are you thinking it's just a problem with the laptop?
+ Normal iso?
+ I used both. Someone earlier suggested trying the alternative.
+ So I did.
+ botcity, sorry
+ botcity, I'll give it a shot. Have to leave to do it, so thanks for your help.

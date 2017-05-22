@@ -1,0 +1,6 @@
+ galamar: its proprietary :)
+ RT MarkSS :)
+ MarkSS:<retweet> i echo your sentiment there...
+ lucas: do an apt-get upgrade, should be all up to par
+ lucas: you already did the dist-upgrade, if you do a regular apt-get upgrade, you'll just sync up the packages that were finalized between when you installed the alpha, and now, the official release
+ cdavis: gui's are overrated anyways :)

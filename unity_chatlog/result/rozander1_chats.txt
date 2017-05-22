@@ -1,0 +1,11 @@
+ hi guys
+ hmmm ive updated to 11.04, and i have the nvidia evga 570 gtx...and basically i have to boot in safety mode...becouse i dont have the proper driver
+ guys any ideaqs if the experiemental 3d driver will fix my ubuntu 11.04 boot issues for graphics driver
+ securetux
+ are you using nvidia gpu
+ i have the same problem with the nvidia 570 gtx
+ iam tryign to use the 3d experimental graphics driver
+ maybe that will work
+ yah ill let you no
+ hi guys can someone tell me how i turn on the 11.04 effects
+ i have 11.04 just updated but my desktops the same

@@ -1,0 +1,5 @@
+ Hey all. I have  a peculiar issue with my update-grub. It creates menu.lst files. Now, I'm on Grub 2, so it *should* be making grub.cfg files instead. Can anyone help me out?
+ arand: I believe so
+ arand: thanks, that worked
+ my temperature applet on the gnome bar now show two "XX" instead of a temperature. What could be wrong?
+ my temperature applet on the gnome bar now show two "XX" instead of a temperature. What could be wrong?

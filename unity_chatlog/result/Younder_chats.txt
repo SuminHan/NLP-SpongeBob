@@ -1,0 +1,20 @@
+ is dapper out yet?
+ My Ubuntu 11.4 install can't start the xmanager. It logs in and the fails to respond to aly key or mouse commands.I managed tu shut it down and start a xaw session. Any idea what has happened?
+ My Ubuntu 11.4 install can't start the xmanager. It logs in and the fails to respond to any key or mouse commands.I managed tu shut it down and start a xaw session.
+ It seems to be oonly the x manager I can run the apps and Datatbase etc are up
+ Does 11.04 mess with .Xconfig ?
+ robin0800, well where is the configuration?
+ robin0800, I do have a proprietary NVidea driver, yes
+ robin0800, Thanks I'll try
+ Yes, seems safe mode works. But with the NVidea proprietary driver .nothing works. Not entirely sure it it is just me and that I have the right diagnosis yet..
+ Hmm seems  the video controller and PCI controller both use irq 16 no wonder it fails.. (11.04 failed to start window manager correctly, nvidea card seemed the culprit)
+ to get unity to work with nvide try sudo apt-get install compizconfig-settings-manager
+ It has some settings that might help
+ lxs-makoto, dump or dd
+ lxs-makoto, then dd
+ nikop,  It's still there. You jsut have to access the grub menu
+ Cassini_, Yes, there is a interrupt conflict. Both IDE scci0 and display want to use irq 16. Check with lshw
+ nikop, This is a new grub version which behaves differently. Check the grub documentation
+ Cassini_, I Have sent a bug report. Technically this should not happen as a separate demon  assigns the interrupts. I have just decided to wait to they have a fix..
+ CryptKper, When you log in and click the user (but haven't entered the passwd yet) on the bottom line you can select classic
+ CryptKper, Oh I see. Rightclick background. select change desktop background, on the first tab select classic

@@ -1,0 +1,4 @@
+ I'm quite happy with natty
+ Someone wanna help me with a problem burning CD / DVD?
+ I've been trying to burn CDs, both images (Natty) and data disks.  I keep coming back with unknown errors (254, for example)
+ the disks aren't burnt.  Why?

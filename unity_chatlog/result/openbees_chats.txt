@@ -1,0 +1,48 @@
+ hi buddy ...i got a problem with my compiz effects ...whenver i am selecting compiz as my window maneger the top most bar (including min,max,close) button disapears...everything is finr with metacity except there is no effects)
+ wabznasm:everthing was good with 10.04 ...problem occurs between path 10.04->10.10->11.04
+ wabznasm :  :(:( anyone here planning to fix this bug !!!
+ wabznasm : so should i sacrifice my love for compiz effects just becoz ubuntu 11.04
+ wabznasm : my problem is not with main ubuntu desktop panel ...it is with windows ...like any aaplication , terminal , any ,file ..
+ unity panel and application launcher disappear ...from default ubuntu session
+ any idea how to fix
+ unity panel and application launcher disappeared after installing CCSM
+ genitor : same problem with me too
+ genitor : unfortunately  ..no idea....i just switched to ubuntu classic session
+ kyubutsu: even alt-f2 not working so how can i launch gconftool...would u please suggest me
+ genitor : what is strg ?
+ abadadon : NO
+ kyubutsu: hope ressting panels in unity session will not effect ubuntu classic session ?
+ kyubutsu: sorry "resetting"
+ genitor : any bad effect on ubuntu classsic session ...because i can compromise with unity session but not with gnome session
+ genitor : and should be  "unity - -reset" i think
+ genitor: thanks let me try
+ ohh so sweet ware u waiting  fro me ..ohh sorry
+ genitor : lolz
+ genitor : actually its some updates are in process so i can't logout and login to unity session immediately..
+ devid8732 , ner0x : warning ! i lost my launchers and panels after installing CCSm
+ in unity
+ how can i change my default gdm login theme..?
+ how can i change my default gdm login theme..? i am using ubuntu 11.04 ....
+ xangua: i needs HOW ?
+ xangua : unfortunately  NO .....i read on many tutorial that this feature is disabled after 9.10
+ caio : i just some kind error msgs...nothing else
+ caio : GOT*
+ caio : ya i got login screen setting window ..but how can i change login theme using this window
+ caio : ?????
+ caio : i appriciate ur effort but the video was for ubuntu 9.10 .....
+ caio : changing gdm theme using login window is disabled by ubuntu team since 10.04 release....i am using 11.04 so wanna know if any new way to change gdm llogin screen
+ caio : it was so simple to change gdm in 9.10 ....its out of my imagination that way developers disabled this features
+ caio : no dear its ok ..no need for sorry...we all hear for something to learn...and u got a lesson too
+ caio: u welcome !
+ anyone hear ...have any idea how to chane gdm login theme in ubuntu 11.04
+ change*
+ caio : i dont want to just change background wallpaper of my login screen.....
+ caio : i already have
+ i am totaly messed with ubuntu 11.04 ....and totaly unsatisfied ....while friends of mine enjoying gnome3 with there fedora and opensuse...i am just getting bugs and problems with unity
+ joeyeye:  its  a stable release .....thats why i upgrades from my 10.04 lts ...and now only i am getting is error with everything
+ joeyeye: may u have more knowledge than me ....but i said what i felt .....its seems like broken dreams....
+ joeyeye : thanks but i am using classic since very next hour of 11.04 installation lolz
+ installed a new sound theme in ubuntu 11.04 for different warning and desktop-login and desktop-logout like sounds everything is fine except desktop-logout sound not working..i have desktop-logout sound in newly installed sound theme .....how can i fix this problem
+ bullgard4: ya that file is playing properly in /usr/sounds/ ...but i am getting logout sound of ubuntu sound theme
+ bullgard4:  any idea?
+ bullgard4: how can i do so?

@@ -1,0 +1,14 @@
+ hello, Is there something like df in terminal? I wish to see a statistic of space used for / , /home , / etc , /usr etc.
+ uhm, df dose not show how mutch space is used in /etc or /usr
+ df -disck free
+ it is okay in terminal, a gui it is nicer trough
+ js__,  is a joke
+ I'm not amazed by unity either
+ !cc verify 3264378345
+ :))
+ !ccroute 423056346740
+ =))
+ dose channel's with cc exist anymore in these times?
+ js__, logout and from the longin screen you can switch to ubuntu classic
+ bullgard4, irc credit card channel
+ there you can verify the cc, route to bank, pin number, email password and dirty h0ax like that

@@ -1,0 +1,4 @@
+ in Unity, is it possible to mouse in to other workspaces? e.g. when the mouse touches a screen edge, move into the next workspace in that direction?
+ in Unity, is it possible to mouse in to other workspaces? e.g. when the mouse touches a screen edge, move into the next workspace in that direction?
+ aperson, ccsm?
+ thanks =)

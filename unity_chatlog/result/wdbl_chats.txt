@@ -1,0 +1,7 @@
+ i have a fairly fresh install of 10.04 and I am getting permission-denied trying to mkdir /usr/local/src/xyz Isn't this where you're supposed to keep source code?
+ does anyone know why you don't have permissions to /usr/local/src by default? where do you keep your code?
+ calamari: thanks, I didn't think about that. I think I will just make a src directory in my home.
+ we'll see what happens I guess
+ calamari: I guess I'm just wondering what the best practice is. I don't do any coding on *nix ever.
+ calamari: you know what though, it's probably better to change the permissions because sometimes you want a different user to have access, like build services or whatever
+ calamari: so, /usr/local/src is better

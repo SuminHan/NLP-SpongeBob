@@ -1,0 +1,20 @@
+ how long can ubuntu keep their releases CD size?
+ asiekierka: did aq erlier release work?
+ asiekierka: a new instalol instead of an upgrade would probably work better
+ asiekierka: you ould backup  the list of installed packahes
+ helpmeplz: whats the problem?
+ silvery: backup and do a distro upgrade , hope for the best
+ helpmeplz: you need to reinstall grub from the ubuntui live cd
+ helpmeplz: can you still boot into windows and reinstall wubi
+ helpmeplz: no .. just complete the windows install
+ at the reboot it should have
+ helpmeplz: you'll have to reinstall wubi to be sucsessful
+ helpmeplz: i'vew only done a wubi install about 3 years ago, but wubi should be safe for new users
+ helpmeplz: ok good luck
+ Hellie: k but wish i could have been more useful
+  Nesto vnc or teamviewer
+ Nesto: have you can use teamviewer on local lan only
+  does unity work with intel on board graphics?
+ izinucs: thanks
+ lordofthedance: maybe you have mirror monitos on and the settings of the smaller monitor is still enabled
+ go to monitors and uncheck mirror mononitors

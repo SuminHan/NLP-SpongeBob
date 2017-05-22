@@ -1,0 +1,81 @@
+ sigh .... thought there would be at least 2000 ppl in here ...
+ are there any known chipsets that are buggy with Unity?
+ rgr: or Unity being buggy with chipsets ...
+ Incarus6: Intel?
+ jaredquinn: darn .. that is too bad
+ I have a laptop with an Intel gfx chipset ... I would rather not upgrade only to find out the 3D Unity doesn't work ...
+  Incarus6: but I REALLY want the 3D :)
+ karlhunt: mine is Intel Corporation Mobile GM965/GL960
+ jaredquinn: GM965/GL96
+ how do I know if mine is a "sandy bridge" chipset?
+ zetheroo: you asked me what my chipset was ...
+ jaredquinn: ok ... well I don't hibernate my machine ...
+ karlhunt: hehe ... ok ... nah this is an R61 Thinkpad ... C2D
+ cool
+ then I am really tempted to upgrade :)
+  jaredquinn: they always say that ... .
+  jaredquinn: ok ... here goes everything ... ;)
+ kellnola: I do a bit more than browsing and irc ... but no production level stuff
+ ok ... running 11.04 ... the menu is the immediate issue here ... how do you edit it???
+ ActionParsnip: the main menu ... when you click on the Ubuntu icon
+ vibhav: I just want to re-arrange the menu items ...
+ and how do you clear the recent files?
+ this menu has added confusion and more clicks to what was before it :(
+ without being able to customise the main menu this is not going to work for me
+ so is there no way to edit the menu?
+ any way to get the buttons in the launcher to have a hover effect?
+ I dunno about the rest of you but I REALLY have to be able to customise the main menu and launcher bar ... REALLY!!!
+ ohsix:  no, that is not a solution ... people keep on saying that :(
+ also just noticed that the top panel is no longer editable ... why can't I add my menu applet back!?
+ ohsix: yep, and it seems Ubuntu us heading towards lockdown  .... like MS and Mac :P
+ zorlem: what?
+ zorlem: great ....
+ zorlem: none of those are "Ubuntu"  - and that was my point!
+ ohsix: excuse me? What are you on about?
+ ohsix: you don't find it at all frustrating that an completely un-configurable menu/panel/launcher are given in place of what was completely customisable!?
+ step21: so support ... ;)
+ zorlem: I do not WANT to run XFCE!!
+ zorlem: to the extent that I want to configure - yes
+ step21: 90% of the reason I upgraded in the first place was to get to use the new look .... why bother mmoving from 10.10!?
+ ohsix: absolutely correct ... as that is NOT a solution to the real issue ... that there is a lack of customisability HERE!
+ ohsix: Oh, I am sorry ... I did not get the memo from Canonical about that ...
+ step21: yes I upgraded ... and it all works ... afaik ... but it "working" is not the issue I suppose ...
+ step21: the buttons in the launcher are too big, they need a hover feature and need to animate when clicked on ... stuff liek that ... plus the menu is making we work twice as hard to get to what I need ... more clicks etc ... not cool
+ ohsix: I am sorry again ... I work 9-5 mon - fri .... don't have a whole lot of time to test software and all ... I just thought that with the past of Ubuntu (and Linux) being so pro-customisability that I would never find myself here
+ ohsix: what is unfortunate is the lack of customisability ...
+ ohsix: I came hoping that I just did not know enough and that someone knew how to edit this stuff ... I could not believe that it was completely locked-down ....
+ ohsix: ok ... why are they in a 3rd-party app? ...
+ ohsix: where do I place my weather applet?
+ ohsix: so your saying there IS a way to customise the menu system and launcher?
+ ohsix: I did not think there was anythign too wrong with Gnome-shell ...
+ ohsix: you said there was something in ccsm
+ ohsix: yeah ok ... the panel is not my main concern ... the main things are the launcher and menu
+ ohsix: panel is not a biggy ...
+ ohsix: they could have made a right-click menu for the launcher ... couldn't they ...
+ ohsix: why do you keep referring to the "classic session" as a solution? It's another session entirely ... and it's not the future, or what is meant to be the future, of Ubuntu ... so as I see it what needs to be focused on is Unity and NOT the previous stuff ... but we should not be removing features or usability from the previous sessions either ...
+ ohsix: well ... on one level, perhaps ... but in Ubuntu it is obvious that Unity is the future
+ ohsix: Unity is now!
+ ohsix: that's ridiculous .... change is not the issue ... as long as it's ADDING to the whole experience and NOT removing
+ ohsix: you know what I mean ... adding but not removing key features or usability
+ ohsix: well having a menu which makes me have to make more clicks to get to an app than before is NOT sufficient ...
+ Monotoko: how does that go?
+  ohsix: haha ... and your back to that ;)
+ Monotoko: yeah ... that is kinda what I have been talking about ...
+ Monotoko: see that is well and all if you know the app your looking for ... although it still involves typing .. more work than before again ... but say you want to look at all your apps in a category ... ... it is not as quick as before
+ Monotoko: hectic ;)
+ ohsix: true, hence why not accommodate both behaviours!?
+ ohsix: anyhow ... it's going to be ok ... just make me change my computing habits ... yet again :P
+ ohsix: look mate, there is nothing new or crazy about making your bleeding main menu customisable ... nothing new about that at all ... it's nothing complex either ... so it should be in here ... period
+ ohsix: that's rubbish ... your saying that someone new to Ubuntu who uses Unity as their first desktop is not going to want to customise anything? rubbish
+ ohsix: I work with new Ubuntu users all the time ... I know what they go for right away ... they want to customise!!!
+ ohsix: well your mom is one person ...and she is your mom ... I am talking about the new generation of computer-savvy people ... which far outnumber the rest
+ ohsix:  I am arguing for what I can see others are going to want ... based on having been putting newbies to Linux for over 5 years ...
+ ohsix: the new generation are more computer savvy than my mom ... that is what I was referring to
+ ohsix: yes, and some concepts don't change ... like the basic ones :P
+ ohsix: well I see your speaking from your vast experience of having put your mom onto Linux ...so who am I to question THAT!? :D
+ ohsix: yep ... as are you ;)
+ ohsix: your speaking for change without thinking of basic common sense ... like customisation ... that is hardly change for the better!
+ ohsix: ok, well I gtg ... work and that ... good luck with all that ;)
+ ohsix: yeah ... sure
+ for some reason my Skype icon is just a tiny green dot in 11.04 ... any ideas of how to sort this out?
+ for some reason my Skype icon is just a tiny green dot in 11.04 ... any ideas of how to sort this out?

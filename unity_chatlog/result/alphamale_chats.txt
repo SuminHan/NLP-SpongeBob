@@ -1,0 +1,57 @@
+ can someone help me with running ubuntu live on a usb, i already have grub and puppy running on it
+ i dont want to partition
+ and where do i perform the install from
+ i can mount the ubuntu iso in puppy
+ but then what
+ soreau: will that wipe my usb partition? i want to keep the data on it
+ yes, but does ubuntu need its own partition
+ i want to run it as a live usb
+ ok i could do that but i have grub already on it
+ i just want to select booting into ubuntu instead of puppy
+ can i just modify the grub menu entry that comes with ubuntu, add it to my menu.lst?
+ and then put ubuntu in its own directory
+ i just want a small debian that works well with python
+ if someone wants to pm me that's fine it's too confusing here
+ how can i install ubuntu on a usb from puppy linux
+ i have the iso and a usb partition
+ ?
+ i can copy the iso onto the usb no problem
+ but how do i install
+ sorry i am not getting it celthunder
+ can i just make a new menu entry in my grub file?
+ i need some help installing ubuntu on a usbdrive, already running puppy linux and editing the menu.lst file
+ i have grub4dos now
+ i dont want to do that either
+ i unmounted the iso and copied files to a new partition on the usb
+ got the splash screen then problems
+ i think im close it's just not finding some files
+ what is the easiest way to install or run a live iso
+ i have a usb
+ i created a partition on it
+ do i need to unpack the iso or can i just stick the iso on it
+ i was trying to follow directions from here...https://help.ubuntu.com/community/Installation/FromLinux#Troubleshooting
+ but this line i think caused problems...
+ /casper/vmlinuz boot=casper root=/dev/ram ramdisk_size=1048576 rw
+ i dont have a /dev/ram directory in my usb
+ i tried all day to add ubuntu to grub4dos
+ couldnt get it working
+ this seemed like the easiest way to do it...
+ https://help.ubuntu.com/community/Installation/FromLinux
+ someone that can help me install ubuntu from a working linux system?
+ i have no cdrom
+ i want to install on a usbdrive partition
+ i am running puppy
+ grub4dos bootloader
+ i used this site...
+ https://help.ubuntu.com/community/Installation/FromLinux
+ does the usb have to be formatted ext3?
+ yes i would like to boot the iso too but failed
+ i have grub4dos not grub
+ i googled it
+ found some sites but it didnt work yet
+ you can supposedly boot from iso with puppy
+ but i messed something up
+ no idea
+ i dont have grub2
+ i am booting from grub4dos
+ how about this portable linux app

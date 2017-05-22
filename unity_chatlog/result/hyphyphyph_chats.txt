@@ -1,0 +1,1 @@
+ Hi all.  Any way to get the damned battery icon into the Unity panel ?

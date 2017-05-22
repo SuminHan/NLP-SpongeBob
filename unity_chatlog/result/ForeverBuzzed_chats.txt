@@ -1,0 +1,1 @@
+ How can I enable sun-jre? The help docs pulls up a link that opens the software center that says sun-java6-jre does not exist

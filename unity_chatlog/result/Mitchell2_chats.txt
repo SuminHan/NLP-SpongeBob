@@ -1,0 +1,4 @@
+ Hey... can someone help me? Just tried installing 11.04 on my intel macbook... it froze, rebooted it... now it wont install ubuntu, and the windows partition gives a blue screen and won't boot.
+ Can someone help me with something? I just installed ubuntu 11.04 on a 2005 intel mac mini, worked fine with 10.04... now I put in a KVM switch today, when I switch devices, a lot of the time, I have to reset the computer, it doesn't respond, it locks up.
+ Me, maryanne?
+ Can someone help me with something? I'm using a KVM switch, and when I switch between computers, one that I just put 11.04 on doesn't respond.

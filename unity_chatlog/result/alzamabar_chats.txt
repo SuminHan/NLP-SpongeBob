@@ -1,0 +1,2 @@
+ Can somebody help with Git and Ubuntu?
+ Why wouldn't my Git repo be reachable from the internet? Can somebody help with the setup?

@@ -1,0 +1,14 @@
+ Hello
+ I have a problem. I am on my touch so bare with grammar please. I just updated to the new version of ubuntu. My problem is that I am unable to get any sort of wifi connection. When I run my finger across the wifi button, it won't even turn on. Once again, sorry for the grammar.
+ Hello, guys. I have a problem with the new release of ubuntu with my wifi connection. Before installing, my wifi was working just fine, but now I can't turn it on when I swipe my finger over the wifi button. I can swipe my finger over it to turn it on at boot up, but once I get to my login menu, my mouse wont move. Any insight into what my issue is would be great.
+ Would someone mind giving me some insight into why the new release has issues with wireless connections?
+ Also, I'm wondering if it's possible to go back a version. (10.04).
+ I'm sure I'm not the only one having wireless issues with the new version of Ubuntu, right?
+ Hey, guys. I've run into an issue while trying to install gnome3 on ubuntu 11.04. When trying to log in, I get an ICE authority error about how it couldn't be updated. I'm hoping there is a fix to this.
+ Ahh. I think I can fix it now. ctrl-alt-f1 brings me to the terminal. :D
+ I would like to convert from gnome 3 back to unity for the 11.04 distribution. Any insight on how to go aboutdoing this would be great.
+ :D
+ Hello, guys. I've downloaded ubuntu 11.04 and things work fine. The problem is, I swapped to the Classic Gnome theme, but don't like it at all. I would like to swap back to the Unity theme, but I'm unsure of how to do this. I tried to go to the login screen settings, but did not see an option for switching back to the Unity theme, unfortunately.
+ lubuntu: I didn't quite understand what you said. Could you rephrase it?
+ lubuntu: I think my problem is that I installed gnome 3. I need to uninstall it so that I'll have the Unity option again. Unity is broken with gnome 3.
+ lubuntu: Thanks. I will try it. First I'm going to try to figure out how to uninstall Gnome3.

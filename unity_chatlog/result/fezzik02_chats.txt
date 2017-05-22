@@ -1,0 +1,73 @@
+ I can't get 11.04 to boot at all
+ It is busy here, you'd  think there was a recent release or something
+ Yeah, my 11.04 won't install at all.
+ Ok, correction - it installs, but no boot
+ Herbs, stfu and gtfo
+ lol
+ I just want to know why my 11.04 can't boot, that's all.
+ And I think that suggesting that those abbreviations are tantamount to swearing is silly, but I don't care, just tell me how to make the darned thing work.
+ Anybody else having the same problem? 11.04 won't boot?
+ So... I ask for help, and I get ignored... but people have time to give me a hard time for swearing?
+ Is there some way to force default drivers?
+ Is there any place that I can look for a boot up log?
+ *** HELP ME PLEASE *** I cannot get a fresh install of 11.04 to boot
+ Like, I power on the computer, it gives me the GRUB 2 menu, and that's all
+ It sits and spins for about a minute then locks up tight as a drum
+ Yes, I'm on live cd now
+ arand: let me try that
+ bbl
+ Ok, back
+ John, as it were.
+ dban
+ Ok, so I tried without quiet nosplash in GRUB2, same result
+ Nothing shows on the screen
+ How do I reinstall GRUB2?
+ error: unsupported RAID level: 255??
+ Can anyone explain how GRUB is reinstalled
+ Ok, but Ubuntu doesn't actually boot.
+ mickster4, Ok, I've done restoregrub about six times, no fix
+ km0201, I'm pretty sure it's there, I just installed it this afternoon.
+ When I go to recovery console and select failsafex, it works...
+ km0201, it seems to find GRUB2 just fine
+ km0201: I don't think Ubiquity really leaves room for doubt
+ km0201: You can reinstall GRUB2 from Live CD?
+ Ok, I'm off to try that.
+ xsinick, I think it could be a veritable Waterloo
+ I can't boot the AMD image :(
+ km0201: Reinstalled GRUB2, still no boot
+ But to be explicit, it starts the kernel, it just fails to start x
+ jordan_u: I did judt reinstall grub, I think it is having issues with X
+ usr13: The blank screen after GRUB2 selection
+ km0201: I didn't say GRUB2 isn't working, it takes me to the Recovery Console just fine.
+ usr13: I'm not sure, but the Recovery Console option works (2nd line in the GRUB2 Menu)
+ usr13: Screen goes black, hard disk activity for a little bit, then eventually drops signal to monitor and disregards numlock press
+ usr13: no response
+ usr13: yes
+ usr13: and oddly, if I press the hard power button for a second, it starts shutting down.
+ usr13: is it because I'm running hybrid SLI?
+ nate_: you and me, buddy.
+ Is there some sort of log that I can review to see how the startup process failed?
+ usr13: Ok, I can get root shell in Recovery Console, is there a log of some sort I ought t review?
+ I had 10.10 and Win 7
+ Then I formatted and installed 11.04 alpah1
+ usr13:
+ usr:13 Then I formatted and installed 11.04 alpah1
+ usr13: That didn't work any better than this one, so I waited for 11.04 beta 2, still no joy
+ usr13: then I waited for 11.04 final... and that's it
+ usr13: no dice
+ usr13: from Recovery Console root terminal?
+ usr13: maybe I could, natty has been very good with my wifi card i the livecd
+ usr13: Tried startx at the # prompt, whole thing locked up
+ usr13: oddly, failsafex works from the Recovery Console window.
+ usr13: booted into failsafex, ran the Additional Drivers wizard, installed the new nvidia drivers, and voila!!! it works!
+ My Natty won't detect the correct resolution for my monitor
+ When I ran xrandr I got Cannot set crtc 0
+ I need help, too
+ lol
+ Ok, so the computer doesn't recognize the correct resolution for my LCD
+ I'm having custom resolution issues with Unity and the nouveau driver
+ killjoy: There's no custom resolution in the Monitors panel
+ kill_joy those are only default or autodetect resolutions, we need custom resolutions
+ a111: I think you might have to 'sign' it in the Window$ disk amanger
+ kill_joy that one doesn't let us do custom, either :(
+ kill_joy:have also tried xrandr, no love

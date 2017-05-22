@@ -1,0 +1,2 @@
+ anybody using truecrypt with ubuntu classic and also not getting the application menu?
+ bsodmike: mysqld not running

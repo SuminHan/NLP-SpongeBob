@@ -1,0 +1,16 @@
+ Can anybody tell me why there is no longer a battery indicator in Unity2d?
+ Ah, thank you!
+ I have another question, when I use Faenza icons, the Unity2d panel still shows the default Ubuntu icons, why?
+ When I use Faenza icons, the Unity2d panel still shows the default Ubuntu mono icons, why?
+ Are you sure? When I log out/in all the appicons chanegd, just not the panel icons?
+ I have an issue, when I use the live CD, unity 3d works, on the hard drive after installation, I'm forced to use 2d
+ Why?
+ I'm using Unity 2D, can anybody tell me if it's possible to enable a full screen Dash?
+ Can anyone tell me how to make the Unity Dash fullscreen?
+ jiltdil, yes, the Dash that appears when you press the button in the top left
+ Can anyone tell me how to make the Unity Dash fullscreen?
+ Yes, but I'm looking to enable fullscreen by default
+ I recently tried the Ubuntu 11.04 Live CD on my laptop, compiz worked fine (cube and everything), when I use compiz from my 11.04 installation on my hard drive it doesn't work, why not?
+ Okay, when I search in Synaptic, I only have one linux-image installed
+ That is 2.6.38, but grub is showing a bunch of 2.6.35-x kernels
+ Grub currently shows Windows Recovery Environment (on /dev/sda2 and /dev/sda3) how do I get rid of these entries?

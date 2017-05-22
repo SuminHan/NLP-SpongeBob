@@ -1,0 +1,6 @@
+ Hello, I'm running 10.10 and would like to go for firefox 4.0. How do I do that?
+ ZykoticK9,  I googled, is this one? ppa:ubuntu-mozilla-daily/ppa
+ ZykoticK9,  Or do you have a good link I can check out.
+ ZykoticK9,  	4.0~b13~hg20110323r63531+nobinonly-0ubuntu1~umd1    isn
+ ZykoticK9,  isn't this a beta?
+ ZykoticK9,  I found some info on help.ubuntu.com Thanks:)

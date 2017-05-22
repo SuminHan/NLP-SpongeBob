@@ -1,0 +1,1 @@
+ open system monitor and kill skype then open from the app list, should fix it

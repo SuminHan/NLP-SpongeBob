@@ -1,0 +1,1 @@
+ anyone having issues with freezing/crashing on restart, after upgrading to 11.04?

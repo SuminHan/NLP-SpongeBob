@@ -1,0 +1,15 @@
+ hello
+ I have upgraded from 10.10 to 11.04 and I have lost my GRUB
+ Im in a live CD right now
+ I've mounted my SDA1
+ but I uh, cant seem to go on with the right commands
+ chroot isnt working
+ Can anyone help me solve this grub_rescue problem since I upgraded to 11.04?
+ escott?
+ How would the commands go, proper order?
+ mount point /mnt/ubuntu/dev does not exist
+ escott: chroot: failed to run command `/bin/bash': No such file or directory
+ im supposed to do this to the ubuntu system?
+ Im doing this to the Win7 HDD
+ I have two seperate HDDs.
+ Am I supposed to mount the ubuntu HDD?

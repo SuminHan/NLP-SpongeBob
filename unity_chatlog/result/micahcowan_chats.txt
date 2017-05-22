@@ -1,0 +1,6 @@
+ So... the app launcher. Where does it store its data?
+ I have the "terminal" app there, but it's gnome-terminal, not xterm, even though I edited it to the correct value as far as gnome is concerned
+ shijie, better off with a different chan. Not really a package-building chan. #ubuntu-motu, if it's an ubuntu package being built.
+ They may help, even if it's not, shijie
+ casey, better off asking in a gimp-related chan or forum
+ there's most likely a #gimp. Otherwise fish around.

@@ -1,0 +1,2 @@
+ pythoned: the dd method is my favorite.
+ pythoned: that overwrites the entire drive with 0's.  There is literally nothing on it.

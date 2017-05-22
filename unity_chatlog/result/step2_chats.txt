@@ -1,0 +1,10 @@
+ maximus_, the menu option doesn't work?
+ maximus_, there prob is one (but not sure if without su) but I don't know it, maybe google will help :)
+ SoftTimur, you mean with unity?
+ SoftTimur, the new default desktop with one panel on top and one on the left
+ SoftTimur, I got that but I need to know what you are using. if you are in unity you can't move it
+ SoftTimur, I told you ... it's a desktop environment that is new with one panel at the left (that autohides) and one on the top. there is still the option to choose the old environment on login
+ !unity
+ schneidmaster, you can remove the other one. making a custom one prob. easier than modifying
+ SoftTimur, choose 'logout' (top right menu i think) then at the login screen there is a bar at the bottom where you can choose
+ Vhozard, depends which ones ... 'dmesg' for one

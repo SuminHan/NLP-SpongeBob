@@ -1,0 +1,5 @@
+ Hey.  I was curious, where could I find a list of the necessary dependencies for the latest version of wine?
+ thanks for the replies all.
+ axiin, cool.  what I am really looking to do, is uninstall all the wine dependencies, and then reinstall them.
+ so I appreciate the info.  :)
+ y

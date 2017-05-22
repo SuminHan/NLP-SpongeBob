@@ -1,0 +1,1 @@
+ hey, is anyone here using Ubuntu 11.04 on Parallels? Can't get Parallels tools to install. Any help will be appreciated!

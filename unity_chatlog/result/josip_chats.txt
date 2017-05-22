@@ -1,0 +1,9 @@
+ Hello, I installed Uubntu 11.04 and when I start  awesome the only thing I see is a background
+ anyone with an idea what causes this?
+ edbian: I want to fix the problem, not to log in with a differnet wm
+ edbian: no, I am running the 64bit 11.04 Ubuntu. I installed awesome from the official ubuntu repositories
+ and I don't want to try other ones, I want awesome to work
+ edbian: nope
+ I suspect it has soemthing to do with unity. https://bugs.launchpad.net/ubuntu/+source/metacity/+bug/731329
+ but the workarouind propsosed there didn't work for me
+ edbian: I'm using my config file that used to work perfectly fine uuntil I upgraded

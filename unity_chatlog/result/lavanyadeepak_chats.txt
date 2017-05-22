@@ -1,0 +1,7 @@
+ Is there a way I upgrade Ubuntu 10.04 to 11.04 using a CD?
+ The computer that I am intending to upgrade does not have a fast Internet connection
+ That is why I need to grab Ubuntu 11.04 ona difference computer and then put it on this one
+ I have another issue with my Ubuntu 10.10
+ When I start Remote Desktop Viewer and when it is about to connect to remote host, the screen logs out
+ and comes to the login screen
+ Why does Ubuntu log me out frequently when I start remote desktop?

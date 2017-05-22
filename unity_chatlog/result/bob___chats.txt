@@ -1,0 +1,7 @@
+ anybody know where xfBanker stores your files?
+ cheapie: there is a translog... there - is that it?
+ cheapie: thanks
+ how do I install Googlizer please
+ anybody know where wxBanker stores your files? (not in Home or Documents)
+ edbian: I'll try there - thanks (I am using 10.04LTS as I dislike 11.04)
+ debian: files are in usr/share/wxbanker/fixtures and are of the form *.db

@@ -1,0 +1,7 @@
+ Anyone know if it's a good idea to install the latest available Ubuntu server or should I stick to the LTS releases? How trivial (or not) is updating a non-LTS version as new releases come out? Stupidly non-viable?
+ Anyone know if it's a good idea to install the latest available Ubuntu server or should I stick to the LTS releases? How trivial (or not) is updating a non-LTS version as new releases come out? Stupidly non-viable? <- sorry meant to add this is for a WEB server
+ Out of interest, what happens if I'm downloading/updating/upgrading packages via SSH and my connection to the server dies? Am I in for trouble?
+ lol
+ Okay I'll look into screen
+ I did imagine doing this via SSH is asking for trouble
+ Is there a trivial way to automatically jump into screen when connecting via ssh? (ie: execute command 'screen')

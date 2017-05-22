@@ -1,0 +1,27 @@
+ hi all,,
+ quick question,, I've recently upgraded to Natty 11.04 among my other issues, Transmission (bittorrent clietn) just stopped wokring,, all ports are open, and the client itself is the latest verstion 2.22
+ ActionParsnip: No,,
+ I've googled came up with a couple of solutions including deleting the config folder
+ ActionParsnip: Done that to no use,,
+ someone!
+ please!
+ Guys,, Transmission wont download any torrent after update to Natty,, can someone help please?
+ Tried deleting the config folder, with no avail
+ can someone help please?
+ anyone with transmission experience ? the ports are all set and open, the router is configured, Vuze started working now, but not transmission
+ hello,, anyone?
+ can someone help me with transmission pleaase?
+ quant transmission wont work, tried to delete the config folder, nothing, the ports are all set and open, the router is configured, Vuze started working now, but not transmission
+ quant, its simply not downloading/uploading anything, not even connecting to peers/seeds host unreachable, on all torrents
+ quant,  the torrent file loads, but gives a 0 0 peers seeds doesnt connect to anyone
+ quant, did that, tried 13 torrents from different sites, all working in vuze non in transmission
+ geus, yes
+ geus, all open, no firewall
+ geus, hmmm,, nop didnt try that, let me give it a whire!
+ wait!!!
+ it started working now!!!!!!! when i ran it as sudo it started downloading!
+ geus, i know,,, it was a hailmerry sorta thing and it worked.. let me check running as normal use
+ geus, im getting "Couldn't open "/home/com3/.config/transmission/lock": Permission denied"
+ geus, guess what! it just decided to work out of the blue! but thanks for your help :)
+ geus, you know whats weirder? tranmission autostarts so it cannot be owned by root., that doesnt make any sense, but its working cant complain :)
+ geus, nopm starts normally

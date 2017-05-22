@@ -1,0 +1,15 @@
+ ayrton, choose 'ubuntu classic' at login screen
+ ayrton, you have to log out if you are logged in and click on your user name, so that the password box is shown, then look to the bottom of th screen
+ is there a ubottu !factoid for 'how to switch to ubuntu classic'?
+ Otoris, no, they are going to evaluate it for 'o' version
+ lcb, read my question again
+ !classic is The default interface since 10.10 is !unity. You can switch back to regular !gnome by selecting 'Ubuntu classic' in the box at the bottom while having your user selected on login screen.
+ lcb, this should help some people, I hope so :)
+ !classic is The default interface since 11.04 is !unity. You can switch back to regular !gnome by selecting 'Ubuntu classic' in the box at the bottom while having your user selected on login screen.
+ !cn | Osmodivs
+ syn3rgy, apt-get source unity
+ syn3rgy, no 'sudo'
+ syn3rgy, sorry, no idea. try at #ubuntu-devel
+ !classic | lcb
+ lcb, :)
+ is it possible to find out what version of gcc compiled give nbinary?

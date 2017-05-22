@@ -1,0 +1,15 @@
+ odd... why would I need 2G for a USB thumbdrive under Ubuntu when if I create the same one on Windows it only needs 1g (to make the same said USB thumbdrive system)
+ odd...  so on Unity I have to have an icon ON the desktop as well as ON the launcher?  that's ridiculous.
+ FunnyLookinHat: how can I add a launcher to the panel in unity WITHOUT adding it to the desktop first.  And, giving it a custom icon on the panel.
+ FunnyLookinHat: cause when I remove it from the desktop, it goes away from the panel.
+ FunnyLookinHat: odd... I only get "keep in Launcher" when I right click
+ FunnyLookinHat: lol
+ FunnyLookinHat: yeah it's a fix... but.... sheesh... I hope Miguel didn't make these Gnome3 decisions  or I'll have to beat him and Nat.
+ FunnyLookinHat: seriously though, I appreciate the need for something new and flashy, but I'm not so sure why we had to push this alpha software out with 11.04
+ anyway :(
+ FunnyLookinHat: I may try though...   I do like you, in spite of your funny hat.
+ FunnyLookinHat: thanks for the hack work-around, I thought of that but felt very dirty to even try it.  lol
+ I've been using Linux for a long time, what 95?  And well... I've never seen as silly of a move as this in a major distro for the default UI.
+ but anyhoo... I'll drink a cup of STFU.  :)
+ will head over there to save this channel some traffic
+ grrr you guys aren't even over there for me to talk to you ;)

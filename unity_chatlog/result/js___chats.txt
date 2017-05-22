@@ -1,0 +1,34 @@
+ hello
+ I have a problem regard the terminal
+ when I switch from browser to terminal
+ terminal become freezed
+ I cannot type whatever from keyboard
+ anyone can tell me how to solve this?
+ I have never found a solution on any website
+ what is df?
+ sorry, I am new
+ I am now facing a problem, when I switch from browser or others folder to terminal by pressing (alt + tab), then I cannot type in whatever key from keyboard, it is no effect at all. I only can press (alt + tab), after switch (alt + tab) a few time, the terminal can work again.
+ Anyone know how to solve this?
+ Thanks
+ wolfy_, is this a solution for me?
+ lol
+ bullgard4, 11.04
+ bullgard4: What you mean "desktop"? No such command as "/var/log/syslog"
+ bullgard4: I think is GNOME, I am new in Ubuntu.
+ bullgard4: I only see icons to the left of my screen
+ bullgard4: I am fresh install Ubuntu 11.04, so I think it is Unity
+ bullgard4: Nevermind, Thanks
+ bullgard4: how to switch to classic view?
+ wolfy_: thanks
+ marenostrum: It is a default terminal, last time when I was using Ubuntu 10.10 also faced a same problem
+ bullgard4: thanks
+ marenostrum: I have been googled, but no result. I think no one have face this kind of problem
+ marenostrum: Yes. Are you found a solution?
+ marenostrum: Thanks. Send me the link later.
+ marenostrum: Yes, is exactly this kind of problem
+ botcity: No but I have install scim
+ marenostrum: Haven yet, but I think the link that you provided help a lot. Thank you very much
+ marenostrum: I am fresh install Ubuntu 11.04, but i didn't change to Compiz
+ marenostrum: At least I have a hint about it.
+ marenostrum: My problem solved. I remove scim package and restart PC.
+ botcity: Is scim problem. now solved

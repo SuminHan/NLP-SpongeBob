@@ -1,0 +1,1 @@
+ madj42: You were right. MMF Registration failure in the logs when installing SMP. I found this article http://www.symantec.com/docs/TECH42343  which presumably talks about it.

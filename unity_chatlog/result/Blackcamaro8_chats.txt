@@ -1,0 +1,7 @@
+ Is there any way I can boot Ubuntu into a minimal-resources command-line mode? The computer it's on is amazing, but I need minimal resources to be used while I run a game server that's command-line operable. Any suggestions?
+ KNUBBIG: It's a Minecraft game server-- I want more resources to be dedicated to the server. I understand that I could install a server-edition, but I use the computer as a normal desktop when the server is unnecessary.
+ DasEi: What do you mean?
+ DasEi: I know I can Ctrl+Alt+F1, and drop to a command-line, but I want the lowest possible amount of resources to be used by other things.
+ DasEi: Being completely honest, I've been using Linux for about four years, and understand it immensely, but I have no idea what that means.
+ DasEi: The Runlevel thing, no the command-line thing.
+ not*

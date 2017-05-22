@@ -1,0 +1,34 @@
+ hi, i just installed natty, and the menu bar at the top (that has network, battery info, etc.) has disappeared -- how to get it back?
+ just installed natty on samsung series 9 -- working pretty well so far
+ ok, figured out answer to my own question -> alt+f2 gnome-panel
+ @LittleRed, i just installed it on samsung series 9
+ no, worked great out of box
+ i had no install issues at all -- installed from USB stick since the laptop has no optical drive
+ only issues i'm having are wrestling with compiz weirdness -- just not used to some of these changes
+ i have had problems with the upgrades myself
+ i've always had better luck backing up my data, and doing a clean install to upgrade
+ just got this laptop today, and put natty on it.  it is a sweet piece of HW: http://www.engadget.com/2011/03/28/samsung-series-9-900x-laptop-review/
+ SSD, boots to desktop in like 15-20s
+ me too...prices will come down soon
+ xsinick - right click -> create launcher...
+ xsinick: i am using 11.04 too, just right click desktop, create launcher...  follow dialog
+ so, what is the official name of the launcher bar on the left side of the screen, and why does it behave so strange (i.e. auto-hides sometimes, sometimes not)
+ i'm also seeing weird issue in natty.  if i mouse over window title bar, and click touchpad, i expect to be able to drag, but it won't.  i can drag if i double click title bar and move touchpad.  haven't figured out why yet
+ yea, i have ccsm installed, and messed with some things already
+ haven't installed chrome on this yet.  since ff4 came out, i'm happy with it
+ in compiz -- key bindings might have something like <Alt>KP7 for example, what's KP, i'm guessing short for Key Pad?  what if yer on laptop -- guess have to re-bind that to something else
+ bigeye: try <Alt><Tab> to nav through open applications
+ if you have compiz enabled, there are lots of other plugins that can do similar.  Try <Super><S>
+ bigeye: try <Alt><F2> -> gnome-panel
+ what is up with ubuntu software center; try to install skype, "available from natty-partner source", button: Use This Source, click...nada.  doesn't work, can't install.  have to go add sources manually?
+ digging the move, resize, snap compiz plugins.  so much more efficient that mac os
+ last time i tried cube rotate, it went berzerk-o.  scared to try it again, but i want that
+ glow?
+ i think there is one that lights your window on fire
+ Hello: try troll-hunter
+ quint: sudo apt-get install sun-java6-jdk
+ nice summary of 11.04 tweaks: http://www.webupd8.org/2011/04/things-to-tweak-fix-after-installing.html
+ awesomestan: i just installed skype on 11.04 without issue
+ had to enable partner repo first, but that was it
+ y, you can buy skype credits for computer to pots, but it is free for computer<->computer
+ gnome-panel dies a lot if you mess with compiz plugin settings

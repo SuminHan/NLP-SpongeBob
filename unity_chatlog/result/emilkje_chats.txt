@@ -1,0 +1,1 @@
+ does anyone know if a dist-upgrade will ruin LAMP + RVM + Passenger?

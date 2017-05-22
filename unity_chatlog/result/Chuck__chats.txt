@@ -1,0 +1,4 @@
+ hey, I just upgraded to 11.04, messed around with my nvidia graphics settings and now cannot get into my box!
+ can anyone assist?
+ can anyone help me get to a console and change my nvidia xserver settings, I changed something and cannot get into the graphical environ now
+ I have changed some nvidia settings and now my graphical environment loads to the login page but after that it just sits with the busy mouse icon.  Please help

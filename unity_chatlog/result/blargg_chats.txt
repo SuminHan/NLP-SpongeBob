@@ -1,0 +1,5 @@
+ Please point me to a web page describing the purpose of SCSI emulation of IDE hard disks. I've looked for a long time now but can't find any explanation for this (plenty reasons for CD/DVD drives, but not hard drives).
+ For example, I have an SATA HD but it shows up as /dev/sda, not /dev/hda
+ stefg, thanks, so basically the rationale is that it's simpler to deal with a single interface to SCSI/SATA/PATA hard disks than multiple interfaces, AND the wrapper for the latter two has proven to be really stable?
+ bubu, 1650, not 1680?
+ bubu, have you searched for the model number? I've seen people post their edid files to message boards before.

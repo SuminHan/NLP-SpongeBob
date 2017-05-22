@@ -1,0 +1,6 @@
+ I have trouble installing the newest version of Ubuntu Linux. Help with PM.
+ Ubuntu 11.04 freeze for me. :(
+ What's wrong with the lastest version? Why is it loading for hours?
+ arand: Sure, the live CD is loading for hours.
+ arand: What is btrfs?
+ arand: Yes, the live CD loaded to the background and still loading for hours.

@@ -1,0 +1,38 @@
+ tdn, #Ubuntu+1 is probably better for that question.
+ oh. Sorry.
+ oh! It's release day :)
+ I'm moving house so I had completely forgotten! That's a first...
+ shane4ubuntu, yes, I've been using it for a while, so... The release isn't that important to me. But this is offtopic. Sorry.
+ proq, Unity uses Compiz.
+ werever, the desktop  cd can't be used as a local archive like the alternate cd can. It uses other techniques to install the system very quickly, but that isn't compatible with apt.
+ werever, or directly from the servers?
+ Emasarn, if you have a PC with 2-3GB RAM, then 32bit is the best one. If you have more RAM, or expect to have more RAM in the future, you need the 64bit one.
+ somethingelse, sure. There are many improvements to be made. I expect that's why they wanted to introduce it in this release, so they have another normal release to polish before the next LTS cycle.
+ werever, no. Look in your archive settings and maybe remove it. You do have an installed system, yes?
+ Emasarn, ah. No, forget that. It works well on both.
+ Emasarn, it's just that Intel had some strange ideas back in the days.
+ nutsfornatty, yes, you do. I got used to it very quickly though, and I'll never look back. But there are still improvements to be made.
+ werever, ok. I'm not sure why it'
+ werever, why it'd ask for CD then. But you can configure which sources to use. It's in System > Administration > Software Sources.
+ somethingelse, you're arguing about shells? They'll all be available in 11.10. It's not possible to provide gnome shell yet, for purely technical reasons, but we'll get there. And they'll have different strengths.
+ galamar, you don't need to. Press alt, click anywhere in the window and drag it around. :)
+ somethingelse, there are. But what are you talking about? The classic ubuntu desktop experience is installed by default in 11.04. Just choose it from the login screen.
+ somethingelse, oh. Sorry. I should've seen that. Are you using Unity?
+ Raikia, 10.10 will be supported for quite a while, so if you're not in a hurry, don't feel pressured. :)
+ macross, takes 5 seconds to switch back in the login screen.
+ macross, take this somewhere else. This is very offtopic for this channel.
+ Stameni, very small.
+ Stameni, the appindicators have been improved and such. Default apps have obviously changed in classic ubuntu as well, but other than that, not much.
+ tdn, there is no more netbook version. There is only ubuntu and ubuntu server.
+ Stameni, you just choose it whenever you login. It's at the bottom of the screen after you've selected your user.
+ tdn, URL please? Keep in mind that there are more releases alive. 10.04 and 10.10 will be available for quite a while. Those do have netbook editions.
+ Wickedspawn, I'm using xchat from the repos. If that's 2.8.8, I am. But that's not a useful question. I'm going away now and I have no idea what you really wanted to ask.
+ aravinda, it doesn't hurt to wait. If you depend on it, I think a golden rule is to upgrade when you need to. Think why instead of why not.
+ Superstar, moved?
+ Superstar, no, and I don't think that's going to happen, unless we get a portrait mode. But that'd  almost certainly include other stuff as well.
+ cyoz1, Fedora is really good, as long as you don't need anything proprietary. It's a very nice distro.
+ sebsebseb, what he said, was that we should aim for OS Xs smoothness and user friendlyness. I agree. I think we've far surpassed Windows' in that area. We need to keep raising our standards.
+ thegoodcushion, I use 10.04LTS on my desktop. It's very stable and I'm going to use it until may-june 2012.
+ thegoodcushion, Classic Ubuntu in 11.04 uses gnome-panel. It's just a matter of choosing the session once. It takes about 3 seconds.
+ you can add sortcuts to the dash by adding .desktop-files to /usr/share/applications, but is there a personal way to do it? That is, to add .desktop-files to a folder in your home and make them appear in your dash?
+ freeman_, pardon?

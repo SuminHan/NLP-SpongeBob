@@ -1,0 +1,6 @@
+ Need up getting Ubuntu 11.10 to install on atom CPU
+ any help with USB Ubuntu live CD /install?
+ I need help with USB disk install of Ubuntu
+ I did run the USB drive after restart
+ did load up some but missing some files
+ saying Casper/filesystem didnt mount

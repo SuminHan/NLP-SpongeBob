@@ -1,0 +1,5 @@
+ hi guys i'm getting an error stating that i need to upgrade the  NVIDIA kernel module has version 270.41.06
+ how do i do that
+ i'm getting an API mismatch error: the NVIDIA kernel module has version 270.41.03, but this NVIDIA driver component has version 270.41.06.
+ how to fix
+ i'm getting an API mismatch error: the NVIDIA kernel module has version 270.41.03, but this NVIDIA driver component has version 270.41.06. So do i need to upgrade the Kerne or downgrade my Nvidea driver please help

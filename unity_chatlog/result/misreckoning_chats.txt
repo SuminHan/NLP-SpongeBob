@@ -1,0 +1,1 @@
+ hey guys, I'm installing Ubuntu on Mac Book Pro, for the first time ever, so, what do you recommend, 64bit or 32bit version? If I was installing on a PC laptop, I'd definitely choose 32bit, but I'm not sure what's the situation on MacBooks... tips? :)

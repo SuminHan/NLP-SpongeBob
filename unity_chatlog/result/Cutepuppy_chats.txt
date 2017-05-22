@@ -1,0 +1,2 @@
+ I am having an issue installing 11.4 on a Lenovo T500, crashing with a modprobe error, is there a workaround for this ?
+ If i am experiencing this issue : http://ubuntuforums.org/showthread.php?t=1743181&highlight=T500, what could i do to be able to install 11.04 ?

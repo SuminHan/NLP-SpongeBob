@@ -1,0 +1,1 @@
+ Hey -- I installed a program in ubuntu, and messed up the .conf file, so I uninstalled it, and 'rm -r <dir>, to delete old .conf files, now when I install it again via apt-get, the directory is empty, anyone kno why this would be?

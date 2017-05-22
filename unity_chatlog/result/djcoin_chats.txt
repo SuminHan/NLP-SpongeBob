@@ -1,0 +1,33 @@
+ Hi all, I m trying to get data from a sata disk I extracted from my older laptop that does not work anymore. Well, I try to mount it from <:de
+ from /dev/sdb but that does not work
+ ikonia: yeah I know, yet i dont have any /dev/sdb*
+ How should i proceed to mount ther disk then ?
+ ikonia: no there are partitions, I used this disk
+ ikonia: does not return me nothing, i tried it :(
+ Maybe there are some hardware failure
+ I wont partition this disk, I will loose the data Im trying to get it back
+ I guess linux is mistaken because of some hardware failure or whatever
+ ikonia: no output
+ the command is completely silent
+ nop
+ yeah
+ im root
+ ho no, i did specify <:de
+ /dev/sdb
+ sudo su
+ sudo su - ?
+ ikonia: http://pastie.org/1853035
+ Thanks a lot
+ I copy paste the syslog
+ when the disk was plugged in
+ Yeah, but you also got the sudo fdislk
+ fdisk -l
+ that brings nothing
+ I guess
+ terry: usb drive yes
+ terry: ikonia lol it mounts itself right away
+ plugin it out
+ but I made it several times
+ first time it does mount
+ why is that ?
+ ikonia: thanks a lot

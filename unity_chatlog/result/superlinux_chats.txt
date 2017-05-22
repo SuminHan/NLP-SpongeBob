@@ -1,0 +1,4 @@
+ hi. to all arabs in this channel, a lesson IN ARABIC will be given after 2 hours from now on this FREENODE server @ channel #linuxac . lesson will be in using and configuring the /etc/fstab file and the mount command and basic formatting of disks, NO RAID NO LVM is going to be discussed. thanks.
+ repeat:
+ hi. to all arabs in this channel, a lesson IN ARABIC will be given after 2 hours from now on this FREENODE server @ channel #linuxac . lesson will be in using and configuring the /etc/fstab file and the mount command and basic formatting of disks, NO RAID NO LVM is going to be discussed. thanks.
+ ok thanks bye

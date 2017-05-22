@@ -1,0 +1,28 @@
+ thanos: What kind of btrfs setup did you have before?
+ thanos: What is hapening with fsck currently?
+ Ubuntu_user: "Installed" How?
+ oneliner: I think you can use "unity --restore"
+ Ubuntu_user: It did not work?
+ oneliner: If that is the error message, probably the script is faulty, where is the script from?
+ jonii2: Have you installed extra video drivers (ati/nvidia)?
+ Ubuntu_user: Where is the script from?
+ Ubuntu_user: If you do not specifically need 7.0, install the 6.9 version (or earlier if you aren't running 11.04) from the ubuntu software centre.
+ Ubuntu_user: It works fine for me: "chmod +x ./netbeans-7.0-ml-linux.sh" "./netbeans-7.0-ml-linux.sh"
+ raven_: I would use jhead in conjunction with grep
+ Ubuntu_user: Hmm, maybe you need to be in the same directory as the .sh file?
+ Ubuntu_user: Hmm, doesn't seem so though...
+ Ubuntu_user: working dir doesn't seem to matter: http://imagebin.org/151003
+ Ubuntu_user: Yea, I don't know what the difference is though, I am running Debian, here... I'll check if it's an Ubuntu thing...
+ Ubuntu_user: Well, it works for me on natty as well...
+ Ubuntu_user: Maybe you want to try re-downloading, make sure it's the right version, etc..
+ Ubuntu_user: This the one I used: http://netbeans.org/downloads/start.html?platform=linux&lang=en&option=all
+ Ubuntu_user: Right, well then I don't know why it doesn't work for you..
+ Ubuntu_user: No, only 6.9
+ JoshDreamland: Many like 11.04 as well, if you have specific issues report bugs for those.
+ JoshDreamland: Though of course you shouldn't report bugs that are simply opinions, those could go in the forums, or the mailing lists, or reformulated into ideas for improvements, rather.
+ p_ahuja: The install started fine, I haven't actually treid starting it.
+ ayrton: Normally the pae kernels are set to boot first per default..
+ Antilect: Well, true, that's quite offtopic here though.
+ user82: [crtl+r] and start typing to search
+ WannaBeGeekster: 3D accelerated graphics driver
+ WannaBeGeekster: Should, yes.

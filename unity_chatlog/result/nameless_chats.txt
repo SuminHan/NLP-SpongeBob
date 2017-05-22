@@ -1,0 +1,17 @@
+ english question : is the sentence « he's a man of the good » correct ? or grammatically right ?
+ kellnola: even in a book ? something unusual ?n
+ velcroshooz: kellnola thanks to both of you
+ thegoodcushion: did you try to apt-get update before ?
+ thegoodcushion: change your mirrors then
+ hi there
+ How can i set up a booting system on EFI machines?
+ MacBook pro
+ i have a MacBook Pro 3.1 (late 2007)
+ same thing?
+ Jordan_U: at the moment i'm installing the system by saving a 200mb FAT partition as /dev/sda1
+ what do you suggest to do?
+ Jordan_U: to be honest with you i'm installing debian, but i thoight the way for get the system booting is the same as ubuntu
+ :\
+ *tought
+ Herbs: i know
+ you answered me in #grub? sorry, maybe i didn't read

@@ -1,0 +1,7 @@
+ quit
+ I just updated system by apt-get, and found out its still version 10.10, is 11.40 really released?
+ Incarus6: i tried update-manager -d, same thing
+ Incarus6: thanks, i will try
+ Incarus6: looks like i must do this: edit /etc/update-manager/release-upgrades and set Prompt=normal  thanks anyway
+ Incarus6: its very good, thank you
+ update to 11.40: Need to get 2,199MB of archives. Oh, god! it's too much

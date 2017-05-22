@@ -1,0 +1,103 @@
+ howdy all!
+ Is there anyway to remove all GUI's from my Ubuntu install and just use it similar to Ubuntu Server? I built it up from ubuntu minimal, but cannot upgrade to 11.04 so I just want to scrap the gui.
+ thanks escott--I know my command line tools, so that should work alright. Should I reboot first?
+ escott: rather: boot into a command line?
+ Well, I removed my GUI, but now my color scheme is the purplish-grey of bootup for Ubuntu. How do I modify my color to something more acceptable?
+ Does anyone know how to change the initial color scheme for the command line?
+ escott: I know longer use terminal--the CLI for the OS
+ escott: How would you change the background color then?
+ Does anyone know how to change the background on the OS CLI? I have read through a few bash how-tos and can't seem tog et it to work--they recommend editing ~/.bashrc, but that is user-specific. It appears I need to edit something more?
+ escott: is this bash profile in /etc the one that is used at startup?
+ escott: just the background color
+ escott: it's purple, I want to change it to black
+ escott: how do I change that?
+ So I'm still trying to figure out how to change my TTY shell background color from purple to black. I've removed my GUI and used rcconf to turn off Xserver and GDM. Anyone know how to do this? escott has helped me a bit, but I think we've both run out of ideas.
+ So I'm still trying to figure out how to change my TTY shell background color from purple to black. I've removed my GUI and used rcconf to turn off Xserver and GDM. Anyone know how to do this? escott has helped me a bit, but I think we've both run out of ideas.
+ jrib: 10.10
+ jrib: I uninstalled X. I want to work directly in the command line. But I'm trying to change the default background color--it persists to the tty shells
+ jrib: I used rcconf to turn off X-something, it's one of the options. But i'd already uninstalled portions of it
+ jrib: fair enough. My question is how to change the background coloration though. Do you know how to do that?
+ jrib: so, I run that in a tty shell. Do I then need to restart? Or should it do that immediately?
+ I see that it works fine on my little laptop, which has the gui installed. The coloration that persists seems to be whatever Plymouth is using, and setterm did not change that
+ escott: fbset? That is the time I saw that
+ escott: I tried setterm, but it would not work
+ escott: you dont think it would be something to do with Plymouth, do you?
+ hmm
+ jrib: I'll give that a try too
+ escott: So I am looking at -rgba option on fbset, and I see 8/16, 8/8, 8/0, 0,0 as the information
+ jrib: you mentioned entering "text" as an option in Grub--when do I do that? At startup or in a config file somewhere?
+ jrib: setterm -background black
+ jrib: tty1
+ jrib: not sure. I believe bash. Whichever shell comes native to Ubuntu minimal/server. Not terminal/lxterminal/konsole or anything like that
+ jrib: probably bash since I edited PS1 in .bashrc and was able to see the changes made
+ jrib: I restarted and its black now. ALl I needed :-)
+ WHat package is it that has GDM go to a login screen?
+ Spkes: I share the sentiment. Unity is a step backwards, as is Gnome3
+ jrib: where would I put the "text" option in the Grub2? I'm looking over the documentation and it is not clear to me
+ jrib: so the GRUB_CMDLINE_LINUX_DEFAULT = "spash quiet text"?
+ jrib: here goes :-)
+ Holy cow the Unity desktop interface is a bowl of suckage. How do I get back my normal Gnome2 session where things work, like Docky and Adobe Flash nsflash plugin and compiz?
+ escott: In Ubuntu classic my metacity won't work, and my gnome menu won't popup with alt+f1
+ Howdy all! What is the program that allows one to use the mouse in a tty shell?
+ thanks jbeatty--Jeff Beatty of Wisconsin?
+ Vustom: try typing als and pressing "tab" a couple of times to see what packages are available
+ Vustom: autocompletion rocks
+ Howdy all. Is there anyway to make nano word wrap without linebreaks?
+ Howdy! 11.04 is giving me some issues with flash
+ is anyone else havingt his problem?
+ http://pastebin.com/CVqrFHH1
+ ActionParsnip: http://pastebin.com/CVqrFHH1
+ ActionParsnip: it failed on me
+ ActionParsnip: http://pastebin.com/jdsX7BZ5
+ ActionParsnip: nothing. No output
+ ActionParsnip: What does this mean?
+ ActionParsnip: Where do I go to read the fix? I apologize for pestering, I've just never worked a fix/workaound in this way
+ Sorry ActionParsnip had to relogin
+ ActionParsnip: So what is the next step then? The bug you showed me seems to show that my config/dat file was locked before upgrade? Am I understanding this right?
+ ActionParsnip: files out of the debconf folder? Will they respawn?
+ k
+ ActionParsnip: after I take the files out, what do I do?
+ ActionParsnip: ah, found it
+ ActionParsnip: same error when I run sudo apt-get install -f
+ ActionParsnip: some of them. Not all of them. And I can no longer sudo...
+ rather, sudo nautlius
+ ActionParsnip: I am still having the same issue--nspluginwrapper and adobe-installer are not installing
+ ActionParsnip: I finally figured out a workaround. Since I'm running amd64, I just added the beta flash 64bit, which is a workaround for nspluginwrapper
+ ActionParsnip: I didn't even consider it as a solution until i thought about it for awhile :-)
+ One more question for the group. I'm restoring my gnome panel, but cannot remember what the area is called where open applications are listed in the panel...
+ ChogyDan: where there ya go--thanks!
+ Howdy all! I messed up my unity a little bit. I was playing around in CCSM and tried to enable ring-switcher. Now my top panel is just black--nothing there. Any ideas?
+ Howdy all! I messed up my unity a little bit. I was playing around in CCSM and tried to enable ring-switcher. Now my top panel is just black--nothing there. Any ideas? I am still able to access the buttons/info up there, just all black
+ bison: I had that error a bit ago. Perhaps something has a lock on debconf?
+ For all those that read the logs and are in a similar situation: disable and reenable expo, resolve the errors in favor of expo, disable ring switcher, logout, log back in, good to go
+ toodles!
+ If I boot into a command line, and I have my default desktop set up so that if I use "startx" to begin the GUI, how would I instead boot into something like LXDE?
+ If I boot into a command line, and I have my default desktop set up as Gnome so that if I use "startx" to begin the GUI, it begins GNOME, how would I instead boot into something like LXDE?
+ That was the question I meant to ask :-D
+ ActionParsnip: I don't have a login option--only running tty shell
+ jrib: I set it up to boot into a tty shell instead (very old computer)
+ coz_: lubuntu-desktop is installed
+ coz_: because I'm booting directly into a tty shell. GDM only lets me boot into GUI options--I like booting into the command line
+ Howdy all. My GUI is busted. I removed KDM, because it randomly started popping up in place of GDM, and only a Kubuntu session would start, regardless of sessions selected.
+ Any ideas?
+ when I run startx the gui starts, but its like running ubuntu with Unity removed
+ is there a way I can specify which session to use with the "startx" command?
+ pattysmatty: what?
+ jrib: different computer, different situation
+ jrib: I set up the ~/,xinitrc just fine for that computer
+ pattysmatty: all good
+ jrib: not sure--my gdm disappeared (I was using it on this computer).
+ jrib: I would LOVE to use GDM :-)
+ jrib: it starts gdm :-D
+ jrib: how do I ensure this works the next time I reboot?
+ jrib: yes
+ jrib: my wife did something, but I'm not sure what. According to her, she plugged in her ipod before she started the computer, and it went to KDM
+ jrib: I removed kdm and kdebase-bin, figuring it would give me the option to choose gdm (also purged the two packages)
+ jrib: I haven
+ jrib: I haven't used KDE in months, and figured it wouldn't hurt to remove (though I typically do so in synaptic)
+ jrib: well, now that I started the gdm service, I'm not sure. Before I did that, it would boot up to "battery state" notification, and then hang (I've seen it do that on the computer I set up for text login yesterday, so I knew I could tty at least)
+ jrib: but beginning the gdm service allowed me to log in as normal
+ jrib: should I reboot and see if hte issue is fixed?
+ jrib: is this a file or a folder?
+ jrib: done. Changed to GDM. I'll restart and see what happens--I may be back. Thanks much for your expert advice
+ jrib: success. Thanks man

@@ -1,0 +1,66 @@
+ can any one tell me how to take a game out of one ubuntu install and copy it to another? The other install has a version of the same game already
+ howdy
+ Mac10
+  http://www.hauppauge.com/pages/faq/support_faq_linux.html
+ sorry-infoloco was looking for tuner software
+ Infoloco -here is a link for Hauppauge cards
+ http://www.hauppauge.com/pages/faq/support_faq_linux.html
+ can anyone tell me how to take a version of a game from one Ubuntu install and put it in another with the same program-different version?
+ can any one tell me how to take a game out of one ubuntu install and copy it to another? The other install has a version of the same game already
+ hi everyone
+ I cannot get cable working in new install of Ubuntu 10.4 -the same cable works on 9.4
+ would someone be kind enough to help me get my cable broadband going in Ubuntu 10.4-it works fine in 9.4
+ nothing
+ I can connect same cable to this machine and it works fine-
+ It is not the signal -the ehernet shows up in lshw
+ what else can I tell you? There is nothing wrong with the connection -there is something with the software or hardware
+ I can plug the cable into any of my other linux installs and no worries
+ I see a light from the ethernet port but it does not appear to light the end of the cable as it does on other machines
+ ok
+ yes
+ ok
+ mikinanuq ok
+ mikinanuq it gives an ip address
+ mikinanuq ok
+ mikinanuq - says "network is unreachable"
+ mikinanuq thanks for helping
+ mikinanuq will try
+ mikinanuq -yes
+ mikinanuq-both machines have same address
+ mikinanuq 127.0.0.1
+ mikinanuq-oh-I see it -brb
+ mikinanuq-this machine has the 192 address-the other does not
+ guest6900 swap is like pagefile in windows-virtual memory
+ mikinanuq ok
+ mikinanuq 1665 0.0 0.3 3320 800 pts/0 S+ 02:17 0.00 grep --color=auto dhcp  {dhcp  is in red]
+ mikinanuq ok
+ mikinanuq says to use service networking start
+ mikinanuq -applet -  an instance ia already running
+ mikinanuq- sorry to be so dense but what would I do to see if network is disabled?
+ mikinanuq it says it is enabled on the panel
+ mikinanuq   checkmark enable networking
+ mikinanuq ok
+ mikinanuq auto eth
+ mikinanuqnever used
+ mikinanuq ok
+ mikinanuq connect auto ic checked
+ is
+ mikinanuq MTU ato
+ automatic
+ mikinanuq yes
+ mikinanuqipv6 is set to ignore
+ mikinanuq eth1 only
+ mikinanuq ok
+ mikinanuq I am beginning to think it is the ethernet card or its driver-maybe I should try to boot the drive in another machine?
+ mikinanuq- I see them but not on the cable
+ mikinanuq-correction -that was just a reflection-no lights
+ mikinanuq-Usually ubuntu finds the drivers if there is a connection-maybe that is my problem here-no connection, no ethernet driver
+ mikinanuq -Wont take long to find out
+ mikinanuq-have to use this machine-brb
+ mikinanuq-apparently you were right- it is working on the other drive but know says eth0
+ mikinanuq-any idea how to fix it?
+ not sure-on this one it says eth0 instead of eth1
+ mikinanuq>	not sure-on this one it says eth0 instead of eth1
+ mikinanuq- Wonder if I delete eth1 on other machine and reboot if it will start working?
+ mikinanuq-ok - I guess the next move is to put in a pci ethernet card and disconnect the one on the mainboard
+ mikinanuq -Thanks for all your time

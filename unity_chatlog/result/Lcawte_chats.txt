@@ -1,0 +1,21 @@
+ Is there a command to pull open the distribution upgrade window?
+ Hi, I'm in the process of upgrading to 11.04, but my PC crashed near the end of the installing new packages section, and I try to boot back in, but I just get flahing lights on my keyboard, how can I complete teh upgrade or fix it?
+ Hi, I'm in the process of upgrading to 11.04, but my PC crashed near the end of the installing new packages section, and I try to boot back in, but I just get flahing lights on my keyboard, how can I complete teh upgrade or fix it?
+ Anyone?
+ naike: and how can I tell you that?
+ Hi, I'm in the process of upgrading to 11.04, but my PC crashed near the end of the installing new packages section, and I try to boot back in, but I just get flahing lights on my keyboard, how can I complete teh upgrade or fix it?
+ Hi, I'm in the process of upgrading to 11.04, but my PC crashed near the end of the installing new packages section, and I try to boot back in, but I just get flahing lights on my keyboard, how can I complete teh upgrade or fix it? Syslog: http://pastebin.ubuntu.com/602225/
+ Hi, I'm in the process of upgrading to 11.04, but my PC crashed near the end of the installing new packages section, and I try to boot back in, but I just get flahing lights on my keyboard, how can I complete teh upgrade or fix it? Syslog: http://pastebin.ubuntu.com/602225/
+ Dr_Willis: scroll lock and caps lock, yes, I'm running the latest live CD I have (9.10) at the moment
+ Dr_Willis: Any ideas then?
+ Hi, I'm in the process of upgrading to 11.04, but my PC crashed near the end of the installing new packages section, and I try to boot back in, but I just get flahing lights on my keyboard, how can I complete teh upgrade or fix it? Syslog: http://pastebin.ubuntu.com/602225/ (Its scroll log and caps lock flashin)
+ Dr_Willis: seriously? Is there not another way?
+ Dr_Willis: There is now way I can back it up, I have the one disk, and I'm not messing with partitions and have LAMP running... is there not a way I can get the upgrader to finish?
+ jjlee: not of my stuff or anything on the server, no
+ Dr_Willis: I don't have the disk space or the knowledge to play around with partitions, I would backup if I could.
+ Dr_Willis: Not everyone has money to spare on the latest gadgets, and Ubuntu One is no where near big enough quota
+ jjlee: on my disk? Databases, files and configuration
+ Dr_Willis: I have chrooted, now what command do you reckon
+ jjlee: I can't, I don't have the storage space or the knowledge of safely playing with partitions, I've already said
+ jjlee: do you expect me to go through and grab all the config files, my photos, my databases and everything? I don't have the space to do that
+ blackbit: I am planning to additional drives to start backing stuff up when I get some money in, but I can't do that yet

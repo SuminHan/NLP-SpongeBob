@@ -1,0 +1,13 @@
+ cordoval_: magic lamp
+ can I run wget through tor proxy?
+ yes thanks guys, now I can running wget through tor proxy, just need to read the manual for a while.
+ trailoryo: no flash installed, or proxy block the video streaming
+ nimrod10: go to synaptic package manager and select firefox, then select menu Package > Force version
+ nimrod10: dont worry, it ussually appear when the connection to destination address is fail
+ nimrod10: bug in firefox I guess
+ ayrton: /etc/default/grub on GRUB_DEFAULT=0 I guess
+ compubomb: you need to try yourself, use USB disk or Live CD to try 11.04, somehow it is awesome
+ ayrton: it is in /boot/grub/grub.cfg, although it say do not edit the file, I bet you can edit it carefully
+ why network-manager indicator on natty can't display multiple configuration of my wireless connection? is it a bug?
+ manu_44: try ~/.local/share/applications/mimeapps.list
+ agronholm: I think I found it, gconf-editor to /apps/compiz-1/plugins/unityshell/screen0/option/autohide_animation, set launcher_hide_mode to "0"

@@ -1,0 +1,6 @@
+ has anyone tried out IOS on Linux? is there any IOU LiveCD based on Ubuntu to tes
+ !beta
+ !ubuntu+1 | HRT
+ !patience | HRT
+ !kvm | quellhorst
+ sosaited: #mythbuntu?

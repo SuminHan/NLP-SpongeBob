@@ -1,0 +1,12 @@
+ When I right-click on anything, I get a popup window where the color of the text is almost the same color as the background color. Since I don't even have the words for these objects, I can't seem to find out how to change these items by googling. Hard to ask a machine a question if you don't have the words.
+ actally its happenign with any popup list, like the lists under file, view, etc in firefox
+ Tortoise, sometimes I get that if I don't do reload packages.
+ escott Actually it seems any list like under the main menu in Firefox ...   like Click file and all the choices have to be moused over so I can see the text.
+ escott yes, you are right, the theme is correct, white text on black backround. Its firefox itself, its the culprit. Looks like I need to fiddle with the firefox theme.
+ FishFace I have 1gb
+ escott thanks, I found the theme choices in add on manager and switched to a theme. It looked like no theme at all was being applied - none were set to be in use.
+ escott++
+ I mis-entered a repository in synaptic package manager and i need to edit out my error. The file is not in /etc/apt/sources.list like google sites said it would be, the error is in a different file. Anyone know where it is? I'm frustrated dealing with my frenemy google.
+ now i really screwed it up, time to delete and reinstall. :(
+ My conky is covering over all my windows. I remember I need to edit autostart.sh to correct it, and I have this site telling me to do so but no site is reminding me where autostart.sh is, and the find command just drops to command line without even trying to find it.
+ Ok, I can't find out how to get conky to stop covering over every window, None will help, I am going to have to uninstall conky and give up.

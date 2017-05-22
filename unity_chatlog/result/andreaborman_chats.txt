@@ -1,0 +1,11 @@
+ I have installed Linux Mint 9 alongside my Windows 7 starter on one of my computers.
+ I did this by mounting it the ISO file on virtual clone drive and used the mint 4 windows installer. So mint can be uninstalled again if I want like any of my other Windows programs
+ I have Linux Mint 9 gnome by the way it's the easiest one to use.
+ KM0201 Linux mint is based on ubuntu they say. But I have tried ubuntu installed in the same way as I did with Mint. but it does not have a Windows type start menu like Linux mint does. which make it more familiar for Windows users like me.
+ Well i must admit when I tried the new version of ubuntu 11 it is beter than the old because at least with the new version. It recognised my wifi so I could connect wirelessly to the internet.
+ And it was not so difficult to use as the old version either.
+ I can only do simple things on Linux. I cannot tweak it like I can Windows.
+ I would like to remove my pasword on Linux so that I don't have to enter it every time I install software or make changes to my computer on Linux. On windows I do not have any passwords. I just turn on my computer and go and do what I want(adjust settings) without any password. It would be nice if I could do this on linux.And not have a password.
+ Why is not having a password on Linux dangerous?
+ But on Windows I do not have a password. On windows it is optional. You don't have to have a password if you do not want one.
+ You are right I keep forgeting-Linux is not windows. they have a different system.

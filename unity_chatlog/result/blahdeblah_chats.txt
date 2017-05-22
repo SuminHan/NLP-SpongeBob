@@ -1,0 +1,1 @@
+ Any experts on initramfs & mdadm present?  I have a server which fails to mount the root filesystem on reboot.  It drops into the busybox shell claiming that there's no root filesystem.  A simple mdadm --auto-detect fixes it and the system continues to boot.  Why is this happening, and how can i get the mdadm process to continue without intervention?

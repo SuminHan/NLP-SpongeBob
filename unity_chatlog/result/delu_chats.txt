@@ -1,0 +1,5 @@
+ Hi, I just switched to Natty today and I've noticed that when I switch between viewports/workspaces in Classic, my docks and my panels all move instead of just my windows, like they did in Maverick. How can I change this?
+ anyone know how to lock down docks/panels when switching between viewports/workspaces in natty? In Maverick, just my windows moved
+ oh, does anyone know how to disable the floating scrollbars in 11.04?
+ Hi, does anyone know how to make windows avoid docks when maximized/opened? I had it set up this way in Maverick, but upon reinstalling Ubuntu to Natty they appear under the dock instead. I am using Compiz and AWN.
+ Hi, after switching over to Natty, my AWN dock no longer seems to have space reserved for it at the edge of the desktop. When I open or maximize windows, they go under the dock. How can I change the settings so that they avoid the dock? I use Compiz

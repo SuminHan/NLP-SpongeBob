@@ -1,0 +1,20 @@
+ no x after natty upgrade, nvidia kernel module missing. I need help installing the module or reverting to a free driver that gets gdm giong.
+ pfifo: I have, it says nvidia-173 is auto
+ pfifo: ah, it's skipping the module build, says no kernel source. looking for build depends command.
+ pfifo: know why nvida-173 only depends on the headers then, or why the source is needed? seems buggy.
+ pfifo: i understand needing the headers, it's nvidia-173 needing kernel-source that seems odd and not depending on it that seems buggy
+ pfifo: installed linux-source, linux-source-2.6.38; same error. I think the message 'kernel source for this kernel doesn not seem to be installed' is misleading :) uname -r 2.6.38-8-generic-pae
+ pfifo: ahh, was missing -pae headers :S
+ pfifo: all my .35's are generic. I think the upgrade picked -pae, maybe because I have exactly 4gb so I don't get the top 1-2GB wasted by bios/device memmap
+ pfifo: and the header selection stuff didn't use my uname -r to get the -pae headers maybe
+ pfifo: it looked like it compiled on install of the -pae headers, but still no modinfo for nvidia. rebooting and then if it still fails trying reinstall nvidia-173
+ pfifo: yes, it worked on reboot
+ pfifo: tyvm for help/sounding board
+ I'm liking the new unity on my laptop, works better than in 10.10; on my desktop will take some getting use to.
+ aetaric: install/reinstall nvidia-current; note if it says it makes the kernel module or not
+ Lesterwood: log out, choose classic, log in
+ Lesterwood: running programs have an > by them in unity
+ aetaric: try reboot and cross fingers then. I had to install the right linux headers
+ loworbit: does it fork away from the console? might need to kill <pid>
+ usalabs: click power icon > system ssettings
+ Lesterwood: because menus are at the top. I like it.

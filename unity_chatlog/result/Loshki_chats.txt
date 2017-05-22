@@ -1,0 +1,9 @@
+ !tv | infoloco
+ mar7ar: that's a hard one to recover from. You might have to reinstall from scratch.
+ !tv | infoloco
+ bashelina: 15GB should be plenty. I don't recall seeing a / partition ever go over 10GB...
+ erika: sort of. /var/log/dpkg/dpkg.log.* contains all packages added in chronological order, so in theory you can reconstruct the list of things you added by using something like 'egrep installed'
+ JoshDreamland: please file a bug for it...
+ JoshDreamland: fair enough. Best of luck with that...
+ slyrus: or move the logic into a script which you run in the background started from /etc/rc.local. There's no guarantee that an nfs mount will work. What if the nfs server's down?
+ canthus13: try 'reset'

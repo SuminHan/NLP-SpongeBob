@@ -1,0 +1,1 @@
+ AMAG: Check /var/log/Xorg.0.log to see what driver is actually being loaded and used...it's probably the correct nvidia driver...the "not being used" is not unusual in 11.04

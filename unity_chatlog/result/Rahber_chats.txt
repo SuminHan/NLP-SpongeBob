@@ -1,0 +1,8 @@
+ ok i downloaded chrome from official site and when i open it in software center i get this Dependency is not satisfiable: libcurl3
+ hello
+ whats jockey-backend ?
+ when i tried to install anything it says updating cache and waiting for jockey backend to exit but nothing happens
+ how do i sort it out ?
+ i cant get rid of that jockey-backend to exit ?
+ whats Dependency is not satisfiable: libnspr4-0d (>= 4.7.1)
+ how to get rid of that jockey-backend ?

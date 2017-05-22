@@ -1,0 +1,4 @@
+ I'm having problems with XChat and Unities app bar. It keeps opening up new copies instead of bringing the current running instance of xchat up to the front
+ Im having problems with xchat + unity bar, it keeps launching new copies instead of bringing the existing one to the front
+ Is anyone else having problems with xchat + unity bar? XChat doesnt even show up at all
+ Is there a channel for Unity?

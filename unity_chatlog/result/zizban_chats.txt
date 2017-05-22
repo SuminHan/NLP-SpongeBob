@@ -1,0 +1,87 @@
+ A lot people have been having issues with Nvidia and Unity.
+ This isn't the first time I've heard this error
+ I really like Unity. It's the reason I came back Ubuntu
+ Great work, developers
+ Of course I may be the only person on the Internet who thinks this
+ I must be a target audience, go me.
+ I cant wait for Unity2d so I can use it on geriatric laptop here
+ oooo I can have it now? Cool
+ sss314: if you have the right hardware 11.04 flies
+ VirtualBox doesn't have 3d accel, thus no Unity
+ ah, things you learn
+ ah ok
+ I just installed Unity 2D...nice!
+ I think you'll feel pain, though.
+ define "strengely"
+ or even strangely
+ hows your battery?
+ hmmm
+ My spare laptop is at the low end for Unity so I just use Unity 2D
+ no cpu spikes
+ varun: in Unity?
+ /usr/share/sessions ?
+ soreau, I have /usr/share/xsessions
+ soreau, right. Does it show all the sessions?
+ so you select Unity, log out, login and it doesn't change?
+ soreau, check and see if you have a /etc/gdm/custom.conf
+ soreau, Is is this a new install or upgrade
+ soreau, sounds like something went wrong during install.
+ soreau, got me
+ soreau, you know it might be controlled by $GNOME_PREFIX/share/gdm/defaults.conf
+ I'm not sure though
+ I dont think so
+ I think it just makes a playlist
+ victorhugo289, I think your safe
+ victorhugo289, good to hear!
+ Glycan, gotta be a little more specific than that
+ Glycan, what does the prompt say?
+ Glycan, and what do you choose?
+ try it with "Brasero"
+ I love Unity.
+ ya it has quirks but it's mostly awesome
+ bull9408, why do want to do that?
+ bull9408, if you installed it via apt, just go to Synaptic and uninstall it
+ Joker_77, had back turned, eating
+ bull9408, it does
+ eiriksvin, try Unity2D ;-)
+ bull9408, my pleasure
+ bull9408, unless you are crunched for disk space, don't worry a bout those. they're harmless
+ bull9408, what splash scrren?
+ eiriksvin, I'm not sure. My untiy 2d install is that work
+ bull9408, did this start after you installed that software?
+ let me scroll up and see what you installed
+ Joker_77, ah yes
+ bull9408, you can try autoclean. sudo apt-get autoclean
+ bull9408, it's part of apt-get. it should just be "sudo apt-get autoclean"
+ bull9408, yup so it found nothing. That was a long shot. Try uninstalling everything you installed, what you listed
+ noob, whats your problem?
+ noob, I hear upgrades from the 11.04 beta are hit and miss
+ noob, I don't know why. They just seem to be. I wouldn't have recommended it myself
+ Radios, that's a civil fraction. It's not illegal
+ but then again, don't feed the troll
+ I hear ya
+ QuartZo, I love Unity
+ As a matter of fact, I installed Unity 2d on my older laptop
+ "Unity Freak Of Nature" is the name of my new band
+ funnylookinhat, I think it's a bug with gtk and Unity because the Gimp acts the same way
+ _jw what?
+ _jw, I'm not sure it's officially a bug but I've heard this before
+ logesh, what?
+ ah someone got it
+ logesh, you want to create a new channel?
+ You create one anytime but for it to stick you need to apply for one
+ ask in #freenode
+ do you have cookies enabled?
+ "one ubuntu to rule them all."
+ I love Unity.
+ LAcan it should it do it automatically.
+ LAcan, is this a Windows CD?
+ LAcan and you are in Ubuntu?
+ LAcan, that's weird. When I put in a CD it appears om the desktop.
+ LAcan what sudo apt-get install gnome-network-manager doesn't work?
+ LAcan, OOOOOH
+ absolutely
+ logout, select your session, log back in
+ salomonv, is it in Unity2d? Nvidia drivers?
+ salomonv, you have to install unity2d manually. Yeah, Nvidia is a problem right now.
+ chrome: because Gnome3 sucks :-)

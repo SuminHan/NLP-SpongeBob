@@ -1,0 +1,8 @@
+ how can I remove the workspace switcher from the unity launcher?
+ where is there a chromium-browser-l10n package?
+ IdleOne, gmachine_24, no. just wondering why the package exists...
+ crap. wanted to ask why it exists. not where... sorry
+ IdleOne, thanks. all the rest, sorry for the incoherence
+ how can I re-enable control-alt-backspace on natty?
+ ChogyDan, sysrq?
+ ChogyDan, excellent, it worked

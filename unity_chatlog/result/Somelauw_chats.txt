@@ -1,0 +1,60 @@
+ awesome > kde > gnome > unity
+ So does everybody love or hate unity?
+ Should I already upgrade to 11.4. I really don t care about unity or anything?
+ Since I will use awesome anyway.
+ since maybe it is worht it
+ Hi, how on earth do I kill the graphical version of bsh?
+ Its name doesn't show up in top.
+ arnab: ctrl + alt + F1 shows tty.
+ and ctrl + alt + f7 to get back
+ Can someone please give me advice how to kill xbsh?
+ I already tried killal xbsh
+ Hi, how do I change lightness of the screen?
+ yes, laptop
+ hp 8530. Or do you want me to pastebin lspci?
+ Anyway the buttons aren t working.
+ So I was wondering if there is a commandline way to configure it myself.
+ JoshDreamland: hp 8530w.
+ How to start the brightness applet?
+ JoshDreamland: How to start the brightness applet?
+ def hej():
+     print "hello"
+     s = 10
+     if s == 10:
+         print "repeat"
+
+ My terminal was messing with me.
+ Please remove zq again.
+ What is the name of the brightness applet? I am not using gnome.
+ Is there a way to start the brightness applet from terminal or something.
+ ?
+ Hi, what is the gnome program called that handles wallpaper by default?
+ How do I activate the gnome wallpaper if it shows the default one? What is the command gnome used to set wallpaper?
+ Hi, my default wallpaper is shown instead of the one I provided. Is there a way to activate the wallpaper that I provided myself. It should be somewhere in the settings.
+ Hi, how do I do: sudo cat 1 > proc/sys/sysrq ?
+ Can I do it without su?
+ botcity: I am trying to enable sysrq magic. I have trouble with the getting acces part.
+ Hi, my computer just crashed.
+ I was asking how to enable reisub? In ubuntu. I tried echo 1 > /proc/sys/kernel/sysrq.
+ But it didn't work.
+ Ljl, it isn't here. Using ubuntu 10.10.
+ LjL: $ cat /proc/sys/kernel/sysrq
+ 0
+ Ironically, my laptop just crashed.
+ And I couldn't use it.
+ But this laptop + ubuntu never has been very stable.
+ But anyway, I tried to enable it using sudo echo 1 > /proc/sys/kernel/sysrq, but it says I don't have permission. I think that it is because of the ">" inside the command.
+ Is there any reason sysrq magic is disabled by default by the way? Since why would you disable such a useful feature
+ thanks trismn. I think it worked. If it didn't work. I will probably notice when I reboot.
+ iceroot: Here it was disabled. Also I updated from 10.4 to 10.10.
+ But really, it was disabled hre by default.
+ iceroot: what is the memory dump. Does it work in gnome-terminal?
+ It says loglevel set to 0???
+ iceroot: It says loglevel set to 0?
+ iceroot: tty said that. I did alt + fn + prtscr + m.
+ Changing loglevel. Log level changed to 0.
+ iceroot: But why do I need to check memdump anyway?
+ iceroot: but is uses printscreen instead of sysrq.
+ ?
+ Are you sure? My keyboard has 2 keys for them.
+ dont do it you will get unity

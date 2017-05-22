@@ -1,0 +1,4 @@
+ Hello everyone! I am trying to setup a server with two network cards. They are both recognized by ubuntu, and one is working properly as an LTSP port, but the other one will not connect to the internet.
+ sakurango, I am not familiar with the new Xubuntu, but can you right click on the Application launcher and choose to edit?
+ aww
+ I see that I forgot to actually ask my question in haste, does anyone know how I can get the network card to connect. I have tried manually setting it up to work with DHCP, but it still doesnt do anything.

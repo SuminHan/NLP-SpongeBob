@@ -1,0 +1,2 @@
+ what's the best way to remap fn + left to home?
+ is there a built-in way to remap keyboard commands in ubuntu 11.04? I'd like fn+left to be home

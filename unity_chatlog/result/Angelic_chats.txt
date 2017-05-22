@@ -1,0 +1,47 @@
+ I keep getting my wireless networks greyed out
+ I can't connect to wireless for some reason -- however it shows the wireless networks but the wireless networks that I want to connect to are grayed.
+ I can't connect to wireless for some reason -- however it shows the wireless networks but the wireless networks that I want to connect to are grayed.
+ I can't connect to wireless for some reason -- however it shows the wireless networks but the wireless networks that I want to connect to are grayed.
+ where?
+ its just displaying a white panel
+ Captainkrtek: Well, its seeing the wifi networks but the wifi networks available is showing in grey.
+ Captainkrtek: Tried, still the same result.
+ Captainkrtek: Its new.
+ Captainkrtek: Lastly I put quite a few updates on it.
+ geus: Its an IBM R32.
+ Captainkrtek: Done.
+ Captainkrtek: I am in there and now I see all the history.
+ Captainkrtek: Linux firmware thats about it.
+ Captainkrtek: I managed to find the package and had to transfer it via usb to install it and it did but still no wifi.
+ Captainkrtek: It'll detect the wifi networks but the wifi networks come in greyed out.
+ Anyone knows a fix to wireless networks being greyed out in the wifi list?
+ Anyone knows a fix to wireless networks being greyed out in the wifi list?
+ erbngeek: Not sure, I just know its an IBM R32.
+ eiriksvin: Not sure I know its an IBM 32* not sure of the hardware
+ eiriksvin: I think so.
+ eiriksvin: Through what command in terminal?
+ eiriksvin: Aironet wireless communications cisco aironet wireless 802.11b
+ eiriksvin: me?
+ Anyone knows a fix to wireless networks being greyed out in the wifi list?
+ puff: I am rigt under it.. I have one windows laptop working on it now (this one is it)
+ Anyone knows a fix to wireless networks being greyed out in the wifi list?
+ Anyone knows a fix to wireless networks being greyed out in the wifi list?
+ Anyone knows a fix to wireless networks being greyed out in the wifi list?
+ Anyone knows a fix to wireless networks being greyed out in the wifi list?
+ Eyes_Only: Aironet wireless communications cisco aironet wireless 802.11b
+ Eyes_Only: Doesn't say.
+ robin0800: The system thats connected to the wifi network that the ubuntu machine has greyed out is right under the router so I am basically saying I don't understand why would it be greyed out.
+ ngc604: http://hardware4linux.info/component/19645/ <--- is the only info I gather when looking it up.
+ ngc604: Otherwise there is no numbers on the back that I see on the hardware.
+ robin0800: It's usually connected through wifi, but as of the moment I am on another machine(Windows machine).
+ robin0800: It sees the wifi network in the area but its greyed out, and the network thats greyed out is currently connected to my windows machine so it can't be out of range.
+ Eyes_Only: it returns nothing back.
+ robin0800: No.
+ robin0800: It sees it, as the aironet wireless communications cisco aironet wireless 802.11
+ when I do the lspci
+ product: 82801DB PRO/100 VE (MOB) Ethernet Controller
+ Eyes_Only:Product: 82801CAM (ICH3)
+ Eyes_Only: Intel Corporation: 82845 845 Brookdale
+ robin0800: Try the 82801CAM (ICH3)
+ serial: 00:d0:59:c8:99:0e
+ brb

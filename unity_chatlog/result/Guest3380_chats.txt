@@ -1,0 +1,1 @@
+ alib-da-, type /msg NickServ help

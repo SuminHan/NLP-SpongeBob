@@ -1,0 +1,2 @@
+ I keep getting my unity bar on the left frozen open, this sucks because a maximized window is covered by it on the left side. Any ideas how to reset unity and how to keep it from happening?
+ ActionParsnip I like that it dodges windows, that setting is actually good, but it stops working after a while

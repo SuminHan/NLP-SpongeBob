@@ -1,0 +1,4 @@
+ is it out?
+ maco, theres no more bots?
+ UbuN2, disable your wireless then try it with your lan cable hooked up to your machine
+ !java

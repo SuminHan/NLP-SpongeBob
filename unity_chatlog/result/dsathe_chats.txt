@@ -1,0 +1,49 @@
+ ext4
+ trans edit dconf
+ dconf-editor
+ gstreamer>unity>form factor
+ Kaushal no
+ open dconf-editor
+ go to desktop>unity
+ change the form factor in drop down to
+ nretbook
+ netbook
+ n restart compiz
+ compiz --replace
+ trans u need to install it
+ oops i used rsync to daily
+ is tht same as fink
+ lugan
+ a little
+ i wud recoment omgubuntu.co.uk and webupd8.org
+ brillinat for all goodies info
+ lugan
+ in ccsm
+ Unity is definitely supported on nvid ia closed drivers
+ trans desktop>unity>formfactor
+ just clik on it itll drop down
+ dconf-editor
+ not gconf
+ its very much dere
+ Schoentoon: kill x
+ go to tty
+ tty is safe olright
+ dob1: its bettr of then shell
+ at least for now
+ lugkhast:
+ srry
+ Lungan:
+ yess
+ icon size in ccsm
+ hmm
+ huge debate
+ there
+ Flynsarmy: yep autohide opts
+ it is
+ Flynsarmy:
+ in ccsm
+ unity plugin
+ compiz is beter den mutter
+ so disable unity if u dun like it
+ its ony a plugin
+ dob1: given

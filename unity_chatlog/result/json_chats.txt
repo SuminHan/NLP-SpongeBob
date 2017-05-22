@@ -1,0 +1,11 @@
+ What is the command to change the permissions (owner, group and execute as program) of a file from 'root' to my account ?
+ celthunder, just chown and chmod ? Nothing else ?
+ celthunder, Yes, but no other args ? As in just, $ chown <file> will do it for me ?
+ celthunder, Thanks ! And to execute the file as program, giving read/write privileges as well  ?
+ celthunder, Thank you !
+ celthunder, Yup, I needed that, too ! It's only me... !
+ celthunder, Is there a book where you get your info from ? I mean, besides, the man pages... ?
+ celthunder, man pages, then for me !
+ Starminn, Yes, shcherbak just pointed one to me.. !
+ shcherbak, Thanks ! I'll look it up... Who know ? I'll come back later and help you !!
+ celthunder, yes, thank you, thank you !

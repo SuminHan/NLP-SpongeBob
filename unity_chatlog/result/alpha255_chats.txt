@@ -1,0 +1,11 @@
+ anyone got unity 3d working on a lenovo t61p?
+ the laptop wasn't plugged in when i did the install
+ that is cool
+ super key
+ Flynsarmy: even if i installed the 2d version
+ ?
+ Flynsarmy: ahh
+ sudo apt-get install unity-2d
+ i'll do the unistall and then try to 3d
+ it's wasn't on this laptop
+ i wasn't connected to internet during install

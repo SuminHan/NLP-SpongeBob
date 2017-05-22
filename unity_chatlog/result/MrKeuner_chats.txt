@@ -1,0 +1,9 @@
+ !unity
+ hello, how can I disable a user temporarily using the shell?
+ !"disable user"
+ hello, natty here... in synaptic, items in residual config section cannot be purged... Any idea what may be wrong?
+ hello, natty here... in synaptic, items in residual config section cannot be purged... Any idea what may be wrong?
+ is it me o everyone?
+ MoleMan, try transmission-cli
+ MoleMan, chances are you already have transmission anyways
+ hello, natty here... in synaptic, items in residual config section cannot be purged... Any idea what may be wrong? is it me or everyone?

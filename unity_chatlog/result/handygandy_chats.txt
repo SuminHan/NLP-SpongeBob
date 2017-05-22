@@ -1,0 +1,2 @@
+ The one thing I hate about linux is the file browsers. Can someone suggest something close to Explorer?
+ I use KDE, I don't think nautilus works well with KDE. Besides from what I remember of nautilus, I found it didn't really come cl;ose to Explorer.

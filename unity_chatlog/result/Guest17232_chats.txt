@@ -1,0 +1,5 @@
+ recently bought the verizon mobile hotspot, but everytime i connect to it with ubuntu, the connection drops every 10 sec, any suggestions?
+ it's the verizon 4g mobile hotspot
+ soreau: not on the same machine, but it works with windows no problems whatsoever
+ soreau: i have another laptop with the windows OS, and it connects fine
+ i have the latest version of ubuntu (11.04)

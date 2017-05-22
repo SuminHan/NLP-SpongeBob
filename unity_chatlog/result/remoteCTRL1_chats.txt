@@ -1,0 +1,31 @@
+ i have been searching launchpad for the last 20 minutes in order to find some functionality to report a bug, am i to stoopid to find it or are they too stoopid to place a button???
+ how do you report a bug on launchpad?
+ bullgard4: i had one for many years now, but i never was in the pesky situation to have to report a bug in ubiquity without using apport or something...?
+ bullgard4: beg your pardon?
+ bullgard4: it is not deactivated, i just need to report a bug without using ubuntu onboard means but by using launchpad only
+ bullgard4: I DO HAVE A WORKING ACCOUNT ON LAUNCHPAD, i need to REPORT A BUG, not to CREATE AN ACCOUNT! so far so clear? ;)
+ bullgard4: i am logged in
+ which is supposedly ubiquity, where do i select it?
+ bullgard4: which is supposedly ubiquity, where do i select it?
+ bullgard4: i am aware of that but there is no "report a bug" button in there neither ;)
+ bullgard4: so far the most promising thing close to a report bug functionality i found here https://bugs.launchpad.net/ubuntu problem  is the "report bug" link leads to the ubuntu homepage and tells me to use ubuntu-bug, which i cannot as the bug is already in the installer...
+ bullgard4: ok so you said link not button, then please tell me where the link to report a bug is?
+ nanomad: happen to know how?
+ nanomad: bullgard4 i would like to report a bug thast i have been seing for several versions now that causes ubiquity to freeze when you choose a keyboard layout which leads to you reinstalling, which is time-consuming on a netbook!
+ nanomad: not alternat the regular one
+ bullgard4: you gotta be kiddn me! :D
+ geeez...
+ now i know why this bug has been existing for versions now: how the hell would you report it? :DDD
+ bullgard4: thanks for your help, dude, i appreciate it!
+ nanomad: i CAN do the whole install process again and then report it... *sigh*
+ nanomad: my gratitude also to you for your help!
+ nanomad: yes?
+ nanomad: hehe, sure i will yawn alittle infront of my second install attempt while the progressbar creeps its way...
+ kapu: /boot not ./boot
+ hey zappus
+ nanomad: the ubuntu bug reporting page??
+ darn, you are rigth!
+ apologies!!
+ zappus: depends on how big and how many data on it
+ nanomad: the bug that i will report is completely independent of hardware, etc...
+ nanomad: thanks for your help, dude!:)

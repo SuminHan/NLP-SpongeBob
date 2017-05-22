@@ -1,0 +1,12 @@
+ so, im running lubuntu (lxde) cant seem to get emesene to work.. im on 11.04 now when i was 10.10 i could run it clean
+ lxde is fantastic
+ took a sec to get used to
+ what is this kernel panic you speak of?
+ pcmanfm is the wayy
+ say now, how do i go about installing the java environment and icedtea ?
+ (forgot how)
+ thanks ! :)
+ did you do a distro upgrade ?
+ if your using gdm you can still choose your last gnome interface rather than unity
+ well
+ doesnt really matter if you use gdm actually

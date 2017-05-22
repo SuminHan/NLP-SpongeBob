@@ -1,0 +1,12 @@
+ nemo: I don't get whats different.
+ nemo: they add a space at the end you are say?
+ MitchM: you might be able to build it.
+ MitchM: I think recommended would be to use a supported version of ubuntu.
+ MitchM: my mistake.  Is there a backports for newer php?
+ MitchM: how new of php do you need.
+ MitchM: hardy?
+ MitchM: you might be able to get away with d/loading the .deb's and installing from those.  http://snippets.notmyidea.org/2009/12/13/install-php-5-3-apache-on-ubuntu-9-10-using-dotdeb-repositories-via-apt-get/
+ MitchM: dpkg will give you dependancy errors before it installs so it shouldn't be too risky.
+ MitchM: did you try the link, and add the debian repo stable?
+ MitchM: It could be possible to build it even if you can't get a package to work, but probably the reason there isn't the package is because there isn't the dependancy.
+ MitchM: this page seems to be more closely related. http://serverfault.com/questions/36040/installing-php-5-3-on-ubuntu-server

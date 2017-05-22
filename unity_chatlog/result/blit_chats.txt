@@ -1,0 +1,7 @@
+ hi, I've played with beta 2 for the last 10 days, upgrading packages as needed. should I install the freshly released one?
+ hi i've installed 11.04. how do i find programs grouped by categories (ex. "games") in the new unity ui? thanks
+ thanks.
+ also... i've installed 11.04 beta2 10 days ago. should i reinstall the "official" 11.04 or keeping upgrading will suffice?
+ lcb: u've misundestood, i was asking if having first  installed the beta will give me problems in the long run
+ Glycan_: control + alt + t
+ lcb: so (having just upgraded packages) i'm the same of a new install, right?

@@ -1,0 +1,96 @@
+ Could anyone help me to mount my old /home partition to my new one /home :D, because I had preinstal my ubuntu
+ truepurple,  same as me
+ truepurple, I had the same problem
+ truepurple, I had preinstal
+ truepurple,  ok
+ truepurple, I had 10.10 then i have undated, and my laptop fails
+ truepurple, than I downloaded a new 11.04 and burned it on disk and I made a new instalation
+ truepurple, yes
+ truepurple, I had installed it
+ truepurple, I restarted and then nothing happed
+ truepurple, sing UBUNTU and 4 points under it :D
+ truepurple,  and that was for an hour
+ truepurple, no tghe starting words Ubuntu I know
+ how to make classic appearance to ubuntu 11.04 any one knows ?
+ Any one can help a bit whit mounting a partition to /home folder
+ ?
+ Giles, I think you have to install drivers for your video card
+ Giles, I had a problems whit ubuntu starting when I updated to 11.04
+ Giles, and then I updated nvidia drives and the Unity started.\
+ Giles, it works whit a notice for me I have chose classic desctop
+ Giles, whit the massage I have house the "X" button and classic desktop stated
+ Giles, then I did update to my nvidia drivers and unity starts, I am not so happy whit this now but :D you know
+ Giles, update your drivers manually and restart your PC and Unity will start, it started for me.
+ Giles, through nvidia site :D i downloaded it and install it
+ what card do you have ?
+ Anyone knows how to switch to classic desktop trough Unity?
+ bazhang, could you be more specific ?
+ bazhang, thanks I thing I geet it
+ Acriax,  thanks I understand now :D
+ what was the name of music editing program audacacy or some like that ?
+ Acriax, thanks you saving me today :D
+ What I need to do to mount one partition to my /home folder ?
+ help me to sudo mount -t ext4  /dev/sta5 /home
+ sudo mount -t ext4 /dev/sda6 /home
+ mount: wrong fs type, bad option, bad superblock on /dev/sda6,
+        missing codepage or helper program, or other error
+        In some cases useful info is found in syslog - try
+        dmesg | tail  or so
+ a little help whit that: sudo mount -t ext3 /dev/sda6 /home
+ i cant mount it :(
+ anyone can help ?
+ Dr_Willis, yes wrong fs type, bad option, bad superblock on /dev/sda6, missing codepage or helper program, or other error
+ so on
+ Dr_Willis, sudo fdisk -l : /dev/sda1   *           1        6687    53709824   83  Linux
+ /dev/sda2            6687       60802   434674689    5  Extended
+ /dev/sda5            6687        7781     8787968   82  Linux swap / Solaris
+ /dev/sda6            7781       60802   425885696   83  Linux
+ Dr_Willis, /dev/sda6            7781       60802   425885696   83  Linux
+ Dr_Willis,  ok
+ Dr_Willis, i think I did it :D
+ Dr_Willis, Could not open location 'file:///home/millen'
+ Dr_Willis, if I reboot my PC may crash :D
+ Dr_Willis, noting happend
+ Any one can help? I had preinstaled my ubuntu. And now I am trying to mount old /home folder, which was on different partition, to my new /home folder. What should I do?
+ ActionParsnip, I dont understand much
+ ActionParsnip, it is UUID unique for every device ?
+ ActionParsnip, It is the same for sta1, sta2 and others ?
+ ActionParsnip, I see it is the same for different partition :D thanks
+ ActionParsnip, what-for  I should write in fstab :  defaults,user_xattr, I just want to know\
+ help to mount a partition to a /home folder please
+ I did some tutorials
+ but cant make it
+ KM0201, no
+ KM0201, I dont understand
+ KM0201, I have delete my 10.10 ubuntu and installed 11.04 instate
+ KM0201, I have done it :D
+ KM0201, I didnt format the partition which was /home for 10.10
+ durig 11.04 instalation
+ KM0201, and now I am trying to make partition which was 10.10 /home folder to be 11.04 /home folder
+ KM0201, ok thanks for the help
+ UUID=71ec6a02-10f0-4ee7-85bd-dea3aa9fbb2d	/home	ext4	defoults	0	0
+ what shuld write mor e ?
+ llutz, and then after ","
+ llutz, I have to add defaults,...(some user i didn't remember the name)
+ ActionParsnip,  UUID=71ec6a02-10f0-4ee7-85bd-dea3aa9fbb2d /home ext4 defaults,(what have to type here ) 0 0
+ ActionParsnip, thanks alot :D
+ ActionParsnip, how I can see type of the mounting volume ?
+ ActionParsnip, thanks
+ ActionParsnip, what does reiserfs means ? :D
+ Guest27469, what  reiser means then :D
+ Guest27469, ok but mine /home FS is reiserfs
+ what was the name of the tools for PC temperature observing ?
+ I did something and now I have no up-lets , who to review thous back ?
+ anyone knows how to showup my panels
+ Please helmee guys
+ Please help me. I do not my panels How to restore them ?
+ zvacet, yes i have gnome terminal
+ shcherbak, thanks
+ zvacet, it worked :D thanks a lot
+ thanks all D
+ How can I do CPU temperature monitoring
+ OneSquared, i a terminal ?
+ OneSquared, mv 637-texte.png  637.png
+ Anyone have had a problem whit compiz in Ubuntu 11.04
+ Anyone can help whit options for program recordmydesctop
+ unity

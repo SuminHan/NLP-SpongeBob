@@ -1,0 +1,3 @@
+ Helo ppl. Can anyone explane me my problem about upgrading. I've upgraded ubuntu 10.10 to 11.04
+ And my boot its not working,.
+ Can get into the system.

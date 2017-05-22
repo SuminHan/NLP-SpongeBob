@@ -1,0 +1,7 @@
+ so banshee is converting my tracks to .wav when I copy them to my iPod... can I make it use MP3 instead?
+ coz_: since banshee is now the default in 11.04 I figured I'd ask in here.
+ but google was no help
+ update: in case anyone asks, it looks like the upgrade to 11.04 uninstalled ubuntu-restricted-extras. I had to reinstall it manually in order to encode to MP3 instead of WAV in Banshee.
+ since my upgrade to Natty, `mplayer dvd://` doesn't work because there's no device at /dev/dvd. I can symlink /dev/sr0 to /dev/dvd, but how do I fix this permanently?
+ I added a filezilla launcher to the unity dock and when I open filezilla the dock doesn't show it as running.
+ would anyone recommend a GUI FTP client besides filezilla?

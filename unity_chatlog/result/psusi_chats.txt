@@ -1,0 +1,6 @@
+ Wvm, actually it kind of prevents rsi since you don't have ot muck about with that silly mouse all the time and generally avoid a great many keystrokes that would be neccesary in other editors
+ sudokode, screen lets you run multiple shells and disconnect... but not also edit files, get on irc, read info pages, and be able to copy/paste between them
+ sudokode, they don't share a common kill ring to copy/paste between, and you can't see what channels people have spoken to you in while you are looking at your info page or vim
+ sudokode, if I'm editing a file in the top half of the screen while browsing the info page in the bottom half, I still see the channel name pop up in the info bar if someone speaks to me on irc
+ sudokode, then there's the common kill ring, which is quite handy for copying and pasting back and forth.. also iirc, screen doesn't give you scrollback buffers
+ is anyone able to run the ubuntu livecds under qemu running on 11.04?  it seems totally fscked for me

@@ -1,0 +1,4 @@
+ Im having a issue with my graphics drivers in ubuntu
+ after following a guide similar to http://news.softpedia.com/news/How-to-Fix-the-Big-and-Ugly-Plymouth-Logo-in-Ubuntu-10-04-140810.shtml (it was a script) my dell vostro now only displays in 1024*768 and unity does not detect the graphics card.  any ideas?
+ Dr_Willis: what can i do to get ubuntu to reconise the graphics again
+ Dr_Willis: dont think that will make any difference.  if it helps its a intel gma card

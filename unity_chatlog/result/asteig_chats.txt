@@ -1,0 +1,5 @@
+ engammalsko: Do you know why it disappeared?
+ engammalsko: Upgrade, etc?
+ engammalsko: Gnome or Unity?
+ engammalsko: Did you JUST upgrade? If you just upgraded to 11.04, you need to manually switch back to GNOME.
+ engammalsko: Okay, cool. Did you lose just one panel or all panels?

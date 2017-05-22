@@ -1,0 +1,9 @@
+ I am unable to install virtualbox 4.0.6 .pl help
+ atharva@atharva-Vostro-1400:~$ sudo '/home/atharva/Extra'\''s/VirtualBox-4.0.0-69151-Linux_x86.run'
+ [sudo] password for atharva:
+ Verifying archive integrity... All good.
+ Uncompressing VirtualBox for Linux installation..........
+ eval: 1: Syntax error: Unterminated quoted string
+ unable to start Synaptic Unable to get exclusive lock
+ This usually means that another package management application (like apt-get or aptitude) is already running. Please close that application first.
+ how to start desktop cube and wobbly windows in natty ?

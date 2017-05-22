@@ -1,0 +1,2 @@
+ just installed 11.04, how can I get system monitor to put the resources into the top panel?
+ Question: why does different versions of Ubuntu supply different versions of Unison in synaptic package manager?

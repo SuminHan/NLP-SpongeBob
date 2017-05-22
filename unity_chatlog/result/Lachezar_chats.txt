@@ -1,0 +1,2 @@
+ Hello people... I am having problems with Unity: I get many visual deffects, including stripes, white zones, etc.
+ My video: ATI Technologies Inc Mobility Radeon HD 3650

@@ -1,0 +1,14 @@
+ hello #ubuntu
+ rafael,  hi~
+ matt[vic[,  I am using xchat  ,but i am new here
+ matt[vic[, I am using ubuntu~
+ user13, ok
+ leagris,  system->preferences->keybord
+ ,
+ leagris, there is a layouts,   and use add
+ leagris, you mean when you press a key, it turns out to be another?
+ leagris, Ah..   sorry, I got no idea about that,  wish someone will help you~
+ leagris, you are welcome
+ !classic
+ I've downloaded a NV driver from its website, ended with .run,  what should i do to run it?
+ dougl, I think the network tools will do that

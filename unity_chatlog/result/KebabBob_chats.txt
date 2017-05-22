@@ -1,0 +1,3 @@
+ I just upgraded to 11.04... How do I get rid of the new program bar and restore the old look?
+ how do I access the gdm menu?
+ Do I have to log out first?

@@ -1,0 +1,298 @@
+ sudo update-manager should download something if I'm on beta2, right?
+ how do I upgrade from beta2 to release?
+ iceroot, that ownly downloads one package, is that correct?
+ only*
+ :(
+ iceroot, okay, thanks
+ In my update-manager, the check fails because some of the PPAs I added don't have natty versions yet (I'm on beta2). Will this affect me being able to upgrade to release?
+ zvacet, hm ok thx
+ mala85: the PPA for gnome shell crashes Unity, true, so Kubuntu could be nice
+ sebsebseb: but using the PPA will crash Unity, so one should be careful with it
+ will break is more correct x)
+ !ask | mmjunaid
+ oh sorry
+ didn't see it
+ JaymesKeller: did it work for you under 10.10?
+ any1 instantly knows how to disable join/quit messages in irssi?
+ ohsix: thanks
+ cool upgrade is taking about 3 hours to complete :@ that will be 5 am here ...
+ lcb: already downloaded, install is taking 3 hours
+ lcb: yes
+ lcb: seems true :p ~1900 packages to upgrade :D
+ lcb: than it's just my 5400 rpm hdd I think (+ 1.8 ghz dualcore)
+ lcb: yes I'm afraid of that, probably will just leave it running while sleeping :)
+ thebigroflz: what's the problem?
+ lcb: I'll freak out if I get up and it still says 2h to go, do you want to do that and that ;D
+ oh but it probably will do as some config files etc from grub got modified :@
+ ah a question just came to my mind: Is it better to use the new config file, for example for GRUB, than my 'old', modified one?
+ lcb: I'll try, thanks :)
+ Is it better to use the new 11.04 config file, for example for GRUB, than my 'old', modified one?
+ escott: colour + background changes, but other configs eg samba are somewhat more modified
+ escott: okay, thanks
+ escott: okay, thank you
+ lcb: :D and then I'll wake up and my grub is destroyed *fears* :D
+ lcb: thanks a lot
+ lcb: I don't worry that much I think, it should all go well (says the optimist)
+ !lts
+ ah fine
+ !kubuntu | WhiteD
+ is there a command to turn off the display until a button is pressed or the mosue is moved?
+ gnite, wish me luck ;)
+ good morning everyone :)
+ you can use two displays with displays?
+ I do it
+ oh I'm not rly awoken, I type crap. I meant you can use it with Unity :)
+ Hey, any idea why ALT + TAB isn't working in Natty with Unity?
+ daxroc: ah okay, thanks
+ BlouBlou: yes I have that already, just didn't know I had to enable the switcher. THanks a lot :)
+ In my login screen, the login window isn't skinned at all and looks pretty ancient. Anything I can do about that?
+ In my login screen, the login window isn't skinned at all and looks pretty ancient. Anything I can do about that?
+ In my login screen, the login window isn't skinned at all and looks pretty ancient. Anything I can do about that?
+ In my login screen, the login window isn't skinned at all and looks pretty ancient. Anything I can do about that?
+ NeoCicak: should be possible with compizconfig-settings-manager
+ NeoCicak: for the terminal, yes, for unity settings you have too look at the ubuntu-unity plugin
+ trash can* not terminal, sorry
+ NeoCicak: there should be an icon telling "Ubuntu Unity Plugin"
+ NeoCicak: but give me a sec I'm trying to find sth
+ NeoCicak: then try relogging :)
+ sudo nano /usr/share/applications/nautilus-home.desktop
+ whoops
+ wrong tab
+ Incarus6: I know :D but didn't want to spam the channel with crap :)
+ Incarus6: no! :D
+ nishanth: alt + f2 -> ccsm maybe?
+ nishanth: tried logging into classic ubuntu and there enabling the unity plugin in ccsm?
+ botcity: I think it has under preferences | reset to defaults
+ but never tried it :)
+ osmosis_paul: you need to registered and join ##java afaik
+ botcity: If he gets into ccsm, yes, maybe
+ !chroot > boneseer
+ !kenrel > Naphidia
+ !kernel > Naphidia
+ sorry
+ Soothsayer: you may resize it if it's too big for you :)
+ botcity: ccsm -> unity -> change icon size
+ !gnome3 > kjesle
+ botcity: no problem :) Worked fine for me
+ Soothsayer: Alt + f2
+ mvip: did you tell your system to look for non-LTS-releases?
+ mvip: no
+ Soothsayer: Alt F2
+ toggles: compizconfig-settings-manager installable via sudo apt-get install
+ mikebot: if you're not on some complicated disk layout, they should be visible in nautilus by default
+ mikebot: for me they're under devices in nautilus
+ mikebot: okay, that sound complicated to me. Not even sure how that is possible
+ sounds*
+ ah ok :D
+ coz_: it runs fine on dual-display for me
+ is there any way to execute a terminal command from within irssi?
+ Dr_Willis: thank you
+ Is it normal that there's no start splash while booting?
+ Incarus6: hahaha :D
+ ssh server client?
+ jw_: I updated two computers and experienced no problems
+ Hey, I remember someone asked that already today but I didn't get the solution: When I click "Shutdown" in 11.04, it just simply logs me out instead of really shutting down, but "sudo shutdown -h now" works fine. Any ideas or do I have to search the log?
+ Hey, I remember someone asked that already today but I didn't get the solution: When I click "Shutdown" in 11.04, it just simply logs me out instead of really shutting down, but "sudo shutdown -h now" works fine. Any ideas?
+ Hey, I remember someone asked that already today but I didn't get the solution: When I click "Shutdown" in 11.04, it just simply logs me out instead of really shutting down, but "sudo shutdown -h now" works fine. Any ideas?
+ Hey, I remember someone asked that already today but I didn't get the solution: When I click "Shutdown" in 11.04, it just simply logs me out instead of really shutting down, but "sudo shutdown -h now" works fine. Any ideas?
+ txomon: I'm on unity
+ Hey, I remember someone asked that already today but I didn't get the solution: When I click "Shutdown" in 11.04 + unity, it just simply logs me out instead of really shutting down, but "sudo shutdown -h now" works fine. Any ideas?
+ remlabm: no more difference between desktop and netbook afaik
+ !info supybot
+ so it's Python :D
+ txomon: yes ok but wyh doesn't the shtudown button work
+ good evening everyone :)
+ Caly: be patient
+ klunky999: just tell your problem and we'll se who can help you
+ coolkid25: what's your problem?
+ alteregoa: depends on many things, very bad to predict
+ alteregoa: also depends on the load of the server, your internet connection, your hdd speed and your CPU speed
+ alteregoa: cool so you got some kind of light processor? would be km, then
+ alteregoa: I can just tell you that the simple installation of the packages took 3 hours on my laptop and one hour one my desktop, you have to add download time
+ Acriax: try booting into classic ubuntu and reset everything to default in the compizconfig-settings-manager
+ Acriax: if you're still having troubles, try http://www.webupd8.org/2011/04/how-to-reset-unity-launcher-icons-or.html
+ man so many ppas with no natty versions, kinda annoying on apt-get update :)
+ coz_: oh I have that installed too, but didn't know it had that function. Thanks!
+ bencc: either openjdk-jre or sun-java6-jre
+ !java > bencc
+ tomatobros: you should enable the proprietary drivers in the hardware admin section and then it should download it without you requiring to get it from amd.com but
+ !ati > tomatobros
+ lovebug: either via !screen or as an init script
+ lovebug: you ssh into the server?
+ lovebug: okay, I'll pm you
+ !screen
+ Acriax: yey, no problem :)
+ steve1: not all, but some afaik. Try compizconfig-settings-manager
+ !ccsm | steve1
+ steve1: I'm not sure but I think these are all you can modify. There was a user today asking something similar, but I don't remember if he found a solution, maybe you can look through the channel logs
+ dios_mio: it will break Unity, just fyi
+ dios_mio: yes, if it works fine for you than it's no problem that it breaks unity :)
+ dios_mio: than it may be fine for yoU :)
+ I'd actually like to try the new gnome shell but I won't risk breaking Unity :( Anybody knows if building gnome-shell from source also breaks Unity?
+ BiosElement: Hm, okay. So I'll have to use a VM as soon as I get back to my desktop
+ coreire: grub2 didn't come with 11.04, actually, I'd say using legacy is not good at all
+ coreire: I had that running fine some time again but I can't remember the exact line for the menu.lst, sorry. Maybe google will help you there :)
+ !grub1 | coreire
+ maybe
+ kpoman: is it just logging you out instead of rebooting/shutting down?
+ kpoman: okay same for me :@, didn't find a solution yet
+ cool we're not alone :)
+ !downgrade
+ :p
+ steve1: oh cool, thanks
+ stravant: may be a problem with your theme, had that too
+ Nesto: try putty
+ !error | BKTech86
+ aj00200: dual-screen works fine for me
+ aj00200: that may be true, mine at home is standard with additional display on the right. Sorry, can't say anything about additional one placed above.
+ !grub | BKTech86
+ !dvd | awakening
+ awakening: no, I think you'd need vlc and libdvdcss2
+ awakening: see the tutorial, that should help :)
+ jm0: please tell us what exactly did you do?
+ crlcan81: I have only 1mbit down here ... took 5 hours even to dl :D
+ man how I hate pressing ctrl alt f12 instead of just f12
+ BKTech86: you managed to boot into ubuntu?
+ BKTech86: you might be able to chroot and then completely purge and reinstall grub see !chroot
+ BKTech86: apt-get remove --purge grub* and then reinstall grub or grub-legacy
+ BKTech86: if you chroot correctly, it should be possible (sorry I'm no expert with chrooting)
+ BKTech86: yes I think that should be possible
+ BKTech86: that's what chroot is for, isn't it?
+ BufferUnderpants: yep, no problem here
+ BKTech86: I'm not sure but I don't think so
+ He's getting a fetch error
+ !de | Susibrav
+ !burn | plustax
+ Susibrav: no need to be sorry :)
+ Susibrav: that's why I suggested #ubuntu-de ;-)
+ spacebug-: hehe no I'm not, but I know what KNUBBIG means, I just like the sound of the word. Discovered at IKEA :-)
+ spacebug-: thought so :-)
+ I might be too suspicious but I doubt that
+ doncams: used sudo or have another apt-get process runing?
+ Flare183: doesn't matter, ot is ot
+ wow :D
+ dibs: here
+ Guest68551: run it from terminal with sudo in front
+ Blake_: yes
+ dibs: a shot in the dark would be to try apt-get install -f before trying to upgrade but no idea really
+ auto-away after 1 minute, wow fast ;)
+ I'm off, good night everyone
+ greylurk_: so ture
+ true*
+ Cleaver: did you download it from the official site? Client or server?
+ Cleaver: no need to install, just ./ts*****_runscript start (don't remember the exact name)
+ Cleaver: or was it _startscript? NO idea, sorry :p
+ Cleaver: no, you whould have a ts3client_startscript or sth like that
+ Cleaver: just download .tar.gz, extract it and start the starscript with the "start" argument
+ Guest51304: you may have to ask on the Gnome IRC, google for it (sorry don't know the exact channel/network, should be irc.gnome.org)
+ !pastebin | jerriy
+ is it possible to write a message in pidgin via the terminal? Would be nice for a drop down terminal while being on another workspace
+ sakuramboo: cool, thanks I'll see if I find something
+ sakuramboo: I found a program called finch, did you use that?
+ !info finch
+ sakuramboo: thanks a lot :)
+ wow except that it doesn't seem to recognize my skype it's pretty awesome :)
+ sakuramboo: :-) I recently got to like irssi as I can start it in guake and "take it" to every workspace which is sometimes required when having only one display available :)
+ sakuramboo: so thanks for the tip :)
+ sakuramboo: oy, nice idea, thanks. Instantly going to start it on an available server :)
+ sakuramboo: I got an online backup server running debian, so I'll use that. Thank you very much this is a great idea :)
+ brb ;-)
+ yey it works
+ is there an option to execute a command upon login via ssh?
+ botcity: okay, thanks, will try that
+ hm when I ssh into the machine, .bashrc somehow doesn't get executed, only when I manually invoke bash, although the shell I'm using on login is bash. Any ideas?
+ escott: sorry, didn't understand that?
+ carl-m: over ssh
+ escott:ah oky, thanks, will look into that
+ carl-m: no just ssh hostname -l login
+ Hm it still runs the command only when I manually invoke bash
+ !es | felipeh
+ took another machine, works there fine. yey
+ tortoise: that means that the ppa probably doesn't have any packages for lucid lynx yet
+ tortoise: you sure you don't got a type there= maybe should be mozillateam instead of mozozilateam?
+ mozilateam*
+ tortoise: use Opera! *ducksandruns*
+ wow irc with iphone and issh :-) successful day  good night all
+ Hi, is there an option to tell irssi to set away automagically after, say 30 min, and change the nick?
+ Pelo: ok ...
+ Abbas-uB: maybe because servers are overloaded cause of many updaters
+ oneliner: there may be a way
+ oneliner: http://www.omgubuntu.co.uk/2011/04/compiz-cube-natty/ but use this on your own risk
+ tayyabali: hi
+ !gnome3 | tayyabali
+ tayyabali: you may have to go to the gnome irc if none can help you here
+ tayyabali: I think its /connect irc.gnome.org but not sure, you may have to look on the official gnome site
+ oh okay sorry
+ erez: gnome irc on gimp.org?
+ zus: sudo add-apt-repository ?
+ zus: or else sudo update-manager and then settings
+ is there any way in guake to switch through open terminal tabs with, like strg + tab?
+ !info tracker
+ exit
+ damn
+ you certainly won't
+ so silent :o
+ richiefrich: I think you're mostly right, you can change some but not all
+ I think there was something you could do but I can't find it anymore
+ kezzawd: woot? Since when can I drag the launcher icons?
+ kezzawd: lol thanks
+ anybody knows why eclipse in the repos is still 3.5 not 3.6?
+ !downgrade | _genuser_
+ Now that I read it, does the plymouth splash screen thingy still exist in natty? Doesn't seem to work for me
+ Rehan: I see my GRUB background and that's it :) but I think the opposite of splash is nosplash
+ Rehan: mh dunno, had to fix sthing in 10.10 as well, but splash also doesn#t work on my 11.04 ATI notebook so it might just be all proprietary drivers ...
+ Rehan: yes, it worked vor me in 10.04 and 10.10 but not anymore :(
+ !ask SerialMDK
+ !ask | SerialMDK
+ Maxud: cd /media/xyz ?
+ Maxud: yes
+ Maxud: cd /media/ and then double-tap TAB
+ usr13: I'm having /etc/init
+ maybe some1 should add a !whine-ubuntu factoid :>
+ whine-unity*
+ LAcan: yes
+ !putty | LAcan
+ ubottu doesn't listen to Buddhacz :(
+ I know! :D
+ yy I know :)
+ envygeeks: I need neither PnP nor open ports
+ envygeeks: ah okay :)
+ Because teamviewer is just very simple and userfriendly
+ Not that easy
+ Ok guys maybe we're done now?
+ bye :)
+ Omega: Teamviewer does work on iOS + Android
+ but that
+ 's all !ot
+ ohmy.
+ ShockDoc: did you check if that resolution is supportet
+ LjL: thanks
+ supported*
+ peto_: you could use http://www.webupd8.org/2011/04/show-desktop-icon-for-ubuntu-unity.html and then bind it to a key combination via !ccsm
+ peto_: you can bind the script to a key combination
+ !caps | jnlsnl_
+ toad: it happens for me on 11.04 because sthing (Unity) crashes
+ RavenHursT: /sbin/mount.vboxsf exists?
+ !attitude > Cam
+ fail.
+ http://pastebin.com/TUrNELBQ
+ sorry c&p in Putty
+ RavenHursT: hm looks like /mnt/host-fs is somehow non-existent, sorry, can't help you there
+ Blackcamaro8: what gameserver you want to run that needs that much ressources? Maybe, if you just want to run servers, install the server edition?
+ Blackcamaro8: ah okay, I think there should be some options for booting but I don't know exactly
+ Arphetic: /j #ubuntu-devel and ask there :p
+ fission6: found this: http://www.tufat.com/script19.htm
+ Strav: what exactly is your problem?
+ Strav: sorry didn't spot that
+ Strav: how can you use sudo to write? Do you invoke nautilus with sudo? Or do you copy to the samba filesystem via sudo?
+ !enter | Arphetic
+ Strav: Hm I dunno, I only used samba to for Win <-> Ubuntu, if your smb.conf is correct than it probably is fstab, right
+ Man when I'm that tired I tend to write total crap :)
+ (by means of grammar)
+ Newbiehere: AMD6 = 64bit
+ AMD64*
+ [V13]Axel: if the program is already running and not started by you, no
+ !compiz | joncarr
+ !ccsm | joncarr
+ [V13]Axel: yes I know, I don' know if that's possible, if you start the programm in a !screen, you can easily reattach but when you start it with an icon I don't know
+ good night everyone :)

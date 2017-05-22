@@ -1,0 +1,16 @@
+ Oh, lots of traffic. I hope I get some attention. I just downloaded 11.04 and tried to run it, but the graphical environment would fail to load. I'd get the "ubuntu" splash screen (with the progressive dots), then blink to a garbage screen of static, and the computer would freeze. I have a run-of-the-mill 2Ghz AMD machine, my video card is an NVIDIA GeForce 7800 GT, 256Mb... If I can get it to boot the graphical environment, I should be fine.
+ Oh, lots of traffic. I hope I get some attention. I just downloaded 11.04 and tried to run it, but the graphical environment would fail to load. I'd get the "ubuntu" splash screen (with the progressive dots), then blink to a garbage screen of static, and the computer would freeze. I have a run-of-the-mill 2Ghz AMD machine, my video card is an NVIDIA GeForce 7800 GT, 256Mb...
+ Help please: I'm trying to boot into the liveCD (not install), and the computer will freeze upon starting the graphical environment. I'd get the "ubuntu" splash screen (with the progressive dots), then blink to a garbage screen of static, and the computer would freeze. I have a run-of-the-mill 2Ghz AMD machine, my video card is an NVIDIA GeForce 7800 GT, 256Mb...
+ I know you guys are busy, but I still hope for some help with booting the LiveCD on a computer with an NVIDIA GeForce 7800 GT, 256Mb...
+ The computer will freeze upon starting the graphical environment. I'd get the "ubuntu" splash screen (with the progressive dots), then blink to a garbage screen of static, and the computer would freeze.
+ rileyp: thanks, how do I start the liveCD to a prompt instead of graphical?
+ Also rileyp: what do you mean "remove type sudo xconfig"?
+ rileyp: eventually install, but right now just vboot. I can't do either because of the freeze. If I can get the basic graphics you say, that should be enough; I can install nvidia-current on my own after that.
+ rileyp: OK, how do I tell the live-CD to boot using default video drivers?
+ rileyp: I mean, if I load the live-CD, it will attempt to go into graphical mode on its own; how do I stop it from doing that? How do I tell it to use "default" or "safe" video drivers when booting?
+ rileyp: Don't forget about me! How do I boot a liveCD without it trying to use the nvidia graphics (or whatever is causing it to freeze when starting the graphical env)?
+ rileyp: (thanks for the help, though 8-))
+ rileyp: Yeah, I'm not actively selecting anything; I don't see any options to change the video either. Thanks for the help, though, it is going in the right direction. I'll try the alternative disk to see if any ideas pop up.
+ Congratulations guys on the new release. If I still have troubles I'll come back in a day or two, hopefully the traffic will have subsided a bit by then.
+ rileyp: Oh, good idea. I'll try that too. Thanks.
+ Yup, fresh from the press.

@@ -1,0 +1,24 @@
+ I've got a weird bug after upgrading to 11.04. All text that should be displayed by compiz is missing
+ Is anyone else experience a bug where text that compiz should be displaying is missing? e.g when alt-tabbing the window title should be disabled. I have two machines freshly upgraded to 11.04 with this bug
+ *displayed
+ Could anyone running 11.04 please alt-tab and tell me if the window titles are appearing in the app switcher correctly?
+ I have three machines doing it and I would like to know its not just me
+ I think there is a bug with alt-tab in 11.04? Could someone please press alt-tab and confirm it for me?
+ The titles of the windows should be displayed
+ but they're not
+ Viking667: The window title should be displayed immediately under the selected application when you alt tab
+ thelorax: I'm not running unity
+ Viking667: So you are getting the title?
+ Viking667: Static application switcher
+ Viking667: However the problem is compiz wide
+ Viking667: All of compiz seems incapable of display text
+ Viking667: I have two vanilla machines display these symptoms. One ati the other nvidia
+ Viking667: I'm hoping its not just me who has this bug
+ Viking667: So Compiz text display okay for you?
+ Viking667: Okay, phew,
+ Viking667: Yeah, its very annoying. I use Scale Window Title filter frequently, its nearly useless if you cant see any text
+ drhe1skt: Staying with Gnome here.
+ drhe1skt: Still using it on my main desktop.
+ drhe1skt: However until its stable, I'm not staying with it
+ drhe1skt: I'll give it another go when 12.04 LTS comes out, hopefully the bugs will be sorted by then
+ vasudan: I havent used it much recently, but I've had some good experiences with clamav

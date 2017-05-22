@@ -1,0 +1,6 @@
+ with * I mean all the directories inside there
+ someone use lighttpd ?
+ include "/home/lighttpd/vhosts/*/conf/vhost.conf" it's wrong
+ how can i correct it?
+ i have to change *
+ with * I mean all the directories inside there

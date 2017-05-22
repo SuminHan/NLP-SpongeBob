@@ -1,0 +1,221 @@
+ Vorenii: Natty is not yet released and there is no predetermined time on the 28th when it will be. Await the release in #ubuntu-release-party or for more questions join #ubuntu+1
+ pooltable: Natty is not yet released and there is no predetermined time on the 28th when it will be. Await the release in #ubuntu-release-party or for more questions join #ubuntu+1
+ fieris: Natty is not yet released and there is no predetermined time on the 28th when it will be. Await the release in #ubuntu-release-party or for more questions join #ubuntu+1
+ amalgama: It works fine here.
+ !dist-upgrade | make sure you understand what its supposed to do though amalgama
+ Vorenii: Natty is not yet released and there is no predetermined time on the 28th when it will be. Await the release in #ubuntu-release-party or for more questions join #ubuntu+1
+ obscurant1st: yes
+ nerdshell: Natty is released.
+ thegoodcushion: factoid updated.
+ !final | brianl
+ zamba: No.
+ zamba: 12.04 (2012, April)
+ z0mbyk1d: sudo do-release-upgrade
+ !dist-upgrade | z0mbyk1d
+ z0mbyk1d: I didn't have any issues here.
+ kaushal: ext4
+ !who | dsathe
+ Gawwad: 11.04 is not LTS
+ ecolitan: Yes, do-release-upgrade.
+ Incarus6: Yes.
+ rgr: Lets try to stay on-topic here. this is a support channel.
+ Gawwad: Yes.
+ !ot | ubuntutryout777
+ euclid: mind your language please.
+ euclid: And no, you can pick which desktop envornment you want.
+ euclid: Yes, really.
+ [Dmitry]1: #ubuntu-motu and #ubuntu-packaging, also see http://wiki.ubuntu.com/PackagingGuide
+ dr0id: And you're asking for support in #ubuntu?
+ avij: there is no separate netbook release. I'll see about getting that link fixed though.
+ avij: Sure. Thanks for letting us know.
+ DexterLB: fglrx does not support that chipset. The open source drivers should work fine. (they do on my x1400)
+ DexterLB: Yes.  I wouldn't expect to be able to play games on it, but compiz works fine.
+ DexterLB: Can you check your xorg log to see what driver you are using?
+ Roasted_: You really should log a bug.
+ marel: Have you checked pycharm's support?
+ usr13: Its a commercial application
+ Fasa: Perhaps if you explained what those were we could help you.
+ ashmew2: The latter.
+ coolaj86: Looks fine here.  Feel free submit a bug at http://bugs.launchpad.net/ubuntu-website/ though
+ coolaj86: I'm using Chrome right now.
+ Salt: There is no NBR anymore.
+ Salt: I've reported a bug with the link being on the alternate page already.
+ qchn: This is a support channel. Please stay on topic.
+ TheNuts: Its a release day, if you can't connect, try another mirror.
+ !google | sanaki_
+ !floodbot | nandinux
+ karlo: Yes.
+ karlo: But not if it starts installing them.
+ !floodbot | nandinux
+ srsbiz: Yes. If you're running 10.04, you'll need to upgrade to 10.10 first, then to 11.04
+ rcmaehl: or send notices.
+ rcmaehl: I've already filed a bug against the website for that. There is no netbook edition anymore.
+ ublunt: #ubuntu-server might be a better place to ask, #ubuntu is rather busy today due to the release.
+ giulia: http://cdimage.ubuntu.com/releases/natty/release/MD5SUMS
+ LAcan_: No, We have less busy channels for that,
+ LAcan_: Because he said it was an offtopic question.
+ MarkSS: That is all gone with unity. If you don't like the new interface, you can log off, and pick Classic Gnome (or is it classic ubuntu) from your login menu.
+ MarkSS: Thats not necessary here.
+ MarkSS: Did you listen to what I just told you? You can use the old desktop interface if you'd like.
+ MarkSS: Then stop complaining.
+ cybrhuman: Yes.
+ !Lamp > romeo0
+ ryankask: Yes. It doesnt reach end of life until april 2012.
+ macrossm: Feel free to pick classic gnome from GDM if you want to use that.
+ bikcmp: not unusual for a release day.
+ bikcmp: 11.04 was relased today. Or yesterday depending on your timezone
+ conical: Wow, that is easy.
+ hiexpo: howdy
+ conical: I find it useful if I need to use ssh -x to have it open a terminal (gnome-terminal maybe) first, and then run any other application I need from there.
+ WhiteD: #kubuntu :)
+ feisar: They're in the topic of this channel.
+ feisar: What ntp changes were you expecting?
+ Incarus6: Thats not needed.
+ feisar:
+ feisar: That is a very good question.  Hm...
+ LjL: Ah.
+ LjL: Yeah, still here in natty server.
+ mvip: no.
+ mvip: LTSes are released every 2 years.
+ pumeust: Once you save and exit that, the changes are saved.
+ pumeust: You should see a message after you exit: 'crontab: installing new crontab',  then its done.
+ pumeust: you need to save without your editor though.  It'll save to a temp file and automagically install the crontab as you exit.
+ pumeust: Thats not what I said.  crontab -e, make changes. Save, exit.
+ chewyboy000: There is nothing wrong with the one on Ubuntu.com
+ proto: Exact error messages would be very helpful for us to help you figure out how to fix this.
+ chewyboy000: Why do you say that?
+ proto: 'something about...' isn't an extact error message.
+ !pl | tomasz
+ roeland: You may want to ask at #linode at oftc as well, they might have a more linode specific solution to getting to a console.
+ roeland: Oh, I see you're there already, nevermind.
+ Thriky: I always upgrade via ssh.  As long as it doesn't die during the install part, you should be fine.
+ DeadmanIncJS: Just tech support. General chat in #ubuntu-offtopic
+ Vhozard: Yes.
+ evilsushi: No. 12.04 will be the next LTS
+ dennda: I find unity to be not compatible with the way I work. You can still choose Classic Ubuntu from GDM.
+ vibhav: hi
+ dennda: Good luck then :)
+ !botclone | A_J
+ Dr_Willis: The netbook torrent is a broken link, I've reported a bug for it.
+ Dr_Willis: Correct.
+ !unr | DW-10297
+ DW-10297: ah.. misread, sorry.
+ thejonb: ppa.launchpad.net is overloaded. Try again later.
+ !info supybot | warpi
+ Ahmuck: You can choose Ubuntu Classic from GDM, removing unity itself may be a bit messy.
+ raven_: If you're looking at Software Center, thats where it gets its application screenshots from.
+ Artarian: Feel free to pick Classic Ubuntu from the login screen.
+ zepherin: Feel free to pick Classic Ubuntu from the login screen.
+ comeon: There are a number of opencv packages in the repositories, is there a reason you have that you need to compile your own?
+ purvesh, lcb: There is not 11.04 netbook edition anymore anyway. They have been consolidated into one version.
+ remoteCTRL2: Mine work fine.
+ dasfefg: Pick Classic ubuntu from the login screen.
+ remoteCTRL2: I had ccsm installed, made my changes from there. /shrug
+ purvesh: No. It will require a complete reinstall.
+ !root | Arowana masak
+ !enter
+ !de  | Oins
+ !ot | codingenesis ActionParsnip
+ codingenesis: This channel is for Ubuntu support only. Please move the coversation to pm, or to another channel.
+ KM0201: This channel is for serious support requests, joking around with helpers and those that need help is not on-topic here.
+ codingenesis: Heres a good start; https://wiki.ubuntu.com/UbuntuDevelopment
+ !paste | rafi
+ !ot | xiambax
+ spartan-11510: apt-get source packagename
+ spartan-11510: You want to contribute to Ubuntu?
+ spartan-11510: See https://wiki.ubuntu.com/UbuntuDevelopment
+ xcyclist: Feel free to use Classic Ubuntu from the login menu if you don't care for Unity.
+ xcyclist: Yes.
+ bsodmike: What release of Ubuntu?
+ bsodmike: Please prefix your responses with my nick so that I can see them easier.
+ bsodmike: Let me take a look at something, one moment.
+ bsodmike: Are you missing anything else in /dev since your rebuild?
+ !alis | michele_
+ !ask | xrhstaras
+ sakuragno: You can try asking in #xubuntu if you don't get an answer here.
+ axio: Try ##C
+ wii alumnos__
+ Moopz: No. You must go through intermediary versions. The only time this isn't the case is when you are upgrading from one LTS release to the next, and 11.04 is not an LTS.
+ Clearly.
+ Azelphur: Its not from staff. Please ignore it.
+ !here
+ Defusal_: via chsh or editing /etc/passwd directly.  I suggest the former.
+ !classic | Laggg
+ patrunjel: reinstall.
+ patrunjel: Attempting to downgrade to an older Ubuntu version is explicitly not supported and may break your system.
+ thien: /etc/fstab would be the proper place to put a drive that you wanted mounted at boot.
+ !fstab | thien This may be of some help
+ thevishy: I was under the impression that wing IDE was commercial, you'll likely need to check their website.
+ !ask | nnnnnnnwerwer
+ afkaway: That has nothing to do with Ubuntu.
+ sereal: apt-cache show packagename
+ !es | israel
+ !best | crash82
+ bsodmike: UPDATE mysql.user SET Password=PASSWORD('YOURNEWPASS') WHERE User='root'; FLUSH PRIVILEGES;
+ bsodmike: Howdy.  I'm always here ;)
+ tajpan_22: Try #gentoo
+ dd214, tomlin: No, Ubuntu uses Unity by default, not GNOME 3.
+ Toph: Ubuntu Classic is GNOME 2.x, not Unity
+ Toph: I really don't have much Unity knowledge, your best bet would be to ask the channel.
+ n-iCe: Stop that.
+ !classic | Simkin
+ Simkin: Feel free to pick Classic Ubuntu from the login screen to get the old GNOME experience that you're probably used to.
+ ubottu: test
+ !ot
+ vorlov: #ubuntu-server and/or #ubuntu-cloud would be better places to ask.
+ lapion: This is a support channel, not somewhere for complaining.
+ gridbag: Run alacarte, that is the menu editor application name.
+ !ot | mintelle
+ ashmew2: uname -a
+ qw: We need more information than that.  What are you trying to uninstall? Why isn't it working?
+ [B[B
+ pranav: #ubuntu-offtopic
+ LetsGo67: You can submit an update yourself: https://wiki.ubuntu.com/IRC/Bots
+ !classic | crystal-cola
+ tyreza: I personally don't understand what you are asking.
+ tyreza: This should show your disk serial numbers: sudo lshw -C disk
+ tyreza: Much clearer, I just had to test that command on a computer that wasn't virtualized.
+ tyreza: Unless you want to ssh into each computer, or use some sort of multi-ssh tool, there isn't a remote way of getting that information.
+ tyreza: snmp is less likely to be installed and configured than ssh.
+ tyreza: snmpd would need to be running on all the computers you want to query.
+ maxagaz: Please mind your language.
+ tyreza: Actually using it is not something I remember off the top of my head.  You'll need to do some research yourself in order to determine what MIBs you need to query.
+ !ot | gogoboy
+ marcelC: Use apt-cache search aircrack   to search for packages before making assumptions.
+ !fr | OneTXxL
+ OneTXxL: /join #ubuntu-fr
+ yuskhanzab: April 2012
+ yuskhanzab: Sure, but you won't receive and updates or be able to get support here.
+ rpk: took a little bit here, but I'm having some other network issues.
+ !offtopic
+ !info wicd
+ Defghanistan: #ubuntu-server perhaps?
+ Defghanistan: /join #channel ;)
+ !who
+ !br | wendell
+ !ot | codingenesis
+ pizza333: I don't know what you're trying to do, but please stop, it is not working.
+ codingenesis: This channel is not for general discussion, you've been told this a few times already.
+ odinsbane, MitchM: The server release of 8.04 is still supported.
+ nemo: Please use http://paste.ubuntu.com , don't paste your information to the bot.
+ nemo: sorry, mistabbed.
+ nosea: Please use http://paste.ubuntu.com , don't paste your information to the bot.
+ nosea: paste your text at that link, press submit and then provide us with the URL of the resulting page.
+ trap22: Conky is in the Ubuntu repositories, do you have a particular reason to install it from source?
+ !une | bluegoon_
+ !helpme | gedO
+ ActionParsnip: I think he is using Unity.
+ NewPosix: Two people already answered you.
+ mang0: See https://help.ubuntu.com/community/Installation particlarly "Installation without a CD" and "Server and Network installtions"
+ gedO: Log out and select it from the sessions menu at the login screen.
+ LuckyNeo: 11.10 has not yet reached alpha status.
+ Its spam. Ignore it.
+ !hier | Dr_Willis
+ !heir | Dr_Willis
+ hrm
+ Dr_Willis: sorry about that, I thought that was an alias for !filesystem.
+ !man | ablaze
+ !fr | mikael
+ !appdb | eklok5000
+ !bot | jorek
+ !enter

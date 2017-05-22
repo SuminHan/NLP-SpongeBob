@@ -1,0 +1,19 @@
+ infamous: good night back!:-D
+ my ubuntu11.04 resolution suddenly changed after i logged off, do you know why? it was strange
+ hello, anyone can help?
+ wel, my ubuntu11.04 resolution suddenly changed after i logged off, do you know why? it was strange
+ i redifined, it works well now
+ usr13: well, my lap-top resolution should be 1024*800, the X sunddenly changed it to 1024*677
+ anyway, ubuntu11.04 is terrific!
+ i love UNITY!
+ hey, guys, when wayland display server will be available for ubuntu?
+ bazhang: TKS
+ bazhang: i just found that xorg is the cpu-killer in summer
+ bazhang: wayland is already available on ubuntu11.04
+ bazhang: it doesn't make much sense for end users, but for develpers
+ bazhang: yeah
+ UNITY is SO wonderful
+ i just cant help wondering why so many people are cursing it
+ Dr_Willis: yeah~;-)
+ Dr_Willis: unity uses openGL to run correctly and smoothly
+ Dr_Willis:  so you need your VGA fully driven

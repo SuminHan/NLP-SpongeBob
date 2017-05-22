@@ -1,0 +1,3 @@
+ Hey guys. I'm having a problem when trying to use the update manager for 11.04.
+ W:Failed to fetch http://ppa.launchpad.net/deluge-team/ppa/ubuntu/dists/natty/main/source/Sources  404  Not Found , W:Failed to fetch http://ppa.launchpad.net/deluge-team/ppa/ubuntu/dists/natty/main/binary-amd64/Packages  404  Not Found , E:Some index files failed to download. They have been ignored, or old ones used instead.
+ zvacet: thanks :)

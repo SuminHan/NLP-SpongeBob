@@ -1,0 +1,5 @@
+ does anyone know how to change the console resolution in ubuntu 10.04? i have been searching everywhere and can't find definitive answer
+ i have a server that is starting up with 1280x1024 and i need to bring it back down to earth...
+ thanks. i guess i didn't know to use "tty" in my keywords
+ Incarus6, jrib: this guide says to type "vbeinfo" in the grub2 command line. how i access it? i have no grub cmd
+ nm... i have to reboot for it

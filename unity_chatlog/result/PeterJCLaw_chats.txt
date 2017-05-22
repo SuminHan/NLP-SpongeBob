@@ -1,0 +1,1 @@
+ anyone (else) tried using libphp--simplepie under 11.04

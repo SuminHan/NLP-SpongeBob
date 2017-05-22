@@ -1,0 +1,1 @@
+ hi some one know how to change the name on terminal? my one is like this "volvering@volvering-G71V-Invalid-entry-length-0-DMI-table-is-broken-Stop:~$ "

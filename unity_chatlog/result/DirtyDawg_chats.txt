@@ -1,0 +1,48 @@
+ is the new 11.04 due out today? i just checked the website and its still 10.10?
+ ahh thx
+ its due out later today
+ i,m waiting to download it, have to say tho, i am not sure about Unity yet, looks weird
+ i just made a 100GB partition in preperation for the new release, i think i may wubi it first tho just to check it out
+ on a side note, i wonder why wubi only allows a 30gb max size during setup
+ ScottONanski1: today
+ WaltherFI: well i have 10.10 proper install on the desktop, putting the new release on my lappy
+ ahh
+ congratulations
+ what do the guys in #ubuntu+1 do when the new release is live? just idle and stay silent for a couple of months?
+ ahh
+ i heard that X is to be replaced by Wayland, is that right?
+ :o
+ :(
+  i am thinking of using the new Gnome 3
+ it means "understand" i think
+ jiltdil: have you tried to right click and add it back
+ "add to panel"
+ menu / main menu
+ wow i am getting slow speed on the new release downloading
+ hehe
+ quick Question guys, if i am doing a regular install and not a wubi one, and i am using 2 partitions (3 inc swap) one for / and one for home, what size / should be a good size
+ arand: k mate thx
+ kk
+ great when trying the new ubuntu the screen goes so dim i cant see it :(
+ does anyone have any ideas as to why 11.04 install is so dim i cant see what it says lol?
+ hmm ok
+ Kouta-kun: to which distro?
+ adzy: if its vmware if i recall correctly, when inside the vm do ctrl-alt-enter
+ np
+ xubuntu: /join #ubuntu-ko
+ do /join
+ loseweighttttttt: try ##linux
+ :o
+ tomatto_: try something like Ubuntu! i smaite thee sir, and a curse upon your camels...
+ lol
+ loseweight: it is easier
+ iceroot: with a Gui? if so which one
+ wow
+ iceroot: interesting
+ or puppy linux
+ i have found that alot of people laugh (lol) when i say that i use Ubuntu, why is that? anyone know, i like it :(
+ Gentoo users
+ kk
+ omichalek: dropbox is safe
+ Joker_99: maybee your nick isnt registered?
+ guys, when trying to install 11.04, i can *just* about see the graphics for the installer, its there but sooo dim i can hardly see it, any ideas

@@ -1,0 +1,108 @@
+ soreau, if metacity is running unity 3d has crashed as it needs compiz
+ soreau, it does
+ sor or unity 2d
+ soreau, unity 2d works fine
+ PovAddict, and classic is gnome
+ and metacity is  the window manager for unity 2d
+ remove unity and install gnome3 if you wish
+ ChronicSyncope, if your in classic that may not use compiz but metacity
+ Soothsayer, yes you must if your going to install on it
+ brewster, it depends on the hardware
+ brewster, yes you will have to reinstall them I expect
+ mordof, no
+ amy_, yes logout and choose classic
+ mordof, thats a bug
+ mordof, believe if you now swap over monitors its alright
+ mordof, just report them as bugs in unity 3d
+ shane4ubuntu, ubuntu don't want you using ccs Mark has said so they are not for users
+ shane4ubuntu, you don't thats the point later there will be a proper gui
+ bkerensa, unity 3d and unity 2d I think
+ rileyp, check alsamixer in a terrminal
+ armor-64, you cant remove it but can hide it forever
+ OchoZero9, unity --restart
+ Soothsayer, yes you need a seperate swap space
+ shane4ubuntu, http://www.omgubuntu.co.uk/2011/04/compiz-cube-natty/
+ shane4ubuntu, three choices find an indicator equivalent whitelist the indicator area or use unity 2d
+ shane4ubuntu, it there yesterday
+ shane4ubuntu, think you need the terminal
+ shane4ubuntu, http://www.omgubuntu.co.uk/2011/01/the-omg-guide-to-must-have-indicator-applets/
+ shane4ubuntu, http://www.omgubuntu.co.uk/2011/03/how-to-hide-or-show-app-tray-applets-in-ubuntu-11-04/
+ xsinick, it dosen't matter as unity now uses different features of compiz than before so may not work now
+ kathie, http://www.omgubuntu.co.uk/2011/01/the-omg-guide-to-must-have-indicator-applets/
+ xsinick, you can set it to all then all will be shown
+ shane4ubuntu, double click to start them one off or add to the startup applications
+ Younder, there is no .Xconfig by default
+ Younder, if you install proprietary nvidia drivers it will add it otherwise its all magic
+ webtrickster, it will break unity
+ younder then you can run nvidia config to create it
+ In natty uses start and stop services now
+ Incarus6, think it still works just tells you you should't use it
+ Chilaquiles, its in the view menu
+ Chilaquiles, its the location bar
+ Chilaquiles, try setting them off and then back on
+ Chilaquiles, then i am out of ideas then it works ok here
+ Chilaquiles, thats probably whats broken it
+ Chilaquiles,  install elementary properly then uninstall it
+ Chilaquiles, where did you get elementary from?
+ Chilaquiles, think you need a ppa for natty
+ Chilaquiles, http://www.omgubuntu.co.uk/2011/03/phew-nautilus-elementary-revived-in-time-for-ubuntu-natty/
+ DW-10297, wrong
+ FoolsRun, I like unity 2d
+ NyvenZA, you have to install it first
+ NyvenZA, unity-2d-settings
+ eigba_, it was not ready in time
+ bp0, all bugs I think
+ NyvenZA, http://www.omgubuntu.co.uk/2011/01/unity-2d-gets-a-ppa/
+ NyvenZA, you have a terminal?
+ NyvenZA, sudo apt-get install unity-2d
+ NyvenZA, log out
+ NyvenZA,  at the log on screen choose unity-2d
+ kpoman, is that a question?
+ fr00g, you have to log out or even reboot first
+ kpoman, think there is something about this in the release notes
+ namzezam, report it as a bug then
+ cardamon, what do you mean?
+ cardamon, sounds like compiz/unity crashed
+ cardamon, then you can't run unity 3d
+ carandraug, classic or unity 2d
+ cardamon, , classic or unity 2d
+ plummerb, I like unity 2d
+ plummerb, you have to install it ubuntu put classic in instead it will be in the next one i believe
+ plummerb, unity 3d did 2d didn't
+ uwex fail
+ guy45, disk utility
+ Shwaiil, you may have to log out and back in
+ casey,  you should find that in printer properties if your printer supports this
+ casey, have you been able to do this before?
+ casey, well I've just checked it is printer properties and it is the in the media size
+ casey mine has a whole selection with borderless in brackets beside them, but it does depend on the driver
+ casey, what driver are you using?
+ casey, have you got the best driver? hp should be well supported
+ casey in printer properties
+ casey yes and if you can't try hp's site
+ casey, as long as you can select borderless does it matter?
+ casey, do hp have linux drivers for your printer?
+ casey, in job options I've got scale to fit
+ gar
+ gartral, unity 3d and unity 2d in 11.10
+ pennnn, yes
+ casey, hp site linux support?
+ Angelic, lspci and look for wireless adapter
+ Angelic, what does the windows machine tell you about the adapter
+ Angelic, thats not enough info you need a product number
+ Angelic, your windows machine should know
+ Eyes_Only, yes but she sayes its working now with windows
+ Angelic, how is ubuntu connected?
+ bull9408, alsamixer in a terminal
+ Angelic, is it usb?
+ Angelic, then lspci should find it
+ Angelic, but thats not enough info you need a product number
+ Angelic, 82801DB PRO/100 VE is erthnet not wirless?
+ Angelic, 82801CAM (ICH3) thats an i/o hub
+ Feyisayo, try to log out and choose classic you may have to reboot
+ vibhav, I have tearing in unity 3d when it does actually run
+ vibhav, gnome3 breaks unity
+ Chepoll, doubt if the two are related
+ amr_, no
+ I think safe-upgrade stops a lot of problems
+ Cassini, have you tried classic?

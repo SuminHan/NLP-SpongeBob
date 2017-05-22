@@ -1,0 +1,4 @@
+ @bison  I had the same problem, you probably need to switch to classic mode
+ oh, nm then
+ my problem was with 11.04
+ anyone know a program that will stream a webcam? (I googled and came up with nothing.)

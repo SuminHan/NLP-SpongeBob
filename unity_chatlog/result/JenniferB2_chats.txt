@@ -1,0 +1,7 @@
+ After upgrading to 11.04, I have run into several issues.. first one was that the / would not mount and could not start the computer... now that Ive solved it, I am logged in but my gnome panel is gone.. and windows has no frame with X,...
+ blackbit: no window frame where the x (to close the window is ) ... also the gnome panel menus are gone
+ but those I have been able to start by running gnome-panel from console
+ ActionParsnip: thanks...
+ will I have to do that everytime I start the computer ?
+ ActionParsnip: yes..
+ blackbit: yes.. but the problem with an approach like that I usually all the config files in various places will eb lost ... it is never that simple ..

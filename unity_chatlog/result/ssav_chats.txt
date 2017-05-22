@@ -1,0 +1,15 @@
+ Hi, I have an issue with ssh access. Ie. am not able to ssh as root to one of my server bcoz its denied in ssh conf. But on this server we have our client application running which is communicating the server through webservices. I want to enble root access ssh. we have option to send a payload script,which will not ask for authentication.can some one tell me how enble root ssh remotely?
+ root access is denied and normal user login was allowed. but  password has been lost. any way to reset the password ?
+ is there any shell script to reset the passwd . If so I can send a payload and execute the script
+ bash
+ Hi, I have an issue with ssh access. Ie. am not able to ssh as root to one of my server bcoz its denied in ssh conf. But on this server we have our client application running which is communicating the server through webservices. I want to enble root access ssh. we have option to send a payload script,which will not ask for authentication.can some one tell me how enble root ssh remotely? or...
+ ...any shell script to reset the passwd?
+ no lost the passwd
+ server is in remote loaction..i dont have physical access
+ but i know the root password,since ssh direct access is denied ,am not able to login
+ as i said server is in remote location, i have to access via ssh only.
+ other than root onely one user is created, that user passwd we lost..thats the problem
+ no physical access.... but i can send some payloads scripts..
+ so I need a script to reset the passwd ,,, over network i can execute .
+ i have only one way to access ,through our application which currently running and have an option to send a payload and excute without login to the server. so i need your help here...pls ..
+ if u give me the script ,,,,i can execute over netowork

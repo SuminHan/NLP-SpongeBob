@@ -1,0 +1,18 @@
+ Hi, my internet/browser on ubuntu 10.04 has been acting weird for the past couple of days. When I click on a link on google search, it would redirect me to google.com. Sometimes clicking a link on a webpage would redirect me to twitter. And sometimes it would give me a google 404 error. I cannot think of anything that might have caused this and this happens randomly.
+ Hi, my internet/browser on ubuntu 10.04 has been acting weird for the past couple of days. When I click on a link on google search, it would redirect me to google.com. Sometimes clicking a link on a webpage would redirect me to twitter. And sometimes it would give me a google 404 error. I cannot think of anything that might have caused this and this happens randomly. Any help?
+ Hi, my firefox browser on ubuntu 10.04 has been acting weird for the past couple of days. When I click on a link on google search, it would redirect me to google.com. Sometimes clicking a link on a webpage would redirect me to twitter. And sometimes it would give me a google 404 error. I cannot think of anything that might have caused this and this happens randomly. Any help?
+ kbrosnan: middle clicking?
+ kbrosnan: my links works some times on google chrome when it doesn't on firefox
+ kbrosnan: is that the scroll wheel?
+ kbrosnan: how can I fix it on firefox?
+ kbrosnan: I'm not using my scroll button to click on links
+ nutsfornatty: sometimes they are pages that i have already visited.
+ nutsfornatty: its not doing it now since it is usually random.. Sometimes it would give me a google 404 error. This problem would happen on google chrome also if i paste the link there.
+ How come I cannot upgrade to 10.10 from 10.04. In my update manager it does not show any updates after I clicked on "check".
+ sebsebseb: how do I change the setting to show 10.10?
+ Does 11.04 ubuntu version have a lot of bugs?
+ I'm still not sure if I should download it.
+ Is there something better than wine?
+ Is there something better than wine besides windows?
+ jiohdi: thanks for the reply. what program do you recommend?
+ jiohdi: thanks for being helpful. that is what i was looking for :)

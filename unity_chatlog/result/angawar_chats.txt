@@ -1,0 +1,9 @@
+ Hey, is it possible to move ubuntu to a smaller drive, from 250GB normal hdd to a smaller 160GB SSD?
+ without trouble? :P
+ i've tried using ddrescue, the dd_rescue -v /dev/sda /dev/ssd command
+ have ddrescue installed, what command do u recommend to use
+ could someone help me please :(
+ Hey, is it possible to move ubuntu to a smaller drive, from 250GB normal hdd to a smaller 160GB SSD? What command to use with ddrescue? since normal clone didn't work properly
+ dont have windows
+ Hey, is it possible to move ubuntu to a smaller drive, from 250GB normal hdd to a smaller 160GB SSD? What command to use with ddrescue? since normal clone didn't work properly
+ never done this before xP

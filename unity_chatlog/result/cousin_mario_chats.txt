@@ -1,0 +1,42 @@
+ DJKorbit: Are you a masochist perhaps?
+ usalabs: nice question
+ Hello.
+ this release is quite buggy
+ hi, again
+ I'm having problem with the nvidia binary drivers: http://pastebin.com/6204GA6J
+ [TK]D-Fender: did you select ubuntu instead of ubuntu-classic at the login?
+ saimanoj: opera?
+ nvidia-current has a broken dependency I don't know where to find: any hints?
+ LjL: hi there
+ LjL: do you happen to be a happy nvidia user?
+ LjL: I meant "happy" as in "working with the binary driver after the upgrade to natty".
+ AceKing: I don't recommend that. 11.04 has more bugs than a pack of stray St. Bernard.
+ AceKing: indeed I am
+ AceKing: I'd wait a couple of months if I were you.
+ hello
+ I had to install the nvidia binary driver from a PPA (v 270) because nvidia-current was lamenting a missing dependency. The new driver sucks though. Is there a way to install the stock one?
+ has anyone encountered problems with nvidia-current requiring xorg-video-abi-9 ?
+ Anyone using nvidia binary driver on natty?
+ Incarus6: is it shown in the hardware drivers tool?
+ Incarus6: did you upgrade from maverick or was yours a fresh install?
+ Incarus6: I see...
+ Incarus6: no, I had to install it by hand but then compiz effects aren't available
+ Incarus6: thanks
+ Incarus6: is it i386 or amd64 you're using?
+ zak_: smb is your friend
+ hello
+ to whom should I report a probable installer bug?
+ Dr_Willis: I'm not sure about the package, it's something in the installation procedure that doesn't work properly.
+ natty is so much fail
+ marcelC: why are you using backports in the first place?
+ it sounds like a recipe for trouble
+ marcelC: I would disable those repositories during the upgrade process
+ bye
+ hello
+ volume applet has disappeared: how do I put it back in the system tray?
+ ActionParsnip: it shows no icon
+ bbl
+ hello
+ what is it doing unity-window-decorator running in my ubuntu-classic session?
+ W43372: you poor man
+ W43372: because you upgraded to natty. I've been fighting the urge to toss my computer out of the window since I did that.

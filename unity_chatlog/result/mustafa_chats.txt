@@ -1,0 +1,19 @@
+ Hi everyone, I am using Ubuntu 10.10. I have tried install Ubuntu 11.04 but I cannot run to install it. When I select "Install",  I get black screen. Do you have any idea how can I install Ubuntu 11.04?
+ gaara, did you try something and what?
+ cdbs, any upfate?
+ cdbs, any update sorry?
+ cdbs, when I select Install, I get black screen.
+ cdbs, I do not open liveCD even
+ cdbs, ?
+ gaara, did it work?
+ cdbs, ATI Mobility 3650.
+ cdbs, black screen only
+ I have not tried something yet.
+ gaara, I have not tried something yet.
+ gaara, no ATI.
+ gaara, cdbs, no solution?
+ ok
+ gaara, ok
+ gaara, can you share the link?
+ gaara, I am leaving now
+ gaara, thank you

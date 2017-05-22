@@ -1,0 +1,49 @@
+ !countdown
+ hypetech: there is no set time
+ george: FloodBot is not sentient.
+ gogearvibe4g: so is #ubuntu-release-party!
+ varunvyas: you'd have to go through 10.10 first
+ Decision: yes
+ Johny_GM: When it's ready. There is no set time.
+ !countdown
+ loller: Don't advertise in here.
+ uofm49426: because Ubuntu installs a range of Xorg drivers that fit most cards by default
+ loller: stop trolling
+ ubusammyn150: stop feeding trolls
+ ubusammyn150: "stfu" is neither acceptable language in here nor a good way to stop trolls from talking.
+ mfilipe: just use the PAE kernel package...
+ !pae
+ atlgeorge: 02:51:58 < syntaur> atlgeorge: You sure the program isn't binding to localhost or something?
+ ah, nvm :)
+ !pae > mfilipe
+ !final | cc11rocks
+ ravi: no
+ ravi: yes
+ ravi: 10.04 to 11.04 requires going through 10.10 first.
+ as2000: no, you can upgrade
+ brianous: it'll be released when it's done, not at a set time
+ !countdown
+ xsinick_laptop: it's not at a set time
+ cdoktor19: it's not out yet
+ xsinick_laptop: it'll be released sometime between now and when it stops being April 28th everywhere in the world.
+ assuming it isn't delayed :3
+ !es
+ !countdown
+ cc11rocks: please use #ubuntu-release-party for Ubuntu release-related comments ;)
+ |SonGoku|: /join #ubuntu-es
+ timccc: tell VLC to open disc and point it to the directory you have
+ tripelb: ^^
+ timccc: sorry, mistab
+ !ot | IHateNaggers
+ that works too
+ !final
+ 10.10 LTS isn't real.
+ MadDecent: no set time, will be announced on the ubuntu-announce list and in #ubuntu-release-party
+ xkemix: There is no set time or timezone.
+ xkemix: It'll be released sometime between now and when it stops being April 18th everywhere on the planet.
+ sebsebseb: I am falliable!
+ xkemix: I mean 28th, as AbuMaia said :)
+ semitones: The natty that comes out later today contains fixes for any last-minute bugs they find.
+ semitones: This actually happened in 10.10 and probably other releases, btw. I'm not being theoretical :)
+ semitones: I haven't been paying attention to the release schedule this cycle, so I dunno how they're doing it. There's no RC this time, so I assume it's different somehow.
+ seniseni: Do not give dangerous commands like that in here.

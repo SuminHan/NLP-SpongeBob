@@ -1,0 +1,9 @@
+ i was upgrading to 11.04
+ but in betwwen i run a command apt-get clean
+ how to fix
+ how to undo the previous command
+ can anybody help me
+ marca311: is there any way to undo apt-get clean command :P
+ marca311: where i can find the logs
+ marca311: i have almost done 90% upgraded , i don't want to reinstall 400 mb again with ma 5kbps speed:P
+ marca311: please help , if there is any way to get all back

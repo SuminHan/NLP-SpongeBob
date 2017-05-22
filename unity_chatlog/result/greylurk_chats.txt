@@ -1,0 +1,64 @@
+ Having issues with the Natty installer.
+ It keeps saying I have too many primary partitions on my disc
+ nit-wit 4 primary, 1 extended
+ nit-wit when did that change?
+ jordan_u that's how it's set up
+ /dev/sda1-3 are used as primary
+ /dev/sda4 hosts the extended, which is /dev/sda5
+ Gah, come on.  I set up this partition structure when I installed 10.10... What is the problem.
+ *grump* finally got it working by doing a "custom" install, and reformatting my 10.10 install.
+ I like that the installer gives you stuff to do while waiting for the files to copy.
+ Thanks Ubuntu.
+ RPM has long been a good package manager.
+ But ubuntu just works.
+ xsinick dunno haven't booted up unity yet.
+ xsinick dunno.  I can always just go to slackware 13.37
+ Gah!  Downloading packages, 24 minutes remaining?  Wish they just included those on a DVD release.
+ Medfordite Download the mall?  Sounds like fun.
+ tanath one ring to bring the mall, and in the darkness bind it!
+ tanath I think you're on to something.  My version just ends up with a big mall of twine.
+ crap... Now its' 26 minutes left.
+ Somehow I'm on Microsoft minutes.
+ I think xsinick is a Redhat shill.
+ Well, it's down to 9 minutes now... Just bouncing all over the place.
+ _ryx_ we heard you.  What kind of monitor do you have?
+ Ok...  I went to do dishes, and came back, and now it's at 14 minutes remaining.   This is getting strange.
+ 24 -> 26 -> 9 -> 24 -> 14  I suppose that at least half the time the number is going down.
+ pyrodood what happens?
+ pyrodood try ctrl-alt-f1 and see if it's completely locked up or if it's just having prolblems with your vid card.
+ pyrodood it sounds like the gui install having some difficulty recognizing your video card.  try command line install?
+ pfifo like a screenshot of the cli?
+ I just did an upgrade in about an hour and a half.
+ Seems to be working so far, but I haven't checked all of the Nvidia stuff.
+ seems to work ok with the default NVidia drivers, upgrading to the "current" ones now to see what happens.
+ All in all, I think I like Unity, but it's hard to tell what apps are installed.
+ carandraug yep.  Hard to decide what I think about it just yet though
+ carandraug I'm running on a reasonably modern system, but it's reasonably snappy for me.
+ carandraug, yeah, that's definitely a bit dated.  I'd almost suggest running xubuntu on that instead of gnome.
+ I'm still hoping Canonical picks up the old Sun CDE, and produces cubuntu
+ lol that was actually a joke.
+ Gah!  Funky scrollbars.
+ Ah, Unity is much better with the up-to date Nvidia drivers.
+ BinaryMan I installed from Natty 64 bit image last night.  Worked ok, except for some partionioning confusion.
+ cablop lots of changes... Unity is definitly something to get used ot.
+ Theoretician I only installed it last night, but it seems to work fine, on a fresh install
+ cablop the left bar autohides
+ Theoretician You'll need to build new muscle memory in terms of where things are, and how to use the window manager.
+ perlsyntax i'm surprised that Natty still includes Eclipse Ganymede.
+ perlsyntax no, the newest is Helios.
+ cablop Mine installed just fine with an NVidia Card and onboard sound on an ECS motherboard ( don't have the specs handy right now )
+ cablop it sounds like people are having trouble with upgrades on NVidia hardware though.
+ eiriksvin were you upgrading yours or was it a fresh install?
+ JoshDreamland in unity prefs is under the applications.
+ JoshDreamland I kind of like typing to find my programs... it feels like im in a CLI again.
+ JoshDreamland wouldn't know... i don't use Windows 7.
+ How do I install Oracle Java?
+ Oracle java isn't showing up in Natty though.
+ exit
+ scorch2 what process is running?
+ scorch2 try top... What is pegging your CPU?
+ scorch2 go to a terminal, type "top" and see what's on the top of the list.
+ scorch2 sometimes pressing "m" to sort by memory usage is also helpful.
+ scorch2 never heard of xflux.
+ scorch2 what's the %cpu for flux?
+ scorch2 not sure that was a good idea, but give it a bit to empty out request queues and such.

@@ -1,0 +1,9 @@
+ I am unable to log in as my passwprd isn't accepted in the gui login screen. However, it works when logging in at the text-based ui when booting with the recovery option. Also the gui login screen has a different look, more bluish than the usual purplish. (I'm using 10.4.2..32)
+ I need help! I am unable to log in as my password isn't accepted in the gui login screen. However, it works when logging in at the text-based ui when booting with the recovery option. Also the gui login screen has a different look, more bluish than the usual purplish. (I'm using 10.4.2..32)
+ ActionParsnip: How do I do that?
+ It appears my gui is broken since after the login screen it just goes black. Should I try a reinstall?
+ It appears my gui is broken since after the login screen it just goes black. Should I try a reinstall?
+ It appears my gui is broken since after the login screen it just goes black. Should I try a reinstall?
+ kyubutsu: Yes, sorta. It has changed its appearance, but it is graphical... But after that it all goes black
+ It appears my gui is broken since after the login screen it just goes black. Should I try a reinstall?
+ It appears my gui is broken since after the login screen it just goes black. Should I try a reinstall?

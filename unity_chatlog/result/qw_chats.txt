@@ -1,0 +1,4 @@
+ hello how is u?
+ i try to apt-get uninstall but no work in synaptic
+ apt-get help
+ ok thx

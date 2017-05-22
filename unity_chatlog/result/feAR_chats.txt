@@ -1,0 +1,1 @@
+ the thing is that, after i created raid device on /boot, it now says raid device

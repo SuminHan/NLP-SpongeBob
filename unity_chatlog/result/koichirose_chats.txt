@@ -1,0 +1,4 @@
+ Hello, I just upgraded to Ubuntu 11.04 and many firefox icons don't show up anymore, including the back button, stop button and the firefox icon itself (!). How do I fix it?
+ Hello, I just upgraded to Ubuntu 11.04 and many firefox icons don't show up anymore, including the back button, stop button and the firefox icon itself (!). How do I fix it? I already tried to reset to default toolbars
+ ChogyDan, yes. I see empty buttons.
+ ActionParsnip, a new ubuntu theme you mean? But I like my human ^^

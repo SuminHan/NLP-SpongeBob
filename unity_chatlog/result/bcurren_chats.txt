@@ -1,0 +1,1 @@
+ i have a partition that i'm consistently getting an EIO error. i there a tool that will help my diagnose the problem?

@@ -1,0 +1,10 @@
+ Is there a way to keep things like a clock screenlet above the Video window even in fullscreen mode?
+  Is there a way to keep things like a clock screenlet above the Video window even in fullscreen mode?
+ sachin, ALT+F2  alacarte press enter
+ what abut me ???
+  Is there a way to keep things like a clock screenlet above the Video window even in fullscreen mode?
+ celthunder, I am using XFCE
+ celthunder, I am using XFCE
+ celthunder, which WM are you using?
+ celthunder, Is Xmonad  in the repos ?
+ celthunder, okay

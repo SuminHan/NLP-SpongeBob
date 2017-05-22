@@ -1,0 +1,13 @@
+ was the xorg.conf moved recently?
+ where is it now..
+ ZykoticK9: hrm, how do I create a default conf? the dpkg-reconfigure command I executed didn't work
+ ZykoticK9: why do i need to stop gdm..
+ ZykoticK9: apparently --configure isn't a option of X..
+ an
+ Xorg --configure
+ I suppose you meant
+ no, hrm
+ ZykoticK9: no, it's -configure not --configure, I see now
+ anyway
+ it failed =/
+ Stryker: releases are on a schedule.. shouldn't be surprising..

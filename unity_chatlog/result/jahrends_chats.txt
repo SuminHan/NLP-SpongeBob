@@ -1,0 +1,8 @@
+ Hello
+ Does anyone here have experience with running an ircd?
+ Hello
+ Does anyone on here have experience setting up a stand alone irc server?
+ shomon: I ask because for like hybrid I can't find any good docs that explain all the different configuration options ;)
+ shomon: been there... I must be blind... don't see docs. ;)
+ I still think it is odd that ubuntu installs by default with no compiler... ;)
+ That makes it even more odd... :)

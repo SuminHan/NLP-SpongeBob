@@ -1,0 +1,60 @@
+ it 28th in Greece too :P
+ it 28th in Greece too :P
+ hmmmm does anyone knows where is the Adobe AIR 2 package ????
+ does anyone knows where is the Adobe AIR 2 package ????
+ unity is the FAIL
+ James2nd,
+ anybody know why the compiz "place windows" plugin doesn't work with adobe air applications? i set a rule for tweetdeck to always appear in a certain viewport but it always opens in my current viewport. any ideas?
+ Glycan_,  press windows key and type terminal
+ Barridus,  try to install adobe air and after that tweeterdeck
+ it rocks for tweeter
+ maybe the best :P
+ Barridus, didnt try it on natty
+ dont rly know
+ prolly azoz cant change language input
+ lol
+ azoz double click it
+ bluefoxicy,
+ do you have compiz settings manager installed?
+ bluefoxicy,  looks like your installation is borged go with a clean install
+ clean install = back up home dir and then formated + install
+ format it *
+ an external drive
+ can help you on this
+ i know
+ home partition keep many configurations that can borg aninstallation
+ bluefoxicy, i think that you gonna love it in time
+ :D
+ i did
+ learn the shortcuts
+ 90's ? unity?
+ erm
+ bluefoxicy,  you can still use ubuntu classic
+ and have the gnome 2 look
+ bluefoxicy,  go here http://www.webupd8.org/2011/04/things-to-tweak-fix-after-installing.html and read
+ bluefoxicy,  there is even a way to remove the global menu
+ enough said
+ donpdonp,
+ yes
+ wait a sec
+ donpdonp, http://www.webupd8.org/2011/04/things-to-tweak-fix-after-installing.html
+ read this article
+ Guys im searching about how to disable the Title on the Global Menu  , what i mean is actually i want the global menu always visible instead of this Title-intelihide  joke           Anyone  ????
+ Ilya,
+ unity --reset
+ Maahes,  are you typong english?
+ typing
+ dont have a clue then
+ maybe someone else
+ Arowana,  just a small tip if you want to use for a long time in console the root acc = sudo -s so you dont actually need to type sudo every time
+ sudo -s is the way
+ np
+ facelessloser, yes i have it destroys my unity launcher
+ i have to switch between viewports as a temp fix
+ Promille, there many small glitches that depend on situation  go on
+ facelessloser, they gonna fix it soon
+ :D
+ ctrl + alt + left or right or up or down key
+ to navigatite between viewports
+ this is the default shortcuts
+ !help

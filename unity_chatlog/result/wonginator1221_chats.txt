@@ -1,0 +1,1 @@
+ Is there a hotkey I can press/set to restart unity if it crashes without doing a hard shutdown?

@@ -1,0 +1,5 @@
+ Hello. I have a hard disk problem, S.M.A.R.T. is going bad and I want to recover as much data as I can. I'm doing that via Live CD, but I need to take ownership of the drive. Could you please guide me into doing that?
+ It doesn't work. It won`t let me copy many of them because I'm not the owner.
+ Many, but not all, and that is weird.
+ Ok, I'll try this one. Thank you. :)
+ Killyou: that`s you, my speed was about 2.8MB/s

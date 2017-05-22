@@ -1,0 +1,12 @@
+ anyone try updating to Natty Narwhal
+ i did and my video now has to run in low graphic mode
+ so far i'm not to impress with ubuntu, first update and it blows up!!
+ and it's garbage huh
+ when i boot up i see my desktop with flashing icons, mail and untitled folder
+ then i reboot selecting run in fail safe,
+ sorry about that
+ any idea how to add my nvidia video card
+ don't load natty
+ where do i run nvidia-xconfig from
+ any idea why video works in fail safe mode but not in regular
+ yes it is

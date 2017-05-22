@@ -1,0 +1,7 @@
+ Good morning, I just upgraded Ubuntu 10 to 10.04 and now can not boot.  I get an error message "out of range", can it be fixed?
+ I  am on a laptop now, my problem is on the desktop, and thanks for the comeback
+ all was well untill I upgraded.....I dual boot the desck top
+ I do have nvidia drivers :-(
+ I would hate to have to re-install both Debian and Ubuntu..any help ideas?
+ I guess I will try the Debien forums
+ thanks anyway

@@ -1,0 +1,1 @@
+ I'm wondering why I have plugins activated in firefox such as DivX Web Player, iTunes Application Detecter, QuickTime Plugin-in and Shockwave Flash. I was hoping and thought that they are not available to Ubuntu. Are they fake and wrapped to totem or vlc?

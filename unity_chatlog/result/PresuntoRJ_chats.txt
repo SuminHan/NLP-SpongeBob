@@ -1,0 +1,164 @@
+ just upgraded to natty from maverick on my second machine and it has failed miserably... wont boot no matter what...  the screen is blank ... it still runs with a live CD (lucid) I have here...
+ complete disaster
+ Incarus6: nope... not even grub
+ Incarus6: just a black and sad screen... the HDD keeps spining for a while, and then stops
+ Incarus6: is there a guide to assist?
+ Jordan_U: yes, the / is /dev/sda1, /usr is /dev/sda5 and /home at /dev/sdb1
+ Jordan_U: I will check, but why on earth the upgrade to natty would, out of the blue, change my bios settings? have this is a machine in use since 8.04, and upgraded flawlessly since
+ Jordan_U: as expected, no, the boot order is corret
+ Jordan_U: I am not sure if I have got it right... how could I install something in my hdd if it wont boot?
+ Jordan_U: ok, it was not clear... I will try then
+ Jordan_U: just got the RESULTS.txt on this notebook from the other system...
+ Jordan_U: http://paste.ubuntu.com/601220/
+ Jordan_U: it has detect the 320 (usual boot) and shows as the first in the boot order... and also lists the 1T as secondary, and the FreeAgent (USB) and third
+ Jordan_U: there would be no reason for it to fail its own internal order
+ Jordan_U: have just check after Incarus6 asked about it
+ Jordan_U:  my fstabs are UUID only, I believe I have changed a while ago to display GRUB no matter what, with a timeout of 6 seconds
+ Jordan_U: is that what you mean?
+ Jordan_U: so what do you mean by "one time boot"  ?
+ Jordan_U: sorry if I dit not get it
+ Jordan_U: ahhh... not sure if this system has the menu for boot order during the boot, I will check
+ Jordan_U: yes it does, and I have forced to use the HDD 322 (the sda1, also the first in the boot order)... it shows as if it has decompressed some linux image (long line of dots) and then, just blank again
+ Jordan_U: not sure... I can check
+ it blinks really fast to the black screen, but I could read something like:
+ DMI Check............................................................................................
+ AMD data change... Update to new
+ Jordan_U: then Boot from CD:
+ Jordan_U: and blank
+ Jordan_U: I am pretty sure it is the usual BIOS Post of my system... the ...................................... that called my attention before that looked like a kernel decompression
+ Jordan_U: so, I still don see any reason why it wont boot... in the live I can see the files are in the correct position... I have md5sum check them with my laptop, the /etc/grub seems sane, why would it be gone? is there a way to force the update-grub2 and update-initramfs -u from the live CD onto my "dead" system?
+ Jordan_U: any ideas ?
+ andeeeuk: not because its bad, but because it changes most of the libraries to Gnome3 and Ubuntu (Natty included, specially Unity) uses Gnome2
+ Jordan_U: sorry man, are you still online?
+ Jordan_U: I will see what I can do ;) be right back
+ Jordan_U: I am still going to try the chroot, but just FYI, holding the SHIFT during the boot will also write a Loading GRUB message, but still gets me no where but to the blank screen... could it be an impossibly high resolcution setting for the GRUB menu no to show?
+ loseweighttttttt: no, as every linux, its a server thing before and foremost
+ loseweighttttttt: but it also has a nice desktop (GUI) on top
+ Jordan_U: when I chroot, you mean?
+ Jordan_U: I cannot chroot following the steps there... it complains
+ bash: groups: command not found
+ Jordan_U: using Lucid 32bits as Live
+ Jordan_U: just when I try to chroot
+ Jordan_U: the mounts work, even with the --bind... and chroot does not... I believe the binding with sys is the cause
+ Jordan_U: not sure how then
+ Jordan_U: just told you... as the link you have sent me... http://webcache.googleusercontent.com/search?q=cache:http://grub.enbug.org/Grub2LiveCdInstallGuide
+ 1- sudo mount /dev/sda1 /mnt
+ 2- sudo mount --bind /dev /mnt/dev
+ 3- sudo mount --bind /proc /mnt/proc
+ 4- sudo mount --bind /sys /mnt/sys
+ 5- sudo chroot /mnt
+ Jordan_U: message
+ Jordan_U: sorry, the single command I have runned that got the message was, as told before, sudo chroot /mnt
+ Jordan_U: but that could be understood by you as if I have jumped steps, and I wanted to demonstrate I have not...
+ Jordan_U: still, no chroot :-(
+ Jordan_U: I think I have figured this out, my /usr is on a different partition and I have to mount it before I chroot ;)
+ Jordan_U: I have managed to chroot now, and completed the steps... no error messages, for all my HDDs... lets see if it boot now !
+ Jordan_U: I have got the grub menu now showing as text (good), but as soon as I select the kernel I want, it goes black instead of plymouth... even if I wait long enough for the login to show (and the HDDs stop, probably after a long fsck), nothing ! :-(
+ Jordan_U: I have even tried to blindly press enter and type my password, and enter... just in case... still nothing
+ Jordan_U: even if I Ctrl+Alt+F2 to get to a console... nothing
+ Jordan_U: in the grub menu ?
+ Jordan_U: it show a quiq text, then black, then old school echos of whatever is on the boot... fixed the discs accordingly... lets see now
+ Jordan_U: on the next boot, still no plymouth... takes for ever, but eventually it got me to the login screen !!! :-D finally
+ Jordan_U: a million error on kern.log (apport indicates on login)... :-p lets see now
+ Jordan_U: the system seems kind of broken yet... I am on Ubuntu-classic, and no window decoration, title bar, nothing... just an edge, menu and terminal or just nautilus...
+ Jordan_U: what package ?
+ Jordan_U: to file the bug under...
+ Jordan_U: ok, I will try
+ Jordan_U: FYI, I have an nvidia card, runing the nvidia non-free xorg drivers ;)
+ Jordan_U: I am sorry... every time I try to ubuntu-bug grub-pc it gives me an Error13: no route to host ! but I have internet access, and I am actually at launchpad right now
+ Jordan_U: new bug?
+ kezzawd: install the ppa, install the package, run indicator-cpufreq from the shell
+ kezzawd: it worked for me
+ kezzawd: what version do you have installed? mine is 0.1.2 from ppa:artfwo/ppa
+ kezzawd: and I believe you have to be in Unity GUI, not gnome (Ubuntu-Classic)
+ Hedgehog456: one in a million ;)
+ kezzawd: apt-cache policy <packagename>
+ dregin1: click on the Off button , the last option should be for System settings
+ dregin: in the right top side of the panel... looks like an O with an I inside it
+ dregin: right by your login name
+ kezzawd: the worst thing I have against unity right now, GUI is for MOUSE, I could use keyboard as an alternative (and I do) not as the ONLY input
+ kezzawd: 7 clicks to accomplish anything has got to be a design flaw
+ aliceminer: you can choos the ubuntu-classic in an option where you login
+ aliceminer: then you get a clear gnome, like ubuntu used to be
+ aliceminer: gnome-2
+ kezzawd: ok, me too... but cannot be the ONLY way to accomplish things...
+ kezzawd: there is no link/icon/button to show the desktop... only Super+D
+ kezzawd: anoungst other things
+ kezzawd: the problem is the ONLY portion
+ kezzawd: my mom will never (she asked me not to) upgrade her ubuntu if she HAS to use Unity, cause she HATES the keyboard to get things done
+ Incarus6: there wont be a Ubuntu-classic for 11.10
+ Incarus6: so, not really a solution
+ gib0t: you need to adjust it in the compiz setting for the Unity component
+ Incarus6: remember the system I had that just would not boot? now that it boots, I have no network access
+ Incarus6: I get IP, DNS, etc... but no route to host for anything I try... even posting a bug report :-p
+ Incarus6: nope... cat5e UTP cable directly connected to the router
+ Incarus6: I got even IP and DNS from DHCP... but no network
+ Incarus6: ip add and ip route also show the expected config
+ Incarus6: just said that it is... I have got the correct IP from my DHCP... it means it is working
+ Incarus6: just cannot get anywhere...
+ Incarus6: total mess on this machine... natty killed it
+ Incarus6: by the way, when I boot from the natty live CD I have just burned, it works... I have IP and Network
+ Incarus6: but the upgrade from maverick could not be more disastrous than what I have got so far... though it has just worked flawlessly in another machine
+ Incarus6: I have an open bug on decrease productivity and it got blocked as an "opinion"
+ Incarus6: no network means not able to file ubuntu-bug also from that machine... any suggestions?
+ Incarus6: what files should I copy? thats what ubuntu-bug would help me with...
+ Incarus6: and to what package?
+ kkal: not supposed to... you could, accidentally, erase the partitions on a new install
+ kkal: is your disk in a single partition or you have /home separated ?
+ kkal: that is not a problem, usually... I have a system that has home separated, and another witha single partition... upgrades work on both since 5 versions ago
+ kkal: just in case, do a backup of your home to an external drive or DVD
+ kkal: play safe, but not mandatory
+ cool-RR: unity never works on VMWare by design
+ cool-RR: only on full blown systems
+ cool-RR: I believe i has something to do with the video drivers inside VMWare
+ Dr_Willis: but its not really the same
+ kkal: to what? to open a site? or to open firefox ?
+ kkal: its pretty fast actually
+ kkal: hum... not sure how it could get better... do you have a SDD disk instead of HDD? unless some special setup like this, 2 to 3 seconds is quite ok... has it degraded a lot since 10.10 ?
+ kkal: there is an option in compiz setting for unity, that control the icon animation when you start an application... you could try to change to something else, like nothing, and check if it gets any faster.... besides that, the time it takes to load seemes like the times it takes to load.. not sure if it could get much better
+ kkal: I hate it too ;)
+ kkal: try clicking in the poweroff button, there should be a System Settings option there... much like a control panel
+ kkal: I am getting  used to it, but still hate it ... :-p
+ kkal: also in the compiz settings, you can prevent the autohide, change transparencies, etc... not sure how to change the workspaces (Super+S), and a few other lame restrictions
+ loseweight: sequentially
+ loseweight: do you see the cursor blinking ? is in the the text somewhere or in the footer (like a status bar) of vi ?
+ loseweight: vi is vi everywhere
+ loseweight: then press ESC some three times (just in case)
+ then, press only : once
+ then write ZZ (twice, captial letters)
+ loseweight: just right... and the ZZ or wq or qhatever you type will be a command to vi
+ loseweight: ZZ = wq = Write and Quit
+ yes, just after the :
+ it would look like this   :wq      or :ZZ
+ loseweight: if you close without save, yes, you lose
+ Osmodivs: try the link from cdimage.ubuntu.com ... there should be the actual iso there to download, and should work from wget
+ loseweight: when you learn to use vi (vim) you then tend to use it, cause its great
+ loseweight: but its really not easy the first time you try it...
+ Incarus6: I tend to ignore many errors :D
+ Incarus6: unlesss they bite me
+ ruum: in Unity ?
+ ruum: I hate it too... let me try to help... can you see the X in the left corner of the maximized window ?
+ ruum: you could try to login to the ubuntu classic option
+ poipoi: almost not... but I have managed to run with 256 from the alternate Cd a few versions back (9.10 if I recall right)
+ poipoi: then I recomend lubuntu intead of ubuntu (but I think its a package now a days)... you could try to install without GUI and then get via apt the lubuntu-desktop package
+ poipoi: its still usable
+ sl33k_: Ubuntu as host or guest ?
+ sl33k_: virtualbox works really good, sometimes I cannot compile vmware (vmmon-only), and qemu is a mess with bridge to get to the machine, but if you are only use outbound from it, qemu is really simple to use
+ sl33k_: the guest is the machine running inside a VM, the host is the machine executing the VM it self
+ sl33k_: you want to run Ubuntu as a desktop (with GUI) or as a server (sharing files, web, ssh, ...)?
+ sl33k_: to run a server, inside Windows, I would run in the vmware server, cause it does not need to open any window, and its also free... for the GUI, the vmware player is OK, but I usued to prefer VirtualBox (when it was Sun, not Oracle)
+ sl33k_: do you need them (Windows and Ubuntu) together at the same time? if not, there is also Wubi (an instalation inside windows, almost like a program, but boots to Windows or Ubuntu)
+ sl33k_: pretty much, but its a mess to network to the machine inside qemu... I am not sure if there is qemu for windows
+ ruum: :)
+ sl33k_: just found this, not sure how up-to-date is the information... http://wiki.laptop.org/go/Using_QEMU_on_Windows
+ sl33k_: again, inside ubuntu, so it runs as host, there is kvm, qemu, and virtualbox_ose ... you can download from vmware.com the player or the server (depending if you need a GUI or not)
+ Cursarion: ISO is like a ZIP file that contains the bootable files... so, no... but you can try to install it to an USB dongle (pen-drive)
+ Cursarion: not to an HD, its trivial to put on a CDR or DVDR, and not that difficult to put in a USB drive... try usb-creator-gtk
+ kurtul: how much memory? 1G ?
+ Cursarion: dont think so
+ kurtul: and how big is the HD ?
+ kurtul: that should be ok then... are you facing any problems?
+ bruzer: what?
+ !farsi | azoz
+ !english | azoz
+ azoz: what is an Atoni ?

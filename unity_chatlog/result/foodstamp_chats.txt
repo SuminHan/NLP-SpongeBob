@@ -1,0 +1,5 @@
+ that a gopher
+ lol
+ Viking667  so i should sty on main server?
+ any ideas on getting mic (ext & int) configured in xubuntu 11.04? i've already enbled everything that i can think of
+ bullgard4  https://wiki.ubuntu.com/ClassroomTranscripts

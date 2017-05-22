@@ -1,0 +1,8 @@
+ hello
+ i installed ubuntu 11.04, and i want to use a chat program other than empathy
+ is there a way to change the chat program in unity?
+ the one run when clicking "chat" on the letter-image menu?
+ hello
+ i created a new indicator applet for myself, in ~/bin
+ how do i make it start when i log in?
+ i can't find the xsession script any more

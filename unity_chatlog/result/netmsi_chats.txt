@@ -1,0 +1,17 @@
+ escott, and would those alias each map to a separate direct.?
+ hi all...if in proftpd, i want to create a user, and lock them into a directory, say like /home/user/Pictures, do I have to create that user in ubuntu (cli or otherwise?)
+ escott, i tried gadmin, and it seems like webmin is just as viable as an option, but what if i want to create user other than the default?
+ escott, so multiple users are not advisable? what if i need three separate users each with their own direct.?
+ escott, but it supports multiple connections (forgive the ignorance)?
+ escott, maybe i'm using the wrong word when i say users..multiple logins?
+ escott, thank you..
+ escott, ok...i think i understood that answer..you'll have to forgive, am just learning about ftp..still hasnt quite coalesced methinks
+ escott, yes, that was my question...so how do i create those accounts (not on the server, just for ftp purposes?
+ escott, i don't mind figuring it out myself, but what is that login called in proftpd? 'user', 'account', etc.?
+ escott, unfortunately not...the people i want to share file w/ are not technical...i can set them up w/ a ftp client, they can hang..
+ escott, cool...
+ escott, in the proftpd.conf file, is has a commented out template for an anonymous login..just copy that and make the appropriate changes?
+ escott, def. not...but that configuration works for adding a user, and adding a password or psswd line to the file, or is a waste going that route?
+ escott, gotcha...it's just the mechanics that are screwing me up..
+ escott, thanks so much...gonna go try some things out..most probably be back ...but appreciate immensely...
+ escott, and would those alias each map to a separate direct.?

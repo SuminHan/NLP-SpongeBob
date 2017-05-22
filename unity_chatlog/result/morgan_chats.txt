@@ -1,0 +1,15 @@
+ Hey, I have a question about my wireless card. I have just installed the new Ubuntu and the wireless wount broadcast. i cant enable it in the ray icon, the drive is activated and I find ot a 'sudo lshw -C network' comand, but it does not say it is braodcasting. help any one?
+ ActionParsnip: Just past it here?
+ ActionParsnip: http://pastebin.com/PC0gjwAk thanks
+ Thanks!
+ ActionParsnip: I followed the instructions on the hompage to get my Broadcam WiFi to work but it did not help. i cant seam to enable wireless networking at all...
+ ActionParsnip: I would like to try but now my whole pute froze up. I cant change windos. can move my mouse and type here, but not click anything. Dang...
+ ActionParsnip: Nopp no adapters are blocked.
+ Actionparsnip: I get the following - http://pastebin.com/HKrimZCg
+ ActionParsnip: Should i run dmesg | less in terminal as a command?
+ ActionParsnip: What do i do with this massive amount of text then? I have no idea what it all means.
+ ActionParsnip: I have all the text, but can't really make out where stuf whent wrong. Have tried to go through it. What am I looking for?
+ Hey. I cant seam to enable my Wireless Device in my system tray. It seams my Broadcom device is not broadcasting. The drives are activated but I can't find it via my system tray icon. http://pastebin.com/PC0gjwAk
+ I have just insalled the 11.04 and the wireless is not working.
+ usalabs: Well, i have the icon for network in the upper right corner (system tray right?) . I have connected via my cellphone externally to get to Internet. So the ordinary wired network works. I have ticked the 'Networking Enabled' options and in the Ubuntu 10.04 I had before had one for wireless to be ticked too. I don't have it. Can I enable my wireless card in any other way? The drives are installed and the hardware switch is
+  set to on.

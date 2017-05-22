@@ -1,0 +1,5 @@
+ Silly Question.... How do I hide the Unity Launcher
+ cdbs: How do I hade the Unity Launcher?
+ cdbs: Nope
+ cdbs: No package called ccsm :/
+ cdbs: You had to change package names -.-

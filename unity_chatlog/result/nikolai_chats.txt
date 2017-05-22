@@ -1,0 +1,4 @@
+ FFForever, At the login screen, Select Ubuntu (Classic)
+ To set this as the login default, change the system menu
+  anyone notice a delay clicking the Unity panel menu that activates Dashboard on a netbook?
+ ZzTribble, yes - there's always several seconds in delay opening up the Unity dashboard on my netbook.

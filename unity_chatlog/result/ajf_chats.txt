@@ -1,0 +1,6 @@
+ help. all links open in firefox from external apps
+ yet chrome is default
+ ??
+ tomasz: terminal and skype
+ I click a link, firefox opens, chrome SHOULD open
+ tomasz: ah, thanks!

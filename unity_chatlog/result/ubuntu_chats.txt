@@ -1,0 +1,62 @@
+ Higlighted icons for Kaffeine and Amarok in launcher (or dash) look like disaster...
+ 8==D :)
+ Hi, How I can enable Unity in 11.04_
+ _
+ ?
+ Wasn't it suppose to be that 11.04 had Unity as default desktop?
+ Dr_Willis, Same problem here.
+ Dr_Willis, like whole Unity does not exist at all.
+ Dr_Willis, my does have but I can not enable Unity anyway.
+ Does all work ok with the upgrade???
+ Im thinking if I should or should not upgrade now
+ Wow, better I wait
+ Does unity looks and works better than gnome??
+ Ohh and what about gnome 3??
+ I like gnome
+ Its the first time that I test this chat and is very helpful, thanks to all people for the invaluable information that you share in this channel, see you tomorrow!
+ marco
+ cll
+ c s
+ unity does not support propietary nvidia card in my system...any help...pls
+ <lcb>am in now ubuntu classic (no effect)...is this a bug?
+ <lcb>yeah ...but the driver is installed(worked with 10.10)....all i get is a screen with launcher but the cursor
+ <curiousx>with nvidia driver installed
+ <lcb>will this be fixed soon...'cas i heard this issue in the internet
+ lcb:why is it not working after all...canonical says it is for netbooks...with less requirement....and yet it seems not to work(my one frnd had the same problem)
+ #
+ Hi
+ To run unity desktop will it require graphic card ?
+ Hi Can anyone help on this post ? To run unity desktop will it require graphic card ?
+ i can use unity but i am not able to use once install hardware drivers?
+ ATI
+ Hi i can use unity desktop even after installation but not able to get gui once i installed ATI graphics card driver ?
+ is that require really a graphics card ?
+ unity is working fine before driver installation
+ just installed 11.04 and now i cannot get i to the system. I am currently using the live session from my install usb. please help
+ hello anyone there
+ cant boot into 11.04, blank screen???
+ connect irc.server.net
+ I need help loading the file manager as root
+ Hi! Is there any way to combine unallocated partition as one here - http://imagebin.org/151122?
+ Is it possible to combine unallocated partition as one here - http://imagebin.org/151122?
+ Dr_Willis: Can you see this http://imagebin.org/151122? These are my partition. /dev/sda6 is /home
+ Incarus6: unallocated - 9.99 GiB and unallocated 979.00 MiB is what I hope to combine
+ Dr_Willis: And I'm not sure how does moving/resizing affects data
+ Dr_Willis: Well, I want to add 979MiB to 9.99GiB
+ Incarus6: Dr_Willis: How does resizing affects data? /dev/sda6 and /dev/sda7 are my /home and / of current system. I'm on LiveUSB now
+ Oh
+ Incarus6: Well, how about combining 1.02MiB and 979.00 MiB to swap?
+ Incarus6: 4GiB
+ Hey
+ cze all
+ hi all
+ happy to see ubuntu looking a little more modern now. if only it wasn't so slow
+ lacks a lot of customization also
+ hello - I installed ubuntu 2 times to my hard drive but after restarting my computer always windows is starting - no chance to select ubuntu somewhere.. any ideas?
+ italia
+ milano italia
+ help me
+ my ubuntu on hdd can't acess the internet, but a live ubuntu can, help me!!
+ hy i have problem with install ubuntu - im now on live system, instalation finish with error
+ error install grub
+ why i can do now ?

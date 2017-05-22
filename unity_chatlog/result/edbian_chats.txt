@@ -1,0 +1,223 @@
+ !ops
+ maco: thanks
+ IdleOne: Why would you spam the channel?!
+ maco: It was a joke
+ IdleOne: :)
+ Does Ubuntu 11.04 use wayland for graphics?
+ xangua: Will 11.10 ?
+ xangua: You don't know or nobody knows yet
+ ?
+ MK`: Thank you
+ renegaid: Sounds to me like something is taking an audio signal and trying to force it into 5.1 sound.  could that be the case?
+ pfifo: This is going to be frustrating for you.  A fellow student of mine was doing a multicore project last semester.  He DEFINITELY attached a pthread to a particular core.  It can be done.  I don't know how.
+ pfifo: Or what escott said.  hahaha
+ m|kael: I'm sure you could hack it to work.  I'm guessing it is not easy.  Why do you want to?  Normal installs are much easier to do this sort of things
+ m|kael: There are other ways to install Ubuntu.  Perhaps wubi is easiest.  One of the stranger ways is unetbootin.  Lets you boot an ISO without anything but your hdd
+ m|kael: https://help.ubuntu.com/community/Installation
+ m|kael: I think the only thing that wubi would mess up about is installing grub.  But you can change the config of grub to point to the multiple ubuntu installs each time.  I dont' know how easy or possible this is
+ m|kael: This all assumes the wubi installer will let you install to an NTFS partition that already has a wubi file on it (I think it will)
+ Jordan_U: m|kael Well there's your answer
+ m|kael: See what Jordan_U said?
+ Captainkrtek: I have it installed on my other machine
+ Captainkrtek: yeah.  What is it?
+ I'd rather not PM
+ m|kael: I've never actually done it.  See what Jordan_U said?  I was just speculating how I might go about getting it to work. Ask Jordan_U for specifics about why it won't work.
+ m|kael: I linked you the other methods of installing. Take a look!
+ carandraug: If you have effects on it's compiz.  If not it's metacity.
+ carandraug: Careful!  They are on by default.  To be extra sure look at gnome-system-monitor or ps -e
+ zepherin: If you can boot to a terminal you don't need a recovery boot
+ zepherin: Can you explain in more detail?
+ zepherin: What can you boot to?  What happens when you try to boot the GUI normally?
+ zepherin: Do that.
+ zepherin: Do you know how?
+ Giles: He has the software.  Missing the software
+ carandraug: :D  excellent
+ zepherin: How do you hop into terminal if your keyboard and mouse are frozen?
+ Giles: I was talking about zepherin you're clearly talking about yourself!  Sorry :P
+ zepherin: Log out.  Click your name, go to the bottom panel and change the session to Ubuntu Classic.  Type your password and log in.
+ Giles: It should have been.  STrange
+ zepherin: Don't log in in the first place?
+ zepherin: Do you mean tty1?  Run this: sudo killall Xorg
+ zepherin: Does Xorg show up in ps -e ?
+ dennda: I have no idea what meta + W does for you but you configure it easily using CCSM.  It's a package (compizconfig-settings-manager)  I'm not sure on the placement of those hyphens
+ dennda: What's it look like?
+ dennda: ?
+ perlsyntax: Did you install Ubuntu yet?
+ perlsyntax: Have you installed Ubuntu?
+ perlsyntax: Who is 'he' ?
+ perlsyntax: Do you know the chipset of the card?
+ perlsyntax: Please start your sentences with my name like I"m doing for you.
+ perlsyntax: Is the kill switch on / off?  That would cause it not to show up in lspci.
+ perlsyntax: Does the laptop have a physical wifi switch?  Do you know what I'm talking about?
+ perlsyntax: Well I'm guessing a light would indicate that the card is on.
+ perlsyntax: But that could be it.  What kind of laptop is this?
+ perlsyntax: hp what?
+ perlsyntax: really...
+ perlsyntax: Typo on my name bro
+ perlsyntax: sudo apt-get install firmware-b43-installer
+ bazhang: I hate when they're so surprised!  Don't they have any faith at all?
+ perlsyntax: You'll have to be connected to the Internet in some other way of course
+ perlsyntax: Well there ya go :)
+ perlsyntax: I believe so yes.
+ perlsyntax: Well do it and make sure it works! :D
+ perlsyntax: Did you install it using that command?  Did that command give any errors?
+ Sik: card?
+ Sik: Did you turn on nomodeset  ?
+ Sik: Follow this guide to do it: http://ubuntuforums.org/showthread.php?t=1613132
+ Sik: Scroll down to the bit that says 'how to permanently set kernel boot options on an install os (not wubi)
+ Sik: It's in the first post.
+ Sik: Try nomodeset.  It is a very common solution :)
+ Sik: ok
+ josip: press alt + sysRequest + K to log out.  CLick you name, change the session, log in
+ josip: Try the other ones.  I suspect you choose 'netbook edition 2nd' or something that should not be there.  Additionally, just see if any of them work
+ josip: Awesome is causing the blank screen?  Does it have the awesome bar?
+ josip: I haven't used awesome in a long time.  Do you have to configure it before you use it?
+ josip: I'm not sure then.  No experience with this.  My advice is to look around for somebody that has had the same problem and then try a default config file (back yours up obviously).
+ miceiken: You still there?
+ miceiken: I don't see anything wrong with your /etc/network/interfaces.   What problem are you experiencing?
+ miceiken: nvidia card?
+ miceiken: So the screen goes black during boot and never comes back or?
+ miceiken: removing splash is a good idea.  So is booting nomodeset
+ miceiken: Do you know how to change kernel options?
+ miceiken: This explains in detail with screenshots :)  http://ubuntuforums.org/showthread.php?t=1613132
+ miceiken: Make sure you follow the directions for an installed OS (not wubi)
+ miceiken: Yes.  But you have to press shift to even see the grub bootloader menu.  By default it is hidden in Ubuntu.
+ miceiken: quiet  is a kernel option
+ miceiken: splash is a kernel option,    acpi_osi="linux"   is a kernel option.  To do that one you need to \" the quotes.  That's all they're saying.
+ miceiken: You're adding nomodeset which does not contain quotes so the point is moot.
+ miceiken: makes sense?
+ miceiken: sure.
+ miceiken: mhmm.  How did you change things?  By pressing shift and such?
+ miceiken: Can you pastebin /etc/default/grub for me or is this machine not online.  How did you edit those files in the first place if your screen is black after the grub menu?
+ bye
+ miceiken: You've done all of these changes through recovery mode??
+ miceiken: No that's fine.  I just want to get a clear picture.  So what options are in your GRUB_CMDLINE_LINUX_DEFAULT
+ ??
+ miceiken: sure
+ miceiken: Do you not remember?
+ miceiken: ok
+ miceiken: Is this machine online in anyway?  (are you talking to me on a second machine?)
+ miceiken: Try booting with no options at all.  This way we won't have a splash screen that is potentially crashing, and it won't be quite so we should see any errors that crop up.
+ miceiken: I've lost confidence in nomodeset since it didn't fix the problem immediately.
+ miceiken: To be clear.  This is Ubuntu 11.04 desktop?
+ miceiken: ok
+ miceiken: I don't believe so.  Are you sure you're changing the options correctly?  It sounds as if they're having no effect which leads me to believe they're not being changed.  Have you been running sudo update-grub   ??
+ miceiken: That probably is why nothing changed.  (You're of course saving the /etc/default/grub file as well right?) :P
+ miceiken: k
+ m4dv0y: System -> Admin -> software sources -> change the drop down menu from LTS releases to normal releases
+ miceiken: Oh I'm good...
+ miceiken: So now, our network connection.  Is that owrking?
+ miceiken: sudo ifconfig -a    shows what?
+ miceiken: Do they have IP addresses?
+ miceiken: Run just 'sudo ifconfig'  it will show you only interfaces that are up
+ miceiken: sudo service networking restart
+ miceiken: sudo /etc/init.d/networking restart  (I hate that quark of Ubuntu)
+ miceiken: sudo /etc/init.d/networking restart and sudo service networking restart should achieve effectively the same thing.  For some reason the former doesn't work.
+ miceiken: Any details about why?
+ miceiken: It does indeed have everything it needs...  Is 10.104 an address inside the DHCP range?
+ miceiken: waiting...
+ miceiken: your pastebin spells it correctly :)
+ miceiken: it is address
+ miceiken: Which machine is 105  ?
+ miceiken: Everything is working then?
+ miceiken: I don't generally toot my own horn but I'm 2 for 2
+ miceiken: NO problem.  Glad I could help :)  Have fun with Ubuntu! :D
+ miceiken: :)
+ ketema: Me too
+ bob__: Guessing but probably in /home/you/.wxbanker
+ ketema: Hold down the button.
+ bob__: ok.
+ ketema: Ok.  Also, does alt + F2 do anything?
+ brontosaurusrex: If you're running try turning compiz off, scaling the mouse, and turning compiz back on.  This is the most annoying thing ever IMHO
+ brontosaurusrex: I'm not sure it is the solution.  Just an idea.
+ brontosaurusrex: yeah.  Same for me
+ brontosaurusrex: sorry.  It was just a guess!
+ johnathan: Did you create the USB drive?
+ johnathan: I'll take that as a 'no'  :)   Here is a guide: https://help.ubuntu.com/community/Installation/FromUSBStick
+ johnathan: :)
+ Rehan: no
+ QuikNik: /etc/default/grub
+ QuikNik: sure :)
+ todd2: cheapie sudo apt-get install firmware-b43-installer
+ todd2: cheapie Did you have a plan of action?
+ andygraybeal_: :D
+ Halzen: ronr_ Every 3 years if you stick with LTS releases only
+ Halzen: I use Debian!  :P
+ Halzen: The cutting edge is the most fun!
+ bperu: You still there?
+ nerdshell: Every user has a default shell (like dash or bash or sh or something).  Typically everyone's default is bash (cause let's face it bash is the standard)
+ bperu: Something is going wrong with the grub boot loader.  Because this is wubi I don't have an exact idea of how to fix it :(
+ bperu: My suggestion is go back into the wubi installer and try to see if you can find any options or setting or anything about grub.  Perhaps there is a 'install grub' buttons somwhere
+ bperu: My second suggestion is to just do a normal install
+ nerdshell: yes exactly
+ Halzen: I think you mean 'unaltered'
+ bperu: The normal install actually has a better chance of working well.  Wubi is a bit of a hack.
+ nerdshell: You set it in /etc/passwd
+ Halzen: :P
+ nerdshell: I think so.  Perhaps just log out and back in
+ bperu: Umm, virtualbox might be able to let you do that.
+ bperu: But I don't think that will be easier or safer than just installing normally :)
+ bperu: Really it is not hard or confusing :)
+ koperino: packages, not packets
+ koperino: no worries
+ Slackman: hello
+ CQ: sudo modprobe sbs
+ CQ: injects modules into the kernel.  Think of it as 'turning a drive ron'
+ CQ: If it returns without giving an error that means it was inserted successfully.  Try running sudo sensors-detect
+ CQ: Yeah it should.  Try lsmod | grep sbs
+ CQ: strange.
+ CQ: Does sudo sensors-detect work any differently?
+ CQ: What is the ultimate goal here?
+ CQ: Ignoring this sbs error what functionality are you getting out of gkrellm ?
+ tbrew13: Graphics card?
+ CQ: I'm not sure what sbs does.  What the error pertains to.  Perhaps it makes no difference having it installed or not.  I can't offer any more advice :(
+ CQ: In short, if I were you I'd be in here asking people :P
+ CQ: Most channels are not as active as this one.  wait a while
+ tbrew13: Which driver are you using according to sudo lspci -k  ?
+ filosofixit: sudo apt-get purge <package for nouveau>  and then, sudo apt-get install <binary-package>
+ coun: tell me about it
+ filosofixit: http://packages.ubuntu.com/search?keywords=nvidia&searchon=names&suite=natty&section=all
+ tbrew13: Please don't paste to the channel
+ filosofixit: sure
+ tbrew13: Do you understand that output?
+ filosofixit: I think so?  It's going to be a bit of trial and error I'm afraid
+ filosofixit: good luck!
+ tbrew13: No worries, you're using the fglrx driver which is proprietary.  Have you tried using the radeon driver?
+ tbrew13: I'm thinking that switching drivers will solve both problems.
+ tbrew13: According to lspci radeon (the open source driver) is installed it just isn't being used.  If we remove fglrx (sudo apt-get purge fglrx) and reboot we should see the radeon is being used in sudo lspci -k
+ tbrew13: Make sense?
+ tbrew13: The additional driver thing is buggy in my opinion.  I think it will cause more problems then it will solve but you can if you want.  We should still confirm things using sudo lspci (or sudo lsmod is even better)
+ tbrew13: I suggest a reboot
+ tbrew13: :)
+ newb2linux: sudo nano /etc/apt/sources.list   comment out that PPA
+ tbrew13: So what driver is being used?  Is the choppiness problem gone?
+ tbrew13: Are you using unity?
+ tbrew13: ps -e | grep compiz
+ tbrew13: What does that return?
+ tbrew13: That command shows me that compiz is running.  In unity you cannot drag the buttons off the unity bar.  To add a new panel I think you right click an existing panel and select new panel.  Not sure if this is gone in unity as well.
+ tbrew13: in xchat settings -> preferences -> alerts -> enable system tray icon.  Assuming you're not running gnome-xchat or what
+ tbrew13: Maybe it's a unity thing.  Can you right click on the top panel -> add to panel -> notification area
+ tbrew13: Then it's unity to blame
+ tbrew13: Sounds to me like you're missing gnome2.  Why don't you use ubuntu classic at login?
+ tbrew13: What did you do to get a notification area?
+ tbrew13: I don't know.
+ tbrew13: Preferences for xchat or perferences for unity?
+ tbrew13: mm.  Fixed?
+ tbrew13: Any more problems?
+ tbrew13: :D
+ tbrew13: install compizconfig-settings-manager and tweak to your hearts content!
+ tbrew13: What do you mean you messed up?
+ AMAG: Not sure about glxgears.  Additional Drivers is a bit buggy in my opinion.  Not surprised it's lying to you :P
+ tbrew13: What is making the top bar disappear ?
+ tbrew13: If you check wobbly windows do they become... wobbly?
+ tbrew13: ?  You can have snapping and wobbly at the same time.  What do you mean top bar?  The top unity bar or the title bar of the window?
+ Brandano: You think the decorators for compiz are missing for tbrew ?
+ Brandano: Oh yeah?  Tell tbrew how to fix it! :D
+ tbrew13: see Brandano He has an idea
+ Brandano: well crap
+ tbrew13: I'm not sure.  Try messing with all the different settings in ccsm.  Like maybe gnome-support or some other generic settings.  The title bars are drawn by the 'decorator'  not sure if that's related
+ tbrew13: Just come back to the channel.  I'm here all the time.
+ or not...
+ yehudah_: No clue.  Sorry!
+ yehudah_: Never done that myself
+ yehudah_: sorry!

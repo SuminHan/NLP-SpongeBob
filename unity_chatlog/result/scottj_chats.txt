@@ -1,0 +1,1 @@
+ is there a part on the standard / hierarchy where I can create "files" that are in ram or swap not disk and don't remain on reboot?

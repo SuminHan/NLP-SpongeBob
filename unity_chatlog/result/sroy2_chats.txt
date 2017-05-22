@@ -1,0 +1,1 @@
+ Hi - I am using apache to host 2 domains on 127.0.0.1:80 and nginx to reverse proxy them out on my ip 1.2.3.4:80. I was wondering how I had to modify the /etc/hosts to allow both domains to be put on both ips?

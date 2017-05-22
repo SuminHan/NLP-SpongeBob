@@ -1,0 +1,20 @@
+ Yep...can't get 11.04 to boot up.  Getting error "Disk Drive / is not ready yet or not present.
+ escott: It is attempting to load init_bottom scripts and I get that message
+ escott: the last line on the screen is Continue to wait, S to skip mounting or M for manual recovery.  S skips everything in FSTAB, while manual drops me to root prompt on a read only file system.
+ escott: have been waiting since I got here, nothing is happening.
+ Yes
+ escott: sorry, name didn't click..but yes I can get to the shell
+ escott: the mount point is /dev/sda1
+ escott: (a) yes there is a /dev/sda1.  (b) there are 4 entries in /proc/partitions (sda, sda1,sda2, sda5) sda2 has a block count of 1 (c) I ran fsck.ext4 on /dev/sda1 while booted from LiveCD.  Found a couple issues and it fixed them.  Rebooted after and same result.
+ escott: I recognized the others, just not sda2...
+ escott: according to df and /proc/mounts /dev/sda is mounted to /
+ escott: i see everything in my /home directory.
+ escott: I tried the previous command to mkdir rootfs in /mnt and mount to that, but can';t as fjile system is in read-only mode.
+ escott: this is all very odd.
+ escott: Waiting gives 2 messages: spaming Maintenance Shell and init: moutall main process terminated with status 3
+ escott: it ran through some options, and dropped me to a terminal login.
+ escott: Glad I decided to to my master backup of my work data yesterday.  But I hate having to reinstall VBox and winXP again.
+ escott: Cant say, my login is not working.  I have logged in on a terminal before, but its not working today .
+ escott: i tried one of the older kernels in grub just to see if it makes a difference, but that didn't.  I may just have to download the image on my laptop and re-install.  I will check grub and see if the is something in there that can slow the boot process.
+ escott: thanks for the help man...appreciate it.  Have a good one
+ Quick Question, how do I add apps to the upper panel on 11.04

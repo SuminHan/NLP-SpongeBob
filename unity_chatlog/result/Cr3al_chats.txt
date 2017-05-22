@@ -1,0 +1,5 @@
+ the new launcher is confusing as hell. is there a way to edit it at all?
+ such as moving the order of the applications
+ it wont even let me edit the gnome panels anymore
+ i just want to move the workspace switcher to a more practical place
+ how do you add applications to the launcher menu?

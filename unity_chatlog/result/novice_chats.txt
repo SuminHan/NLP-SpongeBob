@@ -1,0 +1,3 @@
+ how do i search for available wireless networks available in ubuntu 10.10
+ vega: somehow they are not.i need to sort of fprce ubuntu to search
+ vega: Thanks

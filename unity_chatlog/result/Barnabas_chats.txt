@@ -1,0 +1,19 @@
+ narf_, try to google your make of monitor + xorg
+ narf_, you will almost certainly find a config example
+ narf_, try this http://xtiming.sourceforge.net/cgi-bin/xtiming.pl
+ Juest, I had the same issue
+ Juest, try changing the mixing method in pulseaudio
+ Juest, in /etc/pulse/daemon.conf:
+ change resample-method = speex-float-1 to resample-method = auto
+ reboot
+ Juest, must be grub OR lilo?
+ Juest, anyway, you can probably make do with restaring pulseaudio
+ Juest, why not use grub, its the standard for Ubuntu?
+ hmm I think the grub package is more or less self configuring, to the degree, where it detects your installed kernels - I am not sure though, anyone feel free to confirm this
+ Juest if you edit that one I think you changes will dissapear every time a new kernel is installed
+ Juest, it produces a menu.lst file probably in /boot somewhere
+ Juest : https://help.ubuntu.com/community/GrubHowto
+ Juest, remember the menu.lst is a generated file
+ Juest, did you get it working?
+ Juest, grub?
+ Juest, no none - but feel free to ask here

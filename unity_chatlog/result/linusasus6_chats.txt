@@ -1,0 +1,26 @@
+ Hi I would like to know when the update will be avaible and if we can use both shell unity and gnome, me I prefer gnome but I will try unity for see, if I dont like I will delete unity
+ hi I will like to know why gnome and gnome-core is no longer supported
+ is stupid no more menu on top bar  please why gnome and gnome-core are no longer support
+ is gnome-shell, gnome-desktop, gnome-core and gnome packages will be supported on the 11.10 because they no longer seem to be supported in 11.04
+ linuxmint
+ have a good nite I hope you got lot of cofee because everyone will need help on natty because Unity
+ please for the grub is it better I put it on sdc or on my /boot partition? (wich is sdc5 a dedied boot partition) Im on the install process right now
+ so it mean sdc
+ Me I will stick with ubuntu 10.04 and wait for the 12.04, too much issues with 11.04
+ cached when gnome 3 will be supported on ubuntu everything will be fine
+ well will see now if my install is good
+ finally after hour of help thank I have copy paste in my email what you tell me, but the reinstallation solution was way faster  I'm happy to be on my ubuntu 10.04
+ freeman the issues of grub was due of the order I install my 2 distribution and the wrong place I have put the grub , by placing grub on sdc grub is mounting on sdc5 anyway the error I did before is too install grub directly on sdc5 instead of sdc
+ before ubuntu 8.04 I was always updating only if it was LTS then I try to install every 6 month update I had lot of issues now I know that will continue to install LTS only
+ is by our error that we learn
+ I still have one issue from the sound, when earphone or headphone are plug the sound come from speaker at the sametime
+ but you help me alot today so it will be for next time thank have a great nite all
+ hi by restarting ubuntu is not in grub menu but when I do update-grub he find it but that not fixing how to make reapear it please
+ please how to put ubuntu in the list of grub, when I do update-grub he found it
+ stefg my grub is ok is ubuntu doesnt apear in the list http://pastebin.com/cEkpFdaM
+ stefg I got a linux mint that controlled grub2 ubuntu is on sdc4
+ im in /boot/grub now what is the file I have to modfor see ubuntu again in list
+ rgr where's default.
+ I was use to it with the old method edit grub.lst lol
+ I found the default is in /etc/default wich file I edit?
+ I'm getting lost in the grub2 documentation please how I do for ubuntu apear again in the grub menu when I do update-grub as you can see here http://pastebin.com/cEkpFdaM  it work but when is time to restart ubuntu still not there

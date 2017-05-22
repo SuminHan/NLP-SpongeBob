@@ -1,0 +1,7 @@
+ I have problem when I record desktop with gtk-recordmydesktop and compiz cube .what should I do?
+ the effect when I rotate cube has problem when record my desktop
+ the movie has leap when I rotate desktop in output movie
+ popey: so what should I do?
+ I have pretension about linux and 3d desktop at university
+ not working when I input video projector compiz doesn't show
+ I tried it before

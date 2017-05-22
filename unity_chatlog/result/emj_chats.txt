@@ -1,0 +1,10 @@
+ how do I get a  VNC connection to my fathers ubuntu desktop? I need to help him install som programs for internet Tax filing...
+ terry: no default ubuntu remoet support app?
+ terry: sure
+ Rockj: Firewall is no problem they are all Linux soo.. :-)
+ Rockj: but I'll accept that solution.
+ Rockj: wish there was a GUI for it though.. :-)
+ Rockj: :-) That doesn't make things easier. (but indeed vlc does need a GUI)
+ Time like this I really dislike 3G connections.. :-( VNC is slooooow.
+ Rockj, + who ever: apparently x11vnc didn't work since vino-server was already running.
+ worked like a charm

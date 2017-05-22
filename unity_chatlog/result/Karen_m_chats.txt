@@ -1,0 +1,24 @@
+ what's the best flowcharting software for ubuntu?   Know how there is freemind, I was hoping there is something lightweight like it to do flowcharting.
+ does upgrading to 11.04 break anything?
+ caly, why is that?
+ so skip 11.04 for now?
+ Soothsayer, what?
+ 10.10 sucked for my laptop, it would not use my wireless properly!  I wonder if 11.04 will work :)
+ with 11.04, how do you get into System->updates or System menu...
+ i want to check my video drivers
+ i actually like unity!
+ UNITE
+ zvacet, thanks for that..
+ THE WIRELESS IN 11.04 ACTUALLY WORKS, yay ya ya ya yayayayayayaya\
+ with my remote desktop, why does it show 2 hosts showing up when there is only 1 host?
+ Hosts nearby .. will always show 2 hosts when there is only 1...  one works, one doesn't
+ why?
+ no it won't let me
+ it seems you do not have the hardware to run unity?  what the ?
+ what do you need for a video card to run unity on ubuntu?
+ Ive got a : Nvidia geforce 9500, and it won't run unity.. what gives?
+ geforce 9500 gt
+ No, i installed it
+ izinucs, upgrade from 10.10
+ izinucs, yes, nothing else is listing .. i checked
+ izinucs, it seems they disabled my nvidia driver on the upgrade, i'm re-enabling and rebooting

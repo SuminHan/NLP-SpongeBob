@@ -1,0 +1,5 @@
+ can anyone tell me what the heck ive done: i am using a 21" screen with a widescreen resolution and i plugged in a 15" screen just to play around and i clicked detect monitors and a prompt came up recommending auto detect resolution sizes and now i cant set my main monitor above 1024x768 even after removing the smaller monitor and rebooting. does anyone have any suggestions? i feel like im missing something simple
+ zenguy311 any idea how to disable?
+ i did try that setting
+ it seemed to not work tho
+ is there anyway to get ubuntu to check my monitor for max resolution settings? it doesnt seem to be a mirror issue

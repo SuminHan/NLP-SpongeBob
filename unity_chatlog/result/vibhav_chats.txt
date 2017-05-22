@@ -1,0 +1,410 @@
+ 11.04 released?
+ is 11.04 released in India?
+ do you know when?
+ ayecce : You too are from India?
+ oh!
+ ANY INDIAN HERE?
+ ANY INDIAN HERE?
+ ok!
+ sorry
+ nutsfornatty : refer to  http://bigbrovar.aoizora.org/index.php/2010/01/10/how-to-safely-remove-ppa-repository-from-ubuntu/
+ your welcome
+ madhu : - use network tools in System -> Administration
+ Not in India
+ mythri cdrecord dev=/dev/hdc speed=24 driveropts=burnfree -dao -data /path/to/files
+ okkk
+ mythri : ohhh
+ mythri : have you installed Windows?
+ mythri : the files are on the ubuntu Drive or on the Windows Drive?
+ On the Desktop?
+ maco : - On the Desktop?
+ maco : - The files are on the desktop?
+ okk
+ maco : - Can you boot to Windows?
+ mythri : - Ill talk to you first and then to maco"
+ maco : - I thought you changed your name to maco.....oops.....lolz
+ mythri : - Do you have windows installed?
+ mythri : - Can you boot to Windows on your Compueter
+ mythri : - Can you boot to Windows on your Computer
+ pp7_ : No
+ where to put auto commands in Xchat?
+ where smw?
+ Thanks!
+ Hi everyone!
+ Can anybody help me in streaming on my network which has 2 ubuntu boxes?
+ Can anybody help me in streaming on my network which has 2 ubuntu boxes?
+ stream media like videos
+ smw : stream media like videos
+ hey smw i want to stream Videos
+ hey smw i want to stream Videos
+ smw thats fine
+ smw never mind
+ <sobersabre> what are you trying to do?
+ <sobersabr> Ohh , thats easy
+ <sobersabr> Install Startup Manager from UBuntu Software Center
+ <sobersabre> Install Startup Manager from UBuntu Software Center
+ <EbanSoul> no they are using Unity
+ proq : Unity is a shell interface for the GNOME desktop environment developed by Canonical Ltd for its Ubuntu operating system
+ <sobersabre> You can use Startup Manger to Change your resolution?
+ proq : its not a terminal emulator
+ <sobersabre> I know an easier method to do that
+ <sobersabre> To change the resolution
+ <sobersabre> there is a progrma for that too
+ <sobersabre> there is a progrmam for that too (to change resolution of grub)
+ <sobersabre>  Ok
+ <sobersabre> I use Xchat
+ <sobersabre> refer to http://superuser.com/questions/66428/how-can-i-change-console-shells-resolution-in-ubuntu-9-10
+ <sobersabre> I use Xchat as my IRC Client
+ <sobersabre> Why do you ask?
+ <phoque_uni> in the login session chose Ubuntu Classic Session
+ <sobersabre> ok
+ <phoque_uni> You are welcome
+ <GReeNtooTH> sudo iptables -A INPUT -p tcp --dport (port number) -j ACCEPT
+ <sobersabre> what do you mean by "capisci"
+ <sobersabre> what do you mean by "capisci"
+ I hate Samoa!
+ Is the Oversized CD Bug fixed????
+ Manohar : No its the daily build
+ @JE0cket1 I know
+ <Manohar> IF you are Indian , it will be there by evening.....
+ <MACscr> If you are in hurry, the exact same packages are already available in the Stable Channel PPA as usual, for Hardy, Karmic, Lucid, Maverick and Natty. You can safely subscribe to this PPA and later receive the official builds with your regular system upgrades.
+ So guys....
+     *
+
+       Facebook
+
+
+       99
+ FloodBot2 sets mode -q #ubuntu vibhav!*@* what does that mean?
+ FloodBot2 sets mode -q #ubuntu vibhav!*@* what does that mean?
+ <seniseni> really?
+ why cant I send anything to th #ubuntu-release-channel???????
+ why cant I send anything to th #ubuntu-release-channel???????
+ how do i get unbanned?
+ please?
+ Expires in how many minutes?
+ What i did was a countdown.....
+ <guest345345> Expires in how many minutes?
+ <MaRk-I> Ohoo nooooo!
+ <MaRk-I> Is there another way?
+  /msg ChanServ I am very sorry sir....I win't do it aga
+ <MaRk-I> Am i unbanned now?
+ is it released?
+ http://www.ubuntu.com/ shows a del laptop
+ http://www.ubuntu.com/ shows a dell laptop
+ why am I banned again!!!!
+ why am I banned again!!!!
+ I did not spam now....Un ban me
+ what is DCC
+ <buzzkill> why was i annoying??
+ IS it released GUYS?
+ jrib : I am banned there
+ jrib :IDK why
+ jrib : what do I do there?
+ <stREaKer> Yes?
+ <stREaKer> lemme see
+ <tuhin> use update-manager
+ offically realesed now?
+ OK!
+ downoloading torrent
+ Cannot join #ubuntu+1 (Channel is invite only).
+ 61 percent!
+ Khr0n0s whats the problem guys?
+ saml whats the problem?
+ Khr0n0s refer to this to find about your video card b
+ Khr0n0s refer to this to find about your video card http://www.cyberciti.biz/faq/linux-tell-which-graphics-vga-card-installed/
+ Khr0n0s what does the prblem say?
+ <evdvelde> http://fossplanet.com/f10/%5Bbug-700292%5D-%5Bnew%5D-bluetooth-keybord-after-natty-upgrade-not-working-92191/index2.html
+ <Khr0n0s> what is the graphic card memory?
+ <euclid> yes
+ <Khr0n0s> must be some bug.. lemme see
+ <evdvelde> try to post it in the ubuntu fourms
+ <OfficiallyPC>  Install WinFF from Ubuntu Software Center
+ <victorhugo289> to upgrade use alternate CD to make a fresh install use desktop one
+ saml refer to http://www.streamreader.org/askubuntu/questions/34572/how-can-i-reduce-or-increase-the-number-of-workspaces-in-unity
+ saml No problem!
+ kl_ you using ubuntu 11.04
+ ok
+ Ruuuumb0 yes
+ kl_ can you further explain?
+ why does ubuntu.com has a dell laptop that hides all the text?
+ kl_ yes
+ why does ubuntu.com has a dell laptop that hides all the text?
+ 19 minutes letf!
+ 19 minutes left!
+ Pici I recommend a fresh install
+ http://paste.ubuntu.com/600285/
+ 3 minutes remaining
+ <zetheroo> can you explain the problem a little bit more?
+ <niels1> explain a liitle bit more
+ <jdahm> there is no 11.04 LTS
+ <jdahm> 11.10 will be LTS
+ ok
+ wish me best of luck
+ wish me best of luck! PLease!!
+ wish me best of luck in install 11.04!
+ <ActionParsnip> thanks
+ Is the CD bug fixed??
+ hi everybody again!
+ UNITY ROCKS!
+ <other_max> If you think it sucks that try to make your own shell, you will realize how difficult it is , so better respect the work done by devels
+ at last installed 11.04 it rocks!
+ <Sal9000> your GPU is not is not enough for unity
+ goood
+ <Shaggy2> Grub Rescue Mode?
+  hey Shaggy2 Grub Rescue Mode?
+ <Shaggy2> In the login screen , Cose your user, and where "ubuntu" is written , click on it and chose "recovery mode" or something like that .....
+ anybody with any problem???
+ <webtrickster> on which ubuntu version?
+ <webtrickster> to write to me first write my name (vibhav) and then press enter
+ <Marsha||[a]> Yes?
+ <Shaggy2> type startx
+ mansoor> Yes?
+ mansoor  Yes?
+ <michaels> there is a seperate Mac version
+ <michaels> Your have an Intel MAc?
+ <michaels> Your have an Intel Mac?
+ ok
+ <michaels> Let me tell you the link
+ <michaels> Yes, there is even a PS3 and a Power PC version
+ <bazhang> yes
+ <michaels> ill just tell you the link
+ <michaels> http://cdimage.ubuntu.com/releases/natty/release/ubuntu-11.04-dvd-i386.iso for the 32 bit MAc
+ <michaels> then use this guide... https://help.ubuntu.com/community/MacBook
+ <michaels> Ohhh....
+ <michaels> did you rty it then?
+ sarge : serge rp-filter uses the routing table to decide which source addresses are accepted through an interface. Packets will be accepted not only if they originate from the connected network, but also if they originate from a network that (according to the routing table) is connected via that network.
+ <sarge> I am not so experienced with ubuntu server ... can you post it in the ubuntu fourms ...
+ <sarge> Good Luck
+ I love Unity...
+ <sect114> this is a Internet prob....the servers must be overloaded...try another server
+ <sect114> But I recommend a fresh install
+ <sect114> DVD - i f you want all languages preinstalled,  cd - if you want English.
+ <htheman> yes?
+ <sect114>  No problem!
+ <mtlife>  Try running this command:
+ unity --reset
+ Also, make sure you have the compiz-gnome package installed. This package contains unity-window-decorator. Run this command to ensure that compiz-gnome is installed:
+ sudo apt-get install compiz-gnome
+ <mtlife>  http://paste.ubuntu.com/600766/
+ <mtlife>  http://paste.ubuntu.com/600766/
+ <AceKing> KDM
+ <AceKing> No problem!
+ <mtlife> Thats good
+ <mtlife>  :D
+ <mtlife>  No problem!
+ <mtlife>  No problem!
+ <maximm> try unity --reset
+ <maximm>  http://paste.ubuntu.com/600766/
+ <heedlu> maximize the windows....
+ <heedlu> lemme seee.....
+ <heedlu> refer to http://ubuntuguide.net/how-to-change-unity-sidebar-launcher-auto-hide-behaviour-in-ubuntu-11-04
+ <heedlu> refer to http://ubuntuguide.net/how-to-change-unity-sidebar-launcher-auto-hide-behaviour-in-ubuntu-11-04
+ <heedlu> anything happened?
+ heedlu : No problem!
+ <trirnoth> when a new release is out..I recommend a  clean install
+ any more questions?
+ <trirnoth> Ya right.But a fresh install is better than an upgrade...
+ <tdn> in the network settings you have chosen Automatic or manual?
+ anybody with any problem???
+ <NyvenZA> Yeah
+ <Mehrab_> Me
+ <NyvenZA> and?
+ <NyvenZA>  then?
+ <NyvenZA>  Screen Resolution?
+ <NyvenZA> does it work with one monitor?
+ <Mehrab_> which package you want to install
+ <NyvenZA> what is your screen resolution?
+ <NyvenZA> try unity --reset
+ <NyvenZA> try it with one monitor....
+ <Mehrab_> I was AFK for some time
+ <dd214> right click on terminal and click on "OPen Terminal"
+ <Mehrab_> I gtg sorry!
+ anybody with any problem?
+ <elxordi> Yeah
+ <evilsushi> Yes
+ <elxordi> Whats your problem??
+ <elxordi> lemme see
+ <elxordi> http://paste.ubuntu.com/600825/
+ whats your problem chadi?
+ <dennda> WATCH YOUR LANGUAGE!
+ <elxordi> Ok
+ <elxordi> Leave it as it is.....As i know the graphic capabilities of my card.
+ <evilsushi> I recommend a fresh install
+ <elxordi> ohh.
+ <evilsushi> A liitle prob in the upgrade can screw the whole system
+ Hi Pici
+ <evilsushi> no
+ Hi Pici
+ <incog> Do it! and send me the string
+ do it incog
+ any body with a problem??
+ <gmitrev>  refer to http://www.ubuntugeek.com/how-to-fix-network-manager-applet-missing-from-notification-area-in-ubuntu-10-04.html
+ <cablop> "Wifi Radar" in Ubuntu Software Center
+ <cablop> GL
+ <spungo> on cd and dvd iso
+ <cablop> tried?
+ <areay> your graphic card must not be supporting it, but you can install its 2d version.
+ <areay> what does your error say?
+ <areay> post me a screenshot of that....
+ <areay> try "unity --reset"
+ any problems anyone?
+ <abhishek> I ca nhelp
+ <abhishek> I can help
+ <abhishek> Yes iam there
+ abhishek you want to upgrade to 11.04 or 10.10?
+ <remlabm> there is no 11.04 netbook english
+ any prob anybody?
+ any problem anybody?
+ any problem anybody?
+ <TheHackOps> Yes?
+ oh yes <TheHackOps>
+ TheHackOps , you can PM me
+ <DW-10297> there is no ubuntu netbook edition
+ Yes
+ vish Yes
+ <XceptN> lemme tell you
+ <XceptN> when you use the application right click the icon-> keep in luancher
+ <NyvenZA> sudo apt-get install unity-2d
+ <truepurple> Tehre are open source drivers
+ <arkanabar> Alt F2 --> "update-manager -d"
+ <arkanabar> at the top click on "upgrade"
+ <bazhang> whats corrent then...
+ <bazhang> ohhh...I remember....Thats for pre-release...
+ bazahng : - Sorry guys!
+ <truepurple> Lemme see
+ truepurple : - http://paste.ubuntu.com/601146/
+ truepurple : - Gl
+ truepurple  :- I gtg
+ anyody with any problem??
+ bazhang I have refiened all me facts.. So i am ready to help!
+ <plustax> Yes
+ <Vustom> Deluge
+ <plustax> What is the problem?
+ <plustax> What is the problem?
+ <plustax> send me some screen shots of it
+ <plustax> send me some screen shots of it
+ kssxs Yes sir?
+ <aaron_wayne> its not preinstalled
+ !vibhav | screenshots
+ !vibhav | flood
+ plustax has quit (Quit: Leaving)
+ * immysl has quit (Quit: Leaving.)
+ <skurakai> no one have same problem with booting?
+ <usalabs> also, when grub starts, my monitor shows frequency out of range, how do I fix it?
+ * philipballew (~philip@solidwall.pointloma.edu) has joined #ubuntu
+ <ZykoticK9> Byan, i'm done.  Good luck.
+ <quentusrex> I recommend using VirtualBox
+ !flood | vibhav
+ !language | vibhav
+ !about | vibhav
+ !cowsay | vibhav
+ <truepurple> you used my method?
+ <truepurple> lemme see
+ <truepurple> http://paste.ubuntu.com/601165/
+ <truepurple> they are instructions for Installing proprietary ATI or NVIDIA video drivers for Ubuntu
+ <trihope> Whats the problem?
+ <Vustom> displays an security error right?
+ <Vustom> displays a security error right?
+ <truepurple> ya
+ <haroon> No support for applets in 11.04
+ <haroon> But you can use gdesklets
+ I have a problem .. where is the ire effect availble in compiz?
+ I have a problem .. where is the fire effect availble in compiz?
+ no but there is no fire effect only watter effect in compiz Jordan_U
+ <Jordan_U> installling that package...
+ <Jordan_U> Installed that package , where do i get the fire??
+ <Jordan_U> Installed that package , where do i get the fire??
+ <Jordan_U> Installed that package (compiz-plugins-extra) , where do i get the fire??
+ ok
+ Jordan_U then tell me how?
+ <sudipta> lemme see
+ <sudipta> believe Unity requires 3D graphics. So if there is an open driver that can do that, you don't require proprietary drivers.
+ <sudipta> http://paste.ubuntu.com/601200/
+ <h-dee> Can you tell me the card specs?
+ <h-dee> Or if unity 3d does not work then you can install unity 2d
+ <resc_user_2649> The grub fix CD?
+ <h-dee> wait
+ <h-dee> Minimum
+
+ 1.66 GHz
+
+ 32 bits
+
+ h-dee unity will work
+ <sudipta> oh no
+ h-dee Welcome!
+ <h-dee> lemme see
+ <h-dee> if you install gnome 3 it will break your unity
+ lol
+ <Incarus6> NO
+ h-dee Welcome!
+ <stefg> but neither it is offtopic
+ <klrbees> According to me , yes
+ <iiprotocolii> Yes?
+ <iiprotocolii> whats the issue?
+ iiprotocolii> try  sudo apt-get install build-essentials
+ <lgp171188> https://bugs.launchpad.net/ubuntu/+source/gnome-nettool/+bug/663014
+ <iiprotocolii> try to use an IDE
+ <lgp171188> you are welcome
+ <lgp171188> you are welcome
+ !ubottu
+ !hi
+ !Doisuck?
+ Ok
+ sorry!
+ whats the problem dury
+ whats the problem dury? Maybe I can help...
+ <jiltdil> what is his problem?
+ <raluxgaza> Broadcom wireless?
+ <raluxgaza> I know about that , just wait
+ <raluxgaza> http://paste.ubuntu.com/601741/ try this
+ <raluxgaza> Good luck!
+ <raluxgaza> does it work?
+ <raluxgaza> when you install them restart
+ <raluxgaza> does it work?
+ <raluxgaza> ok
+ <raluxgaza> OK
+ <raluxgaza> No problem!
+ Next problem?
+ <eags_> "unity --reset"
+ <eags_> reset settings
+ <eags_> Indicator applet error
+ <minsik_> uninstall ndlswrapper
+ <eags_> I recommend unity --reset
+ <amalgama> please describe the problem more
+ <amalgama> maybe i can help you
+ <amalgama> try sudo apt-get install foobnix
+ <amalgama> did you try sudo apt-get update?
+ <jheyes> I recommend a fresh install
+ <jheyes> It did not work well with me
+ <jheyes> A fresh install is better
+ <jheyes> yes
+ <jheyes> A fresh install has less chances of failure
+ <KM0201> A fresh install always gives you that "new computer feeling"
+ !flood
+  pennnn you want to use gnome 2 in ubuntu 11.04?
+  pennnn you want to use gnome 2 in ubuntu 11.04
+  pennnn yes?
+  pennnn in the login session chose Ubuntu Classic where Ubuntu is written
+ pennnn I am too angry
+ pennnn perhaps you could install it
+ pennnn might be
+ pennnn I hope that doesnt happen
+ pennnn I use gnome 3
+ You are welcome rob_p do you have any problem?
+ <Jessica175> I use Virtual Box , its better than VMWare
+ <rob_p> Then thin kbaby think!
+ <Jessica175>  Cause VirtualBox is just better
+ <Jessica175> Yeah ! Ubuntu is for Open Source
+ <r0hit> I dont think so
+ r0hit = lol
+ <Jessica175> http://www.google.com/url?sa=t&source=web&cd=2&ved=0CCkQtwIwAQ&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZuyPJFhVTxQ&rct=j&q=netflix%20ubuntu&ei=ZwnATcawEtHOrQfioYXfAw&usg=AFQjCNEXXf95bUghXyffYFe2TPJHDPz-Fg&cad=rja
+ <Jessica175> http://www.youtube.com/watch?v=ZuyPJFhVTxQ
+ <Jessica175> No prob!
+ <roasted> Can you explain more please?
+ <roasted> Nice Hardware = 3d or 2d
+ I am having a problem , anybody willing to help?
+ I am having a problem , anybody willing to help?
+ <celthunder> I cant access gnome 3 from gnome 3
+ <celthunder> I cant access ubuntu one from gnome 3

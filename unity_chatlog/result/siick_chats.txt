@@ -1,0 +1,3 @@
+ hello, i just did change a /etc/default/grub to a wrong fb, now screen stays black after boot, is there any way to edit /etc/default/grub from grub's commandline at bootup?
+ fn'Chuchulain, i got a live cd somewhere, wanted to somehow avoid it and try via grub commandline ;(
+ can i just boot up a livecd and edit/update grub?

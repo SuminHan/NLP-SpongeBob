@@ -1,0 +1,41 @@
+ hi everyone
+ history
+ hi masak
+ use cpan command to add modules
+ check it out on google
+ masak well I had to use it once only
+ hmm
+ masak: have u googled it?
+ and which ubuntu ur having
+ well perl was already there
+ try cpan only
+ hmm havent tried that
+ are u behind proxy or direct connection
+ masak: wait le me google it again
+ hi sipior, well masak, maybe he has got a point
+ masak: good luck with that
+ and btw masak: are u using root user
+ masak: welcome
+ y not use su
+ nope
+ no action: y not try from terminal
+ hmm gr8
+ Action: you can go to terminal issue a sudo passwd  it will ask auth. pass of 1st user created while installing and then new root password
+ Action try it
+ thanks guys
+ I accept... thank you will keep in mind
+ will follow now on
+ I just hate to type sudo each n every time
+ thanks zzecool:
+ BRB
+ Hi Every1
+ how is 11.04?
+ performance wise?
+ any experience with mrtg??
+ Hi Action: can I put .exe in folder and share it on samba and run in ubuntu's mem. space?
+ I have done 1st part and not sure about 2nd running in ubuntu mem space
+ I want to recompile squid for MAC support
+ hi
+ performance improverment via Swap space??
+ Hello all
+ bye

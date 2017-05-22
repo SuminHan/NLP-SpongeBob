@@ -1,0 +1,1 @@
+  /msg nickserv register dzadze_23 dzadze.david@gmail.com

@@ -1,0 +1,4 @@
+ isn't 11.04 supposed to have unity? i installed it but it just loads gnome...
+ graingert: oh i might have forgotten to enable 3d in the virtualbox vm
+ oh, there it is :)
+ oh dear this unity surely is a change... ill try to use it a few days and see if i can survive :P

@@ -1,0 +1,7 @@
+ hi is anyone familiar with where firefox 4 youtube temp files are saved to?
+ in older versions there was a flv temp file generated for each video you watched in /tmp - can not find that anymore
+ VCoolio: thx i pretty much think that will help :)
+ how do i uninstall gnome3 and reinstall unity or at least gnome2 on ubuntu 11.04?
+ how do i revert back to unity after installing gnome3?
+ i do not want to fresh install -.-
+ there must be a different solution

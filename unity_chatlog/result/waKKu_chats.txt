@@ -1,0 +1,6 @@
+ hi folks..
+ helps to debug this problem: http://pastebin.com/Pw3qd8SV ? ...
+ how can i see where the script is failing ?
+ hi folks.. quick help, which package contains "runlevel" binary?
+ dpkg -S /sbin/runlevel
+ hi folks.. quick help, which package contains "runlevel" binary? dpkg -S `which runlevel`

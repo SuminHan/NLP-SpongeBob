@@ -1,0 +1,2 @@
+ can anyone to tell me how to do when i resume my pc from lock screen or screen saver to ask me for password ?
+ hwo to do to ask for password after lock screen ?

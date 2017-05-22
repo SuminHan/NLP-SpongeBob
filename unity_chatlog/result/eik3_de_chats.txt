@@ -1,0 +1,1 @@
+ I'm using the chromium-daily PPA and since the latest update (13.0.752.0) chromium can't connect to SSL sites with self-signed certificates anymore. When I click "proceed anyway" nothing happens. Any clues?

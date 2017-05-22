@@ -1,0 +1,1 @@
+ hey guys, is there any way to remove/hide a program from the natty side-launcher?  i don't exactly need background stuff like mail-notifier showing up there

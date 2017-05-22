@@ -1,0 +1,53 @@
+ hi quick question - is it common practice to encrypt the home directory? it that what most users do?
+ is there a logitech mouse driver? i can't find a setting to control the mouse scroll wheel speed
+ cold boot = power computer off
+ user10213: ubuntu install walks you through partitioning
+ ray24: yes, ntfs or fat are windows filesystems that linux can read
+ im liking Unity..it has its quirks though
+ i love that top left application button though...i use something like that all the time in mac os x
+ works kind of like spotlight
+ donkeyinspace: #ubuntu-dev i believe
+ Paolo_CT: did you reinstall libreoffice?
+ Paolo_CT: unity is rather buggy i'm finding
+ Paolo_CT:  check under shortcuts in the control center
+ Paolo_CT: I found that upgrading causes more bugs. When i do a new install, it was much more better
+ Paolo_CT: If you plan on going back, you might as well try a fresh install of 11.04 first
+ i take offense :p
+ andygraybeal: it has something to do with your video card
+ andygraybeal: i mean, it will revert to classic if it has problems with using your 3d card
+ I had no problem with unity using the cd
+ and i have nvidia
+ andygraybeal_: i'd say pretty new..like within 2 years
+ andygraybeal_: what kind of setup do you have? what card?
+ yes
+ andygraybeal_: hmm...ya try an install, maybe an update has fixes the problem
+ good luck
+ zenocon: I usually do that with major upgrades too
+ ya thats pretty slick laptop
+ so thin
+ SSD is uber
+ wish I had ssd in all my machines
+ zenocon: i thinkn it's just called launcher?
+ and you can change that behavior
+ and if you install the compiz manager, you can make the launcher do all sorts of flashy things like giggle or flash.
+ the only weird issue i had was using it with google chrome..sometimes it doesn't register that i have it open
+ i think there's a broken record
+ bigeye: not sure what you mean, but have you tried alt-tab?
+ bigeye: oh you mean it's minimized?
+ bigeye: oh. i'm not sure. im not using 11.04 at this time
+ anthonyl: nvidia RIVA or Vanta?
+ I'm guessing it's an nvidia Riva TNT
+ Paolo_CT: good to hear!
+ Paolo_CT: Hmm..I havent tried that..i'm not on ubuntu right now
+ what sort of advance features are you looking for
+ dagon: install ccsm
+ can't you access the features?
+ is it a full moon in here tonight?
+ I like the launchbar thing actually, neon___
+ a lot of people love unity
+ i guess the live cd couldnt detect it hey?
+ Bpentest: I am
+ not really my main actually, just not VMing
+ Bpentest: I don't have any major issues, no, but then again, I did a fresh install, not an inplace upgrade
+ webmail is best email client
+ :p

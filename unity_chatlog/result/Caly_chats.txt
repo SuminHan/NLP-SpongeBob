@@ -1,0 +1,59 @@
+ hi folks
+ i updated to 11.04 today, and it totally  fucked up my system, no it won't even boot from CD =/
+ daniel__: seems i'm not talone then...
+ daniel__: i'm using Trisquel on another computer...
+ daniel__: that's not all i lost, i cant even boot up
+ i do get the ubuntu boot screen for a ew seconds when i turn it of... =(
+ i just get a bunch of test / terminal boot sequence stuff
+ and i fet a fail message from "*Stopping automatic crash report generation
+ ehrmm... is 11.04 a really fubar update?
+ karth: huh, what?
+ karth: so what do i do about it?
+ karth: yeah.. i wasn't goint to update before i moved stuff to mu NAS, but then last morning i got a big fat popup suggestin i do, so i did anywaas... quite a mean suggestion
+ ohsix: good going.
+ ohsix: i meant telling rgr to stop with that ignorant shit
+ hehe
+ good evening chybbt
+ *chubby
+ is there some way i can fore a safe start something, and reverse this fubar upgrade?
+ *force
+ Karen_m: i'd say hell yeah
+ ActionParsnip: need a promp first...
+ Karen_m: ah, yrah, do that, wait a while, seems there is just a bunch of shit hitting folks that upgrades...
+ ActionParsnip: how do i boot to root recovery mode?
+ Karen_m: he also had a problem
+ as did i, as did daniel
+ klunky999: furmat c:
+ halps with windws issues
+ hehe
+ ActionParsnip: how do i boot to root recovery mode?
+ ActionParsnip: ok, so i choose root - Drop to root shell prompt?
+ ActionParsnip: or netroot (...with networking"
+ tully-: uptadating to 11.04 seems to be why this chan is now super active... many get tehir sysstem fucked up by it..
+ tully-: a popup askes yo "do you want to update to the latest version bla bla.. "   one press "OK" and that is wron?
+ *wrong
+ ActionParsnip: well, i wasnt looking to fix my wifi, i was looking to reverse the 11.04 upgrade that fucked up my boot, i don't get to GUI..
+ dark-matter: welcome to my world...
+ same here
+ what?
+ i'm here on my other computer running Trisquel to get help with that same problem
+ dark-matter: not so far
+ dark-matter: yo, i got a half-solution at least...
+ dark-matter: hold shift at boot, choos earlier linux version
+ dark-matter: now it boots to GUI at least...
+ dark-matter: did you get the seme popup as me then? GConf error: Failed to contact configuratio server...
+ ok
+ dark-matter: mkay, you said failsafe? i choose to "boot woth earlier linux version"
+  *with
+ mkay, didn't work for me at all dark-matter
+ dark-matter: well,. i'm up and runnung now, but i gotta get my head around this "gconf error" shit
+ christhecoolboy: welcome to the club
+ dark-matter: getting anywhere?
+ dark-matter: ah, nice. i pretty much puked at the new GUI though, i'm moving stuff to my NAS, while downloading Debian insted
+ dark-matter: me too, but this fuwgly fkn new interface just med me decide to go all free finally.
+ dark-matter: and Debian feels a bit like a safer card than Trisquel yet.
+ dark-matter: yeah, well, as long as i get a desktop that does not look like i'm on a samrtphone instead of a computer, i'm good
+ dark-matter: i hae no regrets about that
+ ^^
+ dark-matter: and that would be why Ubuntu came to suck balls imo
+ dark-matter: there... burning Debian 6

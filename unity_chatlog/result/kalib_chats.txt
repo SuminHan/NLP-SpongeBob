@@ -1,0 +1,7 @@
+ hi people. I was trying to run: # aptitude install flashplugin-nonfree..
+ but got an error exit status 139
+ how can I fix it?
+ got the same error when trying # aptitude safe-upgrade
+ smw, ubottu http://pastebin.com/DdUhUx7K
+ smw, any idea?
+ http://pastebin.com/DdUhUx7K

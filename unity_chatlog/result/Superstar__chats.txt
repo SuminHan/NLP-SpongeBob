@@ -1,0 +1,3 @@
+ Does Ubuntu 11.04 support biometrics?
+ How do I generate a apache password file in Ubuntu?
+ How do I make the command line ssh send keep alive packets? I keep getting disconnected

@@ -1,0 +1,26 @@
+ Did anybody manage to get natty installed on a macbook pro 13"? When upgrading it left me with a kernel panic. Would like to know if clean reinstallation would work
+ jw_: i have seen this and am not aware of a fix (havn't looked either tho)
+ jw_: if you do find a fix, let me know ;)
+ When you hit super in unity, it gives you these nice numbers for the apps. That doesn work for Chromium. Is there a fix? Also, how is that number-feature called?
+ ActionParsnip: just did the very same thing
+ ActionParsnip: ok i had to restart chromium
+ ActionParsnip: kind of, yes
+ When you press meta in unity, it brings up this search dialogue. How do you map that to another key combination?
+ The default behavior annoys me to no end
+ ActionParsnip: altho that feature is kind of buggy i have the feeling
+ Is it me or does unity totally fuck up with gvim?
+ vibhav: STOP SCREAMING!
+ Also there is some considerable lag in unity, e.g. in vim and terminal starts behaving laggish as well
+ but in vim it is not at all funny
+ Pici: Yes, the thing is I want to use unity
+ To get familiar with it
+ Where do you deactivate the effect that you get if you press Meta+W?
+ edbian: Yes, i have that, but i have no idea what the effect is called
+ Where do you deactivate the effect that you get if you press Meta+W? It shows all the open windows
+ What in gods name happened here? http://the-space-station.com/~dennda/tmp/unity_screwed.png
+ I just did an update; Now my system is totally screwed and unusable. I still get the unity dock but everything is acting very very weird
+ KM0201: yeah i am not talking about that. but why am i having that weird gtk theme and all those weird framebuffer issues e.g. when i switch to another viewport
+ this unity thing doesnt exactly seem to be stable
+ http://the-space-station.com/~dennda/tmp/error.png -- ideas?
+ Omega: not anymore, but not too old
+ Any idea why my internet connection is SO slow under ubuntu on my macbook pro? Under OSX is fast, and for another computer it is also fast. Both wifi and wired connections are affected

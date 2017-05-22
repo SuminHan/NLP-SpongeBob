@@ -1,0 +1,2 @@
+ Multiple monitors in Unity: How can i get the launcher to appear on both monitors?
+ Hi there, anyone know how to configure an Nvidia graphics card to display the Unity Launcher on multiple displays?

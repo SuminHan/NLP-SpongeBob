@@ -1,0 +1,4 @@
+ Does anyone have a fix for the crappy VNC over 11.04?
+ Anyone know why VNC is unusable in 11.04?  It worked fine for me in 10.04
+ UndiFineD: so if they have been able to make the pixel changes always fit the TCP frame, why is it never refreshing as I move my mouse over the frame?
+ Anyone know why VNC is unusable in 11.04?  It worked fine for me in 10.04

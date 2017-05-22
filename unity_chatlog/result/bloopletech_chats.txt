@@ -1,0 +1,64 @@
+ Think of the release date more as a guide than a statement of actual temporal certainty
+ sancas: ~/.config/banshee-1/banshee.db
+ sancas: that's an sqlite3 database that you can use if you're so inclined
+ sancas: I believe so
+ sancas: assuming you're on the samish version of banshee
+ tripelb: you can configure how fonts look on your current system (and I assume on unity)
+ tripelb: System -> Preferences -> Appearance, then the Fonts tab. If you're using an LCD then turn Subpixel rendering on and then tweak it by clicking Details...
+ sancas: I'm not sure, it might store absolute paths in the database
+ tripelb: you're going to have to be a lot more specific than it's 'better on windows'
+ oh, than turn subpixel off
+ try grayscale
+ tripelb: what
+ tripelb: I meant grayscale font smoothing
+ not grayscale display
+ because subpixel rendering is designed for lcd's so it won't work very well on crt
+ tripelb: WRT your other questions, the easiest way to partition your drives is probably to burn a livecd, boot into that and use gparted to divide your drive in half - though you may want swap partitions for each installation
+ uncmar: on an lcd, each pixel is mad eup of three lights: a red a green and a blue one
+ subpixel rendering means controlling the individual lights to achieve a better result
+ uncmar: well no
+ uncmar: crts work by projecting beams through a phosphor coating at the screen
+ tripelb: regarding accessing your other hard drive: if you go Places -> Computer your other drive sohuld be there and you should be able to double click it to access the files on that drive
+ sancas: open a terminal and do killall -9 banshee - that will forcibly terminate banshee
+ revButl: you can just make a main partition and a swap partition - it's not really special how you configure it and it won't change your entertainment potential
+ also, you can resize and add partitions later if you want
+ it's not 2000 anymore :D
+ sancas: np
+ viranch: sometime in the next 24hours probablky
+ viranch: no
+ viranch: I think they leave it flexible in case there are last minute issues
+ viranch: you can join #ubuntu-release-party if you like and await 11.04
+ induz: Start -> System -> Administration -> Task Manager
+ then click the cpu column to sort desecending
+ also try clicking the memory column and sort decending to see if something's taking up all your ram
+ viranch: np
+ induz: something is chewing your ram
+ induz: try sorting by memory usage descending
+ tripelb: ah I see. To deal with the permissions issue you may be able to run gksudo nautilus and copy the files in that window
+ tripelb: I'm not sure why you can't see the partition from the other installation
+ syddraf: uname -a
+ induz: Go to the task manager, sort by memory usage descending then click the top item and click kill process
+ tripelb: np
+ induz: repeat until success
+ syddraf: you're 32-bit
+ syddraf: np
+ induz: only if a program is doing something wrong and using memory badly
+ induz: not usually
+ jstrap: what's wrong with the video at the moment? is the resolution too low or...
+ jstrap: try going to System -> Preferences -> Monitors
+ jstrap: see if it will let you increase the resolution
+ induz: true, it is a bit risky
+ induz: I mean if you're not sure, rebooting should sort it out
+ jstrap: you have an nvidia chipset?
+ jstrap: If so, then I believe you have two options: the driver that nvidia supplies, and a new open-source driver built by the community
+ jstrap: I'd suggest maybe trying both if you're not sure - I don't have nvidia so I can't recommend which one
+ let me link you
+ jstrap: yeah np. DO you know what version of ubuntu you have installed?
+ jstrap: ok, you have a couple options. You can upgrade your ubuntu to a later version (which is different to installing the updates); this is probably a good idea anyway as 9.04 is a few years old now
+ either way you can switch to the nvidia supplied drivers if you like - here is a howto https://help.ubuntu.com/community/BinaryDriverHowto/Nvidia
+ jstrap: the current Long Term Support release of ubuntu is 10.04 lucid, and the latest version is 10.10 maverick
+ jstrap: although 11.04 natty is coming out in the next day or so ;)
+ jstrap: ok -though you can upgrade ubuntu over the internet if you want
+ jstrap: assuming you have a decent internet connection
+ Think of the release date more as a guide than a statement of actual temporal certainty
+ cordoval_: click both buttons at once

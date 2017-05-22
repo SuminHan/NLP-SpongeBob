@@ -1,0 +1,2 @@
+ Hi,I am going to format my pc soon.My ubuntu is Up to date.can I save the file so that I can avoid downloading the update files again ??
+ ya .But i dont want all the installed softwares also to be copied.only the updates

@@ -1,0 +1,1 @@
+ do we know how quickly a fix will be found for the nVidia issue: addiitonal drivers / the driver is activated but not currently in use ... ?  thx

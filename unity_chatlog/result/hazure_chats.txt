@@ -1,0 +1,2 @@
+ I'm encountering a problem where many applications just show a white screen when started (after logging in for a bit). They seem responsive, but just white. Ditto with the lockscreen (full screen goes white, but the password can be put in).
+ Anyone know of a rendering issue with unity showing only white screens for gnome apps?

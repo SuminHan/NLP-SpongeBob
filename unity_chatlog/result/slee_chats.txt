@@ -1,0 +1,2 @@
+ hey,  I used  sudo checkinstall..  and whenever I use apt-get , I get WARNING: The following packages cannot be authenticated!
+ is there a fix?

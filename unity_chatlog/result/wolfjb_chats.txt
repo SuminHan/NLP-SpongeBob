@@ -1,0 +1,1 @@
+ I'm getting a segfault when installing nspluginwrapper on natty amd64. is there a way around this? flashplugin_installer won't install until nspluginwrapper is completely installed

@@ -1,0 +1,2 @@
+ after Kubuntu 11.04 install, I automatically log into classic mode, how I can change this?
+ tanx sebsebseb, i gonna try

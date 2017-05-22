@@ -1,0 +1,5 @@
+ how can i disable visual effect under 11.04? the tab visual effect isnt there anymore.
+ cale: yes it changed.
+ theres just Theme,Background and Font
+ how can i disable visual effect under 11.04? the tab visual effect isnt there anymore.
+ will try that

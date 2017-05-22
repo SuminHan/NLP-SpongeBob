@@ -1,0 +1,12 @@
+ hi guys. i'd like to ask you a question: will that swappiness trick still work on ubuntu 11.04? i've got 4gb ram and i'm considering making it swappiness=0. will that improve my OS responsiveness? oh, a 'free -m' tell me none of my 250mb swap is being used, by the way...
+ andeeeuk_, i guess u'll have to have gimp 2.7 beta
+ Halzen, given 'free -m' tells me none of my 250mb swap is being used at the moment, do you think making swappiness=0 may improve my OS responsiveness/overall speed??
+ andeeeuk_, i'm not sure where you can get it, sorry.... maybe a PPA...
+ ShockDoc, i think i do... try editing /etc/default/grub and remove quiet and splash from this line: GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
+ ShockDoc, did you try running: update-grub
+ ShockDoc, someone here just said you could maybe try 'text' here: GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
+ make it: GRUB_CMDLINE_LINUX_DEFAULT="text"
+ ShockDoc,
+ ShockDoc, there's another thing you can try... i don't know if this would apply to ubuntu anymore but i would try finding out  how to switch the runlevel
+ ShockDoc, run this command and reat its output: man /etc/default/grub
+ ShockDoc, the splash screen is probably hard coded into the kernel.. if i were you i would try both googling and reading 'man /etc/default/grub'

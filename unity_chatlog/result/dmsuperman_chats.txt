@@ -1,0 +1,2 @@
+ What's the easiest way to tell apt to pull a package not from a specific repo?
+ ie ignore packge-name in repo-name

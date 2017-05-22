@@ -1,0 +1,2 @@
+ anyone upgraded their bios recently?
+ why is the emacs-snapshot package more out of date than the emacs package?

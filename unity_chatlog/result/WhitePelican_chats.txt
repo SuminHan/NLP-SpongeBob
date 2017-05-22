@@ -1,0 +1,31 @@
+ hello all, I need help with Medibuntu for natty
+ my webcam doesn't work with Skype but works with cheese, I'm running natty. any ideas?
+ it works with Cheese
+ I close cheese and try the skype test
+ yes gnea
+ i get no error, I just don't see anyhing on the test
+ yes I expect it to auto-detect the camera
+ medibuntu
+ actually, check that
+ it was in the repoitory
+ so I guess it was from medibuntu
+ lcb, it works fine in cheese
+ no issues
+ I ran reconfigure as suggested and nothing happened. what next?
+ Gnea, I remembered there were a couple of libraries I had to reference prior, now it works. but now i have no system tray and it doesn't remember my password
+ lcb, yes
+ no, I remembered I had a script that referenced a couple of v4l liraries and then it runs skype
+ but now, no sytem tray icon, and it forgets my password, lcb
+ lcb, from medibuntu or the skype webite?
+ website*
+ hmmm
+ it did but then I kiled it from the command line
+ also, why no system tray icon?
+ I'm looking and it' not there
+ I'll try
+ I did a ps ax and there is only one instance of Skype
+ sorry lcb
+ xubuntu, lcb
+ ah
+ possible
+ ty lcb and goodnight

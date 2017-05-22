@@ -1,0 +1,10 @@
+ hello
+ I tried to install Ubuntu with ubuntu CD on a latest computer system
+ However, It shows some error message, DVI-D recognition error, and then stopped installing.
+ my graphic card is "ATI Radeon 5750" series. How can I solve this problem?
+ By the way, I've been trying to upgrade my ubuntu box from 10.10 to 11.04.
+ It still have problem during the job. What's the matter there?
+ The error message was " package downloading time is expired" .
+ Is there any specific trouble in there, ubuntu mirrors?
+ Hello? is there anyone who can support me with the install problem on the newest computer?
+ DVI-D recognition trouble during the first step of installing.

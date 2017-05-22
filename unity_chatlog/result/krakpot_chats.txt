@@ -1,0 +1,12 @@
+ hi, i'm having an odd issue, just upgraded ubuntu server from 10.10 -> 11.04, and after the loading screen I just see blinking cursor.  I have to press ALT+F1 or ALT+F2 to get my login screen... anyone else see this?
+ hi, i'm having an odd issue, just upgraded ubuntu server from 10.10 -> 11.04, and after the loading screen I just see blinking cursor.  I have to press ALT+F1 or ALT+F2 to get my login screen... anyone else see this?
+ celthunder: not sure what GDM is, how can I check?
+ celthunder: telinit 3 works, but statx is not installed I need to install xinit
+ celthunder: ... installing xinit
+ celthunder: ok I installed xinit and when I type startx I get a GUI.  My issue still remain, when the Server starts up, I see the 11.04 loading screen and then just a blinking cursor.  I have to hit ALT+F! just to see the login prompt, then once I log in I can do the startx
+ celthunder: ok I will give that a shot, thanks, never knew login managers existed.  i am such a n00b
+ celthunder: well the thing is I don't want to start xserver, I am happy with CLI its my webserver.  I just want to see the loging prompt without having to press ALT+F1 this worked in 10.10
+ celthunder: not sure how to 'add a 3 in grub'
+ celthunder: trying to do that now, hopefully this will work
+ celthunder: no luck. there is no file '/etc/event.d/rc-default' so I can't follow those instructions...
+ celthunder: ok I will give it a shot

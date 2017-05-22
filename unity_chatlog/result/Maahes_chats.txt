@@ -1,0 +1,43 @@
+ how do you set the terminal bell? I'm using zsh and urxvt, and I can't remember how to set this variable. echo -e -n "\a" produces no output
+ isn't vlc the only free media player with hardware accel
+ thegoodcushion: neither of those things is really a true statement.
+ its very particular to your hardware/software environment
+ PythonPup: I wouldn't be the one to know, since I asked if vlc was the only one.
+ thegoodcushion: 10.04 has gnome.
+ 11.04 also has gnome
+ how do you set the terminal bell? I'm using zsh and urxvt, and I can't remember how to set this variable. echo -e -n "\a" produces no output
+ Jordan_U: ....that's fricken evil
+ Jordan_U: other than getting the source and applying that patch is there any other way to change this? i.e. ppa?
+ Jordan_U: or actually, is there a way to get the bell to load a system sound to ubuntu?
+ carandraug: you might try #git, since git has plugins for all those repository types.
+ pooltable: /join #linuxmint-help
+ carandraug: um, an IDE might do it, possibly eclipse or emacs...actually almost certainly emacs.
+ if you like that OS.
+ carandraug: probably not, gedit has a fairly limited plugin selection. Especially compared to Eclipse/Vim/Emacs
+ is there a way to get the bell (as a terminal environment, I am not using gnome-terminal) to load a system sound to ubuntu?
+ I'm having a problem with otf fonts, they all come out as boxes, what package do I need to fix this?
+ zzecool: yes, and I had these fonts working previously
+ and the fonts are in normal roman characters
+ small help with ln -s is it: ln -s directory/somewhere/else /directory/i/want or the opposite?
+ jerriy: compiz has something equivalent
+ Incarus6: I know, but its not english to me, I can't make sense of which corresponds to the example I provided above
+ Ok what I'm trying to do is this: /directory/on/different/drive ~/Directory what I'm getting is ~/Directory/Directory@ which means I cd into ~/Directory/Directory
+ what's a good web frontend for a caldav server?
+ Cairo|Mac: sudo apt-get install pastebinit
+ pastebinit should really be installed by default
+ and all you do is pastebinit file and it gives you a link
+ there's options too, but I've never really needed to use them ^_^
+ also instead of lynx try: elinks, links2 or w3m
+ how big is the ubuntu server cd?
+ what's 11.04's name?
+ glacia: yes, wine can play wow, there's a wiki for setting it up
+ misse-: thankyou
+ glacia: google wine hq for list of games supported and look for wow, there's a link there.
+ is there a way to tell Synaptic to just download, and not install marked packages?
+ I have had zero problems with the pendrive linux installer
+ BajK: imagemagick (This message has been postponed.)
+ BajK: and many more.
+ Does anyone know if synaptic can be told to do a download only, rather than install?
+ Herbs: totally brotacular.
+ how do you make a sound theme?
+ anyone know a skeleton template for making a sound theme?

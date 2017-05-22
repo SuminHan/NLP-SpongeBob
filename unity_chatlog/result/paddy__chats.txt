@@ -1,0 +1,23 @@
+ I have an i7 processor which is not loaded much at all during disk writes but my 3-disk raid-5 array write speed is 30mb's whereas its read is 2oomb's
+ _ruben even with a fast processor?
+ _ruben how so, is it their seek time?
+ greentea: FANTASTIC
+ oh you must disable twinview before uppgrading if you are using it
+ bangLUCE: if you do not have root permissions you cant
+ _ruben what can i do increase the speed?
+ _ruben, so if i add another disk to the raid 5 array it will be faster on the writes?
+ mbrochh: i have tried that for hours and could not get it to work
+ Psychobudgie: whats not to like?
+ _ruben i have a ssd can i use that as  a cache,  how do i use a cache?
+ _ruben: what about lvm
+ what is the best way to use a ssd as a raid 5 cache?
+ _ruben: do you think i should buy an other disk and switch to raid10?
+ dualscreen unity works really well
+ bencc yes
+ bencc there is a package that lets you
+ bencc search for unity 2d in software center
+ To everyone who has had difficulty using dual monitors! You must not use twinview, it will make compiz segfault
+ Soothsayer: backup /etc/X11/xorg.conf then delete it, log in again
+ Soothsayer: install them, if it does not work do what i said befire
+ Soothsayer: try and find an option to enable it
+ brb if anyone wants to mssg me pm me, do it doesnt get lost

@@ -1,0 +1,7 @@
+ can any one tell me how to remove unity from ubuntu 11.04
+ i just want to install gnome 3
+ 11.04
+ vibav:okay
+ Psychobudgie: plz tell me the procedure or give me any link
+ Psychobudgie:okay i'll try thanks
+ Psychobudgie: okay , is there any other distro which comes with gnome 3 other than fedora 15

@@ -1,0 +1,5 @@
+ Can anybody answer the question http://askubuntu.com/questions/25785/can-auto-hide-for-the-application-menu-be-turned-off-in-unity/38794#38794 ?
+ andreas_: your drivers arent installed
+ andreas_: I think, nouveau in ubuntu does not provide 3D acceleration
+ andreas_: but 2D acceleration should work
+ andreas_: meybe in xorg.conf but you have to create new one, ubuntu uses automatic configuration

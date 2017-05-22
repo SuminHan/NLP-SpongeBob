@@ -1,0 +1,4 @@
+ hello
+ join /#ubuntu-ko
+ 저...
+ join #ubuntu-ko

@@ -1,0 +1,7 @@
+ is it possible to move the "top of screen" app menus back into the app window?  [11.04, unity]
+ jrib:  sorry, is that an installed package or some setting ?
+ ok, I will try it......   IMHO: that "mac" style is not compatible with focus-follows-mouse
+ jrib: uninstalling indicator-appmenu seems to do what I want
+ thanks
+ is there some secret magic needed to get samba to share files? [11.04]  I can connect from a remote machine, but 11.04 does not offer the shares I have set up...  any ideas?
+ actionparsnip: yes, samba installed, and machine will allow another machine to connect, but just gives a blank screen where I expect a bunch of shares

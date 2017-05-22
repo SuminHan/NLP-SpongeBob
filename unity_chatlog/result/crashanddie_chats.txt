@@ -1,0 +1,5 @@
+ So, how do we get rid of Unity?
+ maybe I should just install debian.
+ well, gnome 3 sucks, and unity is horrendous.
+ I can't see the future getting better at this point.
+ kellnola, or I'll fork gnome2 and keep maintaining it :)

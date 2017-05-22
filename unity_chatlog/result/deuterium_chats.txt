@@ -1,0 +1,1 @@
+ hm can i convert my ubuntu 10.04 ext4 partition into a ext2 partition? i think i can't shrink my vmware image if the partition is formatted as ext4.

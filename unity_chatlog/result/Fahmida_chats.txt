@@ -1,0 +1,14 @@
+ Hi, where does Ubuntu temporarily store videos from Youtube and similar sites?
+ kellnola maxillusionist: Yeah, it was in /temp at first, but currently I see nothing in directory. :S
+ Sorry, /tmp
+ kellnola: I did perform ls -a, nothing. maxillusionist: yeah.
+ maxillusionist: It is not like that I think. I just watched that video, didn't download it. I watched with Firefox.
+ maxillusionist: In past, when I used to watch videos from those kind of site, Ubuntu stored it in /tmp
+ maxillusionist: but currently, I see nothing in that directory. So, I am wondering where it is getting stored.
+ ActionParsnip: I can, but I like that way.
+ ActionParsnip: Actually, I have one. ;)
+ usalabs: I see lots of folders named 1 2 3 4 5 A F D H ...
+ In which one? Or I have to check 'em all? :S
+ usalabs: I see 30/40 folders in each one. :(
+ It becomes impossible to check for one single video. :S
+ usalabs: Is there a graphical search panel?

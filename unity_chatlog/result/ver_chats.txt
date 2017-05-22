@@ -1,0 +1,1 @@
+ ehh, how do i share a directory via samba in natty?

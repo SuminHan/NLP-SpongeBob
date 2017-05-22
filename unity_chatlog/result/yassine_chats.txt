@@ -1,0 +1,1 @@
+ im unable to set the env variable in ubuntu for grails / i tried setting the path in .bashrc, .bash_profile and .profile  resources each time but the command grails i still unknown anything am i missing ??

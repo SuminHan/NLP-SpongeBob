@@ -1,0 +1,21 @@
+ neil_: yes, try using proxy
+ is there any cloudapp application for ubuntu
+ bazhang: can connect to clouapp using ubuntu one
+ is updating to 11.0 worth updating
+ neil_, do you have windows installed?
+ neil_, if yes then install uTorrent and go to proxy settings, there are hunderes of free proxy servers avilable, google it.
+ daniel_, thanks bro
+ Bye everyone, Have a nice day!
+ I've installed Ubuntu 11.04 on virtubox but unity is not working.
+ zizban: Will it work on vmware.
+ Yes, 11.04 works fine on my hp tx2609
+ Which Linux os provides best unix experience.
+ Halzen: I am looking for an OpenBsd type CUI based os
+ does anyone know how to boot aternate ubuntu install from usb
+ does anyone know how to boot aternate ubuntu install from usb
+ jack123: Thanks
+ How do I enable desktop effects in ubuntu 11.04?
+ ubottu, is there any default program, there used to be one in ubuntu 10.10
+ is there any default program, there used to be one in ubuntu 10.10
+ aeon-ltd, thanks
+ !compiz

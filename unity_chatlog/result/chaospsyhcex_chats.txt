@@ -1,0 +1,1 @@
+ celthunder: there is not 'system info' in the gnome-control-center

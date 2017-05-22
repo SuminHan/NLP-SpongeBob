@@ -1,0 +1,24 @@
+ Ok, kinda silly question. Using ubuntu-server. I used to have a custom MOTD, but I don't remember how I did it. I upgraded to 11.04 and whenever I change /etc/motd the changes get wiped when I log in again. I don't want to use a third-party application just to change it once.
+ ohsix: issue is for what comes up before login right? good idea with the grep though. I'll get back to you in a sec
+ ohsix: I tried sudo find /etc | xargs sudo grep -i 'welcome to ubuntu server'
+ ohsix: it got nothing...
+ ohsix: :S How did my grep command not find this :(
+ ohsix: sorry for wasting your time
+ ohsix: just wanted to thank you again, and let you know it worked. have a good night
+ Trying to disable 11.04 screen blanking in ubuntu server
+ Trying to disable screen blanking in ubuntu server 11.04
+ Trying to disable screen blanking in ubuntu server 11.04
+ on ubuntu server trying to run a command on server bootup. not on login. Where would I put the command?
+ ohsix: Thx, I'm trying it out now
+ Was working in 10.10, not working in 11.04. Running "sudo /etc/init.d/networking restart" gives the following output:
+ Was working in 10.10, not working in 11.04. Running "sudo /etc/init.d/networking restart" gives the following output: (deprecated message)... SIOCSIFADDR: no such device   eth0: Error while getting interface flags: no such device
+ any ideas?
+ nvm, googled it
+ Trying to make a script run on startup (not for a particular user but for all users). I don't know how to make a startup job.
+ defswork: really? that easy? thanks, I'll try that now
+ defswork: Thanks for the help. I have no means of testing if it works right now. I didn't think it would be that easy. I'll be back if I have any more problems.
+ defworks: it's the setterm commands. I'd like it to run at bootup, but I think that it's unlikely to work unless a user is actually logged in
+ defswork: it's the setterm commands. I'd like it to run at bootup, but I think that it's unlikely to work unless a user is actually logged in
+ defswork: so wait. is rc.local on bootup?
+ defswork: I'm sure you can guess i'm an Ubuntu newb. I'm trying to disable the screen blanking in Ubuntu Server
+ defswork: So I have no idea about init.d bootup regimes :S

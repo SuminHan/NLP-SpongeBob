@@ -1,0 +1,3 @@
+ akharris: Im on a Macbook Air (3,2)...running Ubuntu  11.04, but its 64.
+ akharris:  I did get an issue with sound (had no sound) after updating my perfectly working 10.10 to 11.04...but I solved it just a few minutes ago by removing the mactels sound-stuff
+ akharris: PM.

@@ -1,0 +1,2 @@
+ hello
+ how can i add partitions to be automounted in natty, because in current installer, there is no option to using custom locations for mounting

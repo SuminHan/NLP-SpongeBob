@@ -1,0 +1,8 @@
+ how can I make unity bar stay animating urgent until I click it?
+ Giving away lots of Snivys, Oshawotts and Tirtougas, all Lv 1
+ how can I make unity bar stay animating urgent until I click it?
+ how can I keep unity urgent animation constant instead of animating only once?
+ how can I configure Unity's sidebar to always wiggle/pulse icons until I click it? didn't find this option in Compiz Manager :(
+ marca311, when a window receives the Urgent state, Unity's sidebar makes the icon pulse or wiggle. But it does only once. I'd like to keep animating until I click it, because it's hard to notice the tiny blue arrow to know new stuff is going on, like IM messaging, etc
+ marca311, yes, but no success :(
+ marca311, ok thanks :)

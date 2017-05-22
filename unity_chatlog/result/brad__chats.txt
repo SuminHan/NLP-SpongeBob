@@ -1,0 +1,3 @@
+ I just installed 11.04 and now my laptop won't connect to either of my wireless access points in the house. It doesn't list either of them.
+ Cerda, I think the drivers for mine are already installed (ath5k for an atheros chip), but maybe I'm wrong?
+ nm-tool shows wlan0 and everything, it just won't show any access points. iwlist scan brings up nothing

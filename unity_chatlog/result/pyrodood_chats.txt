@@ -1,0 +1,14 @@
+ 11.04 cd won't boot, see the purple ubuntu screen for a while then get no init found. try passing init= bootarg
+ any ideas?
+ trying to boot natty narwahl 11.04 and it won't load any help?
+ no init found. try passing init= bootarg.
+ 11.04 live cd won't boot any help?
+ i see the purple screen for a while
+ then the screen goes black
+ then it says no init found.
+ try passing init=bootarg
+ i don't see any change with ctrl+alt+f1 but i can type commands
+ perhaps i should say type characters i don't know if they are commands
+ 10.10 live cd does boot
+ i don't know how to do command line install
+ if i do command line install will the video card work after that?

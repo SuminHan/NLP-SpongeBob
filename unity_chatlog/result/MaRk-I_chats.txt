@@ -1,0 +1,26 @@
+ mick_laptop: System > Preferences > Startup Applications
+ mick_laptop: ah no idea then
+ vibhav: mutes and bans expire after a month...
+ !ot
+ tsimpson: well tell him he's banned for talking about the release
+ vibhav: you were silenced for talking about the release the time is up to the OP in that channel
+ vibhav: no Idea, try
+ guest345345: if the topic is not warning enough....
+ topic says... Do not say it's released or post links to it until the Release Manager says so, or you may be banned without warning.
+ iceroot: preferences > allow keyboard shortcuts?
+ iceroot: 0.5.1?
+ !info vinagre
+ iceroot: ah nvm then
+ iceroot: i see
+ iceroot: have u tried..... teamviewer?
+ !info remmina
+ topic says... Do not say it's released or post links to it until the Release Manager says so, or you may be banned without warning.
+ it's about to get released ....
+ phoque_uni: nope not officially
+ phoque_uni: is not but ok, if you say so
+ vibhav: I suggest you be quiet while you're here or go to #ubuntu-ops and ask
+ !arabic | CVirus
+ !encryption | genupulas
+ genupulas: yw, good luck
+ CQ: try: alt+f2 update-manager
+ !mint | Hamza

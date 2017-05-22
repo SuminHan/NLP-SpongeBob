@@ -1,0 +1,44 @@
+ celthunder: thanks for the help
+ i can boot fine now except if I do recovery mode
+ but it gets stuck on booting up normally
+ as in it displayes fine but it gets stuck
+ oh
+ now i cant get where it gets stuck
+ brb
+ does anyone know waht might cause this?
+ www.paste.ubuntu.com/602066
+ Jordan_U: were you talking to me?
+ oh no
+ i didnt see that first word lol
+ sorry
+ does anyone have any idea on how to fix this?
+ www.paste,ubuntu.com/6-2-66
+ whoops
+ www.paste.ubuntu.com/602066
+ oh
+ www.paste.ubuntu/602066
+ or
+ www.paste.ubuntu.com/602073/
+ Guest1224: why not?
+ you could try
+ !nick Guest1224
+ oh
+ anyone have any idea?
+ ah
+ ok
+ thanks
+ paste.ubuntu.com/602066 then
+ caio: lol
+ try deleting the .firefox folder in your home directory
+ Chipzzz: ok thanks
+ Steela: who?
+ bromide_bro: i would think so...
+ why not 11.04?
+ bromide_bro: so just use the 11.04 netbook edition
+ bromide_bro: oh...
+ there should be one...
+ ^Phantom^: wInDOws!@#%(&*@
+ isarl: someone said that you couldn't
+ woot
+ i can run desktop using vesa
+ lol

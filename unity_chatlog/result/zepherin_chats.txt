@@ -1,0 +1,55 @@
+ updating ubuntu yay, I wonder what this update breaks
+ Unity bricked my laptop
+ hehehe, my laptop sucks too much to run it
+ so time to download and install an older version and send a nasty gram to ubunut which will be sent to the email trash can
+ agreed
+ is there a way in console without ther internet to disable unity?
+ and bring up old gnome
+ can't
+ no keyboard access in login screen
+ or mouse
+ I have to alt prtscreen RE
+ georgeJ: hrmmm, give me a minute
+ no response for ctrl alt 1
+ just an error saying my hardware isn't good enough and to choose ubuntu classic
+ still no response
+ but I can't select gnome classic
+ none of that works. I get no response except by dumping myself into terminal
+ I want to make ubuntu classic my default from terminal, without the internet
+ thats not a promising sign
+ georgej: how do I do that from terminal?
+ georgej: switch to classic gnome
+ or hell just run classic gnome
+ no
+ bah I think I'm going to migrate to suse for a bit
+ rchavik: don't do it it's a trap
+ rchavik: My laptop broke because of it. So I have to reinstall
+ unity is not your friend
+ lcb: Can't get into computer can only get into terminal
+ well can't bring up gui
+ unity tells me my computer sucks too much to use it and that I need to use classic, and then locks up my keyboard and mouse so I can't choose classic
+ velcros: can't keyboard and mouse are frozen
+ I can't exit into terminal
+ lcb: system was up to date, problem has to do with intel integrated video card
+ there is a fix but I can't get internet to do the fix
+ shift doesn't do anything I can't get to recovery panel, is there a terminal command that I can use to do a recovery?
+ ok. but I can't get into my gui
+ "It seams that you do not have the hardware required to run Unity. Please choose Ubuntu Classic at the login screen and you will be using the traditional environment."
+ then my keyboard and mouse lock up
+ and I have to hop into terminal
+ no internet
+ I don't know how to do the internet through terminal
+ edbian: alt prntscreen
+ RE
+ actionparsnip: no I can't
+ intelxtreme2 integrated laptop
+ so what I need is a terminal command to allow me to run classic ubuntu
+ google failed
+ action: warning unable to start: cannot open display
+ edbian: I can't log out. no mouse or keyboard
+ I can only get into terminal
+ it does it automatically
+ no processes found
+ xorg does not show up
+ so format reinstal for me
+ and a nasty gram for ubuntu

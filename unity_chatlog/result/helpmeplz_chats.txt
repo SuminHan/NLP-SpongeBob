@@ -1,0 +1,12 @@
+ hey guys
+ have there been known issues with the wubi installer in 11.04?
+ can anyone please me help me with my wubi installation of ubuntu?
+ zenguy311, when rebooting after the wubi ubuntu install, I get the error that the "root partition is not defined"
+ zenguy311. it doesn't complete the install
+ zenguy311, but wouldn't that corrupt my windows mbr?
+ zenguy311: yes, im on my windows installation right now. I could uninstall and reinstall ubuntu wubi for a 3rd time via the program manager
+ ZenGuy311: How do I complete the install inside windows? I thought the install would complete itself after it'd ask to reboot.
+ zenguy311, well at the reboot it tried to complete the install but it failed saying that the root partition wasn't defined
+ ZenGuy311, Well I've just been using the step by step that's on the DVD. What's the better way of going about this?
+ ZenGuy311: okay. Well I'll try and do some research then. It's a shame they have to make it so exhausting to figure out.
+ ZenGuy311: Thanks for the help

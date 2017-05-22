@@ -1,0 +1,3 @@
+ HEllo, i want to install ubuntu with openbox, but i have to use specific drivers (geode) for xorg. how do i do that?
+ ActionParsnip: can you tell me the steps i should follow? like 1- install base, 2- install driver 3- install xorg 4- edit xorg conf etc?
+ ok thanks!

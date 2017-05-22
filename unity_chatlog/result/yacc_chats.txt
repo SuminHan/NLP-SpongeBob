@@ -1,0 +1,3 @@
+ Any idea where to find libsvn-mirror-perl for Lucid?
+ svk from universe depends on it, but https://launchpad.net/ubuntu/+source/libsvn-mirror-perl seems to show only packages up to karmic?
+ http://packages.ubuntu.com/search?suite=default&section=all&arch=any&searchon=names&keywords=libsvn-mirror-perl <= does not show even the Karmic package.

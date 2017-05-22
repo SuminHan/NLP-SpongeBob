@@ -1,0 +1,2 @@
+ hi. How can I know wtf is doing the installer ? it is saying it needs to download packages during one hour ! wtf ! it has already donwloaded the language package
+ terry what packages does it needs ?

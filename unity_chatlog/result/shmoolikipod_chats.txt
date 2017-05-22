@@ -1,0 +1,14 @@
+ Soon Gnome is gone
+ to update all I need to type: sudo apt-get dist-update?
+ guest345345, yeah sure :D, thanks :)
+ nmvictor, thanks
+ vibhav,  not yet
+ it is out !
+ how the hell do I set my old desktop back
+ Ubuntu 11.04 GUI sucks!
+ ohsix, so no one can help with the manus ? to get the old gnome look back ?
+ ohsix, thanks :)
+ ohsix, I don't have an option to change the session type ...
+ all I want is to get the old menus look and remove the side bar
+ ohsix, when I click on my name I get loged in automatically
+ :(

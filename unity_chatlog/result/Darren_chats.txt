@@ -1,0 +1,6 @@
+ hey i have a problem
+ Can anyone help me with an upgrading problem>
+ ?
+ Why is it that after i have upgraded, the backlight doesnt turn on?
+ is my backlight not turning on due to a kernel bug?
+ why is my backlight not turning on in 11.04?

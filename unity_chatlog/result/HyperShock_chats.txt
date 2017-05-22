@@ -1,0 +1,79 @@
+ Stava: your update_manager under system->administration can help you with that
+ Stava: no clue, just a user like you, different software. how come you don't want to use the gui?
+ bill_: that is a no brainer friend, it just went hot in the past 24 hours. Everyone is trying to download it. waiting till the 5th of May would be better dl speed wise.
+ !iptables | SAM__
+ n2diy: did you get your answer yet?
+ mtlife: do the math, if 11.04 went hot today, and everyone is downloading it, say 100,000+ people, how sucky do you think the bandwidth will be?
+ n2diy: were you asking in regards to gnome?
+ n2diy: because to get the hard disk monitor on your panel, simply right click the panel you want the monitor on, choose add to panel, then select and add, system monitor. when it appears on the panel, right click it and choose configure, there you can add the hard disk and much more.
+ n2diy: yw
+ chadi: you'll have to remap the home directory in afterwards
+ chadi: i would say only if you have 32bit custom programs residing in it, you may need to recompile them
+ kwtm: in Opera and I think firefox, you can get an addon called WOT (web of trust), it will tell you very aptly if a website is malicious
+ kwtm: if you are using linux to surf, what is the max risk you are worried about?
+ stREaKer: you will probably have to reconfigure your x server
+ stREaKer: you should be able to do it from the recovery mode option in grub
+ if you cant get that let me dig out that sudo command
+ stREaKer: sudo Xorg --configure
+ Witchsong_: if by groups you mean folders, then drag and drop a folder of your choosing on the side panel
+ what do i need to do in order to configure unity to work the way I want?
+ !unity
+ Guest12321: i was getting that earlier on my system, but instead of freaking out and hitting the suggested keys I waited and it mounted the / dir anyways. for me it told me i could wait so i did
+ Guest12321: also my upgrade was interrupted as well, mainly because i tinker, so the first instance was libpam, after much heartache i discovered that after I could get to shell like with the tty consoles (alt f1) a simple: sudo apt-get dist-upgrade --fix-broken ... solved everything, and ate 4 hours of my time more, but i got everything back.
+ Guest12321: about 30 to 40 seconds
+ ocx: in your system settings for "sources" check off use the dvd section
+ softturnip: try holding down the super key (win key) and see if that delay is too long for you too
+ softturnip: lol, i'm like you waiting for someone to say how to tweak the unity launcher
+ !unity | HyperShock & softturnip
+ blackbit: thank you
+ Stameni: hit super + w, then click on it
+ Stameni: (windows key)
+ Stameni: oh, hmm
+ Stameni: is it not listed in the unity bar anywhere?
+ Stameni: like with a white right pointing triangle next to it
+ Stameni: also what shows up when you run geany again?
+ Stameni: what did you do to make it disappear, i'm going to duplicate it and see if i can get it back
+ Stameni: you mean to tell me that you did like hours of work with out making any incremental saves?
+ Stameni: ok, i just installed geany, it asked me if I wanted to add it to my launcher, i said, no. I opened it and them minimized it, it then showed up at the bottom of my unity bar. My suggestions to you is to uninstall geany via the soft center and then reinstall it so that it will have the necessary unity elements in place.
+ Stameni: and maybe you have unconfigured packages too, i had tons of them during the upgrade, as my upgrade failed. sudo dpkg --configure -a
+ Stameni: then i ofcourse had to do sudo apt-get dist-upgrade --fix-broken
+ chipmenk: me thinks that is the ipv6 variety
+ Stameni: try the dpkg command just in case
+ Stameni: considering we're all just like you, please goto launchpad.net and report the bug so that we may all benefit when some volunteer programmer makes a patch. :)
+ Stameni: although my geany is behaving correctly.
+ Stameni: 32
+ claudiomet: have you tried reinstalling it yet?
+ claudiomet: ok, just because ubuntu says it sees it doesn't mean you have the drivers, you are going to have to go get the ppd file and get installed.
+ claudiomet: priv msg me and tell the exact steps you took to install it
+ Guest1224: yes
+ Guest1224: but why would you, libreoffice is far superior to openoffice
+ soreau: put mouse in unity bar, touch bottom of screen so it scrolls all the way down fast, about 1 or 2 icons above the trash can, it says applications and folders, click that icon, in the new window in the upper right corner you can navigate to the other sections, or you can just use the search box at this point
+ Guest1224: in your ubuntu software center, you can find and remove open-office there or you can from shell do sudo apt-get remove open-office
+ soreau: yeah....
+ soreau: and then a strange thing starts to happen, this unity it grows on you like ringworm, only you are not scratching.
+ soreau: for instance i've figure out how to cull my unity and reorganize it already
+ soreau: yeah, cept you should put your commonly used items on the unity bar
+ soreau: however you are missing other things too, for instance get your mouse off the unity, minimize your apps and check out that default menu to the right the unity ubuntu icon on the top panel, it's not there, hidden by default, but when you mouse over, well, and you can access system settings and places from it
+ Silentmyst: what seems to be the problem?
+ wow, was there room for the optical eye?
+ so 5 out 6 are working?
+ what is make and model of the mouse?
+ ErezCohen: (offtopic) think of the our braille readers, they had to actually touch those two letters! sorry for them. ick.
+ wow, tripe, so many good thinks in linux exceed what you are keeping ecks pea for
+ thinks = things
+ gonzalo: uh, duh, this is ubuntu channel, so please ask the question... :)
+ Silentmyst: wow, seems to be no linux support for that mouse (directly). you might be on your own here unless someone else here is good at configuring mice with 6 buttons or more. anyone?
+ gonzalo: why are you trying to install a program called ROOT?
+ gonzalo: regardless, you need to sudo apt-get install build-essentials if you plan do any sort of serious compiling and installing.
+ gonzalo: lol, but ROOT has so many connations, like becoming "root" and the "root" directory and the "root" sector of the driver. Personally I think making a problem called "root" is asking for it.
+ gonzalo: let me double check what they are calling it now
+ gonzalo: my bad, i added an 's'. do sudo apt-get install build-essential
+ gonzalo: yep, just expressing my concerns over the name of the program
+ Artarian: lol, what makes you say that
+ calamari: is there no one to ban him?
+ !ban
+ !vote
+ gonzalo: what version of ubu are you on?
+ gonzalo: PM me
+ _Neytiri_: open users and groups, then select user, then select advanced button, then in popped up windows, hit 'advanced' tab, tell the new directory there
+ _Neytiri_: after you use 'adduser' to add the user to the system use 'usermod <username> --home <directory_path>'

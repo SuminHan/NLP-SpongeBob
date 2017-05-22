@@ -1,0 +1,7 @@
+ My google-fu is weak tonight... anyone know of a quick way to restore my emerald themes after Maverick to Natty upgrade?  running 'emerald --replace' causes a segfault.  :(
+ Hi folks.  I tried asking this yesterday, but lost my connection.  Does anyone know how to get Emerald themes running under Natty?  Whenever I do 'emerald --replace' it segfaults on me.
+ arrrghhh: well, I guess so, but the themes are so much better than what I have seen in compiz.  I never realized it was that old.  Are there similar quality themes for compiz/unity then?  All the ones I have seen when I click 'get themes' are *very* basic, no glass transparencies, etc.
+ arrrghhh: I guess I should hunt for alternative themes then.  Am I right in assuming that I can use compiz themes under Unity, then?
+ arrrghhh: ok, I will see what else I may have missed.  The thin borders on most of these default themes are really hard to grab for resizing, etc.  Thanks for the help! :)
+ arrrghhh: yes, and the new scroll box that appears when you get the mouse in *just* the right spot is annoying me also.  Thicker borders would help me there, but there is not enough configurability in the default theme engine.
+ Getting the hang of Unity here, but it seems rather sluggish to show the new side bar.  Anyone know of a setting to change the delay of the unity bar to something less?  It takes almost a full second to come up atm.

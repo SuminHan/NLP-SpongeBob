@@ -1,0 +1,23 @@
+ anyone install Natty to a laptop yet?
+ zenocon > did you have any video driver issues?
+ zenocon: when I upgraded to 10.11 I had problems with my nvidia card... so I'm a little afraid...
+ anyone... is it possible to roll it back to previous version if the install hates me?
+ Natty hasn't been out there with the masses that long has it? I know a lot of people have upgraded to it, but I'm guess I'm waiting to see a known issues doc before I try it
+ Omega: that's what I was thinking, but loading drivers is a pain... even though I'm getting good at it
+ Omega: I have a nvidia cardd and I had to manually upgrade the driver with the last 2 releases
+ Omega: someone had filed a bug on it already, so I didn't bother.Never tried LiveCD
+ Omega: might try it this weekend. I have other machines I can use to surf to find fixes if needed
+ Omega: thanks... only way to learn these things is to have them break  :-)
+ Ah there is a kow issue with the nvidia card drivers... have to install a package before the last reboot to resolve it
+ known*
+ bull9408: how did you upgrade it?
+ bull9408: did you use LiveCD?
+ bull9408: what kind of laptop... no liveCD was what I'm looking for...
+ bull9408: I have a 64 bit Sony...
+ Bull9408: I have always just upgraed from the update manager, so I was looking for people who used the CD to do the update...
+ bull9408: that makes sense with the new hard drive
+ bull9408: think I'm going to try my desktop first.... I can't live without my laptop for very long
+ dagon: what makes you think that?
+ ann: what browser?
+ ann: let me check mine
+ Bane: i lurk in here to leatn stuff

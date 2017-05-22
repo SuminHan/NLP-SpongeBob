@@ -1,0 +1,5 @@
+ hi, i have a 2nd hdd and i wanna transfer my ubuntu installation onto it. i recreated all the partitions and copied all the files over. i set the boot flag of the boot parition on. yet, it can't boot. any ideas?
+ will it auto create fstab?
+ i think the UUIDs will be all different...
+ grub2, is it?
+ shucks, i read the ubuntu docs but i cant get info to install grub2 onto my new hdd. grub-install /dev/sdb ???

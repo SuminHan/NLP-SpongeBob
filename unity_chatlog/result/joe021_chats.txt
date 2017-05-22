@@ -1,0 +1,1 @@
+ is possible to generate a key pair for ssh without prompting the user for info?

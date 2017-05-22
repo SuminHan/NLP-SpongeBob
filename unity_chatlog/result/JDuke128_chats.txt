@@ -1,0 +1,1 @@
+ hi , i'm having some problem , i want to develop some application that will run Linux first and then Linux runs some my custom code and boot windows back , is it possible ? if yes , how ?

@@ -1,0 +1,13 @@
+ okay okay, how are you _supposed_ to open multiple file managers in unity?
+ mnoyce, does nothing.
+ mnoyce, thanks
+ is there any software for linux that allows me to screenshot a section of my screen? I've used some before where you can scale around this box and clikc 'capture'.  Anything out there?
+ acicula, my problem is that i want a section of my browser, not the tabs and everything with it
+ CLARIFICATION: I know ubuntu has screenshot capabilities, but I want to take a screen of a specific section
+ acicula, it's too much work.  gimp takes a long time to load, then i need to create a new file of the specific size of the data i am snagging out, then save it... its way easier just to draw a box on my screen, click 'capture' or something.
+ acicula, shutter does what I require.
+ tricky question: I'm using "ssh user@server.com "ls $MYVARIABLE", where $MYVARIABLE is set in the user profile.  This never works unless I log in instead of issuing only the command at the end.  Why? Is there  a workaround?
+ some applications (eclipse, libre office) still have the menu items on the windows instead of the top panel.  What gives?
+ just came from beta, fresh install of 11.04.  I get a weird scale icon in the bottom right corner of some windows (google chrome), and sometimes a blue triangle in the top left corner when I use unity.  WTF?
+ can you change the 'shortcuts' in the unity menu?
+ i cant remember where i changed this before... but i need to remap F10 (as it pulls down menus from sys tray), where can i do this?

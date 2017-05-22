@@ -1,0 +1,21 @@
+ I have a moderate problem with a network upgrade from 10.10 to 11.04
+ Does anybody know how to force quit an upgrade I can't see?
+ ohsix: Yeah, well my upgrade to 10.10 stopped last night at 74% because my HDD spun down on my netbook. I can't do anything right now upgrade wise.
+ ohsix: I have no idea. I waited 10 minutes for it to continue with installation, and I didn't see a thing move. Any suggestions? I've tried to upgrade to 11.04 but I can't because it says it is still running, which it is not.
+ ohsix: I'd prefer not to do a clean install if that is what you are thinking. I don't have anything to back up my data with.
+ ohsix: Ok, how do I do that?
+ ohsix: o_O uhhh ok? ha
+ Does anybody know where to check the upgrade logs? not finding anything on google.
+ ohsix: this is what keeps popping up: Cannot get the exclusive lock on the packaging backend.
+ Please close any other legacy packaging tools that may be open.
+ I doubt it. Not to my knowledge.
+ ohsix: Sorry; ha not to my knowledge
+ ohsix: this is what I meant by forcing them to quit...
+ ohsix: that did nothing.
+ ohsix: hang on think I found an answer. http://bit.ly/imR2UK
+ ohsix: is there a Kubuntu sub channel or other channel?
+ Pici: Shanks!
+ #kubuntu
+ ohsix: thanks, will try
+ ohsix: lol it was a problem with the upgrade package I was using. The Ubuntu Upgrade software is doing the job without a problem.
+ ohsix: on original Ubuntu gnome GUI now too

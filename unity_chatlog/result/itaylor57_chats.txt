@@ -1,0 +1,4 @@
+ frugi: #ubuntu-release=party
+ frugi: #ubuntu-release=party
+ Spaz_Dynamic: I use the skype from the ubuntu store
+ KM0201: o/

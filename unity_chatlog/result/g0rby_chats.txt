@@ -1,0 +1,10 @@
+ Hello, If i want last to display all logins for a particular user, which file should the -f switch point to
+ ?
+ If i do "last (username)" it only displays logins from the beggining of the day (it says wtmp starts then) how do i get it to go further back?
+ im pretty sure i got hacked over the weekend as i saw the same ip in my ssh log as in the xsender ip in some hotmail emails i didnt send
+ i want to find out what they did =/
+ gorby
+ ultrax: gorby
+ yeah ive done that, it looks fine
+ ultrax: but it cant be coinsidence that i see that ip in my ssh log, and in the bad emails in hotmail
+ ultrax: can i use last some how to display all logins within a particular date range?

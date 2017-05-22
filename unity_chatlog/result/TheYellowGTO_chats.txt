@@ -1,0 +1,6 @@
+ How do you run a program from terminal without it being locked to that terminal
+ Yes it is
+ I've done it but I forget
+ There is something with an & after it
+ Someone in here told me, but now i'm on mylaptop
+ And its at home in a text file

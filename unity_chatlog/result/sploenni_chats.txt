@@ -1,0 +1,4 @@
+ how can I disable unity in 11.04 when I build my own livecd with uck?
+ zvacet: what do you mean with minimal cd? i took the default desktop image and modified it. now i want to replace unity by gnome-classic (for live session as well as for installation). i just don't know where to switch it.
+ zvacet: thanks anyway. maybe someone else can...
+ :)

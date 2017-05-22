@@ -1,0 +1,4 @@
+ this laptop often shuts down randomly after a while. I can't find anything indicating a reason for this in syslog, where should I look? It seems to be a normal shutdown as started by running sudo halt - windows close one by one until only the desktop background is visible, then the normal splash screen shows up and the computer turns off after a while.
+ Incarus6: what should I google? ubuntu shutdown? It isn't a very specific issue and I'd like to know where to look for a reason.
+ Incarus6: but how would I find out? /var/log/syslog tells me nothing useful, where else can I look?
+ Incarus6: ok, thanks anyway

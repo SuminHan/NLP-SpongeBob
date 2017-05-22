@@ -1,0 +1,4 @@
+ hey guys.  I just insalled 11.04 and updated to gnome3.  However, now when I try to log in I get an error saying "cn't update ICEauthority".  I can't login as my normal user.  Any ideas?
+ i cant login as root either
+ so how would I go about logging in to remove the .ice file?
+ is there any chance of logging back in if it can't update the .ICEauthority file?  I can't get in with recovery console either.

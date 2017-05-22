@@ -1,0 +1,4 @@
+ ChronicSyncope, login to classic gnoem
+ gnome*
+ insanity99, run Classic Gnome
+ sabri_icone, #ubuntu-offtopic

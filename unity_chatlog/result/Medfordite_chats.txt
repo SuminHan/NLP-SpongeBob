@@ -1,0 +1,5 @@
+ Hey all - Great work!  Can anyone tell me if/when broadcom support for the Compaq V5000 (Broadcom B43 I believe) will be ready?
+ Tully - Downloadthemall (downloadthemall.net)
+ Download Them All :)
+ Celthunder - Not seeing the Restricted drivers listing the driver like usual as in 10.10 or 10.04.
+ Hmmm...another issue, attempting install of grub boot loader now at the moment for the Server version and it is erroring out with the update-grub function.  2 hard drives, installing to the master drive.

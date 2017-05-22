@@ -1,0 +1,4 @@
+ atlef, that did not seem to help .. it looks right just after login, but then a few seconds later it is as if something crashes and it defaults to a gnome look
+ ok
+ a few seconds after login something crashes that cause my desktop to revert from ubuntu look to a default gnome look ... does anyone please have any ideas for how to fix this?
+ what program creates the slick, dark grey ubuntu look with the monocrome icons in the notification area and so on?

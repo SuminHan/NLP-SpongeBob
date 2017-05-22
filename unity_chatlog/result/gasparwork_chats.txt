@@ -1,0 +1,1 @@
+ Hey guys, I updated to 11.04 from 10.10 and the log out button and volume control are missing. I had to disable unity as my graphic card was not powerful enough and the next time I restarted my mac they did not come up.

@@ -1,0 +1,1 @@
+ I'd like to dsiable the super-high-resolution text mode console. I'm assuming by stopping linux using the frame buffer. There doesnt' seem to be a way to do this. Should I give up and go back to fedora?

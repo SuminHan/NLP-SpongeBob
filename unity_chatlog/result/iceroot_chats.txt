@@ -1,0 +1,225 @@
+ crackguy: ask citrix
+ GReeNtooTH: just start the program, it will open the port automaticly
+ KNUBBIG: sudo apt-get update && sudo apt-get dist-upgrasde
+ KNUBBIG: no
+ KNUBBIG: its doing what you want
+ KNUBBIG: beta 2 -> final
+ how to send "ctrl + alt + f1" in vinagre?
+ MaRk-I: i dont see that point in vinagre 0.5.1
+ MaRk-I: hardy provides 0.5.1
+ MaRk-I: as it seems i need a backport
+ MaRk-I: libc6 dependency :(
+ MaRk-I: i will try other vncviewers, thank your for your help
+ its always a bad idea to copy something from apple
+ Kindari: never touch a running system
+ brokenupgraydes: chroot into the system and rund "sudo dpkg --configure -a"
+ brokenupgraydes: if you can boot the normal system do that and run the command then you dont need a chroot
+ Shoogy: netbook was a normal ubuntu with unity
+ brokenupgraydes: pastebin
+ macrossm: never touch a running system, so its your fault
+ brokenupgraydes: make a backup of that file, then edit it and remove the string "version" from that line
+ brokenupgraydes: also its a good idea to open a bug with that
+ brokenupgraydes: sed s/^version// :)
+ brokenupgraydes: and remeber the backup!!!
+ macrossm: of course it has compiz
+ macrossm: dpkg -l \*compiz\* | grep ^ii  says my natty has compiz
+ vanguard: never touch a running system
+ deeeed: macos is an os you cant run ubuntu on that
+ !mac | deeeed
+ boneseer: repair what exactly?
+ boneseer: errors?
+ muneeb: just remove old unused kernels
+ muneeb: that is a great feature its not removing old kernels. what if the new kernel is not booting what will you choose then?
+ poipoi: with some luck, lubuntu will run but more ram is a good idea
+ poipoi: i am running ubuntu on 630mhz + 512mb ram (eeepc 701)
+ DirtyDawg: gnome
+ DirtyDawg: its the gnome from ubuntu 8.04, its running ok with 512mb ram and 630mhz, its possible to work with that machine (if not using fash/youtube)
+ mattyh88: dpkg -l apache
+ mattyh88: dpkg -l apache2
+ mattyh88: if the line starts with ii, its installed
+ mattyh88: and the binary is called apache2 not apache
+ !ipod | santhu1984
+ krad: cat /etc/issue
+ terry: what should that command do?
+ terry: not really
+ terry: dpkg -i wants local deb-files
+ terry: maybe you mean "sudo apt-get install packagename"
+ ph88: on what? your browser? the shell?
+ tsanko: correct
+ Nighthwk: ftps
+ Crazy1: #regex
+ Crazy1: you can use regex on /msg alist list :)
+ raven_: #bash
+ sda: iotop
+ pod88: #compiz
+ warp_: sudo dpkg --configure -a
+ MattAAron: yes
+ cfc_{Pawpad}: sudo apt-get update && sudo apt-get dist-upgrade   (not only upgrade)
+ dios_mio: yes
+ hw: does it say "hold"? you have to use dist-upgrade to get all updates
+ LinuxHack3r: first try if it is working, "xrandr -s 1280x1024"
+ LinuxHack3r: xrandr -q  is showing you what your card/monitor supports
+ LinuxHack3r: http://pastebin.com/RrQbiayr
+ mza: unity is published with lgpl
+ dustin_: not remove, just not used by default
+ mza: #ubuntu-offtopic, #gnome
+ mza: and yes there is but this is not the right place for that
+ Alarcron: no its still disabled in the kernel because of a memory leak, you can only switch gpus with a reboot
+ Alarcron: i a running a setuo here with nvidia ion and intel gpu (asus eeepc 1015pn) and i have to reboot to use intel or nvidia, live-switching is not possible (2.6.38)
+ Alarcron: it should be fixed in 2.6.39
+ pksadiq: someone posted a lauchpad url
+ is there a way to put my pgp-key (signed mail) into keyring, so thunderbird is not asking everytime for my passphrase if i send a signed mail?
+ Joric: uname is telling you what kernel is used, cat /proc/cpuinfo (lm means 64bit) tells what the cpu can do
+ binox: any errors?
+ binox: what vga you have?
+ rgb247: with your backup
+ rgb247: now you know why it is a bad ida to use the root account and also a bad idea not to have a backup
+ rgb247: the explanation is that your files are gone forever you cant recover them (only if you do backups)
+ rgb247: dont use root/sudo if you dont know what you are doing
+ mastaofdisasta: no its not but if you are using network-manager this is the wrong place to setup something
+ mastaofdisasta: service
+ !upstart | mastaofdisasta
+ Calif: fg
+ Calif: fg = pull a program back into foreground
+ Calif: ah sorry dint read the whole stuff
+ Andrewx: there are no different runlevels
+ !runlevel | Andrewx
+ cyrex: can you use normal english please instead of "sum 1" "2" and so on?
+ GeorgeJ: not working with current stbale kernels
+ GeorgeJ: should be fixed with 2.6.39
+ GeorgeJ: kernel.org
+ GeorgeJ: i dont know
+ GeorgeJ: yes, that is the current error 2.6.39 should fix
+ slipkid08: #ubuntu-offtopic
+ !download | KM0201
+ codingenesis: https://wiki.ubuntu.com/SponsorshipProcess
+ KM0201: and what is the problem about going to ubuntu.com and download it?
+ KM0201: i dont get what you want
+ KM0201: yeah just stop your strange conversation here
+ sss314: why you want to do a fresh install?
+ stefg: not really
+ sss314: 1. never touch a running system, so why you need an upgrade? 2. make a backup of /home (not only because of an upgrade), 3. just ran the upgrade manager
+ Halzen: that is not true
+ Halzen: "most dist-upgrades cause problems" means hat more then 50% of all upgrade may break the system and that is of course not true
+ sss314: dont make a fresh install, its useless
+ Halzen: sudo apt-get dist-upgrade is of course not the recommend way to upgrade
+ Halzen: the update-managaer has special pre/postinst scripts
+ Halzen: if you just change your /etc/apt/sources.list and do sudo apt-get dist-upgrade  then maybe its broken often but that case we dont care, we support the update maager
+ Halzen: so please dont tell peolpe that upgrades are broken very often
+ ChessTeach: its the same performance as software-raid
+ ChessTeach: if you dont want a dualboot with windows (and windows is also on raid) there is no single reason to use fakeraid
+ ChessTeach: there are only contras with fakeraid
+ ChessTeach: there is no need to buy a hardware-raid-controller, just use softwareraid (not fakeraid)
+ ChessTeach: hardware-raid is only needed on servers
+ ChessTeach: i said there is no reason to use fakeraid
+ ChessTeach: softwareraid is ok for desktop-machines, no need to buy a hardware-raid-controller (150€)
+ ChessTeach: remeber one thing, raid is NOT a backup, so why you need a raid?
+ ChessTeach: so you want raid0 (strip)
+ ChessTeach: if one drives fails, everything fails
+ ChessTeach: what about an ssd instead of raid0?
+ ChessTeach: solid state disc (flash drive)
+ ChessTeach: then build a software raid 0
+ ChessTeach: no
+ ChessTeach: you can build a software raid everytime
+ ChessTeach: you can build a software-raid in an already installed system
+ !raid | ChessTeach
+ !google | Halzen
+ ChessTeach: but remeber again, if one drive fails in raid0 your files are gone
+ spyhermit: losing all data is worth to mention again, dont you think?
+ spyhermit: it was the second time
+ thevor: yes
+ chotaz: chmod -R
+ chotaz: but you dont want 777, correct?
+ Halzen: noone is forcing you to use unity
+ roasted: use the alt+f2 method please
+ roasted: ubuntu-bug packagename
+ roasted: create a bug against the package with the wifi-driver
+ roasted: creating a bug against hardware is not a good idea
+ roasted: if that is the package, yes
+ roasted: what is the bug exactly?
+ roasted: its a driver issue?
+ booginga: do you get errors at the installation?
+ booginga: or errors when starting?
+ booginga: i guess its a good idea to open a bug about the missing files/libs
+ booginga: ubuntu-bug packagename
+ booginga: thats the easiest way to get it fixed
+ booginga: just run "ubuntu-bug packagename" its a wizzard for creating a bug
+ !ot
+ kryl: are the crypt-moduls build for your current kernel?=
+ kryl: but that is only the lvm not encrypted, correct?
+ kryl: #ubuntu-server
+ !ati | Laurencesm
+ kryl: is the modul loaded? (lsmod)
+ kryl: on my crpyted-system its "dm_crypt"
+ ghostnik11: never touch a running system
+ ghostnik11: and why you need an upgrade?
+ ghostnik11: "better" is always a personal opinion
+ ghostnik11: as i said, never touch a running system :) the most important sentence out there
+ miceiken: network config in grub?
+ dd214: its maybe because of 2.6.38 but not because of 11.04 (cgroups patch)
+ miceiken: /etc/networks/interfaces has nothing to do with a black screen
+ miceiken: sure
+ miceiken: sudo vim /etc/networks/interfaces
+ miceiken: or use a live-cd if the system isnt booting anymore
+ zeknox: gksudo for gedit
+ Ringish: only with your backup
+ Ringish: no
+ Ringish: not by default
+ Ringish: there is no restorefunction, backups can be done of course from the terminal
+ Ringish: no, as i said
+ amstan: i cant see dependencies not from haskell
+ eiriksvin:
+ amstan: that will kill your system syncing everything grom sid
+ amstan: enable the sid repo install the haskell part and remove the sid-repo or use apt-pinning
+ amstan: yes as ActionParsnip said its not a supported way but should work in this case
+ amstan: broken?
+ ChR0n05: you can use cat foo | grep bar   too  its available but stupid
+ ChR0n05: sudo su is the wrong way
+ ChR0n05: doesnt matter if some "noob" peolpe suggest sudo su
+ ChR0n05: i have seen tutorial using cat foo | grep bar too
+ ChR0n05: real tutorials suggest sudo vim instead of sudo/gksudo gedit :)
+ ChR0n05: but back to topic, sudo su is wrong because its setting the environment wrong
+ !backports | multipass_
+ multipass_: but why does an iphone need drivers?
+ NewPosix: cat /etc/issue.net
+ NewPosix: cat /etc/issue
+ !iphone | multipass_
+ mang0: you can boot isos with grub2, also you can put the iso on an usb-drive
+ mang0: is there already something running on the pcß
+ mang0: you want to install ubuntu to your pc, correct?
+ mang0: and why not using a cd or a usb-drive?
+ mang0: you are using fakeraid?
+ mang0: so the installer is not detecting your hard drives?
+ chrome_: cat /etc/issue
+ !unity | chrome_
+ mang0: yes you can install ubuntu without burning a cd or use a usb-drive but why go the hard way?
+ mang0: just burn a cd or use usb
+ mang0: then you one of them
+ mang0: its not the fault of a failed burn that the live-cd isnt detecting your drives
+ mang0: because you are using fakeraid or your controller is not supported or your harddrives are not detected from the bios
+ mang0:  thought about using ubuntu 11.04 with better hardware support?
+ mang0: is your bios detecting the harddrives?
+ Metroshica: unzip filename
+ FoolsRun: ssh -X host java -jar file.jar
+ Somelauw: its enabled
+ Somelauw: the keycombo for restarting is working fine on 10.10 and 11.04
+ Somelauw: others are not testet
+ Somelauw: go to tty1 and press alt + print + m  and it will show you the memory dump
+ Somelauw: testet on 11.04
+ Somelauw: if i am correct its only working on tty and not gnome-terminal
+ Somelauw: the memory dump is showing you what is going on on your memory
+ Somelauw: https://bugs.launchpad.net/ubuntu/+source/linux/+bug/315503  maybe have a look here?
+ Somelauw: who said that?
+ Chaorain: maybe encrypt the partition?
+ Somelauw: hm strange
+ Chaorain: still can be seen from windows if ext4 drivers are installed
+ tessarakt: /etc/default/grub  i guess
+ !anyone | Chrispy
+ Jasonn: /etc/apache2/apache2.conf
+ ablaze: iwconfig
+ Chaorain: why not using the usb-creator from ubuntu?
+ tessarakt: normally its the only file a person would change
+ Chaorain: you cant install linux on fat
+ Somelauw: its just an example for magic sysreq
+ Somelauw: i dont want to test the reboot or kill command
+ Somelauw: its the same key

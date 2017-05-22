@@ -1,0 +1,30 @@
+ to connect Laserjet1018 to PC via Linksys+WUSB11+Wireless‑B ?
+ How  to connect Laserjet1018 to PC via Linksys+WUSB11+Wireless‑B ? I saw something about a prism driver but how do I get it ?
+ Hello, I am new @ linux. Can someone help me install drop box ?
+ I need: GTK 2.12 ou ultérieure/Later
+ GLib 2.14 ou ultérieure
+ Haha did not get floodbot
+ how to I know if I have GTK installed ?
+ a helpful soul ? How do I know if I have
+ GTK 2.12 ou ultérieure/Later
+ GLib 2.14 ou ultérieure
+ Scott-Mc, Thanks
+ How do I install drop box ?
+ Dr_Willis, I'll look merci
+ When I open a terminal command, what directory does it put me in by default. 10.04 it says nicholas@nicholas-laptop
+ Dr_Willis, So If I say cd  downloads it puts in downloads, correct ?
+ Dr_Willis, I am learning Willis, ....Merci
+ Dr_Willis, How would I install a deb file that is in my Downloads directory as a tar.gz file?
+ terry, tar zxvf file-name.tar.gz  thats the command line ?
+ terry, tarball... thats insulting ;)
+ terry, Herbs lemme look
+ terry, To install dropbox
+ Scott-Mc, How do I get into nautilus ?
+ Dr_Willis, Easy for geeks. I am a newbie geek
+ PythonPup, Thks
+ Dr_Willis, I have it downloaded but dunno how to install
+ terry, Dr_Willis dropbox site
+ Dr_Willis, terry, Herbs Got it. Thanks Just a double click...
+ My Wine is acting up. It appears to start a program then vanishes.
+ usalabs, Which is best ?
+ usalabs, Thanks

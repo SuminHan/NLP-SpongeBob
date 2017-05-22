@@ -1,0 +1,4 @@
+ I have been unable to install kubuntu natty on my hp probook 4420 laptop, livecd always hangs while loading :/
+ ruan: I haven't tried but I doubt that would work, it seems to be a kernel issue
+ ruan: during any *buntu install the system hangs even before the bootsplash is done loading
+ anyone able to install natty on an hp probook 4420s? all of the buntus I tired frooze while loading :/

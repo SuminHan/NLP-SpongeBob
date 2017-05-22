@@ -1,0 +1,2 @@
+ hi, i just got 11.04 desktop install. it seems the compiz package is not installed by defualt?
+ hi, can anyone tell me how to zoom the desktop? like in 10.04

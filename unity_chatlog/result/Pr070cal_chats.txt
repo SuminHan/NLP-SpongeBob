@@ -1,0 +1,6 @@
+ whens natty released ?
+ anyone know how to configure ufw ?
+ escott: i tried ufw, but im having problems denying all out and in then allow 80 out
+ Sylphid: so its restictive setup like i had firestarter
+ Sylphid: i dont want data sent out unless i allow it
+ Sylphid: i deny out to all and allow 80 but it doesnt work

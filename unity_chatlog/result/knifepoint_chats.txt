@@ -1,0 +1,29 @@
+ I am have some serious Launcher/Window focus issues with Unity in Ubuntu 11.04 is there a compiz plugin i shoul/shouldn't have enabled?
+ *having
+ Anyone else having endless focus issues with the unity launcher and window focus? Wondering if there is a fix because if there isn't its pretty sloppy for a final ubuntu release. (I have a feeling it may be one of my compiz plugins though)
+ syn3rgy: http://askubuntu.com/questions/29559/how-can-i-keep-recent-files-from-appearing-in-unity
+ Anyone have any ideas about my untiy focus issue?
+ I am about to revert back to normal gnome metacity if no one has any ideas.
+ It's a shame Unity can't even do something simple like take the window focus...... I have to use the Alt + F1 key combination to get focus. Does anyone know what could be causing this?
+ billy1987: install ccsm
+ billy1987: Compiz Config Setting Manager lets you tunr on and off the compiz plugins
+ billy1987: depends how much you want the cube :)
+ billy1987: I have the cube running on my unity desktop
+ billy1987: lol i am actually trying to fix a window focus issue with unity now but i dont think its related to the cube plugin
+ billy1987: the reason it needs to disable the wall is because you can have ne or the other not both the wall is just the 4 squares instead of the flashy cube
+ billy1987: haha i need to publish a disclaimer
+ billy1987: could google the large desktop plugin find out what it does
+ billy1987: Did you enable the cube?
+ maddie: I'm having the same problem, I set nvidia settings to be on the launcher and on restart it was only an empty space.
+ maddie: Oh... that is strange I have the Faenza icon set working on my install.
+ maddie: How did you set the icons? Via the appearance app in the setting pane?
+ maddie: Oh well yeah thats the same problem as me
+ maddie: Yeah I'm having no luck with a frustrating window focus issue in unity too... seems to me Unity isn't as complete as it should be.
+ maddie: Sorry I couldn't help mate.
+ maddie: Yeah not a fan of either really. Although I was using Docky and gnome-do before which is pretty much unity. Same dev on docky and unity too. Just think its like KDE4 wont be good until a few iterations.
+ maddie: Nah unity is the window manager. You'd have to go back to using metacity and then install docky. Which isn't really a bad move because it worked without fail in 10.10.
+ daniel3: It uses unity
+ daniel3: gnome shell (in gnome 3) is a competing window manager
+ maddie: i think ill solve it be removing unity ;)
+ andeeeuk: http://askubuntu.com/questions/29559/how-can-i-keep-recent-files-from-appearing-in-unity
+ oh yeah good point gare I just made an assumption

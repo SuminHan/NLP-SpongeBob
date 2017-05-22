@@ -1,0 +1,1 @@
+ does anyone know why my memory may be pegging out, I have had issues lately with webpages freezing and it says the system may be out of memory, so i actually checked this time and cpu2 was maxed out at 100%?

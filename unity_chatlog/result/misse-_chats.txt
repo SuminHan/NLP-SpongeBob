@@ -1,0 +1,27 @@
+ Toph: deluge is my opinion as well :)
+ JediMaster: deluge has a cli interface as well
+ niels1: Hey, regarding your blank laptop screen + intel gpu.. there is some magic kernel option which I entered in grub on my moms laptop, at least for 10.04.
+ dmartinng: perhaps becasue you're gfx need drivers to be installed
+ ajin: I'm happy for you
+ mikebeecham: do you just want to change the wallpaper for gdm or the whole theme?
+ mikebeecham: you can either do it with some gconfhacking, but I think this is the easist way: gksudo -u gdm gnome-appearance-properties
+ mikebeecham: well that's wierd. hang on
+ mikebeecham: http://www.ubuntu-tennessee.org/tutorials/205/ <-- that will make your loginscreen spawn the gnome-appearance windo, so just change the background and login, afterwards you can remove the .desktop from the folder
+ it's all in the tutorial
+ drdozer: I would try to boot the install-cd again and look for a repair grub option
+ mikebeecham: http://www.flickr.com/photos/jackyalcine/5381411916/ <-- gdm wallpaper suggestion
+ drdozer: hmkay. either you burn a cd or you create an usb startup disk. Either way, you'll have to boot from some other medium to repare grub
+ mikebeecham: here's a solution for you: irssi
+ drdozer: depends on the grub error
+ drdozer: uhm. I wouldn't know what to type in the situation
+ mikebeecham: my irssi aint ugly :P
+ mikebeecham: http://ender.misse.org/irssi.png
+ mikebeecham: an interface designer ey, have I seen any of your work?
+ XBMC :'||||
+ and android
+ mikebeecham: wow indeed :D
+ rpk: what kind of server?
+ dunno what that is. but "sudo netstat -anp | grep <port number>" and "sudo iptables -nvL" might help out rpk
+ rpk: looks like 7001 only listens on tcp6
+ Natty Narwhal Maahes
+ jpohl: http://www.ubuntu-tennessee.org/tutorials/205/ <-- that will make your loginscreen spawn the gnome-appearance window, so just change the background and login

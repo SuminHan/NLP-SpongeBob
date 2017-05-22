@@ -1,0 +1,1 @@
+ hi my keyboard and mouse is not responding when i boot up into windows however is perfectly okay in ubuntu, i was thinking this was maybe a registry error?

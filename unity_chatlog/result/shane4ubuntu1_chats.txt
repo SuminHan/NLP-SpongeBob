@@ -1,0 +1,15 @@
+ ok, getting more used to unity, when an app is full screen how to I move it to my other screen?
+ also on pidgin I have no scroll bar to scroll down on this thing, or up.
+ Dr_Willis: I'm sorry, not another desktop, I have dual screen and want to drag it over to the other screen
+ Dr_Willis: as for the scroll bar, right, but in pidgin it just doesn't exist, when I scroll over to where it should be and get the arrows, there aren't any.
+ Dr_Willis: thanks.
+ Dr_Willis: for the full screen app, I was hoping to get around that, but thanks, also for the pidgin thanks anyway.
+ ActionParsnip: for the channel window
+ after about a day of using Unity, and breaking it twice, I'm getting more accustomed to it.
+ ActionParsnip: yeah, I'm on unity too
+ ActionParsnip: when I go over the users, a scroll bar (arrows) pop up, but not so for the channel window.
+ ActionParsnip: ahh, found it, on the users list, it is only towards the top, and the channel list only towards the bottom on the left hand side of both they appear.
+ ActionParsnip: odd, but they are there, thanks.
+ ok, on movie player (totem) the right arrow key used to advance 1min and the left went backwards 10 or 30 seconds, they don't work anymore?????
+ no one know of totem?  I can't even drag the slider to go forward or backward on a file, very odd, is that a bug?
+ anyone know of a good timer for ubuntu?  I used to use the tea timer on the panel, but well, that no longer exist with unity any timely timer tips??  :)

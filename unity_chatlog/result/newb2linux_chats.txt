@@ -1,0 +1,8 @@
+ Is anyone able to help me out removeing a ppa in terminal?
+ its not a ppa I guess.. this is what I get when I try to update with apt-get
+ W: Failed to fetch http://ppa.launchpad.net/user/ppa-name/ubuntu/dists/lucid/main/binary-i386/Packages.gz  404  Not Found
+ how do I remove that?
+ Err http://ppa.launchpad.net lucid/main Packages
+ What is ppa.launchpad.net?
+ Err http://ppa.launchpad.net lucid/main Packages when updating with apt-get in terminal how do I fix?
+ Err http://ppa.launchpad.net lucid/main Packages when updating with apt-get in terminal how do I fix?

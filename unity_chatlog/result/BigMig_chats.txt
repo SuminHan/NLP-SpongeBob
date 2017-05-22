@@ -1,0 +1,13 @@
+ I just updated to Natty Narwal yest from the last version using the updater and i all i see is flashing icons and cannot do anything?
+ can i fix somehow
+ I updated Ubuntu using the updater from the last verision to Natty Narwal and after update all I see is flashing icons and cant do anything. I'd perfer not to have to downlaod the lice cd and reinstall that way, can anybody point me in the right direction
+ anybody? please just point me in the right direction
+ I updated Ubuntu using the updater from the last verision to Natty Narwal and after update all I seeis flashing icons and cant do anything. I'd perfer not to have to downlaod the lice cd and reinstall that way, can anybody point me in the right direction
+ no i dual boot and just ubuntu is screwed
+ after boot it shows blinking icons and doesnt let me do anythinh
+ it worked before the update
+ perfectly
+ my question is where to find out how to fix it without downloading a disk and reinstlling
+ no all i see is my desktop backround and blinking icons
+ if by cold boot u mean manually resetting the computer and selecting the kernel i do that
+ thanks i will try that

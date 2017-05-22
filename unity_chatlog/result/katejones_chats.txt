@@ -1,0 +1,18 @@
+ I'm trying to install Ubuntu on a Konjinsha SA5 L500x (from a USB stick) and I'm getting a weird error and then a grey screen.. could anyone help?
+ (i'm running the install to see the error again)
+ I'm getting this error and then a grey/static like screen.
+ 126.358073  cs5535-mfd 0000 MFD devices failed to install
+ I can't install, and I can't boot into the Live Ubuntu on USB either.. would really like to install Ubuntu and get rid of XP.. can anyone help?
+ IdleOne : 11.04 on live USB stick, small netboox doesn't have cd drive but I can boot from usb. Installed it with the Universal USB installer on the USB stick, no errors
+ Yes, It starts OK, I get some code on black, then the MFD error, then Ubuntu with red dots moving underneath, then some more code, and then the screen goes blank (seems grainy too, greyish black)
+ thanks, will try.
+ ubottu & IdleOne - alternate version downloading, attempt number 2 :) (if that doesn't work I'll try the netbook version, if that doesn't work I might just throw this thing out the window..or be back)
+ @IdleOne - I put the Alternative Ubuntu on my USB, that won't boot at all..?
+ tried to install regular Ubuntu on notebook without cd drive so from USB = got MFD error and ubuntu wouldn't fully load (not live and no install). Put the iso on the USB with the Universal Windows installer thingie - no errors
+ IdleOne : Kojinsha notebook, 11.04 Alternative om USB, I het the installer boot menu but can't choose anything there (it reloads the boot choice screen except fro on ''test memory' 'which it starts to do)
+ akharris - I don't know for sure but I think you should install ALSA if I remember correctly (I'm sure there are more knowledgable people here..)
+ @IdleOne - thanks for the help.. I think Ill just give up and stick to XP on this notebook, must be incompatible or something...
+ Idleone - no problem, it's running fine on my Mac ;)
+ IdleOne - so dad has to stick with slow XP, I've had it with trying ;)
+ IdleOne - Do you think that might work better? Ok, that's the last thing I'll try then. it's a weird small netbook though, touchscreen..
+ IdleOne - thanks!

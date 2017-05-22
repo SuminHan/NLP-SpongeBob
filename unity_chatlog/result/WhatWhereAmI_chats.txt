@@ -1,0 +1,1 @@
+ Hey, i tried to install BURG and i think the installation broke somewhere. I only get "GRUB loading." and nothing else.

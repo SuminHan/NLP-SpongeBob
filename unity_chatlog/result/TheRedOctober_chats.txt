@@ -1,0 +1,33 @@
+ I guess it is time to try out Natty...wish me luck
+ Incarus6: that is the sentiment around the office as well...
+ Incarus6: the update failed outright, unable to calculate space (no exception or anything, just loudly failed)
+ What a painful upgrade!  Do --not-- try to enable desktop cube with ccsm
+ galamar: i wish I had
+ KlingaN: go into Update Manager and you will find it
+ KlingaN: NP, hope you enjoy
+ klingaN: lsb_release -a
+ jnlsnl: wow, never heard that one before...why use php in such a situation?
+ Is there a way to keep audio working when you hot switch from an X session to a tty session?
+ Has anyone yet figured out dual head monitors on LXDE or XFCE on 11.04?
+ Hi folks.  Is there a way to have multiple users (on a muti-head/multi-input system) login as the _same_ user and run firefox?  Unfortunately I get the "Firefox instacne already running" popup
+ ohsix: roger, i just want to have one login to rule them all....the desktop is locked down.  it is just for data input via firefox
+ Does anyone out there have experience with ncomputing thin devices on ubuntu 10.04?
+ Greetings all.  I am trying to ssh into a remote box that keeps giving me this error: "ssh_exchange_identification: Connection closed by remote host
+ Does anyone know what causes that?
+ NeuralJack: You can select "Classic Gnome" from the lower bar at the login screen
+ Thanks envy and blou!
+ bubba: I made up my mind.  Im running xfce.
+ GeekyAdam: There doesnt appear to be (my mirror doesnt have it)
+ tfrojd: what happens if you ctrl+z?
+ tfrojd: can you ssh into another instance and pgrep $yourcommand?
+ tfrojd: this is not the right answer, but might be a workaround.  use screen and detach it instead of nohup.
+ tfojd: yeah, i realized that made no sense after i typed it.
+ Anyone noticing high swap usage on a rather vanillia 11.04 desktop install?
+ ryankirkman: 3gb
+ ryankirkman: I guess I just have too many browsertabs open, however I have 700mb swap usage (and 900mb cached)...zuper swappy
+ sipior: not now, iowait is 1% as well.  this machine is rather chill, just sits at work for irc, personal email, ssh home.  it is just peculiar to see swap fill up like that.
+ Anyone know the prefferred way to install ruby 1.9.1 in ubuntu?
+ How do you kill a user logged into an X session without killing X?
+ while userHold.setup:
+ (oops)
+ Has anyone gotten dual monitors extended desktop working on xubuntu-desktop 11.04?

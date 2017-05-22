@@ -1,0 +1,36 @@
+ Is the Natty upgrade service down?
+ somethinginteres: Here in Britain my internet connection is fine but Natty won't upgrade
+ Never knew Ubuntu was this popular :D
+ !natty > Hedgehog456
+ What's wrong with Unity?
+ IdleOne: There's a ubottu command for that, just so you don't have to type as much ^_^: !wtf
+ !hoary
+ !eol > Hedgehog456
+ Servers okay now?
+ Servers okay now?
+ frankS2: How much RAM do you have?
+ frankS2: Strange.
+ Finally, the Ubuntu servers are stable now :D
+ I like Unity
+ It's an acquired taste :P
+ I dislike the way it's changed GTK+ though
+ dregin: Use the Dash
+ the Ubuntu button on the top left
+ click it
+ then type in what setting you want
+ you can disable unity and go back to classic ;)
+ Hm
+ On the main menu?
+ aurelien_: On the main menu?
+ System etc?
+ aurelien_: Okay
+ Click the power button and then 'System Settings'
+ All your preferences and admin stuff will be in there
+ :D
+ And you can look for apps in the Dash
+ After switching from Unity to GNOME, and editing a Compiz setting, everything is messed up.
+ Why does Natty have to mess so many things up?
+ Upon disabling the Compiz Unity plugin is it required to reactivate it to access Unity?
+ Upon disabling the Compiz Unity plugin is it required to reactivate it to access Unity?
+ I disabled it
+ To get Unity back do I have to reenable it?

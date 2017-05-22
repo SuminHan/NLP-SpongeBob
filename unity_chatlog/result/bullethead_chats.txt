@@ -1,0 +1,2 @@
+ question about the gnome3 ppa, anyone using it?
+ what's the global package name for the gnome 3 desktop using the ppa, I know it's not supported sorry, is it gnome3-desktop or something

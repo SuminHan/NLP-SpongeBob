@@ -1,0 +1,15 @@
+ (Essentially to get rid of highmem overhead, maybe tweak some config options, and whatever patches I write on a whim.)
+ sipior: Um, the stock compiler and binutils already build 64-bit kernels.
+ sipior: Eh? 32-bit emulation works fine.
+ sipior: I've done it on Debian before. Not a hitch.
+ sipior: Something about deb/apt kernel packaging has changed in the interim.
+ siopr: The hope was to get the source/patches/etc. for the Ubuntu kernel and drop my own things in the patch queue.
+ sipior: It's what I did with all the other distro kernels (including Debian several years ago).
+ sipior: You missed the part (perhaps deliberately) where either Ubuntu, newer deb/apt kernel packaging, or something makes apt-get source linux-image have very unintuitive results.
+ sipior: There used to be a debian/ dir in there with a set of patches to apply; now there's no patch set to put my code in.
+ sipior: Typically there was a script in there that applied the patches starting from virgin kernel source (or some approximation there of).
+ sipior: I'm off the net right now and will be for a while, otherwise no. I probably need to get off my phone to do some things, too.
+ sipior: That'll make it a headache to do certain things vs. the old list of patches. More detail will have to wait for net access, I guess.
+ I'm having trouble git cloning git://kernel.ubuntu.com/ubuntu/ubuntu-maverick.git because the remote end hangs up unexpectedly.
+ Is there an http git URL I can use instead?
+ http://kernel.ubuntu.com/git-repos/ubuntu/ubuntu-maverick.git I think

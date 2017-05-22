@@ -1,0 +1,1 @@
+ hi .. Im updated 10.10 to 11.04 and when i choose in the grub ubuntu kernel always only restart the PC. I need sombady help

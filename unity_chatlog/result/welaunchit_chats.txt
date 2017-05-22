@@ -1,0 +1,1 @@
+ How on earth do I close a bug report on launchpad? I can see where I can choose between the various statuses, but not how to close it altogether.

@@ -1,0 +1,2 @@
+ a111,  ulimits  perhaps
+ gonzalo, it could be looking for a diffrent version of libx11, you're running the ./configure with sudo or under root correct?

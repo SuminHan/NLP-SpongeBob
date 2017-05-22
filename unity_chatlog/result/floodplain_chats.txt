@@ -1,0 +1,4 @@
+ hi all, can  i  install the font Arial Narrow on ubuntu or is it just not going to happen?
+ taglass: cheers thanks, i thought i read that arial narrow wasn't included in that.
+ taglass: hmm, turns out i have both packages up to date
+ taglass: do you know will a web page with arial narrow auto degrade to a similar font?

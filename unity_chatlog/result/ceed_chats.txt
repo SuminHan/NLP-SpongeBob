@@ -1,0 +1,18 @@
+ Hi, when I log (natty) there's no Skype notification icon, only an open space where it should have been. If I kill Skype and open it again the notification icon appears. Any idea why it's not there when I log in?
+ If anyone have ugly boot after installing the non-free nvidia driver install startupmanager and set your resolution and color depth. after that it looks good.
+ asteriskmonkey1, log into ubuntu classic instead. that's the old gnome deskto
+ *desktop
+ asteriskmonkey1, log out, click on your name in gdm, then select classic from the meny on the bottom of the screen
+ asteriskmonkey1, I also hated Unity initially. you should give it a chance at some point. it's pretty functional although a bit more limited than good 'ol gnome right now.
+ dust--, Unity has played nice here the last couple of weeks. I like it
+ asteriskmonkey1, I multitask quite heavily myself, but I've always liked out of the way desktop environments, and Unity seems to be one of those :)
+ shane4ubuntu, no taskbar in Unity. You need to use the laucher or Alt-Tab. That's kinds Mac-ish, but works :)
+ shane4ubuntu, well. no. running apps are marked with an arrow on the side in the launcher, so you can restore apps from there
+ shane4ubuntu, if you feel you need a taskabar there's always classic! :)
+ I have my disk partitioned with a / partition and an encrypted /home partition. Before I encrypted /home I updated by deleting everything in /home except for data and format and install on /. Can I do that with an encrypted /home?
+ rednammoc, yes all the settings for programs and such, but kept all my data like docs music pics and such. That's been the way I've upgraded Ubuntu for years. Now I had to encrypt /home, so I wonder if I will be able to access the old encrypted /home after an instll on /?
+ rednammoc, I do not have any problems now. When I upgrade Ubuntu I use custom partitioning. I format / and install on it. I do not format /home which is where I keep all my data. That worked fine when I didn't have /home encrypted. Now I do, so I wonder if the installer will recognize the encrypted /home partition?
+ rednammoc, the only partition which is encrypted is /home.
+ rednammoc, I have read that, but that is about /home that's not encrypted. I already know how to do that  without /home encrypted.
+ rednammoc, so what you're saying is that installer won't recognize the encrypted partition as such even if I set it as /home with the manual partitioner in the installer?
+ rednammoc, hopefully it is. I guess I will simply have to backup data on /home and then try to see if it works. Thank you for the manual method though. Good to know! :)

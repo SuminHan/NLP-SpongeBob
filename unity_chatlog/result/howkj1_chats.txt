@@ -1,0 +1,18 @@
+ I have external usb hard drives and am trying to format them after a failed attempt at software raid 1.... now gparted is complaining that the device /dev/sde1 is in use and I can't format it
+ it isn't mounted
+ root@Stealth1:/home/howkj1# pvs
+   Couldn't find device with uuid 'IgWiAe-ksXG-YKEd-lnGV-m0Fz-8U5M-0UauYZ'.
+   PV             VG     Fmt  Attr PSize   PFree
+   /dev/md_d0     datavg lvm2 a-   931.51g 931.51g
+   unknown device datavg lvm2 a-   931.51g 931.51g
+ can anyone direct me to a channel for lvm removal / hard drive formatting issues? -thanks... using Ubuntu 10.04
+ Defusal_ : try : sudo /etc/init.d/networking restart
+ Defusal_ good point
+ Defusal_ : you could append... are you using sshd?
+ Defusal_ : so you could restart your network with the previous line and then use pipe " | " .......
+ Defusal_ sudo /etc/init.d/networking restart | /etc/init.d/sshd restart
+ pipe should run both commands at the same time
+ you might test it first
+ Defusal_ if you are running a critical connection
+ dagon : sudo apt-get install compizconfig-settings-manager
+ dagon : or you could right click desktop and select change desktop background : visual effects : extra

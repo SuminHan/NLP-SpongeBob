@@ -1,0 +1,6 @@
+ [Soma]: Auto-hiding can be disabled through CCSM
+ [Soma]: Also, moving your mouse to the top-left corner instantly shows the left dock
+ Wickedspawn: CCSM, General Settings, look for vertical and horizontal desktop size (IIRC)
+ Wickedspawn: simple-ccsm might work too, but I haven't tried
+ preyas__: IIRC it's available from a PPA
+ preyas__: You may have more luck with it in 11.10

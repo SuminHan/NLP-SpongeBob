@@ -1,0 +1,1 @@
+ hi ! is there a way when doing chmod -R to change the mod of hidden files ?

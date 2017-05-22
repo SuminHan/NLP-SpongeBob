@@ -1,0 +1,4 @@
+ shane4ubuntu1:
+ hi friends,i want to know how to configure conky,i just installed conky,the conky screen is black,i dont know how to use,please help
+ hi friends,i installed a programme called gsimreader in wine,i want to remove that app now,i am unable to do that,how to remove that app from the applications menu
+ any one there

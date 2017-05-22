@@ -1,0 +1,2 @@
+ What is the shortcut key for the new unity menu? Not the bar, but the search that pops up when  I click the ubuntu logo?
+ NM it is the "windows"  key. AKAK "meta"

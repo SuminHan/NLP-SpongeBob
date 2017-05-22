@@ -1,0 +1,64 @@
+ my unity not woking after i messed with dm
+ can any1 help me?
+ unity not working after i messed with gdm
+ i reverted it but no panal /launcher
+ can any1 help me i crashed my unity
+ my unity crashed no help from irc either!
+ :(
+ can ny1 help?my unity crashed after i messed with gdm
+ m fucked!
+ hello guys
+ i am suffering this error frrom synaptic
+ E: Encountered a section with no Package: header
+ E: Problem with MergeList /var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_natty_main_binary-i386_Packages
+ E: The package lists or status file could not be parsed or opened.
+ E: _cache->open() failed, please report.
+ pastebin?
+ guys help me m suffering 4m this
+ http://paste.ubuntu.com/602851/
+ http://paste.ubuntu.com/602851/
+ no...i hav upgraded 4m ubuntu beta 2
+ (natty)
+ synaptic error
+ http://paste.ubuntu.com/602851/
+ can anybody help?
+ ayecee can ya help me...
+ ayecee not working...
+ ran ...after dat too cant open syanptic
+ still i am unable to open synaptic.its showing same erroe
+ error
+ ayecee http://paste.ubuntu.com/602859/
+ ayecee the initial error was http://paste.ubuntu.com/602851/
+ ayecee ya after dat?it opened the software sources.do i need to disselect somthing?
+ of coz am sory didnt notice dat u r the 1 helping
+ coz still it the same error...wait i double check ur procedure
+  coz_ still it the same error...wait i double check ur procedure
+ coz_ the dialog box is now not opening
+ gksu synapticksu --desktop /usr/share/applications/software-properties-gtk.desktop /usr/bin/software-properties-gtk
+ this is not working
+ coz_m just restarting the system lets c if it helps...will be back again
+ coz_ yes...all ppa's
+ reloded after that
+ coz_, no
+ Reading package lists... Error!
+ E: Encountered a section with no Package: header
+ E: Problem with MergeList /var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_natty_main_binary-i386_Packages
+ E: The package lists or status file could not be parsed or opened.
+ coz_, mv: missing destination file operand after `/var/cache/apt/pkgcache.bin'
+ Try `mv --help' for more information
+ coz_, nevermind coz_  atleast u are trying to share my headache
+ coz_, urname=computername or account name?
+ coz_, mv: cannot move `/var/cache/apt/pkgcache.bin' to `/home/yourname/Desktop': No such file or directory
+ coz_, my bad wait
+ coz_, done there is now two files in my desktop now
+ coz_, *sigh* still same
+ coz_,  btw wats the problem?broken package?messed up settings?
+ all these may  hav  hapened after hot restart
+ what if i clear  the lib folder?
+ oh yes my bad...lib/apt list.if i clear the list folder then?
+ coz_, can i backup the list folder nd delate the unoffical source files?
+ coz_, any code for that? :)
+ coz_, that means i can clear entire list folder?
+ coz_, no.var/lib/aptlists
+ coz_, no.var/lib/apt/lists
+ coz_,  thats mine http://paste.ubuntu.com/602875/

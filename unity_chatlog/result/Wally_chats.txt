@@ -1,0 +1,11 @@
+ dFshadow like option boot?
+ When you boot your mac, hold down option.. you should see your USB drive there.
+ yeah use the Bootcamp Assistant.
+ dFshadow quite personally, you'd be better off running it as a VM though
+ What sort of Mac do you have?
+ and are you using Virtual box over VMware?
+ dFshadow if you're not using VMware then there's a problem
+ XP runs fine on my Mid 2010 13" MBP
+ Ewww
+ Thats even worse than VirtualBox
+ Try Vmware.

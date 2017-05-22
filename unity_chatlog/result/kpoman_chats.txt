@@ -1,0 +1,30 @@
+ hi all ! guys after upgrade to 11.04, my radeon DRI on Xorg is broken. Anyone got a quick fix ?
+ kernel 2.6.38-8
+ do someone know ?
+ hey ! do someone know about radeon ?
+ DRI ?
+ help
+ hey all
+ 11.04 is buggy for you too guys ? for me it wont restart/stop. and ATI radeon stopped working
+ KNUBBIG: when I try to restart / stop, it just logs out and hangs
+ KNUBBIG: even magic sysrq keys fail
+ what I dont understand is why, if I had the same kernel **before** the upgrade, my ATI stopped working (DRI disabled)
+ if someone know how to troubleshot / solve this ? X is unusable in vesa mode (1680x1050)
+ why with same kernel between 10.10 and 11.04 does ATI fail now to load DRM ?
+ if someone know anything here ?
+ why with same kernel between 10.10 and 11.04 does ATI fail now to load DRM ? Help !
+ rgr: I slightly changed the sentece
+ ok... I am now in ubuntu ! do someone know what could be wrong with radeon and X ? Why is it now failing to load with DRI ?
+ I do have errors on Xorg.0.log like "[    34.288] (EE) RADEON(0): [dri] RADEONDRIGetVersion failed because of a version mismatch." and some segfaults on fglrx tools
+ guys please I pasted here my Xorg.0.log debug information. I dont understand why my "supported card" isnt working after upgrade to 11.04: http://pastebin.com/nKRxwuuU
+ any clues ? any help really welcome !
+ help !
+ robin0800: I posted my Xorg log, failure loading DRI for radeon on 11.04
+ robin0800: got any idea ? http://pastebin.com/nKRxwuuU
+ hey guys ! I think I solved my issue (fglrx incompatibility) ... how do I enable desktop effects on 11.04 ? they seem disabled
+ is there somewhere to enable desktop effects ?
+ bitplane: did that, saw my 4 desktops
+ bitplane: see here: http://www.psychocats.net/ubuntu/desktopeffects ... they talk about a visual effects option in appearance. I dont have that option !!!
+ izinucs: I think I dont use unity ... dont know why. I upgraded from 10.10 to 11.04 and dont see any desktop difference apart from no effects
+ izinucs: is there something to do to get unity ?
+ oops started unity as root and that stuffed it all

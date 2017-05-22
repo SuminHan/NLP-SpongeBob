@@ -1,0 +1,88 @@
+ how can I resave all the files in a directory?
+ I've just done a mv dir2 dir --- and dirname(__FILE__) in php returns dir2, until I nano, and overwrite the file... Some weird bug.
+ Giles ?
+ Giles no -- it's just a require ( dirname(__FILE__) . '/file');
+ Giles: i did find . -exec touch {} + ---- this has mostly fixed it
+ I think it's possibly APC caching the old file
+ Giles I didn't say it did
+ resaving the files ALSO updates the access times
+ which is what I needed to do, it appears
+ Giles - I know.
+ Giles why are you telling me what I mean?
+ Giles -- resaving the files was updating the access/last modified times.. APC seems to cache files by that. Resaving was fixing it, but what I needed to do was just touch all the files
+ find . -exec touch {} +  fixed the issue
+ omg? are you reading what i'm saying/
+ I'm fully aware what touch does, and what overwriting a file in nano does
+ please - stop talking. It's fixed and you aren't reading...
+ Is the slow wifi bug fixed yet?
+ I have a geforce 7000m and my graphics are all fuzzy --- what driver do i install?
+ lockal it doesn't make much sense that an addon is platform dependant
+ i could be wrong, though
+ lockal ah okay
+ I have a geforce 7000m and my graphics are all fuzzy --- what driver do i install?
+ I have a geforce 7000m and my graphics are all fuzzy --- what driver do i install?
+ is there a fix for slow wifi on natty?
+ nemo ah I see... Sucks
+ my external USB hdd doesn't seem to get detected on ubuntu -- any ideas why?
+ minimec nothing in dmesg about it
+ Stereocaulon messages doesn't exist on natty
+ minimec nope its a passport drive, completely usb powered
+ minimec /dev/sda, sda1, sda2 and sda5 exist
+ Stereocaulon how do I get a list of usb devices?
+ did that, only shows 4 hubs
+ my drive lights up so it definitely has power
+ and it works on windows
+ minimec it used to work on 10.04
+ Stereocaulon it's a laptop, they're all on the side
+ Stereocaulon usb mouse works
+ minimec it's a fresh install and has been rebooted once already
+ dmesg | tail doesn't show anything
+ I don't think it's a power issue, it works on windows... on the same laptop..
+ *** dmesg | tail shows stuff about wlan but nothing when hdd is plugged/unplugged
+ minimec nope
+ but it works on windows so it can't be a power issue, can it?
+ it's an amd chipset, Stereocaulon
+ minimec ok np
+ Stereocaulon / minimec here?
+ It says new high speed usb device using ehci_hcd and address 68
+ usb-storage etc etc
+ but it doesn't show up anywhere? doesn't seem to mount
+ Stereocaulon any ideas why it isn't mounting now?
+ scsi10: usb-storage 2-2:1.0 --- but no mount
+ Stereocaulon http://pastie.org/1862149
+ Tomas just use Ubuntu Classic
+ Geoffrey2 it has to be done manually
+ Stereocaulon so what's the next step?
+ Stereocaulon it's literally a brand new installation done about 3 hours ago
+ Stereocaulon nope it's not
+ Stereocaulon --- it shows up in lsusb too
+ Device 069: ID ....... <model/version/etc>
+ ill reboot and test
+ all I want to do is move a file from one laptop to another
+ it's gonna take 6 hours via wifi
+ Stereocaulon it's already rebooting
+ Stereocaulon yes
+ Stereocaulon it's just booted up, nothing has been plugged in yet
+ Stereocaulon no problem hold on while I go through that
+ Stereocaulon usbcore says it registered new interface driver ums-cypress
+ Stereocaulon it says eery few seconds:
+ reset high speed USB device using ehci_hcd and address 2
+ said that 4 times
+ then, scsi 6:0:0:0 Device offlined - not ready after error recovery
+ Stereocaulon did you see that, above all the spam?
+ any ideas what would cause it ?
+ Stereocaulon this is a different HDD now
+ has its own power supply -- it's a caddy. just foudn it
+ the last one is probably lack of juice as you said
+ was a passport drive so entirely usb powered
+ Stereocaulon yeah
+ Stereocaulon the first one was a 250GB passport drive, nice and portable, wasn't detected AT ALL so likely power issue
+ second one is a SATA caddy with its own power supply, is picked up displays in lsusb and gives those errors above.. Doesn't mount.
+ multipass_ ubuntu has a pdf reader already
+ Stereocaulon heheh yeah, I only have one usb cable :)
+ Stereocaulon mouse isn't plugged in
+ only used it to test the port
+ Stereocaulon no problem. It's getting late now, I'll copy it via wifi overnight.. 6 hours.. lol
+ Stereocaulon thanks a lot for your help! Appreciate it
+ is anyone around?
+ Can anyone help me with making a user locked down a little more?

@@ -1,0 +1,1 @@
+ In 10.10 my web browser (firefox) automatically redirected to web pages.( Facebook would go to http://www.facebook.com) In 11.04 it dpesn't any reason why?(Not that big a deal though)

@@ -1,0 +1,5 @@
+ hi guys, I've just upgraded from ubuntu 10.10 to 11.04 and have a problem with multicast
+ could someone help? It seems that ufw is denying igmpt packets
+ Anyone has problems with allowing IGMP packets in Natty?
+ hi, I have problems after upgrading to natty.. ufw blocks igmp packets, so I am not able to receive data from multicast addresses using vlc. After disabling ufw everything works fine.. can someone help?
+ frank52: try to install compiz package

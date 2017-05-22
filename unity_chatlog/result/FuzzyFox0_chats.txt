@@ -1,0 +1,7 @@
+ hey all
+ I am looking for a command to list all printers on the network with their IP addresses
+ anyone? list all networked printers?
+ shcherbak: can it distinguish if port 9100 is open?
+ shcherbak: any thing more specific? Im not the most tech user however I can get my head round most things
+ defswork: some show but not all
+ defswork: most of the printers here use IPP so I need their ips :P

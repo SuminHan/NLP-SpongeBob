@@ -1,0 +1,3 @@
+ wow. so when you use last.fm, enable its try icon (which is not shown in unity) and close the last.fm windows, the program runs, but there is no way but to attach its launcher permanently if you want to see its windows ever again :D
+ also, the menu items of last fm are not shown in the top bar of unity
+ is that a generic issue with qt apps?

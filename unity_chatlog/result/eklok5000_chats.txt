@@ -1,0 +1,3 @@
+ hello
+ i wanted to install Stalker (Game)...the installation under wine works fine, i got all files on my data...but when i run the exe it says, that it cant find the CD-Rom, anyone has an idea?
+  i wanted to install Stalker (Game)...the installation under wine works

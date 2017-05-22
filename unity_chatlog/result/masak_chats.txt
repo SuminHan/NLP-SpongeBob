@@ -1,0 +1,18 @@
+ hi, Ubuntu user here. is this an appropriate channel to ask for help with installing the Perl module XML::LibXML on Ubuntu?
+ Arowana: I'm using cpanm, but the problem is the same regardless.
+ Arowana: getting this error: "looking for -llibxml2... libxml2 not found"
+ Arowana: I've already installed libxml2-dev through apt-get, so I'm surprised it doesn't find it.
+ yes.
+ sipior: I used 'cpanm', a minimal version of the cpan installer.
+ sipior: but the error is not in cpanm, but in the module dependencies.
+ ok.
+ sipior: hm, but that module is only a means to an end. I really want Test::XML::Valid.
+ Arowana: thing is, I always get stuck on this step. generally, I go and ask the Perl people how to do this, but they're often not too sure how to do it on Ubuntu.
+ but libxml is almost always a pain to get working the first time.
+ sipior: no, but maybe that'll do. I'll try it.
+ thank you for your help, Arowana, sipior.
+ I'm using 'sudo', yes :)
+ Arowana: no. in fact, I thought in Ubuntu there was no user 'root', just sudo.
+ Arowana: but maybe I'm wrong on that count.
+ ah.
+ Pici: :)

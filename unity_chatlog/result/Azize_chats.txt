@@ -1,0 +1,3 @@
+ Hello, witch package is necessary to install to enable personal file sharing?
+ I already installed samba and smbfs packages, but chackbox still disabled.
+ Is there any other package to be installed to enable personal file sharing. I installed samba and smbfs.

@@ -1,0 +1,1 @@
+ hi there.  I upgraded to 11.04 last night and had to reinstall deskbar-applet.  it seemed to install ok through apt-get but now I can't add it to the panel - it isn't there in the list.  any ideas?

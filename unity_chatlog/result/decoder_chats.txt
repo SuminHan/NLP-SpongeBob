@@ -1,0 +1,3 @@
+ im getting frequent kernel panic/freezes since upgrade from natty alpha to natty stable
+ :(
+ twice today already

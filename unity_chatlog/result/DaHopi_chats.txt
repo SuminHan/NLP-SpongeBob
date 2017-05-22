@@ -1,0 +1,2 @@
+ hello, in 11.04 (unity) my left panel doesnt hide if i maximize my app window..
+ http://img534.imageshack.us/f/launcheru.jpg/ "launcher" does not hide on maximized window..

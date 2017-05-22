@@ -1,0 +1,4 @@
+ I've a whole set of problems. 1st, I'm using ATI catalyst, (need it) & second I can't get a big red/white '1' in the top left corner to go away.
+ billy1987: & Glycan: Click power button top right > System Settings > CompizConfig Manager (After installing ccsm)
+ how can I get rid of a big red box with a '1' in the top left corner (using ati). I think I have to use a command-line aticonfig instruction because messing with the aticccle gui it keeps coming back.
+ anyone have trouble running LGP's X3 game on 64 bit?

@@ -1,0 +1,4 @@
+ I have 10.10 on an external HD. I moved it from my desktop to my new laptop. When I boot on my laptop there is no GUI. Anybody know what to do?
+ ParkerR: tried and it doesn't work
+ bkerensa: My external hd that has Ubuntu on it boots but there is no GUI. I have an AMD Athlon x2 p340 processor and for graphics I have ATI mobility radeon HD 4250
+ My external hd that has Ubuntu on it boots but there is no GUI. I have an AMD Athlon x2 p340 processor and for graphics I have ATI mobility radeon HD 4250

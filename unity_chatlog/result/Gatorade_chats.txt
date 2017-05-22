@@ -1,0 +1,1 @@
+ help, when trying to install wubi on my friends computer, pyrun yells at me. What can I do?

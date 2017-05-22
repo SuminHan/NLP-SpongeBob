@@ -1,0 +1,75 @@
+ RealOpty, no, it use it`s own unity
+ RealOpty, it has similarities
+ RealOpty, I will myself try to stick with standard gnome interface
+ RealOpty, you can choose what u want to use while logging
+ Can someone tell me is standard gnome interfece in 11.04 the same as in 10.10 ?
+ does someone know can evolution connect to my hotmail account and grab all my mail messages from the hotmail server ?
+ does someone know can evolution connect to my hotmail account and grab all my mail messages from the hotmail server ?
+ escott it does
+ snaki_ that seems to be universal answer to all my question, why than ask it here anyway ?
+ escott, i did that, but i want now that evolution grab all the emails that are on the server to my hard disk
+ escott, like tunderbird do
+ snaki, escott, thank you
+ snaki_ , escott, thanks
+ sanaki_ , escott, thanks ( i allways spell it wrong )
+ Is there any change to classic gnome desktop from 10.10 in 11.04 ?
+ jo-erlend, Sta4minn, thank you. I will migrate to 11.04 classic desktop than. It can be set to default ?
+ jo-erlend, Starminn, thank you. I will migrate to 11.04 classic desktop than. It can be set to default ?
+ but if  i dont want login screen, can gnome be default ?
+ sebsebseb tnx, thats good :)
+ is there any diference in performance if i setup separate /home partiton and if I don't  ?
+ if i set evolution to check for mail every 5 minuts, will it display me notify when mail is receved or it will be just stored in inbox ?
+ if i set evolution to check for mail every 5 minuts, will it display me notify when mail is receved or it will be just stored in inbox ?
+ does anybody know how i get acces to programs that are gonne in system tray [ubuntu 11.04] ? ? ?
+ how do i acces system tray
+ jo-erlend: how ?
+ jo-erlend_: how ?
+ jo-erlend_, is that a bug in unity and it will be fixed or it will stay forever like that ?
+ jo-erlend_, so xchat, amsn and all other stuff that have "go in system tray on "x"" just disapear
+ jo-erlend_, thanks for answering. ( btw, i really don't like that new behavior )
+ jo-erlend_: we users get used to some stuff :)
+ jo-erlend_: skype has no problems going in the upper bar when i say "stay in system tray when i click "x" "
+ jo-erlend_: that has nothing to do with unity ?
+ jo-erlend_: thank you, i`ll install ccsm and try to make it that way
+ jo-erlend_, i don't have that eather, i`ll install it
+ jo-erlend_, can i pm you ?
+ jo-erlend_, ok, tnx
+ jo-erland_, when i try sudo apt-get install dconf-editor it says that it doesn't exist
+ jo-erland_, i'v installed dconf alone, but it reports me an eror when i try to start it ( alltought, i don't know why am i trying that )
+ jo-erland_, the package is named "dconf-tools" but it doesn't work, anyway, thanks for help
+ ok, i found a way to let applications stay in system tray in UNIITY !       gsettings set com.canonical.Unity.Panel systray-whitelist "['all']"       jo-erland_
+ please kick this dude
+ How to set Geany to run code using python3, not 2    ?
+ when i minimize geany *python IDE* it disapears somwhere and i can't get my project back, when i click on louncher in unity=s toolbar it just starts me new geany/ How to bring back geany that disapeared from backgraund ?
+ ubuntu 11.04
+ when i minimize geany *python IDE* it disapears somwhere and i can't get my project back, when i click on louncher in unity=s toolbar it just starts me new geany/ How to bring back geany that disapeared from backgraund ?
+ please, i need to save my work
+ when i minimize geany *python IDE* it disapears somwhere and i can't get my project back, when i click on louncher in unity=s toolbar it just starts me new geany/ How to bring back geany that disapeared from backgraund ?
+ i can see it in system monitor, hot to bring it back on desktop ?
+ HyperShock, what is "super" ?
+ HyperShock, i don't see it that way
+ HyperShock, it is like when some aplication go in system tray that is no more in unity
+ HyperShock, and now i can;t pick it up and save my work
+ HyperShock, escott its not in unity bar, when i click on new geany it just open new geany
+ escott, i can't alt-tab it
+ HyperShock, just hit the "_" minimize button
+ HyperShock, it's over, my work is gonne, there is no more geany process in the system monitor :/ ... i don't know what happend
+ HyperShock, i have tried again and i was able to alt-tab it alltought i didn't saw it anywhere and it did not dock in unity's bar.
+ HyperShock, no,
+ HyperShock, my work is mostly saved and part that gonne is not so big, but anyway, this should not happen
+ HyperShock, maby thats the problem, geany is docked by default in unity bar on my system !
+ HyperShock, and if it is so, than the minimized geeany just desapear
+ HyperShock, i had clean install
+ HyperShock, and freshly installed geany, and then i set system from the scratch
+ HyperShock, and freshly installed geany, and then i set system from the scratch
+ HyperShock, I did it
+ HyperShock, thank you for help and info, I think that that needs to be fixed, it is some kind of bug if geany is docked in the unity's toolbar
+ HyperShock, eaven if i set that geany is nod in louncher by default, it still doesn't minimize it there ...
+ HyperShock, there is some problem with my system alone, probably
+ HyperShock, are you rrunning 64 or 42 bit ?
+ 32*
+ the same ...
+ HyperShock, anyway, thank you, by
+ what ? <Cairo|Mac> Stameni: sudo apt-get purge firefox
+ Cairo|Mac, so what that has to do with me ? :)
+ Cairo|Mac :)

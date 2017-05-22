@@ -1,0 +1,13 @@
+ paddy_: that's a common issue with raid5
+ paddy_: yes, the disks are the limiting factor
+ paddy_: with raid5 over 3 disks, the read actions are nicely spread over all 3 disks, the writes however results writes on 2 or even 3 disks simultaneously: not much performance gain over a single disk
+ paddy_: more disks ;)
+ paddy_: though write performance will never be really great with raid5, if you want both read and write performance, go for raid10
+ paddy_: it also highly depends on your io patterns
+ paddy_: the real performance gains with raid5 are when using a hardware raid controller with a battery backed write chache
+ cache
+ paddy_: or use SSDs ;)
+ paddy_: only highend hardware raid controllers can use ssds as cache (and you'd need an enterprise class ssd for that as well), zfs can use ssds as cache as well though
+ paddy_: wont make a difference afaik
+ paddy_: when write performance is needed, one usually just doesnt use raid5 :)
+ paddy_: it all comes down to your needs/wishes/wallet basically, but raid10 is quite likely to give you much better write performance than raid5

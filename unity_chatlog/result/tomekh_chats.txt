@@ -1,0 +1,14 @@
+ hi. i have just installed xubuntu 11.04. is there a way to apt-get only libreoffice writer and calc? (yeah, i'd like to have an minimal libreoffice installation in my xubuntu environment)
+ mickster04: ?
+ mickster04: nope, it will not :)
+ hi. how do i install _minimall_ set of qt4?
+ hi. accidentaly i have removed $HOME/.bash_logout - anyone can pastebin me content of this file?
+ xteejx: thanks mate.
+ if i do (in command line): Name_of_dir_[and tab here], bash doesn't append "/" at end of dir, but it appends whitespace. where to fix that?
+ llutz: i do not have "adobe" or "flashplugin", but i have acroread.sh :)
+ llutz: which i have installed yesterday :)
+ llutz: thanks, i'll check that bug
+ llutz: yeah, sed -i "s/_filedir/_filedir_acroread/" /etc/bash_completion.d/acroread.sh helped :)
+ if i play my mp3's files with mplayer, i have a 2-3 second gap between previous and next file. what's the problem?
+ hi. anyone here also have problem with thunar starting (first run) for about 10 seconds? (ubuntu 11.04)
+ coz_: currently this problem also occurs with nautilus.

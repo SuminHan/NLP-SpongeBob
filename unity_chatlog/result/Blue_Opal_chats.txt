@@ -1,0 +1,15 @@
+ stfollower: apt-get install kubuntu-desktop
+ stfollower: you can then switch between them on the login screen
+ on the login screen there will be a button, you can swtich between gnome and kde
+ np
+ sdgdsffsd: try kde
+ nope, you can install both and switch between them
+ as i said it will not replace gnome
+ what do you mean how long?
+ as far as i know ubuntu will now use unity, which has some gnome components
+ so no it isnt, 11.10 will probably be similar to whats in 11.04 which is unity
+ not sure about that, if you like gnome 2 you should look at using a distro that hasnt switched to gnome 3, there are probably quite a few out there
+ Rehan: true but there is not much of an alternative
+ openoffice wasnt much better
+ Rehan: openoffice was defiantly more stable but it doesnt quite measure up compared to microsoft office, which is a disappointment, thats still a major problem with linux os, there is much in the way of an office app yet, hopefully things will change
+ Rehan: Yeah defiantly, the actualy operating system is world class but i often notice that applications are never quite as good, still it is impressive that they are free and dependant entirely on donations

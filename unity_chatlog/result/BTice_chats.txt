@@ -1,0 +1,2 @@
+ Hello. I have a fresh 11.04 install on a Thinkpad T43. I added the Einstein game, but when I run it, the system hangs. I have to open a terminal session to kill it. It looks like it's trying to do a full-screen, but can't figure out the screen size, and rescales the Linux controls (upper right corner) off the edge of the screen. Any suggestions?
+ I agree on Thinkpads, ThinkT510, though Natty isn't behaving that well on my T43.

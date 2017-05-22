@@ -1,0 +1,10 @@
+ hi, could you teach install ubuntu-server 11.04(amd64) about uEFI architecture ?
+ I try install ubuntu-server 11.04 to IBM X3550M3
+ celthunder:installation process was completed. but...
+ grub2 was not find kernel at the time of  boot after the installation.
+ celthunder: the error message is ..  "error: invalid arch independent ELF magic:
+ celthunder: 64bit
+ no ,
+ I use install to server IBM X3550M3
+ celthunder: usind cpu is Intel(R) Xeon(R) CPU E5620
+ i use

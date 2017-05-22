@@ -1,0 +1,8 @@
+ Okay, somehow after I upgraded to 11.04 I broke GRUB. I've booted to my install via a SuperGRUB USB, but how do I go about fixing my grub setup?
+ Anyone have any clues on how to fix a broken GRUB setup?
+ Rehan: Somehow I broke it during the upgrade to 11.04
+ Rehan: I'm booting off the installed system now (11.4 running fine even!) via SuperGrub.
+ But I can't seem to fix it.
+ sudo grub-install doesn't want to work. It Complains: Attempting to install GRUB to a partitionless disk or to a partition.  This is a BAD idea..
+ Rehan: Well slight problem, I'm already in my install, not running of a live CD.
+ Thus my active partition is already mounted.

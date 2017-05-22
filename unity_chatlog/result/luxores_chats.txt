@@ -1,0 +1,7 @@
+ hi
+ i have some problems with my qualcomm UMTS modem after upgrading ubuntu last night
+ it disconnects all 3 secounds
+ May  4 14:53:42 -ThinkPad-X100e kernel: [ 1326.581624] qcserial 1-3:1.3: device disconnected
+ May  4 14:53:42 -ThinkPad-X100e kernel: [ 1326.860109] usb 1-3: new high speed USB device using ehci_hcd and address 59
+ May  4 14:53:43 -ThinkPad-X100e kernel: [ 1327.012558] usb 1-3: config 1 has an invalid interface number: 1 but max is 0
+ can you give me some help?

@@ -1,0 +1,3 @@
+ got a big problem, And im stuck on with troubleshooting. SSHD on my box wont let me in, Nothing bad in log, Even replies to netcat
+ SSH problems : http://paste.ubuntu.com/602371/
+ So, SSH wont connect, yet is running

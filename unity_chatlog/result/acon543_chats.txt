@@ -1,0 +1,3 @@
+ is there an application which find urls for video streams
+ r0hit: in that DownloadHelper my site is not in supported list, do you know other applications
+ what are the applications that use jamendo music service , I know rhythmbox, amarok and clementine

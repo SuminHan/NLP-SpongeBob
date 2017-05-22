@@ -1,0 +1,10 @@
+ I am having an issue regarding installing ubuntu...
+ I downloaded the CD from the website,
+ and used it to install.
+ once the installation was done
+ it asked me to remove the CD so it could re-boot.
+ so after I did, and it rebooted, it just sat there.
+ after going thru the POST screen
+ @gmachine_24: 11.04
+ no
+ many times,

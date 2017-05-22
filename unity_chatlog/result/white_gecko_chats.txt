@@ -1,0 +1,3 @@
+ hey hello, is in 11.04 netbook and desktop the same or where can i find the download for a netwook image?
+ xangua: so i should put desktop on my usb stick
+ there is a link to http://releases.ubuntu.com/11.04/ubuntu-11.04-netbook-i386.iso.torrent on http://www.ubuntu.com/download/ubuntu/alternative-download#bt but it doesn't work

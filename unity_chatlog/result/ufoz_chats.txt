@@ -1,0 +1,2 @@
+ hi all. i did a dist upgrade to 11.04. In the Dash i cant search for applications, i cant start the multimedia applications.
+ i try to search for installed applications in the unity dash. but nothing happens. it wont search

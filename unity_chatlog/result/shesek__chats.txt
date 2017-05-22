@@ -1,0 +1,3 @@
+ Hey. Any idea what I should add to my /etc/apt/sources.list for the armel port sources (on Maverick) ?
+ I can't seem to fidn that anywhere
+ s/fidn/find

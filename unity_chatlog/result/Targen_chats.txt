@@ -1,0 +1,2 @@
+ hi.  i've got a question that might seem a bit silly, but i've been googling for a couple hours now and i can't find anything.
+ in gnome, how do i change the number of lines or otherwise alter the speed of mouse wheel scrolling?

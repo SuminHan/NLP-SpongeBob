@@ -1,0 +1,2 @@
+ Hello, I am running natty and have installed gnome3 from ppa, I'm confused about how to change my gtk/wm theme, I've tried the regular tool (right click nautilus desktop > change desktop background > theme tab) but this has no effect. I've then installed gnome-tweak-tool but it only shows one theme 'raleigh' even though I have installed more themes with apt
+ izinucs: Thank you :)

@@ -1,0 +1,12 @@
+ hi, i have a laptop hp, core i5, 500 gb hdd, 4 gb ram, intel gma 4500mhd, and i just downloaded ubuntu 11.04 yesterday, im trying the live feature from my pendrive and it works fine, but when i try to install the ubuntu on my laptop i just get a black screen, but the caps block still works, what can i do?
+ id10t, what can i do if i want to install ubuntu 11.04
+ intel gma 4500mhd
+ is there a secure mode or a alternative video install part?
+ thanks id10t!!!
+ nope
+ id10t
+ it works when ubuntu is installed
+ but i cannot install
+ i just get a black screen is there a text mode install?
+ Anybody knows hot to install ubuntu 1104 in text mode????
+ thaks

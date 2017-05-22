@@ -1,0 +1,10 @@
+ is natty released yet? ;-)
+ hinogi: hve u tried updating it? i have always had issues with broadcom addaptors, but there is an installer
+ hinogi: try plugging using a wired network
+ hinogi: System > Administration > Hardware/Additional Drivers
+ hinogi: sorry mate im out
+ hinogi: ooh try sudo apt-get install b43-fwcutter
+ pzn, you can log out and get "gnome" back
+ pzn, no danger
+ quassel__, why not try an alternative, such as chrome/ium
+ rpk, nope

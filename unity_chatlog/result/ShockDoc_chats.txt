@@ -1,0 +1,43 @@
+ hello!
+ anyone here? :)
+ does anyone know how I can make ubuntu 11.04 boot in verbose mode?
+ I don't want to press ESC every time
+ ah
+ text
+ I've tried verbose
+ didn't look
+ I'll try using text instead of verbose
+ thanks for the help ;
+ yeah,I know
+ thanks ActionParsnip
+ I'm back fellas
+ using the "text" option drops me down to a shell :/
+ ActionParsnip, any ideas for my grub issue?
+ anyone else know how can make 11.04 boot verbose?
+ I tried that ruffleS , but is doesn't work :/
+ it*
+ yes ruffleS
+ just tried that ruffleS , didn't work, then it booted into a shell
+ I edited my /etc/default/grub about 20 times, still no verbose boot
+ k ruffleS , just a sec
+ nah Dr_Willis , the grub is brand new :p
+ Dr_Willis, ??
+ well I think something is wrong with the nvidia drives is what is causing the issue Dr_Willis
+ ah, well I'm out of options Dr_Willis  ;)
+ now I have GRUB_CMDLINE_LINUX_DEFAULT=""
+ I'I'm sure of that Dr_Willis , installed to the MBR
+ updated, Dr_Willis
+ shall I reboot?
+ uh yes Dr_Willis
+ it used to be so easy to get a verbose boot :/
+ well I'll have a reboot, see what happens
+ yeah I know, that works Dr_Willis , but that's not what I want, the text thing actually boots to a command line
+ brb, gonna reboot
+ still nothing guys ._.
+ still nothing :'(
+ hey guys
+ anyone know how I can make ubuntu 11.04 boot verbose?
+ it is unchecked morissette
+ it still shows me the ugly purple
+ hmmm, why can't I get my grub to run at the correct resolution? :/
+ it should be KNUBBIG

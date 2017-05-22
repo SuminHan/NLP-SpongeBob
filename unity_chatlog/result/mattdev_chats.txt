@@ -1,0 +1,1 @@
+ I keep getting the "Fully charged" status through upower (and so gnome-power-manager) even thoug an upower --dump shows that the battery is not fully charged in numbers. Is there a way to fix is?

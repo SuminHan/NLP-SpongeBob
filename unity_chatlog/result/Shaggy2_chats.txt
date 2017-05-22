@@ -1,0 +1,63 @@
+ I need some help I just installed ubuntu 11.04 desktop, it's not booting
+ has anyone had any problems with booting into ubuntu 11.04 after install?
+ yes it wasn't loading, would start to load (ie the purple screen) then would go to a black screen and nothing, I could type anything I wanted and it wouldn't do anything, I shoved the disk back in to boot to live to double check that it works on my system and loaded in with out a problem I am now running the install again
+ maybe something went cookoo while installing
+ will try that if it happens again thanks
+ I dumped windows 7 for this problem lol
+ MICROSUCK BALLS
+ ok sorry
+ ok it has finished it's re install.... first boot has all the services listed with [OK] after them but one. Starting automatic crash report generation [fail]
+ and it just hangs there with that on the screen
+ how do I get to the rescue mode?
+ Incarus: how do I get the Rescue mode to show?
+ oIncarus6: how do I load into rescue mode please
+ can someone please tell me how to load into the rescue mode on 11.04
+ I don't know.... Incarus6 told me to load into rescue mode and run some commands
+ I have no idea how to get to the rescue mode
+ I can not get to the login screen
+ I don't get to see grub either
+ it loads the purple screen with nothing on it, then drops to a plane black screen, when I hit ctrl+alt+del it does the kill proccess but all I am getting is a blane black scren
+ vibhuv I just told you my problem
+ it has to be starting I just don't get any options
+ is there a button I can press to force grub to show
+ YAY shift is it
+ ok I have done the apt-get -f install, there was nothing to install
+ ok I have done the apt-get -f install, there was nothing to install
+ how do I load into gnome from the cli?
+ after typing startx I get: fatal server error: No screens found.
+ seems like the 11.04 install didn't work correctly
+ yes
+ Incarus6: Yes I am using nVidia
+ Incarus6: it has 3 screen to choose from
+ yes, 3 screens on 2 nVidia cards
+ can you point me to a help doc on installing the nVidia drivers?
+ Incarus6: I have just re read the screen output, it say's that screens were found but none with a usable confiuration
+ Incarus6:  also say's that it doesn't support the pci card I have, but didn't say anything about the pcie card
+ yes both cards are new
+ it's on a different system I am using a laptop running win vista
+ anyone able to assist me with my 3 monitors, I have an issue with it, I have all 3 working, but one I can not change from about 800x600 and also I want to be able to drag windows from one screen to another
+ <celthunder> I want to goto 1280 x 1024
+ <celthunder> ok thanks for that, but how do I make it so I can drag windows across the monitors, at the moment I can only open up on the monitor I want it on but I can't move from monitor to monitor
+ ubuntu 10.04
+ celthunder: also this xrandr -output <OUTPUTTORESIZE> -mode 800x600 how do I make on;y do that to a certainmonitor, as I have 3 montiors ones widescreen and the other 2 are normal 17"
+ ahhhh ok
+ celthunder: so xrandr -output <DFP-0> -mode 1280x1024
+ ok
+ ok can someone tell me how to install ATI Drivers on 10.04
+ truepurple: I have Hardware drivers, but it only shows nVidia drivers there, I have a PCI nVidia card, and a PCIe ATI Card
+ might shutdown and pull the nVidia card
+ bbs
+ OK so I have ubuntu 10.04 I have a nVidia gtx460 PCie card. ubuntu is not finding the drivers for it, where can I download the drivers for this card from?
+ how do I exit Xserver?
+ thank you
+ I was told that there is a way to force a GTX460 SE to handle 3 displays, it's an application that needs to be installed, does anyone know about it?
+ I was told that there is a way to force a GTX460 SE to handle 3 displays, it's an application that needs to be installed, does anyone know about it?
+ how do I install xinerama?
+ how do I get my 5.1 speakers to work in ubuntu 10.04
+ more to the point of my onboard sound card that supports 5.1 and seperate the front panel to look like a second card
+ I have a problem with rythmbox 0.12.8 the visualisations are lagging is like 1 image refresh per second
+ I have a problem with rythmbox 0.12.8 on ubuntu 10.04the visualisations are lagging is like 1 image refresh per second
+ I have a logitech g15 Keyboard. I want to use the LCD display in ubuntu does anyone know how I can go about this, or where I can find help on this matter
+ I have a logitech g15 Keyboard. I want to use the LCD display in ubuntu does anyone know how I can go about this, or where I can find help on this matter
+ I have a logitech g15 Keyboard. I want to use the LCD display in ubuntu does anyone know how I can go about this, or where I can find help on this matter
+ I have a logitech g15 Keyboard. I want to use the LCD display in ubuntu does anyone know how I can go about this, or where I can find help on this matter

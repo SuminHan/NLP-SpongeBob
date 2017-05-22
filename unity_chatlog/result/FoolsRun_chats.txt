@@ -1,0 +1,50 @@
+ Hey, is there an upgrade path from 10.04 to 11.04? Update-Manager is only showing 10.10 available.
+ Coty91: Really? blech. Okay, thanks.
+ Does anyone here actually like 11.04? I really like it and I'm losing my mind reading the squeeky wheels bitch all over the internet.
+ txomon: cool, me too.
+ What is disappointing about Unity? I think it makes everything easier for new users.
+ Jot: I haven't had any trouble using nvidia-settings
+ scorch2: did it get stuck stopping CUPS by any chance? I had mine stop there a few times and just manually killed CUPS to fix it.
+ NyvenZA: unity-2d
+ Hey, unity-2d will work in NX, right?
+ eigba_: I disagree. I think it's a good idea to focus on Ubuntu being one thing. Part of what's offputting about linux is how fragmented it is.
+ Does anyone have a "best way" to move an Ubuntu installation from one hard drive to another?
+ I want to move my Ubuntu install to a newer, larger hdd. Anyone have a good howto on this?
+ Hey, Unity-2d doesn't seem to autohide. Am I missing something?
+ Hi, so since Natty the kernel now understands IR events from remote controls. Is there any way to stop this and go back the way it was? It makes XBMC uncontrollable with an MCE remote.
+ Okay, here's an easy one. I have a fix I need to apply that suggests the following:  echo lirc > /sys/class/rc/rc0/protocols  Which is great except that I don't have an rc0 directory. Do I just create it?
+ can you run both Unity and Unity-2d on the same system?
+ RE above: I don't think Ubuntu will be a stepping stone to other distros any more than Windows is a stepping stone to other Linux distros. Some people just like a desktop operating system
+ cardamon: sudo apt-get install unity-2d     then choose unity-2d from the session menu at login
+ NictraSavios: how is that a bad thing?
+ NictraSavios: I don't get it
+ NictraSavios: so you're more interested in being part of an elite group than in there being a usable third option for normal users?
+ NictraSavios: I just don't get it, I guess. I like computers to be easy for everyone to use, not complicated so that only a special few can take part.
+ NictraSavios: but surely you see the advantage of a useful, functional, uncomplicated distro for people like, case in point, my wife who has Natty on a netbook and loves it.
+ holy crap! since when can you use XBMC as your session at login?! Awesome!
+ NictraSavios: actually I like that. I use Win7 at work and am always tapping the Windows key and searching, and the Application button has that same functionality.
+ NictraSavios: you're installing Linux for customers? Brave. I don't like being on the hook like that when they hate it or it breaks.
+ NictraSavios: "Where's my Outlook" is all I'd ever hear
+ But I support businesses, not individuals, so it's different.
+ Huh... does rc.local run differently since 10.04? I have two commands in it that aren't running properly.
+ What log do errors from rc.local show up in? I have a couple commands that aren't starting properly since upgrading
+ mrdeb: there's no upgrade path from 10.04 to 11.04. You have to install 10.10 first.
+ mrdeb: depends on what you're using it for
+ mrdeb: if it's a "server" type machine, stick with 10.04 because it's more stable. If it's a desktop, I actually really like 11.04.
+ Do commands in rc.local need any kind of prefix if I want to run them as root? Or is it just one command per line?
+ I am an idiot
+ Note: when putting commands in rc.local, put & after them
+ Hi, did something change since 10.04 to prevent connecting to an X display using DISPLAY=0.0 <command> ?
+ Did something change since 10.04 to prevent connecting to an X display using DISPLAY=0.0 <command> ?
+ Hi, since upgrading to 11.04 I've been receiving the following when trying to run a graphical app from command line:  "Can't connect to X11 window server using ':0' as the value of the DISPLAY variable". This worked in 10.04 by putting DISPLAY=:0  before the command. I've removed -nolisten tcp from the X start command with no luck.
+ Does anyone knwo anything about my DISPLAY=:0 issue?
+ One more try:  Hi, since upgrading to 11.04 I've been receiving the following when trying to run a graphical app from command line:  "Can't connect to X11 window server using ':0' as the value of the DISPLAY variable". This worked in 10.04 by putting DISPLAY=:0  before the command. I've removed -nolisten tcp from the X start command with no luck.
+ Can anyone tell me how to run an application (actually a Java .jar file) on my machine's :0 display from SSH?
+ smw: export DISPLAY=':0' COMMAND HERE ?
+ smw: I mean do I use the export command on a separate line, or as part of the java -jar line?\
+ smw: I get "Can't connect to X11 window server using ':0' as the value of the DISPLAY variable."
+ smw: the same user as who?
+ smw: I'm not, but I disabled "nolisten tcp" for X
+ smw: I'll try as the same user
+ smw: the same user can't connect to :0 either
+ Okay, new question: when shell scripting, what is the syntax for inline-su?  Is it just su username command?

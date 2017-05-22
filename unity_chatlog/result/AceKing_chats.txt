@@ -1,0 +1,77 @@
+ Can someone post a torrent link for 11.04 32 bit download? The link on the Ubuntu site is not working
+ Jrib, ok, thank you for letting me know
+ jrib, I bet you wish you had a dollor for everytime you have to say that today! LOL
+ Dollar
+ Damn! took me 3 minutes to download 11.04! I'm surprised it wasn't slower with all the downloads going on.
+ I have a question.. I encrypted my home folder when installing 10.10. If I install 11.04 on a new HDD, and hook up the old HDD through USB, will I be able to access my files in the Home folder of the old drive?
+ DamienCassou, that's what I'm figuring. I just have to find a way how to do it
+ DamienCassou, I just found a link that says how to do it. https://help.ubuntu.com/community/EncryptedPrivateDirectory#Live CD method of opening a encrypted home directory
+ Is there anyway to install an indicator to see what programs are open and running?
+ usr13, knick, thanks
+ usr13, knick, But is there a way to show in the panel which programs are open? I'm really trying to give this a shot before I switch back to Classic Ubuntu
+ knick, I'm glad to see I'm not the only one
+ knick, I hope they redesign this. It looks like a lot of people aren't happy with this
+ knick, I know, it's like they took a step back in a way
+ Can someone tell me how to install the Kubuntu desktop on Ubuntu without having to do a reinstall? I know it can be done, I just don't know how
+ izinucs, thank you!
+ izinucs, Great, I appreciate it. I was trying to get used to this new desktop, but it is terrible
+ izinucs, I hate the fact that you don't have an indicator to which programs are running. You have to search on the sidebar which is temperamental
+ izinucs, When I run the mouse over it, it appears and disappears before I can click on an item
+ izinucs, I will try that. Thanks
+ izinucs, I'm curious, can you update a computer running Ubuntu 10.10 to KUbuntu 11.04? The reason I ask is that I have Ubuntu 10.10 on my parents computer, and they will be totally lost with this.
+ ScottR3, I thought I read that people were having some problems using the Classic Ubuntu desktop.
+ ScottR3, Ok, thanks!
+ cousin_mario, Are you talking about 11.04 in general having problems?
+ izinucs, Thank you! I never heard of teamviewer, is that a remote desktop program? I do have a logmein account, but unfortunately it doesn't work with Linux
+ izinucs, I appreciate all your help today! I learned a lot
+ izinucs, one more question.. I'm installing the Kubuntu like you told me in Terminal. Setup is asking if I want to use GDM or KDM, which should I choose?
+ vibhav, Thanks!
+ izinucs, Ok Thanks again!
+ izinucs, At the risk of sounding stupid, what are built in gestures?
+ I'm trying to disable "Recent Documents" If I use this command, sudo apt-get remove zeitgeist will it interfere with anything else?
+ does anyone know how to disable "Recent Documents" in 11.04?
+ does anyone know how to disable "Recent Documents" in 11.04?
+ bazhang, do you know how to disable the "Recent Documents" in 11.04?
+ Is there any way to disable "Recent Documents" in 11.04?
+ botcity, thank you
+ bocity, sorry for the delay, I was away from my PC for a minute
+ botcity, I tried it.. didn't work :(
+ jguzikowski, go into appearance and choose a lighter theme
+ jguzikowski, the same thing happened to me when I upgraded one of my laptops
+ jguzikowski, no problem. I didn't like the new layout, so I logged out and booted in Ubuntu Classic mode
+ botcity, Yes, I seen a comment below that said it didn't work for them either.
+ botcity, I was almost thinking about unistalling Zeitgeist. I just don't know what repercussions it would have on anything else.
+ ActionParsnip, Do you know of anyway to disable the "Recent Documents" in 11.04? I've tried some stuff I tried  on the Internet, and something someone told me in this channel. Neither worked. I figured you may know something.
+ ActionParsnip, I have been asking since 4:00 AM. LOL. I know you helped me out a bunch of times and never steered me wrong, so I figured I'd check.
+ botcity, Thanks!
+ botcity, It's funny, whenever I run rm ~/.local/share/zeitgeist/activity.sqlite zeitgeist-daemon --replace in Terminal, it starts to run and freezes. I am going to try the second part (remove zeitgeist) Log out and log back in and see if that works. I'll come back in and let you know
+ botcity, That didn't work either. What a pain in the @ss this is!
+ botcity, OK
+ It ran the command and came back to the prompt
+ botcity, It ran the command and came back to the prompt
+ botcity, yes
+ botcity, I ran that last command. Do I need to re run the first command you gave me?
+ botcity, No, still there
+ botcity, This morning I had some updates
+ botcity, I just realized something. Check this out.. http://paste.ubuntu.com/603433/
+ botcity, OK
+ botcity, Same thing using sudo
+ Jordan_U, I was sure of the command, we just wanted to try to see if it made a difference
+ Jordan_U, Thank you for the info
+ Jordan_U, I understand. There is a problem that is driving me nuts. I'm trying to disable the Recent Documents
+ Jordan_U, What is the command to restart zeitgeist?
+ Jordan_U, Thank you
+ Jordan_U, I am going to log out and log back in. I will sign back in to let you know
+ Jordan_U, I restarted my PC and it's still showing Recent Documents
+ Jordan_U, Yes
+ Jordan_U, I'm going to try it again.
+ Jordan_U, This is what happens when I run that command. You'll see where it freezes up on me. http://paste.ubuntu.com/603443/
+ Jordan_U, Yes, it's still shows
+ Jordan_U, Ok, I'll come back and let you know. Thank you
+ Jordan_U, I'm still seeing recent documents. When I ran the command you gave me in Terminal, it came right back to the prompt. Was I supposed to see it running like the other one that was hanging up?
+ Jordan_U, Yes
+ Jordan_U, I didn't have to completely restart right?
+ Jordan_U, http://paste.ubuntu.com/603445/
+ Jordan_U, does it look like something is missing?
+ botcity, I am seeing Recent Documents under "Places"
+ botcity, Ok, thank you for your help!

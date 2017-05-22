@@ -1,0 +1,5 @@
+ I'm trying to update to 11.04 on my Eee PC 901 but it says that the upgrade will take 8 hours.... (was 11 hours about 30 minutes ago) .. I feel like the system has been running slow lately, so i think i will need a full re-install.. But how do i cancel the upgrade?
+ jonii2, you can right click on your desktop, click change background .. then there's a tab called "themes" ... you should be able to change to a darker theme
+ jonii2, but default theme should be rather dark :))
+ Unity in netbook release of 10.10 was  shit, but i begin to like it in 11.04
+ :(

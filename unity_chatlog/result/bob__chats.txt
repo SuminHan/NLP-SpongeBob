@@ -1,0 +1,1 @@
+ nartkcin: you can do a parallel install (I chose 10.04 LTS) and it repartitions you disk so you can copy anything from the other installation (if your disk is large enough)

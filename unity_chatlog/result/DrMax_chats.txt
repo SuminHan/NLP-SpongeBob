@@ -1,0 +1,52 @@
+ yo
+ the upgrade (to 11.04) crashed while building the kernel, leaving my boot disk without a usable kernel
+ how do I recover from this ?
+ (without reinstalling from scratch)
+ ok?
+ how do I do that?
+ ok, I only need one
+ ok, I have / (and /boot) as /tmp/a
+ ok, done
+ ok, thanks
+ let met try this
+ (first must finish the update/upgrade)
+ celthunder : that would avoid me restoring backups ...
+ (I do have backups :p)
+ celthunder : if I can't restore the kernel, the other option is a clean reinstall
+ which I don't want to do
+ celthunder : did not work :/
+ just chrooting and reconfiguring the kernel
+ it failed because it could not mount /proc/
+ hmm no
+ but the problem is that it did not build the modules (or something)
+ let met see, it's rebooting
+ nothing for /proc in fstab
+ must specify type
+ type is wrong or procfs not supported
+ celthunder : I booted from live CD. mkdir /tmp/a, mounted dev/sda onto it
+ dpkg-reconfigure linux-image-generic
+ hmm ok?
+ how?
+ celthunder : how do I mount / without mounting /proc/ as well?
+ when I chroot /tmp/a
+ /proc stops working
+ celthunder : thx
+ let's see
+ celthunder : getting somewhere :p
+ well, maybe you forgot
+ I just didn't know how to do this :p
+ ok, so grub seem to have found my previously installed kernel
+ I should be able to boot from an older kernel
+ celthunder : THANKS A LOT
+ happy
+ well, lost minor settings, but, meh, whatever :p
+ celthunder : I did say thanks a lot, not "thanks a lot, <expletive>" :p
+ celthunder : I upgraded a couple of machines, but that was the first one that crashed during the building of the kernel
+ but now it works much better
+ celthunder : srly, that made my day
+ thx again
+ ahah
+ hmm How do I disable the stupid auto-maximizing of windows whenever I place a window near a screen edge?
+ celthunder : still there?
+ my nfs mount (still recovering from upgrade to 11.04) shows all file owners as 4294967294 (-2)
+ how do I fix this?

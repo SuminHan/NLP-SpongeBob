@@ -1,0 +1,6 @@
+ hello!
+ i have a simple question... Is it normal that webgl doesn't work on firefox 4 (I use the nouveau drivers)
+ i have a simple question... Is it normal that webgl doesn't work on firefox 4 (I use the nouveau drivers)
+ iggyology: if you simply disconnect and reconnect changing the desktop to ubuntu classic (at the bottom)
+ iggyology: it should work
+ kbrosnan: ok thanks!

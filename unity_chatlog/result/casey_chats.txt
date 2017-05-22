@@ -1,0 +1,53 @@
+ anyone having trouble booting natty after updating from 10.10?
+ genupulas: Thank you but I haven't found an answer yet. Just wondering if anyone knows a solution.
+ gebupulas: lol are you saying ubuntu will come out with a fix?
+ anyone having trouble booting natty after updating from 10.10?
+ genupulad: many what?
+ *genupulas
+ BlouBlou: please explain
+ BlouBlou: How depressing. Any word on if Ubuntu is fixing it?
+ BlouBlou: same here. Thanks for the help.
+ genupulas: will do. thanks for the help.
+ Does anyone know why my natty narwhale does not load from GRUB? Everytime I choose it, it just freezes trying to load. It only seems to work for me if I boot from a previous version :(. Any ideas?
+ Does anyone know why my natty narwhale does not load from GRUB? Everytime I choose it, it just freezes trying to load. It only seems to work for me if I boot from a previous version :(. Any ideas?
+ Does anyone know why my natty narwhale does not load from GRUB? Everytime I choose it, it just freezes trying to load. It only seems to work for me if I boot from a previous version :(. Any ideas?
+ spikebike: Please explain further. How do I make a recovery cd? I installed narwhal from the update manager?
+ fringe_boss: Well I do dual boot. Does that help any? Spike was saying to reinstall grub.
+ fringe_boss: Just vista and now nawhal updating from meerkat.
+ fringe_boss: Oh really? Thanks for telling me man. I was almost going to go down that path. Any ideas on what I should do? It's really annoying to boot from previous versions menu :(.
+ fringe_boss: freshmeat? Really lol? Is that whats it's called?
+ sebsebseb: Are you not advising LILO then?
+ sebsebseb: Are you aware of my problem? Basically I am having trouble booting narwhal after the update I did. It seems to freeze and be stuck in an ubuntu loading menu :(.
+ sebsebseb: So how do I make an upgrade go wrong turned right?
+ sebsebseb: dang. I was hoping not to do that. It sounds a little messy.
+ sebsebseb: I believe I did do that from reading a tutorial but I don't know what it xactly means. Is there anyway I can check?
+ *exactly
+ sebsebseb: Is blurg bad or something lol?
+ mikinauq: I sure do lol. Any solution?
+ sebsebseb: yeah well i'm a newbie, so i'll trust you with that.
+ mikinanuq: So that worked for you?
+ mikinanuq: Awesome. Thanks for the help. I'm going to try that for sure.
+ Does anyone know how to print borderless with custom sizes? Any program will work, I just want to know. I have an HP inkjet if that helps?
+ Does anyone know how to print borderless with custom sizes? Any program will work, I just want to know. I have an HP inkjet if that helps?
+ marenostrum: the problem is I have a custom jpeg that I would like to print out. However, no matter what program I use, it always makes a border.
+ robin0800: it's a 5.5 by 8.5 jpeg lol. Not very likely. I have looked there though.
+ marenostrum: jpeg is an image filetype.
+ marenostrum: I'm basically saying I have a picture that is a custom size.
+ robin0800: On windows I was able to, so I know my printer has the capability.
+ marenostrum: let me give it a go. thanks for trying.
+ marenostrum: I've actually already tried f-spot. Thanks for looking though
+ robin0800: let me take a look.
+ robin0800: I have actually found this selection already. But have you found a way to actually put in values. All I can choose is custom and that is the extent of it :(.
+ robin0800: dang. Any other ideas up your sleeve?
+ robin0800: not sure. But I have an HP printer so definitely and HP lol.
+ robin0800: how could I check?
+ robin0800: ok so should it match my printer you're saying?
+ robin0800: I'm trying right now :).
+ robin0800: I found a CUPS version which seems to be much better. However, I don't quite see the use of their "custom" sizes. Like in the other one.
+ robin0800: Well I don't have to many borderless options. And the major problem is it's an akward size: 5.5" x 8.5"
+ robin0800: I believe I did download an hp version when you pointed that out early. It comes from CUPS.
+ robin0800: One thing that is driving me nuts is that f-spot shows major potential for working, however it always crashes when I try to print. Any ideas on that?
+ robin0800: I see that as well. Unfortunately no luck with that so far.
+ robin0800: gar?
+ robin0800: any other ideas?
+ robin0800: Alright thanks for your help.

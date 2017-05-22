@@ -1,0 +1,6 @@
+ there isn't some channel dedicated to the gnome3 ppa, is there?
+ hey folks... unity is supposed to work with fglrx isn' it?
+ ikonia: ok just checking... it uses fallback with fglrx here now, so then at least I know I'm doing it wrong tm :p
+ can I somehow check what driver is actually being used?
+ jMCg: I think a problem with the window-manager can cause that
+ wasn't he using unity? would be unity --replace then I think

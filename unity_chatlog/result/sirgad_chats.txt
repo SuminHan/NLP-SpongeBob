@@ -1,0 +1,6 @@
+ Hi. I have a UCK modified Ubuntu Live CD. A bug in UCK (or a bad interaction with my setup) mean I can't complete my customizations. Can I do them manually?
+ actually, does anyone know of a UCK-dedicated IRC room?
+ anyone know how to manually edit gconfs on a Live CD?  For booting purposes only, this CD, not install.
+ @Adis: look for Unetbootin
+ Adis: you want to boot Windows from a USB?
+ Adis45: so far as I'm aware, Windows doesn't allow that - that's what I've been told myself.  I don't think it's possible in Win 7 either

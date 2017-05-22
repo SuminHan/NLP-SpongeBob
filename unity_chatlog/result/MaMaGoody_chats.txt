@@ -1,0 +1,1 @@
+ hi, can I choose workspace by putting some applet in statusbar in new ubuntu?

@@ -1,0 +1,277 @@
+ Heh. They took away options to make your life easier (ie focus on your work instead of playing around with background settings).
+ zachgretzinger: Back up /home/zach/ and /etc/
+ !register | andy_1
+ C4colo: Debian? It's always stable.
+ thegoodcushion: Funny. You don't like the icons. CHANGE THEM.
+ ZykoticK9: For Gnome 3?
+ ZykoticK9: Ooo -- But it is complicated! (Especially if you make your own!)
+ mello: awesome, dwn, e17
+ !torrents | joako
+ nicklo: I imagine it is the one with -mac- in the filename you mentioned above.
+ nicklo: "This image is adjusted to work properly on Mac systems"
+ Robert__: Talk here.
+ nicklo: http://cdimage.ubuntu.com/releases/natty/release/
+ Robert__: What is the problem?
+ nicklo: Np.
+ thegoodcushion: Because it's easy.
+ thegoodcushion: You want to install Ubuntu using Iomega Zip Disk or Floppy disk? Be my guest.
+ Robert__: What is the problem?
+ thegoodcushion: I'm not the person to ask -- but if you insist, there are minimal iso (12MB).
+ thegoodcushion: Yes, USB is already possible. I have been using USB method.
+ Robert__: I see. I hate upgrades. I always find myself doing clean installations over upgrades.
+ Robert__: ##windows might be the proper channel (I'm not sure how to deal with mbr/grub).
+ Robert__: Windows use whatever they use. Linux use grub.  (for bootloader).
+ !info grub | Robert__
+ Robert__: When you start up your computer, the bios do its stuffs first -- then grub does it stuffs.
+ Robert__: You can delete it using liveCD (delete the partition) -- but I don't know how you would deal with grub. You should ask in ##windows about the mbr question.
+ ddddddddddd: Why wouldn't you?
+ Robert__: It isn't. You can remove/install grub using linux systems -- the problem is that how do you install to the first sector of HDD with Windows? (Usually that is being done when you install Windows for first time).
+ Robert__: So you don't want to reinstall Windows (Fine -- but how do you install the boot process for Windows?) Ask in ##windows
+ Robert__: One choice is to leave it alone (grub).
+ Blue1: No. He wanted to get rid of Ubuntu (and grub is part of Ubuntu). :)
+ mang0: Just plug the cable in.
+ mang0: Get a cable. Move your computer downstairs. I don't know. The cables are pretty cheap. Got myself 25FT HDMI for 10 bucks. Get 100ft if you need it.
+ mang0: Until you get that Wifi part solved -- Often, when you're installing something -- you always want to use cable.
+ ejv: Probably. Best Buy is a scumbag corportation.
+ !iso | mang0
+ mang0: I'm not sure what you're trying to accomplish though.
+ mang0: If you want to dualboot, you can use either option -- Disc or Wubi. -- I don't like Wubi.
+ mang0: If you're on a tower. Can't you unplug HDD you don't want to use, and plug the one you want to use Ubuntu on?
+ ror: Use Ctrl + N in Chromium? :o
+ Magnusson: "cd ..?" (parent directory)
+ ZykoticK9: I learned something new!
+ Magnusson: "cd -"  ?
+ ror: Heh. You can always go with Ubuntu minimal and install barebone gnome environment.
+ Starminn: OpenOffice isn't open anymore, yah?
+ libre/free.
+ Blue1: Libreoffice works for me just fine? :o
+ mang0: I'm not sure what you wanted to do. Dualboot. Just grab your mama's cable.
+ mang0: I see. You might want to try alt.
+ !alt | mang0
+ mang0: (wider range of hardware) -- Not sure if that applies -- but it might.
+ mang0: Also, unplug the HDDs -- Lessen the chance of accidental, I suppose.
+ mang0: (When it's off).
+ !alt | roma99
+ roma99: If your ISO have -desktop- in it, you got the wrong iso.
+ roma99: What iso do you have?
+ roma99: Right -- That's the wrong one.
+ roma99: You want ubuntu-11.04-alternative-i386.iso
+ !alt | roma99
+ ubottu: You fail me. :\
+ roma99: The Alternate CD is a classic text-mode install CD. It supports a wider range of hardware than the  !LiveCD, and can also be used as an upgrade CD.
+ roma99: desktop -- it included graphical installer.
+ roma99: alternative does not.
+ roma99: And it also can be used for upgrading, etc etc.
+ roma99: Yes, you can do a clean installation. Be sure to backup /home/ and /etc/
+ !bt | root__
+ !backtrack | root__
+ Braiam: ubottu still holds a grudge against me since that night at the lake.
+ :(
+ maxmahem: Usually you point it to a hard drive.
+ celestial: You borked the installation. Grab a LiveCD -- Mount your hard drives, backup /home/ and /etc/ -- Go with a clean installation.
+ eekTheCat: Liferea for one thing.
+ CQ: You don't have to upgrade if you wish to stay on LTS.
+ !bugs | michaels
+ CQ: Check Software Sources. Look for it. :)
+ CQ: You might want to do a clean installation (just much quicker without having to go through two versions).
+ eekTheCat: Thunderbird does it -- but it comes with mail + calendar.
+ eekTheCat: Google Reader. I'm sure there are few more I forget about.
+ eekTheCat: Liferea got tray so it's pretty nifty.
+ eekTheCat: I regularly use Thunderbird but I'm changing that soon as it hogs down my memory. Some kind of memory leak, I imagine. So yeah, I'm not using any RSS at this moment -- but I plan to give liferea a try (I used it before I used Thunderbird).
+ eekTheCat: Down with Mozilla! Bloated apps! :(
+ eekTheCat: Default Feeds. Heh. Planet Gnome, Planet Ubuntu, etc. :\
+ mang0: ubuntu-11-04-alternative-i386.iso.torrent
+ whomie: Debian. :)
+ whomie: Why Ubuntu or Solaris? ;)
+ Morten_: Ushare? Just a guess.
+ Morten_: mediatomb and minidlna turns up too. You have to mess with it to find it. :(
+ Robert__: Click on this --> #vbox
+ Robert__: or you can type this -->  /j #vbox
+ ASDF_: Burn them to the DVD is an option too.
+ ASDF_: Only 10GB plus -- Luck you. I have 100GB plus.
+ ASDF_: Hard drives are inexpensive. Just saying.
+ !alt | adzy
+ ASDF_: Debian. Can't go wrong with SOLID OS.
+ ASDF_: Ho ho ho?
+ mathews: They just go out and buy new machines instead.
+ thegoodcushion: I'm about to. I'm on TTY at the moment.
+ Ultimate_Chaos: It's okay. We all love you.
+ Etherael: Time-based releases, I imagine.
+ Etherael: Upgrading = :(
+ Etherael: Clean installion = :)
+ Etherael: It's just my opinion, keep that in mind.
+ thegoodcushion: What distro did you try?
+ thegoodcushion: ASDF_: Others:  You kept forgetting about LTS -- That's at 10.04
+ Testing Gnome3. Hmmm!
+ freaky[t]: Use Launcher. Put the proper command in it.
+ DirtyDawg: Who were those 'alot of people' -- Windows users? Lol.
+ !gnome3 | adsx
+ adsx: Consider it a warning. :<
+ Ubuntu_user: or 10.04 LTS.
+ !lts | Ubuntu_user
+ Ubuntu_user: Otherwise, you might get notifications about available updates all times.
+ Ubuntu_user: Yeah. Why not? You don't have to deal with this headaches every 6 month.
+ Ubuntu_user: Stability.
+ brandonc503: What else than to test it yourself? ;o
+ serhat2: "sudo rm -rfi" -- Or add that to your alias so bad things don't always happen to nice people.
+ I took a big risk assuming you're a nice person though.
+ ReBoot: Try Ubuntu LTS 10.04 if you want to go native. >_>
+ ReBoot: Sure. (Many people hate upgrades though).
+ When you assign a new launcher on gnome-panel, where is the file stored? I know it's in ~/ -- but I can't remember/find it.
+ madradavid: Welcome to #ubuntu!
+ Edgan: ADD MORE LAUNCHERS. Start crying. I had the same thing. :\
+ Edgan: My solution? I ignored it and slowly making a switch to different environment.
+ Edgan: Remove Gnome3?
+ Edgan: I get the same feeling when Vista first came out. (So I made the switch to linux). And now Gnome3 is doing this! :(
+ Edgan: Language. It's the policy here. .__.
+ Edgan: I love Gnome2. Now I'm using AwesomeWM. I need more time to absorb shortcuts.
+ KM0201: I haven't tried KDE4.
+ KM0201: Gnome2 was hitting all the notes for me. Now it's singing off-key. :\
+ Edgan: If it isn't broken, don't try to fix it. Also, it seems like everybody is always trying to reinvent the wheel and call it the new thing.
+ KM0201: Are you on Gnome3 right now?
+ KM0201: You can't change the background with traditional right-click --> Background. They took away many things.
+ gtech: If things aren't working, you can reboot and hold SHIFT to select older kernel.
+ Edgan: I like gconf-editor better. I'm just going to walk away from this cesspool. :)
+ awesomestman: Yes. Welcome to #ubuntu
+ awesomestman: If you have a question, plop it away. Somebody who know the answer are likely to respond.
+ !java | quint
+ Software Center is back in Ubuntu 11.04?
+ awesomestman: Close it. Use a terminal or synpatic when it comes to install packages.
+ chaospsyX: Somebody trustworthy told me that. :|
+ Then again, this is Internet. I shouldn't trust anyone.
+ awesomestman: Open a terminal (under Accessories) -- Type "aptitude search firefox" -- You get the idea.
+ awesomestman: Want to install firefox? "sudo aptitude install firefox"
+ awesomestman: If you're new, obviously this stuffs will confuse you at first -- but after few days, your brain cells will start firing up and you're *now* off autopilot in your life. :)
+ awesomestman: https://help.ubuntu.com/community/AptitudeSurvivalGuide#Aptitude from the command line
+ awesomestman: Number #5
+ magpii: LTS. (10.04). <3
+ awesomestman: What are you trying to install?
+ ^
+ !skype | awesomestman
+ !info skype
+ awesomestman: You may have to enable partner repo. (Look under Software Sources).
+ ner0x: https://www.mint.com/ :)
+ bazhang: Not that gucci knockoff AKA Linux Mint
+ awesomestman: It's not a problem. Private softwares usually don't go in any repo (aptitude database) -- because well, it's closed thus we can't view the codes -- therefore we don't know if it's really safe -- but yeah, it's available. The same thing goes for dropbox.
+ awesomestman: When you enable the partner repo -- you're now aware about the choices you're making. You're now aware that you're about to install Skype (which you can't see the codes) and you're going to accept it. It's all new to you, but install it. It's fine.
+ study: We're trying to help you study something -- but what is it that you want to study? :)
+ awesomestman: Yes.
+ awesomestman: https://bugs.launchpad.net/ubuntu/+source/apt/+bug/735491
+ unorugby: Ask away.
+ awesomestman: "sudo mv /var/lib/apt/lists/us.archive.ubuntu.com_ubuntu_dists_natty_main* ~/Desktop/"
+ awesomestman: "sudo aptitude update"
+ awesomestman: No last part "mv"
+ Oh.
+ awesomestman: "cd /var/lub/apt/lists ; ls" -- What file(s) do you see?
+ awesomestman: Damnnit. I made a mistake. Replace 'lub' with 'lib'
+ awesomestman: Use arrow keys to use the previous command -- then edit it.
+ !paste | alcane
+ awesomestman: I'm not sure why you have extras.ubuntu.com (I'm not sure if that's normal).
+ awesomestman: "cat /etc/apt/sources.list" -- Paste it in http://paste.ubuntu.com
+ awesomestman: Please paste the results of "cat /etc/apt/sources.list"
+ awesomestman: Meh. Open Software Sources. Try disabling/enabling the repos. Hopefully that can refresh the index.
+ awesomestman: It is not under System --> Admin/Prefs?
+ awesomestman: You want to enable parnter repo. Not extra repo.
+ partner*
+ awesomestman: "gksudo gedit /etc/apt/sources.list" -- http://pastebin.com/KUKqJgrr
+ awesomestman: You may want to use Ubuntu 10.04 (LTS) -- Stable and you don't have to mess around. My opinion is that 11.04 may not be ready.
+ awesomestman: I just looked. I don't think extra repo have anything yet. However, skype is in partner repo and it's not enabled.
+ awesomestman: I highlighted four lines -- See the differences (hashes) between pastebin and the file you're about to open.
+ awesomestman: Different (older) version -- but more stable.
+ !lts | awesomestman
+ Chaorain: Any files or a particular filetype?
+ Chaorain: Hmm. Check Chromium's Settings/Preferences? I know a situation where opening a folder would result in opening a music player (instead of nautilus).
+ awesomestman: Just come in when you did your part.
+ awesomestman: Far less hiccups, that's for sure. Ubuntu 11.04 just came out maybe five days ago.
+ awesomestman: There should be graphical installer. You may see the option to delete 11.04. Or replace the partition. As long as Windows partition are left alone.
+ buhman: Use Debian CUT? Heh.
+ buhman: Why don't you stay on *squeeze*?
+ buhman: Heh. You bork the system when you have unmanaged packages.
+ buhman: That was the whole point of using debian, awesomestableness.
+ buhman: The PPA concept is stupid in my opinion. If you really need python2.7 (and Ubuntu) without many stuffs. Go for minimal, maybe? Install barebone Gnome (Same effect you would with Debian Gnome Environment).
+ !info python
+ !info python lucid
+ buhman: You can live with lucid? (lts, 10.04, considered to be stable-ish as debian).
+ buhman: 2.6.5 -- That bad?
+ buhman: What is squeeze's python version?
+ buhman: I see that. 2.6.6-14
+ buhman: Heh. Maybe you can ask in #bash about that -- They could know the solution. I could be wrong -- but -- It is probably group permissions or etc. I'm not too versed with users/groups stuffs.
+ buhman: You can make it like Debian -- but you just have to find out. Pretty typical in linux. <_<
+ buhman: Maybe you can ask in #debian on how to upgrade a singular package, python -- for your reason.
+ buhman: Install wheezy deb? :o
+ buhman: Many other packages (and GUI stuffs) broke?
+ buhman: Meh. Ask in #debian -- or try using wheezy iso. The installation went crappy on me during upgrade (from stable to testing).
+ buhman: :)
+ buhman: It's just a brand. A logo.
+ buhman: I miss out not having latest chromium.
+ vega: Upgrading always go flaky in my opinion. Also, my other opinion? Natty isn't ready. Ho ho ho. :<
+ xmaz: /etc/motd? (iirc).
+ bison: /boot/grub/grub.cfg (me think). There are no command to save. Just edit the file (and possibly) grub-update
+ Captainkrtek: Ah.
+ buhman: :o
+ buhman: More like users/groups question, I'd imagine. #linux (or was it ##linux) could be the good channel. #ubuntu is good channel too but I don't know if people will know the answer to that (at this time).
+ steve1: Time-based releases -- It's the tradition. :)
+ steve1: I imagine you will get updates to square out bugs, a month or two.
+ !minimal | mithran
+ mithran: Although I have no idea if you can toggle on/off packages or it'll just install lot of packages at once. See alternative or server iso too
+ steve1: I hate it. Added a launcher in fallback gnome mode. Can't delete it. I'm forced to nuke dconf fil.
+ glacia: What is the software? Screensaver.exe ?
+ buhman: /etc/group thing worked?
+ buhman: Ahh. Now I'll try to remember that. :0
+ buhman: Compare /etc/group with ubuntu + debian, maybe?
+ soreau: Ubuntu's sudo/su does not behave same as Debian's sudo/su.
+ soreau: He wish to have Debian's sudo/su.
+ buhman: If you have Ubuntu + Debian side-by-side, you could compare /etc/pam.d/su -- Hopefully that matter. :\
+ soreau: He want to use python2.7 .
+ soreau: Debian --> 2.6.6. He may use debian if this thing does not pan out for buhman.
+ buhman: How did you bork package manager? By trying python2.7?
+ buhman: Heh. I wanted libreoffice. Just try wheezy iso and let me know how it goes.
+ buhman: Also, I think you could have put python2.7 in /opt/ -- and use it when you need it. (what do you need it for?)
+ buhman: gnome is metapackage. You can remove it. It'll whine -- but you can remove it.
+ buhman: :D
+ buhman: It install Ubuntu OS as a Windows program.
+ buhman: It install grub on MBR. Grub point to a compressed ISO somewhere on C:\ -- So Ubuntu on NTFS filesystem.
+ buhman: If NTFS filesystem is garbage, Ubuntu's experience will be garbage, just same as Windows.
+ buhman: Yeah. It is treated that way.
+ buhman: Ask in #debian about python2.7 (ask about backports)
+ tripelb: hardinfo is a nice GUI tool.
+ faryshta: wget -c ?
+ faryshta: aria2 is nice (but I guess it's too late).
+ !info aria2 | faryshta
+ faryshta: It can do much more -- but only if you used it properly the first time.
+ faryshta: Which I guess you didn't -- So use "wget -c whatever.com/fat.zip"
+ faryshta: -c,  --continue                resume getting a partially-downloaded file.
+ gue
+ faryshta: What are you wgetting?
+ !remaster | sunil
+ He quit...
+ tripelb: Check out hardinfo -- it can generate a report too.
+ sunil: Try it and find out.
+ sunil: Just use a LiveCD. Install packages when you need them.
+ sunil: That's my "I'm in a hurry" approach.
+ sunil: Sometimes it really is the best solution. Just saying.
+ Guest66097: "/nick iDestroyPCs" -- then explain the issue in one loooooong line.
+ !enter | Guest66097
+ Guest66097: When we asked you questions -- you never explain anything.
+ Guest66097: You worked for Sony? Were you responsible for 77 millions + 25 millions accounts?
+ Guest66097: Run "w" in the terminal. What do you see?
+ Guest66097: "lsb_release -cs" -- What does it say?
+ Guest66097: Explain everything in http://pastebin.com/ -- Cmon!
+ helpme: UNPLUG ALL COMPUTERS.
+ I know remote controls.
+ helpme: UNPLUG ALL COMPUTERS.
+ shcherbak: I don't care. He can't answer simple questions. :\
+ html_inprogress: He can't talk. Yay. :)
+ Tuplad: Uninstall -- No.  Reinstall -- Yes.
+ !downgrade | Tuplad
+ Tuplad: Read what ubottu told you.
+ Tuplad: I think you can switch to classic Gnome.
+ !piracy | novaria_fajar
+ Kre10s: Make a backup first.
+ Kre10s: In fact, make a backup of a backup too.
+ Kre10s: Purchase. Borrow. Steal.
+ Kre10s: Hard drives are inexpensive.
+ Kre10s: Because if you're not serious, you'll experience the loss of all your precious data. There are one of the bad feelings in the whole world. :\
+ Kre10s: You could try -- but there are always risk associated with partitioning.
+ DocPlatypus: And you felt great? :P
+ I lost about 250GB.

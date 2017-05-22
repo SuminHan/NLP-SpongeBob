@@ -1,0 +1,36 @@
+ how can I restore all databases into mysql from one that was backed up via: mysqldump -A --add-drop-table -u root | gzip > $OUTFILE
+ https://gist.github.com/951537
+ would line 7 work?
+ this is a 10.04 LTS issue
+ most solutions I see are suggesting http://blog.roberthallam.org/2010/06/sshd-not-running-at-startup/
+ start on filesystem and net-device-up IFACE=eth0
+ GeorgeJ:  this is a standard bug for 10.04 I think
+ https://bugs.launchpad.net/ubuntu/+source/openssh/+bug/216847
+ see link :)
+ hmm
+ thanks
+ how to check if a daemon is up?
+ ps aux | grep mysqld ?
+ hey Drduck :)
+ aren't we too peas in a pod :)
+ *two
+ lol
+ GeorgeJ: btw
+ -rwxr-xr-x 1 root root 3899 2010-05-19 20:30 /etc/init.d/ssh
+ it's executable
+ $ no pid to kill
+ :p
+ one sec :)
+ no messages
+ I had to reboot the vps container
+ well, Xen container
+ then the damn container was stuck
+ that's when I did sbin/shutdown -r now
+ GeorgeJ: different issue
+ getting 'Sorry no PTY
+ No more PTYs, Sorry, could not find a PTY
+ if I do screen on anything
+ Cannot open your terminal '/dev/ttyp0' - please check.
+ crw-r--r-- 1 appuser tty  3,  0 May 25  2010 /dev/ttyp0
+ I changed it from that to 644 and root:root
+ any suggestions?

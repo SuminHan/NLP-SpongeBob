@@ -1,0 +1,48 @@
+ i think i am the only one on the planet who actually likes Unity :(
+ just you epyx
+ cyoz1, yeah banshee is slow as well ... i am sticking with rhythmbox
+ mictlantecuhtle, i use to get that with banshee
+ 10.10 is history
+ cassio, http://lxer.com/module/newswire/ext_link.php?rid=150768
+ cassio, "Launch CCSM yet again, and select General Options from the category 'General'. Select the tab 'Desktop Size' and choose the values you want. Simple as that."
+ sfdsafdsafdsa, ubuntu 11.04 is the Win7 stage - Vista indeed
+ cassio, no worries
+ anyone find ubuntu doesn't shutdown properly .. just hangs
+ chilli0, remove Banshee
+ preyas__, but isn't that just for multimedia?
+ preyas__, if i were to set the multimedia player to rhythmbox what would happen if i selected a video
+ anyone here find that ubuntu doesn't shutdown properly - eg. it freezes
+ at last i have got to the bottom of ubuntu freezing on shutdown .. now a happy chappy
+ dr3mro, looked through your code and it looks absolutely fine
+ Flannel, :)
+ NAAAAWW, ubuntu
+ slide, strange mine doesn't do that
+ just noticed some new updates come through for unity and scrollbar
+ elliot_, ditto for me ... best version of Ubuntu yet
+ anyone here using clementine and would you recommend it
+ GreeNtooTH, 11.04 is very stable on my netbook .. infact it is the first release that works without any tweaks
+ really liking the Faenza icon set - fits really nicely with unity
+ Simkin, unity will be a success
+ Simkin, the pager is simple to use
+ Simkin, i loved windowmaker about ten years ago, but things move on and it is no longer viable as a desktop replacement given it is a window manager
+ Simkin, just remember how many people hated Windows XP when it came out, and then how much they wanted Windows 7 to be XP when it came out
+ Simkin, explain how it is irrelevent
+ Simkin, hardly
+ Simkin, winxp is not win95's interface
+ Simkin, it isn't so .. anyway offtopic as mentioned by zvacet so best end it here
+ Simkin, don't ask me gov
+ uabn93, works fine with my Intel G945
+ Casper76, must be hardware related as it runs like a dream on my netbook that uses an low powered Intel Atom N270 with 2GB of RAM
+ Casper76, what video card do you have
+ Simkin, click on the workspaces icon
+ Simkin, it is an icon with a grid and when you hover your mouse over it it says Workspace Switcher
+ Simkin, on mine it is the third one from the bottom
+ Simkin, unity dockbar or whatever they call it
+ Simkin, howcome?
+ Simkin, yeah i miss the preview - just noticed that, so perhaps i didn't miss it that much
+ Simkin, it is easier to use though by clicking on it and moving windows between desktops rather than working with a tiny preview pager as was the case in 10.10
+ Simkin, yeah i find myself having to depend on keyboard shortcuts and alt+f2 more often
+ Simkin, i never really liked gnome2 menus though
+ Simkin, KDE 3.5.10 was sublime
+ Simkin, i hope they get back on track ... another interface i really liked was Amarok 1.4 and then they ruined it with Amarok 2.0 .. not sure if that has improved, but wish they had left it alone
+ tbrew13, i wish unity would flash the icon or something when somebody messages me rather than shake it for a short duration that i might miss

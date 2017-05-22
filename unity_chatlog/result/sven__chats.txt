@@ -1,0 +1,2 @@
+ Hello. I just installed ubutu 11.04 on a computer with touchscreen. It is a Ideacom IDC 6650. The poniter behaves starange - more like a touchpap, than a touchscreen. Any Ideas how to fix that ?
+ Question: Any hints how to configure a touchscreen in ubuntu ?

@@ -1,0 +1,5 @@
+ Is Ubuntu 11.04 out?
+ Hello, How do I login as root?
+ Hello, What time will be the release of Ubuntu 11.04 on update managers?
+ Hello why is my download speed so slow? 3.5MB/Sec
+ Is it possible to delete my "root" account and make myself the superuser?

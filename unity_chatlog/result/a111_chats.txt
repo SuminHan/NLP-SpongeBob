@@ -1,0 +1,10 @@
+ Windows cant read from a NTFS partition created in linux?
+ oh kk
+ zvacet, The win7 install said it couldnt read from it
+ I created a NTFS partition in ubuntu, but i cant read it on windows. How do i fix it?
+ passthru, yeah, it has data on it.
+ but windows 7 cannot read it
+ So what is the point of NTFS-3G if partitions created by it cannot be read by windows?
+ ThinkT510, Nope. Windows 7 cannot read the disk at all. I htink im going to have to reinstall ubuntu to copy the  data off the disk.
+ How would i limit the cpu % a user can use?
+ Is there a way to limit cpu load and memory used per user?

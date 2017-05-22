@@ -1,0 +1,60 @@
+ I'm having problems with hdparm.conf... anyone here with any experience? I'm using natty
+ Ubuntu Natty seems to skip hdparm.conf during bootup... my settings for spinning down the HD is ignored completely. Anyone want to help me solve this?
+ I'm desperate.. Need to sort out how to set a "spin down" parameter with hdparm.. I can't do it in Natty..
+ Froq: ps -ef | grep py ?
+ ohsix: It doesn't seem to be read during boot.. My hd doesn't spin down
+ Froq: How about just searching through the processes using "ps -ef | less" ?
+ ohsix: Sure does... If I use hdparm -S 4, it spins down in 20 seconds time
+ ohsix: So hdparm -S 5 isn't the same as spindown_time = 5?
+ ohsix: I thought they were supposed to be equivalent
+ ohsix: http://paste.ubuntu.com/601444/
+ ohsix: Any idea? I seriously don't think this is the drive, since the -S parameter works fine..
+ ohsix: man hdparm doesn't say anything about apm. Do you mean that hdparm.conf demands other set values of the disks APM-parameter than the hdparm -y/hdparm -S commands?
+ ohsix: Well... interesting thing this. I'm trying to set the APM value by using hdparm.conf, but the hdparm -I command still returns 254
+ ohsix: It worked on 10.04
+ ohsix: Hey.. I'm not doing anything more than "hdparm -S 32". And voila, it works. Then I set hdparm.conf to /dev/sdd { spindown_time = 32 }, and it's not working
+ I haven't done ANYTHING else with HDparm
+ ohsix: How can you see? By hdparm -I ?
+ ohsix: Hmm... strange
+ ohsix: Is there any way to detect that the script is actually being run during boot?
+ ohsix: I'm running a "ubuntu-server" machine... don't know it that matters. I've also got the disks mounted via fstab... but I still want them to spin down
+ ohsix: rgr: Simple, really. I've got three drives. One for the OS.  The second drive contains home folders (samba shared). They're being used maybe once or twice a day. To have the disk spinning all the time is a waste of energy, and it's noisy. The third drive is the backup drive. I'm going to script it to copy drive 2 once every night. It's never being used for anything else. Hence, two of the drives should be spun down.
+ ohsix: Yeah, it was meant for the other guy. I just wanted to tell you as well :) He wondered why I needed to spin them down :)
+ ohsix: I've changed the script /lib/udev/hdparam now... touching a file when it's run. Trying to boot to check if the file is being created
+ ohsix: It's ok.. it's just for debugging purposes. Hehe
+ ohsix: Thanks. I'm booting now to see if the script creates the file
+ ohsix: The hdparm.called was NOT created during boot. Which again means that /lib/udev/hdparm is not being called
+ ohsix: Ehm.. but I'm just booting using "sudo reboot", not a physical on/off. Should I try that?
+ ohsix: Strange... tried your test, and it still says it's trying running the file, but no "hdparm.called" file is being created
+ but it should create the file as soon as the script is run.. and it hasn't been created
+ ohsix: I called "head /lib/udev/hdparm" - http://paste.ubuntu.com/601453/
+ ohsix: Couldn't I just create a .sh file calling "hdparm -S 120 /dev/sdd ?
+ ohsix: Hehe... I know. But where would I place such a script?
+ ohsix: Should I create a bug report or something about this issue?
+ ohsix: I don't know if I know enough about udev to be able to find where the fault is ?
+ Edd: Yep... having problems with hdparm.
+ ohsix: but it's not being run..
+ ohsix: I'm really grateful for the help, but I don't want to keep you from eating
+ ohsix: Hmm... interesting. When I call "sudo DEVNAME=/dev/sdd /lib/udev/hdparm" I get "No disk enabled. Exiting"
+ ohsix: I tried doing a "sudo sh -" first as well, and calling it without sudo... same result
+ ohsix: eeeh... "sudo su -" not "sudo sh -"
+ ohsix: Identical results, all of them
+ ohsix: "No disk enabled. Exiting"
+ ohsix: It's nothing in it almost
+ ohsix: hmm... I've got an idea..
+ ohsix: http://paste.ubuntu.com/601466/
+ I'm commenting out the "quiet" line now... wonder if that's the issue
+ ohsix: argh... still same result after commenting out the line
+ ohsix: I did, but since the file isn't being called anyway
+ ohsix: I removed them again. Less is more
+ ohsix: I had "apm = 127" before, but it did nothing.
+ ohsix: aaah... there's a stray }?? Didn't see that one..
+ ohsix: Now we're talking.. it's being run now...
+ ohsix: Seems like it's working now for the two drives I have mountet, but the backup-drive which I'm not mounting won't go into standby mode. Any idea why? Can I place it in standby mode during boot?
+ ohsix: Hmm... Can't get sdd into sleep mode, but the two other drives works perfectly. Is it because I don't mount it somehow? I don't need to have it mounted..
+ ohsix: Hehe... by mounting the drive through fstab, it now goes into sleep mode. I'm not setting any APM parameter at all in any config. Thanks for all the help by the way
+ ohsix: I'm using hdparam.conf just like before. No changes except the brace
+ ohsix: Gotta go... thanks for all the help though :)
+ kjxl9: Specify what you need help with..
+ kjxl9: use tab extensions... like "cd /home/a<tab>/Dow<tab>"
+ kjxl9: If <tab> doesn't give you anything, try "<tab><tab>" to list possible selections..

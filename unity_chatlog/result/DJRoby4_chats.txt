@@ -1,0 +1,21 @@
+ hello
+ hello, I have a problem: I installed ubuntu and on reboot appears only a black screen with a blinking white dash
+ hello, I have a problem: I installed ubuntu and on reboot appears only a black screen with a blinking white dash
+ anyone can help me?
+ anyone can help me
+ ???
+ Pelo, i got elementary os, I've done a fresh install of natty
+ Pelo, to install ubuntu I had to remove the nvidia hardware raid, my motherboard is an asus m4n98td evo, my video card is an NVIDIA GeForce GTX 470
+ phibxr, no I removed elementary and I have installed natty!
+ phibxr, no, a fresh install
+ Pelo, yes I can run a live session and I removed the Raid!
+ Pelo, if you wait for me, I try
+ Pelo, ok! thanks!
+ Pelo, I'm waiting to see if a couple of minutes to change something
+ Pelo, nothing, I can't type nothing
+ Pelo, i've got a 64 bit processor, but I installed 32 bit version
+ Pelo, CPU*
+ Pelo, but the installer works!
+ Pelo, I did not say anything
+ #in any case there is another solution?
+ Pelo, my connection is very slow and if possible I would like to avoid

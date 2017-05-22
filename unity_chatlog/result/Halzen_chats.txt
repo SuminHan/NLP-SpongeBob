@@ -1,0 +1,157 @@
+ RavenHursT: What's up?
+ hi uwe__
+ rafi: sudo nvidia-xconfig solved my display issues.
+ RavenHursT: Are you doing a sudo apt-get upgrade with 10.04 in a virtual machine?
+ RavenHursT: Hmm...well, it's possible that the VM network emulator is doing something that apt-get doesn't like.
+ RavenHursT: Before you do that, try restarting the machine and doing sudo apt-get upgrade again.
+ ilea: The installation process should include a partitioning option. Shrink your Windows partition to make room, then install in the free space with the PCLinux live CD.
+ ilea: Good to hear. :)
+ Guys, don't deny support to people that use Ubuntu derivatives. Linux Mint and PCLinuxOS are just as compatible as Xubuntu, Lubuntu, Ubuntu Studio, etc.
+ Pudabudigada: Unfortunately, there is no way to revert other than a backup and clean install. Minor fixes in 11.04 will come regularly, but major changes will have to wait until 11.10 is released in October.
+ LjL: The same can be said to someone (like me and many of the other users here) that uses Ubuntu with a custom kernel. Uncertainty to custom installs will always be.
+ LjL: This sort of crap is part of what's making me switch to Fedora when my SSD gets here. xD
+ rafi: That's a driver issue. Start by typing sudo gedit /etc/default/grub into a terminal, then tell me once you have that open.
+ rafi: Good. Now change the line GRUB_CMDLINE_LINUX="" into GRUB_CMDLINE_LINUX="acpi_osi=Linux"
+ Once that's done, type sudo update-grub into the terminal. A reboot may be necessary.
+ rafi: Once that's done, type sudo update-grub into the terminal. A reboot may be necessary.
+ rafi: Try adjusting your brightness. If it isn't working now, then yes, reboot.
+ RavenHurst: Well, that sucks. Be sure to make a small partition for it if you're doing a hard disc install.
+ RavenHursT: Well, I doubt you wanna clear your existing install just to try another OS out. Until you're sure it's what you want to use primarily, give Ubuntu about 20GB to play with.
+ RavenHurst: Suit yourself. I hope that one works a little better.
+ rafi: Well, I'm not sure what to tell you. Try creating a thread on Ubuntu's hardware forum, and be specific about what hardware you have.
+ mister_m: Because Natty may be stable, but it's about as usable as Debian 3. I call it Ubuntu Vista.
+ Pudabudigada: Did you upgrade from 10.10 to 11.04?
+ Pudabudigada: I never recommend that. I would back up your home folder and do a fresh install of 11.04.
+ mister_m: If you upgraded from 10.10 to 11.04, I would back up your home folder and do a clean install. That often fixes issues caused by a distro upgrade.
+ Pudabudigada: No, but there are a couple of ways to back up your apt list for an easy redownload.
+ Pudabudigada: head over to http://aptoncd.sourceforge.net/ and enjoy. :P
+ mister_m: It's a Debian concept (remember that Ubuntu is based on Debian). Debian stable upgrades work just fine. It just isn't as effective for Debian's child.
+ improveupon: You dist-upgraded to a new OS with a new kernel and package system. This will cause new problems and exasperate your existing ones. Try backing up your /home and doing a clean install.
+ improveupon: Well, the problem is that it ISN'T obvious. Otherwise, I'd have a fix for you. :P
+ Guest27469: How do you plan on losing this data? I've never suffered data loss on my ext4 systems.
+ sss314: Don't do it! If you have to upgrade to Natty right away, at least back up your /home and do a clean install.
+ sss314: Don't use the Upgrade function within Ubuntu. That can cause a lot of trouble. A clean install with a Natty ISO is better.
+ rafi: I would create a thread in the Ubuntu forums. Be specific with your hardware.
+ sss314: Most of your important data is in your /home folder, so back that up first. Any custom icons and themes will be in their own folders in /usr/share/. Other than that, all you'll have to do is personalize the OS and redownload your apts.
+ iceroot: I'm glad you've gotten lucky, but most dist-upgrades cause problems.
+ LjL: Oh, of course he can try a dist-upgrade once his stuff is backed up.
+ iceroot: "of course" because you have the numbers for me? I see dist-upgrade problems ALL THE TIME.
+ sss314: Definitely back up your Home first. After that, you're welcome to upgrade in the manner of your choice.
+ sipior: On a help channel, on multiple Linux and Ubuntu forums, and on multiple blogs. Don't fill in my sentences for me.
+ LjL: That's pretty much what the Software Manager does in GUI, right? I was speaking of both terminal upgrades and GUI upgrades.
+ LjL: A repo check makes sense.
+ sss314: Oh, definitely do that first. You want to WANT the new version, believe me. xD
+ iceroot: I've seen plenty of broken upgrades through the GUI mangers, both Synaptic and Ubuntu's update manager.
+ jwmto: You're at the right place. Just let us know what the problem is and we'll do what we can.
+ jwmto: Could you be more specific on what kind of iMac you have? Do you know what processor it has?
+ sss314: That's a bit of a loaded question. Unity 3D is a bit slower than Gnome, but Unity 2D is usually faster. KDE is still the heaviest desktop, and you still have options like Xubuntu and Lubuntu for a more lightweight desktop.
+ sss314: The change in DE (Desktop Environment) means that you'll be swapping out some apps (Gedit, for example is a Gnome text editor, while emacs is for KDE), but the core OS is mostly the same.
+ sss314: Of course, most apps work just fine outside of their native DE. My roommate's machine is running XFCE along with a few Gnome apps just fine.
+ sss314: I like Xubuntu, but I prefer Gnome on a machine that can handle Gnome. Luckily, there are guides on switching from one DE to another easily, no reinstall required. :)
+ Zeeofu: That's a pretty vague question. What are you looking for in particular?
+ Zeeofu: Well, this definitely isn't that. xD Try FreeBSD or OpenBSD, and look up derivatives of those.
+ Olson_: Normally, I would recommend upgrading to a new kernel or switching to Liquorix, but I haven't been keeping up on Natty kernels...
+ Olson_: That sucks. Give Liquorix a shot: http://www.webupd8.org/2011/03/how-to-install-liquorix-kernel-in.html
+ Olson_: I've never had to do anything like that, but I don't have your hardware. I can understand why you wouldn't want to repeat such a chore.
+ Olson_: typically, Xorg will reconfigure itself independent of your kernel choice. Just give it a shot. If Liquorix gives you trouble, you can always boot back into the generic kernel you had before.
+ Olson_: Always worth a shot. Good luck. :)
+ jaszandre: I love Gedit! What problems are you having?
+ sine_: If you want pause/resume, try a torrent: http://releases.ubuntu.com/11.04/ubuntu-11.04-desktop-amd64.iso.torrent
+ jaszandre: Does Gedit work in the alt-F2 prompt?
+ bsamson: That is a known Flash issue. Try opening your Flash preferences and disabling hardware acceleration.
+ bsamson: Google fullscreen flash linux and you'll have millions of hits.
+ ShockDoc: Plenty here. :P
+ bsamson: Ancient, but still very relevant. The problem has not been solved on even the newest version of Flash, the newest version of Ubuntu, and the newest Linux kernel.
+ hadorhuorn: As I understand it, Unity has not yet been properly optimized for multiple monitors. Gnome might serve you a bit better for that, imo.
+ jaszandre: Are you using an up-to-date version of Ubuntu with Gnome?
+ hadorhuorn: Unity is very young, and is proprietary to Canonical and Ubuntu. Gnome and KDE, on the other hand, are very established for all desktop purposes. That's just a reality at the moment. =/
+ jaszandre: I saw it, but I'm not sure how to solve it. I would try Googling one or two of the error lines.
+ ruffleS: I have no reason to think that the swappiness won't still work.
+ hadorhuorn: Long live Gnom- Uhh, I mean, no problem. :P
+ ruffleS: It often improves system responsiveness, but remember that suspend and hibernate depend on swap by default.
+ ChrisBuchholz: You will likely need to build that from a tarball source, since the PPA version is up to 3.1
+ ChrisBuchholz: It's highly unusual that you specifically need Python 2.7 for a project. Are you sure you can't roll with Python 3.1?
+ enlight22: Frankly, I don't think Unity is ready for use on multiple windows. =/
+ andeeeuk_: In the new GIMP 2.8, single window mode is activated via a checkbox in the Windows menu.
+ enlight22: Haha, I hear you. Well, are you using an Nvidia or ATI video device?
+ andeeeuk_: I no longer use GIMP, but when I did, I used this repo: http://ppa.launchpad.net/matthaeus123/mrw-gimp-svn/ubuntu maverick main deb
+ andeeeuk_: Use this authentication key line: sudo apt-key adv - recv-keys - keyserver keyserver.ubuntu.com 405A15CB
+ andeeeuk_: If that is updated, you should have a single-window option.
+ andeeeuk_: Yes, I have Photoshop CS5 running smoothly under Wine.
+ envygeeks: Check the comments in the WineHQ AppDB.
+ andeeeuk_: For a while, I had a couple of glitches, but my own tweaks and a new kernel have it running silk.
+ Distress: I've been hearing audio input problems all day. You're not alone.
+ andeeeuk_: If you're willing to pay up for it, CS5 is a great upgrade over CS4. I actually upgraded from good old 7.0 xD
+ andeeeuk_: Yes, it's definitely costly. I'm a professional graphic designer, and GIMP just wasn't cutting it for me. However, I do use Inkscape in place of Illustrator. I think GIMP is coming along just fine, too.
+ myrmidette: Can you be a bit more specific? What OS are you trying to burn it with?
+ myrmidette: Ah, yes, Lucid gave me a hard time with the built-in tool. Unetbootin worked fine, though.
+ myrmidette: Try installing Unetbootin and burning the USB with that. Make sure to format the USB with the tool before writing to it.
+ myrmidette: Oh, my bad. Use Gparted to format the USB drive to ext4. Be VERY careful when selecting the device to format. If you're careless, you risk wiping one of your system partitions.
+ myrmidette: If you have the right media name, and it was ext or fat32 before, then sure.
+ myrmidette: a format will delete all nonessential files.
+ ChessTeach: Software RAID of any kind is nowhere near as beneficial as a hard array controller.
+ ChessTeach: Well, that sucks. Raid is very hardware-dependent, so not everyone gets to enjoy it.
+ ChessTeach: It's rare. Raid controllers are hardware, so a BIOS update would mean that it was ON your board, but disabled for some reason.
+ ChessTeach: Honestly, I don't think Raid arrays are very useful for personal computers. Secure servers, yes, but not desktops.
+ ChessTeach: Sounds like you want a solid-state drive, or SSD. It is full flash memory with no moving parts, and is exponentially faster and more stable than traditional hard drives.
+ ChessTeach: I'm buying an OCZ Vertex 2 50GB SSD very soon. It should be able to boot Fedora for me in under 12 seconds.
+ ChessTeach: I'll be spending about $100 USD on mine. The price goes up quite a bit by storage capacity.
+ ChessTeach: If you want to shop for an SSD, look not just at capacity and price, but also at read and write speeds. The Vertex 2 can read over 275MB/s.
+ ChessTeach: Well, all upgrades cost money. For what it's worth, I think it's a very worthwhile upgrade.
+ ChessTeach: Google is your friend: https://help.ubuntu.com/community/Installation/SoftwareRAID
+ ubottu: Your auto-detection could use some revisions.
+ elliot_: Yeah, we are. We're thinking of renaming it Halzenbuntu. :P
+ Guys, if you don't want Unity, I wouldn't install Natty 11.04. Wait for 11.10 or Linux Mint 11.
+ iceroot: I'm perfectly aware of that. I was responding to people encountering issues replacing Unity in their Natty install.
+ xcyclist: That means that your graphics configuration is not complete. What video device are you using?
+ alkemann: As I understand it, you'll need to switch to the released version to get all of the future updates.
+ I gotta go, guys. Take care, and good luck with all of your Natty issues.
+ PatrickC_Pre2: Ubuntu can run comfortably with only about 10GB of space.
+ REK: I would try a kernel update. Here's a guide to installing Liquorix kernels: http://www.webupd8.org/2011/03/how-to-install-liquorix-kernel-in.html
+ PatrickC_Pre2: With such limited space, I would limit it to one installation.
+ PatrickC_Pre2: Luckily, 2.5" hard drives are virtually universal and very affordable.
+ newubuntu: That's a motherboard issue. Try updating your motherboard firmware, or even a BIOS update might be needed.
+ PatrickC_Pre2: I hear you. I see some great options pop onto Craigslist almost every day.
+ ronr_: I think gnome-system-monitor will still work in Gnome 3.
+ ronr_: My Gnome 3 install didn't last long on my machine, so I can't check for you.
+ ronr_: That or alt-F2.
+ newubuntu: Wubi won't mess with your motherboard or BIOS. Check the battery and try a motherboard firmware update.
+ sabri_icone: I'd head over to the Linux Foundation. They're the leaders in Linux certification, and will be of more help to you than a distro support chat.
+ DaveAG: Evolution historically doesn't get along with certain Exchange functions. I'd try Thunderbird.
+ DaveAG: Any chance this will help? http://gitorious.org/lightning-exchange-provider/pages/Home
+ ronr_: You have Gnome Shell but not Gnome? I must've missed something.
+ OneSquared: Gnome can do that. Right-click and Rename.
+ Hello, Yulya.
+ OneSquared: Open up the folder in Nautilus and Ctrl-F.
+ ronr_: My bad, you said shell and I jumped to Gnome Shell for some reason.
+ ronr_: Try these in terminal for your CPU and RAM: "free -m" and "cat /proc/cpuinfo"
+ ronr_: Good. Sorry for the confusion.
+ ronr_: That reads 492 MB of RAM, meaning you have 512MB installed.
+ ronr_: It's a bit under par, yeah. xD
+ ronr_: There will be a line around the middle of the print with "cpu cores". As you know, multiple cores will fit on one physical CPU, so you have to be careful what you read.
+ ronr_: That's odd. O.o
+ ronr_: Given your RAM, it's possible that you're using a CPU or motherboard that's too old to provide information that these commands can read. That's just my theory, though.,
+ ronr_: Let's try a more specific terminal command: cat /proc/cpuinfo | grep processor | wc -l
+  ronr_: Well, then you have one CPU. We're getting...somewhere.
+ ronr_: Any chance you can Pastebin the output of "less /proc/cpuinfo"?
+ ronr_: Well, I don't know why it isn't showing the cores, but I know that CPU to be a quad-core.
+ ronr_: Yeah, that's odd, too. Did you build this machine, or are you renting it?
+ ronr_: Well, something doesn't seem quite right with the configuration. I guess if it's working we shouldn't mess with your work machine, but still... xP
+ ronr_: No problem. :)
+ ronr_: Well, let me get this out of the way real quick: I never recommend doing a straight upgrade from one version to another. I always prefer backing up the /home folder and doing a clean install.
+ ronr_: If you're slick with the install, you can even isolate the /home folder to its own partition. That's what I'll be doing with my upcoming Fedora install.
+ ronr_: It's really not so bad. Your app settings are saved in your /home folder, so the rest should only set you back an hour or two every six months. Software upgrades can cause a lot of problems, though.
+ ronr_: Normally, yes. Luckily, AptOnCD is here to help: http://aptoncd.sourceforge.net/
+ ronr_: There is no slick and easy way to upgrade with no chance of issues. Thankfully, this only has to happen every 6-12 months.
+ usr13: I guess I should be more careful with my phrasing: upgrading a distro holds the risk of one or two of many potential problems.
+ edbian: Yick. x3
+ edbian: Sounds about right. :P
+ ronr_, edbian: A common philosophy among Linux users is that the cutting edge is overrated. I personally disagree, but stability is welcoming too.
+ usr13: I don't speak solely from my time in IRC. Forums, blogs...all covered with upgrade woes. I understand that the success stories typically go unheard, but I'm just saying that a clean install can sidestep these problems.
+ edbian, ronr_: That's the spirit. I'm switching to Fedora soon to enjoy the newest app updates in their unadultered goodness. I had some good times in Ubuntu, though...
+ ronr_: A media center won't be too picky, so there's little reason for you to be, too. :P
+ edbian: Oddly enough, I meant unadulterated. It's early here.
+ usr13: Yep. The fresh-install-versus-upgrade is a fight I see picked every time I'm on here.
+ bperu: Sounds like Wubi, but there's nothing that will give you a true-to-form install while operating inside of Windows. Don't be too scared of an Ubuntu Live CD.
+ bperu: Well, that's gonna put you in a bind. You could use Wubi, but frankly it's more trouble than its worth.
+ I'm out, guys. Enjoy your Natty bugs. :P

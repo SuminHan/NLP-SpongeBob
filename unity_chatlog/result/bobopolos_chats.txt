@@ -1,0 +1,3 @@
+ hi
+ I've been trying to bridge wlan0 and eth0, i follow steps found, ifconfig, route -n, and brctl show display reasonable results, but i cant ping anything on the eth0 side of the bridge. any advice? should i temporarily disable "network manager" or some other service that may be interfering?
+  i set up a bridge in linux with brctl, i can ping both sides of the bridge from linux, and ping the linux machine from each side, but cant ping accros (from one side of the bridge to the other). any suggestions?

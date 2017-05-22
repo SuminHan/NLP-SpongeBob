@@ -1,0 +1,2 @@
+ randomly my laptop freezes the screen with horizontal lines and nothing can be done except a hard reboot. This is been occurring  with 9.04, 9.10, and now 10.04. The laptop is X61T lenovo tablet with GMA 950 I don't know it it a video card problem or something else, any help is greatly appreciated
+ gartal: No I have not what does this do?

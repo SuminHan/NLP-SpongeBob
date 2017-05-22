@@ -1,0 +1,9 @@
+ So I started the Ubuntu install CD, pressed "try ubuntu" and nothing happened
+ Is that a bad sign?
+ Monotoko: It stalled for a long while and just continued showing the window
+ Monotoko: I should specify. This is booted into the CD.
+ usr13: Hm, I'll do that once I reboot
+ Monotoko: The menu didn't show up. I opened a terminal window by switching to a VT and running gnome-terminal
+ But yeah, I'll check the disk for integrity. I torrented the iso so chances are it's OK, but maybe it burned wrong
+ Monotoko: Correct
+ Monotoko: X opened, and stuff runs correctly, the shell just didn't load

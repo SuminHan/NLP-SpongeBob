@@ -1,0 +1,1 @@
+ i upgraded to 11.04, but the updater said it could not update my grub2 config. most likely this is because of my software raid setup(boot RAID1, everything else RAID 0) anyone have advice where to look about this?

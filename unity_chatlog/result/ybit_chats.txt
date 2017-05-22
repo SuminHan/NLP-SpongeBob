@@ -1,0 +1,4 @@
+ heyo
+ i briefly googled and i lazily looked at the results, so i'm going to instead ask in here..
+ is there a fix for the crappy new scrollbars?
+ found the fix, phew

@@ -1,0 +1,10 @@
+ hello
+ is there any program that works like screen
+ but for X-applications?
+ uhm, I was intending on using it with xforwarding and ssh
+ to use*
+ not "on using"
+ hmm
+ does that work?
+ hmm
+ hmm

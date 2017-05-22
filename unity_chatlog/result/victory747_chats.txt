@@ -1,0 +1,1 @@
+ I noticed on http://www.ubuntu.com/ubuntu/features/office-applications that "Quicken" is listed as available in the Ubuntu Software Center.  But I don't see quicken in there. Is quicken available for Ubuntu? Or are they just saying this meaning HomeBank or GNUCash?

@@ -1,0 +1,2 @@
+ does gnome-shell 1 provide ALT+TAB feature? Because in mine, it doesn't seem to work
+ Guys, Does gnome-shell provide ALT+TAB feature? Because in mine, it doesn't seem to work... ANYBODY here have used gnome-shell?

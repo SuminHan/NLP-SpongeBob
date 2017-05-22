@@ -1,0 +1,34 @@
+ I know how to share folders from (at least) home directory onward, but how can I share protected folders such as /usr/bin, without severely compromising my system's security?
+ I have a Kensington Orbit Optical trackball. As you can see: (http://tinyurl.com/6btnlhv), it doesn't have a scroll wheel. While using supported operating systems, right-click+leftclick'ing tells the OS to scroll with the ball's y-axis until another click happens. How can I attain the same functionality in Ubuntu?
+ I have a Kensington Orbit Optical trackball. As you can see: (http://tinyurl.com/6btnlhv), it doesn't have a scroll wheel. While using supported operating systems, right-click+leftclick'ing tells the OS to scroll with the ball's y-axis until another click happens. How can I attain the same functionality in Ubuntu?
+ What's the version number of the next alpha?
+ e.g. 11.04
+ Why is update-manager -d trying to install a bunch of KDE stuff?
+ is ubuntu/canonical deciding to utilize some of KDE's resources, or is update-manager confused?
+ I'm considering installing medibuntu on top of my existing Natty. Is this action typically a problematic process?
+ I'm considering installing medibuntu's packages on top of my existing Natty install. Does this action typically cause problemss?
+ acicula, yes
+ acicula, and at that point, I'm going to install ... please hold
+ acicula, alrighty thank you
+ Any idea why Youtube video plays just fine, but hulu video is choppy?
+ is xorg.conf still here: etc/X11/xorg.conf ? Mine is empty ...
+ Is it normal for xorg.conf to be empty?
+ xangua, was that "yes" meant for me?
+ So, wonder what kind of banter is about in #ubuntu+1
+ Omega, yeah, that's what you _want_ us to think :P j/k
+ !info xorg-edit
+ !flash
+ !What to do when  youtube is smooth and hulu is choppy
+ !Upgrade to AI
+ KM0201, Yes, sir
+ KM0201, thanks!
+ Guest94632, check out iwconfig as well
+ Guest94632, also make sure the card is enabled in BIOS
+ Guest94632, Network Manager should do the rest.
+ Guest94632, ifconfig to find your card; ifconfig [card] up
+ Guest94632, but it sounds like there's something going on with that driver, because it should bring itself up automatically
+ Guest94632, yeah, that's an option.
+ Does anyone _not_ have problems playing hulu?
+ Jordan_U, why is sudo k3b a bad idea?
+ (not that I don't think it is)
+ Jordan_U, thanks.

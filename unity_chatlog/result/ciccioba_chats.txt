@@ -1,0 +1,10 @@
+ hi
+ have someone ideas about no sound on my realtek audio integrated peripheral (mobo ASUS -pro) on ubuntu 10.10
+ i've seen on sound preferences 2 devices (1 is realtek; other is audio standard...)
+ last time i installed ubuntu 10.1o v disattivated one and the other is gone... now don
+ Viking667: how to look if pulseaudio is started
+ ?
+ yes surely
+ i'm sorry 've to go, i'm working.
+ i'll be back soonm
+ thanks to all

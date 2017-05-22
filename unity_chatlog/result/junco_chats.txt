@@ -1,0 +1,9 @@
+ Hi I'm having a terrible time since upgrading to 11.04 with compiz going nuts and freezing half my interface... how can I find out if this bug has been reported already? google isn't helping much.
+ I think unity needs a lot of work but has potential
+ So, no one else having problems with compiz and ubuntu 11? I get freezes almost every hour it sucks
+ MonkeyDust: I suppose that's true.. but I'm thinking someone (developers) would want to know about my problems somewhere?
+ MonkeyDust: I'm not sayign I don't like it. I'm saying it freezes the system... it's buggy. I'd use it if it didn't break my computer every hour.
+ sipior: I'll try classic for awhile and see.. then I'll do a bug report. I assume I'll be able to find that pretty easy on ubuntu.org (how to file a bug report)
+ sipior: got it thanks!
+ hi, anyone gotten gnome-do to work with ubuntu 11?
+ greetings! Is it possible to disable the new Unity sidebar but KEEP the new global menu in ubuntu 11? (Using Ubuntu Classic disables both...)

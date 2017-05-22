@@ -1,0 +1,3 @@
+ hello
+ How to revert back to unity after identifying my driver? the ubuntu choice in the login always logging to gnome ?!!
+ Guys after my VGA driver identification I can't login to unity, always logging to classic gnome while I choose "ubuntu" from login window, ANy suggestions ?!

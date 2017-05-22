@@ -1,0 +1,47 @@
+ How would you map out your windows shares?  I mean if you are going to play an MP3 from it with mpg321 ?  Do you use smb://192.../path/file.mp3 ?
+ or is there some other way to see the windows shares again ? I forgot about ?
+ Is there something else like super_pi you can use to benchmark the CPU and tell how fast it is instead of just stressing it ?
+ Is there any real reason not to download and use the 64bit Ubuntu on a 4GB RAM system ?
+ carandraug: I suppose it is, it's an Athlon II X4
+ carandraug: Will the 64bit still have the 'make a startup drive' option for a USB stick ?
+ carandraug: I guess I'd only lose a CD and some bandwidth if it doesn't.
+ carandraug: while I wait on the 32bit to download..
+ Is it possible to make a startup flash disk within windows without booting to a CD?
+ Enekk: I downloaded the AMD 64 bit ISO and for some reason this machine wont boot with it
+ carl-m: my new system doesn't have drives yet
+ carl-m: was hoping to see hot it ran Ubuntu (live)
+ carl-m: It just sits there black, can't move the mouse or anything
+ Enekk: If I'm doing it over, I'm getting the 32bit
+ I don't have the bandwidth to do it over and over
+ Enekk: this machine is E2160
+ Enekk: the new one without drives in it yet is Athlon II X4
+ Enekk: maybe bad download ?
+ Enekk: It's not really a graphical issue if the USB isn't responding and I can't get to the desktop lol
+ Enekk: The "try/install" screen doesn't even come up before it scews up
+ screws
+ carl-m: I'll have to wait till about 3 AM then
+ carl-m: 7:27 PM
+ carl-m: that's hughesnet caps.
+ carl-m: I suppose I could use the 32bit 10.10 on a USB stick for now to test the machines workability , sensors (temps) and all for now.
+ carl-m: I suppose I'd only have 3.2 GBs of RAM
+ of the 4
+ Enekk: I just use UNetbootin to try the 64bit ISO ?
+ Enekk: how would I know how much space I could tell it to save for saving across reboots ?
+ Enekk: It's a 7.64 GB flash drive ( " 8 GBs " )
+ Enekk: I told it 2000 MBs
+ Enekk: seems to be taking all day on "filesystem.squashfs"
+ aye
+ Enekk: okie dokey it's moving again
+ Enekk: I just want to make sure the motherboard isn't DOA , or processor, or RAM..
+ Enekk: Before I go ordering a hard drive and DVD burner
+ Enekk: the 'setting up persestince" is taking forever now
+ Enekk: OK, so it's not 'hung' ?
+ How do I install flash on AMD 64bit ?
+ !flash
+ !nvidia
+ what's the nvidia package?
+ nvidia-latest ?
+ never mind I just got it from 'other drivers'
+ jetole: how do I install it from the repos
+ is there something to 'benchmark' the cpu rather than just stress it like stress --cpu 8 , ?
+ How would I convert the processors bogomips in to "what it can do and how fast?"

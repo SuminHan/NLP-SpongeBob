@@ -1,0 +1,11 @@
+ so, just installed 11.04 and trying to understand unity. I installed wine and a windows application. How can I threw unity find this app? Wine nore the windows program shows up when I search for apps witch super-key
+ so, just installed 11.04 and trying to understand unity. I installed wine and a windows application. How can I threw unity find this app? Wine nore the windows program shows up when I search for apps witch super-key
+ how do I create a "launcher" that act likes an installed app in Unity? Ie when I browse installed apps I want to se the launcher
+ syockit, But how can I make it act like a "installed app"? can I make unity find it to launch it. I dont want to pin it to the launcher.. I dont use it that often..
+ syockit, I just want to be able to browse it whitout looking up the exe file in nautilus everytime I want to start it
+ syockit, Ok. Think I understand... its not easy this... In Gnome all wine apps was installed to the startmenu in wine folder
+ syockit, Ok, in my .local/share/applications I have a bunch of files like: wine-extension-gif.desktop nothing more... What should I put here?
+ syockit, sorry.. there was a folder called wine and in that one lays my windows app.. Still.. unity cant find my windows app.. still lost..
+ syockit, ok.. Im trying to relogin then
+ syockit, yes. In a subfolder of the .local/share/applications lays a .desktop file for my windows app
+ syockit, rebooting.. brb

@@ -1,0 +1,12 @@
+ how do i change the grub key config
+ how do i change the grub key config
+ how do i change the grub key config
+ how do i change the grub key config
+ what is it
+ spill it
+ how do i change the grub key config
+ how do i change the grub key config
+ how do i change the grub key config
+ how do i change the GRUB2 keyboard shortcuts
+ well i want to encrypt my GRUB2 bootloader and i dont want people to just press e and edit the lock entry out
+ how do i password the GRUB2 menu

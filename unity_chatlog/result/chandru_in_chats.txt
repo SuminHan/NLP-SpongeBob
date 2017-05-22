@@ -1,0 +1,6 @@
+ Can the list of favorite folders in launcher be modified?
+ fcuk112, Disabled keyboard shortcut and create a new one with terminator as command
+ m_e, Select ubuntu classic in login
+ Is it possible to change the list of favorite folder in launcher (Super + F)?
+ Is it possible to change the directories that are searched by the launcher?
+ I have all permissions enabled on a file for all users. Yet when I try to cat the file as another user, it says 'permission denied'.

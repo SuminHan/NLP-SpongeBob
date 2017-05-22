@@ -1,0 +1,15 @@
+ Im having some trouble. I have xchat open. I clicked minimized and it looks like it closed it but it didnt.
+ Now I have three xchats open and I cant find a window tasker
+ running 11.04
+ Anyone help me out?
+ Now I have three xchats open and I cant find a window tasker
+ Im having some trouble. I have xchat open. I clicked minimized and it looks like it closed it but it didnt.
+ pfifo, I cant find the option to disable the taskbar icon
+ okay I disabled the system tray icon
+ now how do I go in and manage the other two open ones and close them individually?
+ I notice I cant minimize windows at all with unity. They just disappear.
+ Isn't there some sort of window management system?>
+ Isn't there some sort of window management system? I cant minimize anything without it disappearing completely. Sometimes still running like my xchat right now. There are three instances of it open
+ xchat isnt signed as running right now zvacet and there are three open
+ unity just has the icon there like always
+ I dragged it there from my app tray to keep

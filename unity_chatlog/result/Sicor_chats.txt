@@ -1,0 +1,21 @@
+ hello
+ In unity, for some reason the top bar where the close, minimize, and the maximize button dissapears
+ does anyone know why this is
+ hello
+ Also, my screen resolution is not properley set in 11.04
+ All of the other distros work fine
+ idk, i have a gts 250, and my video is messed up
+ whats your problem nikos719
+ What tablet do you have
+ I need help
+ nikos719, what specs does your tablet have
+ yeah, just looking at what specs are needed
+ Can't find the system requirements
+ does anyone know what the system requirements are for ubuntu 11.04 with unity
+ found it
+ yeah, gotta have 1gb ram
+ and 1ghz cpu
+ nikos719, do you have an x86 processor?
+ What tablet did you buy
+ Does anyone know of any good Nvidia drivers for 11.04, because the ones i got don't work very well
+ btw, i have a GTS 250

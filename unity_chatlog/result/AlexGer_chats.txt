@@ -1,0 +1,24 @@
+ hallo, i'm installing "Zentyal" Ubuntu and get during the installation proces an errormessage. It's free translated from german..
+ Could'nt find an installable Kernel in the APT-Sources
+ hello, i'm installing "Zentyal" Ubuntu. During the installation process i receive the following errormessage. (free translated from german..)
+ Could'nt find an installable Kernel in the APT-Sources
+ helo, i need your help please
+ i didn't realy asked to ask :-)
+ i installed ubuntu in english to tell you the correct error message:
+ [!]Install the base System
+ No installable kernel was found in the defined APT sources.
+ You may try to continue without a kernel, and manually install your own kernel Later.
+ This is only recommended for experts, otherwise you will likely end up with a machine that doesn#t boot.
+ Continue without installing a kernel? <Go Back> <Yes> <No>
+ that's my problem
+ :-9
+ Zombiedeadshot sudo updatedb
+ Zombiedeadshot locate *.deb
+ Jordan_U i tried it olso with ubuntu
+ i googled around to find more information abaut that message and i've seen a coupple of forum posts...
+ e.g.: http://www.linux-web.de/thread/11061/fehler-es-wurde-kein-installierbarer-kernel-gefunden.html
+ have to install it again
+ ...
+ Jordan_U i also tried to burn the image with a PC and with a laptop. I used different cd's and DVD's!
+ Jordan_U any ideas?
+ hello #ubuntu i have problems installing Zentyal 32bit AND Ubuntu Server edition 32bit 10.04 TLS. During installation i receive the following errormessage: http://pastebin.com/gTXqsHab Thank's for your help! Alex

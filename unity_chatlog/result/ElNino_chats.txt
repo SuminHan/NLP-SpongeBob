@@ -1,0 +1,11 @@
+ hey i have installed ubuntu 11.04 and decided i wanted to try out unity.. its fine and all, but im wondering if there is a was to keep compiz enabled, but yet not have it change the windows?
+ step21: yup
+ cdbs do you know how i can have normal windows in unity?
+ cdbs ubuntu classic will be unity too?
+ cdbs: well in unity the top of the window turns orange and transparant instead of dark grey like normal
+ cdbs: 2 sec
+ cdbs: http://img6.imagebanana.com/img/jm9z71n5/Selection_001.png <-- this is what i want gone
+ cdbs: default
+ Guest20267: no its awefull
+ cdbs: youre a hero :)
+ ah dang cdbs it worked then falled back

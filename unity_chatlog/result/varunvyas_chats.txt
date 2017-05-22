@@ -1,0 +1,29 @@
+ thanks friends
+ hi all
+ could i upgread from 10.04 to 11.04 ?
+ ok
+ thanks friends
+ hi all
+ when I want to ugread to 10.10 from 10.04
+ it always aborts
+ anyhelp
+ When I am trying to upgread from 10.04 to 11.04 , it aborts while downloading new packages
+ I am upgreading to 10.10 (my bad)
+ it says not able to download packages
+ and gives set of pacakges
+ I am doing it again , will capture exact error this time
+ HI all
+ when I upgreading to 11.04, it stuck at insalling upgrd
+ HI, I was trying to upgread to 11.04, after downloading packages it stuck in installing packages and my machine swiched off due to power failure. now when I am trying to upgread it says partial upgread and that to  failing.
+ please help
+ update manager is closing when I click on upgread
+ please help
+ My upgread to 11.04 stuck while ins talling
+ installing
+ also when I restarted, my box and tried to run, it says not able to get exclusive lock close all apt. I checked in ps but there's no up running
+ so what should I do to rerun upgread :(
+ Hi all thanks, I am now on 11.04
+ I wanted to know where is adminstration and system tab movd ?
+ ?
+ Need help . on 11/04, where's system administration ab
+ tab*

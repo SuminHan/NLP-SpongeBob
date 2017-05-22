@@ -1,0 +1,8 @@
+ hi there
+ i'm trying to install latest 11.04 from a usb key and apt-get fails not finding the cdrom - tried 'cdrom-detect/usb=true'
+ was the same with 10.10 :/
+ KM0201, If you get "Incorrect CD-ROM detected" error on detection stage, reboot, press F6 and then ESC to go to manual boot line editing, and add the option 'cdrom-detect/try-usb=true'
+ found on ubuntu.com
+ no the regular one
+ KM0201, was the same w/h 10.10 my personal laptop & another usb stick
+ anyway i can bypass apt to check for the cdrom and install package from online repositories?

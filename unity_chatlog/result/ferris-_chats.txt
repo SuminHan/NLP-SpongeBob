@@ -1,0 +1,4 @@
+ how do I get to "System-->Administration-->Networking" in Natty?
+ I do not have the old gnome desktop... it is the new one with the icons on the side but there are no system or administration icons
+ me
+ as with navigating the new system and also getting my wifi card to work(which is the real prob)

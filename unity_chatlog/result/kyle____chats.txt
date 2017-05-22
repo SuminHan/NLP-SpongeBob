@@ -1,0 +1,8 @@
+ is there a bug with installing from the latest ubuntu cd's????
+ mainly they dont work
+ ive tried 32 bit and 64 bit on 3 different pc's  none of them boot
+ ok ill rephrase,  is there a bug with the latest install cd's mainly that they dont work, ive tried them on 3 different pc's and they wont boot,  kinda makes me worried to upgrade over the net, can anyone confirm this?
+ anyone?
+ does anyone know?
+ ok ill rephrase, is there a bug with the latest install cd's mainly that they dont work, ive tried them on 3 different pc's and they wont boot, kinda makes me worried to upgrade over the net, can anyone confirm this?
+ i cant boot any image

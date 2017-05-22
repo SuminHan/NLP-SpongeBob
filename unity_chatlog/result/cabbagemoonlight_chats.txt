@@ -1,0 +1,6 @@
+ is there an easy way to use vnc securely?  i need a tutorial
+ !FreeNX
+ thanks Dr_Willis
+ one more question, is there an easy way (GUI) to set up a ssh server?
+ i mean all the authentication and whatnots..its looks too complex
+ ok, so is there a beginners tutorial you can recomend?

@@ -1,0 +1,63 @@
+ !usb | OY1R
+ !botabuse | daedaluz
+ Froq: there is an experimental ext2 driver for windows
+ !google | xangua
+ MnCC: sorry? i think you have me confused?
+ MnCC: i never upgrade, i always install afresh
+ MnCC: never really tried using the fingerprint reader under ubuntu, got it working in fedora though (a while back with my t60)
+ !pae | wal3
+ MnCC: no
+ MnCC: sorry i'm not that helpful, but i have found the thinkpad t series very reliable
+ BTice: i have natty installed nicely on my t40, though that's xubuntu; always prefered xfce
+ !uninstall | mdpatrick
+ a111: it works fine for me, but that doesn't help you now does it?
+ a111: you could do that with a livecd, no need to reinstall
+ WhitePride,
+ WhitePride: theres classic mode from the login screen
+ mah454: why do you need libpoppler7? libpoppler13 is available in the repos
+ !find libpoppler13 | mah454
+ !info libpoppler13 | mah454
+ np
+ jetienne: not quite, you can install vms inside 11.04
+ jetienne: stop trolling
+ jetienne: i didn't mean to insult you, i apologise; but you are misusing the term dedicated
+ !gnome3 | sachin
+ sachin: you can install it, but its not guaranteed to work and you won't be able to get support if you do install it, as for why they provided a ppa it must have been requested by a few people, but is experimental (use at your own risk)
+ !classic | ezrafree
+ dasfefg: do you have a problem that you need help with? if not can you take that to #ubuntu-offtopic
+ dasfefg: congratulations
+ !grub2 | drdozer
+ drdozer: are you at a grub rescue prompt?
+ drdozer: shall i walk you through how to boot again?
+ drdozer: first do you remember which partition you installed ubuntu to?
+ drdozer: no worries, we'll find out
+ drdozer: type ls
+ drdozer: what do you see?
+ drdozer: ok, type ls (hd1,msdos1)/
+ drdozer: what do you see?
+ drdozer: really? you tried them all?
+ drdozer: what does it print out?
+ drdozer: excellent, bear with me we'll type some commands..
+ drdozer: first type: set prefix=(hd0,1)/boot/grub
+ drdozer: then type: set root=(hd0,1)
+ drdozer: yeah, it shouldn't display anything yet, next type: insmod linux
+ drdozer: ah.. i don't know how to fix that, looks like grub needs to be reinstalled
+ drdozer: not from a rescue prompt, as far as i know
+ drdozer: no worries, i got stuck at a rescue prompt too, so i found the ubuntu wiki helpful, thats where i was getting the info to help you from
+ boot: its recommended you stick to what ubuntu provides
+ !unity | slide
+ !backtrack | daemonkol123
+ !brain | mang0
+ mang0: 11.04 uses a newer kernel than 10.10 so there are driver updates and whatnot
+ OneKorea: you can install ubuntu and access any partitions just fine yes
+ np
+ P_Kable: you'll need to give more details so that we can figure out your problem
+ OneKorea: yes, ubuntu reads and writes ntfs partitions on a full real install, it won't overwrite anything there
+ OneKorea: its an easy install process, the hardest part is partitioning, but that is simple when you know how
+ !mint | andreaborman
+ LuckyNeo: 11.04 is no longer beta
+ LuckyNeo: oops, sorry, misread
+ crazyrohila: you'll have to update to 10.10 then to 11.04
+ deostroll: maybe look up some documentation of the file structure of linux, it sounds like you are unfamiliar
+ iggyology: you could always try any other desktop environment if you don't get along with unity, i prefer xfce myself
+ !usb | alphamale

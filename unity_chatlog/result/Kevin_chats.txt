@@ -1,0 +1,22 @@
+ Soothsayer: pong
+ Soothsayer: why would it end up being sda1? I would expect the windows c: partition to be sda1
+ Soothsayer: nor should you specifically change the numbers around (you'll confuse windows)
+ n3glv: probably need to give them a link to a 'how to ask good questions' page
+ klunky999: you want to fix grub after installing windows second?
+ klunky999: what's the entry for windows?
+ klunky999: pastebin it since it's probably a few lines
+ klunky999: /boot/grub/grub.cfg, or is it .conf
+ klunky999: oh, and did you delete a small useless looking windows boot partition when you installed ubuntu?
+ [snake]: normally yes, but files are named what they are named, it could be.. interesting
+ klunky999: show the output of fdisk -l
+ klunky999: actually there seems to be a bug there, or someone changed it, since it doesn't have the partition numbers..
+ klunky999: oh right, nevermind
+ klunky999: fdisk -l
+ klunky999: as root, or with sudo
+ klunky999: looks like that entry should work, since it's what the mbr would normally do
+ klunky999: I don't suppose you can run the two commands in the file in grub and say what it gives back
+ klunky999: that's why I want you to type it in, so it doesn't return
+ klunky999: although it would normally show something anyway, you might me missing it
+ klunky999: press c, then enter the lines it shows for windows starting at insmod. you don't need to enter the uuid one if you don't want, since it's annoying
+ klunky999: normally i'd do that in kvm so you can get a screenshot, but that's not easy to explain
+ klunky999: yes when at the grub menu

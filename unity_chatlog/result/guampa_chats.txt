@@ -1,0 +1,3 @@
+ scarra3: how much ram do you have?
+ yeah, go with 64
+ i have two simultaneous X sessions, and am switching VTs with ctrl+alt+F[7,8] . If any of the sessions is not accessed for some time it asks me for a password when i switch, is there a way to disable this?

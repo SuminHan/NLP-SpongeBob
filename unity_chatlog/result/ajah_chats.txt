@@ -1,0 +1,11 @@
+ i`ve just uprade to 11 can someone tell me how to remove the horizontal winbouz like panel
+ Dr_Willis, how is called this thing to see options for it
+ Dr_Willis, i was asking for the horizontal thing
+ Dr_Willis, unity launcher thing thanks
+ Dr_Willis, i want to access tree structure of programs like before system->preferences ... how to do this in 11
+ is there a program witch can cause mouse to be locked withing a window ( not to leave window)
+ within*
+ Incarus6, my question was for wine i start programs with wine with option -window but it leaves the window how to lock it
+ Incarus6, so i cant lock mouse on directx apps witch i start with opengl
+ Incarus6, still leaving the window
+ Incarus6, i see

@@ -1,0 +1,66 @@
+ does ubuntu 11.04 come with gnome 3.0?
+ good
+ :)
+ i hope there got perl 5.12.3
+ Has anyone have prob with install ubuntu 11.04?And seem like it take longer then ubuntu 10.10 not sure why.
+ calrik,How ong does it tke to install it?
+ i hope ubuntu work good with android:)
+ exfileme,whaat type of probs?
+ i shock they din't upgrade perl in ubuntu.
+ greylurk,Is that the newer one?
+ How do i get a dell Truemobile 1150 to work on ubuntu 11.04 it try to connect then it deconnect for some reason?
+ anyone know how to get a Truemobile 1150 to work in ubuntu?
+ ?
+ anyone know how to get truemobile to work in ubuntu?
+ Does anyone know how to get a truwmobile 1150 pc card to work???
+ nit-wit,You mean the hardware driver
+ i try that
+ it have not been working from 9.10 ubuntu and up.
+ i think it odd
+ nit-wit,You know how to fix it?
+ if i am right i need the lan-ng fireware
+ ubuntu 11.04
+ i not sure what driver i need.
+ But what driver do i neeed that question.
+ nit-wit any ideas
+ i did read it:)
+ but how do i do that
+ i told you i try that no drivers came up.
+ that why i asking the question
+ i give up
+ anyone know how to get a truemobile pc card that wireless to work on ubuntu?
+ 1150
+ anyone
+ someone got to know something on wlan-ng driver
+ How do i install the broandcom driver on ubuntu
+ i not sure i don't have linux install on it yet.
+ would ubuntu pick them up with hardware driver?
+ ok i try that on tuesday.
+ brondcom drivers on windows sucks
+ doesanyone know how i can what wireless card my dad has on ubuntu live cd?
+ i try the pci commands
+ i did that
+ i see no wireless card.
+ i don't have it online.
+ i think it broandcom wireless card.
+ the ubuntu cd work but the wireles card won't.
+ no i just put in the live cd.
+ I not sure what to do.
+ esbian,Is there any other way.
+ edbian,i don't want to install ubuntu yet to i know what wireless card he has.
+ my ad
+ my dad all he want is the wirelesscard to work.
+ no i don't
+ i did a lspci with the live cd everything show up by the wireless card.
+ edbian,How do i do that?
+ i check
+ edbian,There a light by the side of the laptop.Could that be it
+ edbian,HP
+ laptop
+ edian,HP Pavilon dv2125nr
+ edbian,Here what i found http://ubuntuforums.org/showthread.php?t=334992
+ edbian,Look like it broadcom driver
+ edbian,Eth0 works in linux:)
+ edbian,All i need to install is firmware b43-installer?
+ edbian,That in the apt-get and thanksor the help.
+ edbian,i praying for it to work.

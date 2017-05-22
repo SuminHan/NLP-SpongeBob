@@ -1,0 +1,12 @@
+ hi all
+ hmm this is weird.. I can not connect to a certain IP (no matter what port)
+ but I can ping that IP perfectly
+ does ubuntu have some sort of firewall activated by default?
+ I can't access a certain IP anymore
+ iptables are empty bazhang
+ Jordan_U, / Incarus6 iptables and ufw are deactivated - but I still can't access the IP
+ hi all
+ ati-radeon does not work anymore since latest update
+ external vga is all gibberisch
+ nobody else having problems with external vga on ubuntu natty?
+ with latest updates?

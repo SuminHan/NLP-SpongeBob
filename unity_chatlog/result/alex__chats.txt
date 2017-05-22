@@ -1,0 +1,5 @@
+ j #ubuntu
+ woops
+ How do I open multiple terminals?
+ Ubuntu 11.04 in Gnome 3
+ Barzogh, cool, thanks

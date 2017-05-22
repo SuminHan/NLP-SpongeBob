@@ -1,0 +1,4 @@
+ yup
+ HELP:  libreoffice impress slides blank when opened by MS powerpoint
+ note:  also blank when opened by mac OSX
+ anyone help w/ ubuntu 11.04 libreoffice impress compatibility w/ MS?

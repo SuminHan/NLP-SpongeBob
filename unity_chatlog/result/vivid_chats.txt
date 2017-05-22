@@ -1,0 +1,29 @@
+ is it just me, or is launchpad totally tits up
+ how do i configure the unity panel?
+ KrisDouglas, i cant? thats pretty opposite of free as in freedom
+ i just want to right click and delete or add
+ change the order
+ KrisDouglas, pretty much a total fail then, looks like were being pushed to proprietary "use it our way"
+ yet published it as the default environment
+ how do i install gnome-shell in natty?
+ or gnome 3.0 ui
+ .....
+ so we avoid using the new gnome ui to present our own and then dont even include gnome's?  sounds sketchy
+ ohsix, yet it was included in past releases
+ ohsix, check that....http://packages.ubuntu.com/search?keywords=gnome-shell&searchon=names&suite=maverick&section=all
+ gnome-shell = gnome-shell = gnome3
+ ohsix, so why isnt gnome-shell in the repos now?
+ rgr, thats correct, not having one does not suffice for specialized video setups
+ exad, you cant use optimus
+ exad, if you have an ATI card there are options for it, but you wont need it really
+ exad, i have the m15x and i get about 4 hours on battery which should be more than enough
+ exad, so nvidia = no, you just use the nvidia card and set up power saving when youre on battery, should work fine
+ exad, when you power up and its on battery, it will automatically go low power, when mine is on battery it does no heating
+ exad, short story, youll have little trouble with it and you dont need to worry about optimus
+ exad, it will use your nvidia card
+ exad, i havent tried natty or maverick on my laptop yet so i dunno how theyll act, currently using lucid
+ exad, yes i get about 60 fps in wow and about the same in tf2 with the gt 240m
+ is there a fix for grub/plymouth with nvidia on 11.04?  grub is stuck in fail mode and wont autoboot and plymouth is a black screen
+ mstef, yes
+ second screen has no window manager for me and is unusable
+ anyone know a fix for broken grub and plymouth with nvidia drivers in 11.04?

@@ -1,0 +1,12 @@
+ i have just recently upgrade my ubuntu to the latest version and I detest it, how do i change it back to maverick meerkat?
+ rumpel: i have the latest version installed
+ rumpel: how do I change it back?
+ rumpel: is there a command i can run?
+ rumpel: there's no command I can run?
+ rumpel: i don't want to lose all of my files and such
+ angelsl: yes, the 11.04 is giving a lot of problems
+ ortsvorsteher: what do you recommend?
+ rumpel: sorry but how
+ omega: i don't like the set up of the new verision
+ omega: the menu bar is on the left side, for example
+ omega: let me try that

@@ -1,0 +1,5 @@
+ do I need to update ubuntu 10.04 to 10.10 before I can update to 11.04 :S?
+ right, and could something go wrong during an update like that ? (I got a bunch of scripts etc. on my comp which I don't want to loose)
+ how come htop and free show different memory usage?? :O
+ lol
+ the free command seems borken ... when I check SystemMonitor or htop Im getting 500/4000 mb RAM used but when I check free it shows 3800/4000 RAM used :S:S

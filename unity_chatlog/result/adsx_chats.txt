@@ -1,0 +1,3 @@
+ does anyone know how to completly remove  unity and install gnome3 ?
+ has anyone tried it ?
+ can anyone comment what actually happened ond doing so ?

@@ -1,0 +1,10 @@
+ ok one quick question... how do I switch the video driver from the nouveau driver to the proprietary NVidia driver (its installed and activated but the Additional drivers app says its not currently in use)?
+ thanks ActionParsnip will try that
+ ok, so that will switch it right? Just reboot not ActionParsnip
+ now*
+ ok, thanks bud... appreciate the help :)
+ ok still says its activated but not in use... sheesh
+ anyone know why despite my running sudo nvidia-xconfig it still says the driver is activated but not currently in use? Am i missing something here?
+ ok, maybe I'll uninstall and reinstall the driver... maybe that will help...
+ Ok, have tried everything I know here... the NVidia driver still come up activated but not currently in use under the additional drivers app
+ ok, nvm then... sheesh

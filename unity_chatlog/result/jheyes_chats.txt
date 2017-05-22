@@ -1,0 +1,14 @@
+ can anyone recommend a good text mode view of the file system? a built-in shell would be a bonus as well.
+ hi, should i upgrade my ubuntu distribution to natty 11.04? any issues i should worry about before upgrading?
+ naike: how do i find out?
+ vibhav: why a fresh install? does the upgrade not work very well?
+ KM0201: do you recommend i stick with what i am running right now?
+ KM0201: you mean do a backup first?
+ vibhav: okay i will back it up first
+ thanks for the warning everyone!
+ KM0201: it is tempting to click that upgrade button though :)
+ KM0201: what are you running?
+ KM0201: cool
+ KM0201: i'm on kubuntu 64-bit...
+ KM0201: everything is working nicely so i don't want to ruin my setup by upgrading to 11.04
+ LS

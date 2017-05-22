@@ -1,0 +1,3 @@
+ I am trying to get my windows partition mounted in Ubuntu, but I can not find it in /dev. I installed using the Wubi installer in Windows 7. What am I missing?
+ Does anyone know where my windows partition would be mounted in Ubuntu when installed through Wubi?
+ Dr_Willis Thanks.  Thats it.  Never would have thought to look there.

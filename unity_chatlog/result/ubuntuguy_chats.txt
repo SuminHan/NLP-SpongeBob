@@ -1,0 +1,16 @@
+ What code do I put in the terminal to use ibam?
+ hm
+ Does anyone use system monitor indicator?
+ How can I make my computer start up with it?
+ arque, I'm using natty
+ Yeah, why wouldn't it?
+ I just don't know how to add it
+ Yes
+ And
+ Startup applications
+ yeah ik
+ but how do I add it?
+ Jordan, that's for the system monitor indicator?
+ The one that goes on the panel?
+ Yeah, I want to add the indicator
+ Gnome session properties, for the indicator? I don't think that would work

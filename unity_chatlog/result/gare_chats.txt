@@ -1,0 +1,18 @@
+ DrManhattan:  the easiest way I found to switch from 11.04 to classic gnome is to install kubuntu-desktop, and select kdm as the default .  This gives options of different desktops ...
+ well, please let me know ..
+ what happens when you remove default desktop file from /x11 ?
+ DrManhattan:  perhaps take a look at this file:  /etc/init/gdm.conf
+ DrManhattan: 1st aspect of your question -- To ask for password on login , go to Users , select your user, and then Change password.  Uncheck 'Don't ask for password on login'.
+ glad could help
+ good morning!!  so .. This link is dead for http://www.ubuntu.com/download/ubuntu/alternative-download#bt  for ubuntu-11.04-netbook-i386.iso.torrent  .  IS there a netbook edition any longer?  (Thank you for any help.)
+ cool vega.  Thanks.  so perhaps someone will remove that link from page.
+ What are odds that 11.04 unity will not run on my original 9" Dell Mini ? ..   :)
+ g3eorge:  named after Year:Month of release so 11.04
+ g3orge:  named after Year:Month of release so 11.04
+ andeeeuk:  what history are your referring to?
+ andeeeuk: you are using 11.04 ?   Unity desktop?
+ files & folders. cool thanks knifepoint
+ acon543:  streamripper
+ hi -- ok.  I want to believe the Unity is also for 'power users'.  Does anyone else share my hope / have any comments supportive of this belief?  (I read in press how Unity was not designed for power users.. )
+ blackbit: glad to hear it.  Thank you.  I have the keyboard shortcut wallpaper and love the 3 d type layering of workspaces ...  + yes sipior thanks good point.  Ctrl + Alt + T works great!  :)
+ updated https://help.ubuntu.com/community/KeyboardShortcuts  with Natty links ...

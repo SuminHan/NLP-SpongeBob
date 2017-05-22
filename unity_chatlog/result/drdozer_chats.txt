@@ -1,0 +1,24 @@
+ hi - I just finished upgrading to natty and rebooted, and now I have: symbol not found: `grub_env_export´. and am at the grub rescue prompt
+ what can I type into the grub rescue prompt to resurrect this machine?
+ how can I get my machine working again?
+ hello?? my upgrade to natty has broken grub - I can´t boot
+ how can I fix this?
+ misse-: I didn use the cd - I used the on-line update tool
+ misse-:  ok - it isn something I can fix by typing into the grub prompt?
+ error: symbol not found: `grub_env_export´.
+ grub rescue>
+ misse-: that´s all it says
+ grrr - how can natty be released and have problems like mine?
+ ThinkT510: yes
+ ThinkT510: that would be awesome
+ ThinkT510: HDB but I can´t remember the number
+ (hd0) (hd0,msdos5) (hd0,msdos1) (hd1) (hd1,msdos1)
+ ThinkT510: error: unknown filesystem.
+ ThinkT510: it seems to print that for all others
+ ThinkT510: oh - it prints stuff out for: ls (hd0,msdos1)/
+ drdozer: ./ ../ lost+found var/ etc/ ........ boot/ ...... home/ .... and so on - looks like a unix fs root
+ ThinkT510: done - nothing displayed
+ ThinkT510: done
+ ThinkT510: error: symbol not found: `grub_mm_base´.
+ ThinkT510: ok, and it can´t be reinstalled from within grub?
+ ThinkT510: thanks for trying to help - I guess I now have a 4 hour wait for the iso to download

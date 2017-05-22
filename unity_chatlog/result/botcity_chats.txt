@@ -1,0 +1,196 @@
+ amalgama: say what?..
+ amalgama: say what?..
+ !party
+ !party
+ !backup
+ kaatta, whats the problem?
+ kaatta, if your new i would suggest gedit
+ i dont get that why does there have to be two "sudo, gksudo" surely there must be a way to have one that can comply with both?
+ !backup | PeterMaffay
+ Guest45212, started
+ BananaLemon, I assume it will be later today .
+  /join #ubuntu-release-party
+ pioruns_, i am experiencing some similar problems i will be downloading the alternative cd tomorrow you may need to press f6 at the halt !
+ nishanth, can you not access ccsm?
+ ccsm could do with a reset switch lol
+ KNUBBIG, , preferences >> reset to defaults is there maybe that can help nishanth
+ KNUBBIG, sorry i thought he could get into it he just had no icons.. anyway let hope it works :-)
+ nis, did the log out to classic not work ?
+ m|kael, ctl + alt + t  for a terminal and again if you need two
+ no but type short in the search bar in the main menu and it brings up keyboard shortcuts click that and view all the shortcuts and maybe create some of your own!
+ m|kael,
+ m|kael, type short in the search bar in the main menu and it brings up keyboard shortcuts click that and view all the shortcuts and maybe create some of your own!
+ m|kael, does gnome-do work with unity
+ m|kael, ok then click add , type gnome-do in name and then below it type the terminal command for it. it should appear at the bottom of the list
+ m|kael, ehh one min!
+ m|kael, well it works for me you must not be doing something?
+ m|kael, gnome-do then gnome-do
+ m|kael, did it work then ?
+ m|kael, after clicking add did you type the name that you would like at the top and the "terminal command" in the bottom
+ m|kael, you add the short cut after that!
+ m|kael, ok
+ m|kael, i think the main search is a version of that behaves similar!
+ Soothsayer, its performing better than the 1010 unity for netbook so far.
+ KNUBBIG, how?
+ KNUBBIG, thankyou i will look into that !
+ Vustom, alsamixer
+ Vustom, alsamixer!
+ Vustom, yes
+ !sound | Vustom
+ wad ccsm >> preferences >> reset
+ gabriel___, can you access ccsm
+ compizconfig settings manager in ubuntu software centre which manager are you using ?
+ nastjuid,  no sorry
+ Tangaroa, nm-applet will restart services you stop !
+ tripelb, there are so many details missing
+ tripelb, 10gigs can you use a usb stick? may be easier
+ pythoned, shred command
+ tripelb, is the hdd encrypted ?
+ pythoned, if your that paranoid i would torch it in the back yard
+ pythoned, man shred
+ pestilence, oh sorry is there an updated version like shred2.0
+ pythoned, i think we all get that way from time to time 0.o
+ kate__, did you checksum the image ?
+ kate__, did you checksum the image or burn at the slowest speed?
+ tripelb, one min!
+ tripelb, how where you transferring files
+ tripelb, did you mount them?
+ HAKMASTER, they are should be drop down windows
+ kate__, my burn got corrupted because i burned too fast !
+ HAKMASTER, why are you partitioning to none default for the install? i would do a spare partition no need to call it anything special
+ HAKMASTER, sorry not sure then!
+ tripelb, which ubuntu are you on ? your hard drive partitions should come up ???GB file system in places
+ tripelb, in places  it should show you the partition 9.8GB double click it ..is that what you did ?
+ tripelb, also it does not matter which ubuntu was on the partition as long as it was not encrypted
+ i have two file systems like yours one with 11.04 and 9.10 and i used the file manager to transfer pics and files from one to the other maybe its encrypted?
+ tripelb, try drag and drop with nautilus?
+ tripelb, i do
+ kate__, did you use the alternative cd last time ?
+ kate__, and  the alternative cd this time ?
+ kate__, what did you use to burn?
+ cd
+ kate__, cd
+ kate__, gnomebaker is what i used
+ !burn | kate__
+ kate__,  what laptop is it or what pc ?
+ kate__,  im thinking you may have to disable the graphics from bios .. maybe try the normal iso ?
+ you said you use the alternative iso cd
+ kate__,  maybe the normal iso and press f6 and disable the graphic s
+ kate__, ok
+ !hardware | nanovany,
+ UbuntuLove, of course it does
+ Elladan, can you access compiz?
+ Elladan, if you can get there there is a reset in  ccsm >> preferences >>reset to default
+ Elladan, can you log out and back in to classic ubuntu i think you may be able to set it there ?
+ Elladan, oh lol sorry !
+ Elladan, was natty ok when you installed it ? i thought that you just messed up your settings ?
+ !ot | redhat
+ UserX7, unity can work without additional drivers but if you require wiz bang graphics and such i would enable them.
+ UserX7, if you have not enabled them then chances are you are not using them
+ Soothsayer, sudo apt-get macchanger. also ifconfig can do it i believe
+ UserX7, you could try "system testing "app  from the menu  it goes through hardware testing them will show up anything not working and possible drivers to be installed.
+ mikebeecham,  you can ajust windows and other desktop configurations through ccsm
+ mikebeecham, it may be but it would effect everything i suspect. perhaps some testing!
+ silentz0r, how did you upgrade ?
+ silentz0r, have you a live cd just to see if it boots.
+ morelli, is it a fresh install from cd ? or a upgrade from update manager
+ morelli, does it boot up ok ?
+ linuxmonkey, from the site you got the image
+ twiggy_, i think its part of the new unity! i thought it was the launcher and menus app. if you push to the left it pops up
+ morelli, is your ati driver correctly installed ?
+ twiggy_, there maybe a an option in ccsm i dont know.
+ morelli, so it works fine with classiic not with unity?
+ morelli, you may be able to try it but you will have to disable your graphics card. i think that is what is causing the static you could try a live disk. may work better that way possibly!
+ katsrc, build gimp ?
+ katsrc, i see.
+ is a mtrr problem fixable ?
+ KNUBBIG, .bashrc file i think , on the computer your sshing into.
+ SoftarPaul, if you have a program running it will not show with your pointer push to the edge of the screen that it is suppose to be and it should pop up
+ SoftarPaul, no sorry!
+ SoftarPaul, is it the unity interface
+ Dr_Willis, good idea i think ill do that!
+ Mrokii, i think there is an option in ccsm
+ brandonc503, usermod -d /path/to/new/homedir/ username
+ FordPrefect, ask!
+ terry, which LTS
+ terry 10.04 was the last one if your on a newer version you will have to wait or reinstall
+ perhaps run gvim as sudo maybe
+ JustMeDude, http://www.webupd8.org/2011/04/how-to-reset-unity-launcher-icons-or.html
+ thauriswufla, did you check the md5 checksum ?
+ !md5 | thauriswufla
+ thauriswufla, check the cd.
+ !bluetooth | MnCC
+ MnCC, which phone is it ?
+ MnCC, and its connected a trusted device?
+ MnCC, you should be getting a pop up saying something accept for MnCCmob  is it sending ?
+ !fsck | tyreza
+ Maxud, ?
+ norbert_, unity uses the bar to the left. "sort of like that"
+ norbert_, i use ctl + alt + t .. pressing twice !
+ !classic | stix
+ !nbr | GeekyAdam,
+ !classic | DrDuck, just select ubuntu instead of classic ..
+ unity | sine_
+ !unity | sine_
+ IsmAvatar, additional drivers
+ IsmAvatar, additional drivers has a button to press to activate it
+ !cloning | wolfreak_99,
+ !info  Umbrello
+ MethedMan, 10minitemail is your bets bet
+ MethedMan, best*
+ MethedMan, 10minutemail.com mail for 10minutes!
+ MethedMan, http://10minutemail.com/10MinuteMail/index.html
+ wolfy_, did you mean a gui like df
+ js__, no
+ js__, lol
+ js__, have you got ccsm installed?
+ is firefox part of the meta package that comes with ubuntu standard install and if so will there be any problems un-installing it ?
+ nishttal, enable twin view i think
+ nishttal, ho okay.. do you get a benefit from that set-up?
+ when i install 11.04 it detected the 4gig ram and installed pae
+ !classic | sploenni hope this is what you want?
+ BOBBY_, there must be a pop up with error message?
+ BOBBY_, i think its asking for your keyring password
+ rohan, you mean upgrade if you have not got internet access
+ rohan, not sure about that but i bet google knows :)
+ rohan, http://ubuntuforums.org/showthread.php?t=572819 its an old thred though
+ sound | rezzy
+ !sound | rezzy
+ buhman, what is it your trying to do ? i must off missed your explanation .
+ buhman, have you been through the wireless troubleshoot page?
+ !wifi |  buhman
+ buhman, okay did you troubleshoot it? which card is it ?
+ buhman, are you on natty?
+ buhman, which laptop is it?
+ buhman, what is the output of   lspci | grep -i wireless
+ buhman, http://fossplanet.com/f10/%5Bbug-773152%5D-%5Bnew%5D-not-working-wifi-ubuntu-11-04-a-144523/
+ hydrozen, type xev in the terminal for that
+ jbwiv_, tail  /var/log/messages
+ jbwiv_, is it a fresh install ?
+ jbwiv_, the little blue triangle is an indicator that shows when an application is requesting user attention (for instance, a dialogue pops up).
+ jbwiv_, if you ls the /var/log/ dir  its not there mate  have to be dmseg
+ jbwiv_, the little blue triangle is an indicator that shows when an application is requesting user attention (for instance, a dialogue pops up).
+ jzbl, http://ubuntuforums.org/showthread.php?t=1538486
+ !here | rezzy_
+ rezzy_,  which soundcard have you?
+ AceKing,  http://ubuntuguide.net/clearprevent-recent-documents-under-files-folders-in-ubuntu-unity
+ nutsfornatty, http://www.multimediaboom.com/how-to-change-login-screen-in-ubuntu-11-04/
+ AceKing,  np   :)
+ AceKing, did you copy and paste the commands ?
+ AceKing, sorry that did not work  http://linux.aldeby.org/ubuntu-natty-11-04-unity-clear-recent-documents.html  this has more infoinfo
+ AceKing, same here I am trying on this pc but it freezes also, I think its because its not got ubuntu tweak installed
+ AceKing, just type rm ~/.local/share/zeitgeist/activity.sqlite that removed it for me
+ AceKing, did that work ?
+ AceKing, yaeh but is your history there?
+ AceKing,  try zeitgeist-daemon --quit ?
+ AceKing,   no  ..   but did it remove the history ?   for some reason that worked for me ?
+ AceKing,   hmm have you updated recently ?
+ AceKing,  hmm try sudo?
+ AceKing, sorry  cant remove it because its not there  lol !
+ hi guys is ubuntu tweak available from the repositories or an external site ?
+ AceKing, are you sure your seeing recent doc and not downloads and favourites ?
+ AceKing,  sorry maybe the update they mentioned about clearing history will help . when that comes out!
+ !iphone | dp
+ Somelauw, what is that for ? it does not make sense
+ Somelauw, i think you what the  "echo"  command
+ !sysrq | Somelauw

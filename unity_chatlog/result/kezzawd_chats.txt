@@ -1,0 +1,51 @@
+ Hi all - I'm on Natty and some appindicators are installed but I can't find how to load them - indicator-cpufreq for instance - any ideas ??
+ u could try sudo apt-get purge gnome 3 && sudo apt-get install ubuntu-desktop ?
+ anyone any idea how to enable indicator-cpufreq appindicator in Natty ?
+ PresuntoRJ - yeah - that's what I thought but not working for me ?
+ Just stalling in the shell
+ hang on - lookls like a bug - appindicator is there but icon is not - it's squeezed between two other indicators without the icon
+ PresuntoRJ - what's simplest way for me to see what version ?
+ jdobrien - if compiz is working (have you installed ccsm ?) then you are on 3D - I have similar setup and nvidia driver not in use for me also
+ dregin1 - Use 'Super' and 'A' to bring up the Applications panel and then use the small drop down in the top right to get to System
+ PresuntoJR - I'm using same version as you
+ PresuntoRJ Yeah - but I'm kinda getting more used to using the 'Super' key and combinations - which feels better and is relatively rodent neutral
+ PresuntoRJ lol - I'm pretty comfortable with Unity myself, although I'd like to see what a more mature Gnome3 has to offer as an alternative. I guess we're going to be moving away from the 'classic' Gnome2 desktop overtime in any case
+ Cruncbang is debian based and uses fluxbox - it's a good one
+ alokar - try this - http://bit.ly/knlNcZ
+ tbf - do you have Ubuntu Tweak installed
+ tbf - if you have Ubuntu Tweak then make sure you have show desktop icons checked
+ that will stop right-click on desktop if not checked
+ tbf you can re-arrange all launchers by dragging them off and then replacing them where you want
+ KNUBBIG my pleasure
+ tbf - try right-click to remove launcher, then open the application and pin the launcher again ?
+ tbf - try this thread - half way down - http://bit.ly/msZLwR
+ M13up Hit super key then check out the dropdown menu you see to the right
+ M13up - take that back sorry - if you get the application 'lens' up then you should see a dropdown menu to the right
+ M13up: the closest I've come to it is the method I described - although I prefer to just hit 'Super' and then type the name of the application / tool I want followed by return
+ tbf - if you right click desktop and use 'Create Launcher' it's simpler - then you just need to move the launcher created into .local/share/ applications, and then drag it out of that location into the dock - it works
+ tbf: for dock read launcher lol (OSX !!!)
+ MoL0ToV: if you install ccsm and not simple-ccsm you also get some options for tweaking unity
+ tbf: np
+ d4gg3r - try http://bit.ly/mRxybs
+ d4gg3r: here you go http://ubuntuforums.org/showpost.php?p=5987637&postcount=11 - the problem you are having is related to Flash
+ usr13: try /etc/init as the alternative
+ usr13: I have /etc/init/tty*.conf
+ usr13: only .conf files
+ usr13: 11.04 - the tty*.conf files all point to /sbin/getty tty*
+ norbert: try 'Super' and 'W'
+ greenit: you could try http://bit.ly/mnjCoK
+ norbert_: not sure there is such a thing
+ norbert_: as far as I'm aware the panel in unity doesn't have a window menu app -  which I think is what you're after
+ norbert_: in Unity default keyboard  shortcut for a terminal window is Ctrl Alt and T
+ norbert_: you can still create desktop launchers from a right-click which will give you what you arte after
+ Axlin: I agree
+ ar71k: How do you open multiple instances of an application with one click ?
+ ar71k: not happening for me - just getting default screen-edge behaviour for Unity
+ ar71k: OK - talking Unity here
+ ar71k: Yeah well norbert_ was certainly talking about Unity when he was referring to opening more than one instance of an app - jeez
+ usalabs: you are assuming that there will always be a 'gnome classic'
+ Mrokii: if you apt-cache search indicator you'll see a number of packages that yopu can install to give you indicators - there are also a number of ppa's for third party indicators at http://bit.ly/mTLbRa
+ Mrokii: just search for it as an application and execute
+ Mrokii: np - like you say, not too intuitive
+ tasslehoff: which mbp model do you have ?
+ tasslehoff: OK - thanks - I have a 7.1 but can't get Ubuntu to install on it

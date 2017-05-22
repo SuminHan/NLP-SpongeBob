@@ -1,0 +1,2 @@
+ Hi. Ubuntu just updated to 11.04. But Whatever i select in grub the screen turns black
+ Anyone idea About black screen?

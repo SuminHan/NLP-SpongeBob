@@ -1,0 +1,10 @@
+ hello. I use harddisk encryption, get a prompt for the disk password during boot, works fine. in addition, I use an external usb drive, also encrypted, same password. currently, I must manually unlock the external driver after boot. I wish ubuntu could use the primary-encrypted-password on boot to unlock attached usb drives, too. any ideas how to do that?
+ sometimes it helps to asks questions on irc, it's inspiring for coming up with good search engine questions. found http://www.howtoforge.com/automatically-unlock-luks-encrypted-drives-with-a-keyfile - might be able to solve my scenario
+ I wonder if /etc/fstab entries can be made optional. if device is present on boot, then mount it. if not, skip it (proceed boot)
+ I have an internal disk, and an external backup disk (cloned with dd). I must restore one lvm logical volume. When having both disks connected, lvm says, it detects a duplicate, only allows one of them to be active. Is there a trick to rename one of them, so I can have both volume groups / logical volumes active at the same time?
+ (for some reason, after a machine went to sleep yesterday, when it woke up again, the contents of the / partition were corrupted afterwards, just fyi)
+ Herbs, yes. a large initial portion of the disk now contains garbage data. no repair possible. I need to restore my backup
+ how can I open a backup lvm volume group at the same time as the original one?
+ I really can't believe that. netbook with 10.10. it worked fine for a long time. yesterday it went to sleep. I woke it up, it came up, then it crashed. after reboot, I find that then contents of two partitions are totally corrupted. fsck.ext4 even says there is no ext4 filesystem on them
+ bibleboy, my data partitions are gone
+ bibleboy, I know how to start from scratch, but I wonder if that is a known problem. I can't believe going to sleep and wakeup can delete all my partitions

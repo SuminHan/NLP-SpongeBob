@@ -1,0 +1,4 @@
+ hi! I just upgraded to natty and the update manager gives me the following message: Not all updates can be installed
+ I was getting this error on Maverick too and I hoped this should have got resolved when I installed natty. :(
+ any clues
+  anyone?

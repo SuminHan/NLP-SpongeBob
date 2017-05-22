@@ -1,0 +1,5 @@
+ omg my system is screwed
+ why does my seperate x screen not accept keyboard input but i can paste to it, worked fine on 10.10, broken on 11.04
+ is there any reason why i would no longer be able to type in seperate x screen but could in 10.10
+ Halzen: im using classic mode... unity it seems isnt ready for use at all
+ im ready to die, i had 10.10 working so well, why did i ever upgrade to 11.04... every time i upgrade ubuntu nothing works right

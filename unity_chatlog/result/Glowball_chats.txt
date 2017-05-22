@@ -1,0 +1,12 @@
+ Where are the torrent files located on the website? (Every time, I end up here asking the link, so I better do it right this time... :P)
+ ohsix: Which is where, starting from the homepage?
+ IdleOne: Ah, I see them. And how to get there :) Thanks.
+ ohsix: I got there already, thanks to IdleOne. Thanks anyway for your effort!
+ CHOWNed: You know you can just log into classic GNOME desktop on 11.01, right?
+ Oh, he's off...
+ [thor]: But I can't see another reason not to want 11.04, except for Unity
+ [thor]: Weird. I never had that kind of problems. There is one bug that is keeping me from 11.04 for now, though, and that is the higher power usage in new kernels.
+ ohsix: Well, I never tested it myself on my own hardware, but I read people getting as much as 30% less battery life
+ Can I set two different shortcuts for the same action? I have a touch thingie for controlling sound, but I also want Fn-up and Fn-down as shortcuts for my volume. Is this possible without overriding the touch controls?
+ Can I set two different shortcuts for the same action? I have a touch thingie for controlling sound, but I also want Fn-up and Fn-down as shortcuts for my volume. Is this possible without overriding the touch controls?
+ https://bugs.launchpad.net/ubuntu/+source/linux/+bug/760131 <-- Is this bug important enough to be fixed in Natty or will it only be fixed in Oneiric? I'm on a laptop with a not so fantastic battery, so it really is keeping me from updating...

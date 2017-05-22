@@ -1,0 +1,204 @@
+ question: why is it that i can't view the video in full screen in firefox under ubuntu 10.10
+ terry: i can play the video though
+ what is E: Sub-process /usr/bin/dpkg returned an error code (1)
+ bullgard4: how?
+ bullgard4: nothing happens
+ bullgard4: when i type update-manager
+ '~$ update-manager'.
+ bullgard4: ok, lots of detail, where should i paste it
+ bullgard4: http://paste.ubuntu.com/601578/
+ bullgard4: http://paste.ubuntu.com/601578/
+ what is E: Sub-process /usr/bin/dpkg returned an error code (1)
+ what is E: Sub-process /usr/bin/dpkg returned an error code (1)
+ what is E: Sub-process /usr/bin/dpkg returned an error code (1)
+ econdudeawesome: did you fixed it
+ any suggestion, cairo-dock or docky?
+ any suggestion, cairo-dock or docky?
+ what kind of error is this? http://paste.ubuntu.com/602096/
+ what kind of error is this? http://paste.ubuntu.com/602096/
+ what kind of error is this? http://paste.ubuntu.com/602096/
+ i can't use my ubuntu software center, the error is here "http://paste.ubuntu.com/602096/"
+ i can't use my ubuntu software center, the error is here "http://paste.ubuntu.com/602096/"
+ hello, why is it my ubuntu, after re starting, its not working, only flashing
+ after reboot nothing happens
+ fatguy: im using ubuntu 10.10
+ captainkrtek: nothing
+ captainkrtek: ok rebboting to live cd
+ captainkrtek: ok, im in, using live cd
+ captainkrtek: i thinks so, im using it now, using live cd
+ captainkrtek: ya, a while ago
+ captainkrtek: but i can't remember what kind of update is that
+ captainkrtek: how?
+ captainkrtek: tnx
+ captainkrtek: i can't see anything
+ 17''
+ captainkrtek: i can't see the grub loader, all black
+ captainkrtek: i already did that
+ captainkrtek: ok booting
+ captainkrtek: ok im in, using live cd
+ captainkrtek: ok
+ captainkrtek: mounted
+ captainkrtek: ubuntu@ubuntu:~$
+ captainkrtek: menu.lst is empty
+ captainkrtek: :(
+ ya
+ captainkrtek: how do i fix a boot loader
+ captainkrtek: im using 1 OS, no windows, just ubuntu
+ captainkrtek: hmmm. just reboot the pc after the update
+ captainkrtek: ya, im just surfing the net while updating
+ captainkrtek: thanks
+ captainkrtek: do want to see my grub.cfg?
+ captainkrtek: paste bin?
+ captainkrtek: whats the site?
+ captainkrtek: http://paste.ubuntu.com/603107
+ captainkrtek: ok.
+ captainkrtek: wait
+ captainkrtek: should i copy this to usb?
+ captainkrtek: how do ni save this
+ captainkrtek: so ill just copy and paste
+ captainkrtek: how to edit?
+ captainkrtek: how to edit or just replace the file
+ captainkrtek: terminal window?
+ captainkrtek: i can't edit the file huhuhu
+ captainkrtek: read-only :)
+ what is the coomand in overwriting a file
+ captainkrtek: how can i edit the file, its a read only
+ captainkrtek: how can i change the grub .cfg
+ captainkrtek: it didnt work, i saw a glimpse of the spash screen then gone, blank screen with light flshing of the screen
+ captainkrtek: nothing
+ captainkrtek: waahhhh hehehe
+ captainkrtek: nvidea
+ 512
+ captainkrtek: can i replace my boot loader
+ captainkrtek: when im using the live cd, its working
+ captainkrtek: no luck
+ captainkrtek: yes!!! i can now see the grub loader hehehe
+ captainkrtek: but too many options
+ captainkrtek: 2.6.35-28-generic
+ captainkrtek: 2.6.35-28-generic (recovery mode)
+ captainkrtek: 2.6.35-22-generic (recovery mode)
+ captainkrtek: 2.6.35-22-generic
+ captainkrtek: black screen again\
+ captainkrtek: ok
+ captainkrtek: what will i choose now? recovery mode or the other version 2.6.35.22-generic?
+ captainkrtek: ok
+ captainkrtek: ok, hold on
+ captainkrtek: im here
+ captainkrtek: after generic or after?
+ captainkrtek: last line says " initrd /boot/initrd.img-2.6.35-28-generic
+ captainkrtek: last line says " initrd /boot/initrd.img-2.6.35-28-generic
+ captainkrtek: ok
+ captainkrtek: then?
+ captainkrtek: how to save? ive already added vge=771
+ soory
+ ]sorry hehehe'
+ captainkrtek: my disk drives are being checked for errors
+ captainkrtek: but still, no luck it went to black screen again
+ sigh
+ what seems to be the problem,
+ captainkrtek: after typing vga=771, wat is the command in saving?
+ captainkrtek: then?
+ captainkrtek: vga=771 is the last line
+ captainkrtek: just a flashing screen, dark to light dark
+ captainkrtek: how about recovery mode
+ captainkrtek: still no luck
+ captainkrtek: what is "-bash: /etc/profile: permission denied"
+ any idea why my boot loader is broken
+ i did an update and after reboot, my system is not working anymore
+ i did an update and after reboot, my system is not working anymore, i can see a glimps of the flash screen and it went black with a flickering scree, dark to light dark
+ i did an update and after reboot, my system is not working anymore, i can see a glimps of the flash screen and it went black with a flickering scree, dark to light dark
+ how to restore xorg.cfg?
+ captainkrtek: its ok, thanks
+ how to restore xorg using live cd
+ celthunder: i did an update and after reboot, my system is not working anymore, i can see a glimps of the flash screen and it went black with a flickering scree, dark to light dark
+ celthunder: recovery mode?
+ celthunder: o
+ celthunder: terminal ready
+ gnome
+ celthunder: gnome
+ celthunder: i have a gforce 9500 with 512am
+ celthunder: proprirtary
+ celthunder: so is there a problem with my xorg? or driver of my video card thats going nuts
+ celthunder: still there?
+ celthunder: how can do that, i cant use my system
+ celthunder: can you teach me how
+ please help me with my system
+ please help me with my system
+ can anyone help me
+ i did an update and after reboot, my system is not working anymore, i can see a glimps of the flash screen and it went black with a flickering scree, dark to light dark
+ can anyone help me
+ sje2: i did an update and after reboot, my system is not working anymore, i can see a glimps of the flash screen and it went black with a flickering scree, dark to light dark
+ can anyone help me
+ can anyone help me
+ mysteriousdarren: i did an update and after reboot, my system is not working anymore, i can see a glimps of the flash screen and it went black with a flickering scree, dark to light dark
+ mysteriousdarren: nothing, just black screen
+ mysteriousdarren: ya, from bootup
+ faryshta: all files are still intact
+ faryshta: there a lots of applications
+ faryshta: and how about my settings
+ faryshta: plugins and some tweaking
+ faryshta: so you mean to say that i have to re install the whole system?
+ faryshta: docs and settings
+ faryshta: is there an other way to fix it?
+ faryshta: how about fixing the xorg?
+ faryshta: or grub loader maybe
+ faryshta: how
+ faryshta: what is the command?
+ faryshta: ya, i can see the options
+ faryshta: recovery mode?
+ faryshta: i already re configure the graphics
+ still no luck
+ faryshta: i review the the log and seeo screen something wrong, no n
+ faryshta: its ok...i understand, im still hoping that solution will be given to me rather than install the system all over again
+ celthunder: same issues
+ celthunder: i cant login
+ celthunder: black screen
+ celthunder: dunno what to type
+ celthunder: asking for a login in terminal
+ celthunder: login as root
+ celthunder: user@desktop login: ?
+ celthunder: password?
+ celthunder: -bash: etc/profile: permission denied
+ chrisbster: yes sir
+ celthunder: ok...sorry, i already type lsmod
+ chrisbster: ok copy that. tnx
+ chrisbster: agpgart
+ how to use modprobe
+ celthunder: i can't dot it, maybe i'll just re install the whole system :(
+ celthunder: i can't understand some of your terms
+ celthunder: like module?
+ celthunder: i already type lsmod, there are list
+ celthunder: :(
+ celthunder: after typing lsmod
+ celthunder: there ist
+ celthunder: there are list
+ celthunder: i can see agpgart
+ celthunder: how? im on the terminal console (alt+F1)
+ celthunder: sudo: can't open /etc/sudoers: permission denied
+ i can't do it
+ i have no name!@user-desktop:~$
+ chrsbster: yes sir
+ chrisbster: im using a dffrnt pc
+ i have no name!@bison-desktop:~$
+ chrisbster: have no name!@bison-desktop:~$
+ celthunder: i have no name!@user-desktop:~$
+ celthunder: what should i type to get the package
+ celthunder: when i type to get the package (unable to read /etc/apt.cnfg.d/ - directory exist permission denied)
+ celthunder: when i type apt-cache  (unable to read /etc/apt.cnfg.d/ - directory exist permission denied)
+ celthunder: i typed "apt-get install pastebin"
+ celthunder: i typed "apt-get install pastebinit"
+ celthunder:  (unable to read /etc/apt.cnfg.d/ - directory exist permission denied)
+ celthunder: (sudo: can't open /etc/sudoers" permission denied)
+ celthunder: something like that
+ whoami: cannot find name for user
+ :)
+ when i type my username and password - it shows that i have no name :)
+ cannot find name
+ ok what is the command to login as a root
+ login incorrect
+ i login as root then my password would be my user password
+ login incorrect
+ celthunder: still there?
+ celthunder: im in
+ how to remove propriety drivers
+ shcherbak: how do i use that

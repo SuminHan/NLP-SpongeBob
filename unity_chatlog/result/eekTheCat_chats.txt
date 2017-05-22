@@ -1,0 +1,39 @@
+ Would someone kindly reccomend an rss client..
+ red2kic, thank you. anyone else with news aggregator reccomendations?
+ red2kic, so lifera is what you use regularly? I prefer desktop apps, so that eliminates google reader
+ red2kic, liferea is unresponsive right now. it's loading all the default feeds which I was going to delete anyway :(
+ Could someone give the value of their errorformat in vim? :set errorformat
+ stimpie, thank you. mine seems to be a bit screwy. trying to figure out if it's an ubuntu issue or something I did. :)
+ Krishnandu, you probably want to check launchpad for something like that
+ every new Ubuntu release seems to have a lot of regressions.
+ auToeXeC, depends on what you have installed. it will tell you if you try
+ auToeXeC, and give you a chance to abort
+ Zahrada, a text editor :-P
+ Zahrada, nothing is jumping out at me when I search the repositories. google says a few apps exist, but there don't seem to be official ubuntu packages.
+ Ouch, major power regression, I'm definitely not upgrading to natty. http://www.phoronix.com/vr.php?view=15935
+ jeremydei, maybe your hard drive is hosed?
+ toggles, it says fix released for "Release Notes" not for Natty itself
+ toggles, https://wiki.ubuntu.com/NattyNarwhal/ReleaseNotes#Linux%20kernel
+ toggles, So I guess that release notes bug was just a reminder to note the problem "Known Issues" section of the release notes.
+ blip-, the letter R is a few releases away
+ Defusal_, I don't have an answer. But I've found that using emacs style navigation works pretty consistently across shells, terminals, and remote connections. ctrl-p, ctrl-n, ctrl-b, ctrl-f
+ Defusal_, what is $TERM when you ssh to that machine
+ Defusal_, is that what it is when you ssh to other ubuntu machines?
+ Defusal_, maybe that system is missing terminfo for xterm? ls /lib/terminfo/x/xterm*
+ Defusal_, Do the emacs style keybindings work? ctrl-p for up, ctrl-n for down, ctrl-f for right, ctrl-b for left
+ Defusal_, what is $SHELL on that system?
+ Defusal_, that must be your problem
+ Defusal_, on a standard ubuntu system it should be /bin/bash
+ Defusal_, sh is ancient unix compatibility shell
+ Defusal_, odds are it's bash in compatibility mode...
+ Defusal_, what does "dpkg -l bash" say?
+ Defusal_, So it's installed. Changing a symlink manually like maco suggested is not the right way to change shells
+ Defusal_, usermod -s /bin/bash Defusal_
+ Defusal_, by Defusal_ i mean whatever your username is :)
+ maco, it's slightly safer that mucking about /etc/passwd :)
+ wizworks, don't know, but it's probably acpi related..
+ wizworks, someting in /etc/acpi maybe?
+ studentz, there isn't much reason for an xorg.conf on most modern systems
+ studentz, I don't have one
+ AgresiV, the command would be find / -name xorg.conf
+ lastoflast, i don't know what you mean either. just throwing Amarok out there as another possiblity

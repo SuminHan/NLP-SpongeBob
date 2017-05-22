@@ -1,0 +1,9 @@
+ Is there a way to change the highlight color on the login screen?
+ Is there a way to change the highlight color on the login screen?
+ Is there a way to change the highlight color on the login screen?
+ Is there a way to change the highlight color on the login screen?
+ thur, I changed the theme and changed the colors in the themes, but the highlight color is still orange on the login screen
+ thor, yeah dependencies not satisfiable
+ thor, it seems the ppa is broken for gdm2
+ thor, no problem thx for trying
+ I noticed that since installing 11.04 my network speed has dropped significantly. Is this an issue that can be resolved?

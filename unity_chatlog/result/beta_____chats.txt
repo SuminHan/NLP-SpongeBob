@@ -1,0 +1,26 @@
+ A question: does anyone know how to install emerald in 11.04...
+ ?
+ Tried the emeraldfix.txt, but it keeps given me errors..
+ @schnuffle: that's not the problem.. know how to install...
+ but the decoration just doesnt show
+ @ohsix; yes, but there are still a lot of nice themes that are build on emerald..
+ rather than on gtk
+ uhmm... so no solution yet?
+ @ohsix: yeah, I know there are a lot that are better, but they just don't look that nice..
+ would it be an good choise to be back on ubuntu 10.10? Or some other distro based on ubuntu?
+ Because I like gnome2, emerald and custimize a lot with ubuntu... '(
+ @avinash, do you have a cable next to you?
+ hmm.. do you have dual boot? (Windows - Ubuntu)
+ hmm... no other device connected to the router?
+ and that works?
+ oooh oke :P
+ hmm.. tried ifconfig to see you ip settings?
+ hm.. maybe dns not working, tried to access the router from your (not working) ubuntu box?
+ @avinash try to search for an ip of google, anyone knows it?..
+ hm.. so this works?
+ than I think dns problem. No response when pinging google.com?
+ Sorry, need to go...
+ try to search on Google, how to fix dns problem.. must be some forum/faq for that :)
+ no
+ np
+ bye

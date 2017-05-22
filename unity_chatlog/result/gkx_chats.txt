@@ -1,0 +1,13 @@
+ Hi there. I'm using NVidia on Natty Narwhal, and the world appears to be crashing down on me. Can someone help?
+ I don't know how. :) Or, at least, I tried and it didn't seem to work.
+ cheapie: I load Natty Narwhal off of dual boot, and it gives me a black screen
+ cheapie: I'm running failsafe graffics right now
+ Before
+ Which drivers?
+ cheapie: It's really hard to work with my graphics right now. Everything is in the wrong resolution, which is a graphics problem I struggled with on a regular basis on 10.10
+ cheapie: So, to answer your question, I can't quite access that
+ cheapie: Did so now, it didn't appear to do anything.
+ Yes
+ cheapie: Yes
+ cheapie: Yes.
+ Yeah, let me just figure out how to IRC on a mac. :P Shouldn't take too long

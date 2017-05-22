@@ -1,0 +1,2 @@
+ network (ethernet + wifi) stopped working after upgrading to 11.04. forums answers didn't work. Please help!
+ please help - network doesn't work after upgrading to 11.04

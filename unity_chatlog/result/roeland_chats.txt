@@ -1,0 +1,15 @@
+ hey fellas, i got an ubuntu box (through Linode) and it keeps randomly getting stuck at 100% cpu usage (400% actually?). i am unable to pull up the site , or access the console (via putty) the only way to fix it is to log into the linode web manager and reboot it.
+ what are some things i could do to diagnose this
+ i believe so yes incarus6
+ problem is.. i cant get in via console
+ so i cannot run top
+ so. the problem occurs.. i get notification from linode
+ website is down. console is down
+ i reboot from web ui
+ but i cant troubleshoot the cause
+ its on a vps at linode , i dont know the specs
+ yah i am askign there. doesnt look like anyone knows how to go back and diagnose it
+ is there any way to log cpu usages and memory usage?
+ at least temporarily?
+ ok jhw, i will look at that
+ will sysstat use up alot of resources

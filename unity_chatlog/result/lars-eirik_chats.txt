@@ -1,0 +1,3 @@
+ I'd like to load the classic  Gnome-menus, bey there is NO options at the login-screen. Is there any other way to to this ?
+ Dr_Willis Only bottom menus, but no choises for loading the classic menu
+ Dr_Willis: Never mind. I got it working by changing the default login theme in the control panel.

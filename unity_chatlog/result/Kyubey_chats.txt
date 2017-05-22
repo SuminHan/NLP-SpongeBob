@@ -1,0 +1,91 @@
+ Hey, I have a question about setting up compiz
+ Which mouse button is the scrollwheel click?
+ I want to know so I can make it the shortcut to scaling\
+ yeah, middle click
+ tanath, I know how to click it -_-
+ I dont know which button compiz sees it as
+ for the purpose of using it as a shortcutg
+ I'm asking which number the button is for compiz shortcuts
+ such as one, two, three, etc. :P
+ I want to know so I dont accidentally undo the shortcuts for the right mouse button while trying to get this to work
+ Is it two or three? I dont want to mess up the right mouse button's configurations
+ haha, tanath, that's the problem
+ I dont know if it's two or three
+ and I dont want to screw up the settings for the right click doing this
+ when I go to change either, it tells me other parts of compiz will be changed
+ fuck it, I'm trying 3
+ err, sorry, darn it, I shouldn'
+ shouldn't swear here
+ neither works
+ I just tried both
+ ohhh
+ I have to hold it
+ durr -_-
+ yeah, just figured that out
+ Now I have to figure out why graphical stuff is lagging
+ is anyone else having lag problems?
+ I'm running 64bit with nvidia graphics drivers
+ the beta didnt lag like this at all
+ Heya
+ So yeah
+ I just noticed sound isnt working on my laptop under natty
+ But I checked, and it appears natty uses palseaudio now
+ I have a wierd sound card, I think only ALSA works on it
+ Does anyone know how to fix it?
+ I cant do that ohsix
+ when I go to sound preferences, it says "Waiting for the sound system to respond"
+ no
+ I'm using the standard unity ubuntu
+ ActionParsnip http://paste.ubuntu.com/600961/
+ wait, it cut off a line
+ Flash player is interfering with pulse?
+ How do I fix this?
+ So I cant get sound while using flash? o.o
+ http://paste.ubuntu.com/600966/
+ ActionParsnip, http://paste.ubuntu.com/600966/
+ ActionParsnip Error: need a repository as argument
+ ActionParsnip, done
+ ActionParsnip, installed
+ now what?
+ Why?
+ I need sound :(
+ Actionparsnip, flash is playing fine
+ Actionparsnip, now, what about my sound?
+ Actionparsnip, no, I said that I cant adjust my volume/unmute and when I try to go into sound preferences it tells me it's waiting for the sound system to respond
+ ActionParsnip, you have any ideas?
+ let's start again, I guess
+ Everyone, I'm having trouble getting sound to work in natty. I cant adjust the volume or unmute it, and if I click sound preferences, it tells me "Waiting for sound system to respond"
+ ohsix - the part where you were fixing flash and not my sound at all
+ ohsix - I dont have flash running right now
+ It's still not letting me adjust the sound
+ ohsix http://paste.ubuntu.com/600976/
+ ohsix, now when I type that command it doesnt display anything
+ ohsix - how do I do that? Do you mean the sound preferences? (I cant open that)
+ ohsix, http://paste.ubuntu.com/600978/
+ ...what
+ How do I not own my home directory?
+ oh, woops
+ Okay
+ I typed sudo as an automatic thing
+ ohsix, I ran the same command as normal, it said it "Failed to kil daemon: No such file or directory"
+ ohsix, huh?
+ ohsix, it said it failed to kill the daemon because there's no such file or directory
+ ohsix, yeah, but it's saying there's no such file or directory
+ ohsix, when it tries to kill it
+ lots of text
+ and it doesnt appear to be done
+ ohsix, it stopped, it's not done yet, but new text isnt printing anymore
+ ohsix (but I dont have a new prompt
+ oh!
+ it worked!
+ ohsix - now it says "waiting fo the sound system to respond"
+ ohsix, doesnt print anything
+ ohsix, no
+ ohsix - I installed this last night, all I've done is install xchat and set a few compiz shortcuts
+ I'm gonna try restarting
+ Haha
+ ohsix
+ ohsix, guess what? Restarting fixed it XD
+ ohsix, I think it might be because I was hibernating
+ ohsix - anyways, it's working now
+ Thanks for your help :)

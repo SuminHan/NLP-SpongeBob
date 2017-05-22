@@ -1,0 +1,37 @@
+ Hi. is there anyone here that uses virtualbox in ubuntu and has managed to configure the networking for the guest OS?? I can't get anything from loopback ping
+ does anyone know how to change the ldap root password please?
+ hello.. I'm having a problem starting Samba and I need help getting to the root of it.. the output of smbstatus  is: No Locked Files whilst looking at the samba.log.smbd file shows me: [2011/05/03 19:49:22.033587,  0] smbd/server.c:1255(main)  ERROR: failed to setup guest info.
+ DOn't upgrade a virtualised ubuntu.. Mine just died :)
+ Well don't upgrade from 10.10 to 11.04
+ h4x0rs: It's not a virtualised ubuntu is it?
+ h4x0rs: I'm in the middle of something myself.. Give me a few mins and I'll get back to you
+ hello has anyone managed to implement bridged networking in ubuntu with a vbox guest os?? I need to be able to contact the guest os from the network
+ has anyone manage to configure bridge networking with a virtualbox guest OS in 10.10?? I need a decent guide or ssome tips please
+ compdoc: can you give me a guide? or pointers?
+ usr13: thanks for the help... I already looked and the ubuntu help only covers from 2.1
+ compdoc: 2
+ compdoc: I need the guest os to appear on the network
+ compdoc: so I want to assign eth2 to the guest OS
+ compdoc: just need pointers to a decent guide 's all.. Ok but my interfaces file is quite simple so far
+ compdoc: http://fpaste.org/FEuS/
+ compdoc: yeah
+ compdoc: it's a standard 10.10 install
+ compdoc: yup auto eth2
+ compdoc: doone
+ compdoc: No eth0 is commented out.. I have 2 cards the one I'm using right now has a manual address set
+ compdoc: it's named eth0-eth2 as shown in the network interfaces file
+ usr13: no thnaks.. I need to manually configure this but i've not bridged before  let alone with a virtualised guest
+ compdoc: Yeah. I want all network traffic on eth2 to go to vboxnet0
+ Dr_Willis: I tried that (choosing the bridge network settings) but it turned out it wans't that simple... I need the guest os to repsond to a manually assigned ip address
+ compdoc: Yeah I'll be manually assigning an address to the guest
+ compdoc: and less headachy but I just need to have the guest OS on it's own permanent address
+ compdoc: don't think so. I'll check
+ compdoc: yes it's now installed
+ compdoc: just doing that now.. Will let you know
+ compdoc: I madethe changes but before I restarted the network daemon I just pinged the Virtual guest and I get a response.
+ compdoc: I don't know how but I'll take it.. :D
+ compdoc: Well I think so.. I can ping it from my laptop so yeah
+ kubu2: because it opens up a root like finder windoww
+ kubu2: agreed...
+ hi guys.. does one need to install a samba server to be able to connect to another client?
+ another server*

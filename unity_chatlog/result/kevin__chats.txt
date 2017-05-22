@@ -1,0 +1,1 @@
+ Osmodivs, you need to use a -R to recurse subdirectories if you want everything under /amsn to take on the new properties

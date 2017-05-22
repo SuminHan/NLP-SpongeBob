@@ -1,0 +1,8 @@
+ just upgraded to 11.04, removed unity, and installed gnome again.... my CPU is going to 100% on the compiz process now, how can I get hardware accelerated OpenGL back?
+ so now that I'm in ubuntu classic, the cpu spike is gone. cool. now can I get it back without ganking CPU time?
+ so now that I'm in ubuntu classic, the cpu spike is gone. cool. now can I get it back without ganking CPU time?
+ compiz back*
+ upgraded to 11.04, removed unity, installed gnome, now I can't select checkboxes, and sometimes clicking buttons fails
+ upgraded to 11.04, removed unity, installed gnome, now I can't select checkboxes, and sometimes clicking buttons fails
+ functor: yeah
+ rather, funnylookinhat: yeah

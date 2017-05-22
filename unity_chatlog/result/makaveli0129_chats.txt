@@ -1,0 +1,8 @@
+ ok my trash can says it's full but everytime i try to empty it my system slows way way down i tried from command line using rm -rf ~/.Trash/ and that completes with no error any idea on how to empty trash?
+ guntbert: so can i just rm -rf ~/.local/share/Trash$
+ ~/.local/share/Trash$
+ expunged  files  info
+ is the files listed in there
+ gunbert: i just did rm -rf files from that directory
+ ok i have windows 7 installed in a virtualbox ubuntu as the host OS and i can't see any of my other partitions in virtualbox anyone know how to do this?
+ i have windows 7 installed in a virtualbox ubuntu as the host OS and i can't see any of my other partitions in virtualbox anyone know how to do this?

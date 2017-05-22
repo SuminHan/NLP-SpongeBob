@@ -1,0 +1,10 @@
+ did anyone else get a bumbed grub on upgrade?
+ ultimate_chaos we see you
+ Ellipsis753 at login select ubuntu classic at bottom
+ Ellipsis753 I don't mind it however after messing with settings for a few hours its not that bad
+ Ellipsis753 mostly I just fixed some of the issues with compiz like reenabling cube and my other plugins, got alot of programs working again that broke, and changed some basic settings
+ Ellipsis753 fixing the nvidia but helped too
+ Ellipsis753 ya, I don't use the nouveau driver as I use wine and game alot. Nouveau is bad for gaming where as the Nvidia driver is good for gaming
+ Ellipsis753 maybe, mine broke on update since it was a new kernel and I assume some of the settings changes. I had to uninstall my manual drivers and install nvidia-current
+ Ellipsis753 if you have upgraded and didn't have to fix grub good to you though :) mine broke and required a live cd to fix
+ How many peoples Grub broke on update

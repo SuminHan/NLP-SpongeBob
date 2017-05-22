@@ -1,0 +1,1 @@
+ anyone know how to add/remove ufw/gufw rules for *only* ipv4 or ipv6, not both?

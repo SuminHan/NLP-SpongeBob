@@ -1,0 +1,3 @@
+ hello , im goingo to do a home server and i like to know opinions , who is better debian or ubuntu server ?
+ okey , tx Dr_Willis
+ hello , im trying to connect with ssh with noip and i can´t do it console says "Write failed: Connection reset by peer" , what can i do?

@@ -1,0 +1,23 @@
+ sunil: remastersys
+ sunil: remastersys will make a copy of everything but your home directories
+ sunil: yes
+ LAcan: what do you mean, get to it?
+ LAcan: nm-applet
+ that's the gui, man.
+ LAcan: I don't know how to do that, sorry
+ good question though
+ bison: with what?
+ root: shouldnt run irc clients under root...
+ bison: ah, I'm not on the new version of ubuntu...I'm actually on mint
+ Jordan_U: why did you do that?  Was I asking advice, and even if I was asking for advice, most of the advice I can be given would be just as usable
+ its fine
+ novaria_fajar: did you explain waht free software is?
+ Angelo_abe: what kind of server?
+ Angelo_abe: i mean, like, how are you connecting to it?
+ remote desktop?  ssh?
+ d_atharva: like the iso file?
+ d_atharva: maybe you can try remastersys...
+ d_atharva: you still there?
+ d_atharva: I'm not sure that makes sense
+ the updates are the updated softwaer
+ he doesnt want all the packages, zvacet, just the important ones

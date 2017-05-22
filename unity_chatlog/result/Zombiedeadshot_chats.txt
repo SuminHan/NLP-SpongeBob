@@ -1,0 +1,4 @@
+ hello i have a advanced question about the live cd's can some one help?
+ im tired of configueing my crunchbang installzation so i want to know a way i can take the live cd and edit the files so when you boot iit up or install it it will have the required customisations
+ i guess what im asking is how can i edit filesystem.squashfs to customize some configueation files within a live cd?
+ @ubottu thank you

@@ -1,0 +1,3 @@
+ Does anyone know how to use pen pressure in GIMP?
+ micahcowan: any where to point me to?
+ thanks

@@ -1,0 +1,25 @@
+ Witchsong_: are you heksesang?
+ Witchsong_: where you been man, join the mpc chan
+ sebsebseb: #mpc-hc its a windows media player, doesnt work on wine right now
+ Witchsong_: and then full-time coding on mpc-hc? :P
+ Witchsong_: i can you in "gratitudes", that work for you?
+ Witchsong_: true
+ anyoen here happen to have a dell e6400 and installed 10.04 problemfree?
+ Does unity have weather next to the clock like gnome? i couldnt find an option for it when i tried a nighly livecd a few weeks ago
+ hello, how do i enable the weather info next to the clock in unity???
+ jatt: :(((((
+ jatt:  thats insande, the built-in weather is one of the best things about the ubuntu default clock
+ jatt: did we lose the battery too?
+ having the running apps on the left sure takes getting used too
+ is there any way to display the wire-less connection quality in unity? gnome used to show signal strenght when hovering over the icon
+ help the left launcher bar wont go away
+ what can i do
+ lol this a funny bug, i switched to a higher resolution and all the windows are stuck in the old resolution
+ woah
+ that was the wierdest bug i ever encountered
+ I pressed alt-tab and was greeted by the login screen
+ in less than a second ubuntu had logged me out
+ and gracefully closed all my apps
+ wtf
+ unfortunately apport didnt catch it, i did see a quick flash of console output
+ can anyon reproduce this? with chrome as the default browser i click on a link in konversation, and instead of switching to chrome the desktop crashes and i have to log in again. and apport does not catch this event

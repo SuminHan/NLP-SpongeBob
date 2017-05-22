@@ -1,0 +1,8 @@
+ kernel bug http://bit.ly/jpStCy  line:2921
+ kernel bug http://bit.ly/m2BtFD line:1401
+ run into btrfs bugs in 11.04 Server x64
+ anyone using btrfs with 11.04 Server x64?
+ need help with btrfs bugs in 11.04 server
+  ext2 /boot  btrfs / works with 10.10 Server x64
+ kernel bugs with 11.04
+ anyone can help with btrfs bug in 11.04

@@ -1,0 +1,10 @@
+ Hi, I recently upgraded to 11.04, the top gnome-panel has text, but it is black ---so is the bar. How do I change text or bar color?
+ stimpie: no, tried that, you can customize a theme...but no option to change the colour of the panel
+ stimpie: or text appearing on that panel
+ stimpie: infact, there is no control that has anything to do with the gnome panel that I can see
+ stimpie: had to change theme entirely to get anything, thx for your help
+ Is there a button or something to clear the screen to desktop?
+ aeon-ltd: thx
+ vibhav: lol, shouldnt be too hard to find someone
+ aeon-ltd: I did just before :D
+ Jessica175: made by sun/oracle ...open source ...erm its open source

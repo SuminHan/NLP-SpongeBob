@@ -1,0 +1,62 @@
+ I auto upgraded to 11.04 today and the install has stalled out with: restarting services have possibly affected the upgrade: restarting spam assassin done, restarting cups...   then nothing
+ anyone have any idea why the upgrade to Natty has stalled for hours now with :  restarting services have possibly affected the upgrade: restarting spam assassin done, restarting cups...   then nothing?
+ upgrade from 10.10 to 11.04 stalled out after it restarted services hours ago... cups restarting....... then nothing??
+ at least yours installed  Oo
+ yes
+ Incarus6 yes
+ it has stalled out
+ yes gimme sec
+ Incarus6 http://pastebin.com/0WzjDVfc
+ ok gimme sec
+ Incarus6 that command produced nothing
+ Incarus6 http://pastebin.com/U0uWJ1Kt
+ Incarus6 it looks like I have quite the mess  :(
+ zomg
+ gimme sec
+ Incarus6 where is that?
+ I dont see it
+ Incarus6 http://pastebin.com/9DTm8vXp
+ yes I think so?
+ Im not sure of anything right now, please tell me what you need again
+ tired been on this all night
+ ok
+ Incarus6 http://pastebin.com/b1qdzpML
+ so what do you suggest?
+ Incarus6 so what shall I do?
+ Incarus6 that really tells me nothing that I can see? you?
+ or are you stumped as well?
+ Incarus6 am I screwed and am I going tio have to force quit and lose all?
+ Incarus6 so what do you suggest I do? if I force quit I lose all
+ and will most likely have nothing to boot into
+ no, it has sat stalled
+ while Ive been googling
+ last output is cups restarting
+ reconf every package?
+ how do I do that?
+ Incarus6 how would I reconf every package?
+ correct
+ and no the upgrade window is still open
+ just sitting there stalled
+ Incarus6 http://i52.tinypic.com/2pyx8xc.png
+ Incarus6 yes
+ ok
+ Incarus6 cups is stopped now
+ I think it might be  :D
+ Incarus6 I got this: Since the script you are attempting to invoke has been converted to an
+ Upstart job, you may also use the stop(8) and then start(8) utilities,
+ e.g. stop cups ; start cups. The restart(8) utility is also available.
+ Incarus6 thank YOU so much it looks like the upgrade is now going thru!!!   :D
+ oh happy days  \o/
+ heheh   \o/ woot!
+ Incarus6 if you dont mind Ill hang here for a few in case I run into issues
+ and thank you again!!!!
+ Incarus6 is my hero!  \o/
+ lol
+ Incarus6 I seem to be stuck on this now: http://i51.tinypic.com/rkym9x.png
+ k
+ Incarus6 I salute you, it worked!!!  \o/ mmmm
+ said force reload failed but kept going
+ ok will do, thanks!
+ 1 minute left  :O
+ lol
+ Incarus6 I have to close to finish up now, hopefully I wont need to come back... thank you again!!

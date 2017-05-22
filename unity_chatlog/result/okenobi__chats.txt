@@ -1,0 +1,17 @@
+ hello world ... i'm upgrading to 11.04 ... hardly wait to see the outcome
+ Samo502 i think you have grub2 and not grub 1
+ Sam0502, don't forget to mention what version of ubuntu you have
+ Samo502: I have the same grub ... let me investigate a little
+ Samo502: i doubt it
+ Samo502: this is menu.lst entries for win http://pastebin.com/RhRF7eSr
+ Samo502: what rootnoverify do you have?
+ Samo502: YES, if it is sda3, then it is hd0,2
+ Samo502: correct!
+ Samo502: ok .. so it is correct!
+ Samo502: I had a similar problem though with win7. I couldn't install it on something different than sda1 ...
+ Samo502: if the win partition is sda3, hd0,2 is correct! put makeactive and give it a try!
+ Samo502: good luck
+ Hello everybody! I made an upgrade from 10.10 to 11.04 and everything worked smooth! Congrats!
+ coder2: I don't think so!
+ coder2: there is a flag though to list only LTS versions! and then you CAN!
+ coder2: for servers I'm sure you can! for desktop, i didn't do it personaly, but now that i think of it, I'm sure you can make an upgrade from 10.04 to 11.04!

@@ -1,0 +1,1 @@
+ I earlier had integrated graphics card on my computer. I  installed a new external graphics card today. The problem is X server not loading. Its just command line. I tried to do  Xorg --configure, but nothing happened. How do I fix this?

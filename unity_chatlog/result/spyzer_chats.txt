@@ -1,0 +1,14 @@
+ hey all i just installed ubuntu 11.04. In my xorg.conf I do not see any section for open source radeon driver. The only thing i see is glx. Please gimme a hand
+ hey all i just installed ubuntu 11.04. In my xorg.conf I do not see any section for open source radeon driver. The only thing i see is glx. Please gimme a hand
+ please anybody
+ may anybody please help me out
+ i need help with xorg
+ it doesn;t have a device section with radeon mentioend in it
+ ???
+ hello all, just yesterday i installed ubuntu 11.04. My issue is that my desktop GUI keeps freezing and once it freezes it never recovers. I have an ATI Radeon Mobility 4500 series graphics card and am using open source radeon driver
+ Please help
+ spikebike: the commercial one actually slowed down my entire system and i have no idea why
+ spikebike: should i lanuch a bug somewhere regarding this?
+ hello everyone, when id lsmod i find that "radeon" is loaded as a module BUT do i also need to specify that in xorg.conf ???
+ please tell
+ currently there is no xorg.conf

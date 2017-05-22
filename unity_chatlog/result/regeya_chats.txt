@@ -1,0 +1,3 @@
+ the thing to remember about Gnome 3 being released on the 6th of April is that, because different distros work differently, and because now more eyeballs will be on it, there will be some lag before distros have it as part of their stable releases :-)
+ I'm actually surprised at how close unity 2d is to the functionality of unity 3d
+ hey, I've used Ubuntu for several years, and I used Unity for about 30 minutes ;-)

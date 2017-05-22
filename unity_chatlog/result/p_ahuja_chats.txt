@@ -1,0 +1,25 @@
+ hi can anybody provide me help on  http://ubuntuforums.org/showthread.php?p=10745320
+ I am unable to install any .sh file on natty
+ ikonia:  check http://ubuntuforums.org/showthread.php?p=10745320
+ ikonia:  I have posted that
+ ikonia:  Okay
+ ikonia:  During execution of the program terminal stucks at "Starting Installation Wizard" and no wizard comes up ever
+ ikonia:  netbeans 7.0
+ yeah i was trying one program  that is jdk 6
+ ikonia:  i also tried netbeans setup bundled with jdk6. same problem
+ ikonia: but its working fine on my PC with 10.10
+ ikonia:  but that clears file is correct.
+ ikonia:  okay can you send me a link of any working sh file (small) on natty. i try that
+ okay any name
+ iBut can any one figure out what the problem could be as one of irc users had tried it on natty too
+ arand_: dear can you please tell me that if netbeans worked on yours Natty or not
+ arand_:  thanks.... ikonia  see dear its running on natty
+ anybody who could figure out the problem
+ rgr: I was trying to install Netbeans 7.0. During execution of the program terminal stucks at "Starting Installation Wizard" and no wizard comes up ever
+ rgr:  I am using Natty
+ rgr:  so what do you think could be the error
+ rgr:  image is at http://www.itspriyank.com/Screenshot.png
+ rgr:  I am using the pack bundled with java jdk6
+ rgr:  was that for me "did you not install as root?"
+ rgr:  sorry but no
+ rgr:  could it be problamatic

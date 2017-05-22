@@ -1,0 +1,8 @@
+ hello
+ I upgrade my ubuntu do 11.04 serverx does not start... here is my log: http://wklej.org/id/521203/ how can I solve this problem?
+ thanks incarus6, i will try :)
+ hello again, I reinstalled fglrx but the same problem...
+ Incarus6: i uninstalled fglrx, moved folders /usr/lib/fglrx and /usr/lib32/fglrx to have clear install and installed it again - no resutls
+ Incarus6: it worked in 10.10 very well, compiz and so on works fine
+ incarus6: I will try with pure install, many thanks :)
+ Incarus6: I will try livecd first, of course, we will see what happen

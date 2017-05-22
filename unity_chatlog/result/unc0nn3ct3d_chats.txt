@@ -1,0 +1,8 @@
+ Evening folks, I can't seem to get my atheros wireless nic to connect to my router and I've tried everything I could think of and/or google.  No errors, iwlist scanning shows the router just fine, but I can't connect in terminal.
+ MrBean : have you tried reducing your graphic settings to the bare min for that VNC connetion?
+ MrBean: yea when I was living in Colombia connecting to my VNC in Canada I had to do that to ge tit to work
+ So anyone feel like helping me troubleshoot this wireless network problem?  Everything connected fine in 10.04 from inside xserver but now in 11.04 without xserver I can see the AP but I just can't connect to it :(
+ oh my god this new GUI setup for 11.04 is hurting my brain.. how do I turn this mac-esque carebare deisgn off and go back to what it was in 10.04?
+ ActionParsnip: yea, I have a panel too, that part I like.. the rest, my god.
+ Thank goodness
+ thanks for the heads up.. the pressure is slowly releasing from my head at having to try to manage through that gui.

@@ -1,0 +1,6 @@
+ Hi people, please somebody help me? I want to open througt ssh and existing already opened session at my server console, how can i do this?
+ how open an already logged session console throught ssh ?
+ please somebody help me? I need to connect to my server console, because its running an application, but when I connect throught SSH it opens a new session, with a empty console... how can I connect into a logged session?
+ sulfo: hehe I dont wanna get back to my office just to figure out whats going on on my server, I need to drive more than 1 hour hehehe so, because of this, I need to connect to the already openned console
+ sulfo: maybe I should hire a midget and let the guy in my office when it's closed, just to watch the console screen hehehe
+ sulfo: hmmmm I'll try it, conspy... thanks doc .. midgets are too expensive lol

@@ -1,0 +1,7 @@
+ Question: Upgraded 10.10 to 11.04. Screen was black on reboot. Downloaded the new 11.04 iso to clean install. Installer is too dim on monitor (new laptop) to install. Is there a solution?
+ Fx key?
+ Trying to install 11.04 from DVD, installer is too dim to read. Laptop screen dim function keys do not do anything. Is there a way to boot the installer in to some sort of safe graphical mode?
+ I'll give that a go
+ Problem: Ubuntu installer was not running (screen too dim to read). Used alternate installer as suggested by someone here. I'm finally up and running, but my screen is too dim to be useable. Fn+Fx keys pull up brightness indicator, but do nothing.
+ Is it possible to install natty with the 2.6.35 kernel and still use unity?
+ hiexpo: Better question, how do I do it?

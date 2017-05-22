@@ -1,0 +1,14 @@
+ hi
+ how can i disable this excessively large dropshadow on 11.04?
+ i tried compiz/window decoration, but that doesn't change anything
+ ohsix: hm, it has to be set somewhere
+ ohsix: right now i can just disable all decoration, or have this huge shadow
+ ohsix: because i use focus-follows-mouse, the abrupt change of the shadow is quite distracting
+ ohsix: ah.  there is a slider for shadow, but it doesn't seem to have any effect
+ trism: thanks!
+ how do you get a proper menu style, and not that apple menu style?
+ how do i get gnome-panel to start by default?
+ how can i disable the "maximize when bumping a window to the screen border"?
+ soreau: thanks!
+ now if i only found how i can switch viewports while dragging windows...
+ Lazer-B: sure

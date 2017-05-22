@@ -1,0 +1,2 @@
+ Anybody why I get connection refused trying to connect (FTP) to ppa.launchpad.net?
+ ChR0n05, alt-f1

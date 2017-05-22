@@ -1,0 +1,21 @@
+ How do I take control of my home folder on an ubuntu install while on live cd ? I want to back it up to an archive
+ skulltip: uh isn't there a way to take ownership of the folder, I dont want to backup my ubuntu install, just this one folder; ive tried chmod and chown, and it doesn't work out
+ why am i getting permission denied when trying to create an archive I files I own
+ wow downloading packages for instlaling 11.04 is epicly slow, 8kb/S
+ the unity ... thing... is a WIP i assume
+ is there a way to get the right alt to change workspaces with a us international layout with dead keys ?
+ How do I reorder the close / minimize / maximize buttons in gconf-editor
+ Is it possible to /not/ download stuff when installing ubuntu ?
+ is there still as much traffic as yesterday on the cannonical servers ?
+ How do I verify the integrity of a 10.10 Live CD ?
+ ohsix, there is no boot menu on this CD
+ ohsix: .... my language ? yea ok there is "Try Ubuntu" and "install ubuntu", its a GUI, which button/key ?
+ is it possible to run gnome from live cd ?
+ on 11.04
+ im trying to install ubuntu on this old laptop, but it's stuck on the part with the 5 dots under the ubuntu title, 10.10 i368 from usb
+ im trying to boot ubuntu live cd on this old laptop, but it's stuck on the part with the 5 dots under the ubuntu title, 10.10 i386 from usb, anyone know what I could do?
+ what was the reason Ubuntu switched from OpenOffice to LibreOffice ?
+ cool, ty Dr_Willis
+ i created a usb live cd with 2gb of storage for ubuntu 10.10, did apt-get upgrade and now i've run out of space? even if the update size was 256mb downloaded, 55mb taken ?
+ hey ubuntu im trying to install drivers for Broadcom wifi chip, but the install script isnt working , says its not a supported card, but the PCI_ID is supported, model is supported, etc...
+ when I go on google.com it's all in a wierd language, how do I fix it, firefox on ubuntu seems to be reporting my language as being CHR ?

@@ -1,0 +1,4 @@
+ Hey room. Just installed a clean copy of Natty. I seem to have no sound...and whenever I try to change the volume, it hangs on "Waiting for Sound System..." Help?
+ I have no sound. Altering the sound hangs a message: "Waiting for Sound System"...please help.
+ I have no sound. Altering the sound hangs a message: "Waiting for Sound System"...please help.
+ zelhar, Yes

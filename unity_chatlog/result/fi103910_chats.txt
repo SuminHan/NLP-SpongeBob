@@ -1,0 +1,14 @@
+ hi all - I'm very unexperienced with Linux (know some, but not much...) and ran into a problem after updating to 11.04. For some reason, the "default boot" option doesn't work. Can someone help me with this... ? :)
+ well, it's strange - if I choose the "use older version" option, but choose the same 11.04 version - it works just fine...
+ yes and no - it's the same kernel, but throught the "use older version" option...
+ it's a bit confusing, sorry - but I just checked, the kernel versions are exactly the same on "default" and the one I can choose from "older version"
+ sebsebseb - shouldn't the boot be exactly identical, regardless of which way I boot ? Default or "older version" - as long as the version I select is the same kernel version ?
+ is there any difference between 2.6.38-8-generic-pae & 2.6.38-8-generic ... ?
+ that's the only difference between the kernels I use - one works (generic), the other doesn't (default boot, generic-pae)...
+ coz- is that the only difference ?
+ since that one doesn't work for me - it doesn't boot at all
+ ayecee - any idea how to fix that... ? any updates I should do ?
+ ayecee - sorry, my linux skills = close to zero... what I mean is, is there something comparable to driver updates I should do ?
+ ayecee - alright, but since that is the default option - is there any way to change that ? Now I have to go through "older versions", and choose the non-pae kernel
+ oh, ok - and really testing your patience now, but how do you do that...? :)
+ ayecee - alright, thanks, that's a good tip - I'll try to investigate more !

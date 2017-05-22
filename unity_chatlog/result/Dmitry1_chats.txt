@@ -1,0 +1,5 @@
+ Hello. Question 1) There is a Russian? 2) Who collects the deb packages?
+ escott: thx captain
+ moshe_: no
+ Who here is engaged in building packages?
+ Pici: Thx you.

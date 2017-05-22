@@ -1,0 +1,21 @@
+ hello =3
+ anyone know if theres gonna be a release of Ubuntu server 11.04 anytime soon?
+ cool
+ cant wait =3
+ Thanks
+ the link i saw erleier
+ is that the official release of server 11.04??
+ hi every one
+ what is the package called for quicktime ?
+ actully i use SL
+ sl is known as second life
+ good morning
+ What is LVM
+ im trying install ubuntu server 11.04 but im stuck at the chooseing with or with out LVM
+ what dose LVM do?
+ how do i upgrade on a server from 10.10 to 11.04
+ guys is there away to change language on a server version with out reinstall it???
+ hi ppl
+ i need some help explaining something
+ $ sudo locale-gen LANG1 LANG2 LANG3 why dose it say 1 2 and 3?
+ what do i type to get updates on a ubuntu server??

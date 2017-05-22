@@ -1,0 +1,5 @@
+ gsp2009: http://www.webupd8.org/2011/04/things-to-tweak-fix-after-installing.html
+ coz_: we had the same link.. :) thanks
+ I'm trying to have my AutoKey icon display in the topbar, can anyone please help?
+ I'm trying to have my AutoKey icon display in the topbar in 11.04, can anyone please help?
+ gsp2009: np..glad to be of help!!

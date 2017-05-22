@@ -1,0 +1,8 @@
+ In Natty, can I add my own applications to the Launcher?
+ LjL, missed the last | I think
+ Can I add my own application to the Launcher?
+ cache_surplus, have you tried disabling the Hard Drive from the boot order?
+ Ahmuck, how?
+ Is there a way to add my own applications to the Unity sidebar?
+ Guys, can I add my own apps to the Unity sidebar?
+ blurgh, I'm trying to add an executable .jar file though

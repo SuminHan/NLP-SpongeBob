@@ -1,0 +1,1 @@
+ A bit ironic, but how do i disable the autojoin to freenode and #ubuntu on XChat?

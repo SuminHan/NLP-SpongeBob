@@ -1,0 +1,2 @@
+ I have a question. What does Upgrading Ubuntu do?
+ Clicking Upgrade in the update manager

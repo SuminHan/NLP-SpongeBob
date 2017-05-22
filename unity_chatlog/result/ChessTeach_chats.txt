@@ -1,0 +1,27 @@
+ i want to set up raid0 on my computer, but I couldn't find the option in BIOS. It is a brand new computer, do some newer computers not support RAID?
+ Tangaroa: do my sata hard drives need to be in consecutive slots? one is in slot 1, and the other 3
+ stefg: speed
+ stefg: really it won't help much? is that because i am not able to do the raid through the bios?
+ how does lvm work? do I install ubuntu on one hard drive, then install lvm and it begins using the second drive?
+ If I have two hard drives, can I use LVM to divide data between them similiar to RAID drives?
+ Does FakeRAID provide any preformance benefits?
+ iceroot: which isn't much?
+ iceroot: ok thanks
+ Halzen: my bios doesn't support the hard array
+ Halzen: it isn't possible to download a new bios that will support RAID, correct?
+ iceroot: i thought you said there isn't any benefits to it
+ iceroot: but software raid is worth it?
+ iceroot: preformance
+ iceroot: yes
+ iceroot: i know, i bought a backup external in case that happens
+ iceroot: what is ssd?
+ iceroot: oh, yeah i guess that would of been better
+ iceroot: but i already have the two hard drives
+ Halzen: how much is that though?
+ spyhermit: I guess I will take what I can get
+ Halzen: if I could return my drives, I think I would, but I do not have the recipts\
+ iceroot: So I need to get the alternative Ubuntu CD to do the software raid right?
+ iceroot: what do I need
+ iceroot: how?
+ spyhermit: I am still considering that idea
+ Thanks again guys

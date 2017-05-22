@@ -1,0 +1,2 @@
+ hello all
+ why  %sudo ALL=(NOPASSWD:ALL) ALL   doesn't work in the sudoers please?

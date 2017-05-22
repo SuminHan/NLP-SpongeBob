@@ -1,0 +1,9 @@
+ my mouse is uncalibrated on my laptop. I need to click above the spot I want to actually do anything. Where can I fix this?
+ my mouse is uncalibrated on my laptop. I need to click above the spot I want to actually do anything. Where can I fix this? -> any ideas?
+ AlexGer: don't ask to ask; just ask
+ mnouh_: you need clang++ not clang
+ mnouh_: I'm uncertain however how to install clang++ on Ubuntu :-)
+ <intelinside2020> can anyone help me with the HTACCESS file!!!! ---> ask & wait. don't complain
+ can anyone tell me & mnouh_ how to install clang++ (the c++ driver for llvm) on Ubuntu ?
+ intelinside2020: generally the rule is "don't ask to ask - just ask" and people will redirect you
+ mneptok: please avoid pasting multiple lines. :-)

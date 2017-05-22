@@ -1,0 +1,113 @@
+ doesn't work
+ hello ubuntu
+ when does Ubuntu 11.04 come out?
+ i know Ubuntu 11.04 comes out tomorrow
+ like what exact time
+ okay ty
+ are the Beta versions different then the official ones?
+ xiambax, did you just answer my question?
+ cause i have the Beta version on my flash drive
+ all the programs kept crashing
+ upgrade to 10.10 then to 11.04 when it comes out
+ np
+ does anyone know how to make Ubuntu run faster? it runs quite slow on my computer
+ or maybe it's because it on a flash drive...is there a performance drop in using a flash drive over a hard drive? i would think it would be faster in some cases
+ *it's
+ yes i do
+ one sec
+ oh
+ CPU: Intel Atom N270 @ 1.60 GHz (Diamondville 45nm Technology)
+ RAM: 1.0GB Single-Channel DDR2@ 266 MHz
+ Motherboard: ASUSTeK Computer INC. 1005HA
+ yes
+ Graphics: Digital flat panel 1024 X 768
+ Mobile Intel(R) 945 Express Chipset Family
+ i've used 10.04, 10.10, and 11.04 Beta
+ they all run kinda slow
+ about half a year to a year
+ it's a netbook
+ never usr13
+ with a netbook
+ ?
+ That's scary man
+ i could do it w/ a regular desktop
+ not with a netbook
+ true
+ running Windows 7 starter is fine
+ it's fast
+ i would dual boot if Ubuntu was faster...
+ that's what i asked Johny_GM
+ i know
+ but Ubuntu is running slower on my computer
+ not using as much RAM, but just slower
+ just went to the release party chat...they say it will be April 28th somewhere in the world
+ me?
+ it IS the 28th in Australia or it will be released on the 28th in Austrialia?
+ brb
+ can you upgrade from Ubuntu Beta 11.04 to official version?
+ do you lose any data?
+ ty
+ remove firefox
+ to make vlc media player default, i had to remove all the media apps that came w/ it
+ well yesterday when i was doing some stuff, my main HDD stopped showing up
+ when i tried to set VLC media player as default, i kept getting error messages
+ it was working and then just took a dump
+ i code in java...how do you start jar files?
+ in windows all i have to do is double click it...
+ thanks
+ how do i make an executable jar file? in windows it works but in Ubuntu it says it's not executable and that i need a script
+ do i have to use scripts?
+ permissions for?
+ Ubuntu?
+ java?
+ oh...so just right click it, properties *cuts off*
+ can i do it through the GUI?
+ or terminol?
+ no Minimal
+ !countdown
+ doesn't work
+ celthunder...and that makes it an executable jar?
+ so i just have to jar it up in Ubuntu instead of Windows right?
+ so how do i make it an exe jar?
+ it's an exe in Windows
+ i thought Java was multi-platform
+ i don't have any OS specific things in my code
+ mincraft is?
+ a game?
+ okay cool...so to be clear, BrumDart, that is the answer?
+ i know the second part
+ i make JARs through CLI in Windows
+ well, i distribute to users
+ they don't want to use CLI
+ shebang?
+ what is that?
+ both
+ add  "#!/usr/bin/java -jar" to the manifest file?
+ April 28 for me in 4 hours
+ not familiar with bash script
+ similar to batch script? i know what it is
+ just don't know for to code
+ Ubuntu 11.04 is NOT online yet...
+ countdown
+ !countdown
+ doesn't work
+ thanks
+ what's the address? or you'll give it to me in a minute
+ ?
+ thanks BrumDart...how to PM?
+ !BrumDart Testing
+ for me less than 2
+ hey Ubuntu
+ have a question...
+ i tried to make a JAR in Ubuntu...gave me blank lines
+ like i typed in the correct information
+ then under it, it had these ">" carrots
+ what do i do after that?
+ could anyone answer my question?
+ I typed in:
+ jar cmf program.mf program.jar *.class *.jar
+ and it just gave me carrots with blank lines underneath
+ JDK and JRE are properly installed
+ hello71, "java -jar" runs the jar
+ i am trying to create the jar
+ I'm running Ubuntu 11.04 with a netbook...

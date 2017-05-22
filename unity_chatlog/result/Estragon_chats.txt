@@ -1,0 +1,3 @@
+ hi, nautilus is not responding, file manager is not responding too
+ im on 11.04
+ for example I cant click on a icon on desktop or open a places

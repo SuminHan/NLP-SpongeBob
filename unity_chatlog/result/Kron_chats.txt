@@ -1,0 +1,11 @@
+ dibs: I'm running Natty on a laptop with an NVIDIA card and a desktop with an ATI card. No problems on either.
+ Belial`: Sounds like it's not recognizing your video card. You try installing restricted drivers maybe?
+ Belial`: You might not be the only one: https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers/+bug/770685
+ litropy_: You sure it's enabled in the BIOS?
+ Belial`: I understand wanting a clean install :)
+ litropy_: I'm afraid my Bluetooth Dongle grew legs. I haven't played with it in Natty :/
+ litropy_, hehe all my wireless keyboards are RF and the range is disappointing
+ litropy_, Not sure if it will show up there, but you could try tail -f /var/log/dmesg and see if any events show up there?
+ litropy_, Found this: https://lists.ubuntu.com/archives/ubuntu-bluetooth/2011-March/009623.html
+ litropy_, You try restarting the bluetooth service?
+ litropy_, Great!

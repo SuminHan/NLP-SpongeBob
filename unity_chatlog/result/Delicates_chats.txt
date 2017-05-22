@@ -1,0 +1,1 @@
+ Anyone can recommend a dual-band PCI-Express 802.11n card/chipset that supports both 2.4GHz and 5GHz?

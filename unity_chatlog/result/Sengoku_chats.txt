@@ -1,0 +1,18 @@
+ hey
+ just hopped on ubuntu 11.. wireless went away
+ can someone help me with wireless
+ 0b:00.0 Network controller: Broadcom Corporation BCM4311 802.11b/g WLAN (rev 01) , NictraSavios
+ NictraSavios: it worked on ubuntu 10
+ k fforget this distro
+ i'm going back to ubuntu 10
+ this is so weird
+ NictraSavios: my Guake is all messed up.. I can't alt-tab :S
+ why would they disable alt-tab :S
+ NictraSavios: i'm going back to kde 3.5
+ NictraSavios: so i have to do a full format?
+ sumyunguy: no you don't
+ NictraSavios: i do :(
+ NictraSavios: why is there no alt+tab?
+ NictraSavios: so how do you juggle between your applications?
+ izinucs: oh doesn't work for me
+ izinucs: alt+tab

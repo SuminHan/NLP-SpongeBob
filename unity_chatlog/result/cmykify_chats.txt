@@ -1,0 +1,9 @@
+ system monitor says my CPU(s) are running at 100% after i install 11.04, but the processes show 4-10% load. What's using up the rest?
+ ohsix: kthnx back in a  minute
+ ohsix: htop says the same. I add up all active processes and it's 13% cpu load. Htop says 100% on both cores, also. ??
+ ohsix: yeah, top process is Compiz at 7%
+ ok i'll go sudo 1 sec
+ ohsix: Still just compiz at 7% in htop (sudo)
+ ohsix: yes, solid white/teal, why?
+ ohsix: I don't know what that is. The color should tell me something?
+ ohsix: ok, any other utils or info dumps I can do to figure it out?

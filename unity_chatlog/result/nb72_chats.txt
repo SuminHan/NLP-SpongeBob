@@ -1,0 +1,4 @@
+ Am I the only one who noticed quicken listed on the ubuntu website? Is that now available in the software center?
+ Can anybody confirm that quicken is now available in the software center?
+ wazzup, it is, I'm pretty sure instructions are on ubuntu.com
+ wazzup, I was thinking from, not on.  You can run it like a live CD from the stick, but I'm not sure if you can fully run it from a stick.

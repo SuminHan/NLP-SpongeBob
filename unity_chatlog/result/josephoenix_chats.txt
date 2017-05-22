@@ -1,0 +1,5 @@
+ Hello all
+ I've been given a VPS with almost no information about it and told "migrate to this." As a first step, I did 'apt-get update && apt-get upgrade' and it tried to install grub. I told it not to. What are the chances that I screwed things up?
+ Should a VPS install grup? I did apt-get upgrade and it tried to install grub
+ I didn't think grub was installed before.
+ *grub

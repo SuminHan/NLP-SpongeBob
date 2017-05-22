@@ -1,0 +1,15 @@
+ Hey guys, I'm having a problem with compiz. Anyone who can help?
+ I'm using an nvidia card with the proprietary drivers installed and when I drag windows it stutters a lot.
+ It happens in both Unity and Classic, so I assume it's a compiz issue.
+ It's okay. Where is the soft window option?
+ Fading Windows or Wobbly Windows?
+ Fading is checked, Wobbly is not.
+ I'm currently in the no effects desktop right now. I'll relog into compiz.
+ Okay, now I'm in the compiz login. :)
+ The windows wobble, but it's still stuttering.
+ I'm running a tri-core Phenom 8650, 6gb DDR2, nvidia GTX 260, and 11.04
+ I'm using the proprietary drivers as well.
+ So, is anyone else having any window stuttering issues in Unity/Compiz?
+ Okay, I've done a fair amount of work trying to find any solution to this, but I cannot. Does anyone in here know why my windows are stuttering when moving them under Compiz?
+ My machine is more than enough to run it, and I'm using an nvidia gtx 260 with the proprietary drivers. I am kinda lost at this point.
+ mlankhorst: I enabled nothing manually, it's only what comes default on Natty.

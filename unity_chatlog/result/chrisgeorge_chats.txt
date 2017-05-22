@@ -1,0 +1,1 @@
+ I was hoping for some help. I upgraded to natty the other day - but all of a sudden ctrl-f does not work to 'find' in any application. I was hoping someone else had this issue and solved it.

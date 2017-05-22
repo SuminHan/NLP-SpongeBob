@@ -1,0 +1,6 @@
+ hi
+ i'm trying to mount a samba share using sudo mount -t cifs -o username=user //host/share /mnt/mountpoint
+ but it gives me an error
+ gboers: give me 10 minutes to try again
+ hi
+ i have this in my form: http://pastebin.com/6vHnciFG

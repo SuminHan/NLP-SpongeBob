@@ -1,0 +1,3 @@
+ anyone with a tp experiencing weirdness with the battery indicator?  the indicator reports the correct time remaining but shows the battery as a red outline (which I thought was to indicate power is getting low)
+ er forgot to mention I'm running 11.04
+ einseenai, you should be able to select "classic mode" when you login

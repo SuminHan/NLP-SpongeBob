@@ -1,0 +1,46 @@
+ hey im new to ubuntu any one want to help?
+ ok how do i find out what version i am running because i tried to install 11.04 but idk if it worked
+ ok it says im still on 10.04 so how do i get 11.04 because i tryed to get it from the site and it didnt work
+ im upgrading but what does this mean: Error mounting: mount: block device /dev/sr0 is write-protected, mounting read-only
+ mount: /dev/sr0 already mounted or /media/Ubuntu 11.04 amd64 busy
+ well it hasn't stoped upgradeing tho
+ also something is weird with my work spaces i remember when i first got Ubuntu i could move a window from one workspace to another and now i cant
+ my upgrade failed
+ hey how do i get tthat little window that runs programs
+ the update manager is not letting me upgrade
+ i need help upgrading
+ hate to be a bother but im having some trouble upgrading
+ i try but nothing gets read
+ red2kic can you help
+ red2kic__:i am heaving trouble upgrading
+ red2kic__:ok then well i am on a dual boot pc with windows 7 and ubuntu 10.04 do how do i get rid of ubuntu with out messing up windows
+ red2kic__:mbr/grub?
+ red2kic__:oh ok so how do i delete ubuntu
+ red2kic__; Obamanation: oh my gosh why is all of this so complicated
+ red2kic__; ok your talking alot about windows
+ red2kic__: i dont want to do any thing to windows
+ Could not calculate the upgrade
+ An unresolvable problem occurred while calculating the upgrade:
+ E:Error, pkgProblemResolver::Resolve generated breaks, this may be
+ caused by held packages.
+ This can be caused by:
+ * Upgrading to a pre-release version of Ubuntu
+ don't get me wrong I find this whole ubuntu thing fascinating but I am having way to many problems with it
+ I have a virtualbox question can any one help?
+ arnab__; stefg_natty__: iv gone to great lengths to make this thing work but but vbox will not let me boot from a usb or from a cd or anything really
+ arnab__; stefg_natty__: iv gone to great lengths to make this thing work but but vbox will not let me boot from a usb or from a cd or anything really
+ arnab__; stefg_natty__: hello
+ stefg_natty__: 10.04
+ stefg_natty__:10.04
+ stefg_natty__: uhhh ya i dont know that much
+ stefg_natty__: uhhhh ya i dont know that much
+ stefg_natty__:yes nothing will boot i have a usb ready to boot and a cd ready to boot
+ stefg__:see it wont let me mount there is no option to mount
+ stefg__:what do you mean off topic
+ stefg__:well then where the frick do i get some one to help me with vbox
+ stefg__:how do i get to that channel
+ stefg__: well that didn't get me anywhere
+ dear lord when i installed ubuntu i didn't realize it was going to consume my whole life
+ any one else feel like Ubuntu is a tad to complicated
+ Giles__:should have guessed id get that answer
+ bazhang__: oh no i have loads of ontopic questions i was just makeing a statement

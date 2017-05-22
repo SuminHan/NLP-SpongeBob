@@ -1,0 +1,3 @@
+ dtcummin: have u already got 4 primary partitions?
+ dtcummin, not sure if it's possible then sry
+  MrOpposite: I think you could only do something like that with VNC?

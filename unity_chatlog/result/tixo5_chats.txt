@@ -1,0 +1,11 @@
+ hey
+ guys, 11.04 upgrade issue, 2 broken packages i cant remove
+ and are inhibiting me installing other pkgs
+ sudo apt-get --purge remove [package] doesnt get rid
+ Chipzzz: openoffice.org-draw
+ happened after 11.04 upgrade
+ yes libreoffice!
+ The following packages have unmet dependencies.
+  openoffice.org-draw : Depends: libreoffice-draw but it is not installed
+ its broken, how can i sort this
+ obviously doesnt work, its a broken package

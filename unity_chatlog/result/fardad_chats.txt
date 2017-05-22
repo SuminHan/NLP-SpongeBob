@@ -1,0 +1,7 @@
+ I don't have an ICEauthority file and I can't log in into gnome-shell, what should I do?
+ how can I regenerate the .ICEauthority file?
+ ActionParsnip: I didn't have it in the first place
+ ActionParsnip: And now it say can't update /home/username/.ICEauthority
+ ActionParsnip: s/say/says/
+ ActionParsnip: tried it, still says can't update
+ ActionParsnip: so there should be a problem with permissions?

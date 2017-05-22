@@ -1,0 +1,40 @@
+ does anyone have experience installing Ralink wifi drivers on ubuntu? I can never make them work
+ its just called the 5390 as far as I know
+ celthunder: not sure if it told you i replied, its the ralink 5390
+ I posted on forums: http://ubuntuforums.org/showthread.php?t=1742650 , I installed 10.10 on my hp g62x, WLAN didn't work, followed a guide online to compile and set up ralink driver. I can see networks, when I try and connect to one the animated WiFi icon on the top bar freezes if I click it
+ btw natty I can't even compile the driver so i reverted to 10.10
+ _Platypus_: not quite sure what you mean by a widescreen effect?
+ _Platypus_: you need to set your screen resolution to a widescreen format
+ _Platypus_: Just a moment
+ !resolution | _Platypus_
+ _Platypus_: That link should help you fix your resolution
+ _Platypus_: if you need more help, mention me again and I'll see it
+ DJRoby4: hello, can we help you?
+ Incarus6: Thanks
+ wolf__: open a terminal and type sudo apt-get install cheese
+ wolf__: it will install the program in your applications menu
+ Janusman: in ubuntu you should be able to upgrade normally
+ !upgrade | Janusman
+ Janusman: anytime
+ Janusman: Should be a completely normal upgrade, I'm using Wubi and I upgraded normal
+ Nunya: off topic, but I really like how you have your interface set up :)
+ anyone with wifi experience could you look at my post, http://ubuntuforums.org/showthread.php?t=1742650 -- I would be very grateful - thanks!
+ Acriax: 64 is as stable as 32, it's what I use, never an issue
+ I hate to ask but would someone look at my forum post and maybe make a suggestion? It's WiFi related
+ nit-wit: http://ubuntuforums.org/showthread.php?t=1742650
+ nit-wit: I'm still on IRC so if you don't want to reply to the thread I can see you here
+ nit-wit: Thank you all the same for looking! :)
+ tripelb: what are you talking about? lol
+ tripelb: why did you mention me? not sure how i fit in here...
+ tripelb: no problem
+ For the record: If you really hate Unity, just choose Ubuntu Classic when you login and everything back to normal. Thank you.
+ is it possible to change the indicator in the top right of the screen from my username to my full name?
+ Can I change where it says my username (belinrahs) to my full name on the top right corner of the regular GNOME desktop?
+ Juest: if you don't mind my asking, what applet, and how is it added? synaptic?
+ can I change the title of the Me Menu to my full name? It's currently my username
+ Rehan: default repositories?
+ Rehan: ok thanks
+ Rehan: ubuntu-
+ \
+ Rehan: ubuntu-tweak worked perfectly thank you
+ Rehan: you had me fooled ;)

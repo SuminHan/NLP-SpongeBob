@@ -1,0 +1,2 @@
+ hi, I have an old installation of vmware on my machine and I would like to purge it. the thing is that dpkg -l | grep vmware won't give any result. what am I supposed to do?
+ nodus: I guess, but it's been ages and I can't remember. do I better ask the vmware guys?

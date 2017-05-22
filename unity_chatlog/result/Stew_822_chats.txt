@@ -1,0 +1,19 @@
+ Hello :), I was wondering if anyone has any experaince with .desktop files?
+ thegoodcushion: I'm not an expert, but google "cups ubuntu"
+ thegoodcushion: Then perhaps try and install your printer from that
+ My .desktop file that's playing up is: http://pastebin.com/cD3bAq5i   I don't know what's wrong. x-wallpaper-changer is an app I wrote, and the command I set Exec to works fine in the terminal (which is why I've set Terminal to true). Any ideas?
+ Someone should make a version of tux that's half-God half-penguin :)
+ I know that was coming ;)
+ Not God, the offtopic thing
+ Okay, on topic, does anyone have any idea why my .desktop file isn't working?
+ BlouBlou: I think in the menu he's clicking on a directory, and it's opening rythembox
+ Can anyone point me in the direction of a forum where I might recieve some help with my .desktop file?
+ Cube``: I think there's a command to upgrade your ubuntu version :)
+ Cube``: http://www.ubuntu.com/download/ubuntu/upgrade
+ drewby: I don't know, but maybe in default programs? Or try right-clicking a directory and select "open with" then choose natulis, the file browser
+ lylanthia: I think so, but people tend to shoot you if you say something that's outta place :)
+ lylanthia: it's deadly in here ;)
+ lylanthia: It did for me :)
+ lylanthia: buuut I don't know the technical answer, but I assume so :)
+ no problems :)
+ jaypue: No, sorry

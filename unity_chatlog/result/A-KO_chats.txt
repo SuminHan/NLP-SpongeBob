@@ -1,0 +1,3 @@
+ Greetings: for some reason PHP isn't updating on lucid lynx though I'm sure there's a newer version of PHP than 5.3.2 in the distro, how can I check for this?
+ LjL: nope, but how would I check that?.
+ Name php5 Version 5.3.2-1ubuntu4 Description server-side, HTML-embedded scripting language

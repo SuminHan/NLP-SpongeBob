@@ -1,0 +1,10 @@
+ so, I still can't run unity on my laptop, fresh install natty gm. Additional drivers window says "This driver is activated, but not in use" regarding Nvidia current. any workarounds?
+ bblz; got the same problem here. it was working fine under maverick for me
+ seems to me there's alot of us having problems with nvidia and unity/jockey in 11.04
+ funny thing, it worked in beta1, beta2 broke it, now it's semi broken
+ it works fine on my desktop tower, but my laptop is a big no go. funny...alsmot
+ oh well, if there's no fix for it yet, i'll just have to make do with classic for now
+ another problem on my dekstop though, i've got no volume slider no more, it says just waiting for sound system. but i have sound working. ideas?
+ i can't adjust the volume in my brand spanking new natty system. volume indicator says no label, and clicking prefs gives a waiting for sound system to respond message
+ i have sound working, and alsamixer displays al channels. what's up with my indicator then?
+ clean install = :/

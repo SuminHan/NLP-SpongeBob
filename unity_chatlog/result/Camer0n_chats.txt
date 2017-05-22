@@ -1,0 +1,13 @@
+ hello
+ Anyone know how I tell which is my wireless card make/model?
+ using the terminal possibly
+ it's a laptop
+ not sure how easy it would be
+ i googled the model, hang on
+ it says here: http://www.uktsupport.co.uk/advent/laptop/5431.htm
+ Realtek RTL8102E is thenetwork card
+ but then it says Realtek RTL8187SE Wireless LAN ** too
+ wats the first one?
+ *what
+ meaning? :/
+ ok thanks :)

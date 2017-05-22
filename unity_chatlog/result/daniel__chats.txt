@@ -1,0 +1,56 @@
+ would some one be bale to help me find out why my wifi wont work the 11.04 update after it was already working in 10.10
+ ActionParsnip, http://paste.ubuntu.com/601015/
+ ActionParsnip, http://paste.ubuntu.com/601024/
+ woul anyone know why my internet isnt working it worked before i updated and it isnt evan showing the led wifi light on evan if i toggle fn + F2 i looked at available drivers and it says the wirless one is being used idk how that it since i dont have wifi
+ woul anyone know why my internet isnt working it worked before i updated and it isnt evan showing the led wifi light on evan if i toggle fn + F2 i looked at available drivers and it says the wirless one is being used idk how that it since i dont have wifi
+ hello i cannot get my wifi to work for the life of me i push fn +f2 wont turn it on i hceck avaiable drivers shows that my wifi card is in use (evan htough i have no wifi) and i went to and made sure i had all the broadcom packages installed but still no luck in getting it to work evan though it worked before i updated
+ hello i cannot get my wifi to work for the life of me i push fn +f2 wont turn it on i hceck avaiable drivers shows that my wifi card is in use (evan htough i have no wifi) and i went to and made sure i had all the broadcom packages installed but still no luck in getting it to work evan though it worked before i updated
+ hello i cannot get my wifi to work for the life of me i push fn +f2 wont turn it on i hceck avaiable drivers shows that my wifi card is in use (evan htough i have no wifi) and i went to and made sure i had all the broadcom packages installed but still no luck in getting it to work evan though it worked before i updated
+ hello i cannot get my wifi to work for the life of me i push fn +f2 wont turn it on i hceck avaiable drivers shows that my wifi card is in use (evan htough i have no wifi) and i went to and made sure i had all the broadcom packages installed but still no luck in getting it to work evan though it worked before i updated
+ hello i cannot get my wifi to work for the life of me i push fn +f2 wont turn it on i hceck avaiable drivers shows that my wifi card is in use (evan htough i have no wifi) and i went to and made sure i had all the broadcom packages installed but still no luck in getting it to work evan though it worked before i updated
+ how do i get my internet to work in this so called update that should go foreward and improve ubuntu and no go backwards and make the most vital thing on modern computers not work at all
+ how do i get my internet to work in this so called update that should go foreward and improve ubuntu and no go backwards and make the most vital thing on modern computers not work at all
+ is there a way to go back to 10.10 without losing everything i have on my computer without dealing with 100 backup discs?
+ xangua, do u know hat i shoulddo then im in a pickle 10.10 i had internet 11.04 no internet the wifi indicater led on my keybourd wont glow and the networking tool doesnt evan notice it idk what to do
+ all i know was i wish there was a warning or soemthing teling me my internet wont work after i do a so called update update
+ does anyone know how to fix internet or know a site i shoul go to to get it working i dont mind doing it if i had a wlak through or something just osmeone please help point me in the right direction i realy need some internet
+ does anyone know how to fix internet or know a site i shoul go to to get it working i dont mind doing it if i had a wlak through or something just someone please help point me in the right direction i realy need some internet
+ someone speaks portuguese?
+ heyhow would i make byobu terminal my default terminal so when i push ctrl alt t it will open that instead of the regular one
+ celthunder, ?
+ celthunder, im running 11.04 out of the box i think untiy?
+ celthunder, unity or gnome 3 idk for sure what ever ships with 11.04
+ celthunder, oh ok
+ would anyone know how to get wireless working i dont know whats wrong with it it worked before i updated
+ celthunder, http://paste.ubuntu.com/602121/
+ celthunder, no its my phone tether that i am usign so i can talk on here should i turn it off for asec ? then try it agian ?
+ celthunder, http://paste.ubuntu.com/602122/
+ celthunder, yeh it says there in use i went to avaible drivers and it says it is in use
+ celthunder, my wifi worked before i updated and it just doesnt now is there someone i should type into the terminal to tell it to lol ?
+ tmp_, should i type that in the termianl?
+ tmp__, ok its done downloading and im at additional drivers now what
+ tmp__, yeh its been activated and been in use the networking tool just wont take notice of it
+ Zeeofu, no dont do it unless u want a head ache wifi dont work for me i get random reboots now and unity isnt better then gnome or w.e
+ tmp__, u have any ideas why it wont notice its there?
+ tmp__, it says lo eth0 and usb0 all followed by no wireless extension
+ daniel@Shiela:~$ rfkill list
+ 0: dell-wifi: Wireless LAN
+ 	Soft blocked: no
+ 	Hard blocked: yes
+ tmp__, whats that mean ?
+ tmp__, ok they both say yes now
+ tmp__, i mean no
+ 0: dell-wifi: Wireless LAN
+ 	Soft blocked: no
+ 	Hard blocked: no
+ tmp__, still same exact thing
+ Zeeofu, well unity is ok and awesome if u like
+ tmp__, how do i do that ?
+ tmp__, hmm this ?This package contains Broadcom 802.11 Linux STA wireless driverfor use with Broadcom's BCM4311-, BCM4312-, BCM4313-, BCM4321-,BCM4322-, BCM43224-, and BCM43225-, BCM43227- and BCM43228-basedhardware.
+ tmp__, sorry idk were to find that ? but i think its 11
+ tmp__, http://paste.ubuntu.com/602122/ i think this should say right ?
+ tmp__, yes i belive so
+ tmp__, yes i use a notebook
+ tmp__, ok i did everything u said and it says its activated
+ tmp__, ubuntu 11.04 natty
+ tmp__, i hate natty :(

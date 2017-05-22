@@ -1,0 +1,7 @@
+ Hey, I'm upgrading from maverick to natty and running into a problem with the Python upgrade that turned into a blocker for finishing it. It's complaining that: "Setting up python2.7-minimal (2.7.1-5ubuntu2) ...
+ Linking and byte-compiling packages for runtime python2.7...
+ E: pycompile:240: Requested versions are not installed"
+ There's some bugs with this issue, but they are several months old and things have been changed afterwards
+ Anyone an idea what the best way to resolve this would be?
+ Does anyone know what to do about Python 2.7 failing to install with: E: pycompile:240: Requested versions are not installed?
+ Right, this has a solution for python 2.7, but it does involve editing some 'random' file: http://ubuntuforums.org/archive/index.php/t-1649948.html

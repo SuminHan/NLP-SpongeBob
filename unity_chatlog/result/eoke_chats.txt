@@ -1,0 +1,5 @@
+ Fresh install of Ubuntu 11.04 AMD64 on a disk with Windows 7 Pro.  Installation involving encryption and lvm went smoothly and grub installed.  After rebooting I found the first option in grub doesn't boot the machine just a flashing cursor.  The second option I think it's labeled safe or recovery boots ok.  I've tried update grub and also tried reinstalling grub.  Any ideas?
+ nutsfornatty, yes but it's so tempting :D
+ maco, nerdshell: I've had similar issues with kindles refusing to connect to channel 1 and 14.
+ If you use crypto and lvm you may not be able to see the password dialog for the encrypted volume upon boot (just see a flashing cursor nothing else after grub).  If you boot into safe mode and install the graphics drivers it seems to fix the issue.  In case anyone else is having the same issue.
+ pzn, You should have a ubuntu classic option on the logon screen under session

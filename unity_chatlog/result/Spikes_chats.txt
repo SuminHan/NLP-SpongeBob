@@ -1,0 +1,1 @@
+ guys, what could be a problem: Sometimes my ubuntu 10.10 server loses network connection, but after 1-3 minutes it's again online

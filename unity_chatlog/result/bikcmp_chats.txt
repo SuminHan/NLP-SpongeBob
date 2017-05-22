@@ -1,0 +1,9 @@
+ are ubuntu's servers going unusually slow today?
+ usr13: ideas why? my mirror seemed to crawl
+ Pici: release day?
+ oh.
+ figures :P
+ Hi all, i'm following https://help.ubuntu.com/community/PostfixBasicSetupHowto and getting a quite odd error: 421 4.3.0 collect: Cannot write ./dfp43LDkTX006283 (bfcommit, uid=0, gid=127): No such file or directory
+ (when I telnet to localhost/25)
+ Kartagis: 21:19:15  < Kartagis> bikcmp: uid 0 and gid 127 can't write to that directory
+ Kartagis: how can I fix that?

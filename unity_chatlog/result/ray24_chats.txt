@@ -1,0 +1,31 @@
+ hi, how do you auto-authenticate wireless keyring?
+ Hi, how do you give yourself permission to delete/create in a secondary hard drive?
+ I'm unable to delete/modify content in my secondary hard drive, I believe it has something to do with mount permission
+ If someone can help me access my hard drive, it would be great
+ well, my secondary hard drive won't allow me access to delete or create files on it
+ When I try to unmount it, it saids "Failed to eject media; one or more volumes on the media are busy."
+ ubunub, my abilities?
+ ubunub, it doesn't make sense that I'd get that prompt, since I'm not running any application from that hd
+ The goal here isn't unmounting, I want permission to delete my files, I believe I made an error yesterday when I deleted bundles of files from it
+ Cmon where's ubunub I have lots of faith in you
+ YYeah ubuntulo1
+ I mean ubunub
+ ubunub and I'm pretty sure that it's not an hd issue because I could delete files when plugged into another computer.
+ ubunub, thanks dude.
+ DaGeek247, I thought so too, however, it did not work
+ DaGeek247, would you recommend that I do a reformat to evade this problem?
+ DaGeek247, Thanks for taking your time responding, I will take the necessary action.
+ I just reformatted my ubuntu and  still cannot access files on my secondary hd
+ Can you download without entering password?
+ If an external hd was originally formated on a windows, it should be able to on linux?
+ For some reason, linux isn't letting me format my external drive
+ "error creating filesystem"
+ geus, I right click on the hd to format, just straight off linux
+ wait, I just realized I had "ext" as type of format
+ Nope, still didn't work. I changed it to NTSF type
+ it's mounted
+ I can access the files on it,but I can't delete or create new files on it, which is why I'm formating
+ geus, it seems that I Don't have permission to access/delete my files on external
+ geus, its formating now, I'm not sure if it was because I downloaded gparted as I did not use it.
+ geus you're great, thanks.
+ geus, it works now :) thanks again dude!!

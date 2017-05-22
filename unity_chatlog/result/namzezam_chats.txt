@@ -1,0 +1,22 @@
+ Unpacking replacement linux-headers-2.6.35-28-generic ...
+ dpkg: ../../src/archives.c:809: tarobject: Assertion `r == stab.st_size' failed.
+ What shall i do? This is more than 2 weeks now, that i can not upgrade. I did post the bug. Can not remove, nor reinstall this linux header . This is too bad and it is unsolved too long time. What shall i do?
+ why no one replay to this bug on linux-headers-2.6.35-28-generic ?
+ why no  replay  on linux-headers-2.6.35-28-generic  BUG?
+ why no  replay  on linux-headers-2.6.35-28-generic  BUG?
+ yes, it some times i try upgrade and fail on linux-headers-2.6.35-28-generic  , i do report it here and no one even look at it, why?
+ where and how
+ http://paste.ubuntu.com/598867/
+ dpkg: error processing linux-headers-2.6.35-28-generic (--remove):
+  Package is in a very bad inconsistent state - you should
+  reinstall it before attempting a removal. more see
+ http://paste.ubuntu.com/598867/  , also can not report it by ubuntu-bug linux it claims non existing package. This a long lasting bug and it not allowing upgrading.
+ http://paste.ubuntu.com/602392/ i cannot even report it, cannot remove it cannot install it  , the pain is  linux-headers-2.6.35-28-generic        !!!! this is 2 weeks pain!!!! why it should be so? what could i do now for to use apt-get upgrade?
+ linux-headers-2.6.35-28-generic  !!!!!!!!  It it more than 2 weeks a big bug on the kernal!! Who could do here something, and  if not here where? see http://paste.ubuntu.com/598867/ http://paste.ubuntu.com/602392/  https://tor-proxy.net/proxy/express/browse.php?u=https%3A%2F%2Fanswers.launchpad.net%2Fubuntu%2F%2Bsource%2Fupdate-manager%2F%2Bquestion%2F149709&b=26
+ i did
+ look in the links for the results
+ i even can not report it
+ what is this mean?  dpkg: ../../src/archives.c:809: tarobject: Assertion `r == stab.st_size' failed.
+ after
+ Unpacking replacement linux-headers-2.6.35-28-generic ...
+ BlouBlou: it this to me?

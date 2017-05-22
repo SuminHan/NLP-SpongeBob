@@ -1,0 +1,15 @@
+ hi
+ do you know about compatibility for installating ubuntu on a macbook pro ?
+ do you know if the drivers support all the hardware ?
+ hi
+ anybody is using ubuntu on macos ?
+ I just want to make sure all the drivers are working fine
+ Damianz, my mistake I meant on macbookpro
+ not mac os
+ DamienCassou, did everything worked fine ?
+ bin_bash, ModelIdentifier: MacBookPro 5,4
+ I just can't get used to mac os
+ I have been on linux for over a decade
+ miss my gnome too much
+ ok great I will try to install it then I just don't want to waste time if I have to switch back later
+ I will just resize the original partition first

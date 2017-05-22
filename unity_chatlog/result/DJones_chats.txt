@@ -1,0 +1,32 @@
+ Yes
+ Rehan: No set time, just anytime in the next 15 hours
+ Rehan: Its because they're limited to updates by the manufacturer and can't be modified by the community
+ raju: You'll probably find that most linux magazines will have cover cd's with 11.04 on fairly soon
+ thegoodcushion: Most likely, with it being a new release, the servers will be under heavy use
+ DeathKnight: It has been
+ Gawwad: You have to upgrade to 10.10 before you can upgrade to 11.04
+ Gawwad: You can from LTS to LTS, but 11.04 is a normal release and not an LTS
+ Gawwad: 6.06, 8.04, 10.04 were LTS, about every 2 years between LTS versions
+ !info dyndns | asmogator
+ vibhav: There isn't a +1 version yet, so the channel is closed
+ Xgates: I moved over to 64 bit about a month ago, I haven't noticed any issues with software not working
+ tyler00: Not quite what you've asked about, but have you looked into the prey project http://preyproject.com/
+ nicko: Do you just have one operating system on the machine or dual boot? If its a single o/s, it will normally just boot straight into ubuntu
+ jwtiyar: As far as I know, you need the alternative cd/dvd to use a cd/dvd upgrade option
+ jwtiyar: https://help.ubuntu.com/community/NattyUpgrades About half way down it has details of upgrading using the alternate cd/dvd
+ jwtiyar: Somebody else may be able to advise you on whether you can upgrade using the live cd/dvd, but I don't know if its possible
+ pranav: http://packages.ubuntu.com/search?keywords=thesaurus&searchon=names&suite=natty&section=all There's various thesaurus & descriptions listed here, hopefully one of those will help you
+ thegoodcushion: It might be showing 3.5gb if you've got shared graphics memory, 512Mb may be reserved for the graphics card which reduces the 4gb originally available
+ new_kid: #ubuntu-offtopic or #defocus for general chat
+ !classic | nicolaslara
+ nicolaslara: ok, I thought you just wanted to get back to the previous gnome desktop instead of unity, I don't use kubuntu so can't help with that
+ Dig: Gnome desktop is installed alongside Unity, you can select it at the login screen
+ !classic > Dig
+ hyu: Please stopp spamming, its offtopic and not appropriate for this support channel
+ slacker_nl: There isn't an ubuntu +1 in development yet, so the channel is closed
+ slacker_nl: When new releases are made, they make the channel invite only so that people use #ubuntu for support to avoid confusion, once 11.10 starts being developed and available for download its normally opened up again
+ novaria_fajar: You might be better asking that in #ubuntu-offtopic as its not strictly a support question, the offtopic channel is probably better for discussions like that
+ !ru | amd
+ !fr | sabri_icone
+ donkeyinspace: Is the cd a desktop cd, or the minimal install cd? The minimal cd is a download of of only about 100Mb maybe that could be the cause
+ donkeyinspace: ok, it was just a thought

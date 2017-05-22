@@ -1,0 +1,6 @@
+ Can I ask a question that you all must have heard a million times already?
+ Has anyone here managed to get Ubuntu to network with windows 7?
+ Solo: I installed it, but I'm stuck in the PW authentication loop
+ solofight: my W7 network shows up on my Ubuntu 10.10 netbook, but it won't let me log in. I'm sure you've heard of this prob before
+ Anyone here, please...is there a solution to the problem of loging into a Windows 7 network?
+ ubottu: ok thanks

@@ -1,0 +1,19 @@
+ i'm having problems booting into 11.04 after a successful install on a lenovo w500. I just get a blank screen with a blinking cursor in the upper left part of the screen
+ anyone else have problems with a blank screen with a blinking cursor when I would expect ubuntu to start to boot up
+ bullgard4: no error messages. after rebooting from intiail install, screen goes blank and there is a blinking cursor in the top left
+ bullgard4: left it sitting there for 10 minutes with no change
+ bullgard4: nope. tried that
+ bullgard4: it doesnt seem like grub is even loading. i do the standard install from cd to install 11.04, goes well and upon rebooting i just get a blank screen
+ bullgard4: it doesnt seem to ever start loading ubuntu at all
+ bullgard4: i am on the live cd now
+ hmm
+ bullgard4: /dev/sda1 is full drive3 size, ext4
+ bullgard4: /dev/sda4 is extended, /dev/sda5 is swap
+ bullgard4: /dev/sda4 is 4gb
+ bullgard4: on /dev/sda1?
+ bullgard4: nothing in dmesg and no syslog file in there
+ bullgard4: i've reinstalled it on that partition twice already with same results
+ bullgard4: could grub not be installed correctly?
+ bullgard4: i've installed 8.04 on this laptop before so I know the hardware is suitable
+ bullgard4: i'll try to reinstall again using gparted instead of letting it autoconfigure
+ bullgard4: i'll come back if it doesnt work. thank you for your help

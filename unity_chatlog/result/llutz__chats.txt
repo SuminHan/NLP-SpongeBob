@@ -1,0 +1,25 @@
+ tuckaway: just normal things to do: don't install stuff you don't need, don't run stuff you needn't, check running services if they are configured as restrictive as possible and "use /dev/brain"
+ proq: common mistake :(
+ !details | Popopo
+ pdg1: "sudo blkid" gives you the filesystem-type, man mount / man fstab should help to get a working fstab-line
+ josephoenix: usually no need for a boot-manager on a vps
+ phoque_uni: learn to use the session-menu from gdm
+ herc_: when its done
+ herc_: yes, "today" still lasts a few hours
+ ManDay: same thing twice a year
+ GReeNtooTH: take it to #1338-hackers please, its offtopic here
+ guest345345: that won't change the version unless you changed your sources.list(s)
+ !backtrack | lovee__To_hAXK
+ lovee__To_hAXK: read what ubottu told you and respect the rules please
+ curt: meerkat reads/writes ext2/3/4 fine. just mount your jaunty-fs and copy
+ couldn't someone fix that ubottu factoid please, shutdown -F won't work since upstart came into ubuntu
+ tyreza: sudo blkid
+ tyreza: fdisk prints partition-ids not filesystems
+ tyreza: df -T      prints fs too
+ FordPrefect: mkdir -p ~/.local/share/gedit/plugins
+ unreal_: apt-cache depends wine
+ brandonc503: man sshd_config (ChrootDirectory)
+ brandonc503: you'll need a chroot
+ NAAAAWW: netbook was "optimized" for low resolution displays
+ !info iconv
+ susundberg: use "iconv" (from libc-bin package)

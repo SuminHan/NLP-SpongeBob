@@ -1,0 +1,22 @@
+ i had given upgrade command earlier and went for work
+ how do I know if Natty is installed ?
+ !release
+ how do I know my  current ubuntu version
+ it says maverick
+ how do I upgrade to natty
+ I think clean issue is also fine coz_
+ but I need to use USB then right
+ is natty significantly better than maverick
+ coz_ yeah
+ right
+ I did USB install initially
+ Yeah I was against Unity interface btw :)
+ Maybe I can also stick with 10.10 for some time and switch too
+ is my netbook 64 bit ?
+ is Wing available in Ubuntu ? Python IDE
+ Python IDE Wing is what I am looking for ......can I install via apt
+ It has a personal edition too \
+ while chosing partitions
+ can I make sure windows partitions are untouched?
+ how is natty ? what is the review
+ can I install ubuntu-desktop edition to my netbook

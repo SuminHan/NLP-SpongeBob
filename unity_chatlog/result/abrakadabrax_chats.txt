@@ -1,0 +1,3 @@
+ hi all
+ apt-proxy Q: trying to add a backend for ppa.launchpad.net freenx-team. keep getting a 503 error when apt-get update on client. is there any howto on adding custom backends to apt-proxy?
+ anybody willing to help with mentioned apt-proxy issue?

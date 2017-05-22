@@ -1,0 +1,7 @@
+ hey everyone! I have a microphone issue.
+ anyone have time to help me stop my mic output.  Its driving me crazy!
+ yes, even muting does not solve it
+ i will attempt... just install alsamixer?
+ I am installing it now.  Will it automagically be configured, or do I have to switch to it?
+ in the software center it was called "gnome alsa mixer"
+ alsa fixed it! thanks!

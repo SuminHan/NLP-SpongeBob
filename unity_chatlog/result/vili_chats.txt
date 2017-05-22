@@ -1,0 +1,12 @@
+ Hello, I have a problem installing 11.04
+ I put Ubuntu on an USB drive with unbetbootin
+ And when i try to load it up I get a really messed up screen
+ fuzzy pixels and white squares everywhere
+ Not sure what to do
+ Anyone have any ideas or need more info?
+ Is there any way to boot the Ubuntu installer in a low graphics mode?
+ Thanks
+ It's just something I'm used to using
+ Is there a better alternative for USB installs?
+ shcherbak, Ah, well my laptop isn't running Ubuntu
+ shcherbak, Alright I'll try that then, thanks

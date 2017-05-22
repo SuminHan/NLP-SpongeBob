@@ -1,0 +1,10 @@
+ hi guys, im new to ubuntu, and I need some help please
+ I don't want to be asked to enter my keyring password everytime to enable the wireless, but the option is faded
+ like when I log back in, the "automatically unlock..." option is faded and cant be set
+ anyone know how to fix/enable this?
+ ohsix, yes ubuntu logs me in automatically everytime. so theres no way to have both then?
+ ohsix, thank you, I found the option, let me test by rebooting
+ ohsic, it worked!
+ hey are any of you guys good with printers?
+ Im having a headache setting mine up
+ How can I install my Lexmark x1150 printer in Ubuntu 11?

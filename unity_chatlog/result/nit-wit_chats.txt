@@ -1,0 +1,175 @@
+ doobien, are you backed up
+ doobien, do you think you should be? what if you have a problem that is not fixable?
+ doobien, clone your setup before doing anything if you can. http://clonezilla.org/  cover your booty
+ what
+ elsoja, do you have a recovery or install disc
+ elsoja, you do now boot it to the command and run bootrec.exe /fixmbr  http://neosmart.net/blog/2008/windows-vista-recovery-disc-download/
+ elsoja, you can use gparted but the W7 disk manager is suggested
+ elsoja, boot a live Ubuntu cd and follow the next pastebin to install lilo it will boot XP.
+ elsoja, http://pastebin.com/E48YvGxw
+ elsoja, read the paste from a live ubuntu cd open softwrae sorces, you may have to right click the menu to tick it on open the software sources 1st tab 2nd box universe click active let it reload and follow the commands..
+ lumbert, how are they loaded is it ISO's
+ lumbert, pendrive has a linux multiloader
+ Nate_, upgarde or install
+ greylurk, how many do you have?
+ greylurk, the limit is 3 primary and 1 ext
+ greylurk, always has been
+ Nate_, was this a fresh install or a upgrade?
+ Nate_, are getting a grub prompt ...grub> or a grub menu then black
+ *you
+ Nate_, what is the graphics card
+ Nate_, can you login at the cli, do you ever see a grub menu?
+ Nate_,  you have upgraded and you don't know what a grub menu looks like?
+ Nate_, can you login at the cli and run starx
+ Nate_, startx
+ complain somewhere else please
+ middle, can you get in with low graphics mode
+ dncrash, did you modify compiz
+ engammalsko, what is happening?
+ engammalsko, could you extrapolate what froze means when how and where.
+ engammalsko, so your in the process of upgrading and the screen has greyed out is the copputer froze altigether
+ engammalsko, have hyou downloaded the changes and it is in the install portion, or the download?
+ Acriax, try both and let us klnow.:)
+ *know
+ perlsyntax, have you looked at the additional drivers in the menu?
+ perlsyntax, says additional drivers in mine
+ perlsyntax, yeah yours sounded familiar.:)
+ perlsyntax, what OS are you running?
+ perlsyntax, did you find additional drivers?
+ perlsyntax, additional drivers would tell you if one is found to be available for install
+ perlsyntax, yes and it starts with you actually reading what I have asked and answering it.:)
+ Belinrahs, link
+ perlsyntax, well read it again it is a question?
+ perlsyntax, I dont have natty open right now but in the panel is a squarq with a + sign click it and search
+ Belinrahs, I looked I can't really tell what might be causing a freeze up sorry.
+ Kevin147, http://pastebin.com/y1gnRdQm let us know if you get in
+ Kevin147, #1 is the header the decription # is the start of the commands
+ Kevin147, start at #2
+ Kevin147, you can do it when you hit tab it is to complete so if you hit the tab where stated and nothing comes up start again, you don't have to reboot to try again.
+ Kevin147, the first line #2 has to be with the correct partition. Also the spaces a critical as well.;)
+ *are
+ truepurple, tried ir did upgrade
+ *or
+ truepurple, to be honest the description is confusing. The update upgrade should happen with not turning the computer off. Is the a failed upgrade, so you thought your computer was okay then restarted to the situation now?
+ truepurple, yes if you had a good upgrade. the way you have described it is confusingto me at least.:)
+ truepurple, cool
+ Kevin147, X=partitionumber
+ Kevin147, the partition if looked at with gparted would look something like the sda1  the 1 is the X boot a live cd and open gparted and write down the partition. This can be found from thegrub> but I don't know the command
+ Kevin147, are you in natty
+ Kevin147, If your in Natty run sudo grub-install /dev/sda then sudo update grub make sure the hd is sda
+ Kevin147, yeah if your getting them from the first tab
+ Kevin147, so after the kernel line 3 correctly spaced root=/dev/sda1
+ Kevin147, is Ubuntu the only OS?
+ Kevin147, did you type the kernel or use the tab
+ Kevin147, okay so use the 1 in place of both X's in the commands then start from the beginning of the command set and use the tab complete as notated
+ Kevin147, here ios a reload of grub2 from a live cd as well.
+ Kevin147, https://help.ubuntu.com/community/Grub2#Reinstalling%20GRUB%202
+ truepurple, thanks I will look
+ Kevin147, do you know the graphic card
+ Kevin147, yeah just boot a live cd and follow that grub link that should get you in, otherwise there is a bootscript that is quite helpful that can be run from a lve cd then put in a pastebin for us to look at.
+ Kevin147, bootscript http://bootinfoscript.sourceforge.net/
+ Kevin147, cool the tux angles have answered.;)
+ trucMuche, I'm typing
+ truepurple, I'm typing sorry trucMuche
+ truepurple, good luck I hope hyou get to the bottom of it I see to many ouliers to really tell what is up
+ plustax, if you have partition space  no
+ plustax, what is installed now
+ plustax, do you know the partition amount limitations on a single HD
+ Kevin147, I thought it was my walnut sized brain.;)
+ Artarian, roll back is not a go
+ Artarian, do whst?
+ Artarian, you have to do a fresh install
+ Artarian, that is why you should clone the setup before you mw=ess with upgrading
+ ny51bern, that is the menu from the recovery
+ ny51bern, I was trying ti find what the problem is can you tell me again
+ ny51bern, have you tried alow graphics boot in
+ ny51bern, have you installed graphics drivers in the past?
+ ny51bern, at the grub menu hit e then use the keyboard arrows to navigate ti the splash at the end of the kernel line and replace it with nomodeset the crtlx to boot to a command line boot in then hit startx
+ haroon, I think you have to assign the keys but alt f2 is a system setup
+ ny51bern, the word splash
+ ny51bern, that is the ticket.:)
+ haroon, I haven't spent anytime doing key assignments I know no more then you.
+ ny51bern, ah the change your doing is not permanent a per session
+ ny51bern, crtl-x is the command to boot from there to a command to login then run startx to start the desktop
+ ny51bern, so crtl-x boots from your edit to a command line. there you boot in, the startx starts the desktop from there.
+ ny51bern, you just type it then het enter
+ ny51bern, did you login
+ ny51bern, okay it is hit the crtl key hold it down and tap the x
+ ny51bern, when you do the boot this way all you should see is text until the command line did you remove the word splash insert nomodeset leaving the space in front and after then hold down the crtl key then tap x
+ ny51bern, it sounded to me that you tried to hit crtlx all at the same time they are run the way I described
+ ny51bern, hold down crtl-alt-prtsc the slosly typr reisub
+ ny51bern, that is a soft reboot if it does not work just power off it is linux that is not a big deal.
+ ny51bern, no hold down the 3 keys the reisub about a sec between each one and it may do a soft reboot
+ ny51bern, is this a fresh install or a upgrade and are there any other OS's on the computer
+ yeah
+ ny51bern, power button is fine
+ ny51bern, are you a ubuntu forums member
+ ny51bern, I know the IRC seems more efficient but at times it isn't always. I would a join there and post at least to have a few irons in the fire beyond this I am not sure where to go.
+ no prblem
+ linuasus6, can you paste bin the output from sudo fdisk -lu
+ linuasus6, which partition is the install you want to have the boot
+ linuasus6, cool here is a link to a grub reload from a live cd it is grub2.https://help.ubuntu.com/community/Grub2#Reinstalling%20GRUB%202
+ linuasus6, is the sdc a external
+ linuasus6, cool jus load it as the two commands show and the second command to the sdc mbr does this make sense
+ linuasus6, use the same cd of the insta and  In the terminal sudo mount /dev/sdc5 /mnt  then  sudo grub-install --root-directory=/mnt /dev/sdc
+ linuasus6, *install
+ linuasus6, copy and paste bro
+ linuasus6, make sure the sdc drive is the first read in the bios, unless it is a external and you know the key propmt boot
+ linuasus6, I gave two commands look closer
+ linuasus6, first command sudo mount /dev/sdc5 /mnt
+ linuasus6, then run the next one you ran reboot to the OS and run sudo update-grub
+ linuasus6, http://pastebin.com/69bWgwsW
+ linuasus6, you ran the commands backwards just reboot and follow my last pastebin if this does not work post the bootscript in a pastebin.http://bootinfoscript.sourceforge.net/
+ linuasus6, Actualy my pastbin is inncorrect the x in the second command should be a c I wil do it again hold on
+ linuasus6, sorry about that, http://pastebin.com/h3ufspVU
+ greenlantern, what desktop do you want
+ linuasus6, I have never seen that error open gparted and look at the partitions
+ linuasus6, post it if you can treally the bootscript is what I need
+ linuasus6, if it is a external yeah reboot I have to be off for about 5-10 min
+ zoidfarb, take a look at this and the playing round section in the lower left. http://www.psychocats.net/ubuntu/purexfce
+ *around
+ dtulchin, what happend when hyou boot can you get a command line
+ linuasus6, cool
+ linuasus6, run this script and pastebin it.
+ linuasus6, darn mouse http://bootinfoscript.sourceforge.net/
+ dtulchin, how do you know this you didn't answer my actual question
+ dtulchin, cool can you actually boot in?
+ dtulchin, so are you sure it actually started to load the upgrade and didn't fail at the download
+ linuasus6, the bootscript is run to generate a text file to pastebin
+ dtulchin, cool I was just going to give you a command to inlock t and finish hopefully.;)
+ *unlock
+ linuasus6, yeah download the script on the live cd drag it to the desktop and run this command.sudo bash ~/Desktop/boot_info_script*.sh
+ linuasus6, opps this command sudo bash ~/Desktop/boot_info_script*.sh
+ dtulchin, I thought it was fixed
+ dtulchin, there is no real repair for a whole system, you may need to just back it up or use the UBuntu Forums to be honest I wont really touch it to many outlires
+ linuasus6, cool hold on
+ dtulchin, reload or wait for help that may not appear the IRC is sort of specialized for specifics, the forums may be motr helpful
+ linuasus6, I don't see the OS in sdc5 but the grub menu is there I am not sure what is going on, you may want to opost the script at the Ubuntu forums if you get no answers here.
+ linuasus6, why are you using a boot partition
+ linuasus6, I'm not familiar with boot partitions, but in the partition has to be the grub files normally in the OS, basically.
+ linuasus6, no but it is hard to tell what is actually there a lot is missing, you will really be best served at the Ubuntu forums.
+ linuasus6, take a lok at my set up you will see what  mean. http://pastebin.com/XaJeWzgr
+ linuasus6, you mean the sda6 burg
+ linuasus6, not sure I understand sda5 is xubuntu natty sda9 in oneiric
+ linuasus6, brb
+ linuasus6, I have a arch install that has grub legacy but chainloadda with grub2 automatically.
+ pamela, startup application conky in the command line
+ pamela, you can open startup application hit add name it put conky in the command and your done.
+ yerac, install htop for that
+ aLeSD, ?
+ aLeSD, not sure what you have done but here is the installation wiki.http://wiki.awn-project.org/Installation
+ aLeSD, I have never used awn sorry,
+ conner, have you tried xrandr to see if you can get what you want and then edit the file
+ conner, are you chaffed
+ ;)
+ ttist25, login window bottom bar after confirming name before pass word session
+ nemo, refreshing; transparency thanks.;)
+ chaospsyX, ths is a older gconf method. http://ubuntuguide.net/assign-custom-keyboard-shortcuts-on-ubuntu
+ mufasis, raid is not a common set up in linux
+ mufasis, you might find help it just may take a bit.;)
+ chille, conky
+ a smattering of applause for conky
+ conky uses the lowest system resources
+ crowsnest, how are you formatting
+ crowsnest, I would use gparted it is easier, at least for me
+ chille, there are scripts all over the web to have it looking pretty cool

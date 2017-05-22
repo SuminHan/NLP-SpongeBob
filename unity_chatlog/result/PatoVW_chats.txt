@@ -1,0 +1,2 @@
+ hi, im trying to update from 10.10 to 11.04 booting from live usb, but it doesnt show the update option
+ ok, but is there a way to use the download cd to update or I just have to do it from internet

@@ -1,0 +1,9 @@
+ Hey everyone... i installed 11.04 and now i can no longer connect to my wifi.. doesnt even show up, other AP's show up.. tested it from my 10.10 box, works fine... any ideas?
+ broadcom.. uses the STA driver soreau
+ sgaap: dns cache has nothing to do with a ssid not showing hehe
+ soreau: that is added to that site for 11.04?
+ soreau: ok cuz this is a ubuntu 11.04 issue alone.. 10.10 and less works fine
+ but brb lemme try this
+ soreau: yea, and when i scan i get 10+ SSID's but not my own
+ soreau: btw i cant really use that site, i cant get online, eth doesnt work either
+ i feel like smacking a fist trugh my monitor... :(

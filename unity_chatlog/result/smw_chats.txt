@@ -1,0 +1,113 @@
+ It is 1:54PM in china
+ theGreatDane, troll. (anything not bashing windows is trolling)
+ aroman, if you ever figure it out let me know. I want to kill HP so badly
+ aroman, I have gotten used to it overtime...
+ aroman, apparently "no one uses the function keys"
+ aroman, agreed
+ BarbaraBush, when it happens, it happens
+ I came up with a good idea to beet the fact that all the apt mirrors will be overloaded. I will setup an ec2 instance with apt-cacher and download from the ubuntu ec2 mirror. What are the chances the ec2 mirror will be overloaded?
+ beat*
+ AustinWolfclaw, yeah, but you still can't install other packages
+ AustinWolfclaw, but do you plan to install anything?
+ AustinWolfclaw, the mirrors slow to a crawl
+ aroman, what you really need is something that makes the fn key always pressed
+ aroman, when you press the fn key, it should then be un-fn
+ aroman, yeah
+ aroman, I am thinking of how caps lock works
+ AustinWolfclaw, correct
+ !ask | Spaz_Dynamic
+ any AustinWolfclaw can you see why torrent does not help? What they need is to have apt use torrents!
+ Spaz_Dynamic, ok, not very funny though... I was kind of excited
+ ayecee, but it is not in general use...
+ Spaz_Dynamic, ok
+ ouyes, this can't be determined
+ aroman, if you do it, let me know!
+ ouyes, one googol (10^100)
+ Spaz_Dynamic, I would say not. If I really wanted to put work into it, I would get the alternative install cds and combine them
+ Spaz_Dynamic, I know very little about ubuntu's usb thing. Does it run a iso in loopback?
+ Spaz_Dynamic, for combining them, you get the alternative install cds, you look at the "pool" directory, and you combine them (they have the same file structure, some files are the same)
+ Spaz_Dynamic, you then need to put all the preseed files in (with different names) and make menu entries
+ Spaz_Dynamic, It is not easy, however, you will learn alot about the debian installer and automated installs ;-)
+ forceflow, on the main page there is a link to the beta
+ buhman1, it is not the 28th in California!
+ forceflow, buhman1, "Ubuntu 11.04 release is scheduled somewhere in the time period when it's April 28th somewhere in the world, not at a specific time"
+ dani_,  "Ubuntu 11.04 release is scheduled somewhere in the time period when it's April 28th somewhere in the world, not at a specific time"
+ Spaz_Dynamic, we are both correct
+ Spaz_Dynamic, in 24hours and 40minutes it will not be April 28th anywhere
+ Spaz_Dynamic, not in 24hours and 40 minutes
+ Spaz_Dynamic, maybe, I don't know hawaii, I thought they were PST
+ Spaz_Dynamic, I am east coast too
+ Spaz_Dynamic, because lubuntu is lxde which is hard to use?
+ Spaz_Dynamic, Well, it is too simple
+ Spaz_Dynamic, not specifically hard
+ Spaz_Dynamic, I am not saying that makes it bad. It makes it the opposite of ubuntu
+ tuckaway, is it just a simple desktop install? There is little to secure.
+ tuckaway, what do you mean "secure". What types of attacks are you afraid of?
+ tuckaway, what would you do to "secure" windows? What types of attacks do you fear?
+ tuckaway, those are not run by default
+ tuckaway, I don't even think those are installed by default
+ tuckaway, if you were making a kiosk or something where you are afraid of people with physical access, there is alot to do.
+ tuckaway, yes, probably. For public computers, it is way to easy to gain root if you have physical access.
+ tuckaway, so a school, internet kiosk, etc, would need some work.
+ lwizardl, "Ubuntu 11.04 release is scheduled somewhere in the time period when it's April 28th somewhere in the world, not at a specific time"
+ rww, can I have that as a bot cmd?
+ that would be sweet :-)
+ tsimpson, yep. Still you have got to admit that would be a nice factoid :-P
+ tsimpson, fine, I will keep it in my clipboard
+ vibhav, it is under the server configuration
+ vibhav, server -> network list -> choose a server -> edit
+ vibhav, it is the "connect command"
+ DirtyDawg, then they can stop splitting their attention and just help in #ubuntu
+ vibhav, stream what?
+ sobersabre, as in when it is not running in the gui?
+ sobersabre, that needs to be fixed in grub
+ sobersabre, add the option vga=??? where ??? is a 3 digit number representing your display
+ vibhav, I know littel about that
+ sobersabre, that is the only way I know how and I have done it many times
+ horse_play, "Ubuntu 11.04 release is scheduled somewhere in the time period when it's April 28th somewhere in the world, not at a specific time."
+ soreau, um, it has always worked for me...
+ horse_play, read my quote
+ sobersabre, yes
+ soreau, yours looked better anyways
+ soreau, much better than a random 3 digit number
+ proq, lmao
+ DirtyDawg, one day. X must die
+ elzoog, "Ubuntu 11.04 release is scheduled somewhere in the time period when it's April 28th somewhere in the world, not at a specific time."
+ kaatta, /etc/apt/sources.list
+ robert05ad, you mean vim?
+ kaatta, that is the file location
+ kaatta, sudo nano -w /etc/apt/sources.list
+ then ctrl O to save and ctrl x to exit
+ kaatta, ^
+ kaatta, nano is easier to use than vi
+ Rziz, why do you want a cli install?
+ nyquist333, where is that file?
+ trailoryo, I suggest you set the server password to trailoryo:xxxxxxx
+ trailoryo, that can be done by clicking on freenode in the list. and then clicking edit
+ trailoryo, np
+ FoolsRun, export DISPLAY=':0'
+ FoolsRun, yes, it is a command
+ FoolsRun, different line
+ FoolsRun, or export xyz; java -jar x.jar
+ FoolsRun, are you the same user?
+ FoolsRun, the same user as the person who is logged in
+ FoolsRun, if you are not the same user, I don't think it works. I know very little about x
+ FoolsRun, in the past without doing anything I have run stuff by setting DISPLAY as the same user who was logged in
+ FoolsRun, I don't know the answer then.
+ FoolsRun, It works when I try to run firefox
+ l3, try sudo apt-get install ubuntu-desktop
+ l3, you removed all your kernels and it started removing everything else, right?
+ l3, the ubuntu-desktop package should have everything you need.
+ l3, are you sure?
+ l3, do sudo apt-get remove ubuntu-desktop. Then, do sudo aptitude install ubuntu-desktop
+ kalib, do sudo apt-get update and pastebin the results
+ !pastebin > kalib
+ [snake], downgrading is not supported
+ [snake], it is actually very easy... if you are doing a reinstall. Otherwise, I would call it impossible.
+ [snake], only attempt if you think it would be fun to learn everything about the internals of ubuntu and want to try the impossible ;-)
+ [snake], I don't know of any user account linker thing...
+ [snake], yeah. I have a better idea.
+ [snake], backup /home, reinstall, restore /home
+ kalib, I do not speak your language ;-)
+ [snake], I still have not updated to 11.04 ;-)
+ [snake], That is good to know. My opinion is that ubuntu needs to choose between "just working" and being on the "bleeding-edge". That used to be the same thing ;-)

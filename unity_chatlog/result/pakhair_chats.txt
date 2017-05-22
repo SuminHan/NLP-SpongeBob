@@ -1,0 +1,3 @@
+ anyone use openerp?
+ any specific way to view all the signin and sign out in a single dashboard???
+ :|

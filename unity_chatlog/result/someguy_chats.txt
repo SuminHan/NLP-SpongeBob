@@ -1,0 +1,2 @@
+ hi guys , girls
+ i got a problem with phpmyadmin , using fcgid as parser , any smart one's out there :-)

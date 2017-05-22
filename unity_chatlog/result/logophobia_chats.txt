@@ -1,0 +1,1 @@
+ hi, are there any special instructions/tricks for installing on an UEFI based PC? I installed ubuntu but I never get the boot menu

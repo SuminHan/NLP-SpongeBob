@@ -1,0 +1,2 @@
+ i just updated to ubuntu 11.04 und tried out the catalyst 11.4 driver because i read that its now able to switch between 2 graphic chips. i have a radeon 5650 and a integrated intel. everything worked fine. but then i switched to the integrated chip with the catalyst control center just for testing. after a reboot the dedicated chip was disabled that was what i wanted but now i'm not able to start the control center again to switch back on the d
+ edicated card. doas anyone has an idea that can fix this?

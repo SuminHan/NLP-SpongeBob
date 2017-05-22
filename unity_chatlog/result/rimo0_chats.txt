@@ -1,0 +1,9 @@
+ i just generated a key for my SSH shell account! the next time that i tried to log in it asked me for a 'passphrase' and it didn't ask me for my account password!! so now what is the diffrent between it and my password? as if I just changed a new password for my account? isn't it? "generating a Key" what is it use for?
+ i just generated a key for my SSH shell account! the next time that i tried to log in it asked me for a 'passphrase' and it didn't ask me for my account password!! so now what is the diffrent between it and my password? as if I just changed a new password for my account? isn't it? "generating a Key" what is it use for?
+ no answer?
+ i just generated a key for my SSH shell account! the next time that i tried to log in it asked me for a 'passphrase' and it didn't ask me for my account password!! so now what is the diffrent between it and my password? as if I just changed a new password for my account? isn't it? "generating a Key" what is it use for?
+ Johan2: i just generated a key for my SSH shell account! the next time that i tried to log in it asked me for a 'passphrase' and it didn't ask me for my account password!! so now what is the diffrent between it and my password? as if I just changed a new password for my account? isn't it? "generating a Key" what is it use for?
+ escott: do u have any idea about my question?
+ HELP!! i just generated a key for my SSH shell account! the next time that i tried to log in it asked me for a 'passphrase' and it didn't ask me for my account password!! so now what is the diffrent between it and my password? as if I just changed a new password for my account? isn't it? "generating a Key" what is it use for?
+ escott: i did that but i just wanted to know that what is the different about the a pub key and password?
+ escott: so what should i use that when i have got a secure password? i can't underestand!!

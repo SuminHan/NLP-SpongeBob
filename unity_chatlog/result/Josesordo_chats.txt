@@ -1,0 +1,25 @@
+ hello all
+ I installed the new 11.04, and I need to install a ".run" file and I cant run it ... some help?
+ how to open a ".run" file in Ubuntu 11.04? .. please..help
+ ikonia, well in this ubuntu 11.04 not.. it run in gedit.. lol
+ ikonia, I mean.. when I double click it ..
+ ikonia, ok that Im trying to do..but forgot the command.. I have the terminal open right now..
+ ikonia, this --> ati-driver-installer-11-4-x86.x86_64.run
+ ikonia, in ubuntu 10.04 .. I believe was better install the propietary drivers.. dont know, what do you think?
+ ikonia, or in this install driver tool it will be install the same driver?
+ ikonia, ahh ok.. lets see then.. Thanks a lot!!
+ ikonia, ahh another question.. I tried to run the google chrome installer (a .deb file) and dont open like old distro now.. why?
+ ikonia, ahh ok..anyways I installed the chromium.. seems similar =)
+ How to change the background in login screen in Ubuntu 11.04?... Please
+ Damn Unity.. now my windows border dont show!.. help please!
+ jbsoum, yeah me too.. I remove all compiz stuff..and nothing yet..
+ grr.. Damn unity.. they want us to use only their theme.. lol
+ I want my windows borders back!..please help!
+ hello all... Gnome 3 or Unity? .. what do you think?..
+ carl-m, xfce can use compiz and some docky?
+ carl-m, I dont know.. XCFE seems old version.. I prefer install gnome 3.. I will try.. xD
+ I can use compiz and some docky in XFCE?
+ ZykoticK9, xfce4 is with xubuntu 11.04?
+ ZykoticK9, its ok.. google answered me xD
+ I have a ATI Radeon HD 2600 dedicated.. in ubuntu or xubuntu is better install the driver with the "Install driver tool" or download the .run file from ATI ?
+ coz_, ok.. thanks for the info

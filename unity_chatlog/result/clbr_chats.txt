@@ -1,0 +1,2 @@
+ am I right that it's not possible to get an bootable ubuntu live installer usb stick image without already having a working ubuntu installation (and the startup disk maker)?
+ bazhang: thanks, i'm trying

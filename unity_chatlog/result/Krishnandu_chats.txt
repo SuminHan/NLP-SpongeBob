@@ -1,0 +1,35 @@
+ Hi, I want to upgrade to Natty, but don't want to perform the upgrade through network. So is there any way out by which I can upgrade from CD??
+ constl, I dont think Live CD has the option to upgrade. Are you sure??
+ constl, Ok, then I'm downloading the Live CD
+ Hi, how to do upgrade from Alternate ISO??
+ escott, Can you please guide me how?? I mean how to add the ISO to apt-sources??
+ escott, Thanks :)
+ Hey guys one of my friend installed Windows and lost his ubuntu. Now I suggested him https://help.ubuntu.com/community/RecoveringUbuntuAfterInstallingWindows. He performed all the steps and it said "Installation Finished, No Error". But still he's not getting his Ubuntu, even now he lost his windows too. He says, it displays a blank screen with grub version detail and later some info like using tab and minimal bash commands are and later gr
+ ub>. When he edit boot and hit enter it says kernel not loaded. So what the problem?? Please help
+ Hey guys one of my friend installed Windows and lost his ubuntu. Now I suggested him https://help.ubuntu.com/community/RecoveringUbuntuAfterInstallingWindows. He performed all the steps and it said "Installation Finished, No Error". But still he's not getting his Ubuntu, even now he lost his windows too. He says, it displays a blank screen with grub version detail and later some info like using tab and minimal bash commands are and later gr
+ ub>. When he edit boot and hit enter it says kernel not loaded. So what the problem?? Please help
+ escott, Didn't got your point, can you please elaborate?? Or any docs link would also do...
+ escott, Ya I asked him to ran fdisk -l , only one HDD, /dev/sda, and he installed grub on MBR, he had 12 partitions on HDD, and he does have /boot
+ escott, I can only see boot flag(*) set to /dev/sda1 which is NTFS partition, which I guess is Windows
+ escott, Thanks, lemme google it out about how to set boot flag
+ escott, Number of partition is the ID of partition??
+ escott, means something like this sudo fdisk /dev/sda "a" /dev/sda9 "w" assuming /dev/sda9 is /boot
+ escott, Ahh ok, got it..!! Thanks :)
+ escott, Thanks a lot, lemme make him try this :)
+ escott, He tried adding boot flag to /boot partition, didn't helped, same CLI Grub screen...
+ Hi guys, I can't boot using newest kernel after upgrading to Natty, The screen remains blank. Though I can boot using "Previous Version"
+ Guys any idea?? Can't boot with Newest Kernel after upgrading to Natty, the screen goes black and nothing happens after that. After surfing Ubuntu Forums looks like many guys are facing the same problem. So any fix yet??
+ Guys any solution to the most known problem of black screen on boot after upgrading??
+ I've NVIDIA card, and when I go to Additional Drivers it says It's activated but not in use...why so?? And what's being use if NVIDIA Driver is not getting used??
+ pentos, Yup, I found many in ubuntuforums, but no one has solution to this...
+ pentos, Nope, uninstall option is there, though I'm not very much into it, the main concern is, it doesn't boot with the newest kernel, Black Screen...
+ pentos, But boots fine with the Previous Kernel(Last kernel of maverick update)
+ pentos, I don't think so, it's my primary OS, and I don't want to loose all the data...
+ I'm using it since Lucid
+ pentos, Nope, lets wait...as we are traveling in the same boat.!! :)
+ pentos, Lauchpad already has many reports regarding this, lets see what happens...if they can fix it up...
+ pentos, Same here...!! Wish they fix it soon, but I strongly think it's not a general bug, and has something to do with NVIDIA Cards, and as far I know they have modified the Graphics thing, and something is creating this problem. As all of us are able to boot using previous kernel
+ pentos, Just got this...check it out : http://ubuntuforums.org/showthread.php?t=1743386
+ hi i m gwtting blank screen after upgrade pls help. tried nomodset. no result
+ tried removing nviia drivers, didnt helped
+ tried modifying kernel img n headers, no result

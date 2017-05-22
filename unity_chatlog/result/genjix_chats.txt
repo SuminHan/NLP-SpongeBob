@@ -1,0 +1,12 @@
+ i just did an upgrade but the keys in login screen have to be held down for a few seconds to show
+ but not after having logged in
+ wtf?
+ ActionParsnip: yeah it is ok. strangely it's fine on another laptop of the same specs
+ ActionParsnip: intel i believe
+ but its like slow keys is enabled
+ 2 bitcoins to the first person who finds a working solution to this problem :)
+ 2 bitcoins = $5
+ sudo do-release-upgrade says 'No new release found'... I've done apt-get update but still not working
+ using Lynx
+ Jordan_U: i do what it says in the guide but it's not upgrading
+ Jordan_U: thank you! that file fixed it.

@@ -1,0 +1,3 @@
+ What's the recommented way to install google earth in Natty? To download the .deb from google, or from medibuntu, or from e.g. a partner repository?
+ Any way to sync evolution "tasks" with any app for android?
+ Is there any way to have synced "tasks" between Ubuntu and an android phone? Not necessarily evolution tasks, any app would do...

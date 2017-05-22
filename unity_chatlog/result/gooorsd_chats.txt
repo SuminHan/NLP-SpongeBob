@@ -1,0 +1,6 @@
+ anyone had any trouble with wired networking since updating to natty ?
+ any of you guys have trouble with networking in natty
+ i cant get wiredlan unless i disconnect my wire from the router and reconnect it
+ worked perfect in 10.10
+ its so weird that stuff that worked perfect in a previous version suddenly stops working
+ sfdsafdsafdsa: realease of arch?

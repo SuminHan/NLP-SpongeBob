@@ -1,0 +1,5 @@
+ i need help w/ upgrading ubundu from 10.10 to ll.04
+ i need help w/ upgrading ubundu from 10.10 to ll.04 please
+ trijntje, i just upgraded from 10.04 to 10.10, and tried upgrading to 11.04 and it came back with the error 'Marking the upgrade (E:Error, pkgProblemResolver:: Resolve generated breakes, this may be caused by held packages.)'
+ trijntje, i need to know how to fix this issue
+ Incarus6, that is a huge file...

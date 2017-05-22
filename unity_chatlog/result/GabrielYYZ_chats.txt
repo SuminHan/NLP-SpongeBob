@@ -1,0 +1,4 @@
+ any pygtk gurus here that could give me an idea on how to implement an adjustment and an hscale on a video player?
+ quentusrex, nano /etc/modprobe/blacklist.conf and add "blacklist ipv6" at the end without the quotes
+ quentusrex, and reboot*
+ quentusrex, sorry it's "/etc/modprobe.d" not modprobe

@@ -1,0 +1,9 @@
+ hola
+ a friend of mine stopped by with her netbook which someone was kind enough to install kubuntu on, but she cannot connect to any wireless networks. she was once able to but can no longer.  iwconfig shows the interface and the gui has my wifi configured but ... it doesn't seem to even try to connect.  anyone able to help with this?
+ Metaxa: Atheros, AR9285 is what lspci shows.
+ Metaxa: lsmod shows ath9x several times.
+ Metaxa: where would i find "additional drivers" I am more familiar with shell than gui.
+ Metaxa: nvm i found it there's a search in the K-menu
+ Metaxa: it says "no proprietary drivers are in use on this system" is this a gui for ndiswrapper?
+ "network connections" module in KDE, when i click add under wireless, and then scan, shows my network.  this would indicate to me that the drivers are loaded for the wireless card.
+ but I see no way to connect to said wireless network.  I type in my WPA key and select auto connect but it doesn't connect

@@ -1,0 +1,25 @@
+ hi all. does not display thumbnails of video files in Nautilus. How to fix this?
+ Who knows to fix my problem? thumbnails of video files doesnt display in Nautilus.
+ sudo pat-get install b43-fwcutter
+ i have bcm4312
+ daniel_ yes, sudo apt-get install b43-fwcutter and go to system administration addtional drivers
+ daniel_ there must  activation on Broadcom B43 wireless drivers
+ thelorax only reinstall, will be simple
+ daniel_ what message iwconfig ?
+ daniel_ rfkill list in terminal
+ daniel_ blocked on hard, not in linux
+ daniel_ on of on notebopk\pc
+ good
+ iwconfig
+ daniel_  see your wifi adapters
+ daniel_ in documentation name of adapter
+ daniel_ nonono, sorry for my english. Broadcom 43xx, your xx?
+ daniel_ You have brcm 4311, havent you?
+ daniel_ "on" on notebook
+ daniel_ sudo apt-get --purge remove b43-fwcutter
+ daniel_ and install b43-fwcutter
+ daniel_ go to additional drivers and activate them< if it not activation
+ daniel_ your version of linux?
+ daniel_ i dont know, it may not work in natty
+ daniel_ see https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx
+ daniel_ and you may to try sta driver

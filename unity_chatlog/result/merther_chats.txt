@@ -1,0 +1,7 @@
+ I'm looking to create a variable that contains the name of a mounted volume attached.  The name of the volume is different depending on the drive attached.  If I use mount -l it will list the device then the mount point.  /dev/sr0 on /media/volume type etc...  Is there a way to extract the information that's in the place of 'volume'?
+ LAcan,  I can grep for /dev/sc0 etc... and that gives the whole line including file system type.  So from that result how do I get only the desired variable from /media/variable?
+ pfifo, that seems a little better
+ pfifo, the command you mentions gives more output then I'd like.  It does however show the exact data betwee [] such as [volume_name].  How do I get the data between those so that I only have volume_name?
+ pfifo, http://pastebin.com/9MwCtkxW
+ pfifo, only want DriveName in the variable
+ pfifo, you did it buddy!  Thanks very much.  You're a life saver.

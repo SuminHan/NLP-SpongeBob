@@ -1,0 +1,2 @@
+ https://bugs.launchpad.net/ubuntu/+source/jockey/+bug/772204 hmm looking for a fix/workaround for this one
+ Er, I suppose plenty of people have been talking about that bug 772204?

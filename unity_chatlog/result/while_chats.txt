@@ -1,0 +1,2 @@
+ i have a question . i am currently running windows 7 and ubuntu 10.10 in a dual boot system and i would very much like to reinstall ubuntu 11.04 over the current ubuntu i`m running without messing up my MBR or the GRUB ... can someone tell me how can this be done ?
+ escott, thank you i just needed a confirmation

@@ -1,0 +1,3 @@
+ how much memory is required to run the webkit based browser???any help plz
+ BlouBlou:any site from where i can see more aboute memory use,actually i builded a qtwebkit browser..
+ Bloublou:thnks,i am running a html5 file in my webkit's browser,but this is not opening video,is webkit support html5 or not?

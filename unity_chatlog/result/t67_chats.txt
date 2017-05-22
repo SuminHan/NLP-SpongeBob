@@ -1,0 +1,2 @@
+ In Epiphany when I go to Edit > Personal Data > Passwords, I see nothing, but my passwords DO show up in seahorse.
+ How come Epiphany Edit > Personal Data > Passwords is empty?

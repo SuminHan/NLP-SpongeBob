@@ -1,0 +1,2 @@
+ I've read man pages but i cant find how to use  test command
+ how to use test command

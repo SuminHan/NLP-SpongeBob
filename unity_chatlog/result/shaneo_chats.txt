@@ -1,0 +1,3 @@
+ can someone help me with a script for xchat
+ its a copy and paste text what do i save the file as
+ .sh?

@@ -1,0 +1,3 @@
+ hi, my ssh key is as user, how can I mount an sshfs directory, I tried sudo -E, HOME=/home/gnutoo sudo -E,sudo etc....
+ that thing should have taken 2 s and it's like 15min that I'm at it
+ fixed with ssh-agent

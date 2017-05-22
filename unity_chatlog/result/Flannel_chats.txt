@@ -1,0 +1,16 @@
+ afeder: It's #ubuntu-devel, not #ubuntu-dev
+ kusanagi: Can you please take the unity-as-default discussion to #ubuntu-offtopic, thanks.
+ kusanagi: I'm aware of that, and appreciate it.  Support is here, other discussions belong about #ubuntu-offotpic.  Thanks.
+ exchgr: No.
+ uRock, isarl: Please take it to #ubuntu-offtopic, thanks.
+ isarl: That works too, thanks.
+ Artarian: Please stop that.
+ HyperShock: There is.
+ wobblyonions: Please don't use that term pejoratively.
+ sjmikem: There is no such thing as Ubuntu 13.
+ That's offtopic for here, take it to #ubuntu-offtopic, thanks.
+ WebDawg: Not here, thanks.
+ WebDawg: #ubuntu-offtopic please, not here.
+ faateh: You're better off asking sabily people, they'll know what they changed.
+ NAAAAWW: Because using your computer drains your battery.
+ sunil: https://help.ubuntu.com/community/InstallCDCustomization

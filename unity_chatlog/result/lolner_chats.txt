@@ -1,0 +1,1 @@
+ I'm trying to install 11.04 netboot. I keep getting 'plymouth command failed, disconnected from plymouth'. Does anyone know how I can fix this and make the system bootable?

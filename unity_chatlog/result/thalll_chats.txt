@@ -1,0 +1,1 @@
+ Hi, why isnt this command eval right? /bin/sh -c watch 'cat /proc/meminfo | fgrep MemFree | sed s/[^0-9]//g >> 2.3.6.txt'

@@ -1,0 +1,23 @@
+ so will it be ok to upgrade from 10.10 to 11.04? or would i be better off reformatting with 11.04
+ !countdown
+ is there a direct upgrade from 10.10 to 11.04 that you can do?
+ o what? try it in a web browser, sebsebseb ?
+ so will it be ok to upgrade from 10.10 to 11.04? or would i be better off reformatting with 11.04
+ wow, 11.04 has iphone support, badass
+ neckoox, yeah.. i had direct access to the root of it, access to the 3rd part apps, and access to the music.. amazing
+ neckoox, so no longer need SSH to it
+ neckoox, i think so.. so far i just tried playing it though.
+ neckoox, cant atm lol, im at work and i already wasted an hour, sry
+ neckoox, it works on live usb/cd, so done even need to instlal
+ in 11.04 how do i change it so when i move the mouse cursor over the edge it changes workspace?
+ in 11.04 gnome how do i make cursor flip workspace?
+ in 11.04 gnome-- how do i make cursor over edge flip workspace or move windows to otherworspaces(compiz fusion settings used to let me do this in 10.10)?
+ in 11.04 gnome-- how do i make cursor over edge flip workspace or move windows to otherworspaces(compiz fusion settings used to let me do this in 10.10)?
+ gnome was way better than unity
+ :|
+ sebsebseb, yeah i am, i tried using unity for a few hours.. hmm
+ i dont think the "file menu bar" should be at the top for every window, very inconvenient imo
+ ohsix, well i was excited about it, and i just dont know if i could ever use it now that ive seen it
+ ohsix, reguardless, i like some of the additions to ubuntu 11.04 =) mainly iphone support
+ ohsix, yeah already set to default.. maybe ill try unity again sometime.. kinda felt weird without a window manager
+ ohsix, i had a opengl game going in unity and it didnt have a top bar to drag it around, and there was no icon to signify it was even open

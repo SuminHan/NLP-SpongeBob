@@ -1,0 +1,7 @@
+ Hi
+ Has anybody some experience with ltsp?
+ maximus_:  you can try this: echo <password> | sudo -S commando
+ maximus_: Nice that it works for you!
+ maximus_: lol!, I did not even notices:P
+ Dr_Willis: Thanks for the info then I will wait with upgrading my laptop
+ TheAnachron: Hi

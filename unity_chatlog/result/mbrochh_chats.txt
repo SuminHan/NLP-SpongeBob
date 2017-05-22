@@ -1,0 +1,13 @@
+ just updated to 11.04... how do i activate the new desktop? everything still looks the same as it did before the update
+ Starminn, I restarted several times?
+ what is the name of that fancy new desktop that comes with 11.04?
+ is it unity?
+ does anybody know if it is possible to enjoy unity when running ubuntu on a virtualbox?
+ i can't seem to be able to activate it
+ paddy_, damn
+ Maddogm, i am using latest virtualbox 4.0.6 - any special settings to do to get it working?
+ Maddogm, working on it...
+ Maddogm, it worked! great!
+ petey, Maddogm thanks for your help
+ when i log out my session and log in again it often happens that the top panel loses its theme (using unity)... how can i restore it?
+ how can i prevent ubuntu from locking the screen after some idle time?

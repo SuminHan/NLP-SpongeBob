@@ -1,0 +1,6 @@
+ i ubuntu in a virtual box - VBoxGuestAdditions is installed but still the max resolution i can select is 800x600
+ any suggestiongs how to increase it?
+ Incarus6: http://pastie.org/1842573 - is it the right log
+ Incarus6: i enabled the 3d capabilities will disable them, and i did try to add a new video mode before installing the guest addon and because of that it may look different
+ Incarus6: there is no corg.conf in /etc/X11
+ Incarus6: any pointer to a guide how to create it - i am new to linux and have no coding skills.

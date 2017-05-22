@@ -1,0 +1,2 @@
+ is there a windows app to format drives to ext4?
+ is there a way when doing a lot of copy n pasting to say, use F1-F10 to assign multiple clip boards which F1 - F10 paste data?

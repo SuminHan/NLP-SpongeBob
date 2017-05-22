@@ -1,0 +1,6 @@
+ hi, how can i upgrade from 10.04 to 11.04?
+ to upgrade from 10.04 to 11.04, do i have to upgrade to 10.10 at first?
+ hi, i cant change the display brightness, on ubuntu, is a driver missing?
+ hello
+ does ubuntu read flopy disks?
+ DasEi, but i am on 10.10, and it does not read any of these disks

@@ -1,0 +1,13 @@
+ i accidentally removed the 'logout/shutdown' button from my gnome-panel, how do I get it back?
+ i have the indicator applet already
+ ChogyDan, oh sorry you wre right, session is different from just the regular applet
+ its confusing because there are like 4 indiciator applet things :p
+ ill go with the shutdown applet, thanks Juest !
+ rofl
+ kippers, install wicd. network manager is garbage
+ sudo apt-get install wicd
+ and then you can uninstall network manager: sudo apt-get remove network-manager
+ because having both installed at the same time will break stuff
+ is anyone else suffering from 'gain calibratino timeout' errors due to bad interactions between powernow-k8 and ath5k?
+ compengi, cp -a
+ i dont think so

@@ -1,0 +1,35 @@
+ is there any way a remote can letters in x with 1 -9 buttons
+ OchoZero9,  perhaps you have 2d eys
+ is there any way a remote can type letters in x with the 1 -9 buttons
+ OchoZero9,  you wont get 3d with that then
+ oh ok
+ oh six really 3d?
+ cranch,  if your ip address is in /etc/hosts it will use dns name I think
+ cranch if you put an ip adress and its dns name in /etc/hosts rather than typeingthe ip in you can simply type the dns name
+ cranch isnt that what its supposed to do
+ cranch, try the apche channel perhaps I dunnu much about it
+ np cya
+ Ziber problem exactly?
+ Ziber is it muted is a laptop audio installed you are so vague noone will help you
+ ziber ther are usually 2 or 3 difeernt audio input channels you need to select int mic as default perhaps
+ do you have desktop mixer panel?
+ ziber terminal $alsamixer lol
+ ziber type alsamixer in a terminal window or tty session
+ is there any way a remote can type letters in x with the 1 -9 buttons
+ ziber if alsamixer will not open you audio isnt installed correctly i would say
+ look in synaptic try and play a sound using aplay etc if these thing show problems go to the ubuntu forums multimedia thread it has setup of everything in there so you can play any and everything and set upof sound devices and video and dvd etc
+ Bronz start to a prompt and remove type sudo xconfig and then type startx that should give tyou basic grahpics then google how to install your nvidia drivers
+ Bronz are you trying to run from a live cd or install from alive cd
+ if running from a live cd do not choose nvidia driver in setup
+ Bronz often graphics fail because they are not set up correctly and leave you with no screen. To avoid this use default video drivers and they will work. This will get your system up and running have aplay then google how to install nvidia drivers and do so accordingly
+ Also rileyp: what do you mean "remove type sudo xconfig"?  to remove any nvidia created xorg.conf which most probably is casing your x screen to fail  by typeing sudo xconfig a std xorg.conf will be created using std driversl
+ bronx do not select nvidia
+ ziber http://ubuntuforums.org/showthread.php?t=766683
+ ziber that will fix any audio issue you have :D
+ Bronz If live cd will not boot for you and your not selcting nvidia I cant help sorry. I never use livecd.
+ Bronz at screen freeze you could try CTRL+alt +f1 and see what happens you may end up in a tty session meaning ubuntu has started up completely but gdm has failed thenits just a matter of resolving that
+ Bronz,  are you trying latest ubuntu?
+ is there any way a remote can type letters in x with the 1 -9 buttons
+ ncg will you be nice to us?
+ ncg yyyeeeeeeeeeeesssssssssssss  annnnnnnnnnnnddddddd
+ xfce rocks so simple and never fails

@@ -1,0 +1,1 @@
+ I am going thru the BIND9ServerHow to.  I decided to stick with "mydomain.com"  to test with.  I have all the configuration done but mydomain.com does not resolve. and ns.mydomain.com does.  Any suggestions

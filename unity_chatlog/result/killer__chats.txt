@@ -1,0 +1,18 @@
+ What is the default IRC program with Ubuntu?
+ doc|home: ok.  currently using XChat.  I wanted to see what other options there were and prefer to start with 'default' apps in the various *buntu flavors.
+ doc|home: are there addons for XChat?  I can't put my finger on it but there is just a few things I don't like about it.
+ I'm looking for a file manager program that when copying a file from one system to another, it gives the transfer rate. I have tried Thunar and PCManFM 0.9.7.  What other options are there?  I am running Crunchbang which is why I do not have naudiaus(sp?) and am on a netbook so I prefer to stay away from resource hogs.
+ roger.  Can someone verify naudiaus has the transfer rate?  An example of such is with any Windows where there is a rate of 11.7 mb / sec (or whatever values depending on cpu usage/network/etc)
+ Can someone explain Unity.  I don't understand what it is.  I use ubuntu 10.04 on my desktop and I don't think it's there.  After looking at screenshots, it appears to be a fancy speed list to open applications. Is there more to it?
+ How to I configure my application menu?
+ Is there a way to allow for double-clicking on the left most application icon to close the application? (Instead of quickly opening then closing the application menu)
+ What is Metacity?  I received a popup error regarding it
+ I'm trying to apply special effects to my windows/GUI via Compiz.  On my laptop, I have done this by accessing it in the start menu but on my desktop (system i'm sitting at now) I cannot find Compiz in the start menu.  I have checked to verify it is installed by looking for the package in Synaptic.  Suggestions?
+ twiggy: Ty.  worked like a charm
+ what is the default instant messaging program in ubuntu 10.04LTS?
+ histo/orbiting: roger. I'll look into that.
+ how do i view the equivalent of Windows 'Task Manager'?
+ herbs: i thought top was only the top 10 processes
+ how do i find additional panel applets for 'The gnome panel 2.30.2'? i want a CPU tracking one where it shows the CPU usage graph.  I have it on Crunchbang with XFCE
+ Hista: I'm in Ubuntu 10.04 LTS right now and it uses the Gnome Panel 2.30.  I have added to panel but the only CPU item I find is to change the CPU freqency.
+ hista: system monitor ended up being what i wanted.  TY

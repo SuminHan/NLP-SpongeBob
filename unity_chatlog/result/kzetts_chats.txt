@@ -1,0 +1,9 @@
+ anyone else getting ridiculously slow sleeps on the dist upgrade?
+ erik333: log out and select ubuntu classic as your session
+ Soothsayer: good, I was making sure its not just me, sometimes my cable is slow as hell, and i reboot my modem, but i didnt want to do it in the middle of the dist upgrade if i didnt have to
+ erik333: and? is that not what you wanted?
+ conical: instyall a vnc service and make sure it is running, and then connect to it on whichever port you specify
+ Soothsayer: i dont know, im at 844 packages, and im in the same boat, ive seen it drop to as low as 2kbs
+ conical: can you ssh to you machine and fire up a vnc service?
+ ok, if there is a vnc service running, then connect to your machine with a vnc client!
+ usr13: can what?

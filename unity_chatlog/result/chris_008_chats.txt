@@ -1,0 +1,2 @@
+ Help room--What program can I use to open a DOS executable file to change some parameters?
+ Viking: Hrmm, what about a PC program in Wine to do the edit?

@@ -1,0 +1,1 @@
+ is 1024x768 a suitable enough resolution to set the dash form factor to "desktop" instead of "automatic" so it doesn't take up the whole screen

@@ -1,0 +1,19 @@
+ KM0201: r u back
+ anybody able to help me fix unity? I was trying to setup compiz fusion and accidentally disabled unity wall, lost panel and launcher.
+ just upgraded to 11.04 tonight, and i'm a noob
+ Logan_: sorry, didn't know as evident by the word
+ spikebike: not sure exactly how to do that. I'm actually on my win 7 boot.  everytime i booted into ubuntu i just had my desktop and didn't know how to open anything
+ KM0201: how are you doing this morning?
+ does anybody know how to open another browser window from the launcher icon once you already have one open?
+ how do you open another browser window from the launcher icon once you already have one open?
+ nope, that's not working
+ k hold on
+ ChogyDan: I tried clicking it and it does nothing
+ asdf_msc: i guess it's a little more complicated than that. I created a launcher for chrome incognito
+ for some reason it has regular chrome open and when I click on the launcher for icognito it won't open a new browser
+ asdf_msc: for some reason it has regular chrome open and when I click on the launcher for icognito it won't open a new browser
+ asdf_msc: i tried the ctrl+n and it did open a new browser but it's not icognito.  brb
+ asdf_msc: back
+ asdf_msc: if i click on the regular chrome launcher it will open new regular browser, but the indicator triangle shows up on the icognito launcher even though I don't have icognito window open
+ asdf_msc: fixed it. I just ran "unity --replace" and it showed up and launcher seems to be working fine now
+ how do i change icons on the unity launcher (the image)

@@ -1,0 +1,11 @@
+ I need help
+ I just tried to install 11.04 and it gave me an error and restarted and now I'm stuck at purple screen that says the disk drive for / is not reaqdy yet or present
+ I just tried to install 11.04 and it gave me an error and restarted and now I'm stuck at purple screen that says the disk drive for / is not reaqdy yet or present
+ Anyone help me?
+ Can someone pm me and help me? The channel is too fast im on my phone
+ Nictrasavios I can't I can't even login
+ So. How is 11.04 any problems with it?
+ bitplane
+ the installer has detected that the following disks have mounted partitions
+ Do I want to unmount the disks before continuing?
+ Im installing 11.04

@@ -1,0 +1,12 @@
+ hi I tried to install ubuntu using wubi, but got this error
+ OSError: [Errno 13] Permission denied: u'E:\\ubuntu\\install\\ubuntu-10.04.2-desktop-amd64.iso'
+ actionparsnip: no
+ ActionParsnip: it made a logfile where this error is mentioned. Also, I just ran the installer from website, did not download an ISO image.
+ ActionParsnip: hmm, ok. Can you suggest proper way of installation?
+ I am installing ubuntu on a parition on windows machine. I have downloaded ubuntu iso and checked md5 and burned to CD. I am able to rub ffrom CD. Now, when I install how to know which partition to choose because installer does not give option like D, E or F (my drives)
+ izinucs:yes, i have 3 partions on harddrive - on one is installed windows, one where I keep data and one completly empty
+ izinucs:48gb
+ izinucs:ok..when i say manual, will installer pick this empty partiton?
+ izinucs:ok..cool thanks
+ hi..I am installing ubuntu..I am choosing manual installation..on next page I am shown \dev\sda1 52427\50931 \dev\sda5 52427\3221 \dev\sda6 215206\37545(used)..so I have to choose sda5..its the empty drive on my pc..then what? I need to do edit partion and give size for /,swap and /home?
+  hi..I am installing ubuntu..I am choosing manual installation..on next page I am shown \dev\sda1 52427\50931 \dev\sda5 52427\3221 \dev\sda6 215206\37545(used)..so I have to choose sda5..its the empty drive on my pc..then what? I need to do edit partion and give size for /,swap and /home?

@@ -1,0 +1,57 @@
+ q. is it possible to install ubuntu 11.04 on virtual box ?
+ ejv: any doc on it ? my install is stuck
+ ejv: have you tried to install it ?
+ ejv: hehe
+ anybody tried to install 11.04 in virtual box ? how to get it thru ?
+ ejv: i understood what you meant
+ ejv: right now i need help on ubuntu. so i ask here
+ ejv: this is ok if you dont wanna help
+ ejv: and installing ubuntu is ontopic
+ maxillusionist: to install 11.04 ? any special option ?
+ maxillusionist: you said you used virtual box on win, did you try to install ubuntu 11.04 with virtual box ?
+ KM0201: ok... this is for the install... once it is installed with the alternate cd, is it possible to run it (even with the 3D issue) ?
+ maxillusionist: 700mbyte
+ KM0201: oh ok
+ KM0201: so the rewritten X requires 3D cards....
+ KM0201: anyway to try the new ubuntu without dedicating a computer to it ?
+ KM0201: hmmm maybe miscommunication... you said 'unity' stuff requires 3D card and that vbox doesnt support 3D cards... so how could i use vbox
+ KM0201: live cd == dedicating a computer to it in my words
+ KM0201: and '2D desktop' = gnome ?
+ ah ok
+ so i need a dedicated computer to install it
+ or i can use ubuntu server
+ KM0201: ok thanks for the help
+ KM0201: just wording i guess
+ WARNING: PPAs are unsupported third-party packages <- they mean "supported by third party"
+ not nice to say other arent mataining their package
+ where is the iso of the alternate install ?
+ http://www.ubuntu.com/download/ubuntu/alternative-download <- alternate install got no .iso only .torrent ?
+ thanks
+ KM0201: my goal is double 1. to install 11.04 to be able to maintain my ppa 2. to experiment rewritten X stuff
+ usually i test in vm, it is simple, fast, easily removable if needed
+ feedback "unable to test new stable ubuntu without dedicating a box to it"... wasnt a good idea
+ KM0201: ok suppose you boot on 11.04... can you use the box for somehting else ?
+ KM0201: when running 11.04, your box is doing only that, so it is dedicated to it
+ KM0201: im well aware of dual boot :)
+ KM0201: just a matter of working
+ KM0201: 'when running 11.04, your box is doing only that, so it is dedicated to it' <- seems correct no ?
+ ThinkT510: hehe :)
+ KM0201: i understand your definition of dedicated.
+ KM0201: relax this is just a matter of wording
+ KM0201: 'when running 11.04, your box is doing only that, so it is dedicated to it' <- seems correct no ?
+ KM0201: ok no arguement
+ i gave my feedback
+ ThinkT510: stop insulting
+ ThinkT510: seriously, im being kind and all
+ ThinkT510: so dont insulte me
+ KM0201: relax i understood. you just considere the drive of the box
+ KM0201: im considering the cpu this is nothing
+ KM0201: hehe ok
+ ThinkT510: forgotten
+ KM0201: no need to argue
+ KM0201: cool, so we disgaree :)
+ installing with alternate
+ KM0201: we are both confortable
+ ActionParsnip: yep,  i need it to install on virtual box apparently. some issue with ubuntu requiring 3D cards and virtual box not providing it
+ ActionParsnip: oh ? you tried ? or got successfull story on it ?
+ ActionParsnip: or link. anything :)

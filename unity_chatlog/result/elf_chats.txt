@@ -1,0 +1,1 @@
+ anyone got any clues regarding this? server1 = win7, server2 = natty. When doing smb file copies on server1 (regardless of which direction) between server1 and server2 it goes at full ethernet speed. But when starting the copy on server2 (remote //server1/share is mounted via cifs) it only goes at ~25% speed

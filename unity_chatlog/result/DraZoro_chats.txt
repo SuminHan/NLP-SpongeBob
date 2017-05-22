@@ -1,0 +1,2 @@
+ Valdrin: Allocate screensaver there are options there to enable password and duration it takes for the desktop to auto lock.
+ Valdrin: Depending on which version and window manager you are using. If you are using Unity go to application lens "Super + A" and type screensaver.

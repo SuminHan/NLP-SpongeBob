@@ -1,0 +1,13 @@
+ shouldn't ubuntu 11.04 be released today?
+ avdija, I am not pretending I am smart, I just asked.. tnx on info all
+ when I'll be able to upgrade to ubuntu 11.04 with update manager?
+ velcroshooz, yep
+ if I started upgrading to 11.04 but I have no time, can I cancel it and continue later ? (its on "Getting new packages" its not on "Installing the upgrades")
+ Pici, ok, tnx ..its still on downloading
+ how I can fix the problem with fullscreen videos on youtube (I have 2 monitors) ?
+ usr13, tnx
+ what is command for logout ?
+ from computer
+ DasEi, not working, I tryed that in past :/
+ DasEi, no, I wanna logout user from ubuntu
+ DasEi, tnx

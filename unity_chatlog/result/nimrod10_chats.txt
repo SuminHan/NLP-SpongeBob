@@ -1,0 +1,6 @@
+ how do I reinstall firefox 3.6 ? Firefox 4 is not working on maverick i386 for me.
+ rzx237, thank you seemed to be working altough after install firefox says this            XML Parsing Error: undefined entity
+ Location: chrome://mozapps/content/profile/profileSelection.xul
+ Line Number 53, Column 1:
+ rzx237,  I guess I won't be using firefox for a while
+ akharris, if you don't have a specific need for 64bit I'd stay on i386 for now

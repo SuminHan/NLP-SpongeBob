@@ -1,0 +1,2 @@
+ hello, good night everybody
+ i updated my ubuntu 10.10 to 11.04 but now an error of the grub appear on startup "grub_env_export".. anyone know how to fix it? :/

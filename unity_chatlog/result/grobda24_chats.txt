@@ -1,0 +1,5 @@
+ hello. how can I mount an external hardrive CONSISTENTLY to the same folder ? ... after hibernation it mounts to a new folder with "_" postfix.
+ lo0m, yes ... "/dev/sdb1	/media/fifth-element	                  ext3	  user_xattr	  0"
+ lo0m, ah, in fstab ? this is the unique harddrive ID ? Maybe there is a page on help.ubuntu.com ...
+ lo0m, k, thanks, I'll try that
+ narf_, xorg.conf is still very archaic for this kind of thing :( ... search on http://help.ubuntu.com ... with my setup I ended up having to go into windows to run a util to define the modelines. Although there is a way to do that in Linux but it did'nt work for me.

@@ -1,0 +1,34 @@
+ Hi
+ I tried upgrading from 10.10 to 11.somthing and it failed, it said somthing about running dpkg --configure -a but it didn't work , i tried doing that myself and i got http://paste.ubuntu.com/600935/ in response, what should i do?
+ Oi Guest
+ Is there an installer i can run on Windows to install Ubuntu (on another partition) ?
+ Is there an installer i can run on Windows to install Ubuntu (on another partition) ?
+ Damn, after it failed to upgrade to 11.somthing i can't boot Ubuntu anymore :(
+ says somthing along the lines of "the drive for / is not ready to mount"
+ Wubi doesn't install Ubuntu the same way the bootable cd/dvd does, right?
+ Can i install Ubuntu from Windows the same way it is done with the bootable installer disk?
+ okenobi: opened a program i shouldn't have and had to reboot and now it won't boot, it complains about / not being ready to be mounted or somthing
+ o£
+ oops
+ kinda, i have a general idea of what chrooting is, but no idea how it is actually done
+ I've been without my desktop machine for months, and just moved in to a new place, gotta search for virgin media and download an image
+ opening
+ that is not how you call it in English?
+ blank disks
+ yeah
+ bought new mobo video card and case, got all the parts yesterday
+ brb gonna see if i can find a blank disk on the unpacked boxes
+ Hm, wait, can i install from a 2GB usb stick?
+ The ISO is both a live disk and a installer, right?
+ If i use that universal installer thingy to place the iso on a usb stick, will i be able to install using that?
+ usb
+ i wanna use a USB stick to install on a HDD partition
+ how big does the stick needs to be?
+ the previous upgrades didn't had so many issues, did they? They all went smoothlly for me....
+ If i install using the ISO will it erase all the files or if i already have the partitons ready it will just copy over the files involved in the install?
+ The disk i'll be installt 11.04 already got dualboot set to boot Linux and Windows, is my Windows partition under any risk if i install Ubuntu  again?
+ perhaps it would better if there was some triage going here so the flow of text wasn't so fast, i'm having a hard time keeping up, specially if i try to do anything else :(
+ be back in a bit
+ back
+ hm, gotta go, 8mll see if i can come back later let you guys know how things went
+ cya

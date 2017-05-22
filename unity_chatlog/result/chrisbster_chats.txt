@@ -1,0 +1,58 @@
+ bison: Are you new to Linux?
+ bison: sudo is what we use to change the system in any way. It stands for super user. Usually, it has the same password as your user account.
+ I have a challenge for the collective wisdom of the group. I have a machine I want to dual boot with. It's a 2 TB HD. I've done dual boots before, and never run into issues, but this is different for me. I try the install or Live of Ubuntu 10.10 or 10.04 and it won't show my partitions, it just shows free space. I tried GParted and nothing. I can mount the NTFS partition and can read/write files just fine, but nothing. I was hoping the gur
+ u's might have some suggestions. :-0
+ celthunder: yup
+ celthunder: huh...yeah...it makes more since to do it that way. i've been trying to f*ck with the GUIs, but yeah... Duh...
+ bison: I wasn't here for a description of your error, what's going on?
+ celthunder: ah. Gotcha.
+ celthunder: Where have we been looking for the drivers?
+ celthunder: I was thinking about finding them file structure wise and wiping out the NVIDIA files, but you're correct, lsmod seems like the way to go, since that wouldn't change the dependency files.
+ celthunder: couldn't we just do, sudo apt-get --purge remove
+ van7hu: Only if you're willing to work on conditionally throwing out some info
+ van7hu: Hibernate literally takes everything in active memory and writes it out to the HD.
+ van7hu: The information in Ubuntu utilizes meory differently
+ memory*
+ van7hu: What I mean is, Ubuntu usually loads more stuff into memory for us to speed up system response time
+ van7hu: Correct, you could go and find/code something that will conditionally not save certain things in memory and that should speed up response time
+ celthunder: Can you? I always thought that DDR3 lost information when it lost power.
+ celthunder: But isn't that like sleeping, but hibernating at the same time?
+ celthunder: I'm honestly not following how that could go faster when we have to do more file operations. it's also late, and I'm kinda slow
+ celthunder: Speed up shutdown
+ celthunder: You are correct though, it should exponentially increase star-up
+ celthunder: I was just like...what?
+ celthunder: haven't heard from bison in a while...?
+ sachin: Alt-F2 is a run command, similar to Windows Key+R
+ sachin: alacarte manages the Main Menu
+ sachin: i promise no one's trying to break you're install
+ bison: Am i correct in assuming you are using a different computer for IRC than for the fix?
+ Blackflowers: What was installed on the box before Linux?
+ Blackflowers: Did it lock up in Win 7/
+ Blackflowers: So it doesn't sound like a HardWare issue
+ Blackflowers: It sounds like a driver issue
+ Blackflowers: Maybe a video card?
+ Blackflowers: Next time you lock up, see if you can punch  ctrl-alt-shift F2
+ Blackflowers: If that works, it means X (The graphics rendering program) is frozen, but your hardware is fine
+ Blackflowers: To back back to your frozen screen, press CTRL-ALT-F7
+ Blackflowers: The command I gave you will get you to a terminal
+ bison: put 'sudo' in front of that command
+ Blackflowers: if that works, all hope is not lost
+ Blackflowers: come back here, and we can probably sort you out, just tell them you have an issue with X locking up
+ Blackflowers: If it doesn't, it means you either have an issue with memory or your HD that windows isn't noticing yet
+ Blackflowers: I don't want to dig around yet until we figure out which one it is
+ bison: celthunder oh oh
+ bison: celthunder have him change his user
+ bison: celthunder What does whoami return?
+ Blackflowers: I really am sorry BlackFlowers, I prefer Ubuntu build to the Fedora one anyways
+ bison: celthunder He's nobody right now
+ bison: celthunder Now we can make some progress
+ bison: celthunder Type whoami again
+ same output?
+ bison: celthunder OK, we are going to (dare i say it) log you in as root
+ bison: celthunder I promised myself I would never do this...
+ bison: celthunder bison, logout and login with the name 'root' and the password as your user password
+ bison: celthunder that's what I was guessing
+ bison: celthunder since he doesn't have extensive knowledge of a Unix environment, I was assuming he was using the defaults
+ bison: celthunder We might have to talk him through that
+ bison: celthunder But I need to get some sleep. You need some more help on here celthunder. I'll try and come back a different time
+ bison: celthunder Night!

@@ -1,0 +1,102 @@
+ ubusammyn150: just do sudo dpkg-reconfigure <package>
+ anybody know what time natty goes live?
+ k
+ hiexpo: what's the benefit of 10.04?
+ unity rocks
+ ubusammyn150: just do sudo dpkg-reconfigure <package>
+ narwhaller: should be enabled by default
+ ManDay: no
+ Salt: what's nbr
+ Salt: ah
+ Salt: they said there is no more netbook version with this release
+ ssav: if you have access to edit the /etc/ssh/sshd_config then change the PermitRootLogin parameter to Yes
+ ssav: if you know the root password then why can't you login as your normal user and su root?
+ ssav: 1)SSH in as any user 2) type "su root" 3) type root password   <- this should work unless your system prevents you from su to root
+ ssav: what level of access does your payload script run at?
+ ssav: you still need a script for that ssh issue?
+ phoenixsampras: probably official support
+ Johan2: open ccsm and click on unity
+ nastjuid: yes
+ nastjuid: to add a launcher, just open the program, then when it shows up right click on it in the dock and click add launcher
+ damiano__: what happens when you try to browse to it?
+ no lirc for you
+ McShane: right click on it
+ McShane: nvm
+ tdn: there is no more netbook verion
+ version*
+ tdn: that link is a bug, it's been reported
+ r000t: why do you say that
+ OverTheHillAndFa: what's your question
+ r000t: I haven't had that problem :\
+ jo-erlend: I think he means putting the dock somewhere else
+ OverTheHillAndFa: have you tried "unity --reset" ?
+ OverTheHillAndFa: give that a shot and see if it helps on reboot
+ leagris: do "ccsm"
+ OverTheHillAndFa: cool
+ Superstar: start menus have always been in top left or bottom left
+ OverTheHillAndFa: yea just let it finish, I interrupted mine the other day and rebooted anyway and all was fine, but I'd try and let it finish anyway
+ flash sucks in general
+ trijntje: yea
+ jnlsnl_: make sure the script is set to executable
+ plustax: "sudo do-release-upgrade"
+ trijntje: it won't break anything if it's still in the downloading phase
+ jnlsnl_: do "chmod a+x <script>"
+ jnlsnl_: you have to set the executable bit that way to run scripts
+ koistinen: http://www.webupd8.org/2011/04/things-to-tweak-fix-after-installing.html
+ koistinen: that has instructions for adding back notification
+ galaxyAbstractor: you should be able to
+ jnlsnl_: :(
+ jnlsnl_: I don't know much about PHP specifically sorry
+ alex13: do "/msg <name> text here"
+ jnlsnl_: /join #php    :)
+ OverTheHillAndFa: it's stuck there?
+ jsebean: no
+ OverTheHillAndFa: not sure, can you still boot normally and choose Ubuntu in the session manager at the login screen?
+ OverTheHillAndFa: meh, I'm not sure beyond that :(
+ helo: yes, it's great for new people imo
+ biami: for ubuntu or...?
+ biami: there are a few hundred channels on this server, plus if you just join a random one that doesn't exist, it will create it
+ cyoz1: do "ccsm" and click on the unity button
+ gaurav_sood91: "sudo do-release-upgrade"
+ nutsfornatty: somebody should add that to the topic
+ Shoogy: it is no more
+ Shoogy: the normal desktop version is the new "netbook" version, it's the same now.  unity is a good interface for the netbook so it should be fine
+ Dominater: it has compiz
+ Dominater: it's in the settings, but my computer can't run it so I haven't turned it on
+ Kevin147: stable as of today
+ nastjuid: you can do that with the normal cd
+ nastjuid: when you go to log in, you can select "Ubuntu Classic" for your session
+ jumbers: I'd recommend just burning the ISO and doing the upgrade from the boot
+ jumbers: is it a virtual machine where you could mount the iso then reboot?
+ jumbers: you could mount the iso but I'm not sure if it can upgrade while it's booted.  I haven't tried that way
+ skulltip: irssi
+ Shoogy: putty for command line, vnc for graphical interface
+ Shoogy: running a server would be the reason why you WOULDN'T use graphical but okay :p  Use VNC for graphical
+ the67pc: do you have a question?
+ the67pc: ctrl+alt+L
+ happyface: when you go to log in, choose "Ubuntu Classic" as your session
+ !gnome3 | RichardJ
+ nerdshell: I don't think you can downgrade
+ tripelb: unless you specifically need something in 10.10, it can't hurt to stick with the LTS version
+ Sexygurl2furl: I like it
+ JediMaster: it's a compiz plugin
+ JediMaster: no it runs on top of gnome
+ Wolver1n3: nothing in your /home should be deleted during an upgrade
+ is there a way to do full disc encryption with natty desktop?  I saw the option in server install, but not desktop
+ ohsix: ?
+ acicula: ah, ty
+ ohsix: it's for my laptop
+ ohsix: that doesn't really help if I delete sensitive information without encrypting it
+ in the case of a powered off laptop, full disc encryption is essentially fullproof in case of theft, which is my main concern
+ ohsix: we'll have to agree to disagree in this particular instance, but I do appreciate your input :)
+ mithridates: it's stable on my nvidia
+ mithridates: do I did a fresh instally, but yes I'm very happy with natty
+ mithridates: I'm on of the few that actually likes unity :\
+ kkal: lol
+ mithridates: the keyboard shortcuts are what make it great
+ ddaygold: get "ubuntu-tweak" and you can change the background on the loging page
+ romno0x: "sudo apt-get install openssh-server"
+ romno0x: it allows X11 forwarding, but I'm not sure of the proper use
+ compdoc: teamviewer is the simplist way
+ jaypro: just continue filling in the fields and it will change
+ MethedMan: you can try out thunderbird if evolution doesn't tickle your fancy

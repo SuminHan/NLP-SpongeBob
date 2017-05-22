@@ -1,0 +1,9 @@
+ hey!! i need help how i can add to: /etc/fstab so uder allow to mount/umount!! i try option: exec,rw,user,auto but didn't work
+ what is Ubuntu Unity?
+ eamon,  ah Ubuntu 11.0.4 is the new Design called: ubuntu Unity?
+ eamon, amazing =)
+ eamon, but the Flash player for 64-bit still contains some problem? because sometimes firefox freeze
+ hey!! how i can clear the recent open images from file and search on ubuntu 11.04 ? thx
+ escott, i have installed it, but i can't open it , it output errors
+ escott, aha so the recent opening files are kept in the File and Folders forever?
+ hey! can someone remind me with the command that i can force it to execute specific parameter ex: run a script base on Time ? thx

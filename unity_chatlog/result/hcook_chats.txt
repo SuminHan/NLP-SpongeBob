@@ -1,0 +1,12 @@
+ hey guys. i'm looking to install a 32 bit program (Guitar Pro 6) on 10.10 AMD64 with a wrapper. the only doc i found about this was really old: http://ubuntuforums.org/showthread.php?t=24575 ...just wondering whether that information is still valid and/or whether anybody had a pointer to something more appropriate.
+ hey guys. i'm looking to install a 32 bit program (Guitar Pro 6) on 10.10 AMD64 with a wrapper. the only doc i found about this was really old: http://ubuntuforums.org/showthread.php?t=24575 ...just wondering whether that information is still valid and/or whether anybody had a pointer to something more appropriate.
+ based on what i've seen of the blendtech i'm pretty sure it'll blend
+ woops
+ sorry wrong tab
+ hey guys. i'm looking to install a 32 bit program (Guitar Pro 6) on 10.10 AMD64 with a wrapper. the only doc i found about this was really old: http://ubuntuforums.org/showthread.php?t=24575 ...just wondering whether that information is still valid and/or whether anybody had a pointer to something more appropriate.
+ can anybody point me to some current information about running 32-bit binaries with a wrapper in 64-bit ubuntu? looking to make guitar pro 6 work but it's only available as an i386 .deb
+ can anybody point me to some current information about running 32-bit binaries with a wrapper in 64-bit ubuntu? looking to make guitar pro 6 work but it's only available as an i386 .deb
+ ayecee: Herbs: all i could find googling was this really old (2005/hoary) forum howto....is that still about how it works?
+ http://ubuntuforums.org/showthread.php?t=24575
+ Guest74426: depends on the problem
+ weird

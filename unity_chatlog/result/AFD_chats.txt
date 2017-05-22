@@ -1,0 +1,15 @@
+ Anyone mind helping me with a repo problem I have?
+ I get 404 errors for what appear to be legit repos when performing an apt-get update
+ any help re:repos pls...
+ help apt-get
+ can anyone help with my repo 404 errors please
+ I need help with my repos - getting 404 errors when performing apt-get update
+ cddavis: I'm on 10.10
+ cdavis: I'm on 10.10
+ cdavis: Here is my output (I posted on askubuntu with no joy) http://askubuntu.com/questions/36115/repo-errors-when-doing-apt-get-update
+ ikonia: there are external repos yes, but the maverick/main Sources are getting 404 errors too
+ cdavis: I'll give that a go now - thanks
+ ikonia: I believe my dns/network is fine... I can do everything else
+ cdavis: that seems to have cleared up all but one 404 error
+ cdavis: just the nightlies.videoland.org one is 404 now... I'll try removing the repo and re-adding
+ cdavis: thanks for the help btw ;)

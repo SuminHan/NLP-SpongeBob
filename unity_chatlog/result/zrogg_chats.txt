@@ -1,0 +1,7 @@
+ Howdi. I just upgraded from 10.10 to 11.04, and I'm left with a desktop with icons but no menus (guessing Unity didnt fire up properly) :/ Any suggestions ?
+ zookalicious: I have never tried or seen Unity before, so I have no idea what it is suppose to look like. But atm I'm only seeing a desktop wallpaper and my usual icons :)
+ zookalicious: hm, I don't have an icon there I'm afraid :/
+ zookalicious: yeah, my desktop doesn't look like that at all. It seems like I'm running my old gnome just without any menus, sidebars or anything :/ Would a screenie of my desktop help ?
+ zookalicious: yup, doesn't seem to help
+ zookalicious: that's allright. Thanks for the suggestions, I'll keep chipping away at the problem.
+ seems I fixed my no-menu-problem by running "compiz --replace"

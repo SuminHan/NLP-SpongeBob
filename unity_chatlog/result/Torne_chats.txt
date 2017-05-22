@@ -1,0 +1,8 @@
+ Is there a way to format an entire disk with a filesystem during the install? i.e. not have a partition table?
+ jiohdi: no, from the altinstaller
+ jiohdi: that's kinda annoying, i never have the livecd
+ jiohdi: er, yes, I am, I've booted qemu from the altinstall cd
+ jiohdi: my hard disk is an image file, i want to install onto it with no partition table because otherwise i'll have to ess about dd'ing the filesystem out of the image
+ jiohdi: er, i think you aren't understanding me. I have booted the alternate install CD and it wants to partition the disk in the install process; is there a way to just make it create the filesystem on /dev/sda
+ jiohdi: I want it to format /dev/sda as ext4, instead of creating partitions and formatting that
+ jiohdi: there is nothing on the disk, not even a partition table, and I do not want to create a partition table

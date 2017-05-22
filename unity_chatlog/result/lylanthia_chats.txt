@@ -1,0 +1,6 @@
+ hi there, is this an acceptable place for me to ask a quick question?
+ thanks ^.^
+ I'm about to install the latest  x64 ubuntu and windows on a laptop. A volunteer organization I work with uses Ubuntu on all of their tech, so I want to get comfortable. If I install windows first, and then Ubuntu, will ubuntu's loader set up dual booting for me?
+ excelent :D
+ thanks ^.^
+ Well, if I get good at this, I'll be back to contribute :D thanks all ^.^

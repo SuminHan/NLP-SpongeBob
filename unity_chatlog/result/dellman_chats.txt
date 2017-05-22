@@ -1,0 +1,3 @@
+ drivers for wireless network card on dell inspiron 1300?
+ i have installed 11.04 but wireless network is not detected
+ any ideas apart from being a driver issue?

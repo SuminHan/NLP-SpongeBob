@@ -1,0 +1,5 @@
+ I can't see nm-applet icon on the panel, ubuntu 10.10, can someone  help me?
+ @atlef: it's active
+ @atlef: maybe restarting it can help, but i dont know how to do that...
+ @atlef: it didn't work, how about reinstalling nm-applet?
+ @atlef: thanks for help

@@ -1,0 +1,5 @@
+ Hi
+ Anyone hetr
+ Hetr ?
+ I cant install app keeps asking for root pass even if I sudo
+ Trying to install android app maker

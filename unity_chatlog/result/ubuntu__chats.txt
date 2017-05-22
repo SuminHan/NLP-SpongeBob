@@ -1,0 +1,34 @@
+ hey, I'm installing ubuntu 11.04 from a USB stick. When I click on the install icon in the live session, it unmounts the hard drive (or, I assume it does, as it goes from my desktop) and, although it's just unmounted it (it's /dev/sda) it asks whether I want to unmount it. Whatever I click, when it gets to the partition screen, it doesn't give me the choice to install it to hd, only the memory stick it's already on.
+ hey, I'm installing ubuntu 11.04 from a USB stick. When I click on the install icon in the live session, it unmounts the hard drive (or, I assume it does, as it goes from my desktop) and, although it's just unmounted it (it's /dev/sda) it asks whether I want to unmount it. Whatever I click, when it gets to the partition screen, it doesn't give me the choice to install it to hd, only the memory stick it's already on.
+ haha
+ im on a live disc i used my usb stick to try 11.04.   i thought it was going to have a new layout and stuff on side? or am i miising something?
+ MohammadAG,  thank you,... so when i install then itll change. thanks
+ MohammadAG,  is that option a  one time thing, or will i haave a choice every login?
+ MohammadAG,  sweet. thanks.
+ MohammadAG,  do ya know  if th e Kubuntu is the same as well? with the  unity option?
+ MohammadAG,  thanks  once again, the usb installer wasnt too bad think ill  check it out on that.
+ thanks again
+ hello, i'm getting grub error 17 after freshly installing 11.04 (over an older install). i tried rearranging my hard drives' order in bios, to no avail
+ what next?
+ aeon-ltd - i'm pretty sure it's picking up an older grub
+ cannot boot into 11.04, just blank screen
+ Herbs: Incarus6: Sorry, lost connection. My partition table is not proper.. Was tihnking of a way to correct it somehow
+ Incarus6: RAM is 4GiB and current swap is more than required
+ Incarus6: ok
+ Incarus6: Why did you suggest data recovery tool?
+ Incarus6: Is there any way i can improve current partition table than doing what I was asking initailly?
+ Incarus6: http://imagebin.org/151122
+ hhello there
+ im from mars
+ why in ubuntu dropped  shell on f1-6?
+ on ubuntu because have dropped F1-F6 ahell?
+ on ubuntu because have dropped F1-F6 ahell?
+ syockit, i know that because isnt there the shell? i see nothing..
+ syockit, yes are all blank im using gnome, for add  how i do it?
+ syockit, if i install tty then work like other distro?
+ syockit, yes ive this file there...
+ syockit, thanks again but for add only 2 tty?i know the comand please
+ syockit, in ctrl-alt-f1 is a X mode,where i am....
+ syockit, i know that exist a comand just for add other virtual shell but i dunno :(
+ Hello
+ I have problem with mounting encryped volume. Can someone help me?

@@ -1,0 +1,2 @@
+ I am trying to set up an ubuntu server using a wireless connection, but I can't seem to get static ip working
+ I need help setting up a static ip server and I have been trying for days, I cannot figure out what I am doing wrong, can someone help?

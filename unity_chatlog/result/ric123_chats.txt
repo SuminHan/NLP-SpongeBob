@@ -1,0 +1,1 @@
+ Woah, I asked it to include restricted extras during the install and it installed the old 173 NVIDIA driver and now I'm getting weird graphics glitches, anyone else?

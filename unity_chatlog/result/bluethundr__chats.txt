@@ -1,0 +1,1 @@
+ hello #ubuntu desktop.. I notice that every time I reboot my "jaunty" laptop, it loses it's resolv.conf settings. how can i get this setting to persist through reboots?

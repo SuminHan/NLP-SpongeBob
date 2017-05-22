@@ -1,0 +1,24 @@
+ Hi, need help badly...
+ Having really weird keyboard input errors
+ When I boot up, it goes to GRUB menu. but every key except the arrow keys work
+ when I select ubuntu 10.10 (because that's all I can select), it gives me an error...
+ Anyone willing to help? I get error: out of disk upon boot.
+ gartral: yes. I get three lines of error, I will send them to you in PM
+ ok...
+ gartral: http://pastebin.com/69iNq0xR
+ and pressing any key does nothing. I have to ctrl + alt + delete or use the reset button.
+ SAMSUNG 1TB
+ samsung spinpoint f3 1tb, is all I remember...
+ SMART attributes seemed fine. Though, I will note, I've had several failed Ubuntu installs with errno 5
+ (usually corrected by burning the CD at 4x)
+ escott: I am not sure how to do that... the partition was formatted as ext4, that's all I know.
+ gartral: Yes, I just installed this morning :P
+ gartral: I'v been having some really odd issues lately, ...
+ and no, there are only 2 partitions
+ they are both ext4, the second one is backup.
+ gartral: Yes, I did configure them manually. I told it to format partition one (then 11.04 which I didn't like), to ext4, and install the bootloader to /dev/sda1 (partition 1).
+ escott: oh. so I have to reformat using sda
+ escott: I thought I could put the boot loader on that partition, I'm not sure exactly why I wanted to but ...
+ gartral: also having GRUB issues. my arrow keys don't work. they come up as letters, P, H, W or something.
+ okay, thanks.
+ bye

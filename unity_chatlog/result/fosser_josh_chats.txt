@@ -1,0 +1,4 @@
+ vuze problem in 11.04 vuze: Depends: azureus but it is not going to be installed. same problem faced during 10.04 last year. why this is so
+ Jasonn: but is repo problem
+ zvacet: yah
+ zvacet: is there any solution. coz last year i faced same problem but then later that problem is fixed

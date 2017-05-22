@@ -1,0 +1,5 @@
+ what's the deal with remote desktop viewer?
+ I'm trying to connect to my win7 machine and get "connection closed: connection to host ip was closed."
+ hello
+ Morning
+ .

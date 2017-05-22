@@ -1,0 +1,6 @@
+ System:    Kernel 2.6.38.4-ck3.9.nasutix x86_64 (64 bit) Distro Windows 7
+ CPU:       Dual core Intel Core2 4400 (-MCP-) cache 2048 KB flags (lm nx sse sse2 sse3 ssse3) bmips 7981.22
+            Clock Speeds: (1) 1200.00 MHz (2) 1200.00 MHz
+ Graphics:  Card ATI RV710 [Radeon HD 4550] X.Org 1.9.5 Res: 1024x768@60.0hz, 1024x768@60.0hz
+            GLX Renderer Mesa DRI R600 (RV710 9540) 20090101  TCL DRI2 GLX Version 2.1 Mesa 7.10.2 Direct Rendering Yes
+ Audio:     Card-1 ATI RV710/730 driver HDA Intel BusID: 01:00.1

@@ -1,0 +1,53 @@
+ i cant speak
+ in ubuntu+1
+ is a geforce 2 mx200 hardware supported to run 11.04?
+ stefg: and do they work good enough for basic desktop activities? reliefing/unburden the cpu?
+ stefg: thanks ill just try it out, otherwise i'll just keep running lxde :)
+ hey I see that nvidia-96 is in the repository for 11.04, does it allow compiz?
+ upgrade is so slow... 50kb/s ;/
+ HyperShock: I made the math ;)... i upgraded my other distro before it went live (beta2) and it was ALOT faster haha... should have upgraded my main also ;/
+ hey how can i install unity on an 11.04 box without gnome installed previously? I tried apt-get install unity, which worked fine downloaded a few packages but no unity (only a desktop no menu or launcher bar)
+ Hey i get "Xsession: unsupported number of arguments (2): falling back to default session" when i try and launch unity... it doesnt complain about lack of 3d though (i have nvidia drivers installed)
+ does unity require gdm?
+ because i use lxdm right now...
+ does unity require gdm? Because im using lxdm right now.. and it doesnt work?
+ gartral: thx
+ ok can anyone help me? Im out of ideas. I upgraded from lubuntu 10.10 too 11.04, everything seemed fine. Until I wanted to try out unity, so I installed gnome and unity and setup gdm as my login manager. But both gnome and unity are not working properly.
+ With gnome I do get the panel, but no minimize/maximize buttons or draggable panels. On unity the panel seems to be completely missing
+ any ideas?
+ hey i used openbox for lxde for a while, now when i log in to gnome (11.04) there are no window borders! How can I fix this?
+ hey i used openbox for lxde for a while, now when i log in to gnome (11.04) there are no window borders! How can I fix this?
+ hey i used openbox for lxde for a while, now when i log in to gnome (11.04) there are no window borders! How can I fix this?
+ matt[vic[: well that worked, but when i quit metacity (keeps running in terminal doesnt close) the borders are gone again?
+ matt[vic[: i think yes, because i upgraded to 11.04 and installed the nvidia drivers
+ matt[vic[: cssm command not found, install it?
+ matt[vic[: i meant ccsm
+ matt[vic[: haha no, installed compiz config... now running it, what do i need to look for?
+ matt[vic[: 11.04 upgraded today
+ matt[vic[: /usr/bin/compiz-decorator
+ matt[vic[: window decorator doesnt show up in the default view btw, had to do advanced search
+ matt[vic[: mm while im sure that will make it work, why isnt it there in the first place?
+ matt[vic[: could it also have to do with something that i had 10.10 lubuntu installed instead of the regular ubuntu?
+ matt[vic[: already tried applying theme before i got here... :)
+ matt[vic[: ok ubuntu classic seems to be working fine now... mayb you can help me with my unity issue too
+ matt[vic[: when i login with unity (ubuntu default) the launcher as well as the panel are not displaying
+ matt[vic[: yes i have installed the drivers, gallium 0.4 ones.
+ matt[vic[: why is it bad? seems like a config issue to me
+ Incarus6: why wouldnt it work for me?
+ matt[vic[: any idea how to completely reinstall unity without reinstalling the whole system?
+ Incarus6: what does it need except opengl?
+ Incarus6: it isnt giving me a warning, nor is it swithcing to the classic desktop
+ FizzixNerd: so any idea how to reset the configuration for unity?
+ Incarus6: when i run unity from console it quits with the message "found no decorator to start segmentation fault"
+ FizzixNerd: I get "found no decorator to start segmentation fault" when i run unity from terminal
+ vibhav: trying it now
+ vibhav: genius... its working!
+ vibhav: thank you, seems like some package dependencies are wrong!
+ vibhav: should be automatically installed with unity imho :), but thx!
+ Incarus6: I already got it working thx to vibhav, i missed the package compiz-gnome for some reason!
+ Incarus6: but thx for the input
+ why is there a debian splash screen in grub AND in gdm when i upgraded to 11.04?
+ where can i change gdm theme in ubuntu 11.04?
+ where can i change gdm theme in ubuntu 11.04?
+ where can i change gdm theme in ubuntu 11.04?
+ angawar: you could use norton ghost :p

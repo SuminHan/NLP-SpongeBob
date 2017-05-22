@@ -1,0 +1,76 @@
+ Yay, I got back to Ubuntu after long years. Quick question: any changes to Xorg regarding how it reads Xft settings? I still can't set DPI to what I want even though I already have the Xft.dpi entry in ~/.Xresources
+ Err I mean fontconfig
+ a gde russkii kanal est ubunt?
+ poshaluista posetitye #ubuntu-ru dlya polutseniya argh I give up reading that
+ Me wants to know how to properly set firefox's dpi settings
+ bison, usually root is disabled. Did you setup root by yourself?
+ karthick87: are you using Windows Starter?
+ karthick87, ok sorry that was a joke. What is the Desktop Manager you are using? Gnome/KDE/else?
+ karthick87, usually it is configurable under Appearance.
+ karthick87, and if you are using the old Gnome (not Unity), I think it's somewhere under Preferences, but I can't recall
+ karthick87, ah, I suppose you've selected one, but then the change does not apply, right?
+ karthick87, is there any background currently? or the default? or just black?
+ pranav, if on LTS, probably you don't have to worry. Unity is the new interface for newer release
+ pranav, on LTS, since many packages still depend on gtk2/gnome2, it's probably difficult to setup gnome3
+ karthick87, have you tried what shcherbak suggested? using gconf-editor?
+ karthick87, just as I thought, somehow your gconf is probably not yours
+ karthick87, if you do 'ls -l .gconf' from your home folder in your terminal,what do you get
+ karthick87, sorry for not telling you about pastebin
+ karthick87, okay, it does belong to you
+ minimal, that's a nice way of pinging ubottu
+ trap22, if you're lucky, you can find one in PPA. rhythmbox has lots of gnome dependencies if I'm not mistaken
+ karthick87, can you remove ~/.gconf/desktop/gnome/background? do 'rm -r .gconf/desktop/gnome/background' from your home folder in terminal
+ karthick87, oh, you don't have to paste the result
+ trap22, i'm not the music-listener type, but right now I have rhythmbox installed with my Unity-based 11.04
+ trap22, I remember using Audacious when I was in Jackalope
+ karthick87, and then try to set background again in Appearance
+ karthick87, this time, in gconf-editor, does /desktop/gnome/background point to anything?
+ karthick87, now that would be strange
+ trap22, not a directory?
+ trap22, what does it output in terminal? maybe it segfaulted
+ trap22, yay it happily runs on my 32-bit! Yeehaw!
+ trap22, might be corrupted download. redownload, it's small, worth the try
+ karthick87, can you 'gedit ~/.gconf/desktop/gnome/background/%gconf.xml' and see if you can save the file?
+ trap22, XMMS2 is actually a player daemon/server, which needs a client to interface with, and has loads of installable plugins for you to play with, for the best hellish customization
+ trap22, if you're lucky, you might get the plugins you want for audacious. I don't know just what "audacious-plugins" package provides. It lists many audio output, and at the end has this "And many more!" line that makes me wonder. It may or may not contain the "31-band EQ"
+ by the way trap22, does that rhythmbox volume slider bug have a bug page in launchpad? Is it fixed? If so, maybe someone could put a backport patch
+ trap22, it seems that upstream has it fixed. The patch is somewhere in https://bugzilla.gnome.org/show_bug.cgi?id=166020 . You may request someone with technical debian knowledge to try apply patch to glib package
+ trap22, yup, that difficult to get things fixed. maybe I can try, I need to set up my build service first. It's been a long time since fixing debian packages
+ trap22, btw by tracing the bug reports, the problem seems to reside in glib
+ trap22, have you enabled the backports repo?
+ try enable it a bit, update repo once, and see if libglib2 or rhythmbox is upgradable
+ bazhang, is backports safe to enable in LTS?
+ elb0w, oh poor dear, what's wrong? Why don't you try unity-2d instead?
+ elb0w, ah I see so it doesn't play nice with multi-heads?
+ no lsb modules available! wait what? how did I get my distro name again? wasn't it lsb_release?
+ wirabumi, selamat pagi!
+ coz_, thanks. Oh, it doesn't display the codename
+ ubuntu_, alt-F1 to alt-F6
+ ubuntu_, wait maybe it was ctrl-alt
+ ubuntu_, from X, ctrl-alt. from tty, just alt
+ newubuntu, don't prefix ! when mentioning nickname
+ Did someone mention witch? Witches shall be lynched
+ ubuntu_ no login at all? just blank? but you have X (GNOME/KDE/etc)?
+ ubuntu_ tty should've been installed by default
+ ubuntu_ see if you have tty1.conf in /etc/init/
+ ubuntu_ the conf file is installed by upstart (I found out by doing 'dpkg -S /etc/init/tty1.conf'), and I think it is also installed in your distro
+ ubuntu_ the command 'ps' will list running processes. If you do 'ps -a | grep getty', do you get a list, or nothing?
+ Sidewinder1, and 11.04 uses it partly
+ fredrik__ it's probably a .desktop entry
+ fredrik__ maybe quite tricky to find tutorial for that one, seeing google doesn't recognize the .
+ fredrik__ if you "ls /usr/share/applications" you get a list of system-installed .desktop files
+ fredrik__ if you want to make your own, put it in "~/.local/share/applications"
+ Sidewinder1, should be. If I'm not mistaken, they included the fallback in case Unity doesn't work. But I haven't tried
+ fredrik__ hence the .desktop file
+ fredrik__ I'm pretty sure Unity also searches it
+ fredrik__ first let's confirm whether it finds the .desktop entry or not. gedit that wine-extension-gif.desktop and check its name. Then use unity's finder to find it. Is it able to find?
+ fredrik__ I just restarted my unity-applications-daemon and it manages to find my custom .desktop. So I suppose it works. After making one .desktop file, you may have to relogin
+ fredrik__ do you already have the .desktop entry?
+ fredrik__ okay go on and relogin, then try to find that file
+ ubuntu_, sorry I'm not sure what's wrong there. so you ctrl-alt-f1 and nothing comes out? Does it stay in GNOME/KDE/XFCE/Unity/whatever  or does it become black screen?
+ nerdshell, come to #ubuntu-offtopic. closely related to ubuntu, but not #ubuntu enough
+ Dink, you may have to download the flavorless unpatched version of the other to avoid dependency conflict. For example, download firefox 3.6 binaries and install to your home or /opt folder. And also make sure to make new profile
+ Dink, yup. I don't know of a deb package that will not conflict
+ ubuntu_, wow I haven't seen one that use f1 for X before. Wait, what about arch... err anyways so how about f2 and f3 or others? btw just for the record my X is on 8, and upstart output on 7
+ ubuntu_ try "getty 8 38400 tty2"?
+ iggyology, or adobe flash?

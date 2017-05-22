@@ -1,0 +1,73 @@
+ hello!
+ after install ubuntu 11.04 i have problem with 2 partitions..   have any idea how to solve it? i have important files
+ Kyle_: i have 2 partiotions and i cant mount them
+ Kyle_:  one is btrfs and the other is ext4
+ Kyle_:  sorry i don't understand
+ if you want to pastebin something
+ nothing but doen't open
+ Kyle_: nothing but doen't open
+ Kyle_:  i didn't try from command line from nautilus
+ Kyle_:  iDBus error org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+ after install ubuntu 11.04 i have problem with 2 partitions..   have any idea how to solve it? i have important files
+ somebody can help?
+ escott, i cant mount 2 partitions
+ of curse
+ no doesnt open
+ btrfs and ext4
+ i dont know what happent
+ DBus error org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+ escott, DBus error org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+ escott, sudo mkdir /mnt/ext4 i do only this and appears this in a window
+ http://paste.ubuntu.com/600469/
+ just to show you my disks
+ escott, ok what can i do?
+ escott, i dont know alot
+ escott, nothing write
+ escott, http://paste.ubuntu.com/600472/
+ escott, i want the files from sda3 and sda6
+ escott,how
+ escott, i mount it before and doesnt open
+ escott, http://paste.ubuntu.com/600475/
+ hello!
+ i have problem with fsck.btrfs
+ i can't see  my data in my partition ? any idea?
+ someboby knows about fsck.btrfs? i cant se my data in my disk after update to 11.04
+ someboby knows about fsck.btrfs? i cant se my data in my disk after update to 11.04
+ arand_, i had /home before and now i cant see my data
+ arand_,  its problem from ubuntu 11.04 after update
+ firtst mad update and after new install
+ arand_, firtst mad update and after new install
+ arand_, in sda3
+ arand_, i dont want to make it home again but only to see the data
+ arand_, ok wait to reboot
+ arand_, i made some updates and need reboot
+ arand_, brb
+ arand, what can i do now
+ arand, ok
+ arand, cant open this folder
+ yes its stack
+ arand, ls stack
+ arand, yes
+ arand,  can i recover the data?
+ arand,  someone told me there is problem with fsck.btrfs
+ arand,  any tool to recover to scan the partition to find the files?
+ arand,  i tried to make install before and stack 2 times and i left this partiotion and made it again
+ arand,  i m dummy and i didn't do nothing the only options from install
+ arand, if helps you this : http://paste.ubuntu.com/600561/
+ arand, yes i did new install to have ubuntu
+ arand,  how to see this?
+ arand, umount: /mnt: device is busy.         (In some cases useful info about processes that use          the device is found by lsof(8) or fuser(1))
+ how
+ arand,  can i sent you the file?
+ arand,  http://paste.ubuntu.com/600566/
+ arand,  fedora its ok?
+ arand,  you think its kernel problem?
+ arand,  data are there you think?
+ arand,  can i make with live cd?
+ arand,  just donwload  the deb?
+ arand, thanks you!
+ arand, with new kernel i can see my files
+ arand, :` )
+ arand, sorry for my english i m greek
+ arand, i ll back up and i ll do clear install in ext4
+ any one know if gnome applets will be converted to regular apps or indicator applets. I'm thinking Byzanz Recorder and  Clipboard Enycryption applets

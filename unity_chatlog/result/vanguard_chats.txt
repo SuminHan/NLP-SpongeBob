@@ -1,0 +1,52 @@
+ Is Natty's Gnome in any way inferior to Maverick's Gnome?
+ bashelina: open ubuntu software center -> installed apps -> remove
+ does Natty work with the proprietary ATI driver?
+ nutsfornatty: okay, so it will work as good as it worked with Maverick. Good to know
+ is there anything one might consider before running Maverick->Natty?
+ iceroot: yeah, that is what I am thinking about …
+ LjL: okay, I should have figured
+ Kyle__: but isn't the "Gnome Classic" just the reguar Gnome I had in Maverick?
+ stefg: I do them often, regulary and manifold :)
+ Kyle__: Unity is too much OSX-Clone for me :)
+ ohsix: that is what backups are for
+ skulltip: hmm, I think Ubuntu had the maximize button on the right when OS X already had them on the left. I ever hated Ubuntu/Gnome for butting them on the left
+ adwonw: sure, Windows works if you know how to work with it. Linux is only free, if your time has no value :)
+ ohsix: I was so happy to get whiggly windows after 5 years … maybe I should not touch it then? :-/
+ ohsix: the exact values are not that difficult, I'd just retweak them.
+ cordoval_: k3b or brasero should do the trick
+ ohsix: I'll upgrade my sidekick computer to give it a test
+ Gosha: the unity sidebar? you can't
+ Macer: I pray that my ISP has a mirror :)
+ Macer: I'll race ya :D
+ maco: 347 kB/s ;-)
+ Macer: 347 kB/s
+ is there some easy way to copy data via ftp with a script (like on does with cp or rsync)
+ I just upgraded to Natty and now my Desktop Effects lag seriously (was fine with ATI driver in Maverick), my window decorations are gone. How can I get everything back into a working state?
+ I just upgraded to Natty and now my Desktop Effects lag seriously (was fine with ATI driver in Maverick), my window decorations are gone. How can I get everything back into a working state?
+ qin: is it normal that it does nothing for a while after imgsvg?
+ how can I disable password strength checking so that I can use "hello" as a password?
+ sathamurka: via a PPA?
+ sathamurka: what do you mean with "messed up"?
+ Buddhacz: right, root can do everything :-)
+ sathamurka: unity seems to be a pretty polarizing issue :D
+ I just did a suspend to RAM and now my USB speakers do not play any sound any more
+ I just did a suspend to RAM and now my USB speakers do not play any sound any more. How can I fix/diagnose this?
+ pepe: yeah, it does not seem too perfect :-/
+ I just did a suspend to RAM and now my USB speakers do not play any sound any more. How can I fix/diagnose this?
+ LAcan: already did twice
+ Buddhacz: hmm, still no sound
+ anyone any ideas on the USB speakers?
+ I just did a suspend to RAM and now my USB speakers do not play any sound any more. How can I fix/diagnose this?
+ My USB-Speakers are dead after a suspend to RAM. I check all volume bars and mixers, and the USB interface is selected everywhere. What can I do?
+ UserX7: sort textfile > sortedfile
+ UserX7: or open in vim and type :sort
+ UserX7: no clue
+ UserX7: but there has to be something
+ how can I get rid of everything Ubuntu One?
+ AG_Scott: I guess I will have to restart?
+ I just enabled the compiz-cubes, I can drag winows around, but the windows in the taskbar are not refreshed anymore
+ how can I manage via the console?
+ how can I manage WIFI via the console?
+ ZekeS: are you serious, or is this some sort of fancy joke?
+ ZekeS: any idea where I can find something? I just want it to connect to my house network like it does automatically on gnome login
+ llutz: k, thx

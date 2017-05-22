@@ -1,0 +1,8 @@
+ support?
+ i am running my system via rescue cd now when accessing my software raid devices after some time i get this error: ata1: hard resetting link .....
+ after a restart it sometimes works and sometimes not
+ can somebody help me?
+ what will i have to allow in iptables to remove this log message: IN= OUT=eth0 SRC=46.6.19.231 DST=217.222.221.76 LEN=84 TOS=0x00 PREC=0x00 TTL=64 ID=47324 PROTO=ICMP TYPE=0 CODE=0 ID=15983 SEQ=2
+ thought INPUT icmp 0 and 0 will be enough
+ and 8
+ SRC is my server

@@ -1,0 +1,3 @@
+ hi there
+ guys, can anyone point me to good nginx + php-fpm howto?
+ http://library.linode.com/web-servers/nginx/php-fastcgi/ubuntu-10.04-lucid --- is it actual enough?

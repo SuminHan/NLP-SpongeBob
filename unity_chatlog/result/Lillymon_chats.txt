@@ -1,0 +1,3 @@
+ Hi, I've got an Ubuntu system with 512MB RAM here. What happens if I upgrade to 11.04 on this system? Will Unity be enabled by default, and if so what happens when using Unity on a system below the minimum requirements?
+ Casper76: When I saw the system requirements, the first thing I did was tweet about considering a switch to Xubuntu or Lubuntu.
+ How easy is switching from Ubuntu to Xubuntu or Lubuntu?

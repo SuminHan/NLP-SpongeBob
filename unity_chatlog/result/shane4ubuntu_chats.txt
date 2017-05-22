@@ -1,0 +1,74 @@
+ marel: command line?
+ marel: like escott said, rm -rf foldername  be carefull with that though
+ fizk_: servers are overloaded, best off downloading the torrent, getting a disk and upgrading that way, alt-disk
+ fizk_:  yep, so you decide, ride it out, or start a torrent for the disk, once you have the disk image, and burn it, you shouldn't have to download more stuff right way
+ Sonorus: really depends on the situation, how much extra applications you have installed, and where you installed them from.
+ Sonorus: then you probably have a good chance, however I can't really comment on that since I haven't done that.
+ Sonorus: one thing to consider, is the servers are very overloaded so, downloading the upgrade packages will take longer than normal, one person said it took them about 2 hours
+ Sonorus: you could download the alt-desktop disk from torrents and then pop that in and upgrade off the disk, perhaps a faster solution
+ mnoyce: you can switch to the classic desktop if you don't like the desktop
+ mnoyce: understood.
+ finally got my iso downloaded (via torrent on my slow dsl), going to re-install  have fun you people with slow upgrades. ;)
+ jo-erlend: that happened to me with the last release, I didn't even find out till a week after! :)
+ nutsfornatty: how do you switch back and forth?
+ MrStein: probably just wait till the rush is over. :(
+ nutsfornatty: ahh, ok, I thought there was an even quicker way the way you had mentioned it, thanks.
+ sebsebseb: ??  I think you got the wrong guy! :)  How's it going though!
+ sebsebseb: I have already previewed unity and already plan on sticking with gnome though. :)
+ !language | [dlp]
+ sebsebseb: is gnome shell the same as gnome desktop?
+ sebsebseb: ahh, ok
+ sebsebseb: right I was playing with gnome3 a little in my little spare time, but didn't get far, thanks for the info.
+ be back after a clean install.
+ ok, I take it that this http://askubuntu.com/questions/30742/how-do-i-access-the-system-tray   is no longer correct?
+ Also, I really miss my bottom panel that had all my open apps on it, how do I do that in unity?
+ ceed^:  You mean I have to take my hand off my mouse???
+ ceed^: my side bar is sooo full, it is almost useless, it takes quite a bit of time to scroll down, and not all open apps show up there.
+ ceed^: I'm trying to give unity a try, but not very happy about it thus far, perhaps I will learn the tricks and like it.
+ ceed^: ok, cleared some of the junk out of the side bar, and the apps are there, thanks!  I didn't realize they were in there.
+ how do we get special effects for unity?
+ mickster04: like before, just enable them through the appearance menu
+ I just looked, and it isn't there mickster04, I guess I need to install compiz?
+ unity and desktop cube?  no?  I tried to enable it, and that didn't go over well.
+ half of the warning box is off the screen so I can read it.  ugg.
+ ohhh, great, I messed with compiz and now unity is broken, no menus, no sidebar thingy  that isn't good
+ alt-tab does nothing
+ alt-f2 does nothing!
+ any ideas on how to fix this?  apparently compiz and unity are not friendly with each other
+ nandaram: that is a virtual terminal what do I do once I'm there?
+ nandaram: I like the channel no swear policy thanks anyway
+ Jon4248: is that going to reboot it?
+ Jon4248: but if the settings in compiz aren't right, then that won't change them right?
+ Jon4248: seems as though I have lost the windows manager, how can I restart it?
+ Jon4248: no,
+ Jon4248: ok, but I'm not sure what to reconfigure compiz back to, I didn't realize it was going to mess up unity with just two clicks of a mouse
+ Jon4248: I was going to enable the desktop cube, and then all the warnings popped up mostly off the screen so I couldn't see them.
+ Jon4248: so trying to click through them without knowing what they said, I'm not really sure what I did.
+ robin0800 then how do you change them?
+ Jon4248: hmm, that didn't seem to fix it, still no windows manager.
+ brb]
+ Jon4248: are you kidding???  I just about got through setting up my install, I can't believe it was that easy to break unity, they should have a great big warning label on compiz
+ Jon4248: I will go back to the classic desktop before I re-install, that is just absurd.
+ Jon4248: someone must have a way of fixing this, I mean, it shouldn't be that easy to break it.
+ well, in less than just a few hours I managed to break unity, and am back in the classic gnome desktop
+ yi`zhi: not impressed, although, now it appears I broke gnome too, so perhaps this is a compiz/natty problem
+ ok, what is the desktop??? used to be metacity, I guess that is no longer true??
+ yi`zhi: I have no idea, don't mess with compiz, I have already botched both my desktops.
+ yi`zhi: that is unity and gnome
+ ok, anyone with actual knowledge about enabling desktop cube with unity?  I tried ccsm and that was very bad news.
+ xangua: ok, thanks, I will check it out.
+ xangua: I will find it thanks.
+ robin0800: thanks
+ how about getting things to show up in the notification area?  anyone know about that?  there a many apps that I use and like them up there.
+ robin0800: I found the whitelist  thing, but was unable to locate it in gconf-editor, seems that has changed.
+ robin0800: I didn't see it, let me doublecheck, I was looking at a web page that pointed me to desktop -> Unity -> panel or something like that.
+ robin0800: got a link to what you are looking at?
+ robin0800: you are a pro, thanks!
+ Ok, I'm starting to learn Unity, I found there are many indicators that can be added up in the corner, how do I add them?
+ This page discusses the indicators, but doesn't seem to explain how to add them to the 'notification area?"
+ http://www.omgubuntu.co.uk/2011/01/the-omg-guide-to-must-have-indicator-applets/
+ sebsebseb: but it seems to indicate that those come with 11.04, and reading the article I thought it was unity.
+ mordof: I think I figured it out, you need to install them, I searched for indicator, and was able to look at them, however have to reboot in order to activate them.
+ robin0800: ahh, startup menu
+ sebsebseb: it is for unity the first paragraph explains the doing away with the Application Panel indicators, and the new entry of indicators.
+ what is the default unity network manager?  the gnome one?

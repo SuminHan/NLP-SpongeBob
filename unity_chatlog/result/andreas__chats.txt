@@ -1,0 +1,15 @@
+ hi, i installed gnome 3 (i use nouveau). Everything runs snappy but moving the windows lags a lot. the mouse is much faster than the window moves. Anyone know of this problem?
+ (i'm using 11.04)
+ heard it might have something to do with nouveau and vsync. maybe anyone know how to disable vsync with nouveau?
+ How can i disable vsync with nouveau driver?
+ bullethead, i just installed it
+ but i have a problem with laggy window moving
+ if i move the window it lags way behind the mouse cursor
+ ZeXx86, i'm using nouveau
+ with gallium
+ works pretty snappy but the windows lag bad
+ :(
+ i had problems with the proprietary nvidia driver, it would slow down to a crawl when there were tray icons (empathy for example)
+ wel, actually it does ;)
+ seems like my problem is related to vsync being enabled
+ but i have no clue how to turn it off in nouveau

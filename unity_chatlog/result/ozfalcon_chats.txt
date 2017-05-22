@@ -1,0 +1,1 @@
+ How do i remove env variables permantly? I can unset them, But when I log back in they are back. I can't find any location they are set in .bashrc or local home. Does not set for a different user. So is user related.

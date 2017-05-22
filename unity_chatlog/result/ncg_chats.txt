@@ -1,0 +1,13 @@
+ hey
+ can , iask a question here?
+ thanx
+ okay
+ i was upgrading my ubuntu to 11.04
+ then my lap power off
+ and when i rebooted , this error appeared : init: playmouth mainprocess (61) killed by SEGV signal
+ ?!
+ sorry for the disconnection thing , so my problem was this error appeared when i rebooted  >> init : playmouth main process (61) killed by SEGV signal
+ any help please ?!!!
+ ??
+ hello, any help please ???
+ any  help please ?

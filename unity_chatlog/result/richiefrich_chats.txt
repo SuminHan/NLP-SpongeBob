@@ -1,0 +1,82 @@
+ how can i block the upgrade, as i dont want unity
+ and i dont wanna run it on accident
+ _genuser_: i use them all
+ _genuser_:  yeah
+ _genuser_: i work at a datacenter and i need to help others
+ i need to bnlock the 11.x upgrade though
+ i dont want unity
+ Taint_: it trys to be OSX
+ Taint_: the icons and the panels are not even editable
+ _genuser_: that is it, i dont want it, so now i will never upgrade
+ _genuser_: i know i can bnlock it but i am used to emerge not apt-get
+ Taint_: http://www.splitbrain.org/blog/2010-10/25-ubuntu_unity_sucks
+ Taint_: see it is no good
+ so no way to block unity?
+ _genuser_: yeah
+ _genuser_:  one last thing, if you know
+ _genuser_: how can i get it to stop asking me if i wanna upgrade
+ _genuser_: i dont see that in cron
+ i dont want to click yes on accident
+ Garry: i see that, but i mean i dont even want it to ask
+ like ever
+ oh i know
+ ill disable apt-get
+ _genuser_:  chmod 0 /usr/bin/apt-get /usr/bin/aptitude-curses ; chattr +ai  /usr/bin/apt-get /usr/bin/aptitude-curses
+ _genuser_: i fixed it
+ _genuser_: i will fix it on my own, like that :P
+ _genuser_: where is that
+ _genuser_:   There's the Startup Application Preferences. ??
+ _genuser_: i see it
+ _genuser_: nice
+ _genuser_: i do, i am so not used to gui's
+ _genuser_: good luck
+ _genuser_: just chaneg from gnome, to like awesome
+ _genuser_: use archlinux
+ it is nice and fast for a netbook
+ _genuser_: install it in a chroot on the main box and then just rsync it. I mean use sys-devel/crossdev
+ Garry: yes ty
+ _genuser_: trye
+ true
+ _genuser_: only thing i would like on this is FF4
+ _genuser_: but i can install that manually
+ _genuser_: since i diabled apt-get
+ _genuser_: it might be in beta
+ _genuser_: sudo apt-get install lubuntu-desktop
+ _genuser_: i guess it is the old school
+ _genuser_: maybe not
+ _genuser_: really, how did it fail
+ no
+ thats a year old now
+ over
+ what panel are you using
+ oh then idk
+ i dont think you can move things around
+ at this time, could be wrong
+ you used to be able to right click
+ KNUBBIG: yeah you cant even put the launcher on the bottom
+ or top
+ KNUBBIG: needs to be on the side
+ tbf: lol switch to xface :P
+ XFCE
+ i mean
+ tbf: oh i wasnt a fan
+ tbf: yeah unity
+ tbf: i just switched to another window manager
+ _genuser_: all ok?
+ _genuser_: do you like it :P
+ _genuser_: =o
+ _genuser_: wow nice
+ _genuser_: lol
+ right
+ i didnt upgrade
+ _genuser_: i win \o/
+ _genuser_: what i dont get is when i cat /etc/debian_version  i see -> squeeze/sid
+ _genuser_: you would think it be different on ubuntu
+ _genuser_: wish you luck
+ _genuser_: =o  i never played with encryption like that
+ _genuser_: i wonder how slow it is
+ _genuser_: ahh
+ _genuser_: let me know, if you try it
+ _genuser_: yeah or you can join my channel :P
+ _genuser_: oh yeah
+ _genuser_: ill pm you

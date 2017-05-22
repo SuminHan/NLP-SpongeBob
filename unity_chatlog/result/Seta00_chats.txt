@@ -1,0 +1,2 @@
+ uh, did anyone here get Dropbox working on Nautilus 3?
+ (icons/context menu)

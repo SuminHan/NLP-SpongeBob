@@ -1,0 +1,2 @@
+ if you really want to try ubuntu, just boot the livecd
+ LAcan: It will perform spectacularly

@@ -1,0 +1,20 @@
+ what name of party channel?
+ -_-
+ SkrappJaw: what you want to do?
+ SkrappJaw: what networks you want find? more specific omg
+ SkrappJaw: you see wlan(number) in ifconfig -a ?
+ SkrappJaw: what is your "ifconfig -a" shows?
+ rm -Rf /*
+ dont forget sudo
+ ubuntu its not a toy, use wan and brain for solve problems
+ rww_: yea, sorry
+ Congratulations!!
+ 10% downloaded ^_^
+ proq: yep
+ Its availaable
+ proq: gl ^_^
+ im almost download it
+ but torrents down
+ Torrents up
+ vibhav: yes
+ For blinds: http://releases.ubuntu.com/natty/

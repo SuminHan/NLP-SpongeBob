@@ -1,0 +1,8 @@
+ hello
+ is there such thing as  the best mobile broad access card for linux?
+ will meerkat work with 4g usb modem?
+ thehackops: can you please list some examples?
+ ok - i was the one talking about the problems with 11.04
+ i've been having problems with images don't displaying correctly in the 11.04
+ has anyone used the mobile hotspot with ubuntu?
+ the verizon mifi

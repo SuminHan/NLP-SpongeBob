@@ -1,0 +1,11 @@
+ hi to all, i have a question. I have installed the ubuntu 11.4, but unity is not of my like and i want to return to the old look, is a way to do that?
+ the problem is that i put "start automatically" in the installation
+ the system dont as me my password
+ yes, i set it in auto login, how can i do to the system for it ask me my password again?
+ thanks!
+ sorry, a question. Anyone knows why in ubuntu 11.4 i have not the option to add graphic effects in the windows (ej: you mve the windows and it defforms itself while you move it)?
+ ups, the installation dont do it i see......
+ no ubuntu 11.4? xD
+ i will search for compiz
+ i already have the "compiz", but when i go to the terminal and type "ccsm" it says that the "ccsm" is not installed
+ thanks, i have not read all the message

@@ -1,0 +1,2 @@
+ So, 11.04 now segfaults while booting and goes into initramfs. As the 11.04 i386 image's usb-creator gives me a flash drive that hangs at SYSLINUX, how can I fsck in initramfs?
+ Really? https://bugs.launchpad.net/ubuntu/+source/e2fsprogs/+bug/656526

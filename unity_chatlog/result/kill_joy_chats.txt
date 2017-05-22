@@ -1,0 +1,23 @@
+ hey everyone
+ Just upgraded to natty and I'm having issues with synaptic and software center.  If anyone can help... please pm me
+ any ideas on how to fix this? --->
+ E: Encountered a section with no Package: header
+ E: Problem with MergeList /var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_natty-security_main_i18n_Translation-en
+ hello thelord
+ what up
+ luis - type "display" in the unity search app  and you can mess with the resolution after clicking "monitor"
+ I just went there and  there's a pull down menu
+ just did a quick check...  I'm sure you're right
+ ok, I just typed "nvidia" into the unity search and got my graphix card settings...  try typing in yours
+ once you're in your settings (nvidia in my case) your display settings are to the right (pull down menu) lets you choose new resolution
+ anyone having issues with synaptic after upgrading to natty?
+ bullgard4: I've gone through alot of forums and can't get the issue resolved
+ bullgard4: ok, I'll give it a try
+ hello
+ anyone know how to make ubuntu check for file errors and correct them (in terminal or otherwise)?
+ thanks
+ ok
+ alright, ubottu. I'm going to give that a shot. thank again
+ hey, if anyone is having issues with synaptic in ubuntu 11.04, I posted a forum thread that solves the issue:  http://ubuntuforums.org/showthread.php?t=1746485
+ ello, ello
+ well, just wanted to post that thread.  Hope it helps.  bye all

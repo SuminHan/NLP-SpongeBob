@@ -1,0 +1,5 @@
+ you dont have to use unity if you dont want to
+ is there a way to pre-download a dist-upgrade?
+ thegoodcushion, you can login using "Ubuntu Classic"  and get the current (previous) gui
+ mbrochh, must be using virtualbox 4.0.6
+ mbrochh, what petey said, plus you may need to adjust the memory quantities (check video especially)

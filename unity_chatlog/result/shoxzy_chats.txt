@@ -1,0 +1,8 @@
+ been trying to SSH music into an ipod touch 4g and cant get it to work. trying to connect by going to Places > Connect to Server but its not working. Using a Touch 4g, Jailbroken and Ubuntu 10.10 Maverick Meerkat. Any advice?
+ well it comes up with no route to host
+ ssh: connect to host 192.168.1.5 port 22: No route to host
+ yep
+ yep it says on sb settings thats the ip
+ it was working the other night
+ k
+ still getting no route to host :/

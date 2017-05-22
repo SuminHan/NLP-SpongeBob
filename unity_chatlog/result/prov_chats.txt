@@ -1,0 +1,4 @@
+ If I boot ubuntu in the livecd mode can I direct it before it boots to full to mount the disks as readonly?
+ Dr_Willis: How can it be done?
+ Dr_Willis: Do I need a special distro?
+ Dr_Willis: Not even forensics distros.

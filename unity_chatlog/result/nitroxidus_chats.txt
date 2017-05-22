@@ -1,0 +1,3 @@
+ Hi.I have 11.04 beta 2 installed how do i upgrade to 11.04 rc
+ ok
+ how do i check if im not on ubun tu 11.04 beta 2 i did sudo update and upgrade

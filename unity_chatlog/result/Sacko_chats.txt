@@ -1,0 +1,7 @@
+ hello all. trying to install ubuntu from CD after booting gettting dropped into BusyBox/initramfs with message "Unable to find a medium containing a live file system".  Can anyone help?
+ has anybody ever ran into the "Unable to find a medium containing a live file system" error when installing from a live CD?
+ guntbert: yeah, google is devoid of much information on the subject
+ guntbert: is there a tool for generating the md5sum on Vista?
+ guntbert: I didn't think that was the issue since I've had the problem with multiple different Live CD's, and even when booting from a USB stick
+ guntbert: thanks i'll start there
+ is it possible to net install ubuntu with win/mac as source?

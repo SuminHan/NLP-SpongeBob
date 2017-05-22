@@ -1,0 +1,12 @@
+ Hello, using Unity 11.04, how do I make the launcher execute multiple instances of a program (such as gnome-terminal)?
+ ActionParsnip: I don't want tabs, I want seperate windows
+ hmm, nevermind, I guess that seems to do what I want. Thanks ActionParsnip bastidrazor
+ hello, using 11.04 Unity, is there anything that parallels an application dock? I feel like there is no visible notifications for things like pidgin and thunderbird
+ insanity99: assuming that you know them, as a new user it's maddening
+ I completely broke my desktop just trying to tweak compiz a bit, had to wipe a handful of config directories to get back to a sane state
+ on the up side firefox 4 is awesome
+ hello, using 11.04 Unity, is there anything that parallels an application dock? I feel like there is no visible notifications for things like pidgin and thunderbird
+ ActionParsnip: is that something else to install, or just the left side? that doesn't do well for status notification
+ also I miss having a running performance monitor in the dock, all you get are static icons from dasher
+ Is there any way to add things to the top bar? next to volume and such?
+ thanks coz_

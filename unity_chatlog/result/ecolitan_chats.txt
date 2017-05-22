@@ -1,0 +1,2 @@
+ hello, is it possible to do the upgrade from the commandline?
+ ty Pici

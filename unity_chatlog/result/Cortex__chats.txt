@@ -1,0 +1,3 @@
+ is there any way to change to the stable ubuntu version? it currently keeps crashing on me
+ magicianlord: can i download it directly and apply it or do i have to do the livecd or usb install?
+ magicianlord: all right, thanks

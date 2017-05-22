@@ -1,0 +1,1 @@
+ i'm probably doing something not right, apt-get remove apache2 to remove the apache server (replacing it with lighttpd) but apache still exists in start scripts [binds port 80]

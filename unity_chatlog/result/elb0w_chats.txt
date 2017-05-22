@@ -1,0 +1,20 @@
+ If I upgrade to 11.04 what do I lose from 10.10?
+ how do I install gnome3 on 11.04?
+ [TK]D-Fender, was asking here incase of the "DONT DO IT"
+ coz_, do you promise? haha
+ Will it break anything else?
+ guess ill wait a bit then before I put it on my dev box
+ If Im getting a black screen booting ubuntu 10.10 arent there some commands I can add?
+ like noacpi or something
+ I've installed ubuntu on a machine that runs a nvidia card and drivers arent there by default. I changed to ro nomodeset single and booted into netshell and installed Nvidia drivers. When I try to reboot now I just go into power saving mode. Any ideas?
+ ActionParsnip, that didnt work
+ ActionParsnip, should it be there by default?
+ I mean change the default*
+ How do you check the current driver thats being used for graphics?
+ shell / gui
+ ugh unity
+ makes me sad
+ syockit, it broke one of our systems that runs 3 monitors
+ had to roll back to 10.10
+ and its by far not a developer desktop
+ Also the "classic" version just through errors

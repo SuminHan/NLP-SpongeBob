@@ -1,0 +1,39 @@
+ hello, i just upgraded to natty (11.04) and my laptop has been behaving weirdly. The shutdown promt pops up and shuts down after 50 seconds even if I press cancel a million times, and now the laptop doesn't even boot up (i press the power button and it starts for 2 seconds, then dies instantly).
+ anyone? I really need my laptop to be on at least.
+ botcity: had 10.10, the system upgrade popped up, I pressed upgrade
+ nope, laptop was untouched
+ lcb: nothing, laptop doesn't boot. If I unplug the power and plug it back in, it boots for 2 seconds with a blank screen and then it's off
+ lcb: same thing happened yesterday but it booted somehow after 2 hours of trying to boot
+ lcb: nope
+ lcb: I did get it, but the thing is nothing shows up
+ lcb: just a blank screen for less than a second
+ lcb: then it dies
+ lcb: Acer Timeline X 4820 TG
+ lcb: looked up the thread on ubuntu forums as well, nothing mentioned
+ lcb: furthermore, when I unplug and replug the power supply, it start automatically!
+ lcb: this would inquire BIOS to start
+ lcb: but BIOS doesn'
+ lcb: i tried holding it down for 5 secs, gonna try 20
+ botcity: i can put it on my flash drive
+ lcb: doesn't boot up with the battery on
+ lcb: it's crazy, it boots up on it's own when there's no battery
+ lcb: nothing was wrong until I upgraded
+ lcb: and as I told you, the shutdown prompt was up and I even if I selected cancel it would promt me again
+ lcb: and eventually shut down
+ lcb: no, i remove the cord and the battery, then plug the cord and it boots up
+ lcb: ofc it doesn't boot with no power source :P
+ lcb: I wouldn't complain AT ALL if that was happening :D
+ lcb: yes, can't
+ lcb: it doesn't go as far as BIOS
+ lcb: just a second, maybe less, of blank screen
+ lcb: i tried DEL as well
+ lcb: to enter BIOS settings. Nothing works
+ lcb: it looks as if the BIOS doesn't even load
+ lcb: nope
+ lcb: I hope so, I really like ubuntu and don't wanna go back to g4y M$
+ IdleOne: that's why I used the non existant word g4y.
+ lcb: know that
+ IdleOne: you never know the intent, unless the author tells you what the intent is.
+ IdleOne: I get what you're saying, but I have a quite big issue and you point out something completely irrelevant which doesn't help.
+ lcb: he probably won't, as I said a bad word while in a bad situation.
+ lcb: ah, nvm

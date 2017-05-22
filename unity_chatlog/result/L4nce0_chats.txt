@@ -1,0 +1,8 @@
+ hi guys, I'm trying to set gedit as my default editor for cpp files... how can I do this? google is failing me
+ Juest: that's what I've been doing to just open it... ah bah I see it now. Thanks! /egg on face
+ Juest: selected remember for c++ source, but it's not actually having an effect =/
+ yeah, just goes back to emacs (like the one I don't know at all =P)
+ frairly fresh VM so dunno
+ Juest:  I've tried that too.. but no text editor field =)
+ Juest:  I've done it! select a .cpp, properties, open with..
+ it does it. I'll just not worry why settings aren't actually changing the proper way...

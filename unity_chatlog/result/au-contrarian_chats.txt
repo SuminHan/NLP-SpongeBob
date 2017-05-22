@@ -1,0 +1,5 @@
+ escott- then name is just maddening.  There is Grub, I get that, and that never really had a version 1, it just went up to 0.97 - and then they decide to release Grub2 but that is version 1.97 - seriously WTF?  They could have at least called Grub2 v1.0
+ Why was Grub2 v1.97 and not just 2.0?
+ So Grub2 isn't really Grub2, it's Grub1.97
+ escott, hiexpo - thanks.
+ escott- then name is just maddening.  There is Grub, I get that, and that never really had a version 1, it just went up to 0.97 - and then they decide to release Grub2 but that is version 1.97 - seriously WTF?  They could have at least called Grub2 v1.0

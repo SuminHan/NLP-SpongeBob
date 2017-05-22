@@ -1,0 +1,16 @@
+ jmcantrell_: system76
+ jmcantrell_: no i buy used thinkpads
+ jmcantrell_: mostly anything works... just google ibm certified thinkpads
+ jmcantrell_: ibm sells them with a 1 yr warranty
+ jmcantrell_: no idea can you link me
+ jmcantrell_: msg me
+ tripelb: just curious.  does it work on windows
+ tripelb: never heard of it but id be impressed.  thats a small language
+ tripelb: good luck, thats a niche
+ karma_police: man iwconfig
+ karma_police: ad_hoc is ad_hoc it shouldnt matter what device is hosting it
+ karma_police: are you getting an ip address, first off
+ karma_police: youre not helping me
+ karma_police: "connect to wireless networks" is kinda vague
+ karma_police: are you getting an ip first off
+ karma_police: okay i see youre not going to troubleshoot

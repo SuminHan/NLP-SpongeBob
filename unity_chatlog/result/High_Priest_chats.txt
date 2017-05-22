@@ -1,0 +1,5 @@
+ tyreza, ssh to each and run it
+ tyreza, snmp
+ tyreza, which is exactly why you should listen to our advice and go with ssh, you'll get it done in 2 mins
+ tyreza, then explain exactly what you are looking for and what you are trying to achieve and someone might actually help
+ tyreza, snmp doesn't have anything to do with that

@@ -1,0 +1,5 @@
+ anyone know how to enable menus and so on in my seperate X screen (nvidia)?
+ aauthor: This is a great place to ask this :)
+ Its the #ubuntu support channel, after all.
+ aauthor: Oh, good point, haha. Still might get away with it, just be super-patient since there's no obligation to help ;p
+ aauthor: But as LjL said, have you tried rebooting?

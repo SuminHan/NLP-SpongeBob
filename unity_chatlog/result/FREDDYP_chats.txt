@@ -1,0 +1,4 @@
+ HEY I AM USING 10.04. EVERY OTHER WEEK MY FILE SYSTEM BECOMES CORRUPT. STUFF VITAL TO BOOTING UBUNTU. WHY IS IT DOING THIS
+ ok
+ it varies. on the last time it complained about a font missing. before that i think it was could not mount or find errors, but not related to a font.
+ i don't delete nothing myself

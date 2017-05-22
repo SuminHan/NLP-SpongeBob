@@ -1,0 +1,6 @@
+ can someone please tell me why the desktopnova indicator doesnt show in unity?
+ oh...had no idea. any idea where i can get the list?
+ tyvm
+ ubuntu installer doesnt seem to see my hard drive
+ can anyone help me
+ it works fine with windows, but ubuntu doesnt see the hard drive

@@ -1,0 +1,27 @@
+ ray24, NTFS Configuration Tool sounds promising.
+ heck, ubottu might know some tips.
+ !ntfs
+ ry24, running the app as root failed?
+ erm ray24
+ how do i keep initramfs (bash thing) from showing up when i power down my netbook?
+ Ray24 it sounds like your system, andnot the drive itself. trying robly wont hurt it though.
+ ok.
+ any one know anything about initramfs as a bash failsafe for ubuntu 10.04?
+ mikedddd, try 'sudo apt-get install'
+ t updates everything.
+ it*
+ mikedddd,  if that fails remove it and install it. you houl have the new version.
+ ye
+ yes
+ !es | n-iCe
+ mikedddd, ok
+ mikedddd, so it still runs?
+ mikedddd, restart your computer then?
+ mikedddd,  try sudo apt-get purge mpeg
+ or th apps name
+ how do i keep bash from popping up on my netbook everytime i boot it up? it eventually goes to ubuntu, but it takes forever.
+ surely in the 1802 people there is someone who knows about this?
+ uabn93, nvidi prvides linux driers for it cards.
+ nvidia
+ its purple!
+ who here lys Alien Arena?

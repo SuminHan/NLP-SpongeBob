@@ -1,0 +1,70 @@
+ trying to install natty, but when i got to the partition thing, i can't set the mount point manually. any idea why?
+ zvacet: i chose erase ubuntu and then i clicked advance partitioning
+ zvacet: anything?
+ zvacet: i see all my partition. and i want to make new partition table from scratch. i'm planing to have root, /var, /cache, /cache1
+ zvacet: but when i want to make a mount point for the /cache and /cache1 i was unable to do so, due to the mount point option can't be manually edited
+ zvacet: i'm making a new partitionin...like i said
+ zvacet: i can use any name for the new partition, but the problem is the installer won't let me type manually. i have to choose from the drop down list
+ zvacet: the options only "/", /boot /home, /tmp, /usr, /var, /srv, /opt, /usr/local can't i use other than that?
+ zvacet: so if i need other partition name other than that, how can i do that?
+ used to be able to name custom mount point for partition :(
+ zvacet thanks
+ anyone know how to use custom mountpoint name for a new installation??? please....
+ somebody?
+ zvacet: come on... its okay, we're all learning here. perhaps someone else know about my problem
+ okay, simple problem, can i have two partition with the same mount point? how will i address each partition?
+ geez.........
+ how to make custom partition mount point in 11.04 owhhh ubuntu never got this stiff before.... :(
+ lcb: -1 for me!
+ lcb: lol. i was a happy user until natty ^_^
+ lcb: i don't even get to the dektop yet. i'm still going to partition my hard drive for ubuntu
+ lcb: but stuck, unfortunately
+ lcb: can you lend me a chainsaw instead? lol
+ lcb: i need to name a custom mountpoint for my partition, but the installer won't let me do so. any workaround for that
+ lcb, its not that hard to solve. coz i did it bfore in prev version
+ so, 11.04 don't let me make own mountpoint? wow. i wonder why...
+ lcb, does 11.04 not using grub2?
+ zcvacet: couldn't agree more on that... :)
+ hmm... i think i'll reinstall the 10.10 now
+ can 10.10 be upgraded using usb flash drive?
+ lcb: ok let me read that first. hang on...
+ lcb, ah.. costumising grub menu. nice info. thanks, gonna try that later after i'm done with basic 11.04.
+ anyway, lcb,can 10.10 be upgraded using flash drive containing the 11.04 installation. coz my connection is not that lightning fast and its late nite
+ lcb, that summarize why you have all those tools with you. jackhammer and that knife.
+ lcb, ok, i'm gonna head straight to the crime scene now. thanks alot
+ lcb, so i need to update 10.10 first. ? ouch, its gonna be a long night
+ lcb. hahaha.. i shouldn't remove the partition table in the first place.
+ lcb, i was erasing my partition table before deciding to install 11.04
+ zvacet: yup lesson learned
+ lcb: it was a proxy box anyway, and the setting was backed up. so i thought why not start using 11.04 fresh from the bedshed. :D
+ lcb, i'm trying to RE-installing my pc with the new ubuntu
+ don't like the term upgrading, coz i thought it might leave some mess
+ but then i was wrong, its better upgrading with this realease
+ lcb, the conf and package are well backed up every week bfore, so i thought nothing to worry about starting a new installation from scratch.
+ now i need to install 10.10 first, make my custom mount point and update, clean, and upgrade to 11.04
+ lcb, but in your oppinion, will it worth it?
+ lcb, i mean, upgrading to 11.04 at the momment, with the freshly launched?
+ lcb, thanks alot for the opinions.
+ ny51bern: how can you be helped?
+ lcb, so i got 3 unmounted partition in 11.04, how to make it auto mounted?]
+ ny51bern: whats the options? i never see that..
+ ActionParsnip: how to get the uuid
+  ny51bern: http://ubuntuforums.org/showthread.php?t=1195275 & http://ubuntuforums.org/showthread.php?t=1296225 credit to lcb
+ ActionParsnip: can you gimme example of fstab line for reiserfs filesystem?
+ ActionParsnip: ok thanks
+ i'll be away for awhile
+ lcb, you know, i finally come around with my partitioning problem. thanks to ActionParsnip and you... ^_^
+ and now i have a problem installing opensshserver
+ it keeps telling me the openssh-client version is higher than the openssh-server needed
+ hi, i'm confused. my ubuntu can't be pinged from outside, but it can ping to outside. what might go wrong?
+ escott: the other computer is connected through a router
+ escott: i'm having 2 network connected thru a router, and one line from the router goes to the net, pc from net A, can't Ping to my ubuntu in net B, but my ubuntu can ping to net A pc. bot using 192.168.x.x with different subnet
+ escott: i think its the firewall in ubuntu blocking outside connection to the pc. can someone help me?
+ escott: i don't know how to screw around with linux iptables. but the router firewal doesn't block any connection throu it. but you CAN ping to my ubuntu from within the router,
+ !iptables
+ escott: what kind of detail should i presented to you.
+ escott, i'm preety sure, that my router only nating connection that goes to the internet from within
+ escott, because another windows pc from the net B can be pinged from netA
+ escott, how to do so in ubuntu?
+ ok
+ thanks escott

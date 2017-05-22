@@ -1,0 +1,4 @@
+ Help :)wraund@morpheus:~$ sudo dpkg-reconfigure -a
+ debconf: DbDriver "config": /var/cache/debconf/config.dat is locked by another process: Resource temporarily unavailable
+ wraund@morpheus:~$ htop
+ Which is the ubuntu dev channel? #ubuntu-dev is relatively deserted

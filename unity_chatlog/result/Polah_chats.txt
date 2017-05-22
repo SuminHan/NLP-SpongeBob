@@ -1,0 +1,4 @@
+ Could anyone tell me how long the upgrade from 10.10 to 11.04 will take?
+ gaara: Alright, thanks.
+ compdoc: Thanks again, I just wanted a general timeframe. Obviously it won't be a specific time for everyone
+ How can I stop Filezilla appending a ~ to filenames when I edit them? For example, when I edit home.php, when it re-uploads it I end up with home.php and home.php~. The file with ~ on the end only appears in the Filezilla file list

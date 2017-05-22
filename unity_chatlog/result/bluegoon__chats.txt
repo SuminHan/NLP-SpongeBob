@@ -1,0 +1,11 @@
+ hi guys
+ I keep losing wifi connectivity with a netbook over wifi
+ Would updating to 11.04 update my wifi drivers?  My netbook keeps freaking disconnecting
+ Is there an 11.4 netbook edition?
+ I am having trouble with my netbook wifi
+ i can go on IRC, i can update etc, but DNS not opening web pages.
+ my dns isnt resolving!
+ Help me! Oh my word, my DNS does not resolve@!
+ Guys, any reason why ubuntu would just lose DNS every now and then?
+ how do you monitor DNS on ubuntu?
+ test

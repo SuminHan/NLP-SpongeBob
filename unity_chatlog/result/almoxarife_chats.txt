@@ -1,0 +1,11 @@
+ loka: you didn't completely remove the desktop
+ proq: wubi install of 10.10?
+ proq: that's ok, how are you connected to the internet?
+ proq: you are stuck in the updates from internet portion?
+ proq: from my experience with wubi, I found that it would always hang on a wifi connection if the connection was not an open connection
+ proq: if you connect the cable without doing anything else it may go on
+ proq: I don't think wubi works with 11.04, check first
+ ribot: set the connection to auto
+ nyoger: chromium
+ unorugby: was it a wubi install?
+ unorugby: since the ubuntu install did you re-install windows?

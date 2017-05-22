@@ -1,0 +1,4 @@
+ blit: right click on the plus
+ htcrwn148: only if the install goes buggy like mine did
+ always backup everything
+ there should be no problems but for me it wouldn't boot after update

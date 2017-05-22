@@ -1,0 +1,5 @@
+ Hello all does anyone have expereince with RP_filter in ubuntu sever?
+ trying to run the following commands as SUDO and get denied" echo 0 >/proc/sys/net/ipv4/conf/wccp0/rp_filter echo"   "0 >/proc/sys/net/ipv4/conf/eth0/rp_filter"
+ vibhav: i need to disable rp_filter functioning in order to setup Transparent Proxy though WCCPV2 with my ASA cisco box
+ vibhav: they are not compatiable
+ vibhav: alright

@@ -1,0 +1,235 @@
+ upgrading from 10.10 to 11.04, is there any benefits other then what is listed here http://www.ubuntu.com/ubuntu/whats-new ?
+ Is it just this quick launch and workspace stuff only?
+ Upgrading from 10.10 to 11.04, is there any benefits other then what is listed here http://www.ubuntu.com/ubuntu/whats-new ? Is it just this quick launch and workspace stuff only?
+ upgrading from 10.10 to 11.04, is there any benefits other then what is listed here http://www.ubuntu.com/ubuntu/whats-new ?
+ cdbs Ok thanks, where do I find this out though? Where did you find this out?
+ I am at a stage in upgrading ubuntu where it is asking to remove some stuff. Any reason to give thought as to what it wants to remove? Why does it say "open office" stuff is no longer needed?
+ ejv: So should I give it permission to remove it? Is it possible to allow it to remove some of this stuff, but not all?
+  ejv: So should I give it permission to remove it? Is it possible to allow it to remove some of this stuff, but not all?
+ ACameron: Net install is good too,(a option under unetbootin) very small, it downloads off the internet as it installsACameron
+ Is there any way to selectively choose what programs that ubuntu is going to uninstall when updating?
+ zachgretzinger: Its asking for permission to remove 76 "obsolete packages" right now.
+ Chaos: I have been in here for hours sometimes just trying to get someones attention, but I still never spam or shout
+ zachgretzinger: I see in the list, "open office" in a number of places, that is going to uninstall open office, no?
+ zachgretzinger: Do I have to worry about anything suddenly becoming uncompatible with the newer ubuntu? For example, will I be able to download updates for battle for wesnoth like normal, even if they haven't made a version for 11.04 yet?
+ bazhang: Is it easy to revert back?
+ zachgretzinger: So perhaps update them before updating ubuntu?
+ zachgretzinger: With the update screen at "do you wish to remove these packages" will that still work? Or will I have trouble because the update is midstream?
+ zachgretzinger: Are there drawbacks for 11.04 then? Besides the new quick link stuff, anything else I will appreciate with 11.04? Its alot quicker?
+ zachgretzinger: Like what?
+ zachgretzinger: I am a linux newbie, I am still getting use to linux in general
+ zachgretzinger: A utube video isn't going to tell me much
+ zachgretzinger: I tried running the get update program, but I got alot of errors about unavailable resources
+  zachgretzinger: I tried running the get update program, but I got alot of errors about unavailable resources
+ zachgretzinger: I tried running the get update program, but I got alot of errors about unavailable resources
+ zachgretzinger: Not a single 404
+ zachgretzinger: And no, I didn't get any updates
+ zachgretzinger: The command didn't work
+ zachgretzinger: ALT F2 doesn't do anything
+ zachgretzinger: Ok, I got alt F2 to work, apparently it only works with the left alt. But as I said, that command doesn't work, it gives me that error when I do that
+ zachgretzinger: It gives me those errors I mentioned about unavailable resources and such
+ zachgretzinger: The errors I mentioned earlier that you said I should not mind
+ zachgretzinger: I never got to a screen to choose any updates, nor did I see any download progress or install activity
+ zachgretzinger: When I type that command in terminal, all it does is give me those errors
+ E: Could not get lock /var/lib/apt/lists/lock - open (11: Resource temporarily unavailable)
+ E: Could not get lock /var/lib/apt/lists/lock - open (11: Resource temporarily unavailable)
+ E: Unable to lock directory /var/lib/apt/lists/
+ E: Unable to lock directory /var/lib/apt/lists/
+ bazhang: apt? what is that?
+ zachgretzinger: Why?
+ zachgretzinger: But how does putting it in a text file on my desktop help you do that?
+ zachgretzinger: How about a pastebin or a PM instead? Less work, and anyway, why put it into a text file to email it to you?
+ zachgretzinger: Its like 4 lines anyway
+ zachgretzinger: Do you see that PM I sent you?
+ I have tried to upgrade ubuntu to 11.04, I restarted my PC but it has loaded to a mostly blank screen with a couple scraggly lines of dashes at the top
+ I have tried to upgrade ubuntu to 11.04, I restarted my PC but it has loaded to a mostly blank screen with a couple scraggly lines of dashes at the top
+ nit-wit: Well I downloaded the files, got to the stage where it was suppose to install the upgrade, but I got this instead
+ milen8204: I will create a thread on this problem too and link you to it for you to contribute
+ milen8204: What do you mean by preinstall? You bought a computer already like this?
+ nit-wit: Are you able to help?
+ milen8204:  Did you try to upgrade to 11.04?
+ nit-wit: Of course you need to restart your PC when upgrading from 10.10 to 11.04
+ milen8204:  And you also only see a bit of dashed lines at the top of the screen with the rest blank?
+ milen8204: What do you see on your screen?
+ nit-wit: I will explain it in a thread and link you to that thread
+ milen8204: it says the words "sing UBUNTU"?
+ nit-wit: http://ubuntuforums.org/showthread.php?p=10739837#post10739837
+ Upgrading from 10.10 to 11.04, I have come into a strange blank screen, here are the details- http://ubuntuforums.org/showthread.php?p=10739837#post10739837 can anyone help?
+  nit-wit : Any ideas?
+ nit-wit: "trucmuche"? I found another thread of someone describing something similar http://ubuntuforums.org/showthread.php?t=1742071
+ Upgrading from 10.10 to 11.04, I have come into a strange blank screen, here are the details- http://ubuntuforums.org/showthread.php?p=10739837#post10739837 can anyone help?
+ Upgrading from 10.10 to 11.04, I have come into a strange blank screen, here are the details- http://ubuntuforums.org/showthread.php?p=10739837#post10739837 can anyone help?
+ Upgrading from 10.10 to 11.04, I have come into a strange blank screen, here are the details- http://ubuntuforums.org/showthread.php?p=10739837#post10739837 can anyone help?
+ HAKMASTER:  I don't have it on disk
+ coz_:  I can not burn any disks unless it is possible to revert back to 10.10 or otherwise get ubuntu to work
+ coz_: I listed it in the thread link
+ coz_:  http://ubuntuforums.org/showthread.php?p=10739837#post10739837
+ coz_:  With facing these strange blinking dashes, does that mean it is not installing?
+ coz_:  Could it possibly be installing at the moment behind this blank screen? If it is installing at this moment, restarting could screw it up
+ KrisDouglas: Well, I was having trouble with my video card drivers before updating even, I had a corrupted driver I couldn't remove, and was not sure what driver to use
+ KrisDouglas: What is ssh?
+ KrisDouglas: I never get to a grub screen though
+ coz_:  I will try holding down shift
+ coz_:  KrisDouglas  Ok, got to a grub menu, I see a "previous linux version" option, should I pick it?
+ KrisDouglas: It says "It seems you do not have the hardware required to run unity. Please choose ubuntu classic at the login screen and you will be using the traditional environment"
+ KrisDouglas: It didn't give me a option to choose ubuntu classic, but I loaded into a desktop, now I will see what happens if I restart
+ KrisDouglas: I have only one mouse to swap between these PCs, is there a hotkey for restarting?
+ KrisDouglas: Except I am using a ATI radeon 6850
+ KrisDouglas: You would recommend nvadia drivers for a ATI card?
+ KrisDouglas: You think a driver update could fix this problem?
+ KrisDouglas: How do I remove the corrupt old driver then? Could we please speak in PM? Less work keeping track of the conversation
+ How do I install flash for 64bit ubuntu?
+ trism:  How do I copy it to there?
+ trism: How do I even find that directory?
+ trism:  ~/.mozilla the ~ is what ever your name is listed as? Then create a directory called plugins and just drop the file in?
+ trism then just create that directory with that name and plop the file in?
+ trism: Then just create that directory with that name and plop the file in?
+ trism: The file I want to copy is called libflashplayer.so?
+ trism: The file I want to copy is called libflashplayer.so?
+ trism: Thanks, I see you said that earlier, but I missed that in the sea of text
+ trism: I also need help with setting up a ati driver for me radeon 6850 so I can use 11.04, can you help me with that?
+ Anyone able to help me set up a driver for a radeon 6850?
+ It is installed, but its abilities are limited, I can not set it past 800x600, and apparently may be the reason 11.04 won't load for me
+ Diosjoe:
+ Diosjoe: It is installed, but its abilities are limited, I can not set it past 800x600, and apparently may be the reason 11.04 won't load for me
+ Diosjoe: You want me to type that in a terminal? What does it do?
+ Diosjoe: May we please talk in PM?
+ Since I updated to 11.04, my tomboy notes program has disappeared, how do I get it back? Would the files I made with it still be around?
+ n3glv: I don't understand
+ n3glv: How do I do that?
+ n3glv: I can't make heads or tales of what is in synaptic package manager, but I can't find any tomboy notes anyway
+ n3glv: Scratch that, found it, now what?
+ n3glv: Mark for reinstallation? My saved notes should still be there, right?
+ n3glv: Do I select mark for reinstallation?
+ n3glv: I did that, but it still doesn't seem to be installed, do I need to reload?
+ n3glv: Well when I try to add it to my panel, its not listed as a option
+ n3glv: I wouldn't know how to do that, how do i search for a file?
+ n3glv: So ubuntu doesn't come with a file search option?
+ n3glv: What is "updatedb"? So ubuntu doesn't come with a file search program?
+ n3glv: You still there?
+ Doesn't synaptic package manager know where the files of the programs it lists are? Is it possible to use synaptic package manager to find the files of the programs it lists?
+ Doesn't synaptic package manager know where the files of the programs it lists are? Is it possible to use synaptic package manager to find the files of the programs it lists?
+ ActionParsnip: So how do I use it to take me to said files?
+ ActionParsnip: No, I want to locate tomboy notes since its missing from my panel, and missing as a option to add to my panel
+ ActionParsnip: Do what now?
+ ActionParsnip: What command?
+ ActionParsnip: All it says is "/usr/bin/tomboy"
+ ActionParsnip: The binary?
+ ActionParsnip: What do you mean by binary?
+ ActionParsnip: Does ubuntu not have a built in feature for finding a file on either ones hard drive, or the page they are lookng at?
+ ActionParsnip: Something like windows search command, and/or like a browsers or text files find a particular word on this page command.
+ ActionParsnip: Built into ubuntu?
+ ActionParsnip: Doesn't ubuntu come with any of its own search functions?
+ ActionParsnip: Where is it then?
+ ActionParsnip: Ok thanks, on to my next subject, getting a good ATI driver for my 6850, can you help?
+ ActionParsnip: I don't know what you mean by "check the hardware app"
+ ActionParsnip: I have already done a bunch of research on this subject and what about system-> administration?
+ ActionParsnip: What new info?
+ ActionParsnip: What about system adminstration?
+ ActionParsnip: You mean additional drivers? That is only one possible driver to use, I want to explore other driver options
+ ActionParsnip: There is like at least 3 different options for drivers to use, and I'd like to know which to use, where would be a good place to go?
+ Anyone know which ATI drivers are the best to use?
+ ActionParsnip: Ok, so which solutions are good for what kind of things?
+ ActionParsnip: Or put another way, what are the pros and cons of the different driver options?
+ rgr: What wiki?
+ ActionParsnip: the proprietary is the one you download off the ATI website?
+ ActionParsnip: But those aren't as up to date as what I would get off ATIs website, right?
+ ActionParsnip: What do you have against ATI?
+ ActionParsnip: Well I've heard of issues with both, and asked about nvdia and ATI regarding linux here before, and was told ATI was good for linux
+ ActionParsnip: Main reason I went radeon is that it is more efficient for your performance energy wize then radeon
+ rgr: I have no idea, I ask for advice, and am given it, I don't usually know the credentials of the people who give out advice
+ rgr: Who told me what? That radeon is more efficient? I learned it myself from looking at many many reviews
+ rgr I did use SE, but it didn't come up with anything definitive
+ rgr: No, a desktop I put together myself
+ rsr: There are pleny of clueless websites and blind leads and dead search ends online too, but I got to go somewhere for information
+ ActionParsnip: What is "!wfm"?
+ Hi, anyone know anything specific about ATI drivers?
+ Anyone here know anything about ATI/AMD video drivers for ubuntu?
+ Anyone here know anything about ATI/AMD video drivers for ubuntu?
+ bitplane: I need to know which driver option is best for a radeon 6850
+ bitplane: I can install through a terminal command, additional drivers, or download the driver off of ATIs site
+ bitplane: Notification in notification bar? What do you mean?
+ bitplane: Do you use 11.04?
+ bitplane: Try what first? My card was already in my system before I installed ubuntu
+ bitplane: Try what first? My card was already in my system before I installed ubuntu
+ bitplane: I mentioned it specifically
+ bitplane: Are you using 11.04?
+ bitplane: So your using unity now with it?
+ bitplane: So your using unity now with it?
+ bitplane: What do you think about using the closed source drivers instead?
+ bitplane: And how do I go about installing them?
+ bitplane: Is that what is called "duel head"?
+ cardamon: Fine, is that what they mean by dual head?
+ bitplane: But multiple head means multiple monitors, not cards?
+ bitplane: So "head" means monitor, not card?
+ bitplane: What is the method of installing the open source version of the drivers? Through a terminal command?
+ bitplane: A webpage says the open source version is actually better for 'multihead'
+ bitplane: What is the method of installing the open source version of the drivers? Through a terminal command?
+ bitplane: What is the method of installing the open source version of the drivers? Through a terminal command?
+ bitplane: What about doing it through the driver command verses installing it from download off the ATI site? How much better is the download off the ATI site? And how do I install it?
+ bitplane: How do I compare the two? Is the one from additional drivers easy to remove afterwards?
+ bitplane: How do I compare the two? Is the one from additional drivers easy to remove afterwards?
+ bitplane: How do I compare the two? Is the one from additional drivers easy to remove afterwards?
+ bitplane: bitplane: How do I compare the two? Is the one from additional drivers easy to remove afterwards?
+  bitplane: How do I compare the two? Is the one from additional drivers easy to remove afterwards?
+ bitplane: How do I remove it afterwards?
+ bitplane: How do I remove it afterwards?
+ izinucs: What FS would you recommend for both files that both linux and windows would use?
+ izinucs: But win7 recognizes ext3?
+ izinucs: But you think that is a better option then fat or NTSF?
+ izinucs: Shared partition, Linux and windows will both have their own partition aside from this one
+ izinucs: Duel boot
+ izinucs: A partition for linux, a partition for windows, a partition for VM for linux and windows perhaps, finally a main partition for "files"
+ izinucs: May we please speak in PM so I can keep track of this conversation better?
+ izinucs: hmm, it doesn't seem to work
+ izinucs: Please /msg me instead perhaps
+ Can anyone help me with a problem installing a ATI radeon driver?
+ vibhav: I don't want to use the open source drivers, I want to use the proprietary ones that you get from additional drivers
+ vibhav: Are you able to help me with this driver that won't install?
+ vibhav: See what, the error message I get?
+ vibhav wait please, contact info? I need more information
+ I failed to install a ATI driver from additional drivers, http://pastebin.com/9iC0sCwL Can someone please help make this work?
+  I failed to install a ATI driver from additional drivers, http://pastebin.com/9iC0sCwL Can someone please help make this work?
+  I failed to install a ATI driver from additional drivers, http://pastebin.com/9iC0sCwL Can someone please help make this work?
+  I failed to install a ATI driver from additional drivers, http://pastebin.com/9iC0sCwL Can someone please help make this work?
+ Shaggy2, one way is to go into system, adminstration, additional drivers (different name under 10.4, I forget) though its not working for me
+  I failed to install a ATI driver from additional drivers, http://pastebin.com/9iC0sCwL Can someone please help make this work?
+  I failed to install a ATI driver from additional drivers, http://pastebin.com/9iC0sCwL Can someone please help make this work?
+ sebsebseb: Can you help me?
+ sebsebseb: A particular place you can recommend for help?
+ sebsebseb: Ok thanks, though this doesn't seem like a beginners problem. Any particular forum you would recommend?
+  I failed to install a ATI driver from additional drivers, http://pastebin.com/9iC0sCwL Can someone please help make this work?
+ vibhav: I never found out what your method would install, so no
+ vibhav: Open source or proprietary, and if the latter, autoupdate or not?
+ vibhav: Yes I have those instructions from before, but what are they instructions of? What would it install if those instructions work?
+ vibhav: The type that autoupdate and are easy to clear out?
+ vibhav: Can you source these instructions for me? I need to be able to determine if I can trust them
+ So far my only major complaint of unity is that it doesn't work for me
+ jiohdi: Could you help me figure out a ATI driver problem that is possibly related?
+  I failed to install a ATI driver from additional drivers, http://pastebin.com/9iC0sCwL
+ Can anyone help?
+  I failed to install a ATI driver from additional drivers, http://pastebin.com/9iC0sCwL
+  I failed to install a ATI driver from additional drivers, http://pastebin.com/9iC0sCwL Can someone please help make this work?
+ stefg: ok thanks, how do I uninstall, and how do I install the open source?
+ stefg: What does the first link have to do with the issue though?
+ stefg: Well the whole thing is so above my head as to make it want to split, but that second link does seem to apply, thanks
+ stegf: Do you know how to remove that driver?
+ I mean stefg
+ stefg: Some of it is, and some of it is stuff that my brain can't quite contain and it sort of leaks out my ears or something:p
+ stefg: And i have been working at this for some time, you would not believe the number of windows, webpages etc I got up
+ stegf Yeah: that is what I used last time when I force closed it before it could finish, but deleting that file left residue stuff in that didn't really work
+ I mean stefg
+ stefg: I had that link, but thanks
+ Someone here have experience/knowledge of ATI drivers?
+ What is the name of that other channel? Something like "#ubuntu-beginners"
+ What is the name of that other channel? Something like "#ubuntu-beginners"
+ How does one move /home from one partition to another? Can one just copy/paste?
+ Anyone able to help me with some ATI driver issues?
+ Can one install drivers when running off a livecd?
+ Can one put multiple versions of live CD onto one disk?
+ Like say a DVD-R?
+ Can one put multiple versions of live CD onto one disk? Like say a DVD-R?
+ Sidewinder1: Why ask me, I don't know
+ Sidewinder1: There might be a way though, i mean one can dual boot, so surely one can do that with disks too
+ Sidewinder1: What burner program would you recommend for ubuntu?
+ Sidewinder1: Have you used it?

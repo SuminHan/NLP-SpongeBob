@@ -1,0 +1,47 @@
+ chose to run ubuntu classic in login screen
+ anyone got problems playing .mkv in vlc? 720 or 1080.. it lags for me ;|
+ Thanks i
+ How do I hotkey different workspaces?
+ How do I hotkey different workspaces? please PM me the answer if u got one, Im headed out right about Now Lol =)
+ anyone know about any good photo edit app?
+ thanks man0wl
+ why wont videos play on youtube in firefox 4?
+ anyone knows why videos wont play on youtube in firefox 4? ;/
+ how can I hotkey workspaces? or swap with for instance holding mouse1&2 + dragging?
+ can someone tell me a good mediaplayer that can play HD 100% smooth... cus I still havent found something that can :/
+ Incarus6 thanks, but I know its not ;/
+ Incarus6 : It looks like its more of a codec problem, but I dont have a clue about this in Linux
+ Incarus6: in vlc? or some other settings? thanks ill play around some then^^
+ when im trying to run spotify through wine this is what it says: There is a problem with your sound card. Spotify cant play music.
+ when im trying to run spotify through wine this is what it says: There is a problem with your sound card. Spotify cant play music. Anyone?
+ Magnusson
+ np
+ Hey guys I got a problem with watching 720p/1080pHD (in any player). It runs, but not even close to smooth. Here's "/var/log/Xorg.0.log" ----> http://paste.ubuntu.com/601700/
+ anyone know how to fix soundcard problem with spotify through Wine?
+ Thanks, thor
+ I need help with installing Spotify for Linux(beta). pm me
+ "# 1. Add this line to your list of repositories by
+ #    editing your /etc/apt/sources.list
+ deb http://repository.spotify.com stable non-free" how do i do this? ;S
+ sammy : Thanks ! after some reading on handling repositaries it's now working perfectly:)
+ Hey guys I got a problem with watching 720p/1080pHD (in any player). It runs, but not even close to smooth. Here's "/var/log/Xorg.0.log" ----> http://paste.ubuntu.com/601700/
+ stefg: how do I get that?
+ stefg: yeah thanks man i've read some more now^^ think i will be able to fix it by myself from this point on, thanks again
+ I just uninstalled the ati proprietary driver and replaced it with the open source driver. This fixed my original problem with choppyness, but now all of a sudden the sound is 100% broken. help!
+ Hey, what do i do to paste this line automatically every time I start XChat? "/msg NickServ Identify trailoryo xxxxxxxx"
+ Thanks smw & raju
+ working fine;)
+ Anyone knows why im not allowed to make new partitions in GParted?
+ ActionParsnip, yes
+ ActionParsnip, oh, so what do I do then lol.
+ ActionParsnip, ok :) thanks
+ morgan: or http://pastebin.ubuntu.com/
+ rafi: go to system->preferences->screensaver and u should be able to adjust brightness under power management
+ is it possible to change from unity to classic from the terminal? and other way? Or do you have to log out
+ xangua, you can do changes in gdmsetup, but there is No way to apply them from the terminal? :|
+ jaszandre, try writing gedit, not Gedit
+ jaszandre, the terminal is case sensitive. thats why you get error msg when typing Gedit. alt+F2 wont run Gedit neither.
+ jaszandre, link?
+ I remember in one version when you swapped workspaces there was a cube turning around. Is it possible to get this in 11.04? or atleast is it possible to keybind(or something) workspaces?
+ Have anyone experienced bugs or crashes with Transmission?
+ actually its making everything crash right now. wow.

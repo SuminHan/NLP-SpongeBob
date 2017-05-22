@@ -1,0 +1,9 @@
+ i want to make a SSH shell for a friend. what settings do I enter for his username?
+ like User ID or shell access... just /bin/sh?
+ i have a phemon II x4 945 cpu. do i insdtall the amd64 version of ubuntu?
+ 4gb
+ ok ty
+ I asked bvecause it syas this:
+ Choose this to take full advantage of computers based on the AMD64 or EM64T architecture (e.g., Athlon64, Opteron, EM64T Xeon, Core 2). If you have a non-64-bit processor made by AMD, or if you need full support for 32-bit code, use the Intel x86 images instead.
+ http://ubuntu.virginmedia.com/releases//natty/
+ ok excellent. thanks again

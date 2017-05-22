@@ -1,0 +1,3 @@
+ Has anybody else had trouble with full screen flash video freezing the xserver in Natty?
+ Halzen: thanks ^^ you have a link to a case or anything?
+ Halzen: yeah most of those are ancient though :/

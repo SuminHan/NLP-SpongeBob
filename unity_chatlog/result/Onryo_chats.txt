@@ -1,0 +1,3 @@
+ Sigh... a lot of the ppl at FFmpeg, x264, VP8 were moaning that there was no script to install that stuff from git. Well I just wrote one for Natty
+ http://pastebin.com/u/Onryo
+ Even a retard can use that

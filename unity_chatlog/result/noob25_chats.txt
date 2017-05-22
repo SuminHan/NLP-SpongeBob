@@ -1,0 +1,3 @@
+ Hello guys I've just installed Ubuntu 11.04 and I installed an application called xsensors but it's only showing me the temperature of 1 thing and I have no idea of what. It should be showing me 1x Internal, 1x CPU, 1x GPU, 2x HDD. Are there any tools built into Ubuntu so I can check whether  it's a problem with Ubuntu or the software?
+ hauptstrasse I have to install it, could this be a reason why it's not reading or is this just a separate tool?
+ hauptstrasse ok thanks

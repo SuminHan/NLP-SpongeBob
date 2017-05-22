@@ -1,0 +1,4 @@
+ When installing ubuntu, on a 30gb hard drive, how big should the Files part be, compared the the Ubuntu part?
+ When installing ubuntu, on a 30gb hard drive, how big should the Files part be, compared the the Ubuntu part?
+ I'm trying to install alongside Mac os x, and it's giving me two part that I can adjust the sizes of, one files, the other ubuntu.
+ Ok, thanks.

@@ -1,0 +1,16 @@
+ Chepoll: you can ask here
+ It would be cool if ubuntu had a installer like Debian has.
+ It's not special, but cool
+ tushar: Why?
+ Aha!
+ Is there a Ubuntu 'Netinst' cd?
+ tushar: BTW, what client you use? Xchat works great! Try it!
+ I am using Xchat right now
+ ashmew: It's all in the kernel! If your kernel is abive 2.6.32, then you're good
+ uname -r
+ adduser
+ Dazzled1: Not to say ubuntu is Bad at any way, ubuntu is great! But it is slow
+ Dazzled1: Try to install XFCE
+ and remove Gnome
+ !xubuntu | Dazzled1
+ ali_ ctrl+alt+Function keys

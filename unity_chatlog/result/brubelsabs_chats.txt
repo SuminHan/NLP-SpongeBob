@@ -1,0 +1,4 @@
+ I installed mozplugger to view pdfs inside firefox, but /etc/mozpluggerrc is missing, and it does not work, beside dpkg -L mozplugger tells me that it is contained within the mozplugger package..
+ using 10.010
+ to my original question: Its a known bug: https://bugs.launchpad.net/ubuntu/+source/apparmor/+bug/766512
+ posted workaround which at least solved the issue on my box: https://bugs.launchpad.net/ubuntu/+source/apparmor/+bug/766512

@@ -1,0 +1,4 @@
+ i try to upgrade ubuntu 10.10-11.04, and python2.7-minimal could not be upgraded because "E: pycompile:240: Requested versions are not installed". i only change maverick to natty in /etc/apt/sources.list
+ ok, so i revert to maverick, and use the synaptic
+ hamnegga: because it is proper way of using OS
+ ActionParsnip: what method ?

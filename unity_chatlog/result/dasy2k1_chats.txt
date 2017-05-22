@@ -1,0 +1,45 @@
+ anyone any idea where /sys/devices/cpu/cpufreq/ondemand/ignore_nice_load has moved to with 11.
+ 11.04 that should have read
+ Herbs unity looks more like Mac to me with that blasted dock and the menus being in the top bar
+ rgoytacaz: look in restricted drivers (in system) check its activated
+ rgoytacaz:  yeh new name same program
+ rgoytacaz:  deactivate then reactivate then reboot, should work then
+ rgoytacaz:  no idea on that one
+ rgoytacaz:  have to pass you on to somone more experianced then, thats going beyond what i have experianced getting nvidia to work
+ anyone know where the cpu scaling settings (like ignore nice load) have moved to (used to be in /sys/devices/cpu/cpufreq)??
+ ohsix: the stock one AFAIK on 10.10
+ ohsix:  used to set /sys/devices/cpu/cpufreq/ondemand/ignore_nice_load to 1 to stop boinc maxing my cpu all the time
+ ohsix:  yeh the governer settings, cant seem to find them now
+ ohsix:  ahh missing the extra system, found them now
+ ohsix:  thought somone had moved them :-o
+ lol true
+ afroman:  draks boot and nuke
+ rpk ubuntuforums.org
+ afroman:  as far as you can be sure, its gone.... ok if you are the CIA and have years to spend analaising every molicule you may be able to find one or 2 bits but in general its gone
+ usr13:  better to use /dev/urandom for the first 6 passes
+ anonemoose:  should be compatable
+ ncg dont ask to ask , just ask
+ yi`zhi: it will be there somwhere, but if you are using unity it may take some finding!
+ yi`zhi:  easy to install things as before but the interface is a bit differnt, if you use classic it will be exactly where you expect it tho
+ anonemoose: only if you accedentally tick keep the disc open... (excepting the normal amount of coasters that you get with any dvd buring)
+ fezzik02:  via grub-install normally
+ afroman:  not sure why you would want to do that. if you want to delete things use shred -u
+ rpk still there, you just have to press esc as soon as you see the brown screen
+ springscar: its an indicator applett session you have removed
+ JoshuaYoshua: boot the disk, then hit escape when you see the first ubuntu screen, then use check disc for defects
+ afroman:  probabbly. but i dont know it off the top of my head GIYF
+ JoshuaYoshua: ahh, windows default software will most likley just burn the .iso as a single file to a data disk rather then burn the iso to the disk as an image
+ Drone4four: its alt+F2
+ Drone4four:  are you using unity or classic?
+ Drone4four:  working for me, you could allways add the run applet to the panel
+ soreau: thats because its one applet, indicator applet session
+ bittyx-laptop: alt+printscreen then K
+ soreau:  just add the old applets you want, indicator applet rather than indicator applet complete
+ lsheeba:  if you have a working install of ubuntu i would just use update manager
+ kyle___: install cd (64 bit) workd fine for me
+ Ash-catchem:  try running memtest, random crashes are often caused by bad ram
+ !flash | nesto1000
+ most likely EbanSoul, try the bittorrent downloands, they should be fast
+ MrOpposite: screen for X apps, isnt that called multiple desktops?
+ MrOpposite:  i would just use screen then
+ green_:  just log out and log back in again selecting ubuntu classic

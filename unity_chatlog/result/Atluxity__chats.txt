@@ -1,0 +1,2 @@
+ mighty impressed incog
+ I have a bug with my newly upgraded ubuntu. I started xchat, unmaximised it, right click, sendt to workspace 4. Now my xchat has no minimize button or close cross or unmaximize button at the top :\

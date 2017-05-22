@@ -1,0 +1,10 @@
+ ok, I have 2 external monitors on my laptop running ubuntu, 1 port is display port and its "DP or laptop monitor" cant use both. so i dont use laptop screen. however power just went out and i lost my monitors, and switching to a TTY1 gave me a screen, i want to know if its possible to reenter a gui from TTy1 while X is running on TTY7?
+ i have an external monitors i use for my display, and powers out with them off (laptop), is there a command i can run from a diff TTY thatll make my GUI TTY move back to laptop screen?
+ yes
+ nodie: if i was gonna keep unity i woulda asked you how you did that, i hate auto hide, but im ditching unity
+ ;p;
+ lol
+ sudo apt-get remove unity && sudo apt-get install avant-window-navigator!
+ where do you report bugs in ubuntu one? ubuntu one wont let me sync "Purchased from Ubuntu One" if that directory is a symlink. I symlinked it to a diff harddrive and it wont let me sync unless its a plain folder
+ anyone know how to get HTC EVO to mount sd card when in ubuntu? plugging in usb only charges and doesnt give me option to mount
+ tanyone know why im getting a black screen after switching to KDE?

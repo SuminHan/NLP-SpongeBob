@@ -1,0 +1,8 @@
+ anyone can point me to a place where I can find what to do with my frozen UI un 11.04?  I can log in, but when I click on anything nothing happens.
+ RoDiMuS-X: just upgraded to 11.04
+ RoDiMuS-X: Unity.  Classic doesn't load anything - I just get a background image and no menu/icon, so it's useless
+ RoDiMuS-X: did that already
+ RoDiMuS-X: ok, classic with no effect works
+ I guess it's time I upgrade my graphics card :P
+ RoDiMuS-X: it says "version current", "activated but not currently in use"
+ RoDiMuS-X: version is 270.41.06

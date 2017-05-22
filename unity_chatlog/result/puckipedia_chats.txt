@@ -1,0 +1,13 @@
+ Hi
+ How can you close a window in irssi?
+ thanks
+ k
+ a pipe
+ iandi:if you can find the backslash, you could use pipe (shift+\)
+ oneliner_:ctrl+alt+f2, login and type "compiz --replace &" and press ctrl+alt+f7 or f8
+ Linuxfav:You could try rebooting your computer, when bios disappears, hold shift. choose recovery and you could repair it from there
+ Linuxfav:go to root console, and type "sudo dpkg-reconfigure -phigh xserver-xorg"
+ Linuxfav:Correction: "dpkg-reconfigure -phigh xserver-xorg" in root console
+ Linuxfav:What graphics card do you have?
+ Linuxfav:goto recovery console and type that command, choose nv and if the first dialog after that does not have your cardname, type it in caps, and just press enter after that
+ vak:Open eclipse, rightclick in unity and choose "Keep in launcher"

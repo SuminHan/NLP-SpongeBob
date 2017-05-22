@@ -1,0 +1,92 @@
+ Coty91, you could try the opensource ati drivers instead of fglrx
+ Coty91, used a deb or ati's own installer?.
+ Coty91: then you can use the uninstall probably, and just remove/rename your x conf
+ its not as bad as people make it, but i prefer gnome 3 on 11.04 over unity
+ Coty91: games
+ btw, is 11.4 (from ati) included in 11.04?
+ Bisa: do you see a bootloader before that?
+ Bisa, you can use a live cd to reinstall grub, or do it via the bios with efi
+ if you have edi that is
+ Bisa: it should be
+ Bisa, depends on which version of grub you have
+ Bisa, with 1 its just: 1. root (hx.x), where x.x is your disk and partition, 2 setup (hd0) and then quit (this is from the grub shell, just type grub on the cli)
+ Bisa: assuming your bootdisk is the first one
+ Bisa: remember, disk 1, partition 1 is hd (0,0) in grub 1
+ Bisa, if you have booted into a livecd you can use the grub command to get into the grub command line
+ \
+ Bisa: there you can set your linux root and install it with setup (hd0) into your mbt
+ Bisa: if everything went ok you should see grub after a boot now
+ Bisa, if they value for root is wrong, you can change it by changing the entries
+ Bisa: with "e" from grub
+ Bisa, you need to set the root of you linux partition with root (hd2,partition) then and install it with setup (hd0), this is assuming you boot from your first disk
+ Bisa, if linux is on your first partition of your 3th disk that would be hd(2,0)
+ Bisa, you need to do the setup (hdX) to whatever disk your bios boots from
+ Bisa, im not sure if those insctructions are valid for grub 2, havent got any hands-on experience with that
+ Bisa, if its grub 2 best to check https://help.ubuntu.com/community/Grub2
+ kaiuwe: you run it with sudo?
+ Bisa, np, but i still advice checking the howto for grub 2 if its that, there is also a gui for ubuntu to configure grub2
+ Bisa, which you should be able to use from a live cd of 11.04
+ Bisa, let me check
+ Bisa: sudo apt-get install startupmanager
+ Bisa; havent tested it myself so im not sure what it can do
+ Bisa, you should run it with sudo at least
+ ejv: i dont think so, still in the lastest kernel release
+ Brisa: gl
+ darkz: if your connection is ok maybe flush the dns cache?
+ darkz, ok, i assumed you had a connection because the other updates went fine
+ good to hear
+ Brisa: yw
+ if you dont want to use unity its safe to install the gnome 3 ppa
+ or check out cairo dock
+ html_inprogress: if the source file is in odf (as xlsx) then probably it can
+ html_inprogress: if you use odf on both side (libreoffice and ms office) then it should work
+ html_inprogress: then it depends if you use macro's/vb
+ Kevin: it means that the proposed res and or hz is bigger then what your monitor is capable of, did you upgrade?
+ Kevin: just rename you /etc/X11/xorg.conf and see if the autodetect works, maybe your old drivers arent working
+ McQueen, if you pick ubuntu classic desktop at gdm login does that happen too?
+ Jasonn try something like midori if you want minimal
+ McQueen, if you are at the login screen (assuming you dont login automatically) you can choose a session, pick ubuntu classic and then login
+ Jasonn: if you have fans spinning you have overheating and load might not even be the primairy issue
+ McQueen: the reason for testing with ubuntu classic is to see if it also happens then
+ Jasonn, it might be something hogging cpu or gpu, it might be dust or bad airflow for example.
+ Jasonn, if thats the case and no visible load issues are around its important to determine whats making the noise, some gpu drivers for example can cause your gpu to become hot
+ Jasonn: your videocard
+ Jasonn, well, if its the one making the noise then its ovious it runs too hot
+ Jasonn: and if its not then its something else
+ Jasonn, with lm-sensors you might be able to get temp readings if all your temp monitors are found
+ Jasonn, just "sudo apt-get install lm-sensors" and run "sensors" in a terminal
+ Jasonn: then its probably not reconizing your hardware monitors
+ Jasonn, do you have any other os, if so does it happen to run hot too?
+ Jasonn, if you do top in a terminal is one of the loads above 1?
+ Jason, its rather high, or you system is very old
+ Jason, and does top show apps with high cpu and/or mem?
+ Jasonn, for example, mine is taking around a few % cpu max, with spikes depending on activity
+ Jasonn: for xorg
+ Jasonn: then it might be your driver
+ Jasonn: whats your graphics card?
+ Jasonn, what zykotick9 just said
+ Jasonn: thats the only one in the list?
+ Jasonn, im not sure then, it might just be an issue with that driver
+ Jasonn: does the graphics card has a fan? its an integrated gpu so it might be fanless
+ well, then it can hardly be the source of the noise, so it must be something else :s
+ Jasonn: can you make up which fans make more noise, casefan, or cpu
+ Jasonn: you got 3 fans minimum: psu (power), cpu and case
+ Jasonn, yes, or blowing it out
+ Jasonn: you can have more then one
+ Jasonn, then it might be set like that in the bios, just responding on extra heat
+ Jasonn, still, they accumulate dust faster then vacuumcleaners
+ Jasonn, i use compressed air from time to time to clean mine our
+ if its not load or so then i cant think of any other reason
+ foreverthenuni: tried sudo apt-get -f install?
+ forevertheuni: so its only a black background in unity?
+ forevertheuni: what kind of?
+ smp4488: very likely yes
+ smp, afaik you should be able to start and x session with only a browser
+ foreverthenuni: and if you enable compositing in kde (extra effects or whatever they are called)
+ forevertheuni, but are your extra window manager compositing features enabled in kde, it could just as well be that its glx/opengl stuff that goes wrong
+ forevertheuni, it doesnt no
+ forevertheuni, so you get a black screen in the unity fallback mode?
+ forevertheuni, what do you mean by that?
+ cache: i think those are the options from gdm, it seems all fail but kde
+ fail being a black screen
+ Kevin, the only thing that might be an issue is if the driver overclocked your gpu and it fried, but that would be a long shot

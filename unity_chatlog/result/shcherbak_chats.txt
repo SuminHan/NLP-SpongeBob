@@ -1,0 +1,160 @@
+ rgr: There is better: man ssh
+ phunyguy: xchat, irssi, pidgin (or other nonsense) all more....
+ phunyguy: Well, installing from repos does take minute, at most: sudo apt-get install irssi
+ jerriy: Is it yuor system? Means can you access grub?
+ !test > Rehan2
+ jerriy: can you post output of: groups <your username>
+ felipeh: Hey
+ jerriy: Ok, what users did you created on your system, and is it Ubuntu?
+ jerriy: and output of (paste here): whoami
+ jerriy: ok, try to just: sudo cat /etc/hostname > /etc/hostname_check
+ jerriy: No aksing for password? Hm, well, you said that root have password on your system, how?
+ jerriy: Sorry, my bad, just run: sudo cat /etc/hostname (">" do not take sudo)
+ jerriy: What about: sudo cat /etc/hostname (are you asked for password?)
+ jerriy: And you know your password?
+ jerriy: sudo should accept password from "username" user
+ jerriy: Ok, one sec
+ jerriy: First type your password in terminal prompt to see if it is correct, otherwise you can try to make new admin from recovery to fix last one, check if password is ok, first.
+ jerriy: Yes to see it in terminal, also try: gksudo gedit
+ jerriy: Are you in virtual terminal?
+ jerriy: I mean do you have Gui, you know desktop, etc?
+ jerriy: And if you type your password in terminal you have right one ?
+ jerriy: Once more, in gnome-terminal: type your password to see it letter by leter, to know if it is problem with encodind. Second in tty5 (where you just logged in, test: sudo cat /etc/hostname and check if sudo takes your password).
+ *many typos (coffee time)
+ uberfrau: who owns tars and what pernissions (should not plugins be untared), and do not spam, please.
+ newb_: via PPA, yes
+ Juest: Maybe, try to mach source, and experiment, you are likely to be first.
+ jerriy: Hurray, check settings in gnome-terminal
+ jerriy: or.. man locale
+ uberfrau: Make all three files owned by root:root and set to 775, after you done, restart gedit, and see if python is running (in htop?).
+ jerriy: What key is it?
+ jerriy: ;)
+ uberfrau: Forgot make, just copy all three files to mentioned in readme directory, chown and chmod
+ jerriy: Bad think is cannot find french keyboard...
+ uberfrau: From link you gave me, skip makefile, read README, get other 3 files, copy them to ~/.share/local/gedit/plugins (you will need to use sudo), and restart gedit, make directory ~/FilesAreHere and put all 3 files there.
+ jerriy: ;)
+ uberfrau: I am here in case of trouble.
+ jerriy: Welcome ;)
+ aussa: Record sound?
+ aussa: If you think of debugging, there is many thinks, what process?
+ aussa: make will give you errs anyway, man make is good start, tho.
+ uberfrau: same will: cd as cd ~ does
+ uberfrau: try, pwd, tree (may need to install), la, man ls
+ uberfrau: cd / (what is root directory)
+ !resetpanel | greenlantern
+ greenlantern: Oup, missed statement "Unity sucks so much"
+ skarufue: http://www.linuxquestions.org/questions/linux-software-2/hddtemp-and-normal-user-484609/ what may help you
+ uberfrau: Where are files you downloaded?
+ skarufue: Reduce priviledges on certain application, right?
+ uberfrau: There was nothing to extract
+ uberfrau: there is whole code, it is script in python: https://github.com/kassoulet/gedit-focus-autosave/blob/master/focus_autosave.py
+ uberfrau: From link I gave you, yes you right there is tar (too lazy with clicking.)
+ uberfrau: OK, locate focus_autosave.py
+ uberfrau: cd to that directory
+ uberfrau: OK, just pulled gedit to make sure it works, cd kass<TAB>
+ uberfrau: are you KDE?
+ Ultimate_Chaos: sudo reboot
+ uberfrau: Can you post on paste.ubuntu.com output of: locate gedit (dont know path for plugins in kde)
+ uberfrau: Just plugin directory in right place
+ uberfrau: Yes I want
+ uberfrau: Skip it, just cd to directory with untared pligin
+ *plugin
+ uberfrau: Rather untarred stuff, or unpask it
+ *unpack
+ uberfrau: Yes
+ uberfrau: can you ls (if you see kassou... cd into it)
+ uberfrau: sudo cp * /usr/lib/gedit-2/plugins/
+ uberfrau: thats it, you can remove makefile, and readme from /usr/lib/gedit-2/plugins/ and any other stuff you downloaded.
+ uberfrau: good, ls -l /usr/lib/gedit-2/plugins/ to see your plugin
+ uberfrau: See it, one moment
+ uberfrau: OK, plugin do not load, will try to find different version, Don't you want to use vim?
+ uberfrau: And have bug: http://mailrepository.com/desktop-bugs.lists.ubuntu.com/msg/3519748/
+ uberfrau: Well, this one was fatal...
+ uberfrau: That may be version problem
+ Jackslaps: yup
+ Jackslaps: Sure, try: /j #irssi
+ Shwaiil: What program?
+ Shwaiil: try: which umbrello, and use alacarte to hook it up to menu
+ Shwaiil: Or: locate umbrello to get path to binary
+ Shwaiil: which umbrello
+ Shwaiil: Alt-F2 and umbrello , should start program too.
+ Shwaiil: System > Pref > Main menu
+ Rehan: Most likely X has restarted, see logs
+ Rehan: /var/log/Xorg.log , also messages
+ Shwaiil: You mean with no spalsh?
+ ShockDoc: ^^^
+ teemo: htop
+ teemo: Or top, ps, pgrep, pstree, and some more
+ teemo: Nope, htop is very easy, but you have menu > system > Admin > System monitor (with gui)
+ teemo: Are you on Unity?
+ RavenHursT: cp -r /directory/with/dots/ /to/
+ pattysmatty: There is source to read, you can compile yourself if you wish. Idea of open source is that it is open to read and modify.
+ AliciaTheBunnyRa: Wrong channel?
+ pattysmatty: There is source of package on ubuntu website, you can *really* buildit yourself, also ngrep, iptables and more tools can help you monitor data exchnage over netwoks
+ eiriksvin: PPA (some extra stuff, grid etc.)
+ eiriksvin: You need to look for "extra compiz plugins ubuntu", PPA have instuctions how to add repos and what to install.
+ !ppa > eiriksvin
+ Hello: Yes, many.
+ LAcan: sudo netstat -tulp
+ LAcan: most likely, sudo srvice ssh restart
+ LAcan: try: cat /etc/ssh/sshd.config , if it do not exist install openssh-server
+ neon___: You *really* do not have to use it, but some people spent time on it, so...
+ LAcan: ohffs?
+ LAcan: ssh and vnc are two different services, they can be connected (somehow), vnc have some compatibilities win M$, but not every version.
+ LAcan: Hm, with vnc i cannot be much of help.
+ uRock: locate *.deb or /var/cache/apt/
+ intelinside2020: apache channel would be better choice.
+ jiltdil: festival
+ Guest66097: You could just say what is The Problem (in english).
+ Guest66097: Just sent you message
+ Guest66097: SEE PRIVATE MESSAGE!
+ Guest66097: Use TAB ?
+  /ignore Guest66097
+ red2kic: Wonder if he have dynamic ip...
+ !ops
+ hyu: Why???
+ kaushal: Not sure iotop do produce logs (or history)
+ vili: you would need alternative CD, Why do you use unetbootin, btw?
+ !alternative > vili
+ vili: Ubuntu have native Startup disk creator, so why unetbootin?
+ vili: Right, CD is better way then (you can make USB via live session from CD)
+ faryshta: They forum and wiki and quite decent.
+ *are
+ LAcan: Apart that linuxforum need blocking ads, they still have some nice info: http://www.linuxforums.org/forum/networking/43978-ubuntu-wireless-boot-connect.html
+ Tuplad: Unity can coegsist with Gnome3, on point of removing it, yet.
+ Tuplad: Who knows?
+ novaria_fajar: Hey!
+ novaria_fajar: I guess it is called fork ;)
+ !ot | novaria_fajar
+ Angelo_abe: Can you post /etc/ssh/ssh_config from you lappy on paste.ubuntu.com ?
+ Angelo_abe: And if you mess with sshd_conf on your server, please revert it.
+ ben42: admin group gouvern sudo rights
+ Angelo_abe: Do you use -Y or -X switch (not sure it do matter)?
+ Angelo_abe: For the moment, my conf to compare (working but 10.10): http://paste.ubuntu.com/603158/
+ Angelo_abe: Only trusted differ.
+ Angelo_abe: As far as I know, I have reinstalled one system to get X forwarding work ;)
+ Angelo_abe: Thanks
+ li: \o/ ???
+ FuzzyFox0: nast will list lan, but do not distingish printers
+ FuzzyFox0: Oh, use nmap
+ jgould: Rather not.
+ cretsiah: what site (in /msg)
+ cretsiah: Oh, and what browser?
+ Blackflowers: Do you need video for vnc server?
+ bison: please paste output of: groups <yourusername>
+ !abs > json
+ vibhav: I think, I saw Ubuntu One in one of Gnome3 todo lists ;)
+ !resetpanel | milen8204
+ ali_: see if: jockey-gtk will tell you of any wifi drivers
+ Seven_Six_Two: Ten_ten is easier to remember.
+ magum: sudo service gdm restart
+ Roger_Bonjabee: There is script for irssi (nm.pl) to make some colors.
+ karthick87: Did you try right click on desktop?
+ karthick87: gconf-editor and /desktop/gnome/background/picture_filename
+ gunther44: Try: sudo apt-get install -f
+ !gnome3 > pranav
+ lampe2: Ctrl-z and kill %1
+ lampe2: You mean in Gnome? xkill
+ bison: jockey-text or jockey-gtk, follow instructions
+ cvam: man test
+ In other hand he could become very skilled in data recovery.

@@ -1,0 +1,2 @@
+ Hi. When I do a sudo do-release-upgrade I get connection timed out/unable to connect for archive.canonical.com. Should I go ahead with the upgrade?
+ Hi. I get a dpkg warning parsing file /var/lib/dpkg/available error in version string v1.0 version number does not start with digit. How can I fix this?

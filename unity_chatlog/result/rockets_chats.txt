@@ -1,0 +1,11 @@
+ Through messing with my system too much in 11.04, I managed to lose my clock
+ Any ideas how I can get it back?
+ E.g. there is no clock in the upper right of my screen. I'm using the unity desktop
+ Nobody makes you use unity, just pick the ubuntu classic desktop and stfu
+ jbag, thanks, I managed to remove that package, but clicking on it opened up its page in ubuntu software center <3
+ aphexcoil, I know, I was talking to uRock mainly
+ aphexcoil, but I agree that that sort of defeats the purpose of unity dude.
+ jbag, I don't see that option now that it's installed :(
+ uRock, I apologize good sir.
+ Is there a way to make sure all the base install ubuntu packages are really there? I've already made sure to install ubuntu-desktop but that's not enough.
+ No way to do it :(

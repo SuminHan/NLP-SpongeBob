@@ -1,0 +1,7 @@
+ hey guys
+ I have a couple of questions about the new version of ubuntu
+ specifically whether it is possible to disable the global menu bar while using the unity UI
+ can anyone tell me if its possible, or link me to instructions on how to disable the global menubar piece of unity?
+ I actually do want to kick the tires on unity, but *don't* want it to feel more like OSX than widows
+ Guest29994: I'd start by telling people everywhere that linux actually runs
+ Guest29994: start with something like 'its in your android phone, in your wireless router, yada, yada'

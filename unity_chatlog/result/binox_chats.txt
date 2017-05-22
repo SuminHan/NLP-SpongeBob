@@ -1,0 +1,50 @@
+ im trying to get dvd to run proper(not choppy)  as well as some games.  video card is intel 82852, i installed libdvdread4 still not working,  flash video is fine. modules say DRM is on ,  any other advice?  its an older slower computer,  but not sure i should have this problem.
+ maverick, intel 82852,  choppy dvd video, flash video fine.   libdvdread4 installed,  i believe  DRM is on for the cd/dvd rom  any suggestions?
+ dr willis:   installing now.  command to run from terminal  when done?
+ drwillis :  never mind on last question?
+ dr willis:  or anyone,   vlc media worked to run dvds  not choppy  instead of totem      why?
+ is there something i can now do to make simple games run(like tuxcart or something)  without choppy video.   after that   im a full time ubuntu user
+ maverick.  intel 82852/855     fixed dvd choppy playback  by using vlc instead of totem  worked great.  flash video is fine.
+ some games dont run not choppy,  simple ones like tuxcart or wurmtux
+ any ideas
+ iceroot:  how to check,
+ but i dont think
+ iceroot: totem wouldnt play dvd smooth even after installind libdvdread4  and enabling drm to dvd.   i installed vlc and it worked fine. my flash vid works fine too. is it possibble maybe vga are not enabled or something?
+ the card is intel 82852/855 integrated,  old i know  ,  but should work , am i right?
+ iceroot:  i fixed it, rand drm to hdd.  thank you.     I am now ubuntu full time, windows is gone.  thank you
+ can anyone tell me why dvd runs properly for me with vlc  instead of totem
+ vaxinated:  thast makes sense,  thank you.  here is a question then ,  when i installed libdvdread4,  should i have not got prompted to search for the codec plugins.  i did not,  how could i install the gstreamer plugins manually,  although i will probably just use vlc
+ ok thank you,  my problem is solved,  but the more i know the better. im fully converted now.   thanks again
+ maverick:  logitech dual action game controller.  recognized and working;   looking for gui calibrator.  terminal cannot locate jscalibrator package,
+ is jscalibrator obsolete,  i cannot install it  ,  says package not found
+ is there a gui to calibrate a joystick/gamepad.    i cant install jscalibrator  -pakage not found?
+ im on maverick, and not upgrading
+ kyubutsu,  im on maverick and not upgrading,  is that also the issue with mav
+ kyubutsu,  do you know the ppa by chance
+ victorhugo:  search for the ppa for unity 2d,  will work wonderful
+ yeah,  google untiy 2d  and use terminal to add the ppa,  then istall it at login,  you can choose the 2d interface  if you dont want to stay with the gnoe interface
+ victorhugo,  yes you can just without the 3d effects,  it depends on your graphics card
+ ljl ,  i dont believe its in the install,  if im not mistaken its not canonical,  but it works great if you are haveing unity 3d issues
+ ther you go
+ i didnt know it was there.   it must be in final release
+ nice
+ it wasnt there in the alpha. now it is.
+ coolanyone know the package repository for jscalibrator or a similar gui for game controllers
+ madsailor,  thank you
+ intel 82852/855  is it blacklisted?  can i enable the drivers by altering x11/xorg.conf?  do i need another command after editing the file.
+ im on maverick
+ after editing a .conf,  do  i need to chmod or anything like that to activate those changes.  im trying to enable the intel drivers on a 82852/855 video card on maverick.  do i need to  and may it cause system instability
+ from my understanding the intel 82852 is blacklisted and i need to edit the x11/xorg.conf  to reenable them.  anyone know how,  or after i edit the file,  do i need to chmod or anything to activate my changes
+ i created /etc/x11/xorg.conf  and entered this.        Section "Device"
+         Identifier      "Configured Video Device"
+         Driver          "intel"
+ EndSection
+ Section "Monitor"
+         Identifier      "Configured Monitor"
+ woops
+ celthunder:    i thought that is what i needed to do since maverick ships with those drivers to not install
+ i cellthunder:  i installed xorg but that is not solving my opengl problem for games,  even something simple like supertux2
+ daniel:  what wireless card do you have
+ old intel 82852/855 video card here,  3d acceleration is slow.  how can i enable the blacklisted drivers in maverick
+ flash works dvd works,  but opengl is slow
+ celthunder:  thanks

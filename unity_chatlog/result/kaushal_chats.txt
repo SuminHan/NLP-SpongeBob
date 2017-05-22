@@ -1,0 +1,27 @@
+ Alastaur: for desktop we have installer.log
+ Hi
+ is there a way to know when Ubuntu Server 10.04 LTS has been installed ?
+ on a specific server
+ Alastaur: for desktop we have installer.log
+ hi
+ whats the default Filesystem in 11.04 ?
+ is btrfs recommended ?
+ dsathe: Any specific reason ?
+ hi
+ is there a way to know the speed of a USB Mobile Broadband 3G GSM ?
+ hiexpo: i know it
+ from the desktop
+ hiexpo: http://pastebin.ubuntu.com/601100/
+ Hi
+ Can someone please guide me about Networking Issues ?
+ Is there a way to set alert for packet losses ?
+ is there a Networking channel under ubuntu ?
+ preyas__: yes
+ jigynet: where can i seek help for Networking issue ?
+ preyas__: its a networking issue
+ Hi
+ whats the other name if its not a classic mode ?
+ in 11.04
+ whats the other name if its not a classic mode in 11.04 ?
+ hi
+ can i know the history of iotop application ?

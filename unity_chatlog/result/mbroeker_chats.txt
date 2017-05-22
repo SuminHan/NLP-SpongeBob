@@ -1,0 +1,8 @@
+ stevecam, what kind of gpu do you have?
+ stevecam, i had the same problem today. your card is not able to run unity and your card is not blacklisted
+ stevecam, add "deb http://de.archive.ubuntu.com/ubuntu/ natty-proposed restricted main multiverse universe" to /etc/apt/sources.list and perform a full-upgrade
+ stevecam, yes, use your own line. just activate the proposed repo
+ niadh, you can edit /etc/network/interfaces to setup a static ip for a server without gui and network manager
+ bencc, ulimit -a
+ bencc, you can check /etc/security/limits.conf or the proc fs directly.
+ bencc, well, you know more about it than me.

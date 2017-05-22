@@ -1,0 +1,18 @@
+ Hi,
+ I cant find my xorg.conf file
+ Dr_Willis, i run on virtualbox and i cant select a higher resolution
+ I have 11.04 newly installed
+ Dr_Willis, yeah i guess i need this ;) just installing
+ Hi!  I have just enabled desktop cube and cube rotate on 11.04  and everything disappared from the GUI... i reenabled the Unity plugin and now i have no window manager! there are no window borders or window icons like close or no gnome top panel - how can i recover?
+ PythonPup, I rebooted - didnt work
+ PythonPup, i rebootetd into ubuntu classic and my top and bottom panels are there as welll as my window decorations - however when I reboot into ubuntu with unity, my top panel is back there, but I still have no window manager.. any window i open is sticked to the top left corner and there are no close or min/maximize icons in the top panel
+ PythonPup, i think ill just reinstall ubuntu.. thats probably faster than fiing this ;)
+ PythonPup, i will stop testing compiz with unity ;)
+ PythonPup, im running on virtual box and i didnt have any issues with 10.10
+ PythonPup, why?
+ Hi,  suddenly both of my raid drives (raid5 and raid1) started a rebuild.. is this normal? Im getting afraid
+ mdadm
+ ohsix, and where?
+ ohsix, it just says "md: data-check of RAID array md0"
+ ohsix, this happens regularly within several weeks...
+ ohsix, why does he need to rebuild for a check?

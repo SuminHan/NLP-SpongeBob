@@ -1,0 +1,33 @@
+ hey, I don't know what happened, but my win7 partition won't boot, but when I updated grub's conf file, it still didn't work.
+ yes
+ 	hey, I don't know what happened, but my win7 partition won't boot, but when I updated grub's conf file, it still didn't work.
+ it throws  some lines of error messages, then says there is no partition
+ but I can see it and access it
+ and I didn't play with partitions at all
+ sda1
+ I don't know
+ it just didn't do it
+ last time I tried 7 last week, it worked without a hitch
+ yeah, that's what it looks like to me at my end...alas
+ 	hey, I don't know what happened, but my win7 partition won't boot, but when I updated grub's conf file, it still didn't work.
+ says it can't find a symbol, then partion, then disk doesn't exist
+ I'm sorry, but podcasts of a crazy guy I'm researching work only in windows
+ .mp3's don't work, and I can't even get to the damned things!
+ still can't get to them--itunes
+ yeah..been there...it's a bitch!
+ they do, but it's non-standard and touched up for ie8
+ Yeah!  The guy's really messed up with EVERYTHING
+ he lives in one of the safest cities in the WORLD and has body guards go with him everywhere
+ not kidding
+ going to try to push him off the deep end
+ Mark Barclay
+ well, any idea how to get it to work-win7 or hacks?  Need research material
+ you can't directly access those servers...which is ass backwards
+ tried it
+ bison: try running update-grub
+ bison: also, make sure you have grub 2
+ bison: should take care of it if you regularly update your system
+ bison: research super gurb disk--burn it and you'll be set until grub 3 comes out
+ captainkrtek, websiteguy, were you two helping me?  I got lost.
+ crazy guy research, need windows or a hack
+ Need to get win7 to boot!  Symbols missing, partitian "doesn't exist", disk "doesn't exist".  After "update-grub" still didn't work

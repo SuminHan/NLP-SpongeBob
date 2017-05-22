@@ -1,0 +1,4 @@
+ Can any one suggest a proxy avoidance sw for ubuntu please
+ Any filtershekan?
+ freakynl: it is used to bypass filtering
+ XC:internet filtering

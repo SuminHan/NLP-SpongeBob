@@ -1,0 +1,8 @@
+ is it just me or Ubuntu 11.04 is very unstable?
+ I have a strange problem with sleep. When my laptop wakes up from sleep some gtk apps do not work correctly. e..g parts of an app does not respond to mouse clicks. If I log out and log in back everything works fine again.  Is this an known issue?
+ cam some one help me?
+ I have a strange problem with sleep. When my laptop wakes up from sleep some gtk apps do not work correctly. e..g parts of an app does not respond to mouse clicks. If I log out and log in back everything works fine again.  Is this an known issue?
+ I need help
+ can some one help me?
+ I have a strange problem with sleep. When my laptop wakes up from sleep some gtk apps do not work correctly. e..g parts of an app does not respond to mouse clicks. If I log out and log in back everything works fine again.  Is this an known issue?
+ no one can help me?

@@ -1,0 +1,2 @@
+ hey what time in UTC +10 is ubuntu scheduled to be released
+ tensorpudding: thanks im not sure

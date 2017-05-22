@@ -1,0 +1,7 @@
+ hey.   i tried to upgrade to 11.04 yesterday and it basically busted up.  Does anyone know if there are any issues with upgrading from 10.10 to 11.04?
+ Does anyone know if upgrading to 11.04 is safe?
+ so   ?
+ should i do it?  i did it before and it failed
+ rumpel   ok   how should i do it?   thru terminal?
+ ok...
+ i think ill just try thru terminal first

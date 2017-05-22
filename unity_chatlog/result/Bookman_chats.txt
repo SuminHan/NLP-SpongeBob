@@ -1,0 +1,5 @@
+ I just upgraded from 10.04 to 10.10 and now my ATI Xpress200 video card is not working in 3D.  The Additional Drivers does not show anything as being available.
+ Since upgrading to 11.04 I seem to have lost my 3D capability on my ATI Xpress200.  Seemed fine before the upgrade.  Not sure how to correct.
+ I have an ATI Xpress200 video card and 3D worked very well under 10.10.  Now I've upgraded to 11.04 and I cannot get it to work at all.  Any help?
+  I just upgraded from 10.04 to 10.10 and now my ATI Xpress200 video card is not working in 3D.  The Additional Drivers does not show anything as being available.
+  I just upgraded from 10.04 to 10.10 and now my ATI Xpress200 video card is not working in 3D.  The Additional Drivers does not show anything as being available.

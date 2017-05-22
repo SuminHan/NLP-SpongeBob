@@ -1,0 +1,3 @@
+ I've googled and searched gconf-editor and compizconfig settings, but I have not found any answer: how can I change the Super+T = Open trash folder keyboard shortcut in Unity?  It replaced my terminal opening shortcut (which is still in the configuration but doesn't function)
+ Anyone?  How can the Unity keyboard shortcut for 'Open Trash Folder' <Super>T be configured?  There doesn't appear to be an entry for it in gconf
+ LAcan, that option is missing all the 'advanced' unity shortcuts.  It doesn't have an entry for 'open trash folder'

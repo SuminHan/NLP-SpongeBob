@@ -1,0 +1,8 @@
+ Hi All: Well my ubuntu update has not been going so smooth, long story short ive accidentally sudo apt-get autoremoved ALL of my kernal images, which autoremoved a bunch of useful packaged before I could kill the operation.  Ive cleanup up dpkg and reinstalled the latest kernel image, but I dont know which packages are still missing.  is there any way to reinstall "important" packages before I reboot?
+ rumpe1: oh?
+ smw: yeah
+ smw: seems everything ubuntu-desktop depends on is still available
+ smw: I may still have missing packages but at least I think I can safely boot
+ rumpe1: right, but when I removed ALL my kernel images, a bunch of important packages got uninstalled (libraries etc).
+ smw: I guess reinstalling the latest kernel image also reinstalled all the necessary packages
+ rumpe1: sudo apt-get autoremove linux-image-2.6.28* somehow also matched 2.6.35 and 38 etc.. apt regex matching is .. different than i expect it to be.  It warned me, but i hit yes without thinking

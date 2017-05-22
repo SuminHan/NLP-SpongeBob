@@ -1,0 +1,7 @@
+ I have a question which might have a simple answer, can someone point me in the right direction for a dvd player app for ubuntu?
+ KNUBBIG, "!dvd" is the name of the app?
+ okay thanks
+ I appreciate it
+ Alright, I downloaded Kaffeine, but I'm actually having some trouble installing it...a newb at this
+ Can someone explain to me how to create an empty build directory?
+ BKTech86, might be different from...

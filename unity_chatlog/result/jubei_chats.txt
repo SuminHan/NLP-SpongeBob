@@ -1,0 +1,18 @@
+ howdy. Just booted into ubuntu 11.4 aand.. compiz effects are disabled. Trying to eanble the nvidia driver but doesn't seem to be a way
+ ChronicSyncope, I'm also trying to get compiz to work
+ ChronicSyncope, unity
+ ChronicSyncope, when I select additional hardware drivers it shows me that the nvidia driver isn't enabled but also has no way for me to enable it
+ ChronicSyncope, yes
+ ChronicSyncope, sec
+ ChronicSyncope, says "This driver is activated but not currently in use", and the circle is green
+ ChronicSyncope, but I don't get my old effects.
+ ChronicSyncope, and under "Appearance" there's no option to enable effects
+ ChronicSyncope, ok.
+ ChronicSyncope, got it thank you.
+ guys unity fails to start :(
+ i guess it's a known issue huh?
+ can somebody help me start unity cooz..it started 1st boot but then refuses to start on subsequent boots
+ d3vlin,  I have the same problem
+ d3vlin, the thing is that I've deleted my boost libraries and upgraded to the latest version of boost and how compiz is looking for libboost1.42.0 :(
+ hello. I acidentally deleted boost from my system and now compiz cannot load the problem is that as a result gnome/unity etc with effects cannot load and I'm in a bit of a bind I've re-installed the required libraries but compiz still doesn't load any tips would be appreciated http://pastebin.com/Q2XQdYLY
+ (sry for missing punctuation )

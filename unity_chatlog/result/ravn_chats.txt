@@ -1,0 +1,1 @@
+ hi folks, I have problems with grub (again, what are the package perople of this package doing??). I installed ubuntu 10.10 on an old laptop which worked w.o. any problem, but after the last update I get grub out of disk. I have tried to reinstall grub, but it does not make any difference, what to do?

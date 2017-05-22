@@ -1,0 +1,6 @@
+ woohoo, upgraded to natty narwhal...and ubuntu goes to a blank screen (but with the gradient background) after choosing the kernel to boot from. Can't bring up Terminal or anything. :(
+ hmm now it just goes to a blank screen with a blinking cursor. no boot
+ hmm I changed my boot options to show whats happening during boot, it seems to get stuck at Loading...please wait...but it's been like what? 5 minutes? no change
+ hmm after booting in verbose mode I seem to be stuck on boot at the line "Begin: running /scripts/init-bottom ... done
+ yay I got narwhal to boot...by booting into the older linux kernel
+ apparently 2.6.38 doesnt like my netbook X_X

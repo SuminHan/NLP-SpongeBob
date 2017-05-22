@@ -1,0 +1,3 @@
+ does ubuntu 11.04 normal download has wubi installer in it...????
+ hi... Ubuntu 11.04 natty is still very unstable
+ i can't enter unity without first enter ubuntu classic with no effects and install fglrx manually or from jockey

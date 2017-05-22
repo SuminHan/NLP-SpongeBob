@@ -1,0 +1,17 @@
+ I just installed Ubuntu. Why doesn't it run Unity, but gnome?
+ Is gnome the default interface in Ubuntu 11.04 or wht?
+ Then why doesn't Unity load, but gnome?!
+ ohsix, I tried Ubuntu, Ubuntu classic etc. None is Unity.
+ I'm running a new Ubuntu installation by the way.
+ So, does anybody have any clue as to why only gnome loads in a new Ubuntu 11.04 installation?
+ nutsfornutty, yes, I already did that and it still loads gnome.
+ Yeah, right, but isn't it supposed to load unity by default?
+ Right, so I tried every session option(e.g., Ubuntu Classic, Ubuntu) but all load gnome.
+ nuts, already tried that; it still loads gnome.
+ I typed "unity" in the terminal and this was the last line rendered:"Window manager warning: 0x1800003 (Bottom Exp) appears to be one of the offending windows with a timestamp of 167746096."
+ I assume it doesn't work.
+ Doesn't anybody know why Unity won't load on my new ubuntu 11.04 installation?!
+ jiohdi: it produced some sort of error.
+ estamp (4045470).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+ Window manager warning: 0x1800003 (Bottom Exp) appears to be one of the offending windows with a timestamp of 167746096.  Working around...
+ Fuck this shit. I've grown tired of this mess in Ubuntu. Sometimes random shit just breaks and I need to spend hours trying to figure out how to fix it. On more jolly occasions, such as this one, a new installation will have something broken de facto. FUCK YOU UBUNTU, I'm switching back to Windows, where I can actually get some work done.

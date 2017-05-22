@@ -1,0 +1,16 @@
+ is there a curses alternative to diffusion? it just had my load average up really high... no idea what it was doing
+ anyone know of an alternative to diffusion that doesn't take up so much in system resources?
+ hi, where can I get pdf2swf? on ubuntu 10.10 that is
+ is it in a package?
+ can I get pdf2swf on ubuntu 10.10 within an apt package?
+ sorry ActionParsnip I wouldn't know... I'm just looking at http://designbye.wordpress.com/2010/02/23/installing-swftools-and-pdf2swf-on-ubuntu-linux/
+ I did sudo apt-get install swftools and it found nothing
+ thanks ActionParsnip
+ hmm ActionParsnip - sorry but what repository should I turn on? I'm in synaptic, trying to get swftools...
+ thanks GeorgeJ
+ jahrends, just turn off your firewall ;) no, actually this will help http://ubuntuforums.org/showthread.php?t=233146
+ ah I've never done it myself, sorry. but they have an irc channel
+ jahrends, shown here http://www.ircd-hybrid.org/support.html
+ I was pointing you to their irc channel
+ also their mailing list is there so you could ask on there.
+ or try here by specifying what config option you are stuck at, but it may be less helpful than their own irc channel

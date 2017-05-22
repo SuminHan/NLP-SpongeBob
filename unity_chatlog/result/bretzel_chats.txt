@@ -1,0 +1,4 @@
+ Hi, ( no, google doesn't satisfy refined search:too much results) -->  I need to know how ncurses/libncursesxx have been built, with what options: MOUSE VERSION2 "-enable-ext-mouse  (wheel event support? ) ;  -enable-ext-colors ? (for 256 xterm colors support ???? I really need to know
+ Hi, ( no, google doesn't satisfy refined search:too much results) -->  I need to know how ncurses/libncursesxx have been built, with what options: MOUSE VERSION2 "-enable-ext-mouse  (wheel event support? ) ;  -enable-ext-colors ? (for 256 xterm colors support ???? I really need to know
+ Sorry for du msg .. no one can answer ?
+ for du ** for duplicated

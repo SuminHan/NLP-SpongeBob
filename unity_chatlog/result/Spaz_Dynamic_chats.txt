@@ -1,0 +1,70 @@
+ ChogyDan: somewhat. I did install it yesterday, but I also set my graphics driver to proprietary and attempted to update to 11.04
+ I boot my computer, and get dumped to tty2. switching to tty7 shows that most things loaded (I think). I log in to tty2 and running startx gives me a segfault, and says that the server is aborting.
+ natty
+ I boot my computer, and get dumped to tty2. switching to tty7 shows that most things loaded (I think). I log in to tty2 and running startx gives me a segfault, and says that the server is aborting.
+ I boot my computer, and get dumped to tty2. switching to tty7 shows that most things loaded (I think). I log in to tty2 and running startx gives me a segfault, and says that the server is aborting. How can I resolve the segfault and get a GUI running again?
+ hcook: +1
+ cc11rocks: have you set the permissions?
+ cc11rocks: the jar file
+ cc11rocks: are you talking about minecraft, by chance?
+ xD
+ and then
+ java -jar /path/to/your/file.jar
+ I require assistance. I boot my computer, and get dumped to tty2. switching to tty7 shows that most things loaded (I think). I log in to tty2 and running startx gives me a segfault, and says that the server is aborting. How can I resolve the segfault and get a GUI running again?
+ ChogyDan: yeah, I don't know what to look for though. it points out the segfault near the bottom as well
+ ChogyDan: somewhat. I did install it yesterday, but I also set my graphics driver to proprietary and attempted to update to 11.04
+ ChogyDan: after the update though, i get this.
+ !es |SonGoku|
+ ChogyDan: bah, really?
+ ChogyDan: Eh, alright. I have a separate /home partition, when installing, how do I make it so that it doesn't install a new one and uses the old one as my ~
+ celthunder: alright, thanks. I've just never done it before so I wasn't 100% certain.
+ howcome numlock is on, though my keyboard indicator is off?
+ I've got a question that doesn't pertain to when natty is coming out. Who wants to hear it?
+ smw: It's called humor. Everyone is asking about natty. =P
+ smw: and techinically, I didn't ask to ask a qustion, or ask who knew the answer, I asked who wanted to hear a question that wasn't "when is natty coming out"
+ smw: haha, alright. So, I'm wanting to make a bootable USB for ubuntu, kubuntu, and xubuntu. Is it possible to make one stick bootable for all 3 live "CDs" It is 8GB so there is more than enough room.
+ histo: I wasn't off topic, I was just using an interesting segue. =P
+ perhaps not interesting so much as long and slightly convoluted.
+ smw, how would I do that then?
+ smw: I don't know that myself. I know that the utility unetbootin uses 7zip to extract the images and then makes a modification to the MBR it
+ hfx: ubuntu has been out for years. =P
+ smw: interesting... I may look into it.
+ dani_: in the next 24 hours
+ dani_: correction, what smw said
+ smw: not true. california it will still be the 28th, and hawaii and etc
+ smw, then it will be still in hawaii still
+ smw: i'm not sure about that, but i'm GMT -5, and hawaii can't be more than 6 hours behind me, so thats GMT-11
+ en1gma: I know, thats part of why I kept going on about timezones with smw. xD
+ why isn't lubuntu endorsed by canonical?
+ histo: yeah, I didn't see why.
+ smw: how is it hard?
+ smw: I use puppy linux. its rather simple and I love it for that.
+ But I want a more fluffy OS for my desktop, so I use a 'buntu flavor
+ aaahh, ok
+ ubottu: I dun wanna. You just keep saying the same thing to me over and over. It's akin to spamming, and I don't approve.
+ !ati
+ there we go, forgot where it was. thanks ubottu
+ for getting skype, is it recommended to get the ubuntu varient, or just go for skype-static?
+ I use skype static on my laptop (puppy linux) all the time and don't have any issues whatsoever.
+ Why doesn't apt-get / synaptic / updates / kpackagekit / whatever download and install things as soon as they're downloaded, unless they're dependent on another download that hasn't completed yet? It would be more efficient that way...
+ such as if you have a list of 20 things, it waits til they're all downloaded before installing them
+ ohsix: "atomic application" ?
+ for running jar archives (example: minecraft) what should I get? openjdk, or gcj?
+ ohsix: Alright, thanks.
+ having an issue running a java jar archive. I get http://pastebin.com/6BkDrMPN when I "java -jar /path/of/file.jar"
+ and as you can see from the last couple lines, it's minecraft >.> So it should be working, its not like I made it and it isn't working. xD
+ think so. either way, I was about to run it out of the box on 10.10, though I did do a fresh install for 11.04
+ fresh including /home
+ taglass: 1.6.2_22-b22
+ ..oh, wait, just noticed I am in #ubuntu... I am technically running kubuntu... >.>
+ <.<
+ taglass: probably. is Sun java in the repos, or do I need to get it from them direct?
+ taglass: alright, thanks.
+ hrm, are double quotes ( " ) valid characters for in directory names?
+ so I've got a headless 10.10 installation, how can I enable another repository (canonical partners specifically) to make sure that java is is the correct version?
+ I might also note that I'm connected via PuTTY SSH, if that matters or not
+ I forget, was Lucid a LTS release?
+ So, amarok and rhythmbox are both good programs, but I'm used to foobar2000 (windows only) if anyone is familiar with foobar2000, is there a linux native equivalent? It does run in WINE, but... I'd like to be native as much as I can.
+ where is the #ubuntu log kept?
+ alright, my friend is having issues with his computer, yet he feels that his knowledge of linux is insufficient for him to come to the IRC channel and ask for help, so I'm going to for him since I'm not sure what is up. He has a dual boot, windows 7 64bit and ubuntu 32bit. when he boots, he gets a "select OS" screen, and then when he chooses ubuntu, he gets taken to grub2, where he has to choose ubuntu again, but this leads to a blank
+ screen with a blinking cursor and nothing happens (note that this was after he attempted to upgrade from 10.10 to 11.04), choosing windows takes him back to the first boot selection, and choosing windows from there boots windows 7. He installed windows 7 first, and then ubuntu on a different partition on the same hard drive.

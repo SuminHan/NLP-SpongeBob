@@ -1,0 +1,75 @@
+ I installed pidgin and closed the contact list. i have a contact window open. How do i get the contact list back? Clicking on the pidgin icon in the unity bar on the left does nothing. there's no system tray icon.
+ anyone? seems like a pretty awful UI...can't even get the contact list back. no system tray icon
+ Is there a way to attach menus back onto their app windows? having it in the top bar is very annoying
+ coz_: if i were allowed I would be using many creative words to describe how i feel about unity right about now lol
+ coz_: yep
+ velcroshooz: that'll only save me until they remove classic :(
+ i wonder if the point of unity was to make things easier to do or to hide things from the screen. seems everything takes at the bare minimum 1 extra click to do. hell - finding what apps you have installed is now a fight between man and machine
+ has anyone got anything good to say about unity lol
+ i dreaded icons on the left but they turned out to be a pleasant surprise so i went into this very open minded. but....the only real way to describe this is 'wtf'. what were they thinking?
+ aLky: there were alot of issues on the issues page when doing upgrades
+ how do i revert to proper gnome?
+ Incarus6: thanks
+ rgr: i wouldn't. i would have figured it'd be in appearance settings
+ rgr: in addition search for 'unity' and you get a little window called 'launcher & menus' with 2 options on it. why was that not also in appearance. seems very hidden away
+ i thought i recalled a video on omg ubuntu where the left bar would disappear and only start appearing if you dragged your window near it. however i can't get it to disappear without maximizing my current window (a bad idea on a 24" monitor). any ideas?
+ dsathe: how do you get to them?
+ dob1: lol i've been using ubuntu for many years and i didn't know how to disable unity until someone told me
+ dob1: i couldn't even figure out how to open the pidgin contact list - turns out its hidden away under the envelope icon
+ Incarus6: i know but the bundled one is useless in every possible way
+ phoque_uni: wait until you try to alt+tab
+ vabigoon: it's a piece of software designed to get people outside more often
+ Has anyone noticed that with the new scrollbars you can't click on, for instance, the bottom half of the scrollbar when the scroller is at the top anymore? because no scroller appears down there when you mouse over
+ Herbs: 12.04 is the next LTS
+ ChronicSyncope: it still does. I've got ccsm installed and was mucking around with the settings last night. after removing unity that is
+ ChronicSyncope: can't help you with the cube thing - i don't use it. just wanted to mention that compiz seems to work fine - was tweeking madly to get things working/looking right and nothing seemed to break
+ hey guys i'm doing a "tar cC /path/to/files ." which tars the entire folder but inside the tar file everything is in a '.' subfolder...how can i remove that subfolder?
+ Are you able to upload to ubuntu one from the terminal?
+ Anyone else experiencing an issue in natty (classic) where apps dont get their sys tray icons? had to start vlc up 3 times eralier for its icon to appear - this time i had to do it about 7 times
+ antiphysicist: firefox &
+ Anyone else experiencing an issue in natty (classic) where apps dont get their sys tray icons? had to start vlc up 3 times eralier for its icon to appear - this time i had to do it about 7 times
+ Sirkill: nvidia proprietry graphics?
+ Sirkill: VM has no 3D so no unity
+ LAcan: on the login screen select gnome classic down the bottom
+ LAcan: it's DEBAtABLY better if youre on a netbook. otherwise there's no reason to use it
+ Roasted: i pressed teh ubuntu button at the top left, typed unity, discovered a little window with 2 checkboxes that for some retarded reason weren't linked to the Appearance settings. that was all the customisation i could find lol
+ arkanabar: alot of issues with upgrades on the Known Issues page
+ Roasted: hahahaha now theres some wishful thinking.
+ Roasted: 3D
+ wtf. why won't apps sys tray icons appear in 11.04 gnome classic??? have to start vlc up several times to get it to appear
+ Are the nvidia 3D experimental stable enough to use in 11.04?
+ ZykoticK9: i'm using nvidia proprietry right now without issue lol. i was asking about the open source 3d experimental ones
+ ZykoticK9: nvidia proprietry have worked in every version of ubuntu fine
+ ZykoticK9: yep
+ ZykoticK9: what exactly did you think didn't work about them?
+ ZykoticK9: If you have an nvidia card, when you first install 11.04 you'll be greeted with an extremly ugly popup box (very strange looking thing) that says your hardware doesnt support unity. if you then go and install the proprietry ones from additional drivers window and reboot, both unity and classic work fine. at least thats my experience. 8600M GT on a dell inspiron 1520
+ alpha255: before installing the proprietry drivers you're sent to gnoem classic - not even unity 2d loaded for me
+ alpha255: it's not installed by default?
+ mikinanuq: eventus: ccsm lets you take compiz settings backups and has import functionality if things go back.
+ go bad*
+ AlbertoP: have you installed nvidia proprietry?
+ Too new :( how sad is that
+ Hey guys I installed 11.04 in Virtualbox-4.0. As expected, unity didn't load so it went to gnome classic. all fine so far but after a reboot, gnome classic now looks like this http://dl.dropbox.com/u/7629436/Screenshot-1.png any ideas on how to fix that?
+ atlef: why would it have looked fine the first load but not the second?
+ atlef: installing them helped. thanks
+ atlef: Spoke too soon. Now both Ubuntu and Ubuntu Classic seem to load Ubuntu Classic, but they seem to load it with the proper theme then switch to the theme in my screenshot :S
+ atlef: Aha! killall -9 gnome-settings-daemon && gnome-settings-daemon fixes it
+ Does installing unity-2d just give you the option to use it alongside 3D or does it actually break unity-3d?
+ Incarus6: thanks
+ Anyone know how to access a windows pc that doesn't have a password via samba?
+ jrib: neither of those have the info i asked for
+ jrib: i didn't - but neither page have anything to do with no passwords on the windows side. the first one of the two mentions CIFS but nothing about the passwords
+ jrib: yup just spotted it. i thought that was for mounting one without a password, not accessing one. thanks
+ jrib: when i try //<ip>/C i get mount error(13): Permission denied however when i use //<hostname>/C I get No address associated with hostname. any ideas on how to get IP working?
+ jrib: googled it and the syntax here http://opensuse.swerdna.org/susesambacifs.html#hide is slightly different to the one in the doc you linked me to
+ jrib: strike that - same syntax. just not sure how to pass that permission denied error. i was using sudo
+ jrib: I've done a bit of research/debugging. I'm currently using sudo mount -t cifs //10.0.0.20/C /media/desktop/c -o Guest,rw,nounix,iocharset=utf8,file_mode=0777,dir_mode=0777 user guest never worked but Guest makes it as far as asking for a password. Also on the windows machine I set it to 'People without a user account and password for this computer can access folder shared with everyone'
+ jrib: no. i can get as far as it asking me for a password now. but still says permission denied when i just press enter without typing anything
+ jrib: ahh yes you're correct. still getting error(13) permission denied though
+ jrib: same thing. error 13 - permission denied
+ jrib: hmm. can't access from XP. guess it's on the Win7 side. will look further into it i guess. Thanks for the help
+ Hey usually I install msttcorefonts but apparently in natty there's only ttf-mscorefonts-installer and it's already insatalled yet reddit fonts look pretty different. any ideas?
+ Anyone else noticing VLC icon rarely appears in classic 11.04?
+ When i first installed natty I had teh option of setting my drivers to noveau 3d (expierimental) or nvidia proprietry in the 'additional drivers' window. I selected nvidia proprietry. I now want to switch to noveau but the only drivers available in that window noare are hte nvidia proprietry ones...how can i switch to noveau 3d?
+ How can i stop window titlebars opening behind the top panel in natty classic?
+ Answer to my question was 'Place Windows' in csmm. thanks me

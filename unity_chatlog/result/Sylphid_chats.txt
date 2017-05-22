@@ -1,0 +1,24 @@
+ hey all....having a problem with front panel audio, if i start audio it everything defaults to rear panel however if i run aplay /some/audio.wav and start another track durring the aplay it goes to the front panel, any tips?
+ Pr070cal,  why are you denying out?
+ Pr070cal, make sure you are adding your related, established rules
+ Pr070cal, dont forget that connections use random source port
+ hey all....having a problem with front panel audio, if i start audio it everything defaults to rear panel however if i run aplay /some/audio.wav and start another track durring the aplay it goes to the front panel, any tips?
+ Pr070cal, you could also try logging the connection drops to debunk where they are getting dropped
+ hey all....having a problem with front panel audio, if i start audio it everything defaults to rear panel however if i run aplay /some/audio.wav and start another track durring the aplay it goes to the front panel, any tips on how to toggle between front and back panel only?
+ hey all....having a problem with front panel audio, if i start audio it everything defaults to rear panel however if i run aplay /some/audio.wav and start another track durring the aplay it goes to the front panel, any tips on how to toggle between front and back panel only?
+ hey all....having a problem with front panel audio, if i start audio it everything defaults to rear panel however if i run aplay /some/audio.wav and start another track durring the aplay it goes to the front panel, any tips on how to toggle between front and back panel only?
+ Eathuz, using the mac optimized image maybe
+ Eathuz, whats the error message displayed?
+ Captainkrtek, sure you can... bad bios flash
+ Eathuz, is the usb device plugged into a front or rear port?
+ Eathuz, no problem... sorry i couldnt help, though it may be a bios bug you may want to try updating, i cant think of any other reason if it worked fine on another box
+ pylix, 2 years of support if i remember correctly
+ pylix, sorry was wrong 1.5 years
+ hey all....having a problem with front panel audio, if i start audio it everything defaults to rear panel however if i run aplay /some/audio.wav and start another track durring the aplay it goes to the front panel, any tips on how to toggle between front and back panel only?
+ usr13, ping would not go through the proxy, it would follow the default route
+ usr13, ping will only ever go through the proxy if it is also the default route
+ usr13, correct
+ usr13, agreed
+ Osmodivs, sudo apt-get install update-manager-core && sudo do-release-upgrade
+ cablop, iwlist
+ cablop, nope

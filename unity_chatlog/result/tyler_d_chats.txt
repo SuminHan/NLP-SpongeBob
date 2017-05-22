@@ -1,0 +1,7 @@
+ can someone please pastbin their /etc/init.d/openvpn for me... I am getting a syntax error somewhere in mine?
+ rob_p:  being foolish
+ rob_p: I was trying to sort out an upstart issue; however something got borked and of course I saved it right
+ rob_p: alternately how would I force re-install?
+ rob_p: worked like a charm, tyvm
+ I have tried a few diff methods to get my tray icons back to no avail.... anyone have a solution to get apps like ekiga, davmail, amsn to show on your icontray?
+ does anyone know how to get tray icons to show?

@@ -1,0 +1,10 @@
+ Anyone have a sulution to full screen flash streams crashing in ubuntu 11.04 64bit? I have tried the mms cfg file and turning hardware acceleration on/off (nvidia card)
+ ActionParsnip: http://pastebin.com/NZcfpByf
+ ActionParsnip: does it make any sense? I know its a while ago you started helping with the fullscreen flash video computer crashes, but you disconnected after you asked me for the output :)
+ hmm..
+ anyone else that can help with flash video making my ubuntu crash in full screen? (ubuntu 11.04 64bit, nvidia adapter)
+ Xylch: probably default 32bit
+ Xylch: thanks, I will download it and try.. do I need to remove the 32bit?
+ Xylch: ok, then I just need to google how to use the .so file and im set to go :)
+ Xylch: any idea what folder its supposed to be in?
+ Xylch: I did a locate :)

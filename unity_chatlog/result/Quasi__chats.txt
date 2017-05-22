@@ -1,0 +1,10 @@
+ hello I just installed 11.04 but my nvidia drivers is "currently not in used". I did reboot in a recovery console, purge nvidia-common and reinstall it but it still doesn't work. Any idea ?
+ sebsebseb  not for the moment, but the fan is running at top speed all the time
+ sebsebseb I think because the lack of the driver the cpu is more used, so the fan speeds up
+ sebsebseb nvidia 8600 gts
+ sebsebseb installed but not activated
+ sebsebseb  how can I install it (I'm a noob sorry)
+ sebsebseb where can I get the experimental driver and how to install it ?
+ sebsebseb thanks a lot for your help, will try that
+ sebsebseb ok will do that. Last question : I have 2 Nvidia drivers (173 & current) Should I uninstall both ?
+ shane4ubuntu you can try avant window navigator

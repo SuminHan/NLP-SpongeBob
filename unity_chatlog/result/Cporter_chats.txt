@@ -1,0 +1,13 @@
+ I installed Ubuntu 11.4 using Wubi and when I booted into it, it says there is no boot partion. I uninstalled and it happened again. Any idea what could causing it
+ it worke for my laptop but not my desktop
+ ok
+ did any one here go to LinuxFest Northwest over the weekend?
+ get the owner a program called jaws for the netbook
+ brb
+ Well that didnt work. I just won't install Ubuntu right now. I redid the install with wubi for 10.10 and had the same problem.
+ how do you fix "No root file system defined" After a install using Wubi?
+ does Ubuntu work on RAID 0, and do I have to do anything to it to make it work? I was using WUBI to install but keep getting srros
+ it's not "FakeRaid" and this computer is better with the e read bonus, not redundancy necessary. I just want to dual boot win7 and Ubuntu.
+ ill okk at the vid, thanks
+ dam, i cant type today
+ unfortunately I wouldn't know how to do that without messing it up. The problem is i keep getting an error sayingno root file system. but it works with the laptop fine

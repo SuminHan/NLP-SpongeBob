@@ -1,0 +1,181 @@
+ tripelb: Yes
+ rendero: When it's ready.
+ rendero: Before 29th
+ tripelb: Yes
+ jatt: It's the other way around.
+ jatt: 64bit is almost always better as far as performance goes, and PAE allows using < 64G memoery on 32bit..
+ Macer: Not as far as I know, and likely might never be..
+ HF_acid: Go into passwords and encryption keys, I presume is should be there, you can delete it from there which will re-make it next time..
+ DirtyDawg: ~20G
+ DirtyDawg: Or, well with a separate home, you'll probably be more thatn fine with ~10G
+ vibhav: It's just closed
+ euclid: You can easily choose classic at the login screen to not use it
+ banished: ctrl+alt+shift+arrowkeys
+ chchatzop: Through the shutdown menu
+ cholo: I guess you have it then
+ !final | cholo
+ cholo: That decision is not finalised, but expected I think.
+ Amanda: do-release-upgrade does that and disables PPAs etc. in addition, it also creates opens SSH for recovery purposes I think, but in essence yes, editing sources is fully possible, but you have to know what you're doing, obviously...
+ Amanda: Or if you have a really messy system with lots of additional repositories which messes things up, it should be fine otherwise yes, but the other methid is the recommended one, obviously.
+ !upstart | urbanpt
+ jatt: http://releases.ubuntu.com/natty/
+ jatt: Unity uses compiz.
+ Roasted_: 2d?
+ Roasted_: It can be installed, but is not default in any release no.
+ Roasted_: apt-get install unity-2d
+ Roasted_: And select it at login
+ Roasted_: Yes, choose at login.
+ phoque_uni: Performance, and the ~3.2G limit is only for individual applications if you use PAE.
+ phoque_uni: 64bit is faster in almost all cases.
+ !ru | aleksey
+ ruan: No, you need to chose it at login
+ DirtyDawg: I would guess at acpi issues, try booting with acpi=off
+ !home | zeeegis
+ !backtrack | alienware
+ srsbiz: It's not
+ Psychobudgie: No.
+ cws: According to that, it does seem to be added...
+ cws: What does your grub.cfg look like?
+ BitOperator: Use torrents if possible.
+ eoss: Your decision.
+ eoss: For 18months paste relese I think.
+ michaelschmid: No
+ sebsebseb: unity-2d is in main..
+ sebsebseb: Must've been early in the cycle..
+ kubanc: They may be treated as different workspaces?
+ kubanc: Oh, I misread the version.. Hmm, I don't know I'm afraid..
+ macross: Unity uses compiz, by the way..
+ macross: Please, this channel is for support.
+ Z1nn0c: Please don't PM, are you using btrfs?
+ Z1nn0c: I don't know.
+ Z1nn0c: A filesystem, nevermind it doesn't affect your issue
+ Rehan: I do not think so no.
+ Rehan: Likely due to lack of acceleration video drivers.
+ Rehan: Probably, yes
+ Q-collective: Dod you have "grub" isntead of grub-pc installed?
+ Q-collective: Then that is your problem.
+ vanguard: backup?
+ bittyx-laptop: Yes, select classic at login.
+ thanos: Right, and this home was created in maverick, and you have mad an install re-using /home, or just an in-place upgrade?
+ thanos: Do this "sudo mount /dev/sdXY /mnt -o defaults,subvolid=0"
+ thanos: sdXY representing your /home btrfs partition.
+ thanos: Ok, if you mount that with th eoptions I gave, and look in /mnt, do you see your old data along with the new @home subvolume?
+ gogeta: btrfs does not need an ext boot for grub, however it will report an error which you will have to press out of on each boot if you do not have one.
+ gogeta: I think this is in the relese notes...
+ thanos: Reboot won't change anything regarding the btrfs..
+ thanos: Since no changes have been made yet..
+ gogeta: Heh, I did a /lastlog btrfs ;)
+ atpa8a: Likewise, (In noted that you can use btrfs without /boot, though you will see an error each boot and need to press to continue.)
+ gogeta: grub doesn't support it completely, the grubenv file can't be written to it seems, which is what makes it error
+ gogeta: It is normally not needed, but it causes issues though.
+ gogeta: You get a "press any key to continue", but otherwise seems fine, I'm not sure how it works with non-standard stuff like compression and so, presumably it should be fine..
+ gogeta: I've got to test that at some point, is it possible to set compression up via the installer?
+ gogeta: So basically you halt after partitioning step in d-i and remount?
+ thanos: Ok, re-do the mount I gave you
+ thanos: Do this "sudo mount /dev/sdXY /mnt -o defaults,subvolid=0"
+ thanos: then have a look in /mnt.
+ thanos: Do you see your old data along with the new @home subvolume?
+ gogeta: Ubuntu support for btrfs is kinda wonky..
+ thanos: "cd /mnt; ls" ?
+ thanos: Hmm, that is odd..
+ thanos: I'm not sure then, I guess you could try it from a liveCD instead..
+ thanos: I had a user before with the same issue, and this worked in that instance
+ thanos: Basically, what the problem is MM uses the top-level of the btrfs and dumps all files there, wheras NN sets up subvolumes under the top-level and mounts these instead. This has nothing to do with btrfsck.
+ thanos: Your current NN install is mounting the subvolume, and hence you cannot see the old home files which are in fact above it in the tree.
+ thanos: No, mounting the top-level with the command give should be enough.
+ thanos: Did you use any non-standard options for btrfs, compression or so?
+ gogeta: Do expect it to break, and account for that ;)
+ gogeta: Yea, I've worked through a bunch of kvms poking into btrfs =)
+ ohsix: gogeta knows as well..
+ thanos: Hmm, then I'm afraid I'm not actually sure, you could try doing the same thing from recovery mode, or from a liveCD, if it is somehow dependent on not having the /home mounted, which it really shouldn't..
+ thanos: Oh, your new /home is ext4 then?
+ thanos: if you log in dmesg, or the kernel log, does it show any error messages? /var/log/*
+ thanos: there is a log file viewer
+ thanos: You could "sudo umount /mnt" and "sudo mount /dev/sda3 /mnt" again and then see if there have been any additions to the logs
+ topramen: sms?
+ thanos: Ah, right, hmm, I guess you need to exit the ls that is stuck trying to access it.
+ thanos: Or you could just look at the logs and try to find it anyways, it shouldn't be too hard
+ thanos: it should be in dmesg (you can just run "dmesg" in the terminal to see it.)
+ thanos: Are there any suspicious errors by the end of that?
+ thanos: Yea, that is something wrong there. What you might want to do is find a liveCD with a very new version of the kernel, (Fedora, or yet newer) and see if you can mount it from there instead. I'm not sure you'll be able to do much more from the buuntu kernel version.
+ fezzik02: Please don't further things. Someone will take care of it if it continues.
+ thanos: Hmm, Well frankly not sure if it will make much difference...
+ thanos: It is a btrfs problem, but btrfs is part of the kernel, so the newer the kernel, the more bugfixes btrfs has.
+ thanos: Hang on, actually, try using the mainline kernel.
+ !mainline | thanos
+ thanos: Yes, I would guess that the data is still there, but whether or not you can get to it, I don't know..
+ thanos: Install the latest kernel from the mainline (instructions on the wiki) and then reboot into that kernel and try mounting it again.
+ ChronicSyncope: Nope
+ thanos: You won't need to with the mainline
+ fezzik02: If you edit the menu entry and remove "quiet splash" and then boot via [Ctrl+x] does it show any interesting error messages?
+ thanos: Yes, three of them (header image and and another which i don't remeber the name of)
+ thanos: There should be instructions on how to install on the wiki
+ fezzik02: Hmm, I would try reinstalling grub.
+ !grub | fezzik02
+ kathie: If you right-click the applications button in the panel, you can go to the categories
+ Herbs: Please, you are not being very friendly here..
+ kathie: I guess the idea is to steer towards using the keyborad, which seems to be faster in the end.. I'm not sure I like it either, but that's Unity for you..
+ soreau: That's a gnome feature you know :þ
+ soreau: You Can find that in gconf somewhere.
+ kathie: you use "add to favourites" to add items.
+ soreau: /desktop/gnome/interface/menus_have_icons
+ fezzik02: There is a section on the wiki about reinstalling, I would go with the chroot option.
+ fezzik02: Yes you can.
+ soreau: The whole thing is one big applet
+ soreau: I think you can disable things by uninstalling packages, hmm.
+ soreau: indicator-applet I think, and the element have names similar..
+ soreau: I think you can install certain parts of it, e.g. "indicator-messages"
+ kyle___: Many have used them succesfully, I'm not sure of a general issue with that no.
+ thanos: Were you able to get to the old files?
+ thanos: Excellent =)
+ thanos: Then hurry up and copy them to a safe backup ;)
+ thanos: No problem at all, I barely noticed :)
+ jiltdil: Closed.
+ jiltdil: Won't open until next cycle starts up
+ jiltdil: I don't know I'm afraid.
+ xsinick: That's in gnome3...
+ Tully_: Please don't
+ xsinick: S-M-Gl: installing that won't help...
+ _ryx_: Don't repeat.
+ tanath: ezrafree: sudo -s rather
+ JoshDreamland: Shutdown button
+ TheHackOps: Same to you sir.
+ JoshDreamland: cablop: TheHackOps: System settings are in the shutdown menu.
+ aperson: Full command and desired outcome? (pastebin if necessary)
+ TheHackOps: You should avoid /msg ing people in this chat anyways.
+ TheHackOps: Then please do so in this channel so that everyone can chip in.
+ TheHackOps: Unless you ask and they confirm that you want a pm, of course.
+ zombor: If you press F6 and remove "quiet splash" from the boot line, does it display any instersting errors?
+ zombor: Alternatively, does the alternate install CD work better?
+ zombor: Hmm, I guess the kernel work, but possibly it stumbles when it initialises video drivers or something, I don't know then I'm afraid, you may want to try the alternate install CD, or look up your particular computer model and video card model and see if there are known issues there..
+ aperson: Hmm...
+ aperson: I think the end result of that is «« scmd say bash -c "screen -p 0 -S minecraft -X eval 'stuff \"$*\"\015'" »» Which I guess is not what you are after really?
+ aperson: I guess you could just use "for i in file.list; do somethingwith "$i"; done"
+ aperson: Hmm, with the one you used, you may want to enclose the bash string in $() to extract the result of running that command
+ aperson: I'm not sure I know much more than you how to fix it at this point, I'm afraid..
+ Sree_: For reinstalling windows, see ##windows, but it's presumably just a matter of booting the CD...
+ eigba: That's why there's #ubuntu-offtopic for non-support chat ;)
+ TrentonAdams: Login with classic session
+ forthelulz: Spammer
+ resixian: It was merged with desktop
+ resixian: I think the fault link has been noted already..
+ OY1R: What kind of filesystem setup do you have?
+ OY1R: Try reinstalling grub.
+ !grub | OY1R
+ BKTech86: But what happens on boot?
+ BKTech86: You don't even see a grub message?
+ BKTech86: Do you only have one disk?
+ !bootinfoscript | BKTech86
+ BKTech86: Sorry, I'm trying to find a link..
+ escott: They'll need three packages rom mainline in total... right?
+ escott: Read the mainline kernel wiki, it is all described there, three packages are needed in total to install a new kernel..
+ escott: Unless you are doing something out of the ordinary, of course.
+ escott: Well, I assume so, since that would be the whole point..
+ Jordan_U: Right, I wasn't sure if that was the case for all versions there.
+ zetsuboudev: I would guess so. Inly way to make sure if to report a bug, after looking to see if it already exists.
+ francesc1: Many, do you have a support question?
+ gs: Changed name and lives on.
+ samtate: No need to repeat
+ ray24: Could you give some more details?
+ NO92: normally means the root filesystem failed to mount, what kind if you filesystem, have you edited fstab lately, and can you access it via a liveCD?
+ NO92: Those were qusetions, do you use a plain default ubuntu install? Have you edited fstab lately? When you get stuck in initramfs, what kind of error messages do you see?

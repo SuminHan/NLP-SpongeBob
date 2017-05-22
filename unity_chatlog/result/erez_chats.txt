@@ -1,0 +1,22 @@
+ Hello all, I've upgraded to 11.04, and, while I can log normally to non-unity session, trying to login to "ubuntu" throws a "no valid session found"
+ Other than that, all works fine
+ KNUBBIG: I think it's gimp.org
+ KNUBBIG: IIRC, yes
+ Hello all, I've upgraded to 11.04, and, while I can log normally to non-unity session, trying to login to "ubuntu" throws a "no valid session found", any ideas?
+ Omega: I've no problem logging into ubuntu-classic
+ Omega: but I do want to get into unity
+ Omega: probably
+ Omega: what to do there?
+ Omega: upgrade from 10.10
+ Omega: I tried playing with Gnome3 while on 10.10, it might've broken something
+ Omega: After upgrading, I reenabled the ppas, and then it installed some gnome3 stuff, but I removed it all
+ Omega: yes, but everything now runs fine, except if I try to login to "ubuntu"
+ Omega: sure, brb
+ Omega: it can't find anything
+ I'm thinking, the xsession setting must be broken
+ Omega: I've installed it via apt-get and did sudo ppa-purge gnome3
+ Omega: it can't find it
+ Omega, thanks, I can see you guys are bushed, I'll inquire once the flood subsides
+ Omega: Warning:  Could not find package list for PPA: gnome3-team gnome3
+ Omega: no, I manually removed it from repositories and downgraded all the packages that were left on local or absolute in synaptic
+ Omega: same thing

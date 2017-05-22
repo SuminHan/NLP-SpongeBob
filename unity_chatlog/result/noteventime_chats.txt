@@ -1,0 +1,3 @@
+ Anybody have any idea whether there have been any changes in natty relating to xmodmap? It no longer wants me to disable caps lock.
+ rpk: I think the new bar thing gives you a list of all available windows for each application as a popup (similarly to the way gnome can group similar windows)
+ rpk: It doesn't give you a list of available windows when you hover/right-click the relevant icon? (I haven't used Unity a lot, just remember from trying it out when it was new).

@@ -1,0 +1,1 @@
+ hi, need some suggestions following this problem: I have a backup box with 4 drives in raid5, and the partition in raid5 (/home) wont mount at start because the fs aint clean. I boot a ubuntu server cd on it, run fsck on it but it keeps segfaulting after reaching some inode

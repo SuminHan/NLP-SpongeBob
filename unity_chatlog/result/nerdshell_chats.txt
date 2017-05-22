@@ -1,0 +1,76 @@
+ When I try to open the settings of a virtual machine in VM Box it says "failed to access the USB subsystem". What can I do please ?
+ !ubuntu+1 | lukus
+ When I try to open the settings of a virtual machine in VM Box it says "failed to access the USB subsystem". What can I do please ?
+ When I try to open the settings of a virtual machine in VM Box it says "failed to access the USB subsystem". What can I do please ?
+ I just have installed Natty, and my computer doesn't recognize my wifi network !
+ I just have installed Natty, and my computer doesn't recognize my wifi network !  What can I do ?
+ I just have installed Natty, and my computer doesn't recognize my wifi network ! what can I do?
+ ohsix: broadcom
+ maco : the driver is installed, I already done that
+ maco  : I rebooted, what is rfkill ?
+ ohsix: why? It worked properly on 10.10
+ ohsix:  can you explain more clearly please
+ maco: the computer recognizes my iphone hostspot but not my wifi network
+ ohsix: the computer find my Iphone Hostpot but not my wifi network
+ maco: but my wifi was working fine on 10.10
+ ohsix: can you rewrite the command please, I think you didn't write it corrctly
+ ohsix: iw : command not foud
+ How can I downgrade to 10.10 please
+ How can I downgrade to 10.10 please?
+ How can I downgrade to 10.10 please?
+ jiohdi: yes, but I will lose all of my data =(
+ can I downgrade to 10.10 without loosing my data?
+ I try to install firefox 4, I download the firefox.tar.bz and I don't no how to install it, I don't find the make file, any help please?
+ bazhang: 10.10
+ bazhang: thanks a lot, but what's the problem with the .tar I downloaded from mozilla.com
+ Dr_Willis: you advise me not installing it?
+ Dr_Willis: ok, I just wanna understand why the tar.gz doesn't work, shouldn't it contain a makefile normally ?
+ Dr_Willis: I didn't get you... when I extract it, I found a folder named "firefox" there are binaries, images in it, how can I install it (just to know about it, I'll use the PPA méthode)
+ Dr_Willis: ok, thanks, why should the PPA be better then ?
+ Dr_Willis: system wide?  what does that exactly mean please?
+ Dr_Willis: yeah okay, I got it, I got it, but why doesn't Canonical support it yet?
+ welloong:  who can you display special commands instead of making Nickserv interpreting them, like you did now ?
+ Dr_Willis: okay I installed it yesterday, but I had wifi problems, so I got back to Maverik
+ Dr_Willis: so if I understand, for software, we can install with a .deb file, with a make file or with a binary, and the binary is not system wide, right?
+ ajaytripi: just post your question directly
+ Dr_Willis: where do I have to put the binaries to be system wide? PPA do not download and install .deb ?
+ nerdshell: so the debs are actually the best and the easiest way, right?
+ ajaytripi: why don't you try the upgrade ?
+ ajaytripi: when do you exactly get the error?
+ ajaytripi: sur the cd was not damaged, I did a fresh install quit several times, and I never got errors
+ ajaytripi: sur you burned the right OSI, the 32 or the 64?
+ (appears that this Natty creats a lot of havoc)
+ ajaytripi: I don't see what you could do but burning a new OSI...
+ ajaytripi: sorry
+ tasslehoff: tes
+ myrmidette: rm ".*"
+ what is the command ./setup .sh used for exactly ?
+ kevinyoung_: ctrl+c
+ what is the command ./setup .sh used for exactly ?
+ what is the command ./setup .sh used for exactly ?
+ what is the command ./setup .sh used for exactly ?
+ usr13: is it the same as the make && configure && make install ?
+ ah, I got it, the software is installed by the setup script, not with a makefile
+ usr13: ah, I got it, the software is installed by the setup script, not with a makefile
+ usr13: okay, thanks a lot, actually, it's a pretty trusted software, but thanks for the cat script.sh hint, didn't know about it
+ usr13: it wont be possible to see what is inside the script using a text editor ?
+ what is the channel for open discussion about Ubuntu please ?
+  nerdshell: usr13: it wont be possible to see what is inside the script using a text editor ?
+ I am using Guake terminal, and in the general preference I can set the default interpreter, what is the difference between setting bin/bash and using <user shell> ??
+ FreeHCK: Hello, what's the temperature in there ? =)
+ edbian: so I have bash per default, in my case <user shell> or /bin/bash is the same, right?
+ edbian: how can I change my interpreter ? maybe, moving from bash to zsh ??
+ edbian: okay, needs a reboot ?
+ edbian: okya, thanks a lot, but actually what is the difference between shell and interpreter ?
+ what does etc stands for ?
+ what does etc stand for ?
+ iggyology: no, I was talking about the etc in the linux file system
+ iggyology: yeah, in latin, it's actually et catera desunt, literally, and all other things, or all things that are missing
+ mquin: thanks a lot
+ usr13: look at mquin's link : http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard#Directory_structure
+ Is it possible to copy folders with scp ?
+ wow, thanks
+ :)
+ Dr_Willis: you mean, scp takes the same options as cp ?
+ iggyology: yes, it looks like a Dos window, to open one, go to Applications>Accessories>Terminal
+ Dr_Willis: what is gksudo ?

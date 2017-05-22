@@ -1,0 +1,4 @@
+ Hi all could someone help me with a netbook that I just updated from 10.10 x32 to 11.04 x32 please
+ rgr: Ok sorry but Im fairly new to using linux and well I had a stable install of 10.10 on my Aspire one D255E and I updated it to 11.04 using the "Update" window. But now I cant move any windows around, my mouse has no right click, its laggier then CS 1.6 on 56k, and the damn keyring keeps popping up requesting a password that I have not changed....
+ rgr: Thank you, um would you know if there would possibly be any further updates that I could do so it doesnt rape my under powered netbook??
+ ok thanks rgr and all :)

@@ -1,0 +1,1 @@
+ anybody knows why my ubuntu 11.04 doesnt "see" my Wireless Network, which is amplified by a FRITZ WLAN repeater n/g ?? ANY other wlan is detected perfectly!! need some help please.... :(

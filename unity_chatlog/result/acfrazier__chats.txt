@@ -1,0 +1,5 @@
+ Alright. I installed Ubuntu 11.04 on my desktop PC, and all I get is a blinking cursor upon reboot. Same deal with both the LiveCD and alternate install CD
+ How can I fix this?
+ how can I fix a blinking cursor upon reboot after a fresh install?
+ Does my problem have something to do with ssd partition alignment?
+ Alright. I installed Ubuntu 11.04 on my desktop PC, and all I get is a blinking cursor upon reboot. Same deal with both the LiveCD and alternate install CD. How to fix?

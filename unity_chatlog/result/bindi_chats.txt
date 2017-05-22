@@ -1,0 +1,20 @@
+ when doing "sudo reboot" or "sudo shutdown -r now", it tells me system going for blabla.. and kills ssh.. yet the computer never reboots, just sits @ black screen. Why?
+ maxagaz: did you set http proxy? youre supposed to set SOCKS proxy and nothing else
+ maxagaz: and what ssh command did you run
+ maxagaz: and then socks proxy localhost:9999?
+ maxagaz: weird, should work..
+ maxagaz: lol :p
+ maxagaz: yeah i thought so too :-)
+ maxagaz: yw :)
+ Logan_: it's not even possible to run that anymore
+ Logan_: oh hmm dunno about ubuntu but some other systems have protection for that :)
+ takatori: let me guess. it doesn't work?
+ takatori: no idea :p
+ you don't have a dvd drive? :D
+ Unity is horrible tbh and they should have something else for the next release :/
+ miceiken: o/ :D
+ RavenHursT: rc.local?
+ RavenHursT: probably, i havent bothered to look up what they even mean :p
+ RavenHursT: cool :)
+ marcelC: do you mean aircrack-ng?
+ marcelC: well use that then instead

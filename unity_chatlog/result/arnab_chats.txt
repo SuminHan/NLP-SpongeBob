@@ -1,0 +1,30 @@
+ hi - my ubuntu doesn't show any higher resolution than 1024x768 - i am running ubuntu in virtualbox. can i get a better resolution?
+ god.. you're right CQ! thanks
+ so is there any way to get the classic menus back?
+ thanks!
+ how can i check the 3d performance?
+ thanks
+ can't find the tripple gears
+ how do i find out how much space is being used?
+ what do i do to get a kde desktop? do i need to install kubuntu over the ubuntu?
+ ahh thanks!
+ is there any way to figure out how much space a particular package (with all its dependencies) will take up?
+ how do i figure out how much space will be required to install a package, or will be freed up if i remove a package?
+ ahh ok, thanks - am using ubuntu after more than a year - i almost forgot about aptitude and apt-get
+ hi - how do i see youtube in the latest version of ubuntu?
+ i kinda liked it
+ i wonder how does kubuntu 11.04 compare to unity
+ Incarus6, just as i expected... i should read some reviews of kubuntu i think. in the end i may decide to switch to that.
+ Incarus6, should i go that route and somehow finally choose not to get back to gnome, is there an easy way to clear the system of all  kubuntu-desktop packages? i have only 8gb of hard disk space.
+ yeah Robert__ .
+ ahh ok, thanks Incarus6
+ ls -ltr
+ how can i get text only interface in ubuntu?
+ that's exactly what i want
+ how can i get a shell window login in ubuntu?
+ i have natty but i still get                                                                                                gui
+ thanks it worked - ctrl+alt+f7 also brought me back :)
+ how can i A) check which packages are not needed anymore, eg. dependencies of packages i already removed and B) remove them?
+ !autoremove
+ i see nothing
+ thanks

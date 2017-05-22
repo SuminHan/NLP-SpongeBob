@@ -1,0 +1,2 @@
+ I am unable to change pointer in 11.04 can anyone help me with this?
+ @coz_ yes

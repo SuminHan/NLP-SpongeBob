@@ -1,0 +1,3 @@
+ can someone help me enabling nvidia driver on Ubuntu UE2.7?
+ Cassini. i think i have similar problem
+ why does the  nvidia driver is not used by X? Error: No kernel named "nvidia" found. help!!!

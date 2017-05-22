@@ -1,0 +1,4 @@
+ can someone help me, please? about a problem with my wi-fi in Ubuntu 11.04 (Atheros AR9285)
+ why I cant find package "linux-backports-modules-wireless-maverick-generic" in Synaptic Ubuntu 11.04?
+ ohsix: I found some forums on the Internet that it was necessary to install this package to run the Atheros AR9285 wifi.
+ Jordan_U: no, my Atheros AR9285 cant connect, keeps asking for password repeatedly.

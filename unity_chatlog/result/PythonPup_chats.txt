@@ -1,0 +1,150 @@
+ JoseeAntonioR, worst case, google for the xorg.conf values for your monitor
+ razor__, Then don't use it.  Go back to a stable lucid.
+ tyr, ask your question.  If someone can help, they will.  Don't ask to ask a question.
+ tyr, maybe  could answer a specific question, if you have one.  I never use ndiswrapper.  I think it is a bad idea.  I'd go get a better wireless card, that is really supported in Linux.
+ PW-toXic, log oout and back in.
+ tyr, click on the icon in the top left and type a few characters of the command you want
+ PW-toXic, restart the system.  After you type your name at the login, choose Gnome at the bottom of the screen.
+ sahil_, My virtualbox bachine is running the upgrade at the moment, so I can't verify things.  But, I use vbox a lot and I'll try,  What is your query?
+ xust-, Wayland is not working yet.  There may be a few other problems.
+ xust-, Don't expect any software to be bug free.  Ubuntu is pretty good.
+ PW-toXic, I had that problem a few times in beta testing.   I waited for an update and then I usually got it working.
+ ohsix, someone asked what is wrong with Natty.  So, I mentioned one thing wrong with it.  A bit of a silly answer, but it was a silly question.
+ PW-toXic, If your hardware is having problems with compiz, that could be a good idea.
+ PW-toXic, I like the vbox in 11.04 much better than the one in 10.10
+ VirtualBox 4 and up have better mechanisms for exporting and importing VMs.  I move VMs between machines a fair amount.
+ sahil_, Have you tried Control-F
+ ohsix, backports in natty would be pretty much empty at this point.  It will only be useful once the Oneiric cycle gets going.
+ cached, for some people using Natty, I would recommend they use Gnome.  Everything is installed.  You just have to select it upon login.
+ xust-, no problem.  glad to help
+ tyr, how are you trying to copy?
+ Just open up a terminal and use cp.  What happens then?
+ ohsix, for 11.04, true.
+ tyr, for example, to copy a file from Downloads called  thisfile, do   cd ~   then cp Download/thisfile .
+ ohsix, no speculation needed.  The official announcement was that Gnome would be removed from 11.10.
+ ohsix, Gnome is certainly more than the shell.
+ tyr, sure.  But your file may have a different name.  Do a man cp to get the syntax.  It is just cp source destination    at its basics.
+ tyr, you must have left of the . at the end.  . indicates the current directory.
+ ubuntuguy, do you have gnome-session-properties?  try running it.
+ chreestopher, It is their regular password.  Whether they can use it depends upon their role.  Are they an admin.
+ tyr, Most people would call home/username their home directory.  You may not have permissions to copy to /home.  If you really mean /home, then do the cp as sudo.
+ tyr, probably.  Their are lots of ways to do it.  You can open a nautilus root shell, or use sudo , or open a root terminal shel;l and copy.
+ crlcan81, it is better to choose the audio system that works best.  That is why there is a choice.  At least, that is one big reason.  I usually choose pulseaudio, but some people don't think it is stable enough.
+ crlcan81, it depends upon your system.  I told you what I normally choose.
+ thauriswulfa, It is likely your hardware does not have the needed 3d support.  If it is nvidia, you could probably install it, add the proprietary drivers and then you'd get Unity 3d.
+ Windows, please watch your language here.
+ healthcare has some security.  I am shocked.  I thought they were all Windows.
+ thegoodcushion, I have seen an announcement that the Gnome desktop will not be in 11.10.  I don't know all the details.
+ thegoodcushion, see https://bugs.launchpad.net/ubuntu/+source/unity/+bug/739812/comments/5 for confirmation
+ uabn93, For the most part, yes
+ uabn93, there are usually a few applications where support is dropped between releases.  But, very few and they are usually things that are not used much.
+ thegoodcushion, I generally take Marks word as a decision.  But, you can decide for yourself.
+ sebastian, It is easy.  Just log out.  Log back in , but before you type your password, look to the bottom of the screen and select Gnome.
+ uabn93, probably.  You might have to do a make install again.
+ adzy, I have one system that would not boot from the Natty live cd.  I used the alternate CD and it worked fine.
+ sebastion, it will login when you boot.  So, then logout.
+ adzy, yes, it is another CD installer.  I usually use it becasue it has more options for disk setup.  During the testing cycle, I try both CDs so I can report errers.
+ hardcold.  sdl is a library.  You may have to add it.
+ kevinamadeus, try alt+tab
+ hardcold, give me a moment
+ thegoodcushion, I am concerned, too.  But, I hope not.
+ hardcold, open up synaptic and search for libsdl.
+ thegoodcushion, You are too harsh.  For the next 6 months, there is no problem.  If Uniuty bothers you, just use Gnome.  Let them work out the bugs a bit.
+ hardcold, if you found good choices there.  Install them.  I don't have a Natty system here.  I have a few at home and I will have one here in about 90 minutes.
+ thegoodcushion, Fedora uses GNOME 3.  I agree with Mark that it was a risky choice to go with GNOME 3.  Or, at least it is fair to say it looked like that early on.  It seems to have worked out, but it has its own odd behaviours.
+ hardcold.  pastebin.com  will work.  Their are a bunch of pastebins and any of them are fine.
+ thegoodcushion, No, the one in Beta.
+ thegoodcushion, I like Ubuntu better, too.  But, if you want to try GNOME 3, thge Fedora 15 beta is a good place.
+ thegoodcushion, GNOME 3 is very new.  So, you can try the beta or wait.
+ ohsix, the vlc in Natty has some serious problems.
+ It is a vlc problem, not a Ubuntu problem.  The memory leaks are bad on OpenSuse 11.4, too
+ hardcold, did you install the libsdl 1.2 or greater and then reboot?
+ Maahes, Doen's Mplayer have hardware accel?
+ Maahes, Doesn't Mplayer have hardware accel?
+ Maahes, so, take my question as a hint and check.
+ sebastion, and there is no such thing as Ubuntu 11.4.
+ 11.04 is the version of the latest
+ it is year, followed by 2 digit month
+ ramin, none
+ sameerkof, Maybe it is a CD.
+ multi_io, I have used PitiVi for some light editing on Ubuntu
+ sameerkof, Do you mean /bin or similar?  It is owned by root and you are trying to paste as a user.
+ uabn93, There are issues when you move between major kernel versions.  Ubuntu never does this during a release and support cycle.  Fedora does and things sometimes break.
+ sameerkof, if youy really know what you are doing there, try doing it in a root nautilus shell.   Go to a terminal prompt and type    sudo nautilus /usr
+ uabn93, correct
+ Etherael, 11.04 is not an LTS
+ Etherael, It never held.  The LTS releases are every other year.
+ brandonc503_, Install wine and try running it under that.
+ DeejayRoby4, That is not a good error.  I'd try installing 10.10 and seeing if that worked.
+ DeejayRoby4, Most likely, it indicates a problem with the disk.
+ Fleck, anybody who wanted to and had a ATI video card.
+ DeejayRoby4, You are using the released version of 11.04, I hope.  There was a bug that was fixed related to grub in the alpha versions.
+ DeejayRoby4, Are you trying a fresh install of 11.04 and having the problem there?  Or, is this an upgrade from 10.10 to 11.04?
+ So, seeing that it does not work, have you tried upgrading from 10.10 to 11.04?
+ DeejayRoby4, Do a fresh install of 10.10 and then upgrade.  I know it takes a while., but it is my only suggestion at the moment.
+ DeejayRoby4, I see nothing.  I don't run javascript.  The site may use it.
+ DeejayRoby4, You could try it.  /dev/sda is most likely correct.  But, I am telling you that once you get to this point, you most likely will not have a bootable system.
+ DeejayRoby4, One option for now might be to continue without a bootloader and then boot from the CD again and tell it to boot from the first hard drive.
+ DeejayRoby4, tab to it and press enter.
+ DeejayRoby4, Are you ok now, or do you mean you tried that and it did not work?
+ DeejayRoby4, So, you'll have to power cycle the machine and try repairing grub2, if you want.
+ DeejayRoby4, see https://help.ubuntu.com/community/Grub2
+ atdprhs, Ask your question and if someone can help with it, they will speak up.
+ DeejayRoby4, right.  That is why I said earlier, I would recommend installing 10.10 and upgrading.
+ Ubuntu_user, I execute lots of .sh files under Naty.  So, I proved you wrong.
+ Ubuntu_user, did you make your files executable?
+ Ubuntu_user, please.  I would not install java.
+  Ubuntu_user What won't install?
+ Ubuntu_user, as ohsix said, enable the partner repository, then search for java and install.
+ ohsix, OK.  I prefer Synaptic.  But, that is good to know.
+ hello, Samo502
+ thauriswulfa, download 10.10 and see if it installs OK.
+ SirDidi, you could look at sshfs
+ On the server, you just need sshd.  On the client, you use sshfs, SirDidi
+ DeejayRoby4, perhaps.  If that is it, it would be good of you to report the bug.
+ DeejayRoby4, can you wipe out everything currently on the disk?
+ miststlkr, sounds like good news, then.
+ DeejayRoby4, good, I would go into the bios and remove the nvidia raid.  That is not a very good raid, anyway.  Download the alternale Ubuntu installer and setup a linuxraid(used dmraid, I believe)  It should work reliably.
+ miststlkr, Yes, that sound exactly right.
+ miststlkr, I don't use sshfs often, but I do use scp and ssh all the time.  That is how I do it with those and I expect shfs to beghave similarly.
+ DeejayRoby4, that is not really a hardware raid.  That is part of the problem.
+ DeejayRoby4, a 3ware card is real hardware raid.
+ PythonPup, not really.  But, this is not the place.  Go google on hardware raid.  You have a software raid done by the bios.  They tell you it is hardware raid, and I used to think that, too.
+ miststlkr, sshfs is the filesystem based on ssh
+ DeejayRoby4, If you only have 2 drives in the raid array, a used 3ware controller is fairly cheap and I would buy that and use it on Windows and Ubuntu.  I don't work for or benefit in any way from your buying a 3ware controller.  They just work very well.
+ DeejayRoby4, the idea of raid 0 is a little scary, though.  It is anti redundant.  A failure on any drive and you are stuck.  If you really need to combine drives, go with 3 drives and raid 5.  Some redundancy is a good thing.  Drives do fail.
+ DeejayRoby4, There is no good way to do a software raid that is reliable and works on Windows and Linux.
+ DeejayRoby4, If you need starage space that either system can see, setup a samba server on Linux on mirrorored or raided drives.  Share it to the Windows and the Linux system.  That can be fast and reliable
+ DeejayRoby4, there are software raid that works fine in Windows and there is software raid that works fine in Linux.  They are not the same software raid.
+ complaints here is trolling.  If you have a specific problem, ask about it.
+ DeejayRoby4, Do you want the system to support Linux?  Or Windows?  As I said, if you need both, software raid is not a good option.
+ omidp, No, they are not the same.
+ omidp, Upgrade in update manager is a version upgrade.  apt-get upgrade installs updates.
+ omidp,   sudo apt-get dist-upgrade or something like that.
+ omidp,   sudo apt-get dist-upgrade   was right.
+ omidp,    sudo apt-get dist-upgrade    after   sudo apt-get update
+ omidp, Are you connecting to the computer through ssh, or is it a server?  Otherwise, why not run Update Manager?
+ adsDSDSFSFSFAEEF, yes you are very bad at picking irc names.
+ omidp, But, if you can run update nmanager, go into its settings and see if it is set to do just long term releases.  I don't know what file that is.
+ ubuntu studio comes on a round disk, omidp
+ omidp, OK, when he gets an internet connection, he can install updates.
+ nmaxchat, http://wiki.dropbox.com/TipsAndTricks/TextBasedLinuxInstall
+ Ubuntu_user, My favorite solution is tea and sugar in water.
+ nmaxchat, at a terminal prompt, type   nautilus
+ gregors, Just don't use Unity.  Uninstalling it will break a lot.  I did that as a test once.
+ gregors, Don't be sad.  On one machine, I use gnome on natty and it does quite well.
+ gregors, the real scary part is planning ahead for Oneiric Ocelot.  No Gnome desktop will be provided.  So, we all better test and get the bugs out of Unity this cycle.
+ ajah, yes.  VirtualBox acts like that sometimes.
+ InHisName, you might try an apt-get install ubuntu-desktop
+ InHisName, or, lubuntu-desktop
+ incorrect, Not exactly.  If an app dynamically builds its interface, it may have to directly support the global menu.  Most gtk apps support the global menu out of the box.
+
+                                                                                                                                                                                                                                                                                                        ,,,,,,,,,,,,,,,,,,,,,,,,,
+ InHisName, So, try lubuntu-desktop.  That's why I gave you a backup.
+ Sure, InHisName
+ They will both show up as choices when you login, and you can choose.
+ thegoodcushion, ext4 for 11.04.
+ terry, in the preferences for Synaptic and update manager, there is a setting for that.
+ InHisName.  You may have to tweak the xorg.conf file.  That is what I'd look at next.  Get the specs or google for your monitor and video card settings.  Normally, that is not needed.  Sorry, I have to go back to work now.
+ terry, you probably need to go to 10.04 first.
+ terry, 8.04 is LTS.  Now he is on 9.04, which is not.  Upgrading from 9.04 to 10.04 is not officially supported, but there is a wiki page for it.  Please google for it, as I really have to go back to work.  I won't check irc again for hours.

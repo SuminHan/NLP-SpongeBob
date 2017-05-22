@@ -1,0 +1,12 @@
+ hi all
+ i'm having trouble while trying to mount to software database
+ can anybody help with that?
+ i used to mount -t cifs -o user= etc. etc.
+ it says
+ mount: wrong fs type, bad option, bad superblock on
+ mount: wrong fs type, bad option, bad superblock on //yazilim.cc.itu.edu.tr/yazilim,
+        missing codepage or helper program, or other error
+        (for several filesystems (e.g. nfs, cifs) you might     need a /sbin/mount.<type> helper program)
+        In some cases useful info is found in syslog - try
+        dmesg | tail  or so
+ ok. sorry

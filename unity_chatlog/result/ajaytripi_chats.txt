@@ -1,0 +1,11 @@
+ Hello people... i need help regarding natty installation
+ i am getting an initramfs could not mount /dev/loop0 error while installing
+ Dr_Willis: plz help... i am getting an initramfs could not mount /dev/loop0 error while installing
+ Dr_Willis: yes the cd is working properly on my desktop..
+ nerdshell:I am doing a fresh install... removed Windows
+ Dr_Willis: yes
+ nerdshell: when booting from the cd.. it says cannot mount /dev/loop0 on //filesystem squashfs
+ nerdshell: yes.. i hav successfully installed natty from that cd on my desktop
+ nerdshell: yes both my systems are 32- bit and so is the cd
+ nerdshell: any ideas???
+ nerdshell: ok.. I think I should try

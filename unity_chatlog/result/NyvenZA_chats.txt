@@ -1,0 +1,154 @@
+ good day
+ has anyone else had a problem upgrading from 10.10 to 11.04 and the Makefile of the Linux headers has the incorrect version in?
+ anyone with  Unity not esponding issues on 11.04 that have been able to resolve it >
+ ?
+ I upgraded to 11.04 and now my XOrg starts up with all the icons stretched and the input doesn't work.
+ can't clik on anything or use the keyboard in the X
+ I can get to a console though
+ any one that might have any ideas/
+ :/
+ yes
+ can you assist please ?
+ I upgraded from 10.10 to 11.04 last night
+ My XOrg starts up
+ but the icons on the screen are stretched and I can't clik on anything
+ I can't use the keyboard in x
+ it is a dual screen setup
+ and it uses the NVidea drivers
+ let me get the res quickly
+ nope default Unity
+ ActionParsnip: I tried that already
+ in my xorg.conf : Srceen: Metamode CRT-0 Nvidia-auto-select +0+0, CRT-1: nvidia-auto-select +1280+0
+ ActionParsnip: I am trying that now
+ vibhav: it looks like it is 1280
+ vibhav: will try that next
+ vibhav: I have tried the --reset earlier today and that didn't work either
+ holy crap text font on boot up is totly screwed, if I try and boot with just one screen in now
+ ok, only on one screen now and can still not click on anything or use keyboard shortcuts.
+ CTRL + Alt + F1 does work so I can get to a console at least
+ vibhav: ok, on one screen teh same thing happens, the icons are just not stretched
+ I think ramb0 anad I have a similar probblem
+ ramb0: I upgraded and I just get the desktop
+ no login
+ I can't click on anything and I can't use the keyboardshortcuts
+ I do see that if I move my mouse over where the login should be , the edit cursor appreas
+ not yet,
+ ramb0: have you ?
+ lol
+ It is my work PC so now I can't work
+ ok, this is just stupid, on reboot, I get my desktop being displayed, but I can't click on the icons, When I move the mouse around, on the screen around the middle of the screen the cursor chnages to the edit icon. So the login windows looks like it is there, but ic an't login to it.
+ Dr_Willis: and gsp2009 I also have issues, but i am trying it on one screen now and still have issues
+ arg, why the hell does the kernel source MakeFile file have the wrong version in?
+ it has 2.6.38.2 and the kernel that comes with natty is 2.6.38.8
+ I can't recompile the vboxdrivers now
+ how can i change back to classic login / gui fromthe command line. I can't see the login screen to select it there
+ ok, I have now tried to install lightdm as a replacement for gdm and when I start it, i just get a black screen
+ I then stopped lightdm again and just ran startx
+ I get the desktop icons appearing and the mouse, but no menus, side bar and rightclick mensues
+ when I try and click on an icon and trag it, the mouse Icon changes to a drag icon, but nothing actaully happens to the icons ont he desktop
+ does unity REQUIRE 3d >
+ ah
+ that might be my problem then
+ is there a 2d version or something I can do to make it work on older hardware >
+ Skei: i also seem to have this problem
+ still looking for a solution
+ nvidia 8300
+ Skei: I tried it, but then X didn't even start
+ i  installed the nvidia 270.41.06 and also seem to have issues
+ ActionParsnip: Actually I have a 7300 not 8300
+ ActionParsnip: whre can I get that ?
+ ok
+ ok dl'ing
+ ActionParsnip: how will I force that driver to be used?
+ so i must make sure it is corect there before reboot?
+ ActionParsnip: ok, now I get a login screen at least
+ ok, now I am just get frustrated. i installed lightdm, and now I can get to the login screen. I can select sessions and I have tried classic, Classic (no effects) and ubuntu recovery and all of them boots Unity and I can't do see anything change in the X sessions..
+ I can click on an icon and drag it, but the icons stats on the screen
+ if i restart the session, the icon has moved to where i dragged it too
+ ok, I want to try and remove unity totally and see if I can can info X properly
+ what woul be the best way to remove unity?
+ how can I see all the versions of the nvidia drivers that are installed?
+ is ther an apt-get command for that?
+ not to shoot it down, But I have been having massive graphics issues
+ eiriksvin: don't know, but I have same problem
+ so far most complains seem to be NVida and Unity related
+ busy installing
+ still no luck with these damn drivers
+ ok, I uninstalled UNITY, I uninstalled ALL the NVIDIA drivers, I then downloaded the latest NVDIA drivers from NVIDIA direclty. I rebooted and lightDM comes up. I can login, bit only the icons on the desktop are displayed, i can't interactect with them or do anyting else. No window manger loads...
+ It looks like the Xorg is the problem not unity
+ TheHackOps: I just tried it and it doesn't work for me
+ TheHackOps: nope, no errors that is why I am ready to cry
+ lol
+ I can login
+ I selected classic, noeffects , safemode
+ all of them
+ I get to the desktop
+ the icons are there
+ But I can't interact with the desktop
+ TheHackOps: ok, I tried to update the vboxdrv earlier and it comaplined that the worng version of the header files are installed
+ cablop: how do I change to the classic gnom?
+ TheHackOps: I have had no craches
+ I just can't believe that they relieased it with so many issues
+ Xorg and Virtual box stoped workign uppon upgrading to 11.04
+ currently on the default unity
+ TheHackOps: want to try and go back to classic now
+ to see if that works
+ DasEi: what was that ?
+ spungo: I am rebooting system all the time can't use something else right now
+ cablop: I get  "e: unable to locate package gnome-desktop"
+ DasEi: what format is it. the file name was just gnome
+ ActionParsnip: the 173 nvidia had the exact same results
+ DasEi: I can't get into the GUI,  I installed LightDM and on the login screen I see the option for classic. It goed the same problem
+ oooooo
+ something happend
+ I used unity --replace
+ gave a lot of test on the screen and the X start didn't work
+ I CTRL + C the unity--replace
+ and then when I went back to X
+ the icons I clicked on had opned apps
+ and I can iinteract witht he icons on the desktop now
+ I don't currently have a window manger running but i can now atleast interact
+ ok,so now it is not a driver issue anymore, but it looks like an unity issue
+ gnome here i come
+ cablop: I don't have menus to click on, this doesn't really help
+ cablop: I tried it, I can't get the classic to display on login
+ cablop:  the option is there. i select it, i login and then i get stuck
+ I can't interact with the desktop
+ ok, once, I get unity killed off , i can interact with the desktop
+ what is the apt-get command to list for instance all the compiz packages that can be installed?
+ TheHackOps: I have not tried to install compiz, using it without unity and as soon as I run a window manger, I can't interact with the desktop anymore
+ sorry, to say this, but so far my experince with natty has been horrible. all the previous versions worked witout a glitch, I upgraded from 9.04 all the way to 10.10 and now this upgrade ruined everything
+ how do i get unity 2d to work ?
+ Wrong Kernel version in the Make File that came default withthe kernel headers
+ so I could not compile vboxdrvs
+ GDM doesn't work
+ I installed lightdm and that works
+ I can get a log screen then
+ with GDM the Dosktop icons are diplayed, but the GDM window is invissble
+ when i move the mouse over the locations there the login nd password should go the mouse curor changes
+ to edit icon
+ but my keyboard doesn't work
+ if I run unity --replace and then kill it from a console the window manger is killed, but the xorg keeps running
+ then my keyboard works and I can interact with the icons on the desktop
+ Sofar I have not been able to get into my Xwindows
+ Dr_Willis: what is the unity 2d package name >
+ i tried unity2d
+ will try that
+ that is installing thanks
+ now, how will i configure it to use the 2d version in place of the 3d verison with out using gdm ?
+ Dr_Willis: do you know what I need to edit to use the 2d version in place of the 3d version ?
+ robin0800: my GDM doesn't work
+ I get can't see anything of GDM
+ robin0800: yes
+ ok, so now things are getting worse, When I now try and get to a console, the mouse stays on the screen and the text cursor flashes on the screen and then I am dead in the water
+ robin0800:did that already
+ robin0800: I restarted PC
+ now I just a black screen after the syste loads
+ robin0800: you don't seem to understand, i don't get a login screen
+ it is just a blank screen
+ Nickname_: probably
+ going to uninstall the NVidia one and install the ubuntu one agian
+ I see a re-install of ubuntu 10.10 coming my way
+ dncrash: i tink unity --reset
+ but I had no luck with that
+ dncrash: that serts all settings

@@ -1,0 +1,86 @@
+ I've just upgrade form 10.10 to 11.04 but I got an error stating that the upgrade had failed leaving my machine in a possibly unstable state. Where can I find the upgrade log and should I refrain from restarting my machine?
+ Incarus6, thanks for the locations! :-)
+ Incarus6, I'll post a pastebin of my upgradelog to illustrate the stopping point
+ Incarus6, http://paste.ubuntu.com/601312/
+ Incarus6, "Vereisten" = "Dependencies"
+ Incarus6, sure, I'll pastebin that one seperately
+ Incarus6, http://paste.ubuntu.com/601313/
+ Incarus6, thanks in advance for lending a hand :-)
+ Incarus6, yes, that's Dutch, kinda silly that the logging is translated ;-)
+ Incarus6, I've run your somewhat ominous command O_o
+ Incarus6, there were no results, just a new cmd prompt
+ Incarus6, I've executed the reconfig python line, no feedback from the cmd-line | Thx for the warning not to reboot :-)
+ Incarus6, could we please join a priv. channel?, the chatter makes it hard to follow your responses
+ I've noticed that after the upgrade to Natty, an ugly bug reared it's head again. When using the Flash Plugin all other sound output seems to be blocked, even when the video is paused. Adobe is the most probable culprit, yet I think that no plugin should have that much power over the rest of the system, hogging all sound resources...
+ !enter | gunther
+ gunther44, Well, first of all I can hardly begin to help you if I don't know what you are compiling and what your'actions were that initiated the compiling
+ gunther44, if you need to display a lot of text in an orderly matter without disrupting the flow of the channel, there is a good option here, called pastebin. You can ask our friendly bot ubottu if you don't know what pastebin entails.
+ gunther44, BTW, I thought that main() should be a void, but that can just as well be my rusty lame excuse for a knowledge of C :-P
+ gunther44, np, just trying to compile it myself, without any luck I might add. Here's a standard C helloworld as a reference:http://groups.engin.umd.umich.edu/CIS/course.des/cis400/c/hworld.html
+ gunther44, Ah, but Android uses Java, not C afaik. Anyway this is way offtopic for this channel. Care to join me on #ubuntu-offtopic to discuss this?
+ guntbert ^ is right. Configuration is key.
+ !offtopic | gunther44
+ !es | n-iCe,
+ pattysmatty, RTFM
+ zvacet, Read the Friendly Manual, what's shocking about that? ;-)
+ pattysmatty, sorry about that. What I meant was that you can probably find it in your router's manual. Mostly a router has it's main interface page at 192.168.1.1, 192.168.1.255 or 10.0.0.1
+ ChR0n05, yes, that is also used widely, though I 192.168.1.1 is more common for some reason...
+ ChR0n05, fair enough, I have configured about 12 different models, most of them aimed at home users did not use 192.168.0.1 as main address. May just be coincidence though, think nothing of it.
+ BlaDe^, does your drive show up in grep "USB" /var/log/messages
+ BlaDe^, in that case my knowledge is outdated. Does it show up in lsusb?
+ !enter | TheBritishEditor,
+ BlaDe^, This only shows that the external HDD is not recognized aas an external HDD, but does it show up in the list of usb devices or not?
+ BlaDe^, try lsusb
+ BlaDe^, that's odd indeed. Did you already try a different port? Some ports might be able to provide more power than others. If in doubt use a port on the back, not the front.
+ BlaDe^, does a normal USB pen drive get detected, or another USB gizmo?
+ BlaDe^, so we can rule out an unsupported chipset then :-)
+ BlaDe^, if what minimec says works, you might have a power issue when it comes to your USB ports.
+ BlaDe^, with both devices attached? Hmm...
+ BlaDe^, try to see if the BIOS/(U)EFI detects your HDD as such, when you boot with both mouse and hdd attached.
+ BlaDe^, actually it can still be a power issue, some power management works better on Windows than Linux, if your chipset is only partially supported. If you have an Intel chipset, you should be allright though,
+ BlaDe^, AMD is quite general as well, but if it's a really new latop, well...
+ BlaDe^, latop => la>p<top
+ cheapie, just remember that nano is not available by default on all *nix systems, vi is, to my knowledge.
+ belak, lol
+ Hi ErikM_ :-)
+ ErikM_, did you check under System => Administration => Extra drivers?
+ ErikM_, did you reboot after installing the proprietary drivers?
+ ErikM_, which GPU do you have?
+ ErikM_, Hmm, how did you go about in installing the drivers?
+ dfclark_, What flavour of Java do you want to install?
+ ErikM_, does     gksudo /usr/bin/nvidia-settings   give an error, or does it display the nVidia control-panel?
+ dfclark_, openjdk-6 should install just fine or are you trying to install (gasp...) Oracle JDK 1.6?
+ ErikM_, if that screen shows the Xserver config, the driver is installed and used. What NVIDIA Driver Version do you see? 173.[something]? or a newer version?
+ dfclark_, I've tried to install the Oracle one, to no avail. For simple projects openjdk-6 will do just fine. For the more complex ones, especially for closed libs, Oracle JDK might indeed be required...
+ ErikM_, I'm puzzled here. I use a nVidia 9600 LT GPU which is quite similar to your card. My displayed Version is 270.41.06
+ lapion, on 10.10 that option did not work for me. I got stuck in dependency hell, in spite of the .deb package.
+ ErikM_, yes, you are correct. The version I use is designated "Current". Mind you, I have upgraded from 10.10. Mine was no clean install.
+ lapion, I will once I'll need to develop another Java program ;-)
+ lapion, that is...a program that refuses to compile under openjdk. I am not exactly a big fan of Oracle, as you might have gathered.
+ lapion, If I spoke freely about that company, I would be unable to keep this channel civilised and family friendly :-P
+ lapion, I can try that next time I'll need it. Thanks again for the suggestion :-)
+ !requirements | bibleboy
+ BlaDe^, nice...
+ BlaDe^, well, that's a start, mounting is the next step. Please pastebin the output of sudo fdisk -l
+ BlaDe^, Hmm, I see...the device gets detected, as usb-storage even, but it does not even show up on the list of all partitions (both mounted and unounted) :-S
+ BlaDe^, unounted => umounted
+ BlaDe^, This could point to the possibility of a partition table that is somehow unreadable by your installation, though I admit that this is a long shot indeed...
+ BlaDe^, is the HDD encrypted in any way, like with Bitlocker or something similar?
+ What has taken the place of /var/log/messages in Natty? I'm trying to monitor hardware changes, like the insertion of an USB stick.
+ BlaDe^, yes, so it should, it registers even as an usb-storage device. I'm grinding my brains here why it does still not show up in sudo fdisk -l
+ BlaDe^, don't please test the following first...
+ BlaDe^, Yes, that would be silly indeed.
+ BlaDe^, you are chatting on a different computer than the one you are debugging, right?
+ BlaDe^, I'm trying to compare the behaviour of a USB pen drive/ card reader to your WD Passport drive, to see what step is missing (shown in the syslog) There must be something different there, so that we can concentrate on the process that does not follow through.
+ BlaDe^, in your /var/log/syslog, the attachment of your drive should show up right after you connect it. You can follow the running additons to syslog  with tail -f /var/log/syslog
+ BlaDe^, please excuse my spelling. It's all over the place: additons => additions.
+ BlaDe^, I will be hitting the hay in about a quarter of an hour, so there is a high probability that someone else has to pick up where I left you.
+ BlaDe^, That reset is not good.
+ BlaDe^, my first suggestion would still be lack of power, even though Windows will be able to use it just fine.
+ BlaDe^, so this output is registered with another drive ?!
+ BlaDe^, so that external drive, having lots of power, still won't connect? OK, prepare for a simpleton question. Ready?...Did you use the same *cable* when connecting your HDD under Windows as under Natty?
+ multipass_, a .bin file can be executed if you give it executable rights. Before that I would *highly* recommend that you run it through file to see if it is indeed a Linux ELF binary or similar.
+ BlaDe^, is your mouse a plain vanilla mouse, or is it a gaming mouse which lots of thingamabobs?
+ BlaDe^, You see...I'm clutching at straws here O_o
+ BlaDe^, np, I like to help other people (and I get frustrated when I don't succeed at it) ;-)
+ BlaDe^, it is indeed getting late (1:00 AM here), so I'll follow my plan and I'll head for my bed now. Good luck resolving this. Could be a partially supported chipset or another device that is somehow interfering.

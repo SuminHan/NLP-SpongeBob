@@ -1,0 +1,6 @@
+ Good evening. I've tried to upgrade my distro, but there were some troubles. I'm currently stucked, due to the command sudo apt-get dist-upgrade results in the following http://pastie.org/1845252. Could someone help me to solve that? Thanks.
+ Anyone?
+ Seth: Good evening. I've tried to upgrade my distro, but there were some troubles. I'm currently stucked, due to the command sudo apt-get dist-upgrade results in the following http://pastie.org/1845252. Could someone help me to solve that? Thanks.
+ Seth: Sure... Thanks, anyway...
+ Good evening. I've tried to upgrade my distro, but there were some troubles. I'm currently stucked, due to the command sudo apt-get dist-upgrade results in the following http://pastie.org/1845252. Could someone help me to solve that? Thanks.
+ Good evening. I've tried to upgrade my distro, but there were some troubles. I'm currently stucked, due to the command sudo apt-get dist-upgrade results in the following http://pastie.org/1845252. Could someone help me to solve that? Thanks. Someone told me to run apt-get --ignore-hold dist-upgrade. Is that safe?

@@ -1,0 +1,2 @@
+ does 11.04 already use wayland as gfx system or still xorg?
+ rumpe1: thanks

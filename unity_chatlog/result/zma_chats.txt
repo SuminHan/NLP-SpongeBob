@@ -1,0 +1,1 @@
+ Does 32-bit desktop edition of Ubuntu 10.04 have Qt libraries installed by default? I can only find references that netbook edition has.

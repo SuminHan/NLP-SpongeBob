@@ -1,0 +1,8 @@
+ im having issues with inconsistant hdd detection
+ can anyone help me
+ i just installed 10.10 and im going to be installing xbmc but i cant until i get fstab working right every time i reboot the hdd are detected differently can anyone help me
+ pm pls
+ ubottu, im trying to keep up but i cant
+ lol
+ ok
+ itll have to wait till i come back i guess

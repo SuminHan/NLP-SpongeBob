@@ -1,0 +1,12 @@
+ I have a small problem, whenever I try to open a file downloaded in Chromium's download manager Nautilus tries to open it instead.
+ red2kic: every filetype.
+ red2kic: Nothing yet
+ can someone tell me what the command in the last post is suposed to be? http://www.thisweekinlinux.com/forum/index.php?topic=574.0
+ I am having a problem where Nautilus is trying to open files instead of the correct program (.jpg, .deb, etc), can someone help me fix?
+ Hey,  I'm using Burg and I wanted to remove a few boot entries (Ubuntu recovery and the like) Can someone help? Editing Burg.cfg did nothing
+ I'm trying to make a perssistant Live USB, I want the usb partition to not be visible to Windows, can someone recomend a program? This seems out of date http://rudd-o.com/new-projects/portablelinux
+ iceroot: I don't want it encrypted, just maybee ext4
+ iceroot: they won't be
+ iceroot: any clue if I can get this to work on 11.04? http://rudd-o.com/new-projects/portablelinux
+ iceroot: doesn't that place it on a FAT partition?
+ iceroot: I meant Fat32, I've done it before.

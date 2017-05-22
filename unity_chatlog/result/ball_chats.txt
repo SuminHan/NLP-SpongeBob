@@ -1,0 +1,11 @@
+ Hello, I like cake.
+ Is it possible to mount an .iso image
+ ...and then boot it from within Ubuntu?
+ tensorpudding: I'm not sure I can run that on this chip
+ ...my objective is to install a new Linux install on a hard disk, to replace the existing one.
+ tensorpudding: That'll mean cracking the case to temporarily attach an optical drive then.
+ tensorpudding: This machine doesn't seem able to boot from USB.
+ I've tried flash and CD-ROM
+ nathan1111: They released it into the wild
+ ...after the fact.
+ Well I'd best break out the screwdrivers then.

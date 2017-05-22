@@ -1,0 +1,6 @@
+ hi there , i want to upgrade to 11.04 in command line , how can i do it?
+ thanks
+ hi there , i have a problem upgrading from 10.10 to 11.04 , it says The upgrade has aborted. Please check your Internet connection or installation media and try again. All files downloaded so far are kept.
+ Dr_Willis , you mean that i should try any time later?
+ is there a problem with the server for upgrading ?
+ can i upgrade from 10.10 to 11.04 by using the CD , because i dont want to erase my current documents and games in 10.10

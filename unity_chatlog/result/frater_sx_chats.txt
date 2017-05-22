@@ -1,0 +1,1 @@
+ hello everyone. I'd like to disable dbus to let signals from an application pass directly from the app to the hardware, withuot sharing its processes. is this possible and where can I find more information regarding that?

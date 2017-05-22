@@ -1,0 +1,26 @@
+ how again do i re-arrange launchers in the sidebar?
+ ...thought i've done it once, but cannot remember how
+ richiefrich: the unity thing
+ richiefrich: pretty sure i did
+ ...but right now right click pans that dock
+ kezzawd: wtf... ubuntu also comes with such mess now?
+ are we back at windows 95?
+ (with it's infamous tweak ui)
+ ubottu: emotions. emotions. it __really__ upset's me that suddenly both unity and gnome-shall resort to ux mess like windows 95's tweak ui. it's a really bad sign.
+ kezzawd: "dragging off".... hmm.... let's see
+ kezzawd: that was the trick! thanks alot!
+ so now i only have to figure out how to edit launchers, unity imported from gnome shell. have one with horribly upscaled icon.
+ well, alternative: how do i add custom launchers (without pre-installed .desktop file)
+ kezzawd: don't have a desktop file for this app... but let's try
+ kezzawd: no, that's the wrong instance
+ kezzawd: (not surprisingly) took the app it found in path (or however) - not the shell script
+ richiefrich: why? unity is pretty cool. just needs a bit polish. guess we finally have to admit, mark is a visionary
+ richiefrich: of unity or mark? :-D about unity? sure, not entirely polished yet - what do you expect for a first release. but then a big step forward over the old panel and much saner ux story than gnome-shell
+ very big fan of how it turns each maximized app into some kind of full screen app, by moving titlebar and menubar into the top panel
+ → goodbye F11 fullscreen shortcut, you  are redundant now
+ kezzawd: feared i'd have to manually create a .desktop file. well. ok.
+ kezzawd: thank you
+ hey, the x-chat icon shows when i got pinged on irc... sweet!
+ kezzawd: thanks for all your help. i am happy for the moment :-)
+ is it somehow possible to directly view the patches ubuntu applies to some package? e.g. there: https://launchpad.net/ubuntu/natty/+source/qt4-x11/
+ natty's epiphany is incredibly crashy :-(

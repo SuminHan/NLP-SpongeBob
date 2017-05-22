@@ -1,0 +1,31 @@
+ Hello. I have an mp4 player. I cannot find my mp3/mp4 files once I've transferred them from my laptop to my mp4 player. What am I missing?
+ Hello. I have an mp4 player. I cannot find my mp3/mp4 files once I've transferred them from my laptop to my mp4 player. However, I can see the files, just not the contents. What am I missing?
+ kkal: is shows up on my desktop as a 7.8 GB Filesystem
+ kkal: I see the folders but not the mp3/mp4/avi, or whatever
+ kkal: I don't have this problem on Windoze so I suspect I am simply missing a file
+ kkal: I had the same problem under a different distro. Help told me I was simply missing a file but I cannot even remember the name of it. It was something about compatibility or codecs or something
+ kkal: the mp4 player's software is android
+ kkal: could it be due to me missing ffmpeg?
+ kkal: I'm just installing ffmpeg now
+ kkal: it hasn't made a difference. I can see the files within the folders through Ubuntu but when I try to run them with the mp4 player is see only folders without content.
+ kkal: there is some sort of file I must download through synaptic that let's my laptop communicate properly with my mp4 player. I am sorry I don't know the terminology.
+ kkal: I've downloaded and solved the problem in the past, but I just cannot remember the name of it.
+ kkal: can't remember but I'll try it
+ kkal: I'm not sure this is the right one but yes it is this sort of program
+ kkal: no, that didn't work. However, in the mp4 player I could finally see the avi file. But, unfortunately I got the message it was an unsupported file. This has something to do with communication between Ubuntu and the mp4 player.
+ 11.04 isn't communicatiing properly with my external mp4 player. Any ideas?
+ Hello, I cannot play files on my mp4 player when I've transferred them from Ubuntu. However, they work fine when transferred from Windoze.
+ yehudah: I had the same problem and found the solution on google. It was something about changing a setting in the first screen
+ yehuda: gimme a sec to see if I can find the link for you
+ yehudah: sorry, I am new here and don't know how to do it. However, I have your answer here http://ubuntuforums.org/showthread.php?t=1685134
+ Hello, I cannot play files on my mp4 player when I've transferred them from Ubuntu. However, they work fine when transferred from Windoze. Please save me from having to reinstall Windoze!!!
+ ikonia: yes, in some circles. ;)
+ ikonia: is that a rule or a preference?
+ ikonia: sorry, but as a newb I'm lost when it comes to terminology. I've had this problem in the past but cannot remember the name of the program I need. As for respect, after spending a bundle and reinstalling on the 20th time, I was shown respect by not being allowed to reinstall until I sent them 199 USD for a new key.
+ ikonia: you just got here. I've been here for hours and others have been trying to help. But I lack the terminology to clearly explain the problem with my mp4 player.
+ ikonia: I was talking about Linux terminology. I couldn't care less about MS.
+ ikonia: I'm happy for you
+ Hello, I cannot play files on my mp4 player when I've transferred them from Ubuntu. On the mp4 player I can see the folders but not the contents. In Ubuntu I can see the folder and contents of the mp4 player.
+ I cannot play files on my mp4 player when I've transferred them from Ubuntu. On the mp4 player I can see the folders but not the contents. In Ubuntu I can see the folder and contents of the mp4 player. I had this problem before with PCLOS and was told to install a program that enabled communication between the OS and the mp4 player. It worked perfectly after. But I cannot remember the name of the program or the type of program it was.
+ I cannot play files on my mp4 player when I've transferred them from Ubuntu. On the mp4 player I can see the folders but not the contents. In Ubuntu I can see the folder and contents of the mp4 player. I had this problem before with PCLOS and was told to install a program that enabled communication between the OS and the mp4 player. It worked perfectly after. But I cannot remember the name of the program or the type of program it was.
+ Chrom: I had that problem once. It was my fault. I did something with Tweak. Are you using it?

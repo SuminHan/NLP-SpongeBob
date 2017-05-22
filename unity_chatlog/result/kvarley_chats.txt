@@ -1,0 +1,1 @@
+ How can I enable desktop effects in Ubuntu 11.04? I have proprietary drivers installed.

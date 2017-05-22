@@ -1,0 +1,1 @@
+ is there a way to set up multiple keyboard shortcuts for an action? I want to have a special key for changing workspaces and the ubuntu default as well

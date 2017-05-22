@@ -1,0 +1,27 @@
+ !party
+ cybrhuman: correct
+ dibs: It's not released yet.
+ dibs: It's due out some time in the period that it's April 28th somewhere in the world.
+ dibs: There is no set time, hence no countdown.
+ !party
+ tenochslb: yes
+ !party | isout1
+ release slipped two months once :3
+ !countdown
+ Bob___: sometime before it stops being April 28th somewhere on the planet
+ maco: Release manager's LP profile says America/Chicago timezone ;P
+ maco: Ah. Curses!
+ although that would explain the release time tendencies
+ !ot | Barbarabush
+ forces: it's not out yet, so nowhere
+ Starminn: it is
+ buhman1: Ubuntu doesn't use any particular timezone
+ Barbarabush: ^^
+ Barbarabush: it's 7am in the UK
+ oh, I read 17. Sorry.
+ #ubuntu-release-party is driving me crazy I guess
+ ttuttle: no
+ konaya: what about it?
+ konaya: ah
+ quellhorst: no
+ !ot | en1gma

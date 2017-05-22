@@ -1,0 +1,2 @@
+ Has the TASKbar been removed in Ubuntu 11.04 ? Replaced by the "dock" ?
+ wujie, why do you think that?

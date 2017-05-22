@@ -1,0 +1,18 @@
+ my roommate closed my computer while I was updating to 11.04, which crashed the comp (my comp crashes when closed, an issue i haven't gotten time to fix yet) and now I can't boot into my ubuntu partition
+ help?
+ kyubutsu: mount the partition in windows? when i install from the cd, will it be obvious what partitions to install to?
+ kyubutsu: I was wondering about the reinstallation process, since the computer has already been partitioned by the previous time I installed, I can just choose to install into the partitions that were made?
+ kyubutsu: i think i will skip it, nothing important was on there, all of it is luckily on my windows partition
+ kyubutsu: yessir
+ kyubutsu: the iso already installed from the website
+ like 8 minutes
+ kyubutsu: just to make sure, I have a 64bit computer, i want the 64 bit of ubuntu right? is there any reason i would want to use the 32bit version?
+ escott: what would you suggest I do?
+ kyubutsu: noted
+ when manually choosing partitions to install to, what do i mount to the ext4 partition?
+ rehan: cool that's what i figured thanks
+ rehan: do you know if i want to reformat it?
+ all of my windows are messed up! they are caught in the corners of the screen and I can't move them out of the way to interact. Here is a picture of it happening with both my screenshot program and firefox (you will see i cant see the tabs bar nor anywhere to move the window. I can't even resize http://imgur.com/QeFHD  this problem remains even after restarting the computer. I'm using Unity 640-bit
+ 64-bit*
+ and by unity i mean 11.04 T_T
+ does anyone know of a way to move windows around by pressing a button? In previous versions of ubuntu I could hold down alt and then grab any window to move it. Now i can't and unity is bugging out for me not letting me access the top part of any window of any application i open. I'm using 11.04 64-bit if that helps. Here is a screenshot of my problem http://imgur.com/QeFHD note the screenshot program is cut in half and i can't see the tab bar in the firefo

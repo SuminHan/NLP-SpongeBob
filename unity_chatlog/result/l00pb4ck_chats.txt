@@ -1,0 +1,5 @@
+ are the ppa's still down?
+ i get errors when i try to do any updates am i the only one?
+ kjxl9: i had to restart the bluetooth service to be able to use it
+ kjxl9: sudo service bluetooth restart
+ lol

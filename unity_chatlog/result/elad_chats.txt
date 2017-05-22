@@ -1,0 +1,24 @@
+ hi
+ im having a hard time installing 11.04 on my dell m1330
+ can anyone help me???
+ zach, im running windows 7 and im trying to dual boot
+ but every time, i get an error in the middle of the install
+ zachgretzinger im trying to dual boot with windows 7 64 bit, but i keep on getting an error halfway though the install...
+ zachgretzinger, im not sure. but it asks me to report it... i chose the partition & everything seems to be running smoothly then it stops. do you think i should try the 64 bit version?
+ zachgretzinger, will do... i dont know how its relevant though. my xp was 64 bit & i ran 10.10 just fine
+ thegoodsushion, if you really want 10.10, search filestube. i downloaded a copy today
+ zachgretzinger, thanks for you help
+ zachgretzinger, the 64 bit didnt work... im getting the following error...The installer encountered an error copying files to the hard disk:  [Errno 5] Input/output error  This is often due to a faulty CD/DVD disk or drive, or a faulty hard disk. It may help to clean the CD/DVD, to burn the CD/DVD at a lower speed, to clean the CD/DVD drive lens (cleaning kits are often available from electronics suppliers), to check whether the hard disk
+ zachgretzinger, by the way, im installing from a usb, but when i tried to install from a cd, i get the same error
+ braiam, i tried, and i tried the 64 bit version too
+ braiam, what do you mean?
+ braiam, oh at boot?
+ braiam, and what should this tell me, exactly? im sorry, im very new to this.
+ braiam, ill check it now & let you know in a few minutes. thanks
+ braiam, it cant be the HD. its only ubuntu that gives me an error, Kubuntu installed perfectly
+ braiam, i wiped the partition 30 minutes ago...
+ braiam, my CD? im booting off a USB
+ braiam, tried a cd too...
+ braiam, exact same results\
+ braiam, both the 64 bit & 32 bits that ive tried? i dled it directly from ubuntu
+ braiam, ok thanks

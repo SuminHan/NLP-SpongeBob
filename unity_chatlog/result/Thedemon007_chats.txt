@@ -1,0 +1,6 @@
+ Hello
+ How do I update my ubuntu 10.10 to 11.04 from an iso or live usb?
+ create a live usb of ubuntu 11.04 from the creator of ubuntu 10.10 but to run it it not gives me the option to upgrade my ubuntu 10.10
+ I don't want to do a new installation sary
+ As does the installer to detect that I have installed ubuntu 10.10?
+ may not detect it because I have archlinux and this governs the mbr and grub

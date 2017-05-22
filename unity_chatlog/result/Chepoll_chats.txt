@@ -1,0 +1,44 @@
+ Question: Upon booting my computer, it said that a new release of namby or whatever was out, and that i should do-something-something. It installed a GB load of stuff, or so it said,and now I'm unable to do few things. I cannot launch Software-update-center, I cannot apt-get install conkeror, I cannot use my terminal emulator properly urxvt
+ bazhang: okay, firstly, my error from urxvt : when I try "clear" command, it says "rxvt-256color", unknown terminal type
+ When I'm starting ubuntu, it says my hardware is not proper to start unity
+ oh, it was "natty", byt the way, the one that I had to install upon boot
+ I mean, I chose to install
+ Natty simple broke everything for me
+ .ask
+ Are we supposed to repeat our questions when they don't receive an answer?
+ bazhang, my error #1: before startx, I can launch "irssi" no problem. AFter I startx, when I try to launch irssi, it says "rxvt-256 color: unknown terminal type"
+ I have tried to change my keyboard layout using dpkg, from turkish Q to USA Q, I rebooted and now my computer has no internet connection ( it is wired connection and I didn't have to input anything to connect, before) and my window manage (stumpwm) does not even detect my keyboard or my mouse. Help me please
+ robin0800: Well the two came together, out of nowhere
+ celthunder: how can I check whether hotplugging is enabled or not?
+ celthunder: whereis evdev works
+ celthunder: my xorg.conf is very plain, there is nothing in it, and there was nothing in it too
+ celthunder: only a few definitions and that's all
+ celthunder: evdev exists and I don't have hotplugging.
+ magum: press ctrl alt F1
+ yeah, then log out from there using exit and whatnot
+ celthunder: also the command you've written to connect eth0 gives permission error, while on root
+ I am sorry that I disconnected. Has anyone responded to my question in the mean time?
+ okay, repeating question in that case : I tried to dpkg to change my keyboard layout and upon reboot, my internet connection was gone. It is wired and I did not have to input anything to connect before, even before the startx. Thank you...
+ I tried to trace the origin of my problem with not being able to connect to internet. Apparently I am missing the file "var/run/dbus/system_bus_socket", which all of the network managers are dependant on
+ What should I do?
+ I'm sorry but is this the channel for ubuntu-help or am I supposed to go somewhere else to ask questions?
+ Well then I'm going to be repeating my question... My internet connection was gone upon reboot and I have done nothing to trigger it. When I try to manually start network managers, they output an error saying "system_bus_socket" file is missing. I don't know what to do. Thank you...
+ Wired
+ >	Well then I'm going to be repeating my question... My internet connection was gone upon reboot and I have done nothing to trigger it. When I try to manually start network managers, they output an error saying "system_bus_socket" file is missing. I don't know what to do... It is wired and I didn't have to input anything to get it working in the first place.
+ Dr_Willis: ok now?
+ bazhang: 1 sec, doing so, I will have to manually type the output so give me a minute
+ bazhang: lspci output is very long for me to type letter by letter. Can you tell me what entry you are looking for so I can check for it
+ bazhang: ethernet controller is Realtek something something, do you want the specifics or is it another entry I am looking for?
+ bazhang: Ethernet controller: realtex semiconductor co ltd rtl 8111/8168B prci express gigabit ethernet controller (rev01)
+ bazhang: **realtek
+ bazhang: **realtek
+ bazhang: **pci
+ !netinstall
+ bazhang: sorry, forgot to attach the ifconfig. Ifconfig for eth0 ::: link encap:ethernet hwaddr 00:1e:......
+ sorry for the early enter
+ bazhang: operation not permitted, I think I have to chattr resolv.conf , right?
+ bazhang: as in, the permission or not having connection? All I did was dpkg-reconfigure console-setup and -reconfigure keyboard-layout
+ bazhang: if I knew how I ended up like this, I would be much less frustrated. as a sidenote, this problem occured the same boot as I got prompted to update a couple of stuff and upgrade a couple of others. I don't think that's related though
+ bazhang: also my /etc/network/interfaces has "lo", not "eth0". I never touched that file.
+ Dark_star1: his problem and mine seem similar too. My internet connection too went all of a suddent and my /etc/network/interfaces too enables "lo" only.
+ h4x0rs: are you still here?

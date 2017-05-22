@@ -1,0 +1,65 @@
+ MrBean, yes
+ Decision, wireless not ireless
+ usr13, 0_o
+ MrBean, yes
+ !it | linux
+ wazzup, https://help.ubuntu.com/community/SensorInstallHowto
+ Karen_m, try it on a live CD first
+ rgr, wiki link?
+ Daekdroom, exactly!
+ !gnome3 | Marsha||[a]
+ Marsha||[a], that's what happened
+ Marsha||[a], reinstall 11.04
+ Marsha||[a], there's no way back. Read the ubottu factoid again. Just use a live CD to rescue your data and reinstall
+ Marsha||[a], you can try but I cannot help you
+ bruzer, can you paste the result of: sudo lshw -C Network
+ bruzer, just tell me the name of the driver
+ bruzer, and what are the values of "Broadcast" and "Multicast"?
+ bruzer, it's all in the output of the -C Network command I asked you to run
+ bruzer, and the driver listed in that output is the b43 you mentioned?
+ bruzer, run: ifconfig     and tell me which device (eg "wlan0) has more than zero RX packets
+ bruzer, ok, one of the others should also be showing packet throughput
+ bruzer, what other devices (other than lo) are listed?
+ bruzer, and you don't have an ethernet cable plugged in do you?
+ bruzer, run: ifconfig wlan0
+ bruzer, still nothing?
+ !ru | lopyshok
+ !it | enrylinux
+ !es | mick_st_john
+ !polls | notlistening
+ ayrton, get Startup Manager from Synaptic (it'll be in applications when installed) and set the order from there
+ top o the mornin' coz_ :)
+ nadar_, it creates a pseudo partition and lets you choose between windows or ubuntu at bootup
+ nadar_, don't know what that is, sorry
+ nadar_, if you have 210GB available I would strongly advise you to create a seperate partition and install ubuntu to that instead of using the windows/wubi alternative
+ nadar_, you only need 10 or 20GB
+ nadar_, if it hasn't started formatting yet, then yes you can quit
+ IdleOne, I spy larstorben asdfsdggre
+ abadadon, https://help.ubuntu.com/community/Repositories/Personal see especially the links at bottom of page
+ Chilaquiles, which iso images?
+ Chilaquiles, downloads
+ Chilaquiles, is it an iso file you downloaded?
+ then, if you downloaded it as "your_user_name" it should be in the downloads folder of your home directory
+ Chilaquiles, you can search for it. Go to Applications, Accessories, Search for Files
+ Chilaquiles, then sorry, but I can't help
+ eiriksvin,
+ eiriksvin,
+ !ot | maryanne
+ !gnome3 | xiaoji
+ xiaoji, wait till it's out of the experimental stage
+ !classic | Blou_Aap
+ wendell, /j #canal
+ codingenesis, a job with intel or AMD.
+ codingenesis, yes, the processor is part of the architecture
+ ablaze, there's actually a warning on the wubi page about a problem upgrading from 10.04 to 10.10: https://wiki.ubuntu.com/WubiGuide
+ ablaze, best is to uninstall wubi from windows (instructions in the link above) and reinstall 10.10
+ ablaze, understood, but it breaks more than just grub
+ jorek, that's his choice not mine
+ !tab | jorek
+ ablaze, I understand where it gets stuck, but I have no idea how to solve that. You might look in your log file viewer at messages and boot to see if there are any clues
+ ablaze, the problem with using wubi is that not many people here use it, so not many know how to fix it :)
+ ablaze, System, Administration
+ ablaze, do you have a live CD?
+ ablaze, boot up into a live session and look for the wubi install in Program Files (or wherever) and the logs will be in /var/log/messages and /var/log/boot. use the date and time to try find when your first problem boot happened
+ ablaze, :)
+ ablaze, if you go to Places, Computer you should find a "FileSystem" entry (NTFS) that includes your windows files

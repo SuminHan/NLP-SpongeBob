@@ -1,0 +1,2 @@
+ hi @all
+ Does sb here knows what keyboard config file, window managers such as fluxbox and Awesome are using?

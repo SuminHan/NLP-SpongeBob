@@ -1,0 +1,3 @@
+ Hi all, after a (seeminglly harmless) upgrade of Lucid kvm-qemu package to 0.12.3+noroms-0ubuntu9.5, the VMs do not open VNC ports, not even from monitor console, regardless of port number. VMs otherwise run normally. Has anyone encountered this?
+ Hi all, after a (seeminglly harmless) upgrade of Lucid kvm-qemu package to 0.12.3+noroms-0ubuntu9.5, the VMs do not open VNC ports, not even from monitor console, regardless of port number. VMs otherwise run normally. Has anyone encountered this?
+ Hi all, after a (seeminglly harmless) upgrade of Lucid kvm-qemu package to 0.12.3+noroms-0ubuntu9.5, the VMs do not open VNC ports, not even from monitor console, regardless of port number. VMs otherwise run normally. Has anyone encountered this?

@@ -1,0 +1,5 @@
+ So Ubuntu 11.04 has been released, a big THANK YOU to all the devs and contributors! :)
+ Can anybody help me ?? My "Me menu" disappeared from the Indicator area.
+ no
+ Can anybody help me ?? My "Me menu" disappeared from the Indicator area.
+ Everything is working normally,but i cannot see only the Me Menu

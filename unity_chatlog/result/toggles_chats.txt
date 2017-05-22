@@ -1,0 +1,21 @@
+ Anyone know how to configure unity? I'd like to setup Super + N = File->New
+ or maybe someone could tell me how to start a new copy of terminal without requiring three keys
+ Dr_Willis: ccsm?
+ Dr_Willis: Grazie, found with apt-cache
+ KNUBBIG: Grazie
+ zvacet: you can try from source, it's not working for me right now, will try a few more times over the next few days to see if git settles a little
+ zvacet: fair enough
+ nishttal: shouldn't break 11.04 http://www.webupd8.org/2010/10/install-gnome-shell-from-git-in-ubuntu.html
+ Pepro: better?
+ rm it
+ takeshi: gnome-about
+ takeshi: gnome-session --version
+ gnome-session 2.32.1
+ takeshi: np
+ eekTheCat: new kernel since release
+ eekTheCat: https://bugs.launchpad.net/ubuntu/+source/linux/+bug/760131
+ eekTheCat: yeah, i saw that, sorry, i'm looking for the release notes..
+ eekTheCat: thanks
+ eekTheCat: yeah, seems it's scheduled for the milestone release
+ malle
+ AziaBurgi: generally trying to mount wrong partition

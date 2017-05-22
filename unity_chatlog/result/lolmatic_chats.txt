@@ -1,0 +1,1 @@
+ using broadcom sta wlan drivers. and i cant connect to any wlan. tried wpa2, wpa, wep and open wlans. it doesnt work :(

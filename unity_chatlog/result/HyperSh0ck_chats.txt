@@ -1,0 +1,1 @@
+ hey guys. what is the solution when gnome or nautilus suddenly stops opening folders and mounts for file access but instead runs them through a program, for instance mine is running them through gedit for some unknowable reason....?

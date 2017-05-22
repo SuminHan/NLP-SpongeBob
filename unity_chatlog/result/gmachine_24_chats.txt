@@ -1,0 +1,71 @@
+ anyone have a good utility to set CPU levels - to save on power when running on battery, etc.
+ Dr_Willie, I'm sorry, what were you talking about? ;)
+ Willis, even
+ coder2, yes
+ why not?
+ coder2, well these people here know more than me so apparently I'm wrong.
+ coder2: besides I never upgrade. I had one bad experience a long time ago so I just save my data files and do a fresh install
+ jimcooncat: yeah, it was a grand disaster
+ anyone have a good utility to set CPU levels - to save on power when running on battery, etc.
+ isn't this about the point when someone says something about staying on topic
+ rgr: stupid question: laptop mode where?
+ rgr: ok thanks although I don't 'google'
+ ic4I: is that a joke
+ n
+ I use xchat or chatzilla
+ yeah I'm not a big xchat fan
+ ic4l: I go for the easy . . . chatzilla
+ I only try xchat when it's a default install . . . and then I'm reminded why I don't like it
+ Froq: right click on the 'stupid dock program' and it should say
+ but if it's not stupid, I make no promises
+ Froq: your cock program should also be listed under "accessories"
+ sorry, dock
+ wow. bad typo.
+ haha yeah
+ Froq: seriously, look under accessories. it should be there.
+ Froq: :)
+ Froq: can you just remove it now from the command line or via synaptic?
+ Froq: of course you have to kill it first
+ yfk: you want to install chromium?
+ yfk: why it exists where
+ yfk: you are asking my it is on your computer?
+ I meant why
+ Antilect: how do you overclock
+ Antilect: not fan fan fans?
+ Chromium rocks
+ stop bickering about chromium vs firefox or GET A ROOM
+ norixy please ask a question
+ norixy: enough with the hellos
+ good grief
+ illmortal: the pics on tinypic look fine to me
+ illmortal: sorry, when I made the images bigger and looked at the 'raw' image I see what you mean. And I don't have an answer.
+ MattC: Please tell us what the problem is and which version of Ubuntu, etc.
+ MattC: which version of Ubuntu?
+ MattC: You might try turning the computer off completely and restarting it.
+ I know it sounds silly, .... but sometimes that does it
+ MattC: do you have any other installs on your hard drive?
+ MattC: did you shut the computer off and restart it?
+ MattC: ok
+ MattC: I don't know what to tell you. Did you check hardware compatibility? Were you running an earlier version of Ubuntu before 11.04? If so, which one?
+ uhmm.... what is flameware?
+ ok nm
+ astro73: I might have missed your earlier posts, but you checked for software versions for Nvidia?
+ astro73: under administration>additional drivers?
+ _Mr_Proper_: I pretty much use anything and it works.
+ _Mr_Proper_: I use CLI for burning CDs and DVDs and making iso files, etc. seems to be the easiest, fastest and most reliable
+ _Mr_Proper_: you got a corrupt data error when?
+ _Mr_Proper_: I use wodim without a problem.
+ _Mr_Proper_: what burning software were you using?
+ _Mr_Proper_: ahh, see, I have not used that. any of the GUI cd/dvd burning programs have been a problem for me
+ _Mr_Proper_: which is why I stick with the command line
+ _Mr_Proper_: I literally never have a problem or bad disk
+ _Mr_Proper_: for the  most part the GUI dvd burners in Linux are just that .... graphic interfaces for command line programs
+ so....................
+ Edd: you boot the computer and it goes straight to a c:/?
+ Edd: after choosing a kernel why does it go to a tty?
+ Edd: I guess if you hit cntrl + alt + F7 you get nothing....?
+ Edd: ok
+ Edd: I'm afraid this is above my pay grade
+ Edd: have you searched for the error you get re: turbo driver on google or ubuntu?
+ Edd: I am clueless about the plymouth command
+ Edd: did you check something like this? http://www.linuxquestions.org/questions/linux-software-2/plymouth-command-failed-868723/

@@ -1,0 +1,23 @@
+ I need desperate Ubuntu help
+ I'm having some severe video driver issues
+ I installed a driver for my ATI card last night via command line
+ And, being a noob
+ I want to know how to remove it
+ As it broke EVERYTHING
+ I'll remember to do that, sorry.
+ It's a terrible habit of mine
+ I don't know if it is or not
+ I don't think it is.
+ AH THERE I WENT AGAIN
+ I downloaded it as a .run file, made it an executable, installed it, and then everythings broken <_<
+ I'm only a few days into Ubuntu, a fresh install isn't out of the question, but I've had so much flipping trouble with my graphics that I might just switch distros
+ Or go back to my cold, lonely Windows 7 installation who hides at the bottom of GRUB
+ ATI Technologies Inc RV770 [Radeon HD 4870]
+ I tried the driver recommended to me from the driver manager
+ But it still breaks everything
+ zvacet, I already tried to do it with that. Also, it breaks as in I can't use dual moniters, can't play any game, can't do anything graphical
+ Ok, I ran that command
+ Sure, take your time
+ cheapie: I'm getting "No such file or directory" with the first command
+ cheapie: Got errors on every single one of those commands.
+ cheapie: Alright.

@@ -1,0 +1,25 @@
+ Can Unity be moved yet?
+ jo-erlend to the bottom of the screen
+ I don't understand what possessed them to put it on the left. They must be confused. Decade of computing has launches, top or bottom as the norm - ie windows 3.1-7 and osx, and they thought this would be cool or different?
+ hypetech but a launcher has never. unity is a launcher not just a start menu
+ Actually I've changed my mind reading this: http://askubuntu.com/questions/33605/can-i-move-the-unity-launcher-to-the-bottom-of-the-screen-like-windows-7
+ it's true on a 1920x1080 display i have a lot of horizontal space that never gets used. i take it back
+ I'm having problems with FTP. I regularly get disconnected. Is there any alternatives that allow direct editing on the fly?
+ What is the picture in Control Centre > About Me used for?
+ atlef is it used by empathy or any instant messenger by your knowledge?
+ How do I add another panel in Ubuntu 11.04?
+ mman but then I would lose unity
+ I've spent 6 weeks getting used to it
+ mman hm ok thanks mate
+ How do I change the global background in the workspace switcher?
+ Does anyone know why compiz uses CPU anytime you move the mouse?
+ How do I check what UDMA mode my hard disks are using in 11.04?
+ rumpe1 thank you! just what i was looking for
+ Is there any way I can make Ubuntu check for updates every hour?
+ Can someone help me install Cinelerra? I've added the ppa through the instructions on launchpad and I went into the package manager, hit reload, but there are no packages to upgrade nor can I find it when I search for it
+ xangua it's listed for natty
+ xangua: https://launchpad.net/~cinelerra-ppa/+archive/ppa lists "1:2.1.5-0.14~ppa1~natty5" under published packages
+ ActionParsnip can you help me install it? I've added the PPA but I don't know what to do next as Synaptic doesn't show the package when reloading but it is in the repositories
+ xangua it doesn't say  it's failed
+ Can anyone help me install Cinelerra please? I've added the PPA, I've ran apt update, but still nothing?
+ Are there any tools to limit CPU for certain processes? I've tried CPULIMIT but it doesn't handle spawned processes

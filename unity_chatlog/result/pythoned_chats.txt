@@ -1,0 +1,13 @@
+ Greetings, I am running ubuntu and would like to donate a hdd to a friend. How can I format it to leave no trace on it? Just like it was brand new...?
+ RRU_Sciguy:  No, it will not...it will overwrite some portions of the HDD online.
+ rannmann:  Does it work fine? i mean can i retrive data once I used that command?
+ rannmann:  As I said I would like to donate I want to alter everything that was on it...
+ rannmann:  Sweet, thank you so much sir!
+ fliegenderfrosch:  But if the person takes the hdd to a special data lab ..will the folks there be able to see what's on it?
+ fliegenderfrosch:  after I run the command like 3 times:)
+ botcity:  Sadly I want to donate it:)) can't torch it...
+ mikeea:  thanks
+ fliegenderfrosch:  :)) sounds great for a paranoic like me
+ Hello, I installed 10.10(ubuntu) upgraded it to 11.04 but I have  a flash problem. Installed it from ubuntu software center, if I go on a video on youtube it runs but if I go to a channel it warns me that I have either js disabled or an old flash version.
+ How can I have an older one since USC states that it downloads flash player directly from adobe website?
+ Anyone here that can assist me?

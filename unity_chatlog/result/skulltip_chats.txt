@@ -1,0 +1,34 @@
+ how is the new beast
+ any first takes on 11.04?
+ if i upgrade from 10.10, besides backups, does it preserve my current home folder, custom directories and games I've copied?
+ mnoyce - still have to turn off compiz to play fps's well?
+ ..or drop the effects to basic
+ cool, thanks mnoyce
+ backintime is very cool, hope i wont have to learn how to restore from it with the upgrade 99
+ what's the terminal irc client in case i have issues?
+ ty
+ Monotoko - X-plane is best commercial one
+ err.. mac is too much linux clone
+ no, mac is like linux
+ what's wrong with that tyhpoon, there's a reason macs are expensive besides greedy executives
+ and windows 9 copies chrome, then years later buys the patents and tries to stiffle competition
+ :) i dont mind great ideas being shared, just dont go patent trolling
+ that being said, i'm still on 10.10
+ ubuntu is smart for wanting to spread to devices they can profit from, good for them
+ try gnome-classic on a pad
+ i'll have to close my mouth until i can upgrade
+ looking at screenshots, how in any way does it copy a mac??!?
+ locked in? if developers would write BF4 for it like they do with the current pc platforms, it would be worth it
+ anyone not have troubles with 11.04, upgrade go smooth as silk?
+ as long as the gui doesn't cramp my FPS-game playing ways, i'll be fine with 11.04
+ in the upgrade, will my wireless networking/WPA password need to be reentered?
+ tase - try backintime, it's in repos
+ lnfr4nk7 - think it's a love/hate relationship
+ sudo chown -R folder name.name  ?
+ so i upgraded to 11.04, then installed unity 2d. when i try to play urban terror or openarena, my mouse wraps around the screen, like it's in a limited work area.
+ i dont mind the change in looks, but seems to be messing with my gaming
+ anyone know why my mouse wants to recenter on 3d games?
+ i find it weird each focused window's menu goes to the top of the bar, whatever it is called
+ clutter and unclutter are causing issues with mouse and FPS games, i'm killing 'unclutter'
+ find the 2d interface kind of neat, opengl windowed games play better in 2d
+ someday will have live-preview of workspaces :P

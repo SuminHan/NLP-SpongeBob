@@ -1,0 +1,8 @@
+ Hi all
+ Guys, how come Skype can mess with a whole sound system (aka ALSA) on Ubuntu?
+ After installing Skype & running it on 11.04, it was acting funny, so i restarted, then no sound at all!
+ Guys, how can i restart ALSA with the default configuration?!
+ Command to restart alsa with default config plz
+ srisimil, update-grub in root command
+ pulseaudio applet on 11.04 is,!
+ ???

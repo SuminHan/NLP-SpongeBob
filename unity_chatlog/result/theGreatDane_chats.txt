@@ -1,0 +1,30 @@
+ they say
+ security through obscruity doesnt work
+ but
+ i change ssh port to random high port and attacks on my ssh went from 30 a day to ZERO
+ zero
+ yep
+ i doubt i'll ever have an attack again
+ no1 bothers to scan high ports
+ yea but they've no reason to be determined
+ plenty of servers out there with ssh on 22
+ and all these script kiddies, only try to get in by ssh
+ i have fail2ban
+ didnt hear about that
+ well my server isn't running httpd
+ its only running openvpn
+ so actually the iptables only allows 2 ports to be open, one for ssh and one for openvpn
+ locked down better than fort knox
+ any idea what /var/log/lastlog is for?
+ thanks
+ im using aide, and i set it to notify me about 'atime' changes, however it appears that opening a file doesn't change the atime
+ if i open a file over winscp for example
+ why install over windows 7? windows 7 rocks
+ its very good and stable
+ any1 know what xinetd is?
+ its a process running on my box\
+ ty
+ im setting up key based ssh login
+ what permissions should i use on the dir 'authorised_keys'
+ ?
+ im confused about ssh with key... i generated a public and private key, google says put the publc key in /root/.ssh/authorized_keys... BUT, where do i put the private key?

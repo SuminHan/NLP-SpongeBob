@@ -1,0 +1,4 @@
+ Got a problem doing an update (apt-get update) it is stuck at "Obj http://es.archive.ubuntu.com natty/universe Translation-es" , I use the new ubuntu 11.04
+ Got a problem doing an update (apt-get update) it is stuck at "Obj http://es.archive.ubuntu.com natty/universe Translation-es" , I use the new ubuntu 11.04
+ it happen to someone else here?
+ Dudes, I have a problem with ubuntu 11.04. I am not using unity, but when I want to play something in fullscreen a big number 2 appears. I tried to disable in System>Preferences>Ati catalyst control center

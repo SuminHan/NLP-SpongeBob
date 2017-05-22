@@ -1,0 +1,2 @@
+ Has anyone figured out a way to make Google Chrome play nice with the Unity panel? I have window management buttons on the window and the panel when maximized, using either of Google chrome's titlebar modes.
+ ohsix: I actually got it figured out, It does work with the use native titlebar mode. I just didn't have it maximized like I thought I did. >_< Thanks for the input.

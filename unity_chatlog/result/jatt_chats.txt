@@ -1,0 +1,167 @@
+ use kubuntu
+ at least it doesn't run unity per default
+ xubuntu
+ games
+ 11.04 will deliver beta software (unity) so better wait for a next release (if you use your machine for something productive)
+ it isn't -> https://bugs.launchpad.net/unity/+bug/648180
+ nope the bug comments have a lot of valid points
+ it's beta software
+ actually the idea was to include unity in gnome3 but gnome developers were against it, canonical was pissed off about it and decided to put it in his distribution anyway
+ gnome shell is a disgrace too
+ it doesn't look good on the gtk side, hopefully kde and xfce get better
+ gnome 3 disgrace -> http://lwn.net/Articles/433409/
+ windows sucks but you cannot deny they have lots of experience in gui design/usability
+ windowmaker was sweet too too bad it died
+ or fvwm in redhat distributions
+ it's not worth it
+ stick with a LTS release
+ 11.04 will have a lot of bugs better wait until it is polished with patches for a while
+ you won't tell the difference between 64bit and 32bit unless you have lots of ram and/or run programs with heavy CPU usage
+ yes I will try this 11.04 on vbox
+ no? I am downloading it from http://releases.ubuntu.com/natty/
+ any pointers how to install ubuntu in virtualbox? host ubuntu
+ why not
+ no there is unity-2d
+ should work now
+ Oday: better use debfoster and deborphan directly, Computer Janitor is junk
+ Oday: yeah that's good but deborphan will probably find more unused packages for you
+ 64bit is good for servers
+ but for the desktop is an overkill
+ old news
+ Oday: try
+ deborphan | xargs -i apt-get --purge remove "{}"
+ this will remove them.
+ Oday: with sudo of course
+ still deborphan finds unused packages which apt-get doesn't
+ rapha: yes
+ very slow
+ rgr: 64bit is a pain in the neck for the desktop. it is excellent for servers running huge applications but for the desktop the wise thing to do is to install 32bit
+ rgr: you are right, but for organizations is not rare to see servers running 64bit because their java "enterprise" applications require 64GB of ram :)
+ crashanddie: I think you can chose a gnome session instead of a unity session on login, don't give up so fast (I know unity sucks tho)
+ nope
+ canonical wanted unity and gnome but gnome guys were against it (you know why once you see unity)
+ s/and/in
+ yeah but canonical doesn't have the resources to maintain unity in the long term, gnome can be hated but they have lots of experience and developers on their side
+ ultimately unity will die if they don't provide software that pleases the user
+ no matter how smart their idea/architecture is
+ there is unity-2d
+ g4: is crap compared to gnome do
+ Guest7243: -> https://bugs.launchpad.net/unity/+bug/648180
+ 64-bit as a long history of trouble in the desktop
+ kellnola: o'rly? https://bugs.launchpad.net/ubuntu/maverick/+source/linux/+bug/659143
+ 64-bit is a pain in the neck
+ anyway
+ so the sane thing to do is to use 32bit you won't lose performance or anything
+ unless you need lots of ram
+ don't upgrade
+ no
+ uninstall it
+ lol not many people use ubuntu
+ unity was intended to by an April 1.
+ joke
+ hehe
+ unity is beta
+ can you move the unity bar to the bottom?
+ the left one
+ histo: I guess is not possible?
+ histo: I am using unity-2d
+ histo: no compiz I guess
+ greg_72: dpkg -S
+ !mirror
+ not anymore
+ ubuntu is now a unity distro
+ they should create a new distribution gubuntu
+ lol
+ yes 10.04 is LTS and proven
+ if you want to play around then natty is ok
+ unity is canonical's own desktop environment
+ so you have now gnome, kde, xfce and unity
+ completely new environment
+ there are no applets in unity
+ yes
+ no applets no panels
+ euclid: yes
+ lol
+ no love for unity
+ there is no 11.04 LTS
+ what he said
+ eigba: -> https://bugs.launchpad.net/unity/+bug/648180
+ eigba: or you might hate it
+ jnye: you cannot
+ jnye: you cannot hide it either
+ jnye yeah it as also a lot of issues with dual monitors stuff too
+ hehe
+ where are the iso's md5sums
+ the 11.04 hashes are not there
+ unity doesn't use compiz
+ Sik: at login time you can choose classical desktop or similar it will load gnome
+ freaky[t]: download jdk-6u25-linux-i586.bin from oracle's site, install
+ Sik: I don't remember either :(... maybe in the login screen you can set it as default?
+ freaky[t]: I use it at work, it works fine. If it's for your own use is ok (1 user) but for a machine used by different people maybe is better to use from the repos.
+ unity is beta software avoid it if you use your machine for serious work
+ see https://bugs.launchpad.net/ubuntu/+source/unity
+ 1149 open bugs
+ totally useless
+ green_: is to look more like Mac OS
+ green_: yes but it fails miserably imho
+ restart
+ /sbin/restart
+ Sonja: it is not easily configurable
+ eigba: -> https://bugs.launchpad.net/unity/+bug/648180
+
+ crims0n: no, it is a totally new desktop environment
+ crims0n: now there is gnome, kde, xfce and unity
+ ojii: no
+ ojii: you can use gnome, choose it from the login window
+ yes
+ zelhar: I think it is safe while it's downloading packages
+ zelhar: but once it starts to install/configure if you abort it can get messy
+ you can switch back to classic gnome
+ Tetsuo55: you can't. there are no applets in unity
+ Tetsuo55: I know. canonical claims nobody uses applets :(
+ thatcode: you can't the bar position is not configurable in unity
+ Tetsuo55: I agree I use that applet too
+ swordz: you can switch back to the classical interface
+ swordz: it's true there is no way to configure the bar position in unity
+ Tetsuo55: I think they still have it
+ Tetsuo55: but things like the system monitor applet are gone
+ mbrochh: yes, unity
+ mikebeecham: there is no way to add the home icon to the unity bar
+ so you added it?
+ heedlu: in unity?
+ heedlu: widgets/applets are not supported in unity
+ Rigorm0rtis: no
+  11.04 is beta
+ they just don't label it as such
+ hehe
+ it's a release to test experimental features, shuttleworth himself said so
+ 32bit
+ [snake]: in the login window you can choose classical
+ opengl for icons and windows lol
+ andeeeuk: no, it's not possible to edit the top panel in unity
+ andeeeuk: yes, you cannot move it for example
+ unity
+ LANG=en_US.utf8 gnome-terminal
+ Mrokii: which indicators?
+ Mrokii: you mean applets? like weather or system monitor applet?
+ ubuntu
+ http://en.wikipedia.org/wiki/File:Internet-explorer-usage-data.svg
+ slackware is still around
+ [ 2613.617845] chrome[19759]: segfault at 74656ebe ip 06a16cad sp bfda70d8 error 4 in libgcflashplayer.so[6429000+b64000]
+ sudo su
+ passwd
+ change root password
+ it wouldn't necessary makes everything faster
+ ignore
+ or maybe you need to import some public keys some how
+ Combatjuan: it's configured automatically however you can generate a xorg.conf if you want
+ Combatjuan: Xorg -configure
+ !pinning
+ vesto: are you installing it on a usb drive?
+ vesto: you must use the same grub version
+ TheRedOctober: I have 2gb and rarely the swap is used
+ what?
+ user82: top -p
+ user82: you can use it in combination with the -b flag
+ user82: and redirect the thing to a file
+ Bisu[Shield]: vimdiff

@@ -1,0 +1,34 @@
+ Is there any way to continue an aborted 10.10 to 11.04 upgrade?
+ Is there any way to continue an aborted 10.10 to 11.04 upgrade?  It froze on me and I had to reboot.  now it says on bootup drive "/" not ready and my system will not star
+ Diosjoe, so I have tostartover from scratch?
+ ok
+ Diosjoe updateing
+ Diosjoe, ok that sucks,  Ill lose everything
+ Diosjoe,my home directory.  can 28 GB.  can I copy it to a External and then copy my whole home dir over ontop of the newly installed?
+ Diosje ok then after I install I can just opy mysaveed home directory over the new home directory?
+ Diosje then I whoould just have to reinstal the prgrams realted
+ Is there a 11.04 music version?
+ what it called
+ ubuntu studio 11.04?
+ Diosjoe:  Just found it...  its there:https://wiki.ubuntu.com/UbuntuStudio/11.04release_notes
+ how do I make the desktop icons smaller on unity?  WAY TOO BIG, lol
+ your jank
+ stravant its not coming up, just about config
+ yes
+ strvant yes
+ stravant no
+ k
+ stravant ok, I am talking about icons I put on the desktop
+ does anyone know how to make desktop icons smaller in unity?
+ what package do i install to get all of the dvd and music codecs?
+ or does it alreay come with natty
+ reduce icon size unity desktop????
+ anyone know how to do that?
+ has anyone had luck installing dropbox to 11.04?
+ trism: me no go, its stuck at 97% unpack
+ yo yo yo, anyone got 11.04 onto a laptop yet and tested with batter?
+ 11..-4 when my laptop is on battery pwer the screen flickers sometimes and the britness bar comes up and move quickly.  this disables the mouse and the only way to get it to stop is to press a key on the key board
+ jsbluedevl:  on a laptop?
+ jsbluedevI am here with the same problem
+ 11..-4 when my laptop is on battery pwer the screen flickers sometimes and the britness bar comes up and move quickly.  this disables the mouse and the only way to get it to stop is to press a key on the key board
+ jsbluedevl:  when does it do it?

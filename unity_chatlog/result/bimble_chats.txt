@@ -1,0 +1,2 @@
+ I have a problem that my box won't come out of suspend:  (11.04)  box powers up, but no response from screen or keyboard/mouse.  Havn't found a solution yet, has anyone seen similar?
+ how do I roll back from 11 to 10?

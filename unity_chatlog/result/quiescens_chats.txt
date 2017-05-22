@@ -1,0 +1,10 @@
+ they don't want ownership
+ they want the group to be able to write to it, which it should if they are properly in the group
+ bgoldsmith: with regards to group membership, its not rebooting as such, but your group membership is read when login first applies your user, and then every process from there on inherits those groups
+ bgoldsmith: no, the groups command lists the groups that the process is in (which should be whatever it inherits from the shell or whatever you used to run it)
+ bgoldsmith: its not *really* based relogging, you can relog and the process you are trying to fix could still have the wrong permissions
+ bgoldsmith: the groups list is applied per process, you could technically end up with one process using one list of group permissions, and another process using a different set
+ don't go fishing, the weather's not good for it
+ bgoldsmith: permissions are stored for each process individually, and not in the usual "environment" per se, if you plan to look deeper into this you can probably have a look at setgroups() and work your way back from there but going all the way back to where in the kernel each process's individual groups list is stored is probably beyond the scope of a channel like this
+ sipior: that's not technically right, load on the swap partition can by the system swapping things out, even if it never gets swapped back in, what you need to look at is things like pagefaults which is how often a process is requesting data which had to be read from the swap system
+ sipior: well i guess both ways answer that question, if its just allocations that are never used then there will be no i/o for it nor will there be any pagefaults

@@ -1,0 +1,32 @@
+ Hello, after installing 11.04, my broadcom wireless stopped working. lspci -> broadcom BCM43225, STA drivers installed, in /etc/modprobe.d/blacklist.conf if I add "blacklist acer-wmi", I can see the wireless services around me, but I cannot connect to them.  Please help!
+ opera is not bad
+ Hello, after installing 11.04, my broadcom wireless stopped working. lspci -> broadcom BCM43225, STA drivers installed, in /etc/modprobe.d/blacklist.conf if I add "blacklist acer-wmi", I can see the wireless services around me, but I cannot connect to them.  Please help!
+ mtlife, try "metacity --replace" in a terminal
+ mtlife, do you use compiz?
+ try typing ccsm in a terminal
+ mtlife, any luck with "ccsm" in a terminal?
+ Hello, after installing 11.04, my broadcom wireless stopped working. lspci -> broadcom BCM43225, STA drivers installed, in /etc/modprobe.d/blacklist.conf if I add "blacklist acer-wmi", I can see the wireless services around me, but I cannot connect to them.  Please help!
+ mtlife, yes, the command is "sudo apt-get install compizconfig-settings-manager"
+ mtlife, I just did something weird, did you say something recently?
+ hello, serene
+ anyone know a good irc client?  I'm using ircii and it's pretty fail
+ mylife. go to "Window Decorator".  Are you using 11.04. or 10.10?
+ mtlife*
+ xchat!  that's the one mint have.  I like that one
+ mtlife, one moment please, I need to check something
+ mtlife: under the "Window Decorator" plugin, what does the line "Command:" say?
+ soothsayer:  sper user is known as "root"
+ mylife:  hmmm... okay.  We can brute force it by adding a new startup application.  Hold on.
+ mtlife: go to system -> preferences -> startup applications.  Once there, click add, name it "Start my Window Decorator" and put as the command "/usr/bin/compiz-decorator --replace"
+ Unity is crap.  Dunno what they are thinking
+ mtlife, I'm not sure - it must be something when you messed around with the other window manager
+ trine:  indeed, it's terrible
+ mtlife, possibly, I'm not sure.  I have never used lubuntu.  I would have assumed switching sessions would keep your window decorators though
+ mrlife, oh!  it might be that you are still on the lubuntu theme.  try going to system -> preferences -> appearance and selecting a theme there
+ mtlife, the lubuntu window decorator might have been uninstalled when you dist-upgraded
+ 11.04 is alpha
+ ubuottu: I'm aware what the official release is.  It just runs like an alpha.
+ mtlife alrighty.  well after adding that startup application, try logging out and in again
+ mtlife: have you installed all the drivers?  Unity is bad, and your graphics card needs to have OpenGL support
+ mtlife: Unity made some poor design choices in my opinion, but I don't really know how to get it working if it isn't already
+ mtlife, I'm switching to xchat.  My name is FizzixNerd now

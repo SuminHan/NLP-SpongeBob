@@ -1,0 +1,27 @@
+ incorrect1,  Do you like unity at all? Im not sure if i do or not
+ Unity looks ok I guess, just not sure if I like it
+ iszak, I asked the same thing. I had to use the damn search feature
+ (
+ Ive already farted out 2 butt turds trying to figure out if i like unity or not
+ ilon, what I did was use the search feature to find settings then pulled it over to the lauchbar. probally not the most productive way though
+ Sonja, Agreed
+ I wish they would of went with gnome 3.
+ well there are several desktop managers most or very old, maybe this unity can progress?
+ are*
+ Fluxbox might look bare at the beggining but it can be configured trough config files to be a really nice desktop enviroment
+ Brb, I just farted out a butt turd
+ I hope the complaints continue flowing into the Ubuntu team, unity is fine but they should officially support gnome 3 also. I know it can be compiled and installed regardless but they should offically support it
+ spungo, Yes same here, I think unity os cool for new users but not for long time linux users
+ is*
+ dncrash, I did the same thing, what i did was delete the config files from my home direcotry to fix it
+ dncrash, I deleted the .gnome2, gconf, and gconfd file lol it fixed it for me
+ Why are the complaints about unity? You can revert back to Gnome to by choosing Ubuntu classic from gdm login manager correct?
+ mrdeb: I like unity, however many are complaining about it, but choosing ubuntu classic from gdm login manager loads gnome 2 correct?
+ Stafngrimr: You know its growing on me alot actually, Its nice to have a new Desktop enviroment to play with
+ Well you can play with your video driver settings an rotate screen, but then you will have to browse and such with everything else sideways :) hahaha
+ All joking aside I wish you could move the bar
+ Brb I just farted out a butt turd
+ Anyone running gnome 3?
+ spiderX, You may want to search for a mysql gui client for linux in general.
+ AADFS, Why not? It can be done, just maybe not easy
+ celthunder, Runlevel is the word your looking for

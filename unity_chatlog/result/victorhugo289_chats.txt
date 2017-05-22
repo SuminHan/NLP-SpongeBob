@@ -1,0 +1,44 @@
+ Guys, to download the new Ubuntu torrent, is it "ubuntu-11.04-alternate-i386.iso.torrent" or "ubuntu-11.04-desktop-i386.iso.torrent"?
+ My computer is desktop, 32 bit, I use Alternate? ok
+ thanks!
+ I want to do a fresh Install
+ I use Desktop then?
+ ok
+ sudo problem :P
+ Today I installed Ubuntu 11.04 and I got this error: "It seems you don't have the necessary hardware to run Unity, choose the classic Ubuntu"
+ My computer is a Pentium 4, @2Ghz, 1GB ram, with 128MB video, what's going on??
+ @BINOX, really??
+ No way, dude!!
+ So I can't have Unity then?
+ ok, I look that up in the Software center, Ubottu??
+ Alright.
+ I had no idea I was gonna face this problem, but I did notice that when I put the LIVE CD in and let it run I didn't see the Side bar that everybody is talking about. This Ubuntu 11.04 looks pretty much exactly like 10.04 to me. Dang!
+ Need a new computer. :S
+ !
+ Guys, wasn't Unity originally made for Netbooks?
+ If it can run in Netbooks, why doens't it run in my Desktop computer?
+ Pentium 4, @2Ghz, 1GB ram
+ It says I have to use Ubuntu classic
+ My video card is very old, yes, it's 128MB, I never needed proprietery drives
+ But then Netbooks are more powerful than my computer?
+ Let me check...
+ My video card is an ATI RAdeon 9250
+ I clicked Additional Drivers, it says "No propriety drivers are in use"
+ Ok, besides Unity, what's best about Ubuntu 11.04?
+ Asking me? No listed drivers
+ I made Unity in Ubuntu 11.04 work!! I don't know how but it works now!
+ Pentium 4, @2Ghz, 1GB ram, 128MB ATI radeon 9250 >> Unity works very nice!
+ hello
+ Guys, in Unity, in the "Files and Folders" thing, it says "Search files and folders" but it doesn't actually look for anything./
+ I've tried looking for something and it only opens my most recent files..
+ You press the Windows key, you get this black black background thing, you try to search for a file, no searching at all!
+ "Search files and folders" why doesn't it worjk?
+ hello
+ Guys, in Banshee, does "importing your videos" copy everything into a different folder?
+ what does it do?
+ The Banshee "import" option, does it copy media files into a different folder? anybody?
+ Zizban, I don't think so either, but I just wanna make sure before I click on "Import"
+ I'm running out of space on my computer
+ I'll choose the option, then. : )
+ Yup! everything's ok!
+ Great!

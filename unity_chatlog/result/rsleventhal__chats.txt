@@ -1,0 +1,3 @@
+ hi folks
+ I've just upgraded a few servers from Maverick to Natty without any issues.  Did a fresh install of Natty Desktop...much to my surprise, there's no /var/log/messages file.  Is this to be expected?
+ Has anyone encountered, with a fresh install of Natty (desktop - classic), that there is no /var/log/messages file?

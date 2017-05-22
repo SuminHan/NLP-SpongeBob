@@ -1,0 +1,30 @@
+ Natty! \o/
+ So, please tell me, am I the only one with video/audio issues? (vdr+xine: "No Signal", xbmc: very slow framerate video, no audio)
+ pr3d4t0r: from userspace: memtester, but you might also have a memtest entry in your grub menu.
+ pr3d4t0r: not sure if dapper has either ;)
+ pr3d4t0r: yw
+ mjs: if you feel comfortable on the command line, wget is all you need.
+ mjs: it does recursive retrieval, optionally spanning hosts
+ mjs: cd target; wget ... will result in a target/www.myserver.com/...
+ mjs: man wget is your friend - especially the section on Recursive Retrieval Options.
+ pr3d4t0r: I usually let memtest run for a couple of hours (e.g. over night) with changing test patterns.
+ trollboy: check your spelling, it's obviously Nutty Narwhal
+ trollboy: ego te absolvo.
+ njbair: I prefer the command line, but sometimes I use nautilus for ftp/ssh file transfer.
+ njbair: nautilus is your standard file manager on Ubuntu
+ mjs: yw!
+ Rehan: duct tape?
+ Rehan: nope, sorry. If there was, it would probably be in the Accessibility area.
+ Howdy, I'm trying Unity and I wonder what's the desktop search engine it's supposed to use and how to configure it to find my interesting files. Any help or pointers?
+ Zahrada: error message?
+ Zahrada: there are alternatives to grub, perhaps try lilo instead?
+ Zahrada: or you could try a manual installation, giving grub a hand... as in grub-install --recheck /dev/my/weird/device/name
+ MethedMan: I suspect there is no such thing as anonymous email.
+ DocPlatypus, MethedMan: you're right, I totally forgot about mixmaster chains.
+ Any help with my desktop search question? - I'm trying Unity and I wonder what's the desktop search engine it's supposed to use and how to configure it to find my interesting files. Any help or pointers?
+ MethedMan: Google tells me there's a mixmaster.el, but it's ancient.
+ Can Unity's dash search for anything but applications? If yes, how can I tell it where the stuff is that it refuses to go looking for?
+ Dr_Willis: no tracker/beagle like functionality anywhere?
+ Hmmmm, the files and folder search only seems to know about selected documents - I guess that's what Zeitgeist does. I thought Zeitgeist was something like beagle.
+ I'm using Firefox 4 (mozillateam-PPA) and lost flash audio since upgrading from maverick to natty (which reintroduced pulseaudio to my system). Is there a standard workaround for flash + pulse or is it just supposed to work?
+ Howdy, someone with knowledge of Unity terminology willing to help me write a better bug report for a Unity problem?

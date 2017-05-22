@@ -1,0 +1,85 @@
+ How's 11.04? :)
+ Cool. I'll be torrenting it soon
+ I probably won't upgrade just yet but I'll seed the torrent
+ I do want to upgrade however as the new kernel fixes a hardware bug for me
+ I predict a GNOME 3 Gubuntu derivative around the time of the next release.
+ Yeah Ubuntu_user
+ same ^
+ full install Ubuntu_user, separate partitions using the LiveCD
+ Ubuntu_user: nope, works fine. Although, after I installed ubuntu, the final character of all the passwords of user accounts on windows 7 were cut off, *no idea* how that occured.
+ Ubuntu_user: I never had it mess with my grub installation.
+ Ubuntu_user: yeah :( you can probably fix grub with a liveCD, these guys can help, I am not an expert
+ I'm going to use an old harddrive of mine specifically as an Ubuntu repository and seed them when I can
+ 10.10 is boss, good luck!
+ go to System > About ubuntu for information on the version
+ !es
+ That's what everyone has in the back of their head PovAddict: Gubuntu 11.11
+ Compiz is the window manager, Unity is the shell, to be more precise.
+ Ooh I didn't know what ohsix
+ Ubuntu will be Gnome 2 with Unity; the inevitably Gubuntu will be Gnome 3 :P
+ !offtopic
+ Andrey_BTI: what error do you get?
+ yeah most likely mickster0. Andrey_BTI, can you connect to it successfully via direct IP?
+ Andrey_BTI I actually had a similar issue and it ended up being a bug in nautilus. I'd make sure the workgroup is correct, the permissions on the share are correct, etc.
+ Andrey_BTI: if it worked fine, you didn't change any settings and it suddenly stopped working, it may be the nautilus bug I encountered
+ because I could use other file managers and it worked fine
+ Andrey_BTI : if you want to chat in russian
+ !ru
+ Are the earlier releases of Lucid. 10.04 and 10.04.1, available for download anymore or do they only host 10.04.2?
+ Are releases like 10.04.1, that have been superseded by 10.04.2, supported, or is only the most recent point release supported?
+ !Oneiric
+ This may sound strange but does anyone have torrent links for the old, unsupported versions like 4.10 and etc.?
+ This may sound strange but does anyone have torrent links for the old, unsupported versions like 4.10 and etc.? They seem to have been removed from the old-releases server, yet ironically the isos have not been. I don't want to hammer the server, I'd rather use the torrent.
+ adding >> in the terminal will append to a file right?
+ adding >> in the terminal will append to a file right? while > makes a new file?
+ thanks cached
+ tortoise: need to remove the dash
+ no it worked for me tortoise, without the dash. With the dash, 404
+ no idea tortoise
+ zoidfarb: perhaps removing the ubuntu-desktop metapackage, but I don't know if I can recommend that safely heh
+ zoidfarb: still there?
+ sorry for the delay zoidfarb, you can check out: http://www.psychocats.net/ubuntu/purexfce
+ Pascalcmoi: that's what this channel is for :P
+ pamela: before X starts?
+ or during
+ I was just going to suggest xinit
+ pamela: one moment
+ pamela: copy the xinitrc file in /etc/X11/xinit to ~/.xinitrc, that is the default file it uses if there is none in ~
+ then add your line
+ Pascalcmoi: did you install it from the software center?
+ hm. have you tried running it from a terminal to make sure it is installed correctly?
+ Pascalcmoi: run ratpoison --replace
+ not sure Pascalcmoi :( I do not use ratpoison
+ you'd need to kill your current wm and then run it
+ Pascalcmoi: I do not use ratpoison, the wms I use all support replace
+ Pascalcmoi: I need to leave, sorry :( hopefully someone else can help you
+ Is it save to upgrade from 10.10 to 11.04 if I have more than one desktop installed?
+ My laptop brightness is stuck on max and I can't change it, probably a similar issue
+ Ubuntu uses X Window for its window framework
+ They are planning on having Unity use Wayland but that is probably going to be after 11.10
+ edbian: I don't think 11.10 will use it
+ runlevel 1 is S?
+ yes
+ Can I resize a partition with the disk utility or do I have to use something like gparted?
+ ok thanks
+ !12.04
+ !onerious
+ !oneric
+ there. That's not an LTS, ^Phantom^
+ no ^Phantom^ it's the other way: alternating non-.10s so far. 6.06, 8.04, 10.04
+ so the release after 11.10 will most likely be 12.04 LTS
+ !cn | xyq
+ hi celthunder
+ SerialMDK: you need to specify a partition as /
+ SerialMDK: how many operating systems? Do you have windows installed?
+ and how many drives
+ Is it possible for me to have 2 separate installations of Ubuntu (eg. a 32-bit and a 64-bit) installed but share a list of users and use the same /home partition?
+ Yes Jordan_U. I was curious about the process. If I wanted to access the files of a different user in /home on the other installation, I'd have to manually provide the encryption key?
+ Jordan_U / cheapie please check my line :)
+ Jordan_U: essentially if it is possible to share a user list
+ Jordan_U: I know... just forget it :/
+ charles: alt+f2, run nautilus, then right click a folder and go to "Open With" and change the default
+ charles: that's strange... it's not listed on the bottom of the "Other Application" menu to remember it?
+ charles: I am on 10.10 so it may be different
+ freeman_: Unity uses gnome
+ if I want to remove all config files when I remove a program, I have to use purge, and not the software center?

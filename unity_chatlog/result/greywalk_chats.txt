@@ -1,0 +1,1 @@
+ hi. i specified manually a proxy server in the evolution settings, but it wont send messages through it. it just sends them using direct connection to internet. does anyone know what the cause may be? can it be related to the fact that the proxy i put requires authorization?

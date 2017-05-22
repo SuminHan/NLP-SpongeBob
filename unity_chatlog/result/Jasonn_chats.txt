@@ -1,0 +1,77 @@
+ How do I uninstall a program I installed through compiling?
+ armor-64: What day number is it today?
+ fosser_josh: #vuze
+ Anyone know how to start atheme services?
+ champ__: Do you have flash player installed?
+ champ__: Is it enabled??
+ champ__: And you are sure you dont have more than one flahs "player" installed?
+ champ__: go on the browser and type this in in the addr bar: about:plugins
+ champ__: Yeah, look for flash player, and make sure it is enabled
+ agronholm: Because there is a lot of people xD
+ agronholm: Yes, because many people dont bother installing another one
+ !enter literally_barry
+ !enter | literally_barry
+ sec_goat: This is the Ubuntu channel, we dont support Lubuntu
+ sec_goat: Nah, its alright mate, its just made by a different comany
+ Lopyshok: On your Ubuntu machine
+ ?
+ ZykoticK9: ??
+ What are the major updates in 11.04 from 10.10??
+ unity is a music player?
+ Oh
+ Anything else?
+ Buddhacz: Its updating, web browser unavailable D:
+ Buddhacz: What can I do to make my system fasteR?
+ !spam | jwtiyar
+ !abuse | jwtiyar
+ Buddhacz: I mean what can I tweak in the system to make it run faster, or make it use less CPU
+ jwtiyar: What is your main language (or the one that you understand the most) ??
+ Buddhacz: Web browser not working
+ Buddhacz: Can you send the link of how to make your comp use less CPU again, please and thanks :D
+ How can I make xubuntu use less CPU ??
+ less of my CPU **
+ xangua: How do I check if I have it on?
+ xangua: xD , what cmmand do I run, and what does the prog do?
+ xangua: Composite is off atm, anything else I can disable?
+ What can I remove in xubuntu to make it use less CPU, more specifically, firefox uses a LOT, can I maybe unload some crap in there?
+ sgaap: and is there anything other than firefix that I can take off my system to make it run better (the problem is the fans, they run SOO loud)
+ ZykoticK9: atm, I am not looking to install a whole new os on the system, plus I like the support Xubuntu gets, as opposed to lubuntu
+ sgaap: Where can I begin to troubleshoot? I mean, i turn my comp off at night and everything, so I dont see what the problem could be
+ ZykoticK9: Ill look into that, thanks :)
+ sgaap: There is definitely no dust or any physical problems,
+ sgaap: and what is a gpu?
+ sgaap: Ok, and how would I see what is wrong with that?
+ sgaap: Its really weird because I am sure there is nothing wrong with the airflow, in fact, my comp runs almost open, so it cant be that, but I have a dual core 2.8GhZ(per core) processor, 2.5GB ram
+ sgaap: The only one is a virtual device, and its at 60 C
+ sgaap: How do I fix that?
+ sgaap: Nope, only xubuntu
+ sgaap: no, but one is 0.96
+ sgaap: Am now installing something, and one is at 1.07, the other at 1.05 and the other at 0.97
+ sgaap: The system is not too old, its a thinkcenter from IBM, its like 4 yrs old
+ sgaap: Xorg
+ sgaap: software-center, and xchat
+ sgaap: Same on mine, just the spikes are really high, and I am talking system overall, and when the spikes happen, it goes REALLY loud
+ sgaap: How do I upgrade that?
+ sgaap: xD how do I check that?
+ ZykoticK9: sgaap Thanks :)
+ sgaap: ZykoticK9: 00:02.0 VGA compatible controller: Intel Corporation 82945G/GZ Integrated Graphics Controller (rev 02)
+ sgaap: Yeah
+ sgaap: Hm
+ sgaap: Fanless
+ sgaap: I can point to it, just dont know what its called.
+ !ot | PurplePuppies
+ sgaap: Case is the one pointing outside sucking air
+ ?
+ sgaap: Its the case one
+ sgaap: Yeah, there are 2 at the front, and just holes at the back, its both
+ sgaap: Ill clean it out and look at the bios
+ sgaap: Thanks a lot mate :
+ )
+ How do I find a folder
+ on the whole filesystem (Also subfolders)
+ How do I find a folder
+ on the whole filesystem (Also subfolders)
+ coz_: What is the default?
+ nothingspecial: Thanks :)
+ !bugs > Jasonn
+ How do I change the apache port?

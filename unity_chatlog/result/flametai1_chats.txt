@@ -1,0 +1,23 @@
+ Hey guys quick question, I upgraded from 10.04 to 11.04 but I don't have the fancy new menu, and launcher, how do I get this? lol
+ Anyone know how to at all?
+ o-o
+ Dr_Willis, there's only Ubuntu option o-o
+ Or Ubuntu classic
+ When I tried booting into the OS after the upgrade, it said my hardware wasn't capable of Unity? But I don't see why it wouldn't
+ Dr_Willis, When I tried booting into the OS after the upgrade, it said my hardware wasn't capable of Unity? But I don't see why it wouldn't
+ Dr_Willis, Aaaaaaaaaaaah okay, I was unsure if I did or not considering Compiz ran without it
+ Can somneone help me? I clicked on some house icon and now no window has a frigin bar to click on to move it around?
+ -.-||
+ Can somneone help me? I clicked on some house icon and now no window has a frigin bar to click on to move it around?
+ Hey can someone help me out? I'm having some major problems, I updated from 10.10 to 11.04 and the panels from 10.10 are still there and won't allow being deleted? Unity likes to glitch and the only way to get my computer screen to show up is by randomly hitting F keys (F1-12) on the purple loading screen or else it never loads.
+ osoba_, did you update from 10.10? =/
+ Can someone help me? =| Since I updated I've been having major problems =/
+ Blue_Opal, I prefer the Open office.
+ Ubuntu 11.04 won't work on my computer for some reason, won't go past the purple loading screen, can anyone help me out? o=-o
+ blackbit, no clue, nothing will come up other than the terminal
+ I mean nothing will come up other than the purple screen, sorry about that blackbit lol
+ I've tried bringing up a console but nothing works
+ m5d check sum or w/e works fine too
+ blackbit, yes it was an upgrade, I tried making a fresh install with 11.04 though using a USB boot but my computer won't even bring the install menu up for it.
+ Any idea blackbit?
+ blackbit, any idea why the installer wouldn't work then?

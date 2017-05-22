@@ -1,0 +1,5 @@
+ I am trying to install Gnome-Shell on a fresh Ubuntu 11.4 install but when I type sudo apt-get install upgr-desktop-g3 it gives me this: The following packages have unmet dependencies:
+  ugr-desktop-g3 : Recommends: gnome-themes but it is not going to be installed
+ Could anyone help me with  my problem
+ rigved,  let me find out. Also, i am following this tut http://www.unixmen.com/linux-tutorials/linux-distributions/linux-distributions4-ubuntu/1625-how-to-install-gnome3-in-ubuntu-1104-natty-via-ppa.html
+ rigved, my sources.list: http://pastie.org/1846993

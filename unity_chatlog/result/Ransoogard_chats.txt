@@ -1,0 +1,2 @@
+ Hello. I have an issue with trying to get Ubuntu to boot without text output after grub and before choosing my user account.
+ Specifically I think xsplash isn't working.

@@ -1,0 +1,15 @@
+ hi all. anyone noticed that in Natty, using the classical gnome, you can't drag items into the trash applet? The items are added to the panel instead of being trashed.. :)
+ anyone using gnome classic in 11.04? the trash applet is not working (can't drag icons on it)
+ hi all
+ I can't drag icons into the trash applet in gnome-classic. is it a knows bug?
+ known
+ rgr: I'm a user not a developer
+ but I will surely check it
+ rgr: do you mean ubuntu bug list, gnome bug list, trash applet bug list?
+ rgr: anyway, just for the records, I have been browsing the web about that for a reasonable while and I haven't found anything.
+ rgr: basically you can't drag any file to the panel, not just to the trash, because it is added to the panel instead of interacting with the relevant applet
+ rgr: how can I say?
+ rgr: I don't think so. the drag and drop interacts with the panel indeed, but the behavior is wrong. a shortcut is added to the panel instead of interacting with the applets that are on the panel itself
+ if you drag a file to the trash applet, you get the item added to the panel, and not trashed
+ hi
+ is anyone using gnome-classic in 11.04? there's a very annoying bug that doesn't let you trash items using the trash applet. Can someone confirm this?

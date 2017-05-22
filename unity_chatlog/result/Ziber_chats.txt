@@ -1,0 +1,94 @@
+ escott: where would i find that? slightly new to ubuntu.
+ In ubuntu, is there any way to sync all files between two folders? As in, I want them to be exactly the same, and they mostly already are. Rather than recopying everything, is there a tool to just recopy whats changed?
+ Ampelbein: hm, thanks
+ Devil999: rsync works, thanks tho
+ Huh. I'm on a live CD, installing ubuntu. Installer seems to be just sitting at 79%, not looking like its doing much
+ What should I do if my installer just seems to sitting at a certain percentage (in this case, 79%)... Seemingly not doing anything.
+ How long should "creating user" really take when installing ubuntu? Has been sitting at that in the installer for about 5 mins now.
+ Why would my install seemingly stop... installing and just sit at 79%?
+ escott: nope...
+ escott: Progress bar, 79%, "creating user..."
+ escott: I already have, came before it.
+ escott: no other window associated with it.
+ escott: where would i find that? slightly new to ubuntu.
+ If I have an ISO of 10.10, but nothing to burn it to... Can I somehow get it to boot from it?
+ renancoelho: no... i dont :( i know i could've.
+ and mine does.
+ renancoelho: I have the ISO, I need a way to boot from it without... having anything to install it on.
+ I'm not :(
+ Also, unrelated question, how can I set terminal to support UTF-8?
+ Jordan_U: Well, an older version of ubuntu because thats the only ubuntu CD I had.
+ I want 10.10
+ Jordan_U: 8.04, iirc.
+ Jordan_U: do-release-upgrade? just looks like it'll take forever.
+ Jordan_U: Coupled with the fact that I'm on a college network and the bw sucks here.
+ Jordan_U: How would I go about doing that?
+ I'm currently running ubuntu 10.04 lts. do-release-upgrade says nothings available?
+ maco: I want 10.10, how can I upgrade to that?
+ alright...
+ So, I get to the login screen and I click on my username. Sometimes it wont show the password entry form at all, and sometimes it does but wont let me type ...
+ So, I get to the login screen and I click on my username. Sometimes it wont show the password entry form at all, and sometimes it does but wont let me type ... Any ideas?
+ When I get to the login screen (and it takes a while to get there...), it sometimes wont let me type my password anywhere. Other times, it shows the password textbox, but wont let me type. Any ideas?
+ michaelschmid: Do you have a solution?
+ michaelschmid: ...How?
+ michaelschmid: How do I select that option?
+ michaelschmid: Hm?
+ michaelschmid: hm, alright
+ Alright, my GUI on ubuntu is messed up. I have a flash drive and an ubuntu 10.10 desktop ISO. From the CLI, how can I make the flash drive bootable?
+ Starminn: Well, I'm asking how to do that.
+ Starminn: I'm on ubuntu 9.04 lts, but the GUI isnt working...
+ Well, either that, or suggestions on how to fix my GUI... My login screen doesnt show me a password prompt, so I cant login.
+ Could try.
+ Using compiz with multiple monitors, is there a way I can rotate them independently?
+ My built in mic isnt working with ubuntu. Any ideas?
+ My built in mic isnt working with ubuntu. Any ideas?
+ What packages might I need to install to get a built in mic working?
+ New ubuntu user, 10.10, having issues with my built in mic... Anyone mind helping me?
+ New ubuntu user, 10.10, having issues with my built in mic... Anyone mind helping me?
+ !pulseuadio
+ !pulseaudio
+ So I had a lot of trouble with my audio working in ubuntu 10.10, now I'm trying to get my built in mic on my toshiba laptop to work. Is there a group I should be added to for this to work?
+ So I had a lot of trouble with my audio working in ubuntu 10.10, now I'm trying to get my built in mic on my toshiba laptop to work. Is there a group I should be added to for this to work?
+ could someone explain to me what pulseaudio is exactly?
+ Having a lot of trouble with my mic on skype on 10.10. Any ideas?
+ rileyp: Built in mic isnt working
+ rileyp: Where?
+ rileyp: "connection refused"
+ rileyp: thats what i did
+ rileyp: well, trying to reinstall
+ reinstalled, same issue
+ Is there a way in ubuntu 10.10 to use skype without making the audio stuff be via pulse audio?
+ !skype
+ how can i test my mic in ubuntu?
+ Anyone have mic problems with skype in 10.10?
+ With dual monitors, using compiz, I cant set it to use multiple independent cubes, can I?
+ With dual monitors, using compiz, I cant set it to use multiple independent cubes, can I?
+ :(
+ defeats the purpose, imho
+ So, anyone have any advice about my internal laptop mic not working with 10.10?
+ zachgretzinger: How?
+ zachgretzinger: Ah, thank you.
+ How can I show duplicate songs in Rythm box?
+ On ubuntu 10.10, I'm trying to get two monitors to work, in extended mode instead of mirrored. Ubuntu says that "x server doesnt support size requested". What does that mean and how can I fix it?
+ On ubuntu 10.10, I'm trying to get two monitors to work, in extended mode instead of mirrored. Ubuntu says that "x server doesnt support size requested". What does that mean and how can I fix it?
+ Is there a way in ubuntu to set a keyboard shortcut to move to the next open application?
+ escott: Well, I guess that does it. Thanks :)
+ nawk: If you can get used to that (connected cubes) its still useful, imho
+ Running 10.10, my laptop fan seems to be a bit louder than when I ran windows
+ At an interval of about 30 seconds, my computer fan seems to increase in volume and intensity, lasting for 2-3 seconds. Running 10.10... This has happened on most other linuxes that I have tried on this computer. Anything I can do about it?
+ So, my laptop (toshiba) is running extremely hot, at about 94C. Any ideas for fixing this?
+ packages?
+ Will it monitor it, or solve it tho?
+ Rather than installing more system monitor tools, does anyone have a fix for it overheting?
+ Alright, so I fixed the fan problem, now my sound (I'm listening to music) is scratchy every few mins...
+ Hm. So, my sound, on ubuntu 10.10, seems to be having an issue. My computer seems to be emitting some weird sound when a skype alert pops up...
+ On ubuntu, is there any way to group different windows of the same application together, like in windows?
+ How can I get the menu that allows me to chose standby, hibernate, shutdown, etc?
+ bastidrazor: No, ubuntu 10.10.
+ Anyone here familiar with skype on ubuntu 10.10?
+ Having a problem sharing my screen...
+ Would anyone be able to venture a guess as to why skype makes my laptop run really hot (~90C) but is fine otherwise?
+ ubuntu 10.10...
+ Would anyone be able to venture a guess as to why skype makes my laptop run really hot (~90C) but is fine otherwise (ubuntu 10.10)?
+ How do I configure wlan0, on ubuntu 10.10 to connect to wpa2/aes wifi?
+ How do I configure wlan0, on ubuntu 10.10 to connect to wpa2/aes wifi?

@@ -1,0 +1,8 @@
+ hi room
+ why is my ubuntu so slow after upgrading?!?
+ guntbert: after upgrading to 11.04 i have to unplug my USBmous after boot and plug it in again, so it works and my internet connection is very slow, file copy too
+ GreeNtooTH: will it ever be stable and will the errors ever be fixed? or is my whole installation broken now?
+ guntbert: yes, wlan atheros chipset (pci)
+ guntbert: i had no problems before upgrading to 11.04
+ so question is now, whether i should wait for the fixes to appear or whether i should install my system again.
+ when i'll have to reinstall because of "upgrade is not stable" i will not install ubuntu again

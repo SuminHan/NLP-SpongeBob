@@ -1,0 +1,25 @@
+ hello everyone
+ im with problems with ubuntu and windows 7 grub loading already posted here
+ http://askubuntu.com/questions/38201/grub-problem-with-windows-7
+ im with problems with ubuntu and windows 7 grub loading already posted here http://askubuntu.com/questions/38201/grub-problem-with-windows-7 , if anyone can help would be awsome \o
+ im with problems with ubuntu and windows 7 grub loading already posted here http://askubuntu.com/questions/38201/grub-problem-with-windows-7 , if anyone can help would be awsome \o
+ anyone can help me about grub  with ubuntu and windows 7 please ?? im desesperate
+ anyone can help me about grub  with ubuntu and windows 7 please ?? im desesperate
+ http://askubuntu.com/questions/38201/grub-problem-with-windows-7
+ Caly: ... im looking for solutions... really ...
+ no, i had windows 7 installed, everything perfect, now i installed ubuntu 11.04 on a diferent partition, but same disk, ... when i log on grub now, i cant use windows, it just goes back to grub
+ how i check that Kevin`  ?
+ ok
+ just a min man
+ Kevin`:  no i choosed the option run windows 7 with ubuntu together
+ here it is Kevin`
+ http://paste.ubuntu.com/601023/
+ Kevin`:  what u want me to do ?
+ Kevin`:  dont show nothin
+ Kevin`:  sorry im noob :)
+ Kevin`:  http://paste.ubuntu.com/601029/
+ Kevin`:  but dont, i just click windows 7 to load up and ig ends again in grub manager ...
+ ok so what i do ?
+ Kevin`:  ok so what i do ?
+ Kevin`:  just tell me what to try and i do it
+ Kevin`:  but you mean when i load grub ?

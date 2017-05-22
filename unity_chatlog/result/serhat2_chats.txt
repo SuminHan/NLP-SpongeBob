@@ -1,0 +1,2 @@
+ Hi. I am using Ubuntu 10.04, and I accidentally wrote "sudo rm -rf /var/*" and pressed enter. I had used sudo recently so it didnt ask for a password either, and the command ran for about 10 seconds till I woke up: )  So, How do I prevent executing commands like "sudo rm -rf /*" or with /usr/*   /var/* etc..  even with sudo ? thx..
+ is there a way to prevent that kind of misdeletion with SELinux or something?

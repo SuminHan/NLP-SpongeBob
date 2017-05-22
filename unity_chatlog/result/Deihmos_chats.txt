@@ -1,0 +1,8 @@
+ why woul di have wireless durig live cd but after installation there i sno wireless
+ i thought ubuntu was fast. this is really slow
+ is there a way to install the wireless drivers from the cd?
+ it is trying to download drivers instead
+ does the new interface have hardware acceleration? it is really slow
+ so at the moment there is no hardware acceleration?
+ notebook has an ati card. windows is really smooth with it
+ this is weird. wireless worked with the live cd but now i instaled and cannot get wireless working. tried enabling the drivers and got an error

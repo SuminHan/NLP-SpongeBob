@@ -1,0 +1,13 @@
+ Hi! Please help me!
+ I have an error, here it is http://paste.ubuntu.com/601786/
+ Please tell me how to fix!
+ zvacet: cannot update or install anything else :(
+ root@ubuntu:/var/lib/dpkg/updates# rm *
+ rm: cannot remove `0000': Input/output error
+ rm: cannot remove `0001': Input/output error
+ rm: cannot remove `0002': Input/output error
+ rm: cannot remove `0003': Input/output error
+ rm: cannot remove `0004': Input/output error
+ Dr_Willis: I using Ubuntu on liveusb
+ Dr_Willis: I also use this usb as flash devices on windows
+ Adobe Reader :3

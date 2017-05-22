@@ -1,0 +1,41 @@
+ I'm trying to upgrade from 10.04 to 11.04, so I have to first upgrade to 10.10, but I get the error E:Error, pkgProblemResolver::Resolve generated breaks. How should I fix this?
+ Is anyone else updating from 10.04 to 11.04?
+ Rather, is there any way to disable third-party packages temporarily?
+ zvacet: what do I select now?
+ zvacet: I don't have any of those
+ zvacet: it said that might be the problem for "E:Error, pkgProblemResolver::Resolve generated breaks" but I guess that's not it
+ zvacet: I get the same error :(
+ zvacet: yep
+ zvacet: actually, I'm on Lucid Lynx
+ 10.04 lts
+ zvacet: I'm trying to update to 10.10 so I can then update to 11.04
+ zvacet: nope
+ ZykoticK9: I've already changed the setting to let it go to 10.10
+ (non-lts
+ )
+ zvacet: I have a netbook, so I can't use a CD
+ DasEi: let me see
+ DasEi: that's just the normal update manager
+ DasEi: I know how to upgrade
+ but now it's saying it's a release candidate
+ it says 10.10
+ DasEi: that was to you :P
+ zvacet: I'm trying to.
+ DasEi, zvacet: I've already set it to do that. I pressed the button to upgrade to 10.10. That's what's giving me "E:Error, pkgProblemResolver::Resolve generated breaks."
+ DasEi: yes. I've installed all the latest updates.
+ DasEi: I'll try
+ zvacet: what does that do?
+ oh ok
+ I get the error "E:Error, pkgProblemResolver::Resolve generated breaks" during the second step of upgrading. Any ideas on how to fix it?
+ DasEi: what's single mode? I've already repaired broken packages. and how do I choose another server? :P
+ How do I remove or unhold "held packages?" It's preventing me from upgrading
+ bastidrazor: thanks, I'll take a look
+ bastidrazor: except it doesn't say how to find out which packages are being held. do you know how to do that?
+ How do I find out which packages on my system are being held?
+ bastidrazor: I can't upgrade my system and a message pops up saying that an error is being caused likely by held packages
+ I found a forum post saying that if I remove xserver-xorg-video-nouveau, but I don't know if that'll be bad for my system; how can I tell if the package is being used?
+ I just updated my netbook to 11.04 but now I'm dropped automatically in the command line without going to the graphical login screen. How do I fix this?
+ phed: "fatal server error: no screens found"
+ phed: how should I fix it?
+ phed: I'm trying your first suggestion
+ phed: the first one works, I think :)

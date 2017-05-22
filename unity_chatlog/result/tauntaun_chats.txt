@@ -1,0 +1,6 @@
+ Is there anyway to encode a DVD onto my ipod using Rhythmbox?  If not, can another application do it?
+ Is there anyway to encode a CD onto my ipod using Rhythmbox?  If not, can another application do it?
+ In other words, is there something like iTunes for Ubuntu?
+ Well I have Rhythmbox running, but I have no sense of where to find a 'rip' command, like the 'encode' of iTunes.  Any ideas?
+ OK, I've figured out how to copy a track from CD to Rhythmbox's Music folder.  Now how do I get it into my iPod?
+ (...I've tried a number of things, none of which work.)

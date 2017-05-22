@@ -1,0 +1,2 @@
+ if an upgrade fails, where do you look for the error logs?
+ Stereocaulon_: thanks.

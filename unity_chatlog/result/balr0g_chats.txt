@@ -1,0 +1,8 @@
+ hello guys, can anyone bring me some help on Update Manager and apt-get: look this image from Update Manager: http://imagebin.org/151407 and this pastebin form apt-get: http://pastebin.com/KfkhSYyh i already tried googling this, but i found solutions not good looking as uninstalling tar! please help guys!
+ cheapie, i think tar will be needed to install tar!!
+ cheapie, i dont like this... why do you think is tar problem? did you see the image from Update Manager i posted?
+ cheapie, what about Update Manager, i went to apt-get after failing on Update manager (GUI boy ;))
+ cheapie, i dont want to unistall tar, how to install it again? i will reboot and try apt-get first of any other package manager and see if i got the same issue, brb...
+ cheapie, also will be looking at that.. brb...
+ hello guyss, cheapie are you there? what is happening to me? look this: http://pastebin.com/YMyCNLzt
+ =(

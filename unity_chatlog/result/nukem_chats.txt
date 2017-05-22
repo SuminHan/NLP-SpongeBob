@@ -1,0 +1,20 @@
+ i am looking for linux distro that asks for root password during  installation
+ why doesn't ubuntu ask for root password during ubuntu installation
+ Dr_Willis  then what distro ask for root password during installation
+ dr_willis i don't like distro that disables root
+ drwillis what is the diffrence between lockeddown and disabled
+ dr_willis   i cannot directly login as root:  is this ubuntu-only thing?
+ i refuse to use ubuntu for this reason then
+ coz can i log in as root  after setting root password
+ then why did drwill said no i cannot
+ ikonia  what do you mean i don't know these things: i know how to use root
+ ikonia  because it's usually asked during  installation
+ ikonia i hate sudo model with a passion
+ what is last version of ubuntu to NOT use "sudo-model"?
+ i refuse to use  sudomodel
+ is ubuntu 1 cd distro or 1 dvd distro?
+ gnea it wasn't yes or no question
+ gnea it can be only one or the other
+ how big is ubuntu dvd  all 4.7 gigs?
+ gnea then what is  cd for
+ is it possible to enable/disable identd on user base  meaning  user1 = disable identd   user2 = enable identd on same box

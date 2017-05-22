@@ -1,0 +1,11 @@
+ Arch ftw.
+ Sledge: first install ccsm
+ Sledge: unity settings are under desktop
+ Sledge: run ccsm and click on the destop category on the left hand side
+ Sledge: then click ubuntu unity plugin
+ Sledge: then use the hide launcher dropbox to change from dodge windows to never
+ Sledge: welcome.
+ phunyguy: sudo apt-get install irssi
+ phunyguy: then why mention it?
+ hellobyebye: Xmonad
+ jebus wept

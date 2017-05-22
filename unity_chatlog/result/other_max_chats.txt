@@ -1,0 +1,8 @@
+ hey guys, can anyone tell me how to install ubuntu on a non-ubuntu linux netbook (no CD) with arch linux on it?
+ or even how do i make an image for USB to boot a linux machine, can't find that on the site
+ cdavis: i tried, but i can't find a way to put the image on a USB if i don't already have ubuntu
+ cdavis: ah yea, tried tht with the last ubuntu version, didn't work (just wouldn't do anything when i started it) but thx i'll try again with 11.04
+ how is 11.04 so far?
+ i'm all for a new desktop. kde stinks, gnome not much better. windows and mac desktops barely better. time for change.
+ actionparnsip: i use awesome wm on my arch netbook right now
+ ruan: not yet

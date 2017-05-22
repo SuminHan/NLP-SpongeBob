@@ -1,0 +1,2 @@
+ hello, i'd like to change from kde to unity, can i use the same documentation as when one would switch from kde to gnome?
+ Did anyone manage to install xbmc? installing by adding de ppa etc does not work for me, could anyone point me in the right direction?

@@ -1,0 +1,2 @@
+ Hi, can i install x86 linux driver for my graphic card on ubuntu 64bit?
+ david8732 thank you

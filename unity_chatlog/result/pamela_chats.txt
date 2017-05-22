@@ -1,0 +1,8 @@
+ could someone please help me figure out how to run a terminal command at startup every time i boot?
+ i start conky with a terminal command due to the theme im using with it, i just want it to startup with my system
+ celthunder, im looking for step by step help please, im a little new to this
+ celthunder, im sorry, but that doesnt really mean anything to me...
+ mk``` after boot, once everything up, i just want to send a terminal command automatically
+ celthunder, i appreciate your help but could you please assume im going to ask "how" after everything you say...?
+ celthunder, i typed "nano ~/.xinitrc" and i have a black file  looking thing
+ celthunder, and there is nothing in it

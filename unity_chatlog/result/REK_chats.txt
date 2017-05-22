@@ -1,0 +1,16 @@
+ Since I didnt get a answer on the forum can anyone help me with this http://ubuntuforums.org/showthread.php?t=1748893
+ Daekdroom: Already done it on thread
+ Daekdroom: Guys whenever I leave my PC idle for 20-30mins the screen turns off and the power light flickers but it doesn't turn on no matter what . I always have to hard restart when that happens . And on restart I see what ever work was left to be done on the desktop like UPDATES or DOWNLOADS had been working well just the display was giving problems .
+ Dr_Willis: Is it helpful cause Ubuntu forum never has turned helpful towards my problems the IRC at least has helped me sort out problems
+ Dr_Willis: Guys whenever I leave my PC idle for 20-30mins the screen turns off and the power light flickers but it doesn't turn on no matter what . I always have to hard restart when that happens . And on restart I see what ever work was left to be done on the desktop like UPDATES or DOWNLOADS had been working well just the display was giving problems .
+ this is the problem
+ and i have disabled all power saving
+ coz_: can you tell me exactly where your talking about then I might be able to check
+ coz_: says command not found
+ coz_:  now what do i do .. just check for power saving stuffs?
+ coz_: its already disabled ... the box is not available for tick ot untick
+ or*
+ coz_:  thanks anyway :)
+ Daekdroom: Guys whenever I leave my PC idle for 20-30mins the screen turns off and the power light flickers but it doesn't turn on no matter what . I always have to hard restart when that happens . And on restart I see what ever work was left to be done on the desktop like UPDATES or DOWNLOADS had been working well just the display was giving problems .
+ can you help me mate?
+ Halzen: Thanks I was looking for a kernel update only

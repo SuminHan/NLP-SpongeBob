@@ -1,0 +1,4 @@
+ hey guys, i need to install 10.04 on a machine with no cd or usb boot support
+ yaaaa that aint an option
+ i want to try to pixiboot type thing/
+ ?

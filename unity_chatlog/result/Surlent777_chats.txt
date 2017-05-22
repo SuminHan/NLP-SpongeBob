@@ -1,0 +1,16 @@
+ hey guys, just had a quick question: I changed the GTK theme in Natty, and I notice most themes create an unsightly black triangle in the resizing corner. Any known way to eliminate that?
+ zapradical: it should take whatever theme you give it in the options. I think it should ship with three or four by default
+ OchoZero9: sudo lshw | less
+ bkerensa: that's just the way it is. Everyone and their mother is upgrading today
+ bkerensa: I understand they're keeping it for now but intend to eventually discontinue it, but don't quote me on that
+ bkerensa: possibly, but that won't be supported forever, and does work just fine in Natty
+ bkerensa: Just choose Ubuntu Classic at the login screen
+ bkerensa: the discontinuation, if any, would occur in future releases. Natty itself will remain unaffected
+ xsinick: some things are being dumped. If you don't like the changes, choose Ubuntu Classic from the login screen. Problem solved.
+ ohsix: Fair enough. I forgot that.
+ Herbs: it was, but now it's significantly less so
+ armor-64: on the login screen, choose Ubuntu Classic Desktop. That will revert the changes
+ xsinick: Yes. Use ccsm (the compiz configuration tool) and look under the unity plugin, icon scaling
+ armor-64: log out, then on the login screen, at the bottom, it'll say "Ubuntu". Click that, and choose "Classic Desktop" or the closest thing to it.
+ Herbs: Why bother complaining about how terrible it is in a support channel when you don't use it and can't even make a coherent case? Complain in #ubuntu-offtopic, the bugs listings, or just drop it before someone gets annoyed and calls for a ban
+ Herbs: you, by posting them in a public forum

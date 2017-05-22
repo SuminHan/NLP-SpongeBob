@@ -1,0 +1,5 @@
+ I am using gnome-shell. When I search for applications, specific applications are listed. How do I add an app (custom script) to that index?
+ tried putting it in /bin and restarted session, but that didn't help
+ ActionParsnip: How do you make a launcher in gnome-shell?
+ ActionParsnip: Or unity for that matter?
+ ActionParsnip: THANK YOU!!!!

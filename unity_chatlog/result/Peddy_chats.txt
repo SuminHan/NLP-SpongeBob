@@ -1,0 +1,1 @@
+ how can i view a 'dynamic' version of dmesg that updates are the kernel displays new messages?

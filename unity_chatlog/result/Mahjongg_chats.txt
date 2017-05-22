@@ -1,0 +1,18 @@
+ hello, I'd like to record a pronounciation from google translate. how can I record it?
+ how can I record some audio that is already playing on my system?
+ how can I record some audio that is already playing on my system?
+ should I wait some more to upgrade to natty? production workstation here...
+ ActionParsnip, like around a month's time?
+ ActionParsnip, actually I recently upgraded to maverick from LTS, and I am punching the walls that I made that decision. LTS was perfect... Now I am having sleep probelms... Would natty be better with respect to sleep wake up stuff?
+ ActionParsnip, I see. I'll probably go and install LTS again
+ hello, how do you get the system preferences user preferences menus in unity?
+ Dr_Willis, that only takes me to power preferences?
+ hello, how do you get the system preferences user preferences menus in unity?
+ hello, how do you get the system preferences user preferences menus in unity?
+ hi, apply button in synaptic does not become active after marking the items under residual config as complete removal
+ !unity
+ when using unity, is there a way to get a list of running applications, similar to task lister in gnome applets?
+ xangua, launcher?
+ xangua, oh the panel on left. No some of them don't appear there
+ xangua, try xchat with iconize on close enabled
+ liked unity a lot! it needs bug fixes though...

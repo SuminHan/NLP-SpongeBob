@@ -1,0 +1,11 @@
+ Weird issue when I boot my system. It starts up, get the purple ubuntu screen .. and then nothing for like 1 minute, and then it boots & I get login screen ... :s any idea's ?
+ phibxr: 01:05.0 VGA compatible controller: ATI Technologies Inc RS880 [Radeon HD 4290]
+ mmm :)
+ lilo = prehistoric ...
+ hihihi100: you can enable it :) its the 'addon bar' :)
+ KitB: and what if you wait a minute? Seems like i have same issue here :(
+ KitB: have a black screen for like a minute @ boottime, and then it boots .. weird shit
+ KitB: after upgrade (coming from 10.04)
+ Did have a kernel softlock also :(
+ rsnapshot       ALL=(ALL) NOPASSWD: ALL
+ rsnapshot       ALL=(ALL) NOPASSWD: ALL => If I have this in sudoers, rsnapshot should be able to run sudo command without giving the password right ?

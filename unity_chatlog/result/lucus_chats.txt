@@ -1,0 +1,6 @@
+ escott: Is it necessary to do an fsck at every boot? can't this be tuned? I remember Hardy took over 2 minutes in similar situations, but every 30 boots or so
+ hi... wanted to ask if it is worth migrating to btrfs at this stage
+ escott: was thinking about all those goodies about subvolumes and compression. Seems a good scenario for dualbooting and installing other distros on the same partition. Is it very unstable at the moment?
+ escott: LOL!!! You got me...
+ escott: to be completely honest I did an install. Have 3 subvolumes at the moment. @32 @64 @home. Works fine, only booting takes ages...
+ escott: Is it necessary to do an fsck at every boot? can't this be tuned? I remember Hardy took over 2 minutes in similar situations, but every 30 boots or so

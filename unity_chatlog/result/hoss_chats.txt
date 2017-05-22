@@ -1,0 +1,1 @@
+ Can someone tell me how to make compiz-fusion run automatically?  As of right now I have to run the icon and then reload the window manager every time I boot.  I know that I can put the icon in the startup list but will I still have to reload the window manager?

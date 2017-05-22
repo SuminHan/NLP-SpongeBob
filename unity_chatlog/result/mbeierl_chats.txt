@@ -1,0 +1,37 @@
+ OfficiallyPC: ffmpeg can, but I find Handbrake to be more flexible
+ Augustuen: "nice" is a way to make programs yield the CPU to other programs ... to be "nice", but if there's nothing else going on, it will still use 100% cpu and make it hot
+ subcool: is there already a display running on ":0" ?
+ rubydiamond: that unfortunately depends on your ISP or network provider.
+ subcool: try changing :0 to :1
+ rubydiamond: I cannot answer where as it comes from your network.  Do you use DHCP or is your address statically assigned?
+ keithtoo1: thanks... I suddenly have to run, can you continue with rubydiamond, please?
+ anyone familiar with Arista?  I can't seem to tell it which title I want to rip from the DVD
+ anyone know how to boot the natty iso from grub2?  I've tried unetbootin and manually entering it into grub2 and both give me errors about loading the kernel first
+ there's a unity 3d?  like the compiz cube concept on unity?
+ is it possible to configure workspace switching in unity to react to mouse events?  For example, I use mouse wheel up/down at the edges to flip the cube face in compiz.
+ Dr_Willis: was that controls factoid meant for me?
+ does iphone tethering work in Natty?
+ sorry - iphone 4 tethering
+ multipass_: where the iphone is used as a cellular modem for the attached os.  over usb
+ vega: it works with a PPA under maverick.  I have found confirmed bug reports of it not working in natty with no recent progress so was not sure if it was a beta issue or still there
+ Logan_: yep, that's the one. looks like that a big no, thanks!
+ Logan_: doing that now, thanks!
+ broot: I don't understand the question.  Do you mean you have 10.10 installed on a hard drive and you want to use the 11.04 live CD as the boot loader?
+ broot: then, yes it will work
+ broot: the boot loader is actually completely independent of the release itself and can be mixed and matched
+ Cajun_Lan_Man: actually, you can ditch outlook and AD.  there's evolution, or thunderbird with davmail, and for ad, look at http://www.likewise.com/products/likewise_open/
+ Cajun_Lan_Man: you cannot manage it from the AD server itself ... via remote desktop?
+ Cajun_Lan_Man: define "maxes out internet" ... like a bit torrent?
+ Cajun_Lan_Man: but what are you doing on the ubuntu machine to trigger it?  Simply running ubuntu by itself won't cause that behaviour...
+ Cajun_Lan_Man: http download... hm.  that is extremely odd.  who administers the sonic wall and the network?  Are there policies set that the windows machines honour but your ubuntu machines don't (like dhcp hostname registration or something)?
+ Cajun_Lan_Man: you /could/ set a traffic shaping policy on the ubuntu box that restricts downloads to 80% of the known bandwidth... look up wondershaper... http://lartc.org/wondershaper/
+ Cajun_Lan_Man: and without wondershaper, do you get more than 16kB?
+ Silekonn: you can use the same /home partition, but I would recommend using different /boot and / partitions if you are going to install ubuntu (gnome) and kubuntu (kde) as individual bootable operating systems
+ Silekonn: the reason is that the software updates will happen for one and might not be consistent with the other.  keeping boot and root distinct avoids any possible conflicts
+ Silekonn: although the suggestion to install both the ubuntu desktop and kubuntu desktop in the same installation is good.  it is only the log in screen that would be slightly different.  from there when you log in, it will be identical
+ Silekonn: I would keep boot separate if you want the two installed on separate roots.
+ Silekonn: you are welcome.  That is a lot of partitions though.  it is possible to have /boot on the same one as / (as in don't make a separate boot partition) and reduce your management that way
+ Silekonn: you're welcome.  enjoy!
+ I am caught between releases of Ubuntu.  I can not really use 10.10 as I keep getting display issues (see screenshot at http://ubuntuforums.org/showthread.php?t=1672749), which is resolved in 2.6.36 + kernels, but I can't use them because iphone tethering is broken.  Anyone have any suggestions?
+ nerdshell: scp -r
+ llutz: beat me to it :)

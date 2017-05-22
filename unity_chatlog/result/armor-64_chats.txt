@@ -1,0 +1,23 @@
+ actionparnip:thnks man
+ hi guys i need a an information,the realese about ubuntu 11.04?
+ actionparnip:thnks man
+ hi guys i want to remove the sidebar from ubuntu 11.04!i don't know how to do it,please help
+ surlent777: thanks man
+ and one question how to do this?
+ thanks guys for the help!i find it,i needed this so much see ya
+ can someine tell me how to hide the sidebar on ubuntu 11.04?please help
+ no i mean hide it foreve
+ Metaxa : Yes,i want to use Ubuntu classic without it
+ Metaxa : yes to see if it change my setting on the top bar
+ Metaxa : OK
+ Metaxa : have you found anything?
+ Metaxa : hmmm......i was using classic edition so far,ichange to ubuntu (normal to see if there will be changes)and now it have stuck in ubuntu classic,can i hide it somehow and use the top and bot bar as in ubuntu 10.10?
+ Metaxa : no it's ok man thanks for the help,it seem i will format becouse i hate it,are you using it anyway?
+ Metaxa : xaxaxa nice, thanks again!see ya around
+ Metaxa : i found the solution,whana hear it?
+ Metaxa : if someone dont like it he have just to type (sudo apt-get remove unity)that works for me,and now i am using ubuntu classic version without the side bar!
+ Metaxa : gnome3?i haven't hear of it....what's that?
+ hi guys a have a problem with the ubuntu and the ATI VGA,somehow when i installed the drivers for the GPU ,ubuntu startet to glitch ,i remove them becouse i hate to work on my pc like that,can i keep the default ubuntu drivers?
+ hi guys i need help,i have problem with the ATI VGA(drivers)can i keep the default Ubuntu drivers instead
+ hi guys i need help,i have problem with the ATI VGA(drivers)can i keep the default Ubuntu drivers instead
+ does evrybody have problem with the ATI drivers in ubuntu 11.04?

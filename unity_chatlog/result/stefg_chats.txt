@@ -1,0 +1,218 @@
+ OvidiuZeicu: gksudo nautilus will give you a file-manager with superuser privileges. Where do you want to save your files to?
+ mtlife: not by the nvidia driver, only by nv or noveau (the open source ones)
+ OvidiuZeicu: sudo rsync -av /media/damaged_drive/ /media/good_drive
+ mtlife: i don't know. to use unity you'll need the nouveau driver (which is somewhat 3d capable). nv is fine for the classic desktop. But given that a entry level nvidia card is about 20$/Euros you should consider replacing your card if you really want unity
+ !natty
+ step21: get an alternate CD via torrent and use that as an upgrade source..... or even better: wait 6 weeks until the bugs are ironed out :-)
+ step21. if you did your last update 2 days ago you should be on release level. Except unimportant timezone updates there wasn't much happening yesterday and today
+ !ubuntuone
+ Killyou: feel free to contribute and run your own mirror :-)
+ phoenixsampras: restore the backup you made before upgrading
+ ssav: login as your user, get root by 'sudo su -'
+ ssav: so you lost all your login data, but want to remote-enable root access ? .... I think there would be much interest in a way to that ...
+ escott: there's a difference : sudo su - gets you root, with all consequences, sudo -s just gives you a root shell .... try 'gzip </dev/some_device >image.gz' ... won't work with sudo -i , but works after getting root with sudo su -
+ llutz: does it? on debian it won't
+ cordoval_: why can't you just start over?
+ cordoval_: Ahh.... bad timing for a power outage... dpkg --configure -a
+ cordoval_: i think you should save your files from the hosed upgrade and do a fresh install...
+ jake_ : might be related to ipv6
+ !ipv6 | jake_
+ !pm | jake_
+ jake_: read ubottu's factoid
+ jiltdil: I#d wait 6 weeks and do a net-intsall
+ laumonier: how much ram?
+ jiltdil: ubuntu has never been good at getting releases ready ..... they release at the given date, not when it's /really/ fit for a relaese
+ laumonier: stick with 32 bit. your rm is precious, and adobe flash is tricky in 64 bit
+ laumonier: 64bit only makes sense on servers and with >4G ram
+ jiltdil: that's my belly speaking, i have no particular reason to advise that. Regarding the 32 vs. 64 bit question: if you do lots of number crunching (video encoding) 64 bits might pay off, but for a standard desktop system 32-bit with pae will be more convinient
+ loseweighttttttt: servers overloaded
+ damiano__: check for zombie processes... killall lighthttps, then 'service start lighthttpd'
+ vanguard: backups are never a bad idea
+ RAMPKORV: sudo service stop gdm3
+ !upgrade
+ pumeust: because you won't notice the nano-second the process is doing its work, and then put again to sleep by the scheduler :-)
+ Fixo: unity requires working 3d acceleration
+ pumeust: which is plain wrong.... most o fthe time the appplication is idling (sleeping) waiting for input
+ mmiller235: you need virtualbox 4.0.6 and the 4.0.6 guest-tools installed. Nattys xserver is pickky...
+ mmiller235: hmmm ... works for me
+ mmiller235:Vbox's 3d acceleration might have trouble with your hosts graphics driver. what videocard/driver do you use?
+ mmiller235: so running classic/ 2d still gives you crashes?
+ mmiller235: let me try what happens i i disable 3d for the natty guest...
+ mmiller235: just tested natty  in 2d... switched through some themes and resized the desktop... no crashes.
+ mmiller235: greetings from captain obvious :-) the art is finding out what it is :-\
+ mmiller235: i run 10.04/nvidia as host and an updated natty beta one isntall as guest.
+ mmiller235: i'd go to the VBox Forums. i could imagine that an OSX host has a completl different set of problems than a linux or windows host
+ mmiller235: have you tried to locate and download a prebuilt guest?
+ !clone
+ !info ia32-libs
+ Samsagax: get 'wrong architecture'? use "the force"!
+ TerryBook: you don't :-) options are considered to be too confusing
+ TerryBook: there is ccsm which is a somwhat hackish way to do some configuartion... but the general idea is: take ir or leave it (and facing the possibilty that more users don't take, but leave)
+ bashelina: even 10G will be enough
+ chotaz: if you plan on suspending your machine you need at least your ram size (plus some) . for the average modern machine (which rarely swaps) 1 G is usually enough
+ mordof: ou can probably fix it from the lice CD if you are able to chroot into the installed system
+ mordof: can you mount the installed system on the Live CD environment?
+ mordof: so where have you mounted it?
+ alien-007: what type of file system is that?
+ alien-007: so it's likely a hfs+ partition...
+ alien-007:sudo mkdir /media/foo; sudo mount -t hfsplus /dev/foo /media/foo
+ mordof: if you can mount the file system you can chroot to it. this makes it possible to reinstall grub from within the chroot'ed system
+ mordof: you should read dmesg
+ mordof: often there's hints in this why you can't access a filesystem
+ mordof: is your installed system mounted now?
+ mordof: so where is it mounted ( ls /media )
+ mordof: get a terminal and type 'ls /media'. i think the real mountpoint is some lenghty number dir in /media
+ mordof: so cd to that dir
+ mordof: when you are at the root of the installed system you need to bind-mount /proc /sys and /dev, and then chroot into it
+ mordof: if you did not -bind-mount /dev it's useless
+ mmiller235: in case you are still interested... i've build and exported a natty appliance which works on my box... you can d/l that at http://ubuntuone.com/p/pEp/
+ Actually that might be useful for anyone running virtualbox: Premade natty appliance (with 3D and unity)  at http://ubuntuone.com/p/pEp/
+ ChessTeach: you can (and should) use software raid (mdadm). the real question is: why would you want it?
+ ChessTeach: no gains to be expected. Transfer rate is nothing versus access time. This won't help. all you get is a statistically doubled risk of data loss
+ ChessTeach: rather look into lvm... you can still stripe volumes over physicl disks, but the real adavntage is manageability
+ ChessTeach: bios raid or (proper) mdadm raid is actually the same, only the means are different (the CPU is doing the processing anyway). Bios raid is for dumb OS's which don't have software raid, you don't need that in linux. But either way: raid0 on desktop systems isn't worth it. you pay a price for nothing. you might get a bit more transfer rate, but the real limiting factor is access...
+ ...time. consider a SSD if you are a speed junky
+ ChessTeach: rather do a clever partition layout and use lvm. having /var and / on different spindles helps a lot
+ Barsuk: i'm tempted to give you the !best factoid, but in this particular case handbrake wins hands down
+ !best | barsuk
+ truepurple: https://bugs.launchpad.net/ubuntu/natty/+source/fglrx-installer/+bug/745723 and https://bugs.launchpad.net/ubuntu/+source/fglrx-installer/+bug/709505
+ !info ccsm | al_cell
+ al_cell: there is tehe compiz config settings manager ... don't know why the renamed it or where it got stuffed away.
+ !info simple-ccsm
+ there we have it
+ truepurple: i did not read thru the whole bug report... i just wanted to make you aware of google-fu. 'ubuntu natty fglrx build failure' spit these links out. Since you were able to track down the issue, you should be able to find out what applies to you and what not :-)
+ truepurple: it is obviously *not* above your head. you managed to pastebin the exact right log... http://www.webupd8.org/2011/04/amd-ati-catalyst-114-released-just-in.html might shed some more light on that
+ truepurple: unfortunately i don't know the package names for the ATI stuff. sudo apt-get autoremove fglrx-installer might be worth a try
+ truepurple: and check in /etc/X11 ... if there is a xorg.conf then rename or delete it.. After a reboot you should have the situation before you installed the proprietary driver, then you can start over and install the open source one
+ truepurple: google-fu, 2nd part: "ubuntu natty fglrx uninstall" turns up https://help.ubuntu.com/community/RadeonDriver
+ cpoulsen: doesn't gdm remember your last choice?
+ virgilivs: /sarcasm: Now you spend the time in endless mouse travels to the global menu and clicking 5 times just to start an application. /sarcasm off
+ pfarrell_: have you tried setting up a udev-rule ? http://www.bhagwad.com/blog/2010/technology/alps-synaptics-touchpad-configuration-in-lucid-lynx-ubuntu-10-04.html
+ pfarrell_: http://askubuntu.com/questions/14178/how-to-disable-touchpad-on-dell-latitude-e-series-e5510-e6510 here you have
+ Laibsch: My first cheap attempt would be  "sudo dpkg-reconfigure lvm && sudo update-initramfs -u -k all" in the hope that lvm becomes aware again of the encrypted volume and writes that to initramfs
+ Robert__: and you have set the machine to boot from , say, CD first and have mounted an ISO image to the virtual CD-drive?
+ Robert__: you'll need to add a controller... but i think you shoud re-read the vbox docs. it's getting offtopic for the ubunut support channel
+ Robert__: http://www.virtualbox.org/manual/ch03.html#settings-storage will explain the details. offtopicmeans that this is the ubuntu support chat, and your virtualbox question isn't really ubuntu-related
+ Robert__: the link i gave you points to the online manual of virtualbox... and then there is the dedictaed channel #vbox
+ pfifo: to get that 60's feeling?  .... i'd rather ssh into that box
+ Susanna: using unity?
+ Susanna: I'd resort to 'classic'. Seems that the (oh so resource-friendly, 3D-needing) new desktop overstresses  the capabilities of you hardware
+ _Neytiri_: the Desktop installer does not support raid-installs. you either need the alternate CD or make a single disk install and migrate that to a raid array later.
+ _Neytiri_: what do you want to do specificaly?
+ phunyguy: have a look at your indicator applet ...
+ olabandola: first wind out what make and model it is. lspci / lsusb will tell you that
+ .mastro: either get an ubuntu preloaded one from companies like system76 or (in case you live in a country they don't deliver to) consider a thinkpad R/L/T-series... it's the de facto standard
+ olabandola: wait a sec...
+ olabandola: i guess the avagotech device is it
+ mastro: right
+ olabandola: but it could as well be the wlan. Tell about the hardware: what make/model, is the WAN-Adapter internal or is it a stick?
+ olabandola: https://wiki.ubuntu.com/HardwareSupport/Machines/Netbooks#Compaq%20Mini%20700EL makes me optimistic... does normal wlan work out-of-the box?
+ olabandola: give me dmesg to pastebin and read http://ubuntuforums.org/showthread.php?t=1008200
+ olabandola: http://ubuntuforums.org/showthread.php?t=1008200 has all the info. Sorry, no pm
+ mastro: i don't know. i just wanted to let you know that a lot of developers run thinkads, there is huge community support for them so its the most hassle free notebook to run linux on.  Lenovo is quitting the R-series, maybe you can find one on sale
+ gac: that explains it. grub and the bios seem to disagrre wht the boot drive is
+ gac: didn't you just say you added a sata drive for the install?
+ gac: i see... so the ubuntu installer/grub never saw mor than one disk?
+ gac: are you on Live CD now?
+ gac: what you could try is booting the Live CD, chroot into the installed system and reconfigure/reinstall grub
+ gac: Right, but you try to figure out what the problem is first... look at /etc/grub/default and /boot/grub/grub.cfg .... analys waht grub takes as environment and so on.
+ gac: is there some kind of "virus protection" enabled in the bios which prevents write access to the boot sector?
+ gac: i'd first try reinstalling (and verifying) grub to the disks mbr
+ Ultimate_Chaos: Create a new user for testing purposes and try if the problem is the same with a fresh account
+ ot! | adsDSDSFSFSFAEEF
+ !ot | adsDSDSFSFSFAEEF
+ mrtadis: that looks like the kernel isn't finding its root filesystem
+ !grub | linusasus6
+ linusasus6: so you have a maverick (10.10) install, and that is controlling grub2, right?
+ Helsinkiii: 10.04 is still a worthy (and recommended) install option... add some mozilla-stable and libreoffice ppa's und yyou have what you want
+ OwenLA7QZ: right click on a .pdf file and choose options. Select acroread as default
+ OwenLA7QZ: chrome/chromium uses nautilus' default
+ trollboy: it's called global menus and there is a way to get rid of that nonsense
+ OwenLA7QZ: My second thought is: it might be a system alternative My (guessed) command : sudo update-alternatives --config x-pdf-reader
+ !pm | OwenLA7QZ:
+ OwenLA7QZ: it was guesswork. Meanwhile i checked it myself and did not find that update-alternatives changes the default pdf reader
+ OwenLA7QZ: and another thing is: it is not ubuntu. hell knows what the developers of your dstro did, so there is no guarantee that things woorking in ubuntu work in a derivative as well
+ !rsnc
+ !rsync
+ Captain_Haddock: hint: --update
+ Captain_Haddock: man rsync :-)
+ Captain_Haddock: and often forgotten: /usr/share/docs/rsync
+ Captain_Haddock: so you /don't/ want to update existng files, but add newly created ones?
+ Captain_Haddock: i'd use rdiff-backup ... sort of time-machine'ish backup for the cli
+ vaxinated: syntax error in line #1
+ rcmaehl: uname -a
+ Primedeath: CPU-wise you should be fine, deppends on how much ram you have. Official PPC support was dropped after 6.06, so i don't know how good the community port of later releases is
+ Primedeath: you will certainly have issues with things like flash and hardware support
+ Primedeath: yeah, sounds reasonable. If you have around a gig of ram ii'd try a 10.04 install, and hunt down some ppa-repos for things like firefox and stuff
+ !ssh
+ !fsck
+ !fsck > kill_joy
+ trailoryo: there are known bugs with fglrx in natty. Try the open source driver
+ trailoryo: http://askubuntu.com/questions/33092/how-well-do-ati-drivers-work-with-unity
+ !pm | trailoryo
+ trailoryo: that has nothing to do with unity, the problem is with the version of xorg in natty and fglrxx don't play well together
+ !classic
+ paulm9: more likely in #ubuntu-server than in here :-)
+ Pricey: looks like a firmware (loading) problem
+ Pricey: do you know what kernel module is used for that?
+ Pricey: yeah ... ath5k...  have you tried to rmmod / modprobe -r the module and then modprobe it back in again? Does dmesg tell you anything?
+ Calinou: look at wget -c :-)
+ Guest27469: it's called backupfs .... only requires user intervention every night :-)
+ sss314: make sure to have a valid backup... there is no downgrading, so if you hate 11.04 you'll have to reinstall 10.10
+ !backup | sss314
+ iceroot: because upgrades break more often than they work...
+ sss314: depends how much time you have... if you have a working upgraded box: perfect.... if you fear first spending time an bandwidth on an upgrade, but reinstall anyway after everything broke, then reinstall. and make sure to cover your line of retreat.... 11.04 has its rough edges, so make sure you can revert
+ iceroot: afraid of the truth?
+ zizban: glad it works for you... so you obviously belong to the target audience
+ zizban: debian with lxde for them
+ !mount
+ !fstab
+ !fstab | user82
+ user82: you could, but there are reasons to use fstab
+ miceiken: i had this, too with some server installs form CD... unsolved bug, praise the ubuntu quality assurance
+ miceiken: it starts te installer from a ramdisk and d/l's all the packages directly from the repos. you only d/l what you want, and you have the newest version
+ miceiken: in the process  you will get a task selection. you can either choose meta-packages (like ubuntu-desktop) or even individual packages
+ !minimal
+ np
+ BotenAnna: this most likely means that your 3D acceleration does not work
+ !libata
+ blargg:   https://wiki.ubuntu.com/LibAtaForAtaDisks
+ BotenAnna: virtual machines usually do not have hardware 3D. Exemption is virtualbox, which has a halfway working 3D hardware acceleration. In fact i'm typing this on a natty virtualbox VM with unity
+ BotenAnna: what does lspci | grep VGA spit out?
+ !classic | dagon
+ BotenAnna: ok, so sudo at-get install nvidia-current, then reboot
+ BotenAnna: that's  apt-get , of course
+ BotenAnna: ls /etc/X11/xorg.conf
+ BotenAnna: so does nvidia-settings (the Nividia Control panel) work ? if so the driver is enabled, if not the driver is installed, but somehow not active
+ BotenAnna: hmmm... so you should have working 3D
+ BotenAnna: what happens if you open a terminal and 'compiz --replace' ? (Caution, machine might hang)
+ !apt | DSpair
+ BotenAnna: you have a dual screen setup .... i heard there are issues with unity on dual screen. try to disable one screen and see if it works
+ BotenAnna: to have window borders gain try 'metacity --replace &'
+ !pinning | dwxreaper
+ miceiken: /etc/network/interfaces
+ !it | Under97
+ OY1R: if you plan on raid or lvm: yes , other wise there's little use
+ !classic | eiriksvin
+ OY1R: not really necessary... it won't hurt
+ !classic | MarkSS
+ miceiken:  define "screen gos black" no login prmpt, no MOTD ?
+ stefg: hmmm... might be plymouth getting in the way. does it still happen when boot to recovery ?
+ mpeddi: i don't know, but you could browse the known bugs or report one
+ !bugs | mpeddi
+ miceiken: i'd recommend a LTS version for server use anyway (or install debian squeeze staright away ...)
+ !LTS | miceiken
+ !debian | miceiken
+ miceiken: you'd need a different mini.iso ... one from debian
+ miceiken: or for a 10.04.2 LTS you'd need a mini.iso for that
+ !lucid | miceiken
+ ghostnik11: only upgrade if you have a complete and tested backup of your current install, that can easily be restored. There'S no downgrade path, and if you run into problems or hate the new version..... you either have to reinstall or restore the backup
+ !backup | ghostnik11
+ ghostnik11: look at clonezilla
+ !clonezilla
+ iceroot: the other important one is:"Don't fix it if it ain't broke" ... i wish the ubuntu-dev's would listen to that
+ miceiken: do you have a CRT (monitor) ? it might get out of sync.
+ Ringish: no backup? no dice!
+ miceiken: you problem is called plymouth
+ !plymouth
+ miceiken: you cant uninstall plymouth completely, but you can uninstall all themes....

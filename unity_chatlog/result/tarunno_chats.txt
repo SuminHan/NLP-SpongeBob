@@ -1,0 +1,12 @@
+ Hello guys
+ happy release to all
+ I have a question
+ I read the Cannonicals official blog earlier
+ they said there won't be any netbook version in 11.04
+ but I can see a torrent file for 11.04 in Ubuntu site
+ why is that?
+ ActionParsnip, which two?
+ ActionParsnip, in this page it shows a torrent file for downloading "ubuntu-11.04-netbook-i386.iso" http://www.ubuntu.com/download/ubuntu/alternative-download
+ ActionParsnip, which seems like a deadlink
+ ActionParsnip, I use the mirror hosted in my country
+ ActionParsnip, I download the ISO from mirror and then share that in our local tracker to BitTorrent it ;)

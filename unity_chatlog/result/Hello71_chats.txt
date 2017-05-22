@@ -1,0 +1,19 @@
+ Anyone know whether the upgrade is cached?
+ n-iCe: Well, if it doesn't have a 64-bit processor, it won't work. In addition, your video card may take up part of the addressing.
+ Anyone know whether the packages downloaded during the upgrade are cached?
+ Soothsayer, ohsix: Are they saved in /var/cache/apt/archives?
+ zamN: Yes.
+ zamN: Install the deb?
+ !packages
+ !packages
+ !help
+ !xyproblem
+ zamN: What do you really want to do?
+ ...
+ Vorenii: Open Terminal and type in gksudo gedit /usr/share/empathy/empathy-chat-window.ui
+ !xy
+ soreau: Ubuntu is on a fixed 6-month release schedule.
+ naiden: Try vim.tiny.
+ cc11rocks: Try java -jar...
+ diemos: Hold Super and rotate the mouse scroll wheel.
+ PovAddict: ?

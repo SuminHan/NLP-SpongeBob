@@ -1,0 +1,3 @@
+ Hey
+ Anyone know if it's possible to recover data from a harddrive with a broken NTFS partition from a ubuntu liveCD? My friend accidentally plugged out the power from his sisters computer as windows was doing a service pack update...
+ Well, he says that it tells him to format the harddrives to use them. Know any tools or it?

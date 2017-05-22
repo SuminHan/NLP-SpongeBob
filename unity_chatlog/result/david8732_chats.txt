@@ -1,0 +1,43 @@
+ Depends on what you wanna do.
+ @xgates The biggest problem was browsers when 64-bit first came out.
+ Plugins werent compatible with the 64-bit versions
+ but that's barely an issue now
+ yup
+ It's got a slight performance advantage
+ 64-bit flash was working pretty well last time I tried it. You can run the 32-bit version with a compatibility layer.
+ If anything acts up
+ maybe you dont have enough video ram for that resolution.
+ @kneaux Only if you changed hardware. If you just upgraded, that would be bizarre
+ @kneaux, I would make sure the graphics driver being used is the right one...
+ !!!
+ @kneaux I had that happen
+ @kneaux check the connection to your monitors. Maybe do a power-cycle on them
+ @kneaux and reconnect them. They might be detected incorrectly
+ @kneaux damn. =/
+ @escott, yeah that's probably the case
+ @kneaux try 'lsmod | grep flgrx' in the console
+ Ohh that.
+ @Greensky there's an 'update' option on the CD.
+ It didnt always work for me, though. On my laptop, it was unavailable.
+ @virunga No. :/
+ @Sonjaaa I think that's an option in the BIOS on most computers...
+ Sonjaaa, If i understand correctly, I think you need to disable your motherboard's graphic adapter.
+ I have a question about Libreoffice actually.
+ What's the major difference between it and OpenOffice? And is it more compatible with .pttx and .docx?
+ @omega Sweet. I had Openoffice screw up a powerpoint for school. :/
+ @omega I had enough paranoia to boot Win7 and check it on Office 2010
+ @omega I still had to re-do most of the slides, though. :/
+ So I was looking in ccsm... Unity basically doesn't work without compiz?
+ nerox, click the power button on the top right, go to system settings.
+ Keyboard shortcuts.
+ @nerox: scroll down and look for Alt+F2 under the shortcut column
+ oh
+ @ner0x its 'show the panel's "Run Application Dialogue vox
+ @nerox under the desktop category
+ @ner0x might want to intall ccsm and change the compiz settings, then
+ sudo apt-get install compizconfig-settings-manager
+ ^was @ner0x
+ @ner0x it would be under the Ubuntu Unity Plugin i think
+ Nawk: compiz
+ There's a 'unity plugin' for compiz installed.
+ I went into ccsm and screwed with compiz's settings. How do I get it so that Unity isnt crazy?

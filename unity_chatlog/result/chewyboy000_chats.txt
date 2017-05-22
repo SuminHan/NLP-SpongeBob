@@ -1,0 +1,12 @@
+ Hi
+ Hi
+ Im updateing yo version 11.04
+ Go to Ubuntu Soft Ware center an type "flash"
+ Hey
+ Ge
+ Hey usent
+ If you want wubi you have to go to google and search wub i10.10 and select the surgeforce link
+ yes
+ there is an error from wubi on ubuntu.com
+ i used wubi from ubuntu.com and it said "failed to get files"
+ proto: thats the problem im having

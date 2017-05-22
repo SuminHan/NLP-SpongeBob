@@ -1,0 +1,6 @@
+ hi everyone i have a question is there a filesystem like ntfs for linux that dont have file permissions blocking from use on other computers for me the ntfs driver seems to be slow
+ hi everyone i have a question is there a filesystem like ntfs for linux that dont have file permissions blocking from use on other computers for me the ntfs driver seems to be slow
+ can anyone help filesystem with no permissions like ntfs but native linux
+ hi every one i have a problem i lost power half way through my upgrade to 11.04 from maverick and ive tryed to use the disk to upgrade it but it says i already have 11.04 and i cant get the system to boot up even in recovery  have a lot of stuff on there and cant afford to lose it any help would be appriciated
+ anyone help with my problem above please
+ how can i do a repair install of 11.04 my network install was interupted and i cant afford to lose my stuff

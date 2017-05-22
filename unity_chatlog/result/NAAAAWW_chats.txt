@@ -1,0 +1,11 @@
+ yt
+ My computers batery last longer in windows then in Ubuntu (Linux) Why is that?
+ Why does ubuntu drains my batery ? :(
+ I get about 5-8 hours on windows and 3-6 hours on ubuntu :(
+ Does anyone know any way to get longer standby time in ubuntu... Like disable wlan, bluetooth etc
+ I'm going to reinstall my Linux install and use Wubi to install Ubuntu, Witch version of Ubuntu is the best?
+ What is the diffrence between Ubuntu and Ubuntu Netbook? Does a acer laptop with 500 gb harddrive, 4 gb ram, 1.3 gb Pentium Dualcore processor run best with ubuntu or ubuntu netbook?
+ okey, and what is the diffrence?
+ Okey, I will download ubuntu 11.04 - desktop ... with Wubi :)
+ Thanks for your help :)
+ Cya

@@ -1,0 +1,2 @@
+ how come i cannot move program window from one monitor to another ( dual display function ). i'm usting ubuntu 10.04 and i have compiz enabled
+ arand, by whom? compiz ?

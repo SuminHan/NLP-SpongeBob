@@ -1,0 +1,2 @@
+ Which package provides tab completion for various utilities in the shell? Vanilla Debian doesn't do that
+ Jordan_U, thanks!

@@ -1,0 +1,3 @@
+ anyone can tell me how to configure vsftpd configuration file. i tried so many combinations but i still can't find the solution for my ftp server
+ anyone can tell me how to configure vsftpd configuration file. i tried so many combinations but i still can't find the solution for my ftp server
+ anyone help me in vsftpd ftp server

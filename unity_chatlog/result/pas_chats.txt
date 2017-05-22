@@ -1,0 +1,3 @@
+ I have install ubuntu 11.04 - new istanlation with cable internet... now don't run the wi-fi
+ I have install ubuntu 11.04 - new istanlation with cable internet... now don't run the wi-fi .. how i doing?
+ Broadcom 802.11 Linux STA wireless driver don't run

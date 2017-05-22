@@ -1,0 +1,3 @@
+ problema iso ubuntu 11.04
+ 11:04 iso installation problem stops, but nothing I tried different iso pc works perfectly I also made ​​a test with an old iso of ubuntu 9.10 and that works perfectly
+ qualcuno parla italiano

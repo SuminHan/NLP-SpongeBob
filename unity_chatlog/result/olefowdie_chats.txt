@@ -1,0 +1,3 @@
+ Hello all, has anyone got a bootable USB stick working with Macs?
+ like all of the ways Ubuntu/Canonical says work... do not work, nor do things that I would imagine should work.
+ I can boot from external CDROM, but trying to boot from a USB stick never works, at least not if I want persistence.

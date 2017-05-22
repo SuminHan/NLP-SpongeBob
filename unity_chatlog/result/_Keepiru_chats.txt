@@ -1,0 +1,9 @@
+ good morning
+ i have a wierd problem..... gnome "hangs" ..... if i do anything like "moving cursor" the system hangs, and comes back after a while. top shows me migration/0 and migration/1
+ consuming between 66 and 360% (wtf) cpu
+ Soothsayer: drag and drop
+ Soothsayer: just drag the icon out of "internet" in the startbar
+ Soothsayer: i thought you met a start-icon. there is the "state" located
+ how do i switch the glx module with tne nv-module? there is no modprobe.conf. o_o
+ i cant get it running properly again. damn it.
+ i just run an update to 11, and if this works, i disable ALL updates.

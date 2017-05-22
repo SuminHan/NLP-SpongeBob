@@ -1,0 +1,6 @@
+ compiz-gnome doens't work )-:
+ how install I Gnome 3 on Ubuntu 11.04 ?
+ is ppa good, rach0 ?
+ ok i see
+ I understand it, rach0
+ When I open URL (http) for her, than i see the startpagina for firefox, how can that?

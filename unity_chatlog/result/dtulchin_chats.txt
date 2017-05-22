@@ -1,0 +1,29 @@
+ i have a question, after upgrading to 11.04, my compiz options for edges are gone...i try to install simplecompiz and it tells me i cant .... (options for effects like minimize all screens, see all desktops, etc.)
+ i have a question, after upgrading to 11.04, my compiz options for edges are gone...i try to install simplecompiz and it tells me i cant .... (options for effects like minimize all screens, see all desktops, etc.)
+ i removed unity desktop dui
+ *gui
+ i'm trying to get edges to work...
+ anyone know how to get edges to work in ubuntu 11.04 without unity?
+ is there a way to fix ubuntu 11.04 from the live-cd?
+ is there a way to repair ubuntu 11.04 from live-cd?
+ all the packages
+ during upgrade...possible that packages got damaged
+ my internet fell
+ during the upgrade
+ yes
+ everything loads fine...for some reason my sources.list didnt get updated
+ nit-wit: my sources list didnt get updated
+ nit-wit: any ideas?
+ is there a way to fix 11.04 completely?
+ i can run command line
+ yes
+ nit-wit: yes
+ nit-wit: it failed during the downloading of the upgrade
+ nit-wit: i then restarted it and finished
+ nit-wit: when i boot from the cd, i get options: try ubuntu, and install ubuntu...nothing about repairing ubuntu
+ nit-wit: i am running a damaged 11.04
+ nit-wit: thats dissapointing
+ nit-wit: so my only other option is to reinstall an entire os?
+ duckx0r: is it a desktop or laptop?
+ duckx0r: have you recently upgraded anything in your computer?
+ duckx0r: try a different usb port

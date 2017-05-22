@@ -1,0 +1,15 @@
+ nite everybody
+ hi everybody
+ somebody use 3 monitor with 2 gpu on ubuntu?
+ somebody know how configure 2 gpu and 3 monitor? i will install natty, but i dont know about that :(
+ somebody know how configure 2 gpu and 3 monitor? i will install natty, but i dont know about that :(
+ somebody know how configure 2 gpu and 3 monitor? i will install natty, but i dont know about that :(
+ escott: i have 2 ati, in a mainbord asus rog formula IV
+ escott: 3870 and 4850 ati
+ robert05ad: i read about bad on ati supporting linux, i dont use crossfire, and i dont need it, i will not gaming on it, but i use 2 gpu for use 3 monitor
+ robert05ad: but when i try it on maverik i becoma mad with it and came back on win7, but i love natty on my netbook and i want use on big pc
+ escott: thanks but i dont care about crossfire, i only want 3 monitor in mutliscreen
+ escott: acicula i read about it, cinerama on maverick wont work :( but i read to start 2 xconfig with single card everytime , and copy on 1 after all that
+ acicula: thanks i save it, and i will try after i download the dayly natty, im a "newbie" but i really love use ubuntu also in desktop pc
+ acicula: im downloading the daily of 27/04 i guess is the same of official of today
+ nite everybody

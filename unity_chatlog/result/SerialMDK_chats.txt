@@ -1,0 +1,33 @@
+ anyone here help me with a problem?
+ anyone here help me with a problem?
+ i try to install 11.04 and get a black screen
+ iidk i tried 32 bit and 64 bit
+ several cd's and flash drives
+ all black screen
+ no one can tell me why install black screens?
+ ~>lcb<~ yes an iso and tried from flash drive 32 and 64 bit
+ ~>lcb<~ i click install to hdd and it goes black
+ ~>lcb<~ im not that stupid...
+ ~>lcb<~ its like 3 down in the list when i boot the cd
+ ~>lcb<~ universal usb loader
+ ~>lcb<~ that still dont explain why cd's wont work
+ ~>lcb<~ i tried both, burned through like 10 blank cd's so far
+ ~>lcb<~ no i downloaded it new everytimg
+ ~>lcb<~ i think the flash drive is screwed and i have tons of cd's so i dont care
+ ~>lcb<~ i had 9.1 and tried to upgrade to 10.02 and that failed too
+ ~>lcb<~ i did dl from ubuntu.com
+ ~>lcb<~ is it possible my ~>computer<~ just wont run it?
+ ~>lcb<~ it still black screens using unetbootin
+ ~>lcb<~ im installing on a desktop
+ i have a reset switch
+ ~>lcb<~ cmos?
+ lbc, i have a switch that clears it without removing battery
+ ~>lcb<~
+ ~>lcb<~ ok ill try it
+ lcb
+ can anyone tell me how to load a video driver with an 11.04 install?
+ anyone got a minute to help a linux noob?
+ having a problem on install i pick the partition to use and it says no root file system is defined
+ mk'' and where it says device for boot loader installation what do i pick?
+ i installed 11.04 along side win 7 and i dont get grub
+ any one help me with that problem?

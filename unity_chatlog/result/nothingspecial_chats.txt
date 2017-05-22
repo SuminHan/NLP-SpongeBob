@@ -1,0 +1,7 @@
+ azi`: select classic ubuntu at login
+ azi`: then turn it off, in the system settings when you click your username - top right
+ middle click on the icon
+ To open a new instance in unity
+ helo: no, to enable all indicators type this <gsettings set com.canonical.Unity.Panel systray-whitelist "['all']">
+ helo: that will do it :)
+ Jasonn: find / -type d -name 'name_of_folder'

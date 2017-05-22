@@ -1,0 +1,10 @@
+ usr13, ummm whay did you do to my pc
+ whay
+ what.....
+ usr13, how do I get out of what you put me in
+ yes
+ restart gdm?
+ sorry I'm rusty as heck with ubuntu.... been over a year sorry
+ usr13,  ok now how do I get connected with my ssh
+ usr13 the whole reason I'm here was to try and connect my phone to my pc via ssh
+ !quit

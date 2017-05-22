@@ -1,0 +1,2 @@
+ Ubuntu 11.04 doesn't support NVidia graphic cards? I get "This driver is activated but not currently in use" error on GeForce 7025. Fixes from google (reinstalling all drivers) don't help.
+ Ubuntu 11.04 doesn't support NVidia graphic cards? I get "This driver is activated but not currently in use" error on GeForce 7025. Fixes from google (reinstalling all drivers) don't help.

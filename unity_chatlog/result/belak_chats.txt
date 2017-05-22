@@ -1,0 +1,13 @@
+ Is there a way to remove memtest and the recovery kernel from the boot menu?
+ Let's not start an editor war...
+ cheapie: yeah, especially since nano actually has syntax hilighting
+ cheapie: personally I like vim. It's amazing, but the learning curve sucks.
+ cheapie: http://unix.rulez.org/~calver/pictures/curves.jpg
+ Is there a way to remove memtest and the recovery kernel from the boot menu?
+ Ah, ok
+ Thanks!
+ I see disable_recovery bit I don't see anything for memtest
+ Ok, thanks
+ Ah, I just set 20_memtest -x
+ ZykoticK9: nice timing. :P
+ There's an abi change with nouveau... and there's a different package that I think needs to be installed?

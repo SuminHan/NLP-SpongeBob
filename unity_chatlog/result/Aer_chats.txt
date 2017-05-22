@@ -1,0 +1,12 @@
+ Hi, just have a quick question if no one minds :) I dual boot Ubuntu 10.4 with Windows XP and from all the updates my grub menu has got quite long now lol
+ is there an easy way to clean up my grub menu and remove old kernels I no longer need to save space and shorten the grub list ?
+ i already tried that zvacet :s then i ran soemthign like "sudo update-grub2"
+ and restarted and nothing changed :(
+ should i not use "sudo update-grub2" after removeing old kernels ?
+ ok thanks
+ ill try it now
+ hmm ok
+ ill give it another try then
+ ok i just removed the older kernels is there a command I can use to view my grub list without having to restart ?
+ ok thanks
+ it worked thanks guys :)

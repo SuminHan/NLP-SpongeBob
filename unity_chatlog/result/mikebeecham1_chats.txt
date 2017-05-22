@@ -1,0 +1,1 @@
+ Hi guys...I've removed the recommended nvidia drivers, rebooted and now I have no display. I can get into ttyl...can anyone help me get display back?

@@ -1,0 +1,2 @@
+ haha natty fail
+ "after your package information was updated, the essential package "ubuntu-minimal" can not be found anymore"

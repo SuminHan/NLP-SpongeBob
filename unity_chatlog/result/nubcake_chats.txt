@@ -1,0 +1,4 @@
+ any ideas why i cant install vmware server (stuck at: What is the location of the directory of C header files that match your running
+ kernel? [/usr/src/linux/include]) i keep getting told: The path "/usr/src/linux-headers-2.6.35-28-server" is an existing directory,
+ but it does not contain a "linux" subdirectory as expected.
+ anyone?

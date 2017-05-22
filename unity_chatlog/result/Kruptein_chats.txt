@@ -1,0 +1,11 @@
+ It has probably been asked a lot,   but what are possible solutions to improve my performance but sticking to unity?  I really notice a larger difference in speed compared to 10.10
+ It has probably been asked a lot,   but what are possible solutions to improve my performance but sticking to unity?  I really notice a larger difference in speed compared to 10.10
+ is it fine to install the 2.6.39 rc4 headers in natty?
+ or will it cause problems ? (never update my kernel manually)
+ sebsebseb, ActionParsnip well  I read on the ubuntuforums that my slow internet connection is the cause of the 2.6.38 kernel and that I should either upgrade or downgrage
+ my internet connection was fine in 10.10  and in windows 7 (dual boot) also,  but since I upgraded to natty it is terrible slow
+ sebsebseb, ActionParsnip well I have upgraded already :D so would downgrading be dangerous?
+ I'm defintly not the only one who notices this speed issues
+ Hey does anyone know where to set your router mode to b/g instead of n  with dlink? :D
+ some people suggest that natty has problems with the n setting
+ I'm just going to install the 2.6.39rc4

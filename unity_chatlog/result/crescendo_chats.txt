@@ -1,0 +1,5 @@
+ my window manager is crashing amid the upgrade, and it's just resizing the windows over and over. halp?
+ (I'm basically typing into an oscillating Xchat window right now.)
+ metacity --replace
+ I've had to kill compiz during the upgrade, it was stuck in a loop -- now how do I start metacity to gain access to my windows again?
+ n00b.

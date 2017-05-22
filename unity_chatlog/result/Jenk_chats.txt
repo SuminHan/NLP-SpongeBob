@@ -1,0 +1,14 @@
+ Would somebody point me to the md5 hashes of Natty ? https://help.ubuntu.com/community/UbuntuHashes hasn't been updated.
+ What/Where are the md5 hashes of Ubuntu 11.04 (Natty) ? https://help.ubuntu.com/community/UbuntuHashes hasn't been updated.
+ Could someone explain the output of ls -l , in this case, "-rwxrwxrwx 1 root root 67548"  ?
+ llutz, Thanks for the help. How can I change the owner and group to my account ?
+ llutz, It didn't help... The file permissions are still the same.
+ llutz, That too is the same... How come ?
+ llutz, Doesn't work. It's 'fuseblk' .
+ llua, Is 'fuseblk' a Unix fs ?
+ Dr_Willis, Thanks for that...
+ llutz, Alright, I'll transfer it to a Linux fs and try again.
+ llutz, It works ! It works !! Thank you, thanks a million ! :)
+ iggyology, You mean Ubuntu installed on a thumb drive ?
+ iggyology, Please, sir. Your a bit too loud.
+ iggyology, Any progress ?

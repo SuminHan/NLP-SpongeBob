@@ -1,0 +1,22 @@
+ Hello people. I just ran the upgrade to 11.04 from 10.10. First thing I'm noticing is that X just froze. I'm not sure how to resolve it. Is this a common issue?
+ I'm chatting from console now with irssi
+ jiltdil: I mean, I run irssi as my IRC client, as X doesn't seem to work
+ I have only ran the upgrade to 11.04 and now X doesn't work
+ If nobody has any idea - how do I kill X so I can reinstall my NVIDIA driver - because it's still running, just not working
+ Thanks
+ MEh. The NVIDIA driver doesn't even install on Ubuntu 11. Nothing seems to work except console
+ I will probably end up rreformatting and install 10.10
+ tripelb: yea, I had big trouble with the upgrade to 10.10 too. No X and no audio
+ ohsix: where is it located
+ ohsix: thanks
+ Alright. Renamed it to xorg.conf.old. Now it's reboot time
+ Amazing. It worked. Just have to fix multiple monitors, then get on to whatever other problems there may be
+ snopp
+ The problem I had was that Xinerama doesn't seem to work in Unity
+ So I'm using Twinview, but full-sceen apps don't work so well
+ ohsix, when playing games in Fullscreen, I get a fullscreen across two 16:9 screens, which isn't so pretty
+ :D
+ But I'm not really doing it much, so
+ ohsix, aye
+ I hope it does Geforce 210 well
+ bah, I hate when Unity's window buttons disappear so you can't move or close your program

@@ -1,0 +1,1 @@
+ how can I use sed to delete a line that is <?somethingsomething /> in a html document?

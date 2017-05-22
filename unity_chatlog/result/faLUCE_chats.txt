@@ -1,0 +1,2 @@
+ I created a shared directory with swat. I created it by accessing swat http server with root user (if I access with myuser I cannot create a share, therefore I used root). Now: I can make the shared resource accessible to all, without a password. How can I configure it in order to be accessible only for the users which have permissions to the directory, so that remote login is required?
+ hi. how can I encrypt a samba share?

@@ -1,0 +1,17 @@
+ anyone know how to enable visual effect in Natty? that option is missing from System->Appearance
+ anyone know how to enable desktop effects in natty / classic?
+ it used to be under Preferences->Appearance
+ I'm trying to pin an application to the system tray in unity, but when I logout and log back in, the application disappears from the system tray
+ any ideas what's going wrong?
+ in natty/unity (unatty?), apps aren't staying pinned to the Launch (i.e., I r_click, Keep in Launcher, logout, login, and it's gone)
+ any ideas?
+ I'm unable to pin apps to the Launcher in unity, anyone else having this problem?
+ Monotoko: I right click, choose "Keep in Launcher," logout, log back in, and it's gone
+ Monotoko: am I missing something?
+ Monotoko: update
+ Monotoko: from 10.10
+ Monotoko: good idea
+ using natty/unity release, apps won't stay pinned to the Launcher. I right-click, choose keep in Launcher, logout, login, and it's gone. I formatted and reinstalled, same problem. it doesn't matter whether I'm logged in as a normal user or as root, same problem. Any ideas?
+ anyone else unable to pin apps to the Launcher in Unity/Natty?
+ is it possible to remove the mail icon in the natty/unity system tray?
+ is it possible to change the shortcuts in the unity dash? or are they hard coded?

@@ -1,0 +1,4 @@
+ hello
+ txomon, A_J what?! I just said hello :D
+ a quick question: which package does contain the Natty's battery applet? I need to report a bug on it but I don't know package name....
+ vish: yeah, the problem is that I see TWO lines with battery info and then "Preferences" when I click on the icon :) so... it's a  gnome-power-manager bug or a indicator's one?

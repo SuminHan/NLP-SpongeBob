@@ -1,0 +1,9 @@
+ I wondering about the stability of wubi with Windows 7-64? The last time I tried it was with Windows 7-32 and it did not go well
+ I ended up with extra loader entries in the Windows boot loader
+ okay so it means either run virtual machine or dual-boot and given that speech recognition doesn't work in Linux, it's virtual machine. :-)
+ any reason to use 64 over 32 bit?
+ okay. I give it a go
+ the last time I ran 64 was on an AMD machine I had for my wife and stability was not great. That was about 12 to 18 months ago
+ on the other hand, all she runs his flash because all she does is Facebook and Thunderbird
+ okay well I can always back down to 32 bit if I need to
+ which is probably the way to go.. Thanks for the feedback.

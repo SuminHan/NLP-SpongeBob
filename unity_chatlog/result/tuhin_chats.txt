@@ -1,0 +1,5 @@
+ how to upgeade kernel from 2.6.35-22 to latest 2.6.38?
+ my usb to ps2 mouse+keyboard converter sometimes dont work , but works after restart. Is there any command to re-caliberate/reinstall certain usb keyboard/mouse without restarting computer?
+ i m on laptop
+ but use external keyboard, mouse and monitor  ActionParsnip
+ i m on laptop, but use external keyboard, mouse and monitor  ,   my usb to ps2 mouse+keyboard converter sometimes dont work , but works after restart. Is there any command to re-caliberate/reinstall certain usb keyboard/mouse without restarting computer?

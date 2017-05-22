@@ -1,0 +1,78 @@
+ Anyone got Mark's number, let's take this to the top
+ Hey all. I'm out in New Zealand and it's the 28th, how do I get from Mav to Natty?
+ rww: But it's supposed to be out today yeah?
+ sweet, anyone know where a countdown is
+ dammit, I was hoping to get an hour or two down time while I upgrade. Gah, will have to get back to work
+ Is upgrding using the update-manager -d risky? like it will use the same repo yeah?
+ Anyone got Mark's number, let's take this to the top
+ I need help, can't upgrade   :E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages.
+ Is this where to get help?
+ I can't get past setting new software channels when trying to upgrade to natty. Help??
+ ActionParsnip: will try thanks
+ http://pastie.org/1849172  Can someone help me get upgraded, it fails for me
+ is ActionParsnip about??
+  http://pastie.org/1849172  Can someone help me get upgraded, it fails for me
+ Where can I get help with UBUNTU?
+ Kevin147: can you help me get upgraded to 11.04.  http://pastie.org/1849172
+ KNUBBIG:  Can you help me get upgraded??
+ bazhang: No tthe issue I am having. Been trying all day
+ KNUBBIG: thanks man, the most helpful response so far
+ I am getting stuck when trying to updgrade to natty from mav. is this common?
+ Hamza: no one can work on windows?
+ http://paste.ubuntu.com/601231/ how can I fix this so I can upgrade, being trying to get help since yesterday
+ bazhang: how do I change to a different Mirror. I was hoping to get from a NZ one if possible
+ HELPP!!!!  I can't upgrade, it just dies but here's the result from my sudo do-release-upgrade. http://paste.ubuntu.com/601236/
+ doesn't dreamhost use some ubuntu?
+ Incarus6: ty, will post
+ Incarus6: http://paste.ubuntu.com/601238/ please help. I had only just switched to the fastest mirror which was near-by
+ Incarus6: it's more than I can fit in my bash window. How can I save it to a file for pasting
+ Incarus6: http://paste.ubuntu.com/601253/ thanks for looking into this eh
+ Incarus6: I have installed and uninstalled as you mentioned. What should I do next?
+ Incarus6: http://paste.ubuntu.com/601255/  have uninstalled all those packages
+ Incarus6: http://paste.ubuntu.com/601259/ cheers
+ Incarus6: Awesome, thanks, your a credit to this OS
+ Incarus6: I'm in the middle of a upgrade which is caluclating changes, can I still do what you mentioned safely?
+ Incarus6: http://paste.ubuntu.com/601263/
+ Incarus6: It still fails the same :(
+ Incarus6: http://paste.ubuntu.com/601266/
+ Incarus6: ah, should it not ignore it as a 3rd party app?
+ Incarus6: Is it not normal to have non standard packages installed? I don't understand why my system is having issues, Just want to try 11.
+ Incarus6: Does that mean I can just untick the repos and update before trying upgrade or do I need to uninstall anything not from official repos?
+ sweet
+ man, if thats all thats' stopped I will be pissed, the upgrader says it does it for you
+ Incarus6: it's calulating changes still :|
+ Incarus6: Nope, hmm, is it possible to upgrade from mav? what could have I done to make it so impossible?
+ Incarus6: nope, still fails
+ Incarus6: http://paste.ubuntu.com/601281/ thanks for sticking about man
+ yep
+ Incarus6: yeah, on sat night, sad huh
+ Incarus6: or is that leet? ;)
+ Incarus6: sweeet
+ Incarus6: http://paste.ubuntu.com/601293/ If I remove that lib you menitoned I lose about 1gb of apps. So I didn't
+ Incarus6: Does this mean I really have to uninstall all those apps?
+ Incarus6: http://paste.ubuntu.com/601296/ should I hit yes or no?
+ Incarus6: ok, now I'm confused
+ I don't mind if I have to drop some apps and reinstall. I just need to make sure I get to a stable state for work
+ Incarus6: thats why I not worried if I have to drop them, you reckon I should just drop the GB and pick it up on the other side?
+ Incarus6: what a nigtmare
+ a mirror at a university here in NZ? surely that would be ok
+ Incarus6:   a mirror at a university here in NZ? surely that would be ok
+ Incarus6: it doesn't output?
+ Incarus6: phew
+ Incarus6: I tried removing and reinstalling where needed to all those files with no thirdparty repos available. Trying upgrade again now
+ Incarus6: will do if it fails
+ Incarus6: still fails, need sleep though so will try again tomorrow maybe. thanks
+ I'm upgrading to Natty, should I keep my own debconf or go with package maintainers one??
+ should you when updating generally stick with your own or go with maintainers when asked during upgrade process???
+ acecipher: cheers mang
+ hats off to the devs. I just got Natty running and just wanted to come and say thanks to all involved in unity and natty's dev. I love it!
+ I get the odd redraw issue with windows untill I either move or resize them, anyone else get this?
+ Why do people think ubuntu users care about american political bs? I have redraw issues I need to reolve ffs
+ I am having a lot of window based redraw issues, is there anyone how can help at all?
+ Are you guys getting graphical issue in Natty?
+ coz_: ati, compiz, unity, when typing in a window nothing shows till I resize the window then it's fine for a while.
+ Anyone else have this issue? ati, compiz, unity, when typing in a window nothing shows till I resize the window then it's fine for a while.
+ coz_: yeah it's not too bad but enough to bring me here
+ coz_: so you think they resolved it?
+ I hear there are new ati drivers so I might try those?
+ coz_: thanks bro, will do!

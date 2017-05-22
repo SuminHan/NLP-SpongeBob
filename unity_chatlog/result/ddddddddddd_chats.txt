@@ -1,0 +1,19 @@
+ i have one question should i take kde
+ i have one question should i take kde
+ red2kic:
+ how can i under KDE start up the command /etc/init.d//ccpd start
+ it should runned as autostart
+ how can i under KDE start up the command /etc/init.d//ccpd start
+ it should runned as autostart
+ Obamanation no i meant as systemstart
+ Obamanation can i do it in
+ startup and shutdownn ?
+ startup and shutdownn ? can i do theree
+ a question
+ i need reinstall, should i take 11.04 or 10.04
+ a question
+ i need reinstall, should i take 11.04 or 10.04
+ yesit was an example
+ but ccpd dont it
+ i need reinstall, should i take 11.04 or 10.04
+ ok

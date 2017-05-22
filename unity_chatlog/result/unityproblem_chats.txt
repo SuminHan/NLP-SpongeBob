@@ -1,0 +1,26 @@
+ natty final release not showing on update manager??
+ natty final release not showing on update manager??
+ updating from 11.04 beta to final ??
+ how to do that?
+ how to upgrade from 11.04 beta to final ?
+ how to upgrade from 11.04 beta to final ?
+ i did but its showing errors.
+ http://pastebin.com/ifNdxPam
+ this is the errori am getting
+ MohammadAG http://pastebin.com/ifNdxPam
+ any body can help with this  http://pastebin.com/ifNdxPam   i am not able to upgrade
+ any body can help with this  http://pastebin.com/ifNdxPam   i am not able to upgrade....
+ any body can help with this  http://pastebin.com/ifNdxPam   i am not able to upgrade
+ http://pastebin.com/L8ZPREwp
+ i am not able to install any packages due to dpkg error can any one help ??
+ wait ill give u the paste bin link
+ http://pastebin.com/wGWnesBX
+ celthunter :  http://pastebin.com/wGWnesBX
+ check out
+ http://pastebin.com/wGWnesBX
+ any solution?
+ anyonw can help me with this ? http://pastebin.com/wGWnesBX    ??
+ http://pastebin.com/wGWnesBX   can anyone solve this  ???
+  http://pastebin.com/wGWnesBX   can anyone solve this  ???
+  http://pastebin.com/wGWnesBX   can anyone solve this  ???
+ E: Sub-process /usr/bin/dpkg returned an error code (1)

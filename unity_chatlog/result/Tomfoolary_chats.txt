@@ -1,0 +1,4 @@
+ is there an open source version of skype that'll actually run on ubuntu 10.10?
+ llutz, I tried downloading it and opening in the ubuntu software centre and it came up with an error, am I doing something wrong?
+ llutz, *sobs*
+ llutz, love you man

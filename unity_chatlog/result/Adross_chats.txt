@@ -1,0 +1,1 @@
+ has there been any support in getting rt2870 chipset's support 802.11n on natty?

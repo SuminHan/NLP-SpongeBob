@@ -1,0 +1,76 @@
+ I'm having a problem with firefox, can anyone help me?
+ scrolling is painfully slow on some pages
+ remoteCTRL1 AFAIK you can run ubuntu-bug from the installer
+ unless you cannot boot of course
+ remoteCTRL1, which installer are you using? alternate cd or live?
+ remoteCTRL1, boot the live cd and open a terminal
+ remoteCTRL1, that's the point of it
+ remoteCTRL1, there is a way to report a bug without ubuntu-bug
+ remoteCTRL1, but i can't remember which...gimme some time ;)
+ remoteCTRL1, here you go
+ https://bugs.launchpad.net/ubuntu/+source/ubiquity/+filebug?no-redirect
+ remoteCTRL1, it was in the middle of the wiki page
+ remoteCTRL1, it was in https://help.ubuntu.com/community/ReportingBugs
+ remoteCTRL1, middl of the page
+ remoteCTRL1, section Filing bugs at Launchpad.net
+ remoteCTRL1, but you SHOULD use ubuntu-bug, really...it gives much more "debug" information
+ zappus, well...was the partition defragmented?
+ ok
+ no one hre using firefox and experiencing 100% cpu usage while scrolling? It's driving me crazy :/
+ remoteCTRL1, you're welcome!
+ zappus, bad things IF it is resizing the partition
+ CoachJ, why it shouldn't?
+ arsenall_, use the installer as it is
+ vatzec, what's the output of ls -la /usr/bin/www-browser
+ in gdm there's a menu on the bottom it says Ubuntu classic, change it
+ Technium, there is a button to enable it?
+ pranav, do you have a ascreenshot?
+ Technium, did you reboot?
+ Technium, can you provide the output of lsmod | grep nv
+ Technium, run in a terminal sudo nvidia-xconfig
+ Technium, sudo mv sudo rm /etc/X11/xorg.conf
+ Technium, forget that last line
+ Technium, sudo mv /etc/X11/xorg.conf /etc/X11/xorg.conf.back
+ Technium, sudo nvidia-xconfig
+ Technium, if anything goes wrong just run
+ Technium, sudo mv /etc/X11/xorg.conf.back /etc/X11/xorg.conf
+ Technium, and yes..reboot
+ thegoodcushion, free -m
+ thegoodcushion, 32bit os?
+ thegoodcushion, videocard?
+ thegoodcushion, on 32bit OS part of the address space is used to address devices such as the GPU
+ thegoodcushion, so 3.5 gigs is normal
+ thegoodcushion, you should use a 64bit OS if you need the extra 500Mb
+ nishttal, please don't try gnome3 on 11.04. It will break most of the things horribly
+ nishttal, erroro?
+ Technium, uh-oh
+ Technium, do you have a laptop?
+ fachher, shoot!
+ Technium, let me guess nvidia+intel with hot switching
+ Technium, with unity?
+ Technium, would you mind running the live cd again and posting some debug info from it (like video driver, modules)?
+ Technium, just install xchat in the live cd and join back #ubunut
+ thegoodcushion, not everyone wants PAE
+ thegoodcushion, of course
+ thegoodcushion, you could have built the driver manually using dkms ;)
+ Technium, good
+ Technium, post xdriinfo somewhere
+ !paste > Technium
+ thegoodcushion, what's the error?
+ nishttal, thegoodcushion: PAE+closed source -> bad thing
+ Technium, that's how i thought
+ Technium, you cannot use the nvidia card on linux
+ Technium, unless you play with vga_switcheroo
+ nishttal, back you should go
+ nishttal, between us....unity is crap
+ nishttal, uh-oh then I must have mixed the answers...forget mine
+ Technium, you cannot use nvidia on linux
+ Technium, with the intel card
+ thegoodcushion, nvidia+intel+how switching = nvidia driver not working
+ Technium, maybe xorg is freaking out because he sees two cards
+ Technium, u should try this: Technium, if you are
+ Technium, this: https://help.ubuntu.com/community/HybridGraphics
+ Technium, which model do you have exactly of laptop?
+ perlsyntax, lspci from terminal
+ perlsyntax, output?
+ perlsyntax, what's the problem? no drivers installed?

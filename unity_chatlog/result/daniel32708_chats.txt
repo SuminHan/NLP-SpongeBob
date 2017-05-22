@@ -1,0 +1,2 @@
+ I just installed a fresh 11.04 64 bit on a Toshiba satellite A665 (4core, 4gbddr3,nvidia,etc).  I am running the Unity interface.  Suddenly, the whole system crashes (seems to be very random...but i cant get past an hour). Am I the only one getting this? is a bug? any suggestions?
+ **it freezes

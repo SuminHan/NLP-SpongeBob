@@ -1,0 +1,1 @@
+ hi, may someone is able to answer. do somone know with which compile-parameters the ubuntu 10.10 binaries are build (except glibc, i know they are optimised for i686)?

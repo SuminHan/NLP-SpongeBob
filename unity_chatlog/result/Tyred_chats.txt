@@ -1,0 +1,9 @@
+ Hey
+ Having issues with ath9k on Xubuntu x86_64, Slow speeds
+ Can anyone help? :)
+ Any help please?
+ sipior: I did do that, just didn't get any respos, anyway having issues with ath9k on Xubuntu x86_64, problem is slow speeds
+ sipior: Alright, fair enough. I have an TP-LINK Wireless N Card, Currently is having issues. And Atheros AR5008
+ sipior: It is not operating like it should be. Limited to a max of 25KB/s at max. I am running 11.04
+ sipior: Yea, was thinking of same. I have tried disabling power management incase that was effecting it but unfortunately no dice...
+ sipior: Yea, just read it hehe... Was just about to attempt that after researching it myself, Thanks

@@ -1,0 +1,12 @@
+ In 11.04, how do i change my workspace positioning? Default has a 2x2 grid, but i would much prefer a 1x4 row.
+ herb, right click what?
+ herbs, im sorry, i dont understand you. If i right click the actual workspace, i can change my wallpaper - thats about it. I want to modify the amount of workspaces i have and/or the ordering/layout of them
+ Herbs, the bottom right panel does not exist in 11.04
+ ok, thanks anyway
+ In 11.04, how do i change my workspace positioning? Default has a 2x2 grid, but i would much prefer a 1x4 row. As the bottom panel is removed in 11.04, i cannot find anywhere to change this
+ gartral, heh, but i cannot do that when 11.10 comes out, i should probably learn how to do it with unity too =)
+ gartral, thats cheating
+ gartral, really ?! are you sure there is no such facility?
+ My god, that is beyond retarded. Remind me again why this change to unity was a great idea?
+ In 11.04, how do i change my workspace positioning? Default has a 2x2 grid, but i would much prefer a 1x4 row. As the bottom panel is removed in 11.04, i cannot find anywhere to change this. I refuse to believe that this simple task is impossible to do in unity...?
+ stimpie, thank you

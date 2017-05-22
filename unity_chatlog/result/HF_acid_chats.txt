@@ -1,0 +1,12 @@
+ karlo: it has, they haven't updated the site but the torrents work
+ tsimpson: ? how do you figure
+ main website has changed to reflect 11.04
+ galumph: ? no it's updated, perhaps your cache is off, shift f5
+ [Soma]: I agree
+ hey guys, I just installed Natty and upon attempting to connect to the wireless it's asking for me to unlock the default keyring.  It's not the password I created on install and leaving it blank doesn't work either. I'm not using autologin which reportedly would create this prompt in order to create a password. Unfortunately I'm woefully lacking knowledge of the keyring system
+ Soothsayer: should be
+ arand: thanks I'll give it a try
+ ImperialXT: I heard there's a PPA if you want to try that, I have no experience with it though
+ ubuntutryout777: that's typical of the live cd, I'm not sure if you can force enable them, but after install unity and the like worked just fine
+ ubuntutryout777: after I installed on the harddrive, it's on the iso but I don't think it's enabled during livecd runs
+ Furry: yes, if you find the application via the unity search you should be able to drag and drop it onto the side there

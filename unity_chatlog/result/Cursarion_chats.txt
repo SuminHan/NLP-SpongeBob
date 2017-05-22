@@ -1,0 +1,20 @@
+ :o
+ is it possible to mark a HD partition bootable, put contents of Ubuntu ISO file there and install from it on boot?
+ instead of DVD/USB stick
+ Incarus6: no access to an USB tick
+ but how do you mean persistent?
+ PresuntoRJ: well, the contents of the ISO file
+ PresuntoRJ: 'cause there's no access to an USB dongle
+ so basically there's the HD to install on and the ISO image, which can be extracted on the HD
+ but no USB stick or CD/DVD
+ can it be done with the HD alone?
+ PresuntoRJ: the point is there are no physical USB drives available
+ pfifo, Dr_Willis: grub is installed
+ Curly_Q: install the OS without a CD/DVD/USB stick
+ Curly_Q: I have two HDs. One of which has linux installed but when i bought a new pc i couldnt load up linux. Im going to use the old ext3 partition to extract the iso content and boot from it and install a new linux instalation on the other hard drive
+ hm, yeah, I didn't mention there's two of them
+ thanks Dr_Willis, Curly_Q & others
+ dunno if xchat does msn
+ what command are you using?
+ glycan: haha
+ how did you use it without partitions?

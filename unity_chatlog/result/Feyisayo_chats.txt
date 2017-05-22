@@ -1,0 +1,13 @@
+ I try to upgrade from Meerkat to Natty and the license says Natty is still beta. Is this supposed to happen?
+ Anyone here?
+ Thanks jiohdi
+ I'm dual-booting windows and Natty. But when I try to boot to Natty my display is messed up and I see coloured lines and I can't go further. Can anyone help?
+ robin0800, I can't log in because of the messed up display
+ Can anyone help? I can't log in to Natty because the screen is messed up with coloured lines
+ celthunder: No ATI Radoen generic PnP
+ celthunder, video hardware? What's that?
+ celthunder, do you mean my driver details?
+ celthunder, how do I use the open source drivers?
+ celthunder, ok I try that. But right now. I can't log in because of the messed up display. Any ideas as to a work around?
+ celthunder, at what point do I press that?
+ celthunder, thanks so much. I'll try your advice ASAP. Thanks

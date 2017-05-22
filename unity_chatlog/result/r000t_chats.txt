@@ -1,0 +1,16 @@
+ Hello. I'm having serious input lag issues after upgrading, but I'm not sure which package is causing the problem, thus making it difficult to report the bug. What should I do now?
+ Emasarn, that's because AMD made the x64 standard. It will work fine with Intel chips
+ Backspace key especially is laggy, like whole seconds between when I use it and when it decides to work
+ I'm having major keyboard lag after upgrading, what do I do?
+ aravinda, if you use your keyboard a lot, don't upgrade
+ hypetech, major keyboard lag after upgrading
+ I have a 5 second lag when I use the backspace key
+ ohsix, I don't know what the first two mean, and no, I did not change xorg's priority
+ ohsix, http://pastebin.com/dC4B8hpK
+ ohsix: http://pastebin.com/MXxmt6h5
+ ohsix: exe is probably WINE
+ People who initially hated unity but now love it: Please look up the stockholm effect
+ ohsix: yes
+ Also after using backspace more than once, all keys lag
+ Now I have another issue: Chrome is default browser but xchat opens links in Firefox after upgrade
+ ohsix: did you ever get those pastes?

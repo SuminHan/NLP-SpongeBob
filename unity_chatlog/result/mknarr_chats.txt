@@ -1,0 +1,54 @@
+ Captainkrtek, whats up man
+ KidDeath, it is supposed to launch tomorrow sime thme
+ time*
+ :D
+ drivers
+ lol @ uncmar
+ NxtGenCowboy, i loke cario-dock
+ like*
+ tomorrow some time
+ i mean the 28th*
+ meisth0th, 27 8pm
+ where is the main premissions file located on ubuntu 10.04
+ Im looking for the file that holds all of the premissions  and or user group info
+ usr13,  says it dosnt exsist
+ I need to find an informative doc on how to work the user accs / groups ...
+ What is the difference between the file "group" and "group-"
+ im guessing the one with the - is a backup?
+ it goes live the 20 sometime
+ the 28***
+ Would it matter if i edit the group file  to display eachgroup on a diff line ?
+ hmm weird  i DLed the file from my server to look at it
+ and everything is on 1 line
+ usr13, notepad
+ Im guessing that when im viewing the group  doc that if there isnt a usr/acc type beside a group it isnt in use?
+ hammer
+ ?
+ escott, aah true
+ should i be making say a user called WEB for my web stuff and adding the group "www-data" to it ?
+ Captainkrtek, whats up man
+ pindropper,  have toy tried reinstalling apache?
+ pindropper, hmmm did you modify the virtual site file to point to the new location ?
+ i think its the vitural site file
+ pindropper, did u assign the proper premissions
+ pinewhat was the error message again
+ pindropper, ok give me a sec to look at some of my files
+ pindropper, to start the service again all you should have to do is   sudo /etc/init.d/apache2 start
+ pindropper, kk h/o a sec
+ pindropper, under etc/apache2/sites-available/ default     did u edit that file to point to the new location (im still new to this as well )
+ Guest78840,  what so u need help with ?
+ Guest78840,  what are your sys specks
+ typhoon,  http://en.wikipedia.org/wiki/Uncomplicated_Firewall
+ Guest78840,  what are System Specifications"
+ typhoon, srry im only a basic user of that firewall
+ Guest78840, since u r running 64 bit i take it u have 4gb+ ram  and a duel core processor +
+ Guest78840, dose your computer freeze  if you open anything else?
+ dosnt LTS mean long term support?
+ Guest78840, hmmm
+ Guest78840, srry man i cant think y it would cause your comp to freeze
+ Guest78840, GL
+ Guest78840, here man check out this link
+ http://ubuntuforums.org/showthread.php?t=222050
+ can anyone tell me how to change the group of all the files in a directory at once
+ z0x1c thanks
+ z0x1c thx man

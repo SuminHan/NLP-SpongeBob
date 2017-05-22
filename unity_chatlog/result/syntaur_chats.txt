@@ -1,0 +1,5 @@
+ atlgeorge: That's all I can think of. If firewall isn't interfering, and you can access it locally, but not remotely.
+ atlgeorge: You sure the program isn't binding to localhost or something?
+ atlgeorge: No prob :P You sure the program isn't binding to localhost or something?
+ atlgeorge: That's all I can think of. If firewall isn't interfering, and you can access it locally, but not remotely.
+ Is there any way to resume the upgrade process? My keyboard was on my ubuntu laptop here, and I forgot. I hit escape and the upgrade status window went away. I go back into the update manager and it says there's no updates or upgrade.

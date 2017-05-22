@@ -1,0 +1,9 @@
+ hello
+ can the cp command create directory structures? eg: cp /home/myfile /home/newdirectory/myfile
+ ?
+ I get this error
+ cp: cannot create regular file `/home/newdirectory/': Is a directory
+ the bash in ubuntu doesnt seem to allow directory creation with cp
+ Dcite, no i get the same error
+ can the cp command create directory structures? eg: cp /home/myfile /home/newdirectory/myfile
+ sipior: "man get a personality"

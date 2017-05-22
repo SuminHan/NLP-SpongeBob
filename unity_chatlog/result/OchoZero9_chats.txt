@@ -1,0 +1,60 @@
+ how do you upgrade from alpha ?  update-manager -d ?
+ thanks Jordan_U
+ Monotoko: because Free means two things, and libre means one
+ Monotoko: they are now Free from sun / oracle
+ they are libre
+ OOo was always Free(gratis), but now they are Free(libre)
+ should i use desktop or netbook version?
+ Should I use Desktop or Netbook an a two point multitouch screen with Pressure sensitive pen input  i7?
+ Witchsong_: yes I have atablet, but I need the ability to run powerful apps like Electronic Design Automation.
+ Witchsong_: thanks.
+ I have an 18.6 GB partition that is almost full, and it hosts the operating system. I have naother 63GB partitoin that is only 60% full. How do I free up space on the OS partition?
+ thanks escott, but I think 18gb is excessive how do I know what I have there that's un necessary?
+ is there a way to see what's taking what space?
+ what' sthe default install directory of applications?
+ i have over 4GB in /usr/lib is that normal?
+ ohsix: Yes.
+ is there anyway to speed up the download to upgrade from alpha to final?
+ I don't know how to do that
+ I haven't used it in over a month
+ how do i chose a faster closer mirror?
+ Is ther a way to parallel download? some files from one mirror, some from another?
+ to install the touch screen version of unity do i install ubuntu-desktop or ubuntu-netbook
+ i'm on kubuntu btw
+ Okay I'll try
+ ohsix: i installed ubuntu-desktop. After I restarted I selected ubuntu and all I saw was Icons and a background. Alt F2 didn't even work. Now I'm in ubuntu classic (no effect)
+ If you look in the compiz website .. it's now going to be easier to port apps from mac windows and linux
+ in win 8 aero is going to be worked by compiz , i don't understand those technical terms though
+ oh ok
+ got me
+ you can still make ugly gtk apps
+ any how
+ How do I get unity touch?
+ why wouldn't it run ?
+ why wouldn't unity 3d run on my computer? I don't have agraphics card and starcraft II runs perfectly in 3d mode
+ why wouldn't unity 3d run on my computer? I don't have agraphics card and starcraft II runs perfectly in 3d mode
+ I don't have any
+ I think it's built in the processor
+ Jon4248:  I think it's built in the processor
+ So what's the deal with the 3D?
+ why it doesnt work for me?
+ what utility can i run so it can tell me the specs of my device?
+ It should have no problem running 3D . since windows aero works fine, and starcraft II works fine too
+ The video is built in the processor on a separate die. Intel HD graphics
+ mordof: I'm not getting any desktop performance
+ is there a #unity ?
+ mordof: sorry about that. I just don't have unity for whatever reason
+ how do you get your system information like processor memory graphics?
+ thx Surlent777 & Herbs
+ it may not be detecting my graphics correctly
+ i think i may not have the right driver
+ ohsix: I ran /usr/lib/nux/unity_support_test -p and all the test passed fine. it says Unity supported: yes
+ say it crashes
+ how do you bring it back?
+ alt+f2 didn't work
+ but ill try both. btw i put a terminal icon on the desktop just in case
+ brb
+ unity --replace` got it working, but I have to put that in every time.
+ I want to like unity, but it's a mission to start it
+ Herbs: maybe you are understating the number of steps
+ xangua: yes. that's what I was on just a few minutes ago

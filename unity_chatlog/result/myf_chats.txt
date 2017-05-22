@@ -1,0 +1,6 @@
+ I'm losing all my easy_install eggs after the upgrade to natty, python 2.6->2.7 . Is there a quick way to migrate them? help!
+ and is it just me or other folks also experienced weird color scheme on the new firefox?
+ nemo im using awesome wm. supposely the ubuntu theme does not affect this
+ nemo: lemme take a look
+ meno: tweaked layer.accleration, no changes
+ nemo: tweaked layer.accleration, no changes

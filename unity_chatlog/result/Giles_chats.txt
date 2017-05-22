@@ -1,0 +1,81 @@
+ How do I log in to the "unity" desktop?
+ At the login screen I have options "ubuntu, ubuntu classic, ubuntu classic (no effects), custom"
+ milen8204: I removed the nvidia-current package, because it usually causes problems with my non nvidia card...
+ milen8204: ouch.
+ milen8204: so where did the "desktop effects" tab go in the classic desktop...
+ milen8204: yes, the first time I logged in it said that my hardware doesn't support unity.
+ milen8204: what did you do exactly?
+ milen8204: yeah... I am in classic desktop, I want to try unity...
+ Incarus6: I am pretty sure my hardware supports 3D, I had wobbly windows before.
+ Incarus6: I usually have this problem when I upgrade ubuntu, it things I need the nvidia drivers, but my hardware is not nvidia based.
+ milen8204: How did you "update your drivers manually"
+ Incarus6: I don't have a proprietary driver... its an intel one...
+ milen8204: I don't have an nvidia card....!
+ 00:02.0 VGA compatible controller: Intel Corporation Mobile GM965/GL960 Integrated Graphics Controller (primary) (rev 0c)
+ Incarus6: eh?
+ oh
+ 00:02.1 Display controller: Intel Corporation Mobile GM965/GL960 Integrated Graphics Controller (secondary) (rev 0c)
+ Incarus6: but you are right, there are two entries.
+ Robert__: no.
+ Incarus6: How can I assure I have 3D working... I have tried glxgears, glxinfo.
+ Ubuntu123: yes
+ Incarus6, I would love to have the intel card only and somehow disable the NVidia ;)
+ Ubuntu123: Neither do I, I was just saying I am also having problems, and that someone can help ;)
+ Incarus6: giles@masala:~$ ls /usr/lib/nux    ls: cannot access /usr/lib/nux: No such file or directory
+ Ubuntu123: I am trying to find one
+ Incarus6: yes.
+ Incarus6: giles@masala:~$ lsb_release -a No LSB modules are available. Distributor ID:	Ubuntu Description:	Ubuntu 11.04 Release:	11.04 Codename:	natty
+ Incarus6: where can I get "unity_support_test"
+ Incarus6: How might I do that? I don't know which package to check the dependencies for...
+ Incarus6: I issue aptitude, and it says package not installed, sudo apt-get install -f reports: Reading package lists... Done Building dependency tree        Reading state information... Done 0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+ Hamza: try using the cap-locks key, then people might hear you ;)
+ Ubuntu123: not very patient are we?
+ Ubuntu123: heh, I did compiz --replace...
+ Ubuntu123: I have window shadows but no wobbly windows.
+ Ubuntu123: well compiz spat out : Profile     : unity
+ Ubuntu123: amongst other things.
+ Ubuntu123: but, isn't unity supposed to have a different start menu?
+ Incarus6: I think I am actually *in* unity all along, but I don't have the weird new menus
+ Incarus6: Do I prehaps need to  reset my users desktop settings?
+ Yeah, after removing the Nvidia drivers yes, and when I logged back in I get the classic desktop, but the menu bar "slides" down (a visual effect)
+ Incarus6: Yeah, after removing the Nvidia drivers yes, and when I logged back in I get the classic desktop, but the menu bar "slides" down (a visual effect)
+ Incarus6: How can I enable the other visual effects, such as wobbly windows?
+ Bojan_: How do I configure compiz?
+ bazhang: ta
+ what package contains unity_support_test?
+ Does anyone know  what package contains unity_support_test?
+ Hi, I am trying to get unity to work, here are the results of unity_support_test: http://pastebin.com/n8kXeP3a
+ However when I log in as a new user it says I don't have the hardware to support it.
+ And when I log in as myself, it reverts to the classic desktop.
+ what controls whether unity is enabled or not?
+ GeorgeJ: okay, so I choose to use it at the login screen but It doesn't give me the unity desktop.
+ velcroshooz: http://pastebin.com/n8kXeP3a
+ velcroshooz: nope, I uninstalled nvidia-current, as a distro upgrade always seems to pull that in, but my machine doesn't have an nvidia card.
+ remoteCTRL2: mine is gone too.
+ remoteCTRL2: Press F2 and type compiz --replace
+ remoteCTRL2: that enables the desktop effects temporarily
+ dasfefg: unity?
+ remoteCTRL2: oh thats one up for me, unity just doesn't work.
+ remoteCTRL2: s/for/from/
+ remoteCTRL2: do you have an nvidia card?
+ remoteCTRL2: dunno then, I had to remove nvidia-current to get 3d working (I don't have an nvidia card)
+ remoteCTRL2: a distro upgrade always pulls in the nvidia drivers for me for some reason..
+ remoteCTRL2: I check which hardware I have using lspci.
+ remoteCTRL2:  no.
+ remoteCTRL2: nor do I know how to get unity working.
+ remoteCTRL2: I don't think I want unity.
+ remoteCTRL2: but I would like desktop effects back.
+ BlaDe^: ???
+ remoteCTRL2: seems so.
+ BlaDe^: I think this must be because your php program is using an old file handle?
+ BlaDe^: I    ???'ed you though because i dont know what you mean by "how can I resave all the files in a directory?"
+ BlaDe^: yeah touch will update the timestamps.
+ BlaDe^: but it does not "resave" the file, that thinking is just wrong.
+ BlaDe^: to resave the file you would have to save the same data over the old file
+ BlaDe^: that can't be what you mean.
+ BlaDe^: Well is it what you mean?
+ BlaDe^: yes, but you are not "resaving" the file, you are just updating the timestamps of the file.
+ BlaDe^: good ;)
+ hmm, sudo apt-get install unity
+ edbian: no, I didn't have unity installed, thats why it didn't work...
+ edbian: yeah, no one else was able to help me, so I was explaining what I had wrong...I expected unity to be installed by default after the distro upgrade!

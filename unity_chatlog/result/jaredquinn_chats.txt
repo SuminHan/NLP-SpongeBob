@@ -1,0 +1,66 @@
+ Dazzled1: what info are you after?
+ sweb: read the release notes.
+ sweb: for 11.04 yes.
+ sweb: It comes with both Gnome (Classic) and Unity.  You can select from login
+ sweb: yes
+ reves: they have.
+ DJKorbit: Unity should be default on 11.04... and you select it from the sessions list at login if it isn't
+ DJKorbit: that sounds like the drivers weren't working properly and therefore it fell back to default.
+ DJKorbit: definitely not a key in gconf.. how could it be?  gconf is a gnome concept
+ DJKorbit: seriously, it's your Xsession
+ DJKorbit: so you can launch Unity from the terminal and it works, but what about everything else that supports it in the session, like compiz failing \(which is the likely culprit if your vid drivers are not quite right)
+ DJKorbit: told you..  it was your session :)
+ raju: it should be all over the coverdisks of computer magazines in news agents within a few weeks
+ thegoodcushion: yeah any cheap HP or Brother will do the job..
+ thegoodcushion: which ones?
+ DJKorbit: I don't have a few locale settings and no session value
+ DJKorbit: sorry that was.. I have a few locale type things and nothing session related.
+ DJKorbit: that would just be used by login to pick the default one. you should still be able to select it at login
+ thegoodcushion: i was having a bit of a look
+ thegoodcushion: it looks like it supports wifi?
+ thegoodcushion: so network printing using something like hpjetdirect i guess
+ thegoodcushion: which is pretty standard.
+ thegoodcushion: there are reports of people getting it working on 10.10 if you just google "Ubuntu HP 3050"
+ thegoodcushion: as i said. it's pretty standard.. i've been printing with hpjetdirect from UNIX boxes for 15 years.
+ zvacet: Doesn't the update-manager do that for you?
+ burg: 32bit has always been more widely tested
+ there: really?
+ there: something wrong there then.. it's designed to be fast and lightweight, which is my experience so far.
+ there: so what was slow?
+ there: i've had other issues with it.. but speed hasn't been one of them.   It hasn't been terribly stable through the Natty testing phase.
+ there: wow..  that's kind of unexpected.. seeing gnome's been slow forever.
+ there: my guess would be it would be a video driver issue then..   maybe some software assisted rendering going on or something?
+ there: did you try unity-2d
+ I was an icewm user for years because gnome and kde were both too bloated..  kind of happy that people are now finally seeing that a desktop environment doesn't need to get in your way
+ jatt & rgr..  I agree...
+ kellnola: then it's NOT a desktop
+ kellnola: if you're running a heap of virtual machines on it.. then it's a server, and the service it's serving up is machines.\
+ crashanddie: if you *really* want to.. at the login prompt... you just select "Classic"
+ jatt: it's not just about the look of it either
+ jatt: it's designed with a slightly different appraoch to how a desktop environment should hang together, and ultimately you will have gnome, kde and other apps all running happily under it, rendering their bits the right way, sending notifications to teh right places and everything being magical.
+ damicita: I don't.. I love it.
+ damicita: but only because i've been digging around deep within it for a few weeks
+ g4 YES
+ g4: read above
+ g4: you just select CLASSIC at the login prompt
+ g4: and you get gnome\
+ FFS
+ Read the doco people.
+ ... and please give unity a chance.. and not just for five mintues.
+ good idea..  I didn't literally swear, but the implication was definitely carried in what i said.  So you are both right.
+ zetheroo:  Unity can't casuse you issues with teh chipset...
+ zetheroo: but.. there has been a few issues with the Intel lappy chipsets .. but they have been a kernel issue.
+ zetheroo: what chipset are you on?
+ zetheroo: is that the same driver as the i915 / Arrandale?
+ zetheroo: I think it is.
+ zetheroo: my problem is only when the screen is coming back after a hibernate
+ zetheroo: just do it :)
+ zetheroo: I've been running it for a couple of weeks.. and not had any major issues
+ Incarus6: you've a bunch of stuff installed from other repos?   I'm guessing maybe Ubuntu Studio?
+ icewaterman: how did you start your upgrade?
+ icewaterman: did you answer how you kicked that upgrade off?
+ Incarus6: did you do a update-manager and then let it handle all the other bits?
+ AdmV0rl0n: why?
+ Incarus6: the one that says   Fixing mountall:i386 via keep of plymouth:i386
+ obscurant1st: should be
+ ashmew2:  he is already running the 11.04 beta

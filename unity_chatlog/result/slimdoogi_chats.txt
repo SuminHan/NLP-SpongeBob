@@ -1,0 +1,5 @@
+ cc11rocks, did u not get the command i typed to u?
+ hi i was trying to find a graphics driver but cannot determin my actual hardware. this is what i get in lshw. http://pastebin.com/0ck07caE   is there any other option to find my exact hardware?
+ cc11rocks, sudo chmod +x /your/file
+ cc11rocks, in termional of course
+ cc11rocks, did u not get the command i typed to u?

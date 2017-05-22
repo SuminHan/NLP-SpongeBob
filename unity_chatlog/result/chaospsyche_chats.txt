@@ -1,0 +1,80 @@
+ what's the command to remove unity?
+ 11.04 is buggy andrew
+ jep try 10.10
+ jep: and your having problems?
+ is unity a module of the linux kernel in 11.04 ?
+ i'm getting 'artifacts' in my UI and yes I am on 'ubuntu classic(no effects)'
+ i upgraded(fresh install) to 11.04
+ didn't have this problem with 10.10
+ cheapie: yes, why? you have same problem ?
+ cheapie: is there a solution ?
+ cheapie: let me try that
+ why would the flash plugin cause this? doesnt make sense
+ vasudan: synaptic ?
+ are drivers loaded into the kernel as modules?
+ i'm thinking it has something to do with the kernel/module
+ because this is a newer kernel version than 10.10
+ the default kernel when you install 10.10
+ cheapie: should i reboot? no effect so far
+ vasudan: you have to use synaptic
+ or the terminal
+ If I remove unity and reboot I won't be dropped to a command prompt will i?
+ a complete removal
+ cheapie im using that
+ im not fine
+ i've got gfx artifacts all over my UI
+ graphic artifacts
+ blocks lines dots
+ openbox?
+ vasudan: you used synaptic?
+ vasudan: rm <package name> ?
+ cheapie: that command didn't work,what did it do ?
+ in fact
+ it's worse now
+ omg now the screen is borked,i cant click nothing,no menu bars
+ metatase\
+ cheapie: what was the command again? i had to reboot
+ cheapie: i have done that,and i am in that now
+ that only partly fixes it
+ there is something that is causing a conflict with whatever is handling the displaying of the UI
+ cheapie: let me show you a screen capture
+ cheapie: 11.04 live cd is the same thing
+ i dont have this problem on 10.10
+ but on 10.10 my wireless usb adapter doesnt work. it works with 11.04 and being as that is the only way i can get on the net i want to use 11.04
+ nope,i have a intel 82865g onboard vga
+ jockey?
+ can someone tell me how to use an older kernel with 11.04
+ cheapie: Oh, nah it doesnt say nothing
+ cheapie: how do i show you this screen capture of my desktop ?
+ it says no proprietary drivers are in use
+ cheapie: http://imagebin.org/151416
+ cheapie: after 'sudo apt-get update' it is the same. no proprietary drivers in use
+ cheapie: done that
+ cheapie: how can I use the kernel from 10.10 that is installed by default
+ :-(
+ you see what I am talking about in the screen capture i showed you though?
+ cheapie: what would you say that is?
+ can someone help me install an older kernel into 11.04 ?
+ cheapie: i don't have this issue with 10.10 but on 10.10 my wireless usb adapter doesnt work. thats why i want to use 11.04
+ hiexpo: command to find out?
+ hiexpo: dpkg -L | grep linux-image
+ oops
+ hiexpo: dpkg-query: error: --listfiles needs at least one package name argument
+ hiexpo: http://pastie.org/1859049  <---output of command
+ hiexpo: do you know how to compile a kernel with an added functionality and install it?
+ hiexpo: because i want to go back to 10.10 but in 10.10 my wireless usb adapter doesn't work so i want to add that func to the kernel ?
+ hiexpo: will my wireless usb adapter work in 10.04 ?
+ what is the diff between .04 and .10 ?
+ hiexpo: it's a wireless usb adapter and its a 'belkin basic wireless usb adapter '
+ hiexpo: it works on 11.04 but not 10.10. haven't tried 10.04
+ but why would it work on 10.04 if it doesn't work on 10.10. isn't that an older version ?
+ hiexpo: how do i find out?
+ what's the command to find out?
+ how do i find out what chipset is in my wireless usb adapter
+ hiexpo: Bus 001 Device 004: ID 050d:945a Belkin Components
+ kjxl9: your wi-fi card probably isn't support
+ *supported
+ hiexpo: will that work in 10.04
+ it's more likely to work the older it is versus if it was new
+ hiexpo: i just bought this,my comp didn't have wi-fi out of the box
+ hiexpo: ok one sec

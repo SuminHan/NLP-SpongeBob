@@ -1,0 +1,46 @@
+ Could someone please explain to me how the ubuntu windows installer works? Does it install ubuntu on the same partition as windows? And does it run ubuntu like a program?
+ escott: Yeah
+ ChronicSyncope: So if I boot into Ubuntu, Windows will not be loaded, correct?
+ ChronicSyncope: Thank you
+ escott: Lenovo ideapads come with like 4 partitions already, so I cannot create another to install ubuntu to dual boot
+ escott: (And I need windows to run my university's exam software; no emulators allowed)
+ escott: What is virtual box?
+ But would that force me to run two OSs?
+ OK, this is what I want: to have a dual boot machine that has windows 7 starter and ubuntu netbook remix
+ However, the crappy ideapad s10-3 comes with so many partitions that I am unable to create another one (is 4 the max?).
+ ChronicSyncope: Am I allowed to have as many of those as I want?
+ ChronicSyncope: OK, thnaks
+ Does anyone have a working link to 11.04 netbook version?
+ *torrent
+ sebsebseb: http://www.ubuntu.com/download/ubuntu/alternative-download
+ Are there md5 hashes posted somewhere for 11.04?
+ Are there md5 hashes posted somewhere for 11.04?
+ trism: THank you
+ trism: The torrent from the website doesn't match that....?
+ Is there any way to increase the performance of ubuntu? For some reason it is running slower than my windows :? (I installed it on the same partition.)
+ Also, how can I access my windows folders whilst in ubuntu?
+ KNUBBIG: Where though?
+ KNUBBIG: Wait, and I might be on the same complicated disc--I'm not sure... I installed it on the same partition..
+ osse: Yes.
+ Oh and I found them in
+ 'Computer'
+ osse: I do; thank you. Also, is there a way to increase the performance (speed)? Like, can I change effects or anything?
+ Seems to be much slower than 10.10
+ osse: Thank you
+ osse: Only see Theme, Background, Fonts
+ osse: No, but this is pretty bad... (I've had other versions on this computer). Also, there are some problems with clicking "OK" and "yes" and "No" in diaglog boxes
+ Ughh
+ osse: No
+ osse: It's that lenovo doesn't know how to make computers very well, came shippsed with the maximum number of partitions all already used.
+ osse: OK, thank
+ s
+ Has there been problems with left-clicking in 11.04? (I'm having this problem)
+ rgr: Is there some place I can go to find updates about it?
+ ohsix: Everything; in Mines (game), options on Transmission, closing tabs in Chrome... It's not with a mouse, it's with my touchpad.
+ ohsix: How did you fix yours? (Also, do you have a lenovo?)
+ ohsix: Uhhh...haha OK, I'm not following I guess; seems like there is no easy solution for me then
+ What is the default font in Libreoffice called?
+ compdoc: yes?
+ compdoc: Oh, thanks
+ compdoc: Is that available for windows?
+ compdoc: OK, thank you

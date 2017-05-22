@@ -1,0 +1,20 @@
+ erm ok so
+ just upgraded to 11.04, i have a NVidia Geforce 8600M and I can't use unity any ideas?
+ once again, 11.04 unity won't start on supported card
+ hello everyone i'm on 11.04 and unity won't start on supported card
+ hey updated to 11.04 and my nvidia driver updated with it, it says it's activated but not currently in use.
+ mine is just not playing nice
+ eiriksvin, system > administration > additional drivers
+ mikebeecham, nvidia?
+ mikebeecham, having the same issue
+ cablop, accept the is no check box in that
+ cablop, and it doesn't enable it
+ so i need to uninstall the opensource nvidia drivers?
+ cablop, they already are
+ hey i'm on 11.04 and i can't get to gdm all i get is the failsafe window, the error in the log is, '(EE) NVIDIA(0): failed to load the NVIDIA kernel module!'
+ jla, ok
+ jla, DKMS Install Completed
+ jla, i had a custom kernel on 10.10 and it's been fighting me all day
+ finally removed it and now no X11 QQ
+ loworbit, sure
+ jla, great now i'm stuck in memtest...

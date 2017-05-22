@@ -1,0 +1,24 @@
+ I have just downloaded ubuntu desktop iso. I created a bootable USB with it. However, when booting it, I get error: ubentry1: file not found
+ How do I fix this?
+ What should the md5sum of the desktop iso be?
+ 8b1085bed498b82ef1485ef19074c281?
+ sebsebseb, what page does not have the hashes for 11.04
+ IdleOne, unfortuneately not :(
+ IdleOne, I know, it only has old hashes.
+ IdleOne, not the new ones.
+ IdleOne, it seems right.
+ IdleOne, when I boot it from a USB it gives me the error: ubnentry1: file not found
+ What to do?
+ IdleOne, I just did. Same thing.
+ IdleOne, I have verified that the md5sum is correct.
+ When I boot the 11.04 iso from a USB it gives me the error: ubnentry1: file not found. How do I fix this? I have verified that the md5sum is correct.
+ jo-erlend, 11.04 is released now.
+ Is there no netbook iso for 11.04?
+ Where do I get the netbook iso?
+ Ok.
+ Then there is a dead link on the ubuntu.com page. When you go to alternative downloads and chose bittorrent there is one for netbook and it gives 404.
+ After installing Ubuntu 11.04 and enabling the restricted Broadcom STA wifi driver, the wifi network stops working after a while. How do I fix this?
+ After installing Ubuntu 11.04 and enabling the restricted Broadcom STA wifi driver, the wifi network stops working after a while. How do I fix this?
+ After installing Ubuntu 11.04 and enabling the restricted Broadcom STA wifi driver, the wifi network stops working after a while. How do I fix this?
+ After installing Ubuntu 11.04 and enabling the restricted Broadcom STA wifi driver, the wifi network stops working after a while. How do I fix this?
+ After installing Ubuntu 11.04 and enabling the restricted Broadcom STA wifi driver, the wifi network stops working after a while. How do I fix this?

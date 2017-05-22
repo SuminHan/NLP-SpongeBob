@@ -1,0 +1,6 @@
+ crap! I ran that rm -rf / command.  What do I do now?
+ oh phew
+ oh I see, good thing I didn't do sudo rm -rf /*
+ oh sorry
+ was worried.
+ ok

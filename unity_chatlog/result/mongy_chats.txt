@@ -1,0 +1,10 @@
+ !buttons > mongy
+ ScottR3, use ccsm and edit the 'grid' options
+ Diosjoe, lowercase grep
+ what does [sdb] Mode Sense: 03 00 00 00 mean.  Its my usb stick, when I plug it in, dmesg returns that.
+ isnt chromium updated as chromium devs update it....
+ remind me never to tick "install 3rd party software" during install while still in the first few days of release.. 2 hours later, thanks to people hammering the servers :(
+ Installed natty and am having trouble with networking using interfaces file.  I am using the exact same interfaces file that I use in 10.10, so my wireless connection is there when my desktop appears and I dont have to wait for network-manager to wake up.. well its not happening in natty, I have to ifdown/ifup the interface for it to work. what gives?
+ hmmmmm
+ any ssh experts here.  I have done this before and sure it worked..but basically I have encrypted home, I made the /etc/ssh/user folder and copied my ssh to there and fixed perms to 755 folder 644 for the file, changed sshd_config to use this folder, and I am loggin in passwordless but its not decrypting my home.  what am i missing
+ any ssh experts here.  I have done this before and sure it worked..but basically I have encrypted home, I made the /etc/ssh/user folder and copied my ssh to there and fixed perms to 755 folder 644 for the file, changed sshd_config to use this folder, and I am loggin in passwordless but its not decrypting my home.  what am i missing

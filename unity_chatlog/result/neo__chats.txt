@@ -1,0 +1,8 @@
+ hello everyone, I'm writing a document about linux cluster solution. http://netkiller.github.com/solution.html
+ who was installed 11.04?
+ hi, how can i change Xserver drivers directory?
+ hi, i compiled xf86-video-ati from git and i installed it in a non canonical directory and now i don't know how to make the system load this driver in this directory instead of the deafult one; can anyone help me?
+ ohsix, ok thanks, then i'll try to install it in the default directory
+ ohsix, my purpose was to install ubuntu natty graphics driver(mesa too) to ubuntu 10.10
+ ohsix, that's because i noticed that thoose drivers works better than theese
+ ohsix, ok i'll try it; thanks

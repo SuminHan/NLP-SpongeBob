@@ -1,0 +1,5 @@
+ Hi folks. How to fix the following message: The following packages have unmet dependencies: python-couchdb: Quebra: desktopcouch (= 0.2.93) but it is not going to be installed.
+ usr13: I did that but it says that depends of another package. I keep tacking the dependencies, and when I finally find one that I can install, it says it will remove A LOT of apps!
+ Good night.
+ After tried an upgrade to 11.04, I've got this http://pastie.org/1845644. And my dpkg --audit returns me this http://pastie.org/1845647. Any help, please?
+ After tried an upgrade to 11.04, I've got this http://pastie.org/1845644. And my dpkg --audit returns me this http://pastie.org/1845647. Any help, please?

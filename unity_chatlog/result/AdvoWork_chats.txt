@@ -1,0 +1,1 @@
+ anyone know the fix for firefox sticking to US letter for printing in ubuntu? ive changed etc/papersize, ive set the about:config to use A4, but still,it sticks to US letter and it greys out on print options..

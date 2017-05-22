@@ -1,0 +1,6 @@
+ Hello all. Is there a way to see when I initially installed Ubuntu? I know I've done at least one dist upgrade - maybe more. Debating whether it's time to do a clean install.
+ vibhav - great advise except I try to space them out every so often .... work computer and takes a long time to get everything back the way it was.
+ Let's say then it's more out of curiosity than anything else.
+ curiosity.
+ I had goog'd for this before but just found it. For all that are sitting on the edge of their seats .... ls -al /var/log/installer/syslog    date seems to match what I expected to see.
+ Anyone try to install 11.04 in Parallels (mac vm software) ? whether using the ISO or a burned disc, get's to the actual installation point then states that disc cannot be found.

@@ -1,0 +1,4 @@
+ Is there documentation that explains how to use OpenLDAP utilities with OpenSSL instead of GnuTLS?
+ Is there documentation that explains how to use OpenLDAP utilities with OpenSSL instead of GnuTLS?
+ how would you use dpkg to show where the contents of a package were installed? I'm trying to find out what all get's installed with ldap-utils, and where.
+ bastidrazor: cool, that did it, thanks man.

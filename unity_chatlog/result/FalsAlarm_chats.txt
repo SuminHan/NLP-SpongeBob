@@ -1,0 +1,3 @@
+ how do i install gcc c++ compiler on my ubuntu?
+ k
+ thanks

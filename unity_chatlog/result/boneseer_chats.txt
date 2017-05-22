@@ -1,0 +1,4 @@
+ how do i repair a ubuntu installation from a live cd?
+ my install. it won't boot.
+ i can't copy it. it was regarding a font or something. the colors of the text where in the style of ubuntu colors.
+ can't use the terminal there either

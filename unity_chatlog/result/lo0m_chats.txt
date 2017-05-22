@@ -1,0 +1,13 @@
+ has anyone succesfully migrated from virtualbox to HDD? using dd? ubuntu 10.10 btw
+ grobda24: did you put a record to /etc/fstab ?
+ grobda24: try using UUID instead
+ grobda24: in fstab of course
+ grobda24: yes, try google it.. i have UUID=#hash insted of /dev/sda2 ..works like a charm
+ hi, has anyone succesfully migrated from virtualbox to HDD? using dd? ubuntu 10.10 btw
+ Grimdin: i believe unity can be switched off in Compiz settings..
+ econnell: what about a fresh install? then dd ? or migrate only /home ? i don't want to lose all settings (home dotfiles) and hooks in /var/www
+ econnell: i'll propably just trash Win7 and do a fresh 11.04 install, use this VM there and setup everything by hand.. thx anyway
+ Obamanation: dual boot is not an option.. i use linux for years, it was just my past employer that was hooked to M$ so much he forced me to use it...
+ Obamanation: as i dont want it.. i dont need Win.. inside VirtualBox i made a perfect working setup.. i was just finding a way to transfer it to HDD (so it would be the only OS)
+ Obamanation: sorry wasnt clear.. i setup Ubuntu 10.10 in VirtualBox.. Win7 is the host machine
+ Obamanation: oh, thanks.. i thought AptOnCd can just store package information (what was installed).. anyway, i could copy just the dotfiles than manually.. thanx - will go that way

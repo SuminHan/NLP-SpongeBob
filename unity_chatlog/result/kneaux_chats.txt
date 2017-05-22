@@ -1,0 +1,48 @@
+ Safe to assume I can't upgrade directly from 10.04 to 11.04?
+ ...Can somebody tell me how I'm supposed to use this new version of Ubuntu? All my context menus have been taken away from me, and the new Help is completely unnavigable.
+ How do I get panel preferences in 11.04?
+ am I correct in assuming I'm not the only one lamenting the new management
+ how do I invoke compizconfig-settings-manager?
+ hhhh.
+ i spent all this time learning exactly what's in linux, and now ubuntu wants me to guess.
+ ohsix, what's ccsm?
+ oh nvm.
+ are the only settings for unity available through compiz
+ so what do i do to change the commands the panel launchers run?
+ or change the shortcuts in the dash...or add launchers to the docky thing...
+ none of the things normal operating systems allow me to do with no questions asked seem to be possible in this new ubuntu
+ "hax-"? spambot?
+ hi, i'm having trouble getting my monitors configured
+ before i upgraded, if i just opened  up "Monitors" my aux. monitor would auto-configure, but now I get an error when I try to turn off "same image in both monitors"
+ "The selected configuration for displays could not be applied: require
+ "The selected configuration for displays could not be applied / required virtual size does not fit available size: requested=(2560,841), minimum=(320,200), maximum=(1440,1440)"
+ there's nothing in my xorg.conf about this, either
+ so it should be autoconfiguring
+ Having trouble configuring dual monitors, can anybody help?
+ Can anybody help me configure my auxilliary monitor?
+ I'd love a little help troubleshooting my monitor configuration...anybody.....
+ Can anybody help me troubleshoot my dual-monitor setup?
+ (I have...)
+ "The selected configuration for displays could not be applied / required virtual size does not fit available size: requested=(2560,841), minimum=(320,200), maximum=(1440,1440)"
+ happens when I try to turn off mirror screens
+ Error is new since upgrading from 10.04
+ jstoone - you might ask in #ubuntu-dk
+ jstoone, det var saa ligt
+ Does anyone know why I would be getting the error "maximum=(1440,1440)" when I try to turn on a second monitor?
+ ATI
+ i tried it with and without fglrx
+ david8732, would that be the case with a new upgrade? This didn't happen in 10.04
+ david8732, now you understand my pain.
+ escott, anything specific you want? First of all, it seems to think I have a CRT connected, which I don't, dunno if that's part of the problem or not
+ david8732, did that, and fglrx should work as well now as it did then
+ although i actually haven't checked to make sure ati is installed
+ yeah :/
+ escott, should i write it into my xorg.conf? cos it's not there now.
+ escott, (also, xrandr doesn't say /anything/ about minimum=320/240 or maximum=1440/1440, which is the error Montors is giving me)
+ fglrx                2739144  130
+ escott, i don't know how, reading the help now but i've never used it before, so
+ escott, david8732, the second monitor is set to 1280/800 (max is higher) and mirror screens is on, but when I turn off mirror screens I get the error about exceeding 1440/1440. The only thing I can come up with is it thinks there's a maximum width for both screens combined, or is treating them as one screen when they're separate displays, or something of that nature. Why, I have no idea.
+ I also don't know why it's being identified as CRT1
+ escott, i can't turn off mirror screens, that's the problem
+ escott, when i try it gives me that error and reverts
+ escott, trying to search for a config file with 1440 in it anywhere right now...

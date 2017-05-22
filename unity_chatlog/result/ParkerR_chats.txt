@@ -1,0 +1,35 @@
+ Hello
+ I installed XP and now when I upfate grub it does not find it. Any ideas?
+ *update
+ Jordan_U, I'll check
+ parker@parker-G60VX:~$ sudo os-prober
+ [sudo] password for parker:
+ /dev/sda1:Windows Recovery Environment (loader):Windows:chain
+ /dev/sda2:Windows 7 (loader):Windows1:chain
+ parker@parker-G60VX:~$
+ Sorry
+ Here's the paste http://paste.ubuntu.com/602538/
+ And I tried adding a custom entry with Grub customizer but it doesn't show there either
+ Technically it is burg if it makes a difference
+ I can try burg-manager. I just find buc a little iffy
+ Jordan_U, It works just fine. Neither grub nor burg see XP though
+ I like the look
+ Jordan_U, Mind if I PM?
+ Ok
+ Jordan_U, Before I abandon burg I'm going to try burg-manager
+ Just a sec
+ What and where would I add to this to boot XP from sda3? http://paste.ubuntu.com/602543/
+ joncarr, Use compizconfig
+ It reanable the effects in 11.04
+ *reenables
+ joeyr, Try startx
+ I dunno then
+ Jordan_U, Did you see my new qustion?
+ *question
+ Sure
+ Jordan_U, There and IRC channel for it?
+ *an
+ joncarr, In here
+ Night
+ Jordan_U, Thanks
+ Graphics card

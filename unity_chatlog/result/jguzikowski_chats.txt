@@ -1,0 +1,5 @@
+ Hey guys, is it suggested to NOT upgrade from the last version of Ubuntu to the latest?
+ bazhang: sorry, i worded that terribly..should i do a clean install of the newest ubuntu or just upgrade?
+ Thanks baz, off to go try updating
+ hey guys, i just updated to 11.10 but i assume from a previous configuration my clock on the top panel has a black font..how would i go about changing that?
+ AceKing, hahah whoops, thanks :) easy fix!

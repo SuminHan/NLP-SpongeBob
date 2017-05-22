@@ -1,0 +1,2 @@
+ anyone know how to get 32-bit compatibiliy working again in natty?  i tried reinstalling it and that did not fix it
+ the 32 bit libs are already installed and were working up until a about a week ago more or less and then i started getting the wrong elf class errors after one of the updates

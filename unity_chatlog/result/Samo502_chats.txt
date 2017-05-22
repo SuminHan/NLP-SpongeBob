@@ -1,0 +1,36 @@
+ Hey everybody, I have a booting problem
+ Grub refuses to boot into my Windows partition, even if I choose to boot into it it still boots into Ubuntu
+ Hey, I need help with a booting issue
+ it's a bit urgent
+ KrisDouglas: I can't boot into windows, it boots into ubuntu even if i choose to boot into windows
+ it's probably a menu.lst problem
+ KrisDouglas: Upgrade, I've had Ubuntu for a while. Though I haven't updated in a little while
+ okenobi_: it's 11.04, and even though it should be in #ubuntu+1 i figure it's not so much natty related as grub related
+ Synaptic shows my grub version to be 0.97-29ubuntu61
+ okenobi_: http://pastebin.com/Dty7FGWn that's my menu.lst
+ okenobi_: i ran computer janitor yesterday and i think it changed some stuff, it had to be that because i didn't run an update or anything of the sort
+ okenobi_: maybe an update would help? being that an update changes menu.lst it might fix my booting perhaps?
+ okenobi_: would my rootnoverify be different or is it likely the same?
+ okenobi_: (hd0,2)
+ okenobi_: is the second number related to the numbers in /dev/sda#?
+ okenobi_: so then, being that my windows partition is sda1 then hd0,0 would be correct...
+ okenobi_: scratch that
+ okenobi_: was looking at the wrong partition, it's sda3
+ okenobi_: so therefore hd0,2 would be correct!
+ okenobi_: I notice mine is missing the makeactive line, and the rootnoverify is 0,2, hmm
+ okenobi_: hmm, i need to change my default as well. being that a lot of my other boot entries got deleted the default is way higher than the partition number
+ okenobi_: give me a few minutes, i'll try it out and get back to you
+ hello everybody
+ SirDidi: what do you mean more comfortable?
+ Ubuntu_user: i love Eclipse myself
+ Ubuntu_user: i know, i was just putting it out there
+ i've never been able to get far in C++ with ubuntu myself
+ kblin: i'm not sure what file that grub2 reads to accomplish something similar to menu.lst, however,
+ kblin: if you want to find out what hd(#,#) your partition is on go to say, GParted, and it'll have /dev/sda1 sda2 etc
+ kblin: i can't say what it is  exactly, but the 2 means it's going to be hd(#, 1)
+ kblin: i'm not sure what # sdb would apply to
+ kblin: i don't use grub2 i use 1.7 or 1.9 something, so i can't quote to you exactly what it would be ^_^
+ kblin: mine still uses menu.lst, and i don't think 2 does.
+ well everybody i'm gonna watch anime then bed so i'm off for now
+ do you have to run update-manager with any special parameters to update from Natty beta to regular Natty?
+ ActionParsnip: ah, i was thinking maybe it'd require -d, just making sure

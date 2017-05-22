@@ -1,0 +1,3 @@
+ Hello, how can I install GNOME3 in my Ubuntu 11.04?
+ Braiam, okay, thanks. Another help, how to include shortcuts and other options (like weather)  in panel? Also, I miss the bottom panel and the minimized windows there, who to get those?
+ Barridus, good. I am in trap by this update. :(

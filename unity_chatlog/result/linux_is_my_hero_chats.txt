@@ -1,0 +1,9 @@
+ how do i disable ubuntu one?
+ in ubuntu 11.04?
+ kevin147: if the refresh rate is wrong, that can do some damage.
+ kevin147: did you consider just contacting your monitor vendor and blaming them?
+ kevin147: just tell them it never worked in the first place and you want another one.
+ kevin147: call them back and say you have a blank hdd and therefore only a signal from your bios. if they dont understand that just ask to speak to a supervisor.
+ 11.04 is slower than 10.10 was because it reenabled ubuntu one. how do i disable ubuntu one in 11.04?
+ kevin147: have you tried connecting an HD video source via HDMI, like cable/sat/fios or a video game console?
+ or an N64 via component :-D

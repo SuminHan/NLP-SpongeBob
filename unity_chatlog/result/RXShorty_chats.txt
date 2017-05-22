@@ -1,0 +1,8 @@
+ Hello all, I have a question about Ubuntu server 10.04 I am logged in and it sais there are some updates
+ but running apt-get update / upgrade
+ doesn't update anything
+ Could be how can I update these?
+ Ah
+ is that the issue
+ I already ran dist-upgrade
+ zvacet: I already ran dist-upgrade

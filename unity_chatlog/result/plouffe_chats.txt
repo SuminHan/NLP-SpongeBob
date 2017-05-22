@@ -1,0 +1,3 @@
+ I have a pdf file with document scans which I need to crop and flip some of the pages. Any suggestions what to use? PDF Editor doesn't seem able to even load the document.
+ ^rotate some of the pages
+ pvh_sa, thanks. Will have a look

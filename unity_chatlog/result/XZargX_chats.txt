@@ -1,0 +1,4 @@
+ Is anyone successfully using the Asus p8p67 MB (the basic board not pro or deluxe)  with Natty. Thinking of buying one...
+ pfifo - good news. It sounded like it should but some posts I read hinted at network LAN issues
+ pfifo - thanks for the info
+ anyone running an asus p8p67 MB (base model, not PRo or anything) with Natty. would appreciate user  experience before purchase. thx

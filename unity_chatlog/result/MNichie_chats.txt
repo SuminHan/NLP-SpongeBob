@@ -1,0 +1,3 @@
+ ibeekman: sudo apt-get install gnome-desktop-environment, unity has problems
+ If I wanted to use a mac, I would.  No reason to use a buggy rip off of os x
+ Nighthwk: gftp

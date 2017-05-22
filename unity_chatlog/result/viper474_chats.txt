@@ -1,0 +1,3 @@
+ How do I identify with services so I can change channel?
+ How can I pass a value between classes?
+ LjL: oh, sorry I though I was in the java room, sorry

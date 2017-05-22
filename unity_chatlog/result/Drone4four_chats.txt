@@ -1,0 +1,6 @@
+ For some reason ALT+F3 doesn't prompt the run dialog box.  wtf? i checked keyboard shortcuts and there is no entry for run dialogue.  how do I get my run dialog back?
+ i meant to say alt f2
+ alt f2 doesn't work
+ classic
+ dasy2k1, i'll try adding the run applet to my panel
+ ty dasy2k1

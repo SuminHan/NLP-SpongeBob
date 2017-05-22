@@ -1,0 +1,1 @@
+ romno0x: you run an app on a remote host and you get its display (i.e. window) in your host

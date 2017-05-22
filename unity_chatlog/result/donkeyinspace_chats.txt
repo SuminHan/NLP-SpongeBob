@@ -1,0 +1,15 @@
+ when internet connection fail do i need to reconnect xchat?
+ hello, where to download trustable experimental packages?
+ ActionParsnip , is pkgs.org a trustable site?
+ why is not to possible to force some package s version?
+ hello, is there a specific channel to talk about compiling?
+ Captainkrtek , thanks
+ hello, where can i talk about compiling?
+ hello, i would like to check a burned ubuntu cd (dont have iso) using MD5SUM, anyone know if can it be done?
+ FreeHCK , However this will almost NEVER be the same hash as the iso image that was burned to the disk, because this command includes the empty space at the end of the disk, which changes the hash. So you must check only the part of the disk that was on the iso.
+ hello, i would like to check a burned ubuntu cd (dont have iso) using MD5SUM, anyone know if can it be done?
+ FreeHCK , i ve been away, will try it later , thaks
+ hello, when trying to get a iso from a burned ubuntu cd get a file with only + - 100 mb. what is wrong?
+ hello, when trying to get a iso from a burned ubuntu cd using dd i get a file with only + - 100 mb. anyone knows if im doing something wrong?
+ DJones , it is a desktop cd
+ pizza333 , any solution?

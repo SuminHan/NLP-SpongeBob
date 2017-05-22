@@ -1,0 +1,91 @@
+ Q: This new unity stuff, the tool bar at the top is rather annoying , I want the tool bar to be attached to my windows again so I can still continune to use "focus with mouse move" .. how do I fix this in unity?
+ ohsix: hm, ok. ill try that. so ubuntu still got gnome?
+ ohsix: but ubuntu dev's really should look at moving the "toolbar" top back to the windows agains, other then that unity looks sweet
+ ohsix: hm, so what you are saying is that they had a design issue about it, and they dropped it and implemented it just as faulty as it is done in OS X? or do you mean it's design document is long over due and accepted a long time ago? if the last one, can I still submit a ticket and hope for it getting fixed in the future?
+ ohsix: obiously it is faulty when you drop functionality that has been in unix systems since their beginning.( Being able to focus windows just by moving your mouse ...)
+ ohsix: you still break compability with work flow that's been working since the "80's". Now your doing the same mistake as Apple have done, making the toolbar stuck at the top so your unable to access it at all if your using auto focus by mouse...
+ ohsix: bad design decision then if I may say so ;-)  But does this Unity have a project side so I at least can make a ticket about it?
+ ohsix: that's my plan, I would love to hear their input on it. As it seems ubuntu is making Unity the default window manager, I better give them a heads up about the issue ASAP. All the people ive learned linux over the years, they have loved the "mouse focus" feature and other neat features that is pretty common in the world of *nix compared to Windows.
+ ohsix: so may I ask what this ayatana is? website? tracker? *opens google*
+ ohsix: ok, but I still would love to submit the ticket - so where would be the best place to do so? And is there any other Unity intro/tutorial with common usages? Unity looks like OS X but is there like shortcuts for minimizing windows like in OS X etc?
+ ActionParsnip: that minimizes every window ActionParsnip . Possible to minimize only the selected window pr. default?
+ hm, gnome3-session depends on a package named gnome-shell which isn't in the repos?
+ AaeRohn: is it a usb scanner? open up a terminal, type dmesg , take note of latest "timestamp" on the last entry. Plug in your scanner and type dmesg again, does it seems to register and be handed of to any device?
+ AaeRohn: just look at the botton, "dmesg" shows you system messages (important ones basically) , I wanted you to type it once before you plugged in the scanner just to notice what has already been printed, then a second time after you have plugged it in. That way you could easily see what is new messages ;-)
+ AaeRohn: paste the info here: http://paste.ubuntu.com/
+ AaeRohn: paste the link here so I can take a quick look.
+ AaeRohn: by the looks of it, it seems to regonize your printer/scanner as a usb storage disc, interessting.  Let me do some research about your scanner
+ AaeRohn: while im searching, you might want to see if the instructions in this forum post helps you: http://ubuntuforums.org/showthread.php?t=1195552
+ AaeRohn: http://welcome.solutions.brother.com/bsc/public_s/id/linux/en/download_prn.html#MFC-6490CW is some .deb packages you could download. But there is also some brother-* packages in ubuntu's repositories but Im unsure which one fits your scanner/printer hm.
+ AaeRohn: so only scanner doesn't work?  Are you in the scanner group?    Check by typing   "groups <your_username>" in the termianl to check your groups.
+ AaeRohn: sudo adduser <your_username> scanner    should put you in the scanner group at least, that might give you the correct/enough permissions for the scanner program to detect your device maybe?
+ ohsix: I'm sure how you fix setting devices in correct usb-mode tho :/  Always got it fixed by either fixiing permissions to the device/being in correct group or getting the correct debian package which contains neccery drivers.
+ AaeRohn: hm, ohsix says that should be fixed automagically at booting if things are setup propertly. hm.
+ ohsix: wouldn't hurt for him to try  a "sudo adduser <his_username> scanner" ?
+ AaeRohn: Im plugging in my scanner here to check some command line tools.      are you able to type   "sane-find-scanner" in your terminal? does it detect any scanners?
+ AaeRohn: interesting, could you pastebin the results for me in a pastebin?
+ AaeRohn: http://paste.ubuntu.com
+ AaeRohn: while I read some documentation, try this while waiting for the **** of it:     sudo adduser <username_on_your_pc> scanner             then logout and login again so it starts a new session.(reboot shouldnt be needed afaik aslong as you restart the session) See if xsane detects your scanner then.
+ AaeRohn: actually,   try   scanimage -L    in the terminal .
+ AaeRohn: brb, plugging in my scanner, easier to help you figure out of the stuff then ;)
+ AaeRohn: try   scanimage -x 100 -y 100 --format=tiff >image.tiff
+ AaeRohn: just checking if it's able to scan anything.
+ AaeRohn: checking stuff here, trying to figure out how to communicate with my scanner on the commmand line.
+ AaeRohn: http://paste.ubuntu.com/601034/
+ AaeRohn: scanimage -L  gives? mind pasting that line too? does it give you "brother3:bus7;dev1" as device?
+ AaeRohn: try the same command again but put the brother3:bus7;dev1 in quotes like  "brother3:bus7;dev1" after -d argument.
+ AaeRohn: you had this scanner working earlier did you? What version of ubuntu did you run then?
+ AaeRohn:  I see. Anyway, Ubuntu is a good choice anyway so lets see if we can figure this out ;-)
+ AaeRohn: http://www.linuxquestions.org/questions/linux-hardware-18/brother-mfc-240c-intermittent-scanning-issue-632801/   , looks like someone else have had this invalid argument thing popping up on your type of scanners. Try turn your scanner off and on again and see if it gives a better result.
+ AaeRohn: ohh, we need some scanning drivers maybe. hm.
+ AaeRohn: http://welcome.solutions.brother.com/bsc/public_s/id/linux/en/download_scn.html
+ AaeRohn: been there? :]
+ AaeRohn: ok, I notice there is some scan-key-tool and brscan3 executables/packages. *checking their docs*
+ AaeRohn: type   brscan-skey     (should start running as a background process) then try   brscan-skey -l
+ AaeRohn: check http://welcome.solutions.brother.com/bsc/public_s/id/linux/en/instruction_scn3.html  , says to    press the scan button and select user and seelct destination and start?
+ AaeRohn: I asume running that brscan-skey program, it is able to receive the scanning image from your scanner? *wildly guessing out in the wild , hehe*
+ AaeRohn: same, any is fine I guess
+ AaeRohn: it mentioned destination in the docs, and user ? no prompt for that?
+ AaeRohn: ok, lets see if adding a udev rule might do the trick then.
+ AaeRohn: http://welcome.solutions.brother.com/bsc/public_s/id/linux/en/instruction_scn1c.html is some notes about adding an udev rule, it notes is for Ubuntu 9.10 and 10.04 but im sure its the same for 11.04
+ AaeRohn: Ill just check if its the correct file to edit.
+ AaeRohn: aye, can you give me roughly an ETA, ill make me some cooffee or something (its 1am here in Norway)
+ AaeRohn: http://paste.ubuntu.com/601063/
+ AaeRohn: I'm still around, had a visit by some old friend at the door at 1.30am :O
+ AaeRohn: you have to reboot now ;-)
+ AaeRohn: that command requires you to reboot your computer to take action.
+ AaeRohn: awesome :-)
+ AaeRohn: conclution, drivers were installed but dmesg only registered it as a standard usb storage device, so we had to poke it to switch usb mode or something. That we can do by udev which is a system of rules for setting up devices that your operating system uses to speak with the devices.
+ "dmesg shows us it was only registerd as a ..."
+ Q: when logging back into gnome2 session, it seems like the latest ubuntu have changed some compiz settings, I noticed the same behaviour under unity. My problem is that if Im not using "raise on click" , I won't be able to raise other window infront. Normally I do this by alt+mouseclicking a window. Any suggestions on how to fix?
+ ohsix: I got something called CompizConfig Settings Manager
+ ohsix: oh, that is ccsm, and I have ticked of  "Raise on Click" under General Options -> Focus & Raise behaviour but I'm unable to alt+click a window to make it pop in front of other windows
+ ohsix: the alt+click(+drag) works for moving the window, but it still moves behind other windows . Latest started program is the window with heighest z-index you could say...
+ ohsix: mhm, and that's where I untick all 3 first boxes so I get focus selected by mouse move, then I normally would use alt+mouseclick to raise the window.
+ ohsix: oh, control button 6 , hm
+ ohsix: wonder what button that is :O
+ ohsix: that seems to do the trick. just rebinded it to some other key. Tho, I think alt+mouseclick was standard unix/x11 behaviour from old days. Worked aslong as I can remember I think. Anyway, no problem remapping it, just had to know where :-)
+ ohsix: ok, been working for me as long as I can remember at least - hehe.
+ does that dcc exploit still work? Thought that was fixed in irc clients ages ago . (offtopic)
+ ohsix: oh, never read up on the thing, I thought it was bad implementation on irc clients that you could abuse when overflowing it and cause it's connection to reset or something when you sent that dcc thingie.
+ oh, what is good backup softwares to run on your private server? one that works for both os x, windows and linux hopefully? :)
+ Ive tried backuppc, its neat for servers but a bit bleh for clients ...
+ !sbackup
+ !cloning
+ unc0nn3ct3d: at login, you can still select gnome2 (ubuntu classic) as your window manager.
+ Anyone uses Deja Dup? does it require a lot of tmp storage?
+ emj: requires you to open the port on his router, or you running a lisntning daemon which he can invite.
+ emj: I normally use Teamviewer ( www.teamviewer.com ) , free for personal use and always works thru firewalls etc and works towards all OS.
+ emj: but if your looking for a permanent solution, opening port and fix vnc would be better.
+ emj: for vlc? there is plenty ..
+ emj: s/vlc/vnc/ ;)
+ emj: GUI for setting up vnc server? If your using gnome your finding that under system - preferences - remote desktop  (that should be vnc I think)
+ emj: if your looking for a GUI client for VNC, try  apt-get install xvnc4viewer
+ emj: anyhow, what was the issue and I'll try to help more directly to your problem.  :)
+ lcb: agree, TeamViewer is such a breeze to use.
+ lcb: mhm, and it runs on "any" OS. (at least the most common ones ;))
+ HTCPX: yes. Run up a task maanger and you'll see you got extra cores.
+ HTCPX: all linux distros support it aslong as they have a kernel that compiled support for it (which is pretty common now a days ;))
+ HTCPX: there's a lot of debate on how efficient hyperthreading is, for multitasking and normal software usage I would say yes. For gaming on windows, it actually might be ther other way around. (at least from the last time I read up on it)
+ HTCPX: but then again, games now a days take more efficient usage of multiple cores so hyperthreading might still be good for gaming in windows. It actually depends on pr game last time I read on it :)
+ HTCPX: anyway, short answer - yes I would enable it :-)

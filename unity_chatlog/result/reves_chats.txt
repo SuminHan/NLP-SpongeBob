@@ -1,0 +1,5 @@
+ auxin... try sudo apt-get update
+ auxin... try sudo apt-get update
+ i thought they were merging netbook and desktop releases together with 11.04! why is there still a distro for each?
+ jaredquinn: the download options say otherwise
+ Anybody had any problems with a fresh install of 11.04 booting up to the loading screen, then just resetting the system in a loop?

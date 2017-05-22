@@ -1,0 +1,7 @@
+ Does anyone here use autohotkey?
+ run %Riot Games%\league of legends\lol.launcher This isnt working. I know it has something to do with the sace but im really new so i have no idea
+ Basic line of code not working, can someone take a look at it and tell me whats wrong. Its only one line of code
+ Was trying, i had had the code copy'ed but lost it somewhere
+ run %Riot Games%\league of legends\lol.launcher
+ I know it something to do with the space
+ Code not working run "%A_Riot Games%\league of legends\lol.launcher" No idea why exept for the space between riot and games is the problem, just dont know why or how to fix it

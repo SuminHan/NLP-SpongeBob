@@ -1,0 +1,11 @@
+ Goliath,  no it's not
+ hey guys i just install 11.04 and i want to know is  "fglrx" in repo have tear free or i have to install from amd.com ?
+ KNUBBIG,  thx
+ hi guys i interesting problem when i click my apps opened on my desk sometime it can't change apps i mean mouse click don't work :S
+ have
+ :P
+ kyubutsu, http://ftp.linux.org.tr/ubuntu-releases/6.06/
+ http://ftp.linux.org.tr/ubuntu-releases/6.06.2/
+ but all server :S
+ hi guys why flash player unstable with natty and fglrx ?
+ anyone have same issue with fglrx and adobe flash ? i mean high cpu usage

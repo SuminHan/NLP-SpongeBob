@@ -1,0 +1,36 @@
+ Hi, I am having some problems with pulseaudio, sound gets muted every 5 seconds. I tried googling, but couldn't find much.
+ brontosaurusrex, gparted
+ brokendatapoint, maybe a differente partition for /home as well, in case you want to try something else in the future
+ DestroiTe, it gets muted every 3 seconds?
+ DestroiTe, did you checked alsamixer to see if they are muted? I have a similar problem, sound gets muted after 3 seconds of playing any sound...
+ DestroiTe, I hate pulseaudio. Does that happens only with the front jack?
+ nbf, what do you mean broken?
+ nbf, like what?
+ ahh, I didn't try unity. using lxde, no problems here.
+ nbf, except for pulseaudio front jack not working
+ wojei, yes, for most of settings and accounts. If you backup /home for example
+ wojei, if you already have /home in a different partition, then just choose it to be your new /home
+ wojei, with a fresh install, nah. Only if you do it manually, as some app may use different config files, different syntax etc?
+ DestroiTe, reporting the bug is the first step.
+ DestroiTe, https://wiki.ubuntu.com/PulseAudio/Log
+ NictraSavios, not bad
+ wojei, what did you have to configure? cp the config files and manually replace them on the new install.
+ wojei, thats easy, just cp those config files. its not much at all
+ wojei, the group yes. Dont do that to the shadow, you will still need to create  the same user on the new install
+ wojei, every user wil need to be reacreate , so yes. Once they are created again, they'll use their old home/user dirs...
+ DestroiTe, weird, so thats another bug you are logging with the two previous commands.  I don't know much about pulseaudio, all i know is I don't like it. Sorry and good luck
+ if the release sucks because of unity ,then it doesn't suck at all.
+ JoseeAntonioR_, maybe you want to have a custom xorg.conf file to manually set the resolution. Or use a monitor settings app to change it.
+ JoseeAntonioR_, hum, the only way I see you get that resolution working is to keep tweaking the xorg.conf... read the xorg logs to see the errors and adjust it
+ JoseeAntonioR, sudo tail /var/log/Xorg.0.log
+ ocx, apt-get install, aptitude install
+ ocx, apt-cdrom add
+ Pudabudigada, can you play any sound at all?
+ maybe a codec problem?
+ Pudabudigada, it looks like a codec problem, what do you use to play music? did you try another app for it?
+ ocx, and do you the necessary compiler for it?
+ Pudabudigada, and vlc didn't work?
+ ocx, do only  "$sudo apt-cdrom add"
+ Pudabudigada, if you try mplayer file.mp3 on a terminal whats the output?
+ Pudabudigada, yes
+ ocx, ok so if the dvd is there it got added to the source list. Try installing whatever you want and if its in the dvd it'll get installed

@@ -1,0 +1,4 @@
+ whenever I start a torrent download I get "/tmp/xxx.par cound not be saved, because the source file could not e read...." even from http://www.ubuntu.com/download/ubuntu/download .... why?  ... is my isp blocking all torrent downloads?
+ Zeeofu, is there a howto on setting this up?
+ Zeeofu, no, ubuntu 10.10
+ I am having trouble setting up a proxy for 'Transmission' torrent program.. I found this list http://torrentproxy.org/ ... I have tried several .. when I click on the 'download' torrent button I still get the "/tmp/xxx.part could not be saved, because the source file could not be read." error

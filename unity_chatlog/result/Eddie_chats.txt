@@ -1,0 +1,5 @@
+ Hello there... I just had my computer crash when updating the new version... I try to boot but it telles me it cant mount the drive
+ what can I do to recover ubuntu?
+ zvacet: My computer froze during installation and I rebooted, not it says it can't find the drive
+ zvacet: do you think reinstalling ubuntu would allow me to finish the upgrade without having to lose my files?
+ Is there a way to continue the upgrade after your system crashes

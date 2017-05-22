@@ -1,0 +1,3 @@
+ any idea why my nvidia drivers are loading but won't be put to use? in the log file it just says failed to initialize NVIDIA GPU at PCI:1:0:0. check system kernel log. I checked... I see nothting there.
+ Younder, is where will I change the irq # to use?
+ Younder, I don't see anything else using irq 16 on my box

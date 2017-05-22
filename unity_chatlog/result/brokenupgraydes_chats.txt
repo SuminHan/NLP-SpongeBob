@@ -1,0 +1,7 @@
+ my upgrade failed, dpkg is now corrupted, but I have a liveCD.  How to recover?
+ iceroot, chroot'd and running dpkg now, got a bunch of warnings about dpkg status file syntax
+ bleh, scrollback.
+ iceroot, just many of these: dpkg-query: warning: parsing file '/var/lib/dpkg/status' near line 20421 package 'encoding.com':  error in Version string 'version0.87': version number does not start with digit
+ iceroot, bah. hundreds of them.
+ "Processing was halted because there were too many errors."
+ fff.

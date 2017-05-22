@@ -1,0 +1,1 @@
+ my bluetooth adapter (internal, laptop, GE620) is not automatically recognized. how do i probe for it?

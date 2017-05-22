@@ -1,0 +1,37 @@
+ Is this the appropriate loction to ask for Ubuntu support?
+ Thanks.
+ Just made the switch to Ubuntu today. I have some issues with Software Center. It's been hanging on me and won't get past the loading icon.
+ red2kic: thanks. I was trying to find what to enter into terminal to install something
+ so I use aptitude to install a package I already downloaded?
+ Skype.
+ I didn't know that Skype was going to be a problem given that it seemed okay to download.
+ Oh, I see. I was just trying to make sure I could maintain parts of my social life while keeping Ubuntu as an operating system.
+ Anyways, this is what I got in Terminal.
+ richard@richard-VGN-FZ430E:~$ sudo apt-get install skype [sudo] password for richard:  Sorry, try again. [sudo] password for richard:  Reading package lists... Error! E: Encountered a section with no Package: header E: Problem with MergeList /var/lib/apt/lists/us.archive.ubuntu.com_ubuntu_dists_natty_main_i18n_Translation-en E: The package lists or status file could not be parsed or opened. richard@richard-VGN-FZ430E:~$
+ got to 99% then this happened
+ Ign http://us.archive.ubuntu.com natty-updates/universe Translation-en Reading package lists... Error! E: Encountered a section with no Package: header E: Problem with MergeList /var/lib/apt/lists/us.archive.ubuntu.com_ubuntu_dists_natty_main_i18n_Translation-en E: The package lists or status file could not be parsed or opened. richard@richard-VGN-FZ430E:~$
+ julian_c: was that directed at me?
+ do I just delet everything in that folder? Just wondering because there's another folder inside it called "partial" and I'm not sure if that's suposed to be there or not.
+ richard@richard-VGN-FZ430E:~$ sudo mv /var/lib/apt/lists/us.archive.ubuntu.com_ubuntu_dists_natty_main* ~/Desktop/ mv: cannot stat `/var/lib/apt/lists/us.archive.ubuntu.com_ubuntu_dists_natty_main*': No such file or directory richard@richard-VGN-FZ430E:~$
+ Did I do it wrong?
+ richard@richard-VGN-FZ430E:~$ cd /var/lub/apt/lists ; ls bash: cd: /var/lub/apt/lists: No such file or directory Desktop    Downloads         Music     Public     Videos Documents  examples.desktop  Pictures  Templates richard@richard-VGN-FZ430E:~$
+ So it said no such file or directory but I got all this
+ ah it's all right
+ richard@richard-VGN-FZ430E:~$ cd /var/lib/apt/lists ; ls extras.ubuntu.com_ubuntu_dists_natty_main_binary-i386_Packages extras.ubuntu.com_ubuntu_dists_natty_main_i18n_Index extras.ubuntu.com_ubuntu_dists_natty_main_i18n_Translation-en extras.ubuntu.com_ubuntu_dists_natty_main_i18n_Translation-en%5fUS extras.ubuntu.com_ubuntu_dists_natty_main_source_Sources extras.ubuntu.com_ubuntu_dists_natty_Release extras.ubuntu.com_ubuntu_dist
+ and there's more but it looks like IRC cut it off
+ I found how to use a pastebin.
+ http://pastebin.ca/2053690
+ Here's this paste for ya http://pastebin.ca/2053694
+ Software sources doesn't seem to come pre-installed. How can I get it without using Software Center given that it's not working for me?
+ This is what happened when I tried to open synaptic
+ shit can't upload the image
+ Oops. Anyways here's the pastebin of what Synaptic gave me http://pastebin.ca/2053695
+ red2kic: what do you want me to do?
+ You want m to just downgrade to a lower version and work from there?
+ -me
+ I understand.  I'll get that taken care of tomorrow then. Will doing so affect my partition though?
+ So I'll take care of going to 10.04 tomorrow. Anything I should know about that ahead of time though?
+ red2kic: Gotcha. I alreay have Windows 7 running fine on a partition created with 11.04 . Will installing 10.04 affect that?
+ red2kic: Okay. Another question. I installed 11.04 from a flash drive. Should I do the same or should I just buy a blank disc to be safe?
+ Does it matter whether or not I'll install 10.04 on a flash drive or if I should just buy some discs given that I installed 11.04 on a flash drive and these issues are occuring?
+ Thanks for all your assistance.

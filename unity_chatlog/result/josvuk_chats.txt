@@ -1,0 +1,2 @@
+ Hi, how to find out which boot manager was used during booting?
+ I have no file named /etc/defaults/grub but the docs says grub is the default boot manager for lucid. What is wrong?

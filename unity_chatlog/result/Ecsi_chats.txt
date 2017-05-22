@@ -1,0 +1,2 @@
+ hi all !
+ how to activate s2both in the suspend ? (uswsusp installed)

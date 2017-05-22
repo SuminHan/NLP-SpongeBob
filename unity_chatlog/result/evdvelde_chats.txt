@@ -1,0 +1,8 @@
+ hi all, i installed Natty and now my bluetooth mighty mouse does not respond to clicks, scrolling works... any ideas?
+ vibhav: sounds similar, thoug it is with keyboard
+ hi all, bluetooth troubles after upgrading to natty: adapter not found after booting (needs extra service restart) and bluetooth mouse moving and scrolling but not clicking... your help is appreciated!
+ hi all, bluetooth troubles after upgrading to natty: adapter not found after booting (needs extra service restart) and bluetooth mouse moving and scrolling but not clicking... your help is appreciated!
+ cholo: on restarting the service (/etc/init.d/bluetooth restart) adapter is found, but the mouse acts strangely
+ cholo: so i just have to pray and wait for updates? :)
+ cholo: been looking, the kernel with patch failed as well
+ cholo: http://fossplanet.com/f10/%5Bbug-700292%5D-%5Bnew%5D-bluetooth-keybord-after-natty-upgrade-not-working-92191/index2.html

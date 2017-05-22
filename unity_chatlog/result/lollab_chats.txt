@@ -1,0 +1,4 @@
+ hello, I have HP elitebook 8440p and I would like to enable fingerpint scanner for sudo privlige, any help?
+ I forgot to say, fprint does't see any device,
+ anybody get this finger print scanner works on ubuntu ? HP 8440p Elitebook
+ anybody got  HP 8440p Elitebook  finger  print scanner works on ubuntu ?

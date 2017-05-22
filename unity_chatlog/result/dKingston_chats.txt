@@ -1,0 +1,10 @@
+ ok, so
+ i just tried gnome 3
+ and it sucks
+ so i'm trying to use apt-get install
+ and it still sucks.
+ what do
+ Soothsayer: it's literally broken for me.
+ i followed instructions exactly
+ didn't work for this
+ Soothsayer: everything

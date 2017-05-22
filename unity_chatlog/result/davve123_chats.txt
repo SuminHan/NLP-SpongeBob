@@ -1,0 +1,1 @@
+ hiya, when i try to install subversion with apt-get i get stuck at Waiting for headers. HEPL

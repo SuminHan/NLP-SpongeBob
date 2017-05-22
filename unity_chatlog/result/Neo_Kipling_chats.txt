@@ -1,0 +1,2 @@
+ scan my new ubuntu 11.04, it has "1080/tcp open  tcpwrapped", what's this for? how can i close it?
+ nmap -A 127.0.0.1   get: 1080/tcp open  tcpwrapped . ubuntu 11.04, anyone please tell me what's this daemon

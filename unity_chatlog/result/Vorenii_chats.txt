@@ -1,0 +1,8 @@
+ any idea how long itll take before 11.04 is released?
+ any idea how long itll take before 11.04 is released?
+ how do i open a txt file to edit as a root?
+ how do i open a txt file to edit as a root? /usr/share/empathy/empathy-chat-window.ui
+ how do i open a txt file to edit as a root? /usr/share/empathy/empathy-chat-window.ui
+ but i dont want to use vi, i dont understand it.
+ yes thats the one, thx Hello71
+ Are there in ubuntu ways to just like in Windows 7 show my load on the processor and memory?

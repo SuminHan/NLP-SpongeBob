@@ -1,0 +1,32 @@
+ hi guys, firefox 4.0.1, flashplugin-nonfree and using flashaid leaves with a black screen when full screen viewing youtube videos, could you point me in the direction of a fix please?
+ using ubuntu 11.04 in classic mode with effects
+ hi guys, firefox 4.0.1, flashplugin-nonfree and using flashaid leaves with a black screen when full screen viewing youtube videos, could you point me in the direction of a fix please? using ubuntu 11.04 in classic mode with effects
+ just trying beta version mate in flash aid
+ no go on the beta
+ MnCC, anything else to try?
+ paste env LD_PRELOAD=/usr/lib/libGL.so.1 into where, do you mean the firefox launcher properties?
+ lol sorry, ill re-phrase, do i just paste in front of the firefox command?
+ WINNING
+ +10 internets to MnCC
+ thanks very much dude
+ putty is nice but try mremote on windows
+ its awesome
+ more complete it allows for rdp, ssh, vnc, rdp
+ oops
+ rlogin
+ and other things, the interface is much nicer plus you can have multiple sessions in one window
+ kwtm, im not sure i still use tightvnc if i am honest, the best part for me is the multiple sessions, but i do think the vnc client is built-in
+ kwtm: well I also work in a restrictive corporate environment, only place I use Windows, and had no problems, so I am pretty sure you will be fine :)
+ kwtm, as said i use it mainly for multiple sessions and the tidyness of the desktop
+ kwtm, its a connection manager for putty etc
+ kwtm, no trouble lol i should have mentioned that
+ exaile?
+ sudi
+ sudo iwconfig wlan0 essid bar
+ sudo iwconfig wlan0 key bar
+ beanstalk type startx
+ x is broken by the sounds of it
+ mv /etc/X11/xorg.conf xorg.conf.broken
+ reboot and test
+ or try to autogen a new xorg.conf file
+ cool beanstalk gl

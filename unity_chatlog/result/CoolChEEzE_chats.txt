@@ -1,0 +1,3 @@
+ daskog, i run photoshop and dreamweaver in vbox on ubuntu ... works great
+ daskog, performance is great on my machine... cant really see alot of diff
+ use win 7 on it

@@ -1,0 +1,2 @@
+ hi, i've installed and removed xubuntu-desktop but it still appears in my Session list at the login screen - how do i remove this? it's also changed the way it appears (xfce icon etc)
+ thanks xangua

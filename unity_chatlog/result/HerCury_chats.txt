@@ -1,0 +1,2 @@
+ schneidmaster: here's a related link that might help http://askubuntu.com/questions/34597/how-do-i-make-a-custom-launcher-for-terminal-applications
+ nodie: install ccsm and select autohide from unity plugin section

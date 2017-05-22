@@ -1,0 +1,14 @@
+ hm... this new gnome thing... how do you move the panels or config anything? None of the shortcuts include gnome configuration utilities XD
+ so this is a good time to switch to a tiling wm then i guess
+ was using awesome + gnome panel now to ease the transition, but that stopped working after upgrade
+ so, are there any advantages to the unity dektop thing? I'm trying really hard to think of one. It's like it was meant for tablet PC:s
+ aha! the shutoff buttton had a link to the config center... maybe there is hope for gnome yet - they knew exactly where people would look first when they started unity
+ @eigba Not a lot, soz. Panels i can't move, huge icon shortcuts and no menu :( and the run command thingy covers 25% of the screen - a bit overkill on 27" screen XD
+ ohsix: well there are some panel-like grey strips where panels normally might be... and they hold volume controls and clocks
+ is there a way to reach the normal menu from unity?
+ yes i did that
+ depends, if i want to set up the shortcuts - having the menu handy in some form would problably help?
+ wine with pulseaudio patch is good enough for me :P
+ lapion, you can switch to ubuntu-classic in gdm as well (just log out) or install some other DE/wm such as kubuntu-desktop
+ since unity seems to be the default canonical UI from now on, it might be wise to keep it around
+ just click and drag afaik

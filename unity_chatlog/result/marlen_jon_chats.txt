@@ -1,0 +1,7 @@
+ Is there a system of voice recognition which I can use to link a function to a command that was called by voice?
+ Is there a system of voice recognition which I can use to link a function to a command that was called by voice?
+ ubottu: Is it possible to perform this linking I was talking about?
+ LjL: Is it possible to perform this linking I was talking about?
+ THanks
+ Eduard: Yes
+ Eduard: Not sure though but I remember a simliar question from one of the members here which was eventually solved successfuly.

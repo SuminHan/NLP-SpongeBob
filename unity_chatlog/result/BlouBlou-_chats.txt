@@ -1,0 +1,1 @@
+ hi, I just installed ubuntu, I installed graphic card-drivers and when I rebooted, I lost gnome pannels, any idea of how to recover them?

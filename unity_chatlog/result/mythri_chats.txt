@@ -1,0 +1,37 @@
+ how to copy files from terminal to cd on ubuntu
+ how to copy files from terminal to a dvd or cd..my ubuntu STOPPED WORKING
+ how to copy files from terminal to a dvd or cd..my ubuntu STOPPED WORKING..I need to backup my files..really in mess now
+ usr13, how to copy files from terminal to a dvd or cd..my ubuntu STOPPED WORKING..I need to backup my files..really in mess now
+ vibhav, all i can acess is my terminal and i m new to ubuntu..pls it would be greatful if u guide me through terminal
+ Herbs, i need to backup all my files in ubuntu..to a cd..all i can acess is terminal on recovery mode
+ vibhav, yeah i have windows with me
+ vibhav,  i need to backup all my files in ubuntu..to a cd..all i can acess is terminal on recovery mode
+ vibhav, the files are on ubuntu drive
+ Herbs,  i dont know i m new to ubuntu
+ vibhav, its in home folder
+ vib in documets
+ vibhav, wat can i do now
+ vibhav, ok
+ vibhav, yea i have a windows installed
+ I need help. Using Ubuntu 10.10. I have recovered my files through Windows and have only retrieved a single file Root.disk. Can anyone help?
+ I need help. Using Ubuntu 10.10. I have recovered my files through Windows and have only retrieved a single file Root.disk. Can anyone help?
+ Is root.disk enough for recovering all my documents from ubuntu 10.10?
+ Is root.disk enough for recovering all my documents from ubuntu 10.10?
+ Is root.disk enough for recovering all my documents from ubuntu 10.10?
+ Is root.disk enough for recovering all my documents from ubuntu 10.10?
+ Incarus6, I used disk internals and recovered my root.disk from ubuntu through Windows xp
+ Incarus6, I used disk internals and recovered my root.disk from ubuntu through Windows xp
+ What am I able to do with root.disk?
+ Can I recover files?
+ Incarus6, What am I able to do with root.disk?
+ elzoog, I don't have such a Knoppix cd right now
+ Incarus6, how can I extract my essential documents from that?
+ Incarus6, is there anyway I can open root.disk and see the contents?
+ Incarus6, is there anyway I can open root.disk and see the contents?
+ Incarus6, the root.disk I have got is from ubuntu.
+ Incarus6, what is that link you gave me last for?
+ hello everyone i m new to ubuntu..i need to backup..wat does ROOT folder mean..wil it have my documents in it
+ jrib, i have to reinstall the ubuntu ......before that i was tryin to recover my ubuntu documents and files from windows xp partition..my ubuntu doesnt work now
+ jrib, when  i did that i only got a back of ROOT.DISK
+ jrib, my ubuntu works no more and tried doing back of ubuntu files from diskinternals software i got a file called ROOT.DISK will it have all my documents and files in it?
+ my ubuntu works no more and tried doing back of ubuntu files from diskinternals software i got a file called ROOT.DISK will it have all my documents and files in it? i want to do a reinstall of ubuntu..does anyone knows it? please help me i m new to ubuntu

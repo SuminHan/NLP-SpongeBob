@@ -1,0 +1,5 @@
+ good evening
+ i've been having some trouble for the last week updating my n900 (maemo based) repos... hash sum mismatch errors. and i was thinking of ways to solve it. i found a vmware image of maemo that i can run on vmware on one of my dedicated servers and it updates perfectly with no errors every single time. is there a way i can use that hosted maemo image as a mirror on my device ?
+ i know, but it's an apt based question
+ escott say i have ubuntu running on my desktop, having same problem, can it be done?
+ you know it's not off-topic...

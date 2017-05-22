@@ -1,0 +1,3 @@
+ I've just installed Visual Python but I get a weird  error regarding GLX
+ Now that Ubuntu isn't using xorg.conf anymore i don't know how to fix it...
+ ultrixx: /var/cache/apt/

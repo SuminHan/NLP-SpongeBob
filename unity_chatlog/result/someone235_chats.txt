@@ -1,0 +1,13 @@
+ i tried to upgrade to 11.04 & got this error: http://pastebin.com/xDYgtdjF . what ca i do to solve it?
+ upgrade problem -> http://pastebin.com/xDYgtdjF . help pls
+ pre-release means beta\RC version?
+ escott, /var/log/dist-upgrade/ gots a lot of files
+ should i paste any specific file?
+ E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages.' - what 'held packages' means?
+ is there a way to integrate thunderbird's calendar with unity's calendar?
+ hi, dya familiar with an application that i can test with the "test drive". I'm curious about this feature
+ when i try to open a file from the recent document, ubuntu is trying to open it with nautilus and say "Could not display "/home/someone235/blabla.docx\nThe location is not a folder."
+ how can i make it open it with the default associated app?
+ <someone235> when i try to open a file from the recent document, ubuntu is trying to open it with nautilus and say "Could not display "/home/someone235/blabla.docx\nThe location is not a folder."
+ <someone235> how can i make it open it with the default associated app?
+ sorry if i wrote this msg b4, cuz i think i had a lag & it didn't sent

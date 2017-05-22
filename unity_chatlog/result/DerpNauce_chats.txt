@@ -1,0 +1,8 @@
+ When I use "sudo pkill tor" in the terminal, the Indicator Applet and Indicator Applet Session stop working and have to be reloaded.  Is this to be expected from pkill?
+ pfifo: Will this happen every time I use pkill?  Is there a way to make it not kill the indicator applet family?
+ hm, I guess I need to find out what pkill does
+ OH
+ indicaTOR
+ thank you u_u
+ Noob question, how do I find out the name of a pid?  I typed "pgrep tor" and it gave me a bunch of 4-digit numbers, not sure how to get process names from them
+ thanks meisth0th

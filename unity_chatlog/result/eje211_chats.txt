@@ -1,0 +1,10 @@
+ I upgraded to Natty, now the computer freezes at startup unless I use a session of type "Ubuntu safe mode". Which log should I look into to diagnose the issue? The freeze occurs both on Unity and on KDE, my default desktop.
+ I upgraded to Natty, now the computer freezes at startup unless I use a session of type "Ubuntu safe mode". Which log should I look into to diagnose the issue? The freeze occurs both on Unity and on KDE, my default desktop.
+ I upgraded to Natty, now the computer freezes at startup unless I use a session of type "Ubuntu safe mode". Which log should I look into to diagnose the issue? The freeze occurs both on Unity and on KDE, my default desktop.
+ tensorpudding: I'm not sure. I think I tried it and it didn't. I know KDE fails, even after I disabled compiz, so compiz is not the issue. I have direct rendering.
+ This is the first time I've used Gnome at all. So far I've been faithful to KDE. So no.
+ tensorpudding: I'm just wondering where to look for the cause. There must be a log file with the answer, but I'm not sure where to look.
+ tensorpudding: I looked, but found no error.
+ tensorpudding: Nothing obvious, at least.
+ tensorpudding: could this be it, it looks innocent enough: svc: failed to register lockdv1 RPC service (errno 97)
+ tensorpudding: I'll continue investigating. Thanks.

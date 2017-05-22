@@ -1,0 +1,14 @@
+ hello
+ can you update ubuntu 10.10 to 10.11 or do you have to download the iso and install fully?
+ witchsong - how? and is that the newest ? thanks
+ witchsong - thanks, i just booted in and i got a pop up to install. wasnt expecting that with linux
+ is 11.04 a stable release?
+ jrib - ill upgrade then thanks
+ is there a shortcut to change worskpaces in 10.10/11.04?
+ roasted_ perfect works thanks
+ rach0 - what?
+ what is Super-S?
+ ah ok, im on a mac
+ the right command key works for the windows key in windows - for ubuntu looks like ill have to use str-alt arrow - thanks
+ is ubuntu one free?
+ stfg - thanks

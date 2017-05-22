@@ -1,0 +1,1 @@
+ Upgraded my hp2133 notebook to Natty -- after about 2 minutes it hangs.  100% of the time.  Suggestions on debugging?

@@ -1,0 +1,5 @@
+ hi. i'm using kubuntu 11.04, and i wanna disable windows driver installed using ndlswrapper. how can i do?
+ how can i uninstall ndlswrapper and drivers installed using this?
+ anyone help me with wi-fi driver.....
+ i need help with my wireless driver.
+ i have a broadcomm wi-fi on natty.

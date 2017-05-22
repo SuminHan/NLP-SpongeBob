@@ -1,0 +1,7 @@
+ How can I extned an extended partition to consume some freed from another primary partition?
+ How can I extend an extended partition to consume some freed space from another primary partition?
+ How can I extend an extended partition to consume some freed space from another primary partition?
+ cvrse, yes
+ cvrser, yes
+ Herbs, so I just have to start over?
+ Herbs, ok thanks

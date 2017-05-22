@@ -1,0 +1,1 @@
+ just installed latest ubuntu using the windows installer. during install i set aside 100gb for ubunto. install cmpletes great. restart, select ubuntu from boot menu, and i get a progress bar that its finishing the install. this is when i get the error "no root partition is defined". tells me to use the partitioning utility. dual boot with windows 7 ult 64, cant wipe the hdd

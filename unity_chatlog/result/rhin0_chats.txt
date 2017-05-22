@@ -1,0 +1,13 @@
+ ubuntu 10.04 (LTS) comes with 2.6.32 kernel -- I need to INSTALL 2.6.33 or higher of that OS to get 'trim' on an SSD -- is there any 10.04 ISO snapshot with later kernel?
+ because I really don't want to move off 10.04 -- but I want it on an SSD (so I need a later kernel)
+ ok coun ty.
+ coun do you know where my kit of screwdrivers is?
+ yes bars0 but I need to install it direct onto an ssd -- won't work with earlier kernel
+ i'll just install 10.10
+ yes kwtm but how would I INSTALL 10.04 with a 2.6.35 -- can't INSTALL it with lower kernel & then upgrade
+ kwtm 10.04 comes with the earlier kernel -- can't install it so then I can't upgrade
+ no ikonia I'm saying its impossible to install 10.04 on an ssd because it ships with < 2.6.33 kernel -- you cannot get it onto the drive - coun is right
+ what kernel is 10.04.2? pls?
+ you'll have a > 2.6.33 kernel ikonia yes?
+ its all for "trim"
+ willdo coun

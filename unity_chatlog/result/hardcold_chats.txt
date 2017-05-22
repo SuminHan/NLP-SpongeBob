@@ -1,0 +1,13 @@
+ Isn't SDL installed with Ubuntu?
+ I just tried to compile a game but it said I didn't have SDL
+ How can I install SDL?
+ PythonPup, how do I add it?
+ PythonPup, I had 11.04 beta 2, which had it, but I just did a clean install 11.04 and it does not seem to
+ PythonPup, doing now
+ PythonPup, now what?
+ PythonPup, It shows libsdl1.2debian as being installed
+ PythonPup, what is the website to paste things for this chat? I'll just post what terminal is saying
+ PythonPup, http://pastebin.com/sq1nNh5c
+ I'll spend some hours ding things that should take 10 seconds with a functional OS tomorrow I guess
+ I just turned on my computer and all the icons, dialogue boxes, top bar, etc were all different
+ This is a clean install of 11.04, and no system preferences were touched

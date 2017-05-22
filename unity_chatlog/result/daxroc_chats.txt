@@ -1,0 +1,25 @@
+ Morning all
+ After upgrading to 11.04, Having lots of problems with the desktop. and nvidia twinview is not working at all
+ The desktop has no compiz enabled so theres no side or top bar anymore ? How do I restart them ?
+ Soothsayer: yeah dual head
+ BlouBlou: Both
+ Soothsayer: Quadro NVS 295
+ KNUBBIG: youll need to enable a switcher in compiz config found under settings
+ Soothsayer: twinview is nvidias version of xinerama
+ Soothsayer: its the piece of functionality that gives you dual(or more) monitor support, one big desktop
+ Soothsayer: did you get it sorted after ?
+ Soothsayer: Dual monitors
+ Soothsayer: how did you get it working ?
+ Having problems with an nvidia quadro nns 295, only one monitor is being detected , Has any one seen this ?
+  *nns -> nvs
+ Any one here using an nvidia quadro (nvs 295) or like with a dual monitor setup on 11.04 ?
+ I'm not impresed with natty, It's very primitive for a mainstream release
+ gartral: Lots of things are missing. decent monitor detection, simple customisation for little anoyances of unity. don't get me wrong it's great but lacks a complete feature set I expected
+ gartral: It's more than a driver problem, and shipping with experimental drivers. Is that a good situation to start in (nouvaeu). As for faster on a core i7 here and performance is a little slow. If I wanted more I would custom comple tho , I'll take ease of maintenence for one box over speed :)
+ Is unity not a bastadisation of gnome3 ?
+ Psychobudgie: very gnome shell like tho
+ Psychobudgie: my bad , been a while from when I tested last
+ I'm having problems with nvidia driver, conf http://pastebin.ca/2053509 and xorg errors and warnings http://pastebin.ca/2053510 . The problem I have is that one of two monitors connected has a resoulution of 640x480 and other is fine, I've tried different metamodes. has any one a possible solution or advice.
+ ryankirkman: there is none by default , but it should be put in /etc/X11/xorg.conf
+ ryankirkman: not really as it depends on your graphic card(s),
+ ryankirkman: not really

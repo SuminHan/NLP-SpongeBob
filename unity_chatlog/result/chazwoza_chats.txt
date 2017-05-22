@@ -1,0 +1,7 @@
+ anyone know what time 11.04 will be rdy?
+  /join #ubuntu-release-party
+ use 64-bit
+ hi all
+ does anyone know how to make Ubuntu Classic the default sesssion in 11.04 ? It doesnt save after I choose it and log in :(
+ abhinav: thanks
+ :)

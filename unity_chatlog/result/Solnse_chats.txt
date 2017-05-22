@@ -1,0 +1,24 @@
+ Since I upgraded to 11, ubuntu won't load... it gets stuck on checking battery state... is this something I can fix?
+ I was hoping somebody could point me in the right direction.... since upgrading to 11, ubuntu hangs on checking battery state. I can't seem to find anything through searches. Is there something I can do to fix this problem?
+ rach0, exactly
+ rach0: during boot is just starts to hang and does nothing, the last thing I see on the list is checking battery state
+ rach0: ok, and that's all I should do, then reboot and it should boot?
+ rach0: thank you very much for your response, I will go try it now.
+ Since I upgraded to 11, ubuntu hangs while booting.... the last thing I see is "checking battery state..." I think the problem is related to my graphics driver because I am able to boot into failsafe, low graphics mode. How can I upgrade my graphics driver to see if it fixes the problem?
+ Can somebody point me in the right direction please? Since I upgraded to 11, ubuntu hangs while booting.... the last thing I see is "checking battery state..." I think the problem is related to my graphics driver because I am able to boot into failsafe, low graphics mode. How can I upgrade my graphics driver to see if it fixes the problem?
+ I hope somebody can point me in the right direction, since upgrading to Ubuntu 11, it hangs on loading, the last thing I see is "checking battery state..." and it just hangs there. I think it has to do with my graphics driver because I can load into failsafe graphics mode, and I also see [fail]  on starting load fallback graphics devices. Can somebody help please?
+ ATI Radeon 3850
+ mikinanuq: I get permission denied...
+ nm, i forgot sudo
+ lcb: I'm sorry I don't understand... where do I find the catalyst control?
+ lcb: I get an initialization error when trying to open the Catalyst Control Center: No ATI graphics driver is installed, or the ATI driver is not functioning properly
+ lcb: do you know of a walk-through page for that?
+ lcb: no proprietary drivers are in use on this system
+ lcb: however I can choose to activate ATI/AMD proprietary FGLRX graphics driver on this window
+ lcb: it's downloading and installing. thank you... so when I reboot all should be good?
+ lcb: ok.
+ lcb: rebooting to try. thanks again.
+ lcb: thank you very much, now in Ubuntu 11 for the first time. will have fun learning the new GUI
+ just set up your server info in dreamweaver  the same you set up godaddy info
+ brandon, you are simply trying to access a different web server, your own, instead of godaddy right? On your windows box... you simply set up the info in dreamweaver for the ftp the same you did for godaddy.
+ lol

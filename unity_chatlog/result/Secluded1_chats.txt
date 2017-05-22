@@ -1,0 +1,2 @@
+ anyone had a problem with libreoffice? i used lo-globalmenu in 11.04, problem is the window menu is gone in the global menu in libreoffice calc, but when i removed lo-globalmenu, it returned!!!
+ how come the "window" menu doesn't show up in LibreOffice when you enable the lo-globalmenu in 11.04?

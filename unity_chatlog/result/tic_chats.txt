@@ -1,0 +1,3 @@
+ !wifi | sdollins
+ sdollins: I'm running 10.04 LTS 64bit on a dell 64bit desktop and EVERYTHING works, including sound and youtube. A stable setup can be done.
+ sdollins: 10.04 works very well. Install on a fesh clean drive, setup what you want and then STOP upgrading. It will remain stable that way.

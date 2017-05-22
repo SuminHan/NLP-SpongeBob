@@ -1,0 +1,1 @@
+ Anyone tried to get Natty to install inside of a Xen HVM domU? I'm having problems wherein it can't find the NIC or the HD, but with 10.04 the same config works fine.

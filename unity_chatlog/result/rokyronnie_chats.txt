@@ -1,0 +1,3 @@
+ anyone with "Out of range" error after 11.04 install?
+ I use ALSA with 5.1 output, and after a song it's done in audacious my subwoofer remain with no sound, I've to select something different and then select again 5.1 output to get sount again
+ cause I wanted to combine 2 partitions without losing data I resized a partition by adding to it the free space from that HDD, so that's what I did, but, after rebot my PC runns very ver HARD, I opened Gparted, and guess what? that free space is still there and now in Gparted --> Devices I can see my HDD /dev/sda (149.05Gb) and then it comes a list from /dev/sda100 (119 Gb) to /dev/sda225 (119Gb) so there are 125 "devices" what can I do to have my HDD bac

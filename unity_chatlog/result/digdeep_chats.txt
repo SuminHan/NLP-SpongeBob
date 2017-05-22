@@ -1,0 +1,3 @@
+ wrong channel, sorry
+ install virtualbox 4.0.6 with ubuntu 11.04, but /etc/init.d/vboxdrv is missing. Anyone please?
+ wrong channel, sorry

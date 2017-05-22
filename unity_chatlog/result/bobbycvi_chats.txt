@@ -1,0 +1,3 @@
+ hello
+ from where i can find original sources.list for 11.04
+ ?

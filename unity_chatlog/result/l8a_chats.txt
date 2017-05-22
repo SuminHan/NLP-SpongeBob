@@ -1,0 +1,2 @@
+ Good evening. I joined ubuntu from xp. All went fine, there is only one problem. I dont find something like (unter xp) the "minimal battery power","desktop" etc shemas. Have ubuntu nothing like that? My cpu getting to hot sometimes; under xp i just use "minimal battery.." shema and all goes fine, but under ubuntu I did not find something like that (to make cpu cooler (slower)).
+ is there no way to limit the cpu under ubuntu (its a mobile cpu)?

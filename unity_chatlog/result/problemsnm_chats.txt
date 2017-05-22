@@ -1,0 +1,2 @@
+ hi
+ I'm trying to recompile network-manager, how can I do so?

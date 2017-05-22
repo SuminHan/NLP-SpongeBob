@@ -1,0 +1,33 @@
+ hi! I updated from 10.10 to 11.04, now my installation is broken (because during update process an error occured). Is there some way to report this to cannonical (with logfiles) so that they maybe can fix this problem, or does this make no sense. later I will simply reinstall
+ zvacet, i got a black screen (with upstart-commands from start of 10.10) and the cursor. nothing more worked. then i shut down and did the rest of the install from the shell. but now, some things don't work properly
+ zvacet, sorry, I don't understand what you want to say....
+ zvacet, you mean, that I should do reinstall if i have backup? yes, i have backup
+ zvacet, but first, i thought that maybe it makes sense to report this to cannonical somehow.... or does this make no sense?
+ zvacet, maybe they can find a new problem? or a problem that occured also for other users?
+ zvacet, ok thanks!
+ everyone: how to report broken updates to cannonical? or does this make no sense? if it makes sense; how to do it?
+ ubottu, yes, but there are several things broken, because of the update.... is there a way to report the whole state of the installation? so that they maybe can find the bug, if they need this info...?!
+ everyone: there are several things broken, because of the update.... is there a way to report the whole state of the installation? so that they maybe can find the bug, if they need this info...?!
+ nando, as far as i know, you need 3d acceleration for unity
+ nando, is there a open 3d driver for your graphics card? if yes, try this one
+ nando, I think for gnome shell you also need 3d acceleration, but im not 100% sure
+ nando? what happens? doen't it load unity and gnome instead?
+ linuxrocks, yes I had a servus problems.... make a backup first!!!
+ nando, so you want gnome shell? and this works or not?
+ linuxrocks, error during install: blackscreen
+ linuxrocks, i completed the upgrade using shell, but now some things are brocken
+ i can't start nautilus
+ sometimes ubuntu freezes
+ and skype also doen't start, but thats maybee another storry
+ hehe....
+ macbook 2,1
+ linuxrocks, yes, maybe it is a good idea to wat some days with upgrade, if you want to update a productive machine....
+ hi!  is it possible to run natty 64 bit on macbook 2,1? and if so, is it a good idea? which version would you choose?
+ vibhav: yes, intel mac
+ vibhav: is this mac-version official? is it natty?
+ vibhav, bazhang: thanks... i'll do a google!
+ ok
+ vibhav: thanks, but this I already knew... :-(
+ vibhav: rty?
+ hi! i installed 11.04 on a macbook 2,1 i don't the the "at" to work (on the "G"-Key).... Anyone an idea?
+ hi! i installed 11.04 on a macbook 2,1 i don't the the "at" to work (on the "G"-Key).... Anyone an idea?

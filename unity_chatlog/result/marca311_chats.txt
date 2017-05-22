@@ -1,0 +1,21 @@
+ i have a problem with my hotkeys and reassigning them, thanks in advance
+ I need to reassign a hotkey on my tablet pc, however, it seems to be hotwired into the occupation of turning my touchpad on and off
+ (the ironic part is, i don't have a touchpad)
+ bsims: try this solution i found on google: http://ubuntu4beginners.blogspot.com/2011/04/disable-overlay-scrollbars-in-ubuntu.html
+ shigutso: What are you talking about?
+ shigutso: ah, hmm, i don't know, have you tried the almighty google?
+ shigutso: k, maybe try someone with some more compiz experience, because i don't know much about it
+ n-iCe: i don't see how anything else would be possible
+ n-iCe: k
+ linuxuz3r: sudo apt-get autoclean
+ really?
+ i need to remap a hotkey that is currently assigned to touchpad disable, however i do not have a touchpad and this is really annoying when using the screen rotate button
+ coinop: this is the ubuntu irc help channel
+ napster00: yes, look at the terminal you just used, and reinstall the things that dissappeared by mistake
+ napster00: or look at a log
+ napster00: hmm, i seem to have made a mistake, there is no log for terminal unless you count the command history
+ napster00: however, if you go to /var/log/apt, you can find the history of all apt commands
+ napster00: sorry, no, unless you spend several hours attempting data recovery
+ Hello, I need to remap a hotkey that is currently assigned to touchpadtoggle, however I do not have a touchpad and this is really annoying when using the screen rotate button, thanks in advance
+ jw_: ?
+ Hello, I am having trouble regarding hotkeys in the way that my screen rotate key is primarily mapped to touchpadtoggle, this is rather annoying when rotating the screen, thanks in advance

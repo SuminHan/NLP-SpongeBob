@@ -1,0 +1,3 @@
+ Why was the option to use custom applications as the default web browser removed in Preferred Apps?
+ I can't use Chromium as the default browser any more unless I remove Firefox.
+ I'm on Natty

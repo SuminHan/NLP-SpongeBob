@@ -1,0 +1,168 @@
+ hi all.  I can't seem to get mysql back up n' running.  ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+ I've tried starting it via /etc/init.d
+ and updstart script
+ no luck
+ usalabs: tried that
+ this is completely purplexing
+ ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+ both my mysql logs are empty
+ nope no file
+ I tried starting it
+ but no luck
+ I'm pretty sure it isn't running
+ mysql logs are gone...for some reason
+ syslog I just checked...nothing much there
+ this is so strange
+ screen is also no longer working
+ getting odd PTY issues
+ the init.d script?
+ ha it is
+ it's just the general upstart script?
+ k
+ [ ? ]  mysql
+ eek even cron has ?
+ usalabs: terminal only access.  This is a server.
+ sure
+ thanks ikonia
+ it claims start: Job is already running: mysql
+ but the socket error still persists
+ drwxr-xr-x 2 mysql root     4096 May  1 20:50 mysqld
+ can't seem to find it
+ ps -ef | grep mysqld
+ root     10231  1436  0 20:52 ttyp1    00:00:00 grep --color=auto mysqld
+ kk
+ nothing
+ heh
+ # mysql
+ ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+ ok
+ http://pastie.org/1854541
+ http://pastie.org/1854541
+ refresh
+ k
+ refresh pls
+ the .pid file is named as per its hostname
+ I replaced that with XXXXX :)
+ http://pastie.org/1854541
+ it should?
+ check the top
+ yeah I'm putting stuff at the top
+ nope
+ 10.04.2 I think
+ 2.6.18-028stab089.1 #1 SMP Thu Apr 14 13:46:04 MSD 2011 x86_64 GNU/Linux  // it's LTS
+ indeed
+ I just had them restore it's backup
+ dpkg-query: failed to open package info file `/var/lib/dpkg/available' for reading: No such file or directory
+ I had to create a file by hand to run apt-get update
+ seems like lots are broken :s
+ oh
+ > /usr/sbin/mysqld
+ > /var/run/mysqld
+ it didn't run last time, of course I didn't have the -print after it before
+ usr/sbin?
+ it didn't do anything
+ or seem to at least
+ don't see any pid
+ hmm
+ kk
+ on the money
+ # which mysqld
+ # which mysqld
+ >> /usr/sbin/mysqld
+ nothing
+ anyworth in rebooting the box?
+ ah
+ would that wipe any dbs?
+ reinstall invalid op
+ where is the mysql data stored?
+ location wise?
+ I think my backup script relied on mysqladmin to grab the backups
+ kk
+ mysqldump -A --add-drop-table --opt -Q -u root | gzip > $OUTFILE
+ would use that to backup
+ k
+ wow it's leeching heluva lot
+ wtf
+ E: Could not perform immediate configuration on 'libattr1'.Please see man 5 apt.conf under APT::Immediate-Configure for details. (2)
+ sure thanks ikonia
+ yeah
+ anyway I can fix it?
+ ikonia: hello?
+ hmm
+ ikonia: not sure how to proceed mate
+ ah
+ just tried the same apt-get but with --fix-missing
+ ah :)
+ ikonia: https://help.ubuntu.com/community/InstallingSoftware
+ zcat -f /var/log/dpkg.log* | grep "\ install\ " | sort
+ hmm
+ that just creates a list of the packages
+ ikonia: this looks promising: http://stackoverflow.com/questions/187629/how-do-i-preserve-installed-applications-when-migrating-ubuntu-to-another-platfor
+ mmm
+ ikonia: it's a bug? http://markmail.org/message/lxdnl77y27z6olqp
+ ikonia: hmm
+ the first step what must I do
+ cache and bin that is
+ I'm ready to try this... :)
+ np
+ can  I pm you?
+ keeping up is crazy
+ right
+ this is the wierdness I'm having with PTY
+ when I ssh
+ I connect to ttyp0, if I do echo foo > /dev/ttyp0 it'll echo 'foo' back to my session
+ but when I do screen it'll say No PTYs left
+ sudo -i doesn't use your env's settings
+ ActionParsnip: need your help mate
+ I connect to ttyp0, if I do echo foo > /dev/ttyp0 it'll echo 'foo' back to my session
+ please?
+ I have
+ No more PTYs, Sorry, could not find a PTY
+ how do I find what ttyp I'm on?
+ sipior: exactly!
+ it returns /dev/ttyp0
+ and screen wants to connect to the same
+ vps?
+ 10.4.2
+ sipior: 2.6.18-028stab089.1 #1 SMP Thu Apr 14 13:46:04 MSD 2011 x86_64 GNU/Linux
+ sipior: I only have ssh access
+ is that a file
+ ?
+ it's empty
+ no switches
+ can I force a different tty?
+ ssh user@ip
+ sipior: ideas?
+ ActionParsnip: can you assist?
+ oh ok
+ oh np
+ on my working machines ssh connects to /dev/pts/X
+ it was working for the past year sipior
+ same instal
+ after we restored the container
+ from a backup
+ had to cause things just went wrong few days back after the server died
+ (physical machine)
+ nothing
+ can the container dictate PTY support?
+ parallels plesk
+ media temple servers
+ no idea of actual setup
+ hello
+ any one know how to diagnose a PTY issue?
+ 'Try adding/removing udev as thats normally the prime culprit'
+ what does this mean?
+ I'm getting 'No more PTYs' when doing screen
+ if I do tty when I ssh in, it says /dev/ttyp0
+ instead of /dev/pts/X where X is some number
+ anyone?
+ 10.04.2
+ @Pici sure:)
+ @member:Pici I've not touched /dev
+ @Pici I mean
+ back
+ how can I change my mysql root pass?
+ login, use mysql; UPDATE user SET Password=PASSWORD(‘YOURNEWPASSWORD’) WHERE User=’root’; FLUSH PRIVILEGES; exit;  ??
+ ActionParsnip: any ideas on changing mysql root pass?
+ hey Pici!
+ nice to see you again mate

@@ -1,0 +1,1 @@
+ Is there a way to add default desktop icons for all users? /etc/skel is out since these users already have a home directory in afs.

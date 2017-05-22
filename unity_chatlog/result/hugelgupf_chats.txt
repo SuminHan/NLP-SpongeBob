@@ -1,0 +1,4 @@
+ can somebody tell me what software is included in ubuntu-edu-tertiary? I've been trying to look for a list, but all i can find is that it's university-related software
+ does anybody know what software ubuntu-edu-tertiary includes?
+ hi guys. I set up 11.04 parallel to win7 a few days ago, and my sound was fine. A few minutes ago, ubuntu stopped playing any sound, so I rebooted to win7, which worked fine, and rebooted to 11.04 again, and my sound doesn't work. It seems to recognize the sound, but if I go to system settings-> sound and I try to test the speakers, it won't work either
+ flodine, salomonv, same thing has happened to me too

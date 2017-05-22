@@ -1,0 +1,7 @@
+ bitplane, http://paste.ubuntu.com/601131/
+ does anyone know how to fix grub with super_grub_disk?
+ http://paste.ubuntu.com/601131/
+ does anyone know why i cant set chrome as my default borwser in natty?
+ does anyone know why natty will not allow chromium as default browser?
+ what is ctrl+alt f7 now? it is no longer the xwindow, it just takes me to a page that says ok?
+ Dr_Willis, yeah, it F8 let me back into the gui, was just curious cause f7 only gives me the screen with ok

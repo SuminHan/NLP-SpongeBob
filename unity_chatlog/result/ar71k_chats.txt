@@ -1,0 +1,26 @@
+ Anyone know how to get a rss feed for reddit.com/r/ubuntu?
+ GNOME 3 BABY
+ sure u can u just drag and drop
+ applications drag terminal into session
+ howkey still works
+ opens two terminals
+ just testd
+ dont need desktop cause the applications menu is a desktop, gnome do, google and wiki search and a dash
+ Anyone know how to get a rss feed for reddit.com/r/ubuntu?
+ came in here for that lol
+ nah u can open multiple with a drag and drop
+ you can open multiple programs on multiple workspace with one mouse click
+ per program
+ i dunno at first i hated it but after using it for a day and playing some games in it... i like it a lot now
+ ppa:ubuntu-wine/ppa
+ thats the latest
+ kezzawd: drag application into workspace
+ kezzawd:twice without closing workspace
+ sudo apt-add-repository ppa:ubuntu-wine/ppa
+ ActionParsnip: o my bad lol
+ usalabs:talking about in gnome 3
+ kezzawd: LOL this whole time?
+ gnome 3 is still pretty buggy tho
+ i wana put it on my parent's computer for them but its too unstable i think
+ kezzawd: I am elevated right now you'll have to forgive me
+ I'm colorblind

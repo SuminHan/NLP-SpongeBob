@@ -1,0 +1,3 @@
+ Hi, I upgraded to 11.04 yesterday and now when I log in my gtk theme doesn't work so I have to restart gnome-settings-daemon to fix this. Also my mouse stops working about 5-10 minutes after login.
+ sdollins: if you don't like unity and don't want to switch you seem to be at an impasse
+ Herbs: that's a stupid idea. just leave.

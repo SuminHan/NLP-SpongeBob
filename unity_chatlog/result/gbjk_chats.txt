@@ -1,0 +1,5 @@
+ Hi. I've just installed ubuntu 11.04 32-bit on a thinkpad t420. I've brought everything up to date with apt-get. I don't get unity. If I run unity-support-test I get 'extension "GLX" missing on display :0.0.
+ Restricted drivers shows nvidia as activated but not running. (I've seen this might be a bug).
+ dmesg doesn't suggest that the module was kicked out.
+ What do I do next to understand 1) If my driver isn't working (nvidia 4200M) 2) Why unity bombs with GLX errors.
+ For anyone that cared: I found my problem is that I cannot run NVIDIA OPTIMUS under linux. Turn it off and I'm fine.

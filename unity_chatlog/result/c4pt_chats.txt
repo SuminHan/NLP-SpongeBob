@@ -1,0 +1,30 @@
+ hi i was wondering if someone could help me with compiz fusion desktop effects with ubuntu natty 11.04 ive tried to use a workaround from a few different sites but i am still stuck with the problem of compiz not working right by either crashing or not working properly (i am currently using ubuntu classic instead of unity)
+ GeorgeJ, lol yeah
+ can anyone point me somewhere , where i can get compiz fusion working properly with ubuntu classic on 11.04 ?
+ Dr_Willis, yes i am using ubuntu classic (the one with effects) and the nvidia binary driver from nvidia (with the module recompiled for the current 11.04 kernel)
+ Dr_Willis, but when i enable compiz it doesnt run properly or it crashes
+ Dr_Willis, or i get a skewed desktop
+ Dr_Willis, did you install 11.04 clean or did you run a dist-upgrade from update-manager -d ?
+ Dr_Willis, this is on a dist-upgrade (-d)
+ Dr_Willis, on the alpha 3 compiz was working
+ Dr_Willis, i reinstalled to 10.10 and now 11.04 final came out and i ran dist-upgrade compiz broke after the install
+ Dr_Willis, any suggestions? :/
+ hamnegga, like i said compiz broke even with the startup item i made compiz --replace & in startup
+ hamnegga, i tried pulling all the compiz packages out and reinstalling them i get a skewed desktop or it panics or i get strange effects that its not supposed to do (abnormal activity from it that is a pita)
+ hamnegga, and i dont really feel like going back to ubuntu 10.10 (since downgrading means really a clean install) i rather keep moving forward instead of backwards
+ Dr_Willis, like on terminal the top of the menu bar disappears and i cant move the window or it rips icons out of firefox making it a major pita to use
+ Dr_Willis, hamnegga i had it working for a moment a few hours ago when i made  a new user account but when i enabled composite and opengl in compizconfig-settings-manager it broke again
+ hamnegga, bbiab
+ hamnegga, cube and rotate cube are working but my open windows like xchat and terminal are missing the very top of the window like where you would grab with the mouse to move the window
+ hamnegga, thanks
+ hamnegga, now the top of the window is back but i cant physically move the windows around
+ hamnegga, :( ?
+ hamnegga, selecting move on the window doesnt help either (not in plugins but actually right clicking and selecting move)
+ hamnegga, i see it
+ hamnegga, yes makes sense
+ hamnegga, lol
+ hamnegga, thanx
+ hamnegga, thank you
+ hamnegga, ill bbl or bbiab
+ hamnegga, i appreciate it thank you!
+ hamnegga, i knew compiz did desktop effects but i didnt realize it grabbed control of the entire desktop like that and if its a totally fresh config or a non working config; i didnt realize stuff like that had to be selected since i am used to installing enabling two or three things and usually leaving it the way it is

@@ -1,0 +1,356 @@
+ It was a nice ride. Thanks to all at #ubuntu*
+ mordof, can you get grub menu? (SHIFT after bios loading and before grub - then recovery)
+ mordof, did you try that sequence?
+ mordof, probably not. try and say something after that
+ mordof, don't do anything you are not sure... just go to the recovery menu and cameback here
+ KNUBBIG, it depends on your inter-speed ;)
+ KNUBBIG, did you upgrade before the distro upgrade?
+ KNUBBIG, so you have loads of things installed :)
+ KNUBBIG, not too much .. :0
+ KNUBBIG, let it go, don't interrupt or you might get screwed
+ bastidrazor, it seems you have a kb problem. just hit ALT+F4
+ KNUBBIG, yes. hopefully you don't have any pop-up prompts in meanwhile
+ KNUBBIG, just sleep well and don't have bad dreams about the end of the world :p
+ mordof, so you do really need the help of a live cd/usb
+ mordof, sure because most of the system is now 11.04, isn't?
+ mordof, go easy with that. in meanwhile backup your /home /etc and /usr dirs
+ mordof, yes, you could burn cd/s with it
+ mordof, yes because you are having problems accessing the system. with a live cd you could access the partitions and backup what's necessary.
+ KNUBBIG, don't play with grub while upgrading... go to sleep :p
+ lol, no
+ KNUBBIG, SHIFT before loading ubuntu and just hit 'update grub' on the recovery menu, just in case
+ KNUBBIG, but don't worry about that now.
+ KNUBBIG, hehehe
+ mordof, a hint... the directories i told you, select Compress from nautilus. it would be easier that way to backup.
+ mordof, after repairing or anytime?
+ mordof, oh, ok then
+ conical, and short
+ wow... 1800+ happy users in here :o
+ a2c4n9e1, ok, sorry, let me take you off the balance :)
+ a2c4n9e1, just use classic desktop. you get the same as before
+ zvacet, :)
+ a2c4n9e1, so....? you need a nife? :) j/k what happened?
+ a2c4n9e1, a jackhammer, that's the only thing i use for hard-to-solve issues
+ a2c4n9e1, why don't you install 11.04 and do the changes afterwards?
+ a2c4n9e1, previous were grub2, too
+ a2c4n9e1, yes. the help page for grub2 is pretty good and there are some scenarios, probably what you need too. hold on..
+ a2c4n9e1, look at this -> http://goo.gl/0qRRN and this -> http://goo.gl/uMAgK <- better if you do it instead of someone who don't know for real what's going on in there.
+ a2c4n9e1, i'm hanging / on
+ subcool, what's going on with that ' PRETTY_PLEASE ' package?
+ a2c4n9e1, see... am i good at construction work or not? ;)
+ a2c4n9e1, yes it can. use unetbootin to "burn" that flash
+ a2c4n9e1, stop, look and wait, though...
+ a2c4n9e1, update and fix 10.10 as it should be, before. do ' sudo -i ' then ' apt-get update && apt-get upgrade && apt-get check && apt-get -f install && apt-get autoremove && apt-get clean '
+ a2c4n9e1, then go for it; upgrade
+ a2c4n9e1, that's a must!!!!
+ a2c4n9e1, for everyone, not only for you. so, don't feel a privileged user
+ a2c4n9e1, why?
+ a2c4n9e1, you want to remove everything from that disk, is that your idea?
+ a2c4n9e1, is that an upgrade or "fresh" install?
+ a2c4n9e1, btw, if you are "playing" with the partitions better first backup your /home and probably /etc and /usr
+ a2c4n9e1, you might not need /etc and /usr ... it's just in case you have some configs and packages you would like to take a look afterwards
+ a2c4n9e1, and in my opinion, before installing whatever, use the  new image or another live linux and go to those dirs and compress , with nautilus, for example
+ a2c4n9e1, then copy to another media, of course
+ a2c4n9e1, so burn the flash and you both (you+distro)  will be happy ever after
+ a2c4n9e1, the change/upgrade?
+ a2c4n9e1, of course it is. you get everything up-to-date. if you like a couple of ppl don't like unity use classic desktop option at login
+ a2c4n9e1, or use unity + some fancy menu utility, like "avant window navigator "
+ a2c4n9e1, or... add to startup applications ' gnome-menu ' and you'll have the bottom gnome panel.
+ a2c4n9e1, sorry, ' gnome-panel '
+ a2c4n9e1, you have the answer on those tutos i gave you
+ a2c4n9e1, pretty explanatory
+ Oday, i think it depends your usage of it. on "software center " type cvs
+ Oday, :)
+ Oday, no, but you have packages in there for almost everything. try it and the ones you don't like it remove it. don't forget ubuntu is not like windoe$, so no garbages afters
+ Oday, well, not so much as on the other one. you are right though. check their pages for features then
+ TheBuntu, just upgrade normally
+ ny51bern, check the scenarios there, you might get the one you need
+ ny51bern, btw, a2c4n9e1 receives a commission on every user i try to help, that's why
+ ny51bern, check the commands for grub :P that's how i learn
+ ny51bern, on those pages there is one with the list of commands
+ FunnyLookinHat, i like your hat. reminds me one i saw today on the wedding in london
+ ny51bern, look, handling grub is not difficult. difficult and very risky is trying to help someone remotely, because you can easily screw everything. go slowly and with patience and you'll get it.
+ ny51bern, unless someone else want to give a try, with this "confusion" in the #chan
+ ticks? my cat
+ Oday, :)
+ Oday, that's a good one
+ Oday, the package
+ engammalsko, don't yell.. there is ppl sleeping here
+ trae, don't worry. in time the transit police would be here
+ maxflax, i took a quick look. do sudo apt-get check && sudo apt-get -f install
+ maxflax, you didn't upgrade your system before 11.04 :(
+ a2c4n9e1, :)
+ kycka, from zero
+ maxflax, did you?
+ maxflax, also type sudo dpkg -a
+ maxflax, before upgrading to 11.04 we need to update/grade our previous installation
+ maxflax, upgrading not meaning dist-upgrade
+ maxflax, it works, try to reboot
+ maxflax, wait...
+ maxflax, when the system is booting press SHIFT after the bios messages. you'll get the choice of kernels. select recovery. then you'll get a menu. select first CLEAN, then DPKG, then GRUB lastly failsafeX
+ maxflax, no precipitations, do it calmly
+ Ubuntu, disable it and use generic while there is no update on those
+ raylee_, is it raylee_ , i mean, really is
+ ubottu, because the system didn't recognize 3d
+ Ubuntu, after removing the proprietary driver on "Additional Drivers" do failsafeX and reconfigure graphics
+ Ubuntu, i know but there are some issues, among xorg not working with some graphics
+ curiousx, i'm one among more curiousx on what to help
+ ny51bern, yes, sure
+ Ubuntu, hopefully yes, because i'm a junk computer colector
+ ny51bern, yes, update
+ ny51bern, backup your /home dir to play on the safe side
+ maxflax, sorry, i have visitors here. try going to recovery again (SHIFT | - select the 2nd kernel  option from the top = recovery mode | go to the end of the new menu and select "root prompt" and type ' sudo dpkg --configure -a ' see if that helps.
+ btw, what i wrote before goes for every unfinished upgrades. hopefully it works
+ Soothsayer, boot from live cd or usb and check the file-system
+ Soothsayer, why ext3?
+ Soothsayer, oh... weird
+ Soothsayer, what utility are you using to format?
+ Soothsayer, delete and then format ext4?!... (try setting the bios to defaults and also detecting properly the disks
+ superlinux, we saw that already, thanks
+ ph88, http://goo.gl/X1dxK
+ ph88, that's a pretty explanatory tuto
+ info connect-proxy  | ph88
+ !info connect-proxy  | ph88
+ eltigre, sudo dpkg-reconfigure empathy
+ emj, my 2 tokens; TeamViewer (graphical) or putty + ssh (CLI)
+ Rockj, yeap, with the advantage of being used from everywhere
+ Rockj, :)
+ compdoc, nice move
+ compdoc, it depends the servers you install. you might need some nail typing...
+ pbandcheezwhiz, there are some known issues with duals. probably better starting with default drivers and then test again with proprietary ones
+ htcrwn148, no but backup /home first. then ' sudo -i ' and  ' apt-get update && sudo apt-get upgrade && sudo apt-get -f install && apt-get check && apt-get autoremove && reboot
+ htcrwn148, remove those ' sudo 's in the middle
+ wabznasm, needs to update the system first...
+ wabznasm, yes... and fix the system too, just in case
+ blit, it upgrades normally, no need of commands or whatever
+ blit, no. unless you dad major problems in meanwhile. but the updates are processed normally until you get the full system as 11.04 final
+ blit, dad/had
+ ibeekman, i don't use it, but gparted doesn't do it?
+ bc81, me 2
+ bc81, some issues with graphics but in time would be resolved
+ quellhorst, SHIFT before grub loads
+ blit, yes, that's how i'm running now. dist-upgrade or the commands used before don't work, as you can see. i mean they work but don't produce anything, saying the system is up-to-date
+ quellhorst, but you get the screen with kernels or not?
+ quellhorst, right after SHIT and when the options are present press one of arrow keys or something
+ shit/SHIFT.. oopsy
+ quellhorst, select recovery and besides doing the DPKG option do GRUB option too
+ quellhorst, on the second choice on top, current kernel
+ quellhorst, hopefully  corrects that...
+ quellhorst, you might need to reinstall it or.. try the sudo dpkg-reconfigure package
+ cebrian, did you let the system upgrade or interrupted at some point?
+ cebrian, try 'sudo dpkg --configure -a '
+ cebrian, try what i wrote
+ cebrian, you should tell us that on first place :p
+ cebrian, because ppl assumes everything went well while upgrading.
+ cebrian, look at me.... hold on, i need to type a couple things...
+ cebrian, press SHIFT after bios messages and before grub loading. Select the second option on the top (recovery), Select DPKG option, then, GRUB option, then failsafeX option. Selet on there to fix X and then default configuration and CANCEL, and restart X.
+ cebrian, write that down and try to see if fixes your upgrading
+ cebrian, reboot when you get the login screen
+ cebrian, do CLEAN too on there. On DPKG check if no errors updating
+ cebrian, if so..  try again. means the connection was not established or slow mirrors
+ cebrian, if that doesn't fix and since yu broke/stopped the upgrading process i would use a live cd, backup (compress with nautilus option and copy to other media) /home (you might want to backup /etc and /usr too ) and better of fresh install 11.04. NOTICE that is what i would do.
+ cebrian, better, really
+ cebrian, upgrades must not be interrupted. if so damages the system
+ SeanInSeattle, what are you getting now?
+ SeanInSeattle, did you finish the upgrade process or you interrupted it? did you update your previous ubuntu?
+ SeanInSeattle, then reboot... :o tell us what happens then
+ SeanInSeattle, ok, easy... reboot | press SHIFT after bios messages and then select the second option on the top (recovery menu)
+ SeanInSeattle, then, select on that recovery menu dpkg | clean | grub | finally failsafeX .. wait...
+ SeanInSeattle, select Reconfigure then Use default (generic) then OK then CANCEL, then Restart X. reboot when you get the login
+ SeanInSeattle, got everything?
+ SeanInSeattle, ok. don't precipitate urself, go easy
+ SeanInSeattle, Reconfigure Graphics
+ SeanInSeattle, so you didn't see what i wrote... then Use Default (generic) | OK | |CANCEL | Restart X
+ SeanInSeattle, it loops??? or you get a new dialog with 3 options?
+ SeanInSeattle, ok, no probs. after Reconfigure Graphics select Use Default Config
+ SeanInSeattle, the dialogs looks alike, so put attention on the options i write. Use Default Configuration
+ SeanInSeattle, no
+ SeanInSeattle, did you select to run in low graphic mode?
+ SeanInSeattle, Use Default. and you are doing right, don't do anything before coming here
+ SeanInSeattle, next should be OK, then Cancel, then Restart X
+ SeanInSeattle, just do that. you wont see any changes
+ SeanInSeattle, i know that failsafeX is a bit confusing . it's really badly done, yet. look...
+ ahh ok SeanInSeattle. tell me where are you now
+ SeanInSeattle, great. but you are using generic drivers. now... reboot
+ SeanInSeattle, don't worry, i have about 50 yrs ahead. i'll wait
+ SeanInSeattle, yes
+ SeanInSeattle, keep going
+ SeanInSeattle, yes
+ SeanInSeattle, now type in terminal ' sudo /usr/bin/jockey-gtk '
+ :(
+ SeanInSeattle, look...
+ SeanInSeattle, you are going to do this in this sequence
+ SeanInSeattle, sudo -i  then: apt-get update && apt-get upgrade && apt-get dist-upgrade && apt-get check && apt-get -f install
+ SeanInSeattle, then ' sudo dpkg -a '
+ Moa, what display graphics
+ Moa,  did you install the proprietary? ( sudo /usr/bin/jockey-gtk )
+ Moa, try it
+ Moa, then reboot, don't forget
+ luigi_panache, check the topic, probably that's not the help chan
+ Moa, so your issue is having the display with strange colors?
+ Moa, is that a portable computer?
+ Solnse, use the Catalystic Control Center to configure it, not the option "Monitors"
+ btw, everyone should see if there is the graphics utility installed and so use it, instead of Monitors...
+ Solnse, under Applications check Catalystic
+ jsebean, Startup Applications
+ Solnse, disable the proprietary driver, reboot, enable it again
+ Solnse, type in a terminal -> sudo /usr/bin/jockey-gtk and tell me if is anything loaded or disabled
+ jsebean, i told you.... Startup Applications, then add the command
+ Solnse, and nothing in there to be enabled?
+ jsebean, that's not normal. what app is that?
+ Solnse, activate it
+ guest, no
+ Solnse, if not good DO NOT USE "Monitors" but the Catalystic Control Center
+ pls... don't private me. my wife takes the keyboard away from me
+ she's very jealous
+ janisozaur, logout and select ubuntu classic
+ janisozaur, looks like isn't
+ janisozaur, :)
+ janisozaur, yea
+ SerialMDK, how come?
+ SerialMDK, write the nicks of ppl you are talking to so they are highlighted... is that an 11.04 ISO?
+ SerialMDK, what happens?
+ SerialMDK, besides the monitor being off :)
+ SerialMDK, how do you click install?
+ SerialMDK, i was kidding, bro
+ SerialMDK, how did you load that iso image to the flash?
+ SerialMDK, format the flash and load the image with unetbootin. format the drive you are going to install with ext4.
+ Susanna, what graphic adapter or driver installed?
+ ahhh, Susanna gnome 3 is not supported yet
+ SerialMDK, CD or FLASH?
+ Susanna, type in terminal ' sudo /usr/bin/jockey-gtk ' and see if any driver is needed
+ SerialMDK, always with the same ISO image?
+ SerialMDK, if your computer handles booting from flash you don't need to haste CDs
+ SerialMDK, that's weird and first time seeing something like that. better trying what i told you. download the ISO from ubuntu official
+ Susanna, is that a first run after upgrading?
+ Susanna, might need to reboot. sorry one thing.. was that an upgrade or fresh install?
+ SerialMDK, try gurning the flash with unetbootin. if so you'll get more options to check if is a monitor or graphics falt
+ falt/fault
+ Susanna, , please reinstall
+ Susanna, j/k :p
+ Susanna, did you do the upgrade as it should - updating previous ubuntu, fixing the system and not interrupting the upgrade process?
+ Susanna, i was kidding, as i said right after it. don't need to reinstall
+ Susanna, do the failsafeX. you now how?
+ Susanna, do the default, to start
+ Susanna, SHIFT after bios messages and before grub, recovery, failsafeX and blah blah... i think you know
+ ayrton, check under Themes & Tweaks
+ silentz0r, what do you get when booting?
+ silentz0r, and that is happening only after upgrading or did it before?
+ silentz0r, press F8 while booting and select the HD, then press SHIFT while booting
+ silentz0r, got it??? first we are trying to boot on the correct media; then we are going to the grub menus
+ silentz0r, what type of portable is that?
+ silentz0r, is F8 the correct key for selecting the media to boot? i guess so...
+ silentz0r, do this.... unplug the power cord. remove the battery. press the power button for about 20 seconds. then put everything back on. then boot. press the key to go to bios and select defaults. save and reboot.
+ silentz0r, remove CDs, USBs before...
+ silentz0r, but in that order i told you, it's important
+ !LTS
+ silentz0r, remove the battery. and try again with the cord. something's wrong with that computer, not natty
+ silentz0r, strange... can you elaborate a bit lol... you remove the battery and the power cord and still boots?
+ silentz0r, ok. did you press the key to go to bios setup?
+ silentz0r, sorry to ask, are you sure is the correct key? on acer i believe if F2 isn't? or DEL
+ silentz0r, DEL, ESC, F8 ... one of those, not sure on that machine
+ silentz0r, that's really strange. do you have anything in the CD drive or USB?
+ silentz0r, you need to discharge  that computer. remove the battery, the power cord, wait a while then.
+ silentz0r, in any case, go to that model's site and see if there is any known issue. i believe it is a coincidence what's going on. not really 11.04 fault
+ coz_,  try changing the mouse. that happened w me too and solved
+ silentz0r, for now we only really need to have that machine turning on... ubuntu or other distro or OS is irrelevant at this point
+ coz_, i was using an asus mouse on a non asus machine. changed it and problem solved
+ SerialMDK, i'm really sorry and i understand how you are. from my side i'm out of ideas :(
+ IdleOne, could you try silentz0r pls pretty pls
+ IdleOne, noooo.. with his issue
+ oops, IdleOne sorry, i mean SerialMDK
+ IdleOne, i believe is a hardware issue.. but, just in case you have more ideas.. the comp don't even boot
+ silentz0r, was my mistake referring to you, sorry
+ SerialMDK, just occurs to me. do you have on that laptop a reset "hole"?
+ SerialMDK, hmmm so the other option is resetting CMO
+ SerialMDK, did you ever do that? is the pc case open?
+ SerialMDK, no, that's not that one, in this situation
+ SerialMDK, resetting the CMO. you need to find (manual/user guide) a jumper to reset it. also you need to remove the battery from the motherboard.
+ SerialMDK, so try it. but look at the manual to see the exact procedure
+ SerialMDK, on a last case scenario remove the HD and at least we know if is or not a 11.04 issue. i'm pretty sure isn't
+ newbie112, unplug and plug the kb
+ newbie112, keyboard
+ newbie112, you might need to reconfigure it then.
+ newbie112, it worked before???
+ newbie112, restart then. did you try it?
+ newbie112, yes
+ newbie112, the computer
+ newbie112, you can log off and on again. if doesn't work restart
+ WhitePelican, just an idea. check if any other application using the camera is running, even if you closed; on skype test and configure it.
+ WhitePelican, try sudo dpkg-reconfigure skype_or_the_name_of_package
+ WhitePelican, see first on System Monitor if chesse or butter or whatever uses cam is working... because if cheese detects skype should
+ WhitePelican, ok, but goto system monitor and see... or logout and login
+ WhitePelican, read above the suggestions :p
+ nawk, or use Classic Desktop
+ WhitePelican, did you get skype recognizing the cam?
+ WhitePelican, what did you do? restart?
+ WhitePelican, ahh ok, great.
+ WhitePelican, i just installed and looks ok...
+ WhitePelican, from the regular repos. but that version is for maverik, btw
+ WhitePelican, when you start doesn't say "another skype instance may exist"? probably your prob w the pass is there...
+ WhitePelican, nooo.... is at the top panel, on the right... should be
+ WhitePelican, quit all you have there. probably more than 1 instance, even
+ WhitePelican, check system monitor, if for any reason you don't have the indicators
+ Sicor, basically a computer :p
+ Sicor, about the ram.. you could tweak it, kill some processes you don't need. about 11.04 itself, with no unity, doesn't require too much, i mean, much less.
+ WhitePelican, write the nick so ppl can see who are you talking to :p that's another matter - the indicator.
+ WhitePelican, matter of fact i scrolled back, just in case .. and i saw it. are you on unity or classic desktop?
+ WhitePelican, oh... but you know, i'm not running from medibuntu. yours probably is different and, besides having medibuntu repos i don't see skype in synaptic
+ WhitePelican, sometimes is better if we stay with normal releases...
+ WhitePelican, but i don't mean by this yours could be buggy. it could be also something elese, the issues you are having
+ well, time to sleep, bye WhitePelican. good luck with that. nite all
+ !info osama
+ purvesh, all
+ purvesh, you have enough ram and good cpu
+ purvesh, what type of machine do you have?
+ purvesh, download 11.04 desktop edition
+ Pici, thanks, that's why i told to dld desktop...
+ purvesh, i don't think so. Besides, I think you don't get the performance benefits of running true 64bit code on the kernel.
+ purvesh, you can NOT move 64 to 32 software
+ purvesh, you can backup your home dir and restore it. some .configs you might need to adapt to your machine
+ pushpop, in other words, only data should be backed up
+ "<zepherin> rchavik: My laptop broke because of it. So I have to reinstall" it doesn't mean it will happen to everyone...
+ zepherin, how did it brake, anyway?
+ zepherin, did you upgrade following instructions? was your system up-to-date and fixed? did you interrupt the upgrade proccess?
+ zepherin, rchavik, if upgrade was interrupted: try going to recovery (SHIFT | - select the 2nd kernel  option from the top = recovery mode | go to the end of the new menu and select "root prompt" and type ' sudo dpkg --configure -a ' see if that helps. In any case, do the same but go to the grub menu and run dpkg, grub and failsafeX (choose to use default drivers)
+ rchavik, good luck with that.
+ Arowana, i prefer mathematics :o
+ rchavik, for fresh install?
+ !info Bin Laden | H4x0rs
+ gee
+ bazhang, please is a good word too
+ bazhang, no private pls, my wife don't like it.
+ KM0201, have you been lost in action?? :o good to see you ;)
+ KM0201, good ;)
+ koperino, reboot, press shift before grub2 loads, select 2nd choice from top (recovery) - let it go for a bit, on the menu select root and type in the command ' sudo dpkg --configure -a ' to see if you get yur upgrading back
+ bhaduza1, yes, everything. just drag it
+ Chipzzz, not really the upgrade but unity.  upgrade should let your system running fine.
+ Chipzzz,there are some steps to take tough, like updating what you have first and checking for errors
+ cr4x0r, yes, run classic desktop and install Avant Window Navigator. You'll have almost the same or better plus your graphics running fine.
+ cr4x0r, try then running the graphics/monitor configuration from your driver utility.
+ cr4x0r, to tell you the truth, i don't recommend no one to run unity when problems with graphics and much less with duals or triples whatever number monitors. classic is better.
+ cr4x0r, it's the freaking natty + some drivers not updated + xorg stopping supporting some adapters that makes all problems.
+ cr4x0r, interestingly, awm (avant window manager) does a better job than unity, plus you do whatever you want with the desktop.
+ cr4x0r, it's a must. i stopped *supporting* unity environment. time enough for devs to fix the issues.
+ jbwiv_, something else is cooking there. what i have no clue
+ jbwiv_, try sudo apt-get check && sudo apt-get -f install
+ n-iCe, let it go, probably a mem issue and it might go away in time.
+ n-iCe, no other tty?
+ n-iCe, command top
+ n-iCe, you see if the process is running.
+ n-iCe, i don't know if is possible to do that. my suggestion is let the dld go and put the tty on the graphic environment afterwards
+ n-iCe, by looking at top
+ n-iCe, but you have there much more than saying is running, don't you? you could have the idea by the load if the memory leak or whatever causing that drops down
+ kaffe_02, it's heavy :p (on your graphics utility change the monitors) other way i don't believe it's possible
+ kaffe_02, running unity or classic?
+ kaffe_02, with no problemas at all? :o
+ kaffe_02, more than 1 moni on unity is giving a lot of probs, that's why i asked
+ kaffe_02, do you have catalystic on preferences?
+ kaffe_02, i mean catalyst
+ kaffe_02, search on apps by control center
+ RealOp, backup with the live cd /home
+ n-iCe, got it?
+ geee
+ ok....
+ W00tty, it is, under Ubuntu Classic desktop
+ !info gnome | W00tty

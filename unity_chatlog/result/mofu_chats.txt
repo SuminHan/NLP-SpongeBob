@@ -1,0 +1,1 @@
+ Screensaver locking up since I upgraded to 11.04 ,  was locking up on GLText screen saver in in random screensaver mode,  switched to a different saver under single mode to see if that helps

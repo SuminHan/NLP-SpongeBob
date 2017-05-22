@@ -1,0 +1,5 @@
+ hello
+ how to Join IRC at 50.2.0.1 or 50.3.0.1 (SSL Only) Port 6697
+ they didnot mention the server name
+ i've empathy,xchat and irssi has irc chat clients
+ can somebody pls tell me how to " Join IRC at 50.2.0.1 or 50.3.0.1 (SSL Only) Port 6697".. its saying connection refused

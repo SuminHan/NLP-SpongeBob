@@ -1,0 +1,2 @@
+ is it monitor possible monitor system ram cpu usage and other system states in top panel
+ 11.04

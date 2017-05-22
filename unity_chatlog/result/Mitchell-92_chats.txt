@@ -1,0 +1,3 @@
+ Hey... I have a question - how does unity compare to gnome 3?
+ Hey... I have a question - how does unity compare to gnome 3?
+ Hey... I have a question about ubuntu server... I have a dedicated server running ubuntu 10.10... I want to set up a cloud on it so all my computers can be kept in sync... how would I do so?

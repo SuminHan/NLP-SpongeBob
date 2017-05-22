@@ -1,0 +1,1 @@
+ Hello, I get an "unable to mount cd, not authorized" error on my ltsp clients when I try to mount a cd, does anyone know how to fix this?

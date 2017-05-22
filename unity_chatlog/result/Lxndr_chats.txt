@@ -1,0 +1,25 @@
+ I just upgraded to the newest version of Ubuntu (11.4?) on my laptop, which was previously running 10.10. Unfortunately, the automated upgrade (which is what I tried) seems to have left my laptop almost nonfunctional. It gives me a few errors before just dropping out - 'uvcvideo: failed to query (129) UVC probe control' is one of them. Can anyone help?
+ ChogyDan: Whatever it is, it's quitting down to a CLI.
+ ChogyDan, Can you tell me how? It's just dumping into CLI, and it's been a long time since I've had to use the CLI directly. (I can't seem to start the GUI at all, and it won't even communicate with the network)
+ ChogyDan, I have that file opened. What should I be looking for?
+ ChogyDan, It says 'Fatal server error'
+ ChogyDan, More specifically, it says "no screens found"
+ ChogyDan, "Failed to load module "nvidia" No drivers available.
+ ChogyDan, yay! what do I do?
+ ChogyDan, If I type 'dkms' it returns nothing.
+ ChogyDan, There are four lines.
+ ChogyDan, Yes, they are.
+ ChogyDan, I see 2.6.38-8-generic as the top line. The other lines have other numbers.
+ ChogyDan, How should I remove the nvidia driver?
+ ChogyDan, Done. Should I try restarting now?
+ ChogyDan, It was gone from dkms, now it's rebooting. Wish me luck.
+ I upgraded from 10.10 to 11.04 on my laptop. However, now whenever I start the laptop, it gives me a startup screen that says "ubuntu studio Linux for creative humans" and does not move past that point. Can anyone help me troubleshoot?
+ I upgraded from 10.10 to 11.04 on my laptop. However, now whenever I start the laptop, it gives me a splash screen that says "Ubuntu studio Linux for creative humans" and does not move past that point. Can anyone help me troubleshoot?
+ I upgraded from 10.10 to 11.04 on my laptop. However, now whenever I start the laptop, it gives me a splash screen that says "Ubuntu studio Linux for creative humans" and does not move past that point. Please help me get back on my computer. Please?
+ Okay, I guess nobody can help me. :( I'll try the forums, I guess.
+ I am using Ubuntu 11.04, having just done the internal upgrade from Ubuntu 10.10. It is on my laptop. I am attempting to start up my laptop after the upgrade. Unfortunately, it APPEARS to start correctly. However, it hangs on a splash screen that says Ubuntu is for creative humans, and does not give me any ability to further interact with the program. Can anyone help?
+ I am using Ubuntu 11.04, having just done the internal upgrade from Ubuntu 10.10. It is on my laptop. I am attempting to start up my laptop after the upgrade. Unfortunately, it APPEARS to start correctly. However, it hangs on a splash screen that says Ubuntu is for creative humans, and does not give me any ability to further interact with the program. Can anyone help?
+ I have music on my iPod and want to use a program to extract music from the iPod to my hard drive. Does a program like that exist for ubuntu, and if so, where can I find it?
+ I have music on my iPod and want to use a program to extract music from the iPod to my hard drive. Does a program like that exist for ubuntu, and if so, where can I find it?
+ Dear Ubuntu: How can I make the launcher work like older editions? I'm frustrated that I need to alt-tab to get to my various windows, and would like to actually see tabs for my various windows on the bottom, as I used to do. Is there a setting that allows this, or am I stuck alt-tabbing forever?
+ LjL: Sounds good. How do I get to that? Will I need to log out and back in?

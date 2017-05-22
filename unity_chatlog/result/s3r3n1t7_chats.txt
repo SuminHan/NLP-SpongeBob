@@ -1,0 +1,6 @@
+ bencc, the cat is run as root, the pipe however is run as your user
+ bencc, sudo -i to create a root shell, execute the command without sudo, then logout of the shell again
+ ChR0n05, no, that doesn't setup his env correctly. -i makes sure it's done properly, check the sudo guides for that
+ ChR0n05, it also creates a root shell, but it doesn't do any sort of checking and it can break your enviroment for using sudo with other programs.
+ ChR0n05, sudo su is not using an option. It's a program you're passing to sudo
+ Whenever i'm connected to mumble server, which runs on my laptop (ubuntu 11.04) every now and then it disconnects briefly everyone who is connected to it

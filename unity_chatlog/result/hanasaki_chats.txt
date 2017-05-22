@@ -1,0 +1,6 @@
+ any reason why a maverick based "do-release-upgrade" would say no new release found?
+ mickster04:  where do I cahnge that
+ mickster04: it's a server.. no gui.. I did find it in the etc dir.. thanks
+ mickster04:  what does no candidate for.... mean?
+ how do you ad the gnome sensor applet to the panel?
+ its not in the add to panel / applet

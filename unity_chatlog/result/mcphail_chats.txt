@@ -1,0 +1,2 @@
+ Hi all. My 64 bit natty CD can't install grub anywhere. Proceeding without installing grub leads to "irrecoverable error" about 5 minutes later. Installation medium is not corrupted. Any ideas?
+ Has anyone managed to install 64 bit natty from the live cd or am I the only one with problems?

@@ -1,0 +1,4 @@
+ bloopletech: Thank you. I appreciate it.
+ Is there a way to determine if I am running Ubuntu 32 or 64 bit?
+ bloopletech: It returns 2.6.32-31-generic-pae #61-Ubuntu SMP Fri Apr 8 20:00:13 UTC 2011 i686 GNU/Linux
+ bloopletech: Thank you. I appreciate it.

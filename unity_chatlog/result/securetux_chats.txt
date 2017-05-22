@@ -1,0 +1,3 @@
+ Hi! Can someone give me a hand here? I've just upgrade to ubuntu 11.04 but i cant enter in graphical mode. (now Im in low graphics)
+ rozander1, no, ati radeon 4520
+ rozander1, Ok can you let me know if it works? :)

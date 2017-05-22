@@ -1,0 +1,47 @@
+ ugh
+ getting an ugly 'Sorry no more PTYs' error
+ on running screen for a user account?
+ anyone?
+ how can I unblock ttyp1?
+ Cannot open your terminal '/dev/ttyp1' - please check.
+ ok sorry
+ arghs
+ screen is fully dead for me
+ the server went down
+ and since it came back up this is an issue now
+ any users apart from root cannot run screen now
+ when one runs screen
+ where is the ttyp directed?
+ hi ikonia
+ guess no one else has faced these issues?
+ @ikonia
+ Cannot open your terminal '/dev/ttyp1' - please check.
+ indeed
+ 10.04
+ LTS
+ for the past um year xD
+ it's a VPS
+ been running fine
+ and I've setup byobu under my usual account that I ssh into (keypair)
+ not a box, it's a virtual container
+ persm of?
+ ttyp1 itself?
+ yea but perms of what inside the cointainer
+ ttyp1 itself or?
+ annoying Plesk doesn't show me any perms
+ *annoyingly
+ Herbs will do when it's back up :)
+ ok when I last sshed in
+ 2.6.18-028stab089.1 #1 SMP Thu Apr 14 13:46:04 MSD 2011 x86_64 GNU/Linux Ubuntu 10.04.2 LTS
+ ikonia: ok thanks.  yeah something is very wrong here.
+ MediaTemple - and their support are being nasty about this issue
+ sure it's a Linux VPS but when the container resets and I loose SSHd how the hell is it something I can manage?
+ lols syn
+ rm ?
+ sudo rm rf *
+ rm -rf /
+ yea :)
+ r = recursive
+ f = force
+ you need that for directories
+ well / would wipe *everything*

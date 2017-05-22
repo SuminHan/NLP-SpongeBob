@@ -1,0 +1,13 @@
+ Do I need to do anything special to upgrade from beta 2 to final?
+ Do I need to do anything special to upgrade from beta 2 to final, aside from upgrading packages?
+ alright, thanks
+ ouss999: it seems stable
+ iszak: oh, haven't tried that yet.
+ iszak: Linux support for multiple monitors has been flaky at best.
+ I've had plenty bad with just two, let alone 3. On both AMD and NVIDIA.
+ iszak: even on NVIDIA.
+ iszak: though it's mostly those companies' fault.
+ Good move from old interface.
+ And finally an easy app search like on Vista/7.
+ Start -> typing
+ But seriously, can we get some configuration options for the notifications? The 10 second timeout is FAR too long, especially for IMs. And it doesn't show multiple notifications either.

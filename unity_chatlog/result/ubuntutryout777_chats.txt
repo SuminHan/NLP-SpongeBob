@@ -1,0 +1,12 @@
+ good day. im on a LIVE CD right now, but i have no settings for compiz or any graphic effecs. no unity either. what can i do?
+ HF_acid, you mean after you installed the ubuntu on harddrive, or do you have to install unity manually? i thought its on the ISO already.
+ Soothsayer, i think its always a good idea to have th operating system and data on different partitions/harddrives, reguardless of dual boot
+ hmm, does anyone know if theres a way to force effects and unity on LIVE run? i would like to try out before installing.
+ ActionParsnip, i git a GTX460
+ hmm i thought you can run unity without drivers. i mean i cant even run compiz. i was able to do so on my old system on older builds without drivers
+ ok installing nvidia drivers right now
+ reboot the system? on a LIVE system?
+ yes, since i want to tryout ubunto, not install it on HDD
+ ubuntu*
+ ok, whats the command to restart x server?
+ why does everything need to be so cryptic in the linux world :/

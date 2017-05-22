@@ -1,0 +1,4 @@
+ how can I su into a user and be able to launch graphical applications?
+ how can I su into a user and enable graphical applications? (like shh'ing with the -x command)
+ escott: I didn't know about gksu, it doesn't work though.. I am using it right aren't I? "gksu -u <user> nautilus" -- that just makes a password box pop up then nothing happens
+ escott: just open nautilus as another user -- I've created a different user as a sandbox so I can hopefully not muck up anything other than a single folder.

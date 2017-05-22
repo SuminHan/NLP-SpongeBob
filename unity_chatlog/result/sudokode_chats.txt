@@ -1,0 +1,14 @@
+ lol emacs
+ yes, rms is a great source of knowledge
+ and toejam
+ lol arch
+ ubuntu is way simpler
+ psusi: wow, sounds like something you could do with tmux or screen
+ you could just skip that extra step of using emacs
+ psusi: it does if you use vim/nano, weechat/irssi, whatever you read info pages with, etc
+ sounds like bloat
+ sounds like an easily remedied problem with a weechat script
+ I may look into that actually
+ give me something to do
+ :D
+ o_O

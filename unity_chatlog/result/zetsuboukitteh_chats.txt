@@ -1,0 +1,4 @@
+ hello, I'm having trouble with installing deadbeef (http://deadbeef.sourceforge.net/) by adding the ppa and installing
+ "E: unable to locate package deadbeef"
+ hey, any thoughts what might be the problem; updgraded to natty and a game I could play flawlessly before (xmoto) lags quite a lot now
+ oh, on xubuntu btw

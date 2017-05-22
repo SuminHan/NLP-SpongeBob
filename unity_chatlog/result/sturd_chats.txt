@@ -1,0 +1,1 @@
+ trying to install ia32-libs from a ppa (the ubuntu servers are SWAMPED!!), to get utorrent server running, so I can join the mass-share of the Ubuntu iso files.  Transmission just doesn't give a good upload rate in comparison.

@@ -1,0 +1,8 @@
+ hello please
+ people
+ can someone walk me through how to connect my devices with ssh please.... im lost and confused
+ im new so i dont know what to try
+ dr_willis, I downloaded the openssh-server on this computer
+ Dr_willis, everytime i try to connect it comes back with connect refused
+ rgr, i dont know how to do that
+ rgr, where are the tutorials?

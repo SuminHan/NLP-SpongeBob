@@ -1,0 +1,4 @@
+ gurmal , try to use a different kernel version
+ what's the purpose of a dummy upgrade package? firefox likes to use a lot of them it seems
+ kbrosnan , so what purpose do they serve?
+ kbrosnan , i think i understand now. if you install something by hand, it won't show up in you packet manager, and if some package require an other that is installed by hand, a dummy package needs to be installed so the package can't complain a package can't be found

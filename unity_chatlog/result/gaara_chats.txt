@@ -1,0 +1,50 @@
+ i have blank screen after booting into a fresh natty installation
+ help please
+ raju, thanks..is there info i can give you to fix it?
+ raju , i'm a little desparate in trying to get this to work...
+ i'm having screen backlight problem after installation of natty! someone help! screen is almost pitch dark! though i know it boots in!
+ ahhhh
+ natty causing unnecessary problems for me!
+ NO backlight at all after booting!
+ someone help
+ cdbs, the screen is dead dark
+ cdbs, well i dont have a dedicated graphics card...but its an integrated intel onboard gfx card
+ cdbs, so i dont know if its a gpu issue, but i know it boots successfully into natty, but screen is dead dark! backlighting does not work
+ cdbs, im guessing this is a common issue, unsolved though, because going thru the various forums did not help either
+ fresh install
+ cdbs, fresh install
+ Polah, 20 minutes
+ no
+ cdbs, no, i had to install it using nomodeset
+ cdbs, nomodeset works, but as you can quite understand, it loads into a lame gnome ui, without any graphics driver, with sick resolutions
+ mustafa, i have the same issue, cdbs suggested something to me just now
+ cdbs, its enough if i set nomodeset at the grub screen right? for now atleast
+ cdbs, awright, thanks am gonna try it and get back to you if it doesnt work :) if it does, pleaase tell me how i can thank you :)
+ cdbs, it dint work
+ cdbs, :(
+ cdbs, i waited for sooo long to get natty, and now it acts up like this, i set it on livecd by pressing f6, and then selected the nomodeset option
+ cdbs, its impossible that im the only one having this problem
+ cdbs, gnome
+ cdavis, does it make a difference that i already have a 10.10 installation on a different drive?
+ cdbs, does it make a difference that i already have a 10.10 installation on a different drive?
+ cdbs, it is behaving the same way as it behaved during installation also
+ cdbs, do u work for canonical? or u just a fan like me?
+ cdbs, canonical Uk?
+ ror, no its not possible
+ ror, im stuck with the same problem
+ mustafa, nope :(
+ mustafa, what about for you?
+ mustafa, do u have an intel gfx card?
+ cdbs, thanks
+ mustafa, am gonna try downloading the dvd and seeing if it works
+ for the dvd?
+ chadi, no it wont
+ anyone here experiencing backlight issues with natty?
+ jrib, are u facing no backlight problem? i have the same thing
+ mustafa, http://cdimage.ubuntu.com/dvd/current/natty-dvd-amd64.iso
+ did anyone solve the backlight issues??
+ screen is black
+ rather screen is blank on booting in
+ michaelschmid, i agree with Monotoko
+ anyone here have an issue with the backlight on laptop screen
+ ?

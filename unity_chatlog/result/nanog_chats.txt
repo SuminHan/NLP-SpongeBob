@@ -1,0 +1,26 @@
+ i have a machine that when I ssh into it and log in, it doesn't return me to the shell's prompt
+ just sits there... All I did was add ipv6.disable=1 to my kernel line and rebooted?
+ any ideas?
+ anyone know if there is an in.tftpd option to turn off strictness regarding absolute filenames in requests?
+ don't see it in the manpage
+ in.tftpd[1607]: RRQ from 172.16.2.230 filename pxelinux.0
+ in.tftpd[1607]: sending NAK (2, Only absolute filenames allowed) to 172.16.2.230
+ no
+ you can't do it
+ Jessica903: pxe is for wired lan
+ heh i forgot about gpxe
+ however, there are only two families of wlan cards supported
+ Jessica903: that can be done
+ i'd imagine you'll need an initrd though
+ where you'll load your wlan drivers
+ you will just want to create an initrd (squashfs) that includes your wlan drivers
+ I would just modofy en existing bootable setup
+ the bootstrap will load the initrd which will in turn load your wlan, run a script to connect to your wifi, and then begin whetever else it is you're wanting to accomplish
+ if you're just wanting to have a diskless boot
+ then you should just load the system via nfs or tftp
+ no, this is not for beginners
+ or even intermediates ;)
+ i suggest reading all you can about doing it with a LAN adapter
+ then apply the differences
+ there is stuff available that is pretty easily slapped together
+ to do this via LAN

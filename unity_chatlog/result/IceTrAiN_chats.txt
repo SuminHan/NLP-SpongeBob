@@ -1,0 +1,2 @@
+ Hi folks..  is there anywhere else that Enable3Button for mouse is listed?? It's not located in my xorg.conf
+ Hi folks..  is there anywhere else that Enable3Button for mouse is listed?? It's not located in my xorg.conf

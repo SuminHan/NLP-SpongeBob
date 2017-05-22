@@ -1,0 +1,5 @@
+ hi all - having upgrade issues; I downloaded the alternative iso, hoping to avoid load on upgrade servers (the iso can be got over bittorrent), but when installing it, it still decides to obtain all packages from remote servers and not the mounted ISO or bootable USB made from the ISO. Why?
+ hi everyone - has anyone managed to upgrade relying solely on the alternative cd, rather than from the remote upgrade server?
+ i'm trying to do so in order to avoid adding load to that server, which is crawling already
+ has anybody managed to update to natty without relying on the update server (i.e., on the alternative iso?)
+ anyone managed an offline upgrade to natty yet?

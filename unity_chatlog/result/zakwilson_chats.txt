@@ -1,0 +1,5 @@
+ I'm having tray problems too. Skype doesn't appear, to be specific. Some other programs that use the tray do still work.
+ jenkinSear and Axlin: thanks for the info. I won't go on a long off-topic rant here, but I dislike that decision.
+ Axlin: I'm not using Unity
+ Making the change in jenkinSear's link and restarting both notification-area and skype did not result in the icon showing up.
+ Skype isn't appearing in my notification area in 11.04 using classic Gnome. I tried the whitelist fix, even though that appears to be Unity-specific. It did not help.

@@ -1,0 +1,53 @@
+ I think i screwed up big time
+ i just updated to 11.04; turned on desktop cube and now have no panel and no way to access terminal
+ >_<
+ alt+F2 will not work
+ nothing salt >_<
+ any other way to start terminal but alt+F2 or ctrl+alt+t ?
+ atm i have no panels, no windo boarders apparently no way to access terminal >_<
+ atm i have no panels, no windo boarders apparently no way to access terminal >_< anyone?
+ what Q?
+ step21; what Q?
+ step21; you mean recovery?
+ step21; i can try, but then i won't be on here.... what do i do once i'm there?
+ i can boot recovery, not sure what classic is
+ step21; basically the programs that open at startup work; email, chat, i turned on FF via a link in an e-mail
+ i can do the shift+ctrl+F2 thing
+ no, i log in normally (log in screen; enter user then pass) step21... that part is fine. alt+F2 does nothing
+ step21; what's classic?
+ step21; ty, i'll try
+ gotta restart
+ okay, so I managed to get terminal working... now how do I restore the panel the way it was in 11.04?
+ anyone know how to restore the panel in 11.04?
+ back again
+ anyone know how to restore the panel on 11.04?
+ bloublou; i doubt it.. i killed it by activating desktop cube in compiz
+ also, my emerald won't work -_-; I'm stuck with no window boarders (close button, etc)
+ suburjan; you type in your user name, click okay then at the bottom it will show up
+ threw me for a loop as well
+ so, anyone know how to restore panel?
+ and how to get emerald to come back >_>
+ that idk; was just telling you that the options don't pop up until you type in your usr name
+ sry
+ anyone know if there's a way to *down*grade from 11 to 10?
+ too bad
+ was hoping to keep all my other mods neckoox >_<
+ so no way to return the panel?
+ ... and here i was happy i got to go to 11.04 without having to redo all the settings
+ cane; mine worked fine until i wanted the stupid cube back -_-;
+ what's that?
+ neckoox; yes... I upgraded from 10.10 to 11.04 ... in CCSM i tried to enable cube again, gave me an error but (stupidly, i know) I figured it was one of the ever-present 'the shortcut for X is same as shortcut for Y' things and okayed it
+ next thing i know, no panel up top, no window boarders
+ so now no cube and no panel
+ LAcan; if that's compiz settings manager i have it; it's how I screwed up the install in the first places
+ place*
+ LAcan; i turned on cube in CCSM and my panel (the shiny new one in 11.04) and window boarders ran away in mutiny
+ what's the command line to open CCSM?
+ n/m
+ okay, what's this unity shell thing?
+ anyone know what's this unity shell thing?
+ is*
+ yay, that fixed it
+ ^_^
+ or so i thing
+ think*

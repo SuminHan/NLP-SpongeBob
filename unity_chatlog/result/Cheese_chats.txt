@@ -1,0 +1,7 @@
+ Is there any way i can install fedora along with ubuntu and windows 7?
+ If i install fedora along with ubuntu and windows 7 Will grub pick it up? is there any special installation procedure i have to do?
+ I dont know why the operatings system would fry your monitor
+ It was probably a coincidence
+ Oh
+ Sucks
+ Are you sure it didnt fuck your video card?

@@ -1,0 +1,4 @@
+ hey guys
+ trying to install ubuntu on the new macbook pro 2011 15" but get the following message on cd boot - "unable to find a medium containing a live file system"
+ the cd seems fine on different computers is there a way to fix that
+ any one can help? advise? - trying to install ubuntu on the new macbook pro 2011 15" but get the following message on cd boot - "unable to find a medium containing a live file system"

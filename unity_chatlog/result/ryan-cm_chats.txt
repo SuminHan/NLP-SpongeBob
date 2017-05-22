@@ -1,0 +1,2 @@
+ anyone know why my monitor shuts off once grub loads the kernel on natty?  I disabled the splash and vt.handoff and it still does it.
+ it doesn't seem to be dhcping either

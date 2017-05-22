@@ -1,0 +1,2 @@
+ hi all im trying to install gnome 3 on maverick. is this the preferred method: http://www.kabindra.com.np/2011/04/how-to-install-vanilla-gnome-3-in-maverick/ ?
+ or is there a stable release ppa

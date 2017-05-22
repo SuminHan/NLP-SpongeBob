@@ -1,0 +1,4 @@
+ hi
+ hi, can anyone just confirm if they can chat in ##c++ ?
+ siloxid, /nickregister? doesnt work
+ all, thanks :D

@@ -1,0 +1,7 @@
+ hi
+ I want to know how to remove the "sudo" authority from the first (default) user in ubuntu ?
+ I couldn't find the name in /etc/sudoers !
+ celthunder:  I couldn't find the name in /etc/sudoers !
+ celthunder: what happens if there is no user that has sudo authority :))) ?
+ there is no user called su
+ ok

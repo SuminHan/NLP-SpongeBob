@@ -1,0 +1,24 @@
+ is someone still here?
+ i need some help.
+ i want to hide the shutdown information .
+ what should i do?
+ * Enabling additional executable binary formats binfmt-support [OK]
+ * Checking battery state... [OK]
+ acpid: exiting
+ Broadcast message from root@rays-Aspire-one
+     (unknown) at 6:59...
+ System is going down for halt NOW!
+ I just want to know how to hide the information when i shutdown the ubuntu system(10.04)..thanks
+ I just don't know how to use it.
+ ok
+ ok.
+ http://paste.ubuntu.com/603345/
+ http://paste.ubuntu.com/603345/
+ some one can help me?
+ please give me some advice.
+ http://paste.ubuntu.com/603345/
+ http://paste.ubuntu.com/603345/
+ http://paste.ubuntu.com/603345/
+ I want to hide the shutdown information:http://paste.ubuntu.com/603345/
+ http://paste.ubuntu.com/603345/
+ http://paste.ubuntu.com/603345/

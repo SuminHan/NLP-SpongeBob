@@ -1,0 +1,5 @@
+ Help!  I'm stuck in a seemingly endless su/sudo loop!
+ Every command I use with sudo returns a 0640 and 0440.
+ Every fix I find for this involves using su
+ Su returns authentication failure after i try to log in
+ No live CD

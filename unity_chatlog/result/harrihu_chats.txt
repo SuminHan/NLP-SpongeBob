@@ -1,0 +1,44 @@
+ worked fine in xp
+ Hello
+ again
+ Sorry to be a bother but I'm having issues connecting to wifi on ubuntu 10 something with my netgear pci 802.11g wifi card. It shows a wifi symbol up near the clock in the corner with a red ! and has grayed out wired connection thing in the list and doesn't acknowledge wifi there. I can set wifi settings but at no point does it give me the option to connect.
+ pindropper it's not hooked up to the internet
+ but thanks for the suggestion pin
+ no no it's not connecting to the router not just the internet
+ I'm on a windows machine now
+ The router is connected to the internet thats how I'm on
+ There is nothing wrong with the wifi router it's all with the linux machine
+ if there was something wrong with the router I wouldn't be able to connect on this other pc
+ thanks for the suggestions pindropper
+ looking into it
+ wireless network is not hidden and I did try adding one manually
+ it never even gives me the button "connect"
+ it just gives me an add button and ok
+ and a delete etc
+ I never see the network listed and it's not hidden
+ I don't think the wifi card works with the OS
+ nope
+ nope
+ whats iwconfig wlan0?
+ ok
+ well it's almost impossible to get this machine hooked up wired
+ I could try but if theres any other way
+ the router is upstairs very far away from the box with no plugs and this box is built into a home theater system
+ hmm you know what I'll give it a try
+ I have a usb wifi stick and if that fails I'll take the time to get the computer up there
+ one moment robert05ad I'll try that.
+ I'm trying to get a pc with ubuntu 10 something to work with the s video port on the graphics card for a media pc
+ but it just rolls
+ ccllrocks do you know the specs on your computer?
+ ccllrocks it would run way faster using a hard drive over a usb
+ er um instad of a usb that is
+ there is a version of ubuntu for older slower machines called xubuntu if I'm not mistaken (correct me if I'm wrong here )
+ you don't really need to clean out a netbook
+ it's fine
+ just be sure to keep the vents open so the fans can work and if needed use a laptop cooling pad
+ it should be fine
+ as far as the netbook running slow there isn't much you can do. I'd make sure you aren't doing too much multitasking
+ Well actually I'm not worried about speed I have another problem
+ the s - video port rolls and is un viewable in ubuntu
+ I need it to work because it's a media pc
+ worked fine in xp

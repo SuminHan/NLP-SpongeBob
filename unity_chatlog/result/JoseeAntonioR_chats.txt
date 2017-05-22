@@ -1,0 +1,52 @@
+ Hello! Does anyone knows the Canonical Lexington office phone number?
+ Does anyone knows where can I call Canonical USA?
+ Hello! I'm having some troubles with my Intel video card... I did a hardware test, and it says that it uses the Nouveau driver instead of the Intel driver... What can I do to fix this error?
+ celthunder It says module i915 is in use
+ jetole I don't use xorg.conf because it gives me a lot of problems.
+ celthunder The problem is that i don't know what module i don't want...
+ jetole celthunder And what can I do? Creating and editing xorg.conf worked in 10.10, but it doesn't anymore...
+ jetole But for me it doesn't ): http://pastebin.ubuntu.com/601601/
+ ohsix I did a hardware test, and it said it was using the Nouveau driver, but I have an Intel chipset, so I want to use the Intel driver.
+ ohsix I'm using Ubuntu Desktop.
+ jetole http://pastebin.ubuntu.com/601603/
+ ohsix http://pastebin.ubuntu.com/601605/
+ ohsix I did System Testing, and in the results it said that I was using nouveau driver.
+ jetole http://pastebin.ubuntu.com/601608/
+ ohsix But my general problem is that my monitor isn't detected. I cannot change my resolution, it's stuck in 1024x768
+ jetole Nothing.
+ ohsix I did a normal boot.
+ jetole ohsix Do I need to restart X to see if there are any changes?
+ celthunder How do I do that?
+ I'll try restarting X
+ If it doesn't works, and my screen goes black, what can I do in the console?
+ I'm back, with no results.
+ celthunder ohsix jetole I'm back, with no results.
+ I'm having troubles with my monitor. It isn't recognized, and I'm stuck in 1024x768. What can I do?
+ ohsix Well, thanks!
+ Just posted my question in Launchpad. If anyone knows any way to help me, please answer there. https://answers.launchpad.net/ubuntu/+source/xserver-xorg-video-intel/+question/155192
+ Hello! I've just intalled Unity 2D because I cannot get my driver to run correctly, and the borders of the windows look like if I was in Windows 95! Is there any way to change this?
+ deadpulse How can I check that?
+ How do I hide the Unity Launcher?
+ I don't want to return to GNOME, I'm just asking because my Launcher doesn't auto-hide
+ I DO NOT want the classic desktop. I want the Unity bar that is on the side to auto-hide. I am NOT using the classic desktop.
+ Para español entre al canal #ubuntu-es
+ What is the package name for Compiz Settings Manager?
+ Terminal says it is unable to locate package ccsm
+ http://imagebin.org/151187 That bar in the side doesn't auto-hide. What do I need to do?
+ !es
+ [14:44] <usalabs> Yes, I have. No results.
+ I'm having a trouble with the bar in the left side: It doesn't auto-hides
+ My Unity Dock doesn't auto-hide, what can I do?
+ How can I make the bar in the left side to auto-hide?
+ Ooday In Terminal, type sudo mv [Current location] [Destination]
+ Guys, do you know where can I download Ubuntu 6.06.2 Desktop Edition? Because in the releases page I can only download 6.06.2 Server Edition...
+ kyubutsu I am making a collection of every single version of Ubuntu, and I want to download it to burn it.
+ OerHeks Thanks, I'll try.
+ Jordan_U There I can only find 6.06.1, not 6.06.2
+ tomatobros There I can only find 6.06.1, and not 6.06.2
+ tomatobros That's the problem, I want Desktop Edition ):
+ kyubutsu But it is 6.06.1, and I want 6.06.2
+ Hello! I have a doubt. While a was in Google, searching for Ubuntu, I found this: http://ploum.net/post/102-official-ubuntu-id-cards-announced Is this real?
+ I have a doubt. I just want to know if this is real: http://ploum.net/post/102-official-ubuntu-id-cards-announced
+ iconmefisto Well, thanks.
+ Guys, I'm having a trouble. My Unity sidebar doesn't auto-hide and it covers part of the full-screen opened window.

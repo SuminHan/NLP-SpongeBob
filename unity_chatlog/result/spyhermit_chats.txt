@@ -1,0 +1,19 @@
+ so, anyone been able to use 11.04 inside virtualbox?
+ so, installed 11.04 in virtualbox, installed guest additions, unity works, but the icons are huge and blocky and the text in the title bar is also huge and blocky.
+ installed compizconfig-settings-manager, set icons to not grow,
+ they look good. The text is still nasty. any ideas?
+ patrunjel: mount -o loop disk1.iso /mnt/disk
+ then you can access it like any other dvd
+ patrunjel: yep. vlc is your best bet.
+ RavenHursT: installed, took about 5 minutes for the main module to build.
+ 4 nines!
+ RavenHursT: gui, but it's just running the command line anyway
+ ChessTeach: sadly, with standard pc hardware, no dedicated raid card, software raid, you're looking at maybe 10% speed boost.
+ RavenHursT: well, it took 20 minutes on my spare machine
+ ChessTeach: yeah. A single SSD is going to blow away your array... if you don't need a ton of space, you can get a pretty fast ssd for 100$ or so
+ so.... anyone have experience with graphical glitches in unity? still trying to sort out my absurd font issues
+ iceroot: he's already said he has external backups, he knows the risks.
+ iceroot: 4th time might be the charm. ;)
+ iceroot: wish he'd read up on what he was trying to do before he just put the cowboy hat on, though.
+ thevor: yep
+ Wipster: install compizconfig-settings-manager, run ccsm, and disable the unity plugin. :)

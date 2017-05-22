@@ -1,0 +1,23 @@
+ can someone tell me how /if 3d is working in 11.4 with a ati 9800 card?
+ i am getting 48 fps in glxgears shouldnt unity work?
+ i meant Iam gettting 84fps in glxgears shouldnt unity be working?
+ Dr_Willis can you help trouble shoot
+ my card is ati  9800 unity will not run that is all I know
+ doeas anyone else knoe why glxgears would work but unity not
+ is there a test for composting
+ checking
+ rmate no one both
+ escitt say direct rendering
+ escott: say direct rendreing is that what you need?
+ escott old ati 9800
+ rmatte i meant no to both
+ rmatte ati 9800 it is old but has woorked untill now
+ rmatte: It wont run defaults to classic even when i choose unity
+ rmatte: story of my life
+ rmatte: suggestions to fix?
+ rmatte: ths anyway
+ rmatte: no how do i do that?
+ rmatte: then will it be a log in choice?
+ rmatte: thks again
+ rmatte is there a way to change from classic to unity without login out?
+ how do i switch from classic to unity in 11.4

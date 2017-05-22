@@ -1,0 +1,2 @@
+ Hello, What is the best IRC chat for linux ?
+ Ok, I need a irc chat that allows me to do cascading of windows so I can follow multiple channels easily

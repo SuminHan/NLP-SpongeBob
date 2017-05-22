@@ -1,0 +1,2 @@
+ E: Couldn't find package liblzo1
+  halp please

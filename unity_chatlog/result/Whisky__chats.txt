@@ -1,0 +1,6 @@
+ Upgraded to 11.04 from 10.10 and have been successfuly locked out of X. Even failsafex won't start. I can only get to the login screen and when I enter my password, no desktop! Nightmare! help! :(
+ anyone?
+ I Upgraded to 11.04 from 10.10 and have been successfuly locked out of X. Even failsafex won't start. I can only get to the login screen and when I enter my password, no desktop! Nightmare! help! :(
+ anyone?
+ please?
+ I can't get into X

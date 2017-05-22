@@ -1,0 +1,7 @@
+ Hello, folks.
+ Hello, I was wondering if any of you would give me your opinion on how well Ubuntu would work on a G4 800mhz iMac?
+ Also, I am trying to find the download image for the PPC version but the only link I have found was in the Daily Builds section.
+ Damn.
+ The only PPC version I found is  http://cdimage.ubuntu.com/daily-live/current/
+ So would it be best just to install 10.4?
+ What do you think stefg?

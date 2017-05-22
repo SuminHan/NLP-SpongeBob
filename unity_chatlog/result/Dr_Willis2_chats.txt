@@ -1,0 +1,52 @@
+ they would be buggy with compiz :)
+ Khr0n0s:  just guessing.. but i would think the fglrx driver is not working, or did not instal lproperly
+ phoque_uni:  if the plugin is messing. it may be in the repso.
+ dscastro:  servers may be overloaded right now.
+ !ccsm | saml
+ saml:  unity is running on top of compiz. and has compiz plugins..
+ saml:  at least it did last week when i was playing with it.
+ saml:  you could try rerunning the addationa-drivers tool
+ rcconf:  the torrent is quite quick here.
+ rcconf:  got 70 seeds and 300 peers here.
+ getting 1.4mb/sec on the torrent.
+ OfficiallyPC:  ffmpeg, mencoder,. or front ends to those apps
+ victorhugo289:  alternate is a text based installer.. eitehr can work
+ klaas:  thats part of the theme i thought.
+ kl_ you mean the resize handel>
+ andeeeuk:  servers may be overloaded at this time.
+ kl_:  that the window decorations theme part then.
+ kl_ change your theme perhaps
+ kl_ You could make your own theme i imagine.
+ !changtheme | kl_
+ kl_:   Not really. the gnome-look site has themnes you could look at and figure out how to modify.
+ I tend to just pick a simple theme and thats it.
+ kl_:  nope.
+ kl_:  other then 'resize handel' perhaps
+ dr0id:  if it follows the standards   lsb_release -1
+ dr0id:  if it follows the standards   lsb_release -a I mean...
+ dr0id:  time to start digging in etc then  i guess.
+ ScottONanski:  they always do on release day and for about a week after
+ !controls | ToeKutter
+ kl_:  metacity is window decoration
+ ToeKutter:  ! is a BOT command.. read what ubottu told you
+ Toph:  depends on your needs.
+ ToeKutter:  theres fromt ends to change the controlls back,. or theres some command you cut/paste to move them back. I use Ubuntu-tweak to handle it.
+ Toph:  use the one included by default then. it does the job.
+ cholo:  upgradeing today may be slow - due to server load.
+ cholo sudo apt-get update, sudo apt-get upgrade ,. perhaps sudo apt-get dist-upgrade    done...
+ hsh902:  that made no sence.. rephrase the question.
+ Monotoko:  for downloading the iso's right now. toirrents are real fast.
+ hsh902:  you mean the time? No idea.. donrt really care or pay attention to it.
+ bashelina: gnome 2 is the classic desktoip in the gdm menuis
+ Monotoko:  typical release day. happens every 6 mo. :)
+ yellow7:  if you update normally.. it will do that.
+ ToeKutter:  try the unity-2d desktop then.
+ ToeKutter:  install the proper package I guess.. ive just read about the unity-2d stuff using qt.
+ cholo:  no you do not.
+ cholo:  if you installed/used beta. the normal update/upgrade/dist-upgrade will update you to the filnal release.
+ !final
+ cholo:  perhaps there is no update that 'final' is out.. since it just sees it as a set of normal uypdate dpackages.
+ cholo:  so you proberly are updated then
+ Hedgehog456:  its differnt then what people are used to.
+ jiltdil:  try it out. decide for yourself.
+ 64bits gives me a decent improvement in the video reencoding I do.

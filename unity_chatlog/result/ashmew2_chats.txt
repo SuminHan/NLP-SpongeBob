@@ -1,0 +1,49 @@
+ hi , how many hrs left for Natty Narwhal ?
+ physically_fit : I just had to reinstall 10.10 because my hd crashed...that aint fair ! ...lol
+ abhijit:Thanks
+ well , /usr/bin if granted right access , anyone can put in a malicious executable
+ .
+ write**
+ !natty
+ !party
+ omg im banned from u-r-p
+ bazhang: what to msg ?
+ bazhang: can u unban me now ?
+ !ask
+ join #ubuntu-release-party
+ mick_laptop: needed the !ask stuff to copy paste to another channel :)
+ bannde from there :P
+ How can i make sure that my android phone and ubuntu both are using the USB 2.0 ?
+ curt: might happen , depends..
+ !language | shadowlemon
+ NetM: #ubuntu-release-party
+ NetM: np :)
+ jrib: you must be keeping that statement on ur clipboard lol :P
+ curt: well tbh ive never upgraded myself..but im guna do that this time from 10.10 to 11.04.....sometimes breakage occurs if you have outdated hardware i think...and maybe because the things that you had like a library 2.1 , in the new repo, it may be a library 3.0...its worth the try imo..you can always do a fresh install after that
+ sorry long msg
+ :)
+ how do i make sure Ubuntu is using USB 2.0 ?
+ streaker : paste the Audio Multimedia line from the output of lspci
+ Applications (top left corner) > Accessories > Terminal
+ streaker: enter the command in the terminal
+ akashm1990: says the same to me
+ streaker: Just needed this line : 01:00.1 Audio device: ATI Technologies Inc Cypress HDMI Audio [Radeon HD 5800 Series] :P
+ do you get op status all of a sudden or are you already an OP and stay undercover :P
+ mythri: http://www.psychocats.org/
+ mythri: http://www.psychocats.net/ sorry its .net not .org
+ thien: join #ubuntu-release-party
+ if you need to do it cli-based try do-release-upgrade (should be in the package update-manager-core)
+ yeah
+ jaredquinn: OH !. i must have overlooked
+ sorry
+ =/
+ sudo apt-get dist-upgrade
+ yes. (lol...)
+ zvacet :: hehe :P
+ hey , im upgrading to natty , so will that remove gnome completely or can i choose from Unity/Gnome once upgrade finishes ?
+ Pici : Thanks ! :D
+ yeah :D
+ Hi , how do i make sure my Ubuntu installation is using USB 2.0+ ?
+ bazhang: umm ?
+ i forgot the command to check kernel version , pointer pls ?
+ 2.6.38.. :D Thanks

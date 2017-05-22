@@ -1,0 +1,6 @@
+ andy_1: you have to register
+ 11.04 is working so much better for me than 10.10, awesome!
+ andy_1: it's /msg nickserv identify yourpassword
+ how do I get the battery charged number from the command-line?
+ thanks google  :)
+ in gnome I changed my mouse settings but these aren't observed when I log in with a different wm.  how do I keep the mouse settings?

@@ -1,0 +1,3 @@
+ hello, since 10.04 I have a problem with "sun-accent-keys" so a user can't enter french signs with like circonflex e.
+ does anybody know how to archive (in 10.04) signs like two points and U Capital, for Capital U-Umlaut?  same mechanism with french special signs (which I look  for a solution).
+ I found a solution, the was a keyboard swiss out of date, whith correct results. fuer the Umlauts.

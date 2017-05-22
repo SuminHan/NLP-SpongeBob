@@ -1,0 +1,4 @@
+ In unity is there any way to separate a maximized window's titlebar from the main panel?
+ Could I at least change the titlebar text color then? With the New Wave theme it is Black on dark gray for the main panel.
+ Hello. I'm having some trouble with Thunderbird and Unity. I can't access the main menu for the application. Any know what's going on?
+ Hello. I'm having some trouble with Thunderbird and Unity. I can't access the main menu for the application. Any know what's going on?

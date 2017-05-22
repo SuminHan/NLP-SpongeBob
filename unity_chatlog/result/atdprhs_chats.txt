@@ -1,0 +1,15 @@
+ Hello
+ everyone
+ I'm stuck on something in Ubuntu server 10.10, is there anyone here have 5 minute free?
+ okayz
+ my Ubuntu server were running good but suddenly it lost connection when I tried to connect to it later
+ but I found out after walking around in it
+ that my eth0 is not managed?
+ how? and  why? I don't understand :S
+ 8-)?
+ Ubuntu_user
+ and PythonPup
+ i didn't get any reply to my problem :-( from you...
+ Okayz...
+ nevermind
+ thank you...

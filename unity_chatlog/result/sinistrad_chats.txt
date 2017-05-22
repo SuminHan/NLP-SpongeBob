@@ -1,0 +1,6 @@
+ roeland you can try the 'top' command to see which process is consuming your resources
+ roeland, I see your dilemma
+ Has anyone tried the google voice notifier with unity yet? https://launchpad.net/gvoice-notifier
+ I upgraded to Natty, and wine isn't working quite right. I asked in #winehq, and they told me not to run compiz. I read that Unity needs compiz to run, I'm not quite sure what to do. Any ideas?
+ stimpie, Thanks! Will that be deprecated anytime soon?
+ stimpie, Thanks. I'll try that out and see how it goes.

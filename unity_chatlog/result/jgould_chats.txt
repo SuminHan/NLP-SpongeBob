@@ -1,0 +1,14 @@
+ Stupid question: Is there a meta package to install development tools to build something from source
+ spikebike, Thank you!
+ /help
+ er
+ How do you install{ a kernel on a partiton without booting on that partition?
+ kevinyoung: Gimp
+ I have .debs for the new kernel.  I've been bitten by the bug that affects the i915 chipset
+ can I unpack the  .debs and manually copy the files to where they go on teh boot partition
+ There has to be an easier way to install a kernel on a machine that wont' boot using the generic kernel....
+ How do you get rid of the spashscreen so you can see what your system is doign at boot?
+ is there a channel for kenel issues?
+ How do you get rid of the splash screen so you can see what your system is doing at boot
+ Slackman: I havnen't seen that one yet...
+ Slackman: I've been having issues with the kernel on my 2011 13" MacBook Pro

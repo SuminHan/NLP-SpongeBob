@@ -1,0 +1,1 @@
+ I just upgraded to 11.04, and I installed the new nvidia driver. When I try to run SDL or OpenGL programs, I get a lot of lag both in the program and on the rest of my computer. Help

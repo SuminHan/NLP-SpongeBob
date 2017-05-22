@@ -1,0 +1,10 @@
+ I want to upgrade from 10.10 to 11.04. Can I do that If I have the ISO of 11.04 already downloaded?
+ I think it's 64-bit. I run AMD Athlon X2
+ Soothsayer: I see
+ I made a USB startup disk of 10.10 (32-bit) and gave to a friend to install with his Windows using WUBI. He says during the installation WUBI tried to download another ISO. He running Intel core 2 duo. Did I give the right thing?
+ I can't get a Huawei USB modem for MTN Nigeria to connect. Can anyone help?
+ Soothsayer: It seems one can upgrade from 10.10 to 11.04 using and ISO. See http://ubuntuguide.net/4-ways-to-upgrade-to-ubuntu-11-04-natty-narwhalonlineoffline
+ Soothsayer: ok I will
+ Soothsayer: There are no comments in the post. What URL are you reading?
+ Soothsayer: Sorry. I didn't see that.
+ Soothsayer: Thanks. I may have to use the internet option. But there are power cuts where I am. Can the upgrade be paused and resumed?

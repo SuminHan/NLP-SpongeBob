@@ -1,0 +1,6 @@
+ having an issue with my netbook which has ubuntu 10.10 installed on it. everytime I run ifconfig wlan0 down the entire machine locks up
+ ok, this unity thing is disgusting. How do I switch it back?
+ its trying to be OSX
+ ty
+ much better, thank you atlef and Incarus6
+ this is a note book, and unity took far too long to load, ive got back to classic noeffects

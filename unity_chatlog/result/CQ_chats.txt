@@ -1,0 +1,22 @@
+ quick question... i'm running lucid, and do-release-upgrade shows no upgrade available... what do I need to do??
+ red2kic: I know, but in that VM I want to upgrade
+ hm, can I jump from 10.04 to 11.04, or do I need to hop to 10.10?
+ andeeeuk: instal virtualbox, install a small older ubuntu, install and trun skype there...
+ hello, how do I figure out which xserver I am using? there are around 15 installed and I want to remove the unused ones
+ arnab- my ubuntu guests resize as I resize the window, with the guest additions isntalled
+ arnab: log out, and then after you select yout username onteh login page, look atht e bottom of the screen and select ubuntu classic
+ hello, virtualbox guestadditions want to have kernel headers... is there a generic package to insdtall to always have the headers installed?
+ DasEi: I know that, my question was different: is there a GENERIC package to install to always get the headers instlled when a new kernel is installed?
+ I get this warning when running sensors-detect from lm-sensors: Warning: the required module sbs is not currently installed .... I can't find sbs anywhere, and googling isn't much help... any ideas?
+ lavanyadeepak: put in the CD and change the source, but you have to go through 10.10, can't do it directly
+ anyone know how to get the sbs module loaded for lm-sensors, or what it is exactly? I have the same problem as http://ubuntuforums.org/showthread.php?t=1537746
+ edbian: doesn't do anthing, modprobe -l doesnt show it, locate doesn't show it...
+ edbian: but modprobe -l should show it, shouldn't it??
+ edbian: nope, shows nothing
+ edbian: get gkrellm to show all the sensors that are in the computer ...
+ edbian: shows quite a few sensors that the sensors command shows as well
+ edbian: ok, thanks all the same... there's no answer in #linux-sensors which is the lm-sensors channel here
+ meraqlix: no. sudo apt-get install --reinstall ubuntu-desktop could do it
+ Master starting with ubuntu is not bad, easy to install, fairly stable, and you can always dig into the internals as much as you like
+ AMAG: I had some other stuff installed (nvidia drivers iirc) that I had to uninstall to get the GL based stuff to work properly... maybe you have something installed you don't need and that's being used?
+ Amag no idea either, i went through the packages that were installed and renoved the xserver-* packages I didn't need and also the nvidia stuff since i have intel chipset

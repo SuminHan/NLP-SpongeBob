@@ -1,0 +1,1 @@
+ Hello. I dual-boot Ubuntu and Windows 7 and have 2 data partitions which I intended on sharing between the two, however, the newest partition isn't in the GPT table - is there a safe way to add it without breaking anything? :P

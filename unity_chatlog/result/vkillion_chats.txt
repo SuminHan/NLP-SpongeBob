@@ -1,0 +1,1 @@
+ Can someone help me? I just installed Ubuntu 11.04 but when I start it up, it doesn't completely load and I can see various windows glitching (like the Update Manager).

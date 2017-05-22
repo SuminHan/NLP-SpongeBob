@@ -1,0 +1,32 @@
+ hello
+ :)
+ well... I am sorry for this question... but I read a lot of FAQs and... I couldn't solve my instalation's problem
+ may I ask for some help about how to install ubunto for netbook?
+ ??? nobody to help?
+ you are right maco... but I explained it
+ my problem
+ is...
+ I am installing ubunto in my netbook
+ where already I have installed W7
+ and it has 4 partitions already...
+ I have no options in ubunto to installing with win7
+ only erase all the disk
+ or manually
+ yes
+ I know Walther
+ but my question... Have I another option?
+ I mean... I don't want to delete my partitions because my job
+ got it maco... it is not a bad idea
+ ... I think more than one is extended... but isntalations system don't allow me to install it
+ maco... in anycase... if I put one as extended... if do I format the primary upper this extended... the extended will be formated too?
+ ...
+ I can't consider a clear install... too much information very important... and moreover... I need to work with win7 because university and job
+ ok WaltherFi... got it... but it doesn't work. I tried already and doesn't work because I have already 4 primary partitions
+ well... maybe next question is easier... for community... I have ubunto in a usb-key. Now I am running it in my netbook. I have internet connection... and I am trying to install aircrack-ng suite there... but I can't not... it say "dependency is no satisfiable:iw" What is happening?
+ mmm got it
+ ok ok...
+ I will try install ubunto by your advices...
+ there is another release? yesterday I downloaded the last one... it was not 10.10?
+ uuuh today... for netbook version too? I will check it right now... maybe I have a solution there....
+ thank you for all the answers .ç:) I will try to continue from this point.
+ have a nice day!!! :)

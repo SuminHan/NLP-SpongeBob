@@ -1,0 +1,5 @@
+ anyone else think that unity is awesome?
+ ehh
+ it sure was the place to complain about unity yesterday, but ok :)
+ i can't get my bcm4306 v 3 to work with ndiswrapper... it worked in 10.10, but now ndiswrapper -l says "alternate driver ssb" even though ssb is blacklisted, removed from initramfs, and not even loaded
+ anyone know how to force banshee to download cover art? the extension says it automatically runs, but it isn't on one machine, and is on the other

@@ -1,0 +1,7 @@
+ i just mount 'ubuntu 11.4' by ISO file on my computer so now how can i upgrade my ubuntu (10.10) to new version?
+ there must be some ways to upgrade from iso files?
+ you mean burn the ISO on a CD?
+ red2kic: no desktop folder in ISO file!
+ red2kic:  ubuntu-11.04-desktop-i386.iso   >> just download from ubuntu.com!!!!
+ red2kic: so what's the diffrent between them?
+ red2kic: but i think if i burn that on a CD , i can also install a fresh ubuntu? am i right?

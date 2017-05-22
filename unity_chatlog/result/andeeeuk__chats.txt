@@ -1,0 +1,20 @@
+ hi everyone
+ does anyone know how to setup single window mode in gimp ubuntu?
+ ruffleS i used to have it on 10.10 but since the upgrade it has not worked
+ http://ppa.launchpad.net/matthaeus123/mrw-gimp-svn/ubuntu ruffleS that was the PPA i have used
+ has anyone else got gimp in single window mode
+ Halzen yeah I had that before, did you get it from that repo?
+ Halzen yeah that is what i use
+ Halzen i have that all done, what do you use?
+ Halzen i think i need to update my repos first and then it will upgrade
+ Halzen, do you use photoshot now then?
+ Halzen, nice one!!
+ Halzen, do you have any problems with it at all?
+ Halzen good stuff, I had cs4 running without any problems
+ Halzen, was really good
+ Halzen, I would do but it does dost a lot
+ Halzen, yeah for a pro i can see why, I have been uding gimp for a while now as well and have found it a great tool. Really bad without single window mode though
+ I must say that I am so pleased with ubuntu 11.04
+ works soo well, initially I was having doubts about unity
+ whatever you do do not install gnome 3 over unity its skrews everything up!!! not worth it!!
+ I made that mistakte!!

@@ -1,0 +1,10 @@
+ Hi everybody. Hope you can help me. Does anyone know how can I go back to Ubuntu 10.10?
+ zvacet, thanks for your answer but if I knew how, I wouldn' t ask.
+ zvacet, ok. I'll do that. Thanks!
+ zvacet ;). Thanks, I'll need it XD.
+ zvacet, hope so! Thanks again.
+ ;), bye!
+ hello everybody, hope somebody can help. I need to copy my web folder into var/www so I can launch in in firefox, how can I do it? thanks in advance.
+ coz_, thanks, I need to be root, ohhh....ok. I'll try that, thanks for your kindness.
+ coz_ it worked, I did moved the folder there but firefox is now asking me what it should do with the file =/
+ coz_ lol, ok. THanks anyway ;)

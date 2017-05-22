@@ -1,0 +1,23 @@
+ hello everyone, looking for some support in Natty anyone successfully running 32bit scripts?
+ Any takers on troubleshooting ADB in natty:  Getting no file or directory in platform-tools/ folder please msg
+ celthunder yes and it's not working in the actual directory either
+ celthunder r+w
+ celthunder going to try now did that once.  Then installed ia32-libs
+ celthunder chown or chmod
+ celthunder k
+ celthunder still no go No command 'adb' found, did you mean:
+ celthunder been at it 3 hours had it working fine in 10.04 is it supported?
+ celthunder your a godsend!!!  so for now on the ./ is a must right
+ celthunder Thankyou very much!!!  I'll let you get to those that need it now!
+ wolfric watching it now
+ lol
+ celthunder on my other version 10.04 I get this  E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages.
+ celthunder how do I
+ celthunder check for held packages.  escuse me been drinking a lil tonight confused right now :)
+ celthunder forgive me for this long post:   Err http://medibuntu.sos-sts.com fiesty/non-free Sources                          Sub-process /bin/bzip2 returned an error code (2) Fetched 2,376B in 7s (323B/s)                                                   W: GPG error: http://medibuntu.sos-sts.com fiesty Release: The following signatures were invalid: NODATA 1 NODATA 2 W: Failed to fetch http://medibuntu.sos-sts.com/repo/dis
+ celthunder is that it?
+ celthunder or this The following packages have been kept back:   linux-generic linux-headers-generic linux-image-generic
+ hidn_shadows be patient wait a sec then re-post the ?  They are ppl in here getting around, you should get help
+ celthunder i did sudo apt-get upgrade and it's actually running
+ celthunder seems just the gui was erroring
+ hidn_shadows I only say that because I had to ask a few times.  Glad I stayed I got the help I needed!

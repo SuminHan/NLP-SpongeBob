@@ -1,0 +1,25 @@
+ Quick question, I was upgrading from Maverick to Narry, and my city went throught a complete blackout, now whenever I try to boot my ubuntu box it says the Hard drive is not ready or no present, I can keep waiting or Press S to skip mount and M to manual recovery, what should I do.
+ Narry*
+ Good night everyone. Quick question, I was upgrading from Maverick to Natty, and my city went throught a complete blackout, now whenever I try to boot my ubuntu box it says the Hard drive is not ready or no present, I can keep waiting or Press S to skip mount and M to manual recovery, what should I do.
+ Good night everyone. Quick question, I was upgrading from Maverick to Natty, and my city went throught a complete blackout, now whenever I try to boot my ubuntu box it says the Hard drive is not ready or no present, I can keep waiting or Press S to skip mount and M to manual recovery, what should I do.
+ Good night everyone. Quick question, I was upgrading from Maverick to Natty, and my city went throught a complete blackout, now whenever I try to boot my ubuntu box it says the Hard drive is not ready or no present, I can keep waiting or Press S to skip mount and M to manual recovery, what should I do??
+ [dlp]: how awkward is awkward?
+ [dlp]:  I don't really know, I was at the mall, and I only knew of the blackout because the entire more went out of light too. when I left home it had just started downloading the 1615 files it needed.
+ [dlp]:  fresh install is my best way out?
+ [dlp]:  that really sucks, I was halfway through my final project.. oh wait, I just started using ubuntu as my main OS, never remember about live CD's [/freakoutmode]
+ [dlp]:  just one side question, what's the right swap size?
+ [dlp]: 12GBs
+ [dlp]:  it's a lapop so yeah, hibernating is helpful.
+ laptop*
+ [dlp]: ohsix: so I guess 4GB swap is more than enough? for my 12GB machine that is
+ [dlp]:  rebooting now with a live 11.04 usb stick. going to do a fresh install :(
+ [dlp]: kinda disappointed to see same login interface and wallpaper :x
+ swap should be primary or logical?
+ Ew. first impression of Unity, it sucks :\ How can I completly remove it?
+ ohsix: no way to uninstall it and have my comp running just like before the update?
+ ohsix:  I never had the chance to choose not to install it
+ ohsix:  the only thing i can choose at the login is the user, nothing to choose unity or not is here. help?
+ Hey everyone, anyone knows a good automated program to upload files on multiple filehosts for ubuntu?
+ How do I change the permissions of a folder and all the sub-folders and files inside at the same time?
+ iceroot: ty
+ Hey everyone, can anyone tell em a good GUI alternative for SQLYog on Ubuntu 11.04?

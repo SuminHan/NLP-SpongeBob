@@ -1,0 +1,8 @@
+ Tell me, is natty LTS?
+ IdleOne: ty
+ mjs: sudo mkdir website, cd website, wget www.website.com
+ trollboy: which ubuntu?
+ trollboy: feature still in development
+ trollboy: but you can try
+ trollboy: http://ubuntuforums.org/showthread.php?t=1623950
+ !tip

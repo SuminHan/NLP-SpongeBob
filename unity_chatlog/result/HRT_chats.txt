@@ -1,0 +1,10 @@
+ hi, I installed Ubuntu 11.04 on my HP G62 laptop which has a VGA of ATI HD 5400, I activated the driver, but seems it's not already activated, please HELP!
+ rach0: when I activated the FGLRX, it downloads the drivers, installs it, then it requires to reboot the system, I reboot, but the driver seems not activated, as no single effect runs properly, though, in "Hardware Drivers" says the drivers is activated and currently in use
+ rach0: please can you give me abbreviated steps? I'm noob :(
+ rach0: ...
+ Hi, please someone helps me with installing ATI Radeon HD 5470 on Ubuntu 11.04? I can't install it properly
+ Hi, please someone helps me with installing ATI Radeon HD 5470 on Ubuntu 11.04? I can't install it properly
+ folks. no one's going to help me here?
+ phoebe212, I'm not going to get anything here?
+ Hi, I'm following this guide to install my ATI HD 5470 driver on Ubuntu 11.04, http://ubuntuforums.org/showthread.php?t=1409467 | when I reach sudo aticonfig --initial, it says command not found, please HELP
+ please help: Hi, I'm following this guide to install my ATI HD 5470 driver on Ubuntu 11.04, http://ubuntuforums.org/showthread.php?t=1409467 | when I reach sudo aticonfig --initial, it says command not found, please HELP

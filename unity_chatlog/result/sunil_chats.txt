@@ -1,0 +1,10 @@
+ hello everyone.
+ I was looking for help on how to create custom debian CD/DVD. Anyone has information on this?
+ I was looking for help on how to create custom debian/ubuntu CD/DVD. Anyone has information on this?
+ anarhist: I am also trying in #debian irc.
+ sje2: will I be able to add my own applications using remastersys
+ sje2: thanx, I am gonna try this now
+ ubottu: will I be able to make an installer media using the link you have provided.
+ red2kic: Yes, I am gonna try it now, I was looking for a shortcut. as I was bit in hurry to find the solution for this
+ red2kic: No problem :)
+ I got this page https://help.ubuntu.com/community/LiveCDCustomization, but I want to customize Server DVD, anyone have any idea.

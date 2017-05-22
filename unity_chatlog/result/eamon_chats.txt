@@ -1,0 +1,39 @@
+ whats 3d level?
+ hello
+ astra05: nvidia forums
+ hi div-0
+ MrMist1: you could put "echo "IT'S WORKING!!!!!!!!!"" in the script
+ div-0 try /etc/X11/xorg.conf
+ div-0: make one
+ yes
+ normal text file
+ !ask ¦ anonymity
+ !details ¦ anonymity
+ !details
+ !ask
+ div-0: you'll want to add whatever that guide is telling you to add to that file
+ rgr: why is it silly to recommend to make an xorg.conf file?
+ kjxl9: the drivers are in the kernel
+ rgr: why do you say that making an xorg.conf file is silly?
+ div-0: are you still having trouble with the nvidia drivers?
+ div-0: have you tried following this guide? https://help.ubuntu.com/community/VideoDriverHowto If so, what step are you stuck on?
+ div-0: I can link you to an advaced guide that will allow you to hi-jack the system from a live cd and edit the root filesystem from the livecd as though it were the native root filesystem of the environment
+ div-0: This is kihd of advanced, do you want that guide?
+ div-0: This is a gentoo guide. Use your liveCD and open a terminal, then mount your root filesystem that you want to install drivers on to "/mnt/gentoo" (the name does not matter, its whats used in the guide) the follow the steps at "entering the new environment" on http://www.gentoo.org/doc/en/handbook/handbook-amd64.xml?part=1&chap=6 then start installing the nvidia packages according to this
+ guide https://help.ubuntu.com/community/BinaryDriverHowto/Nvidia
+ drhydralisk: I will try to help.
+ drhydralisk: that's what I was gonna tell you to try :)
+ drhydralisk: look for master and PCM. Make sure both of those are not muted.
+ drhydralisk: Are you sure there was no master? What was the firstone, on the very left?
+ ebiester: "sudo dpkg-reconfigure xserver-xorg" should do it
+ rgr: who are you referring to?
+ hihihi100: would you like the screen to be blank until the username and password?
+ good for kath
+ hihihi100: have a looky here http://lmgtfy.com/?q=custom+boot+screen+ubuntu
+ adzy: you only need to type "LJ" then tab and the the program will complete the name for you. If many names start the same press tab many times
+ kad_: If the GUI tthat the new version of ubuntu uses
+ kad_: Yes, it's the biggest new feature
+ merlin2049er: The newest nvidia blob would be what you want
+ merlin2049er: the nvidia blob is the official nvidia driver it comes from nvidia so it is the best
+ merlin2049er: follow this guide to use the official nvidia driver https://help.ubuntu.com/community/BinaryDriverHowto/Nvidia
+ !details | FearXFactorX

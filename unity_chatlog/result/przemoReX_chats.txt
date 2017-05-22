@@ -1,0 +1,9 @@
+ hi. I've got an issue when running eclipse on ubuntu 11.04. Side sliding bars doesn't show up
+ I'm also very used to changing order of the open windows butons in window list on bottom bar in Gnome but it's disabled in 11.04. How can I enable buttons sliding in window list bar?
+ I'd like to ask if anybody using eclipse on ubuntu 11.04 has an issue with missing side sliding bars
+ I'd like to ask if anybody using eclipse on ubuntu 11.04 has an issue with missing side sliding bars like me
+ rgr: it's definitelly 11.04 isue.
+ has anybody noticed that i 11.04 classic one cant slide buttons in window list bottom bar as it used to be? is there any way to enable it back?
+ ohsix: I have restarted it but still no sliding
+ ohsix: so that means I can't configure it in any way, except to just wait for bug fix
+ ohsix: thanx I'll follow what's on launchpad

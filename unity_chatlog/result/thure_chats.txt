@@ -1,0 +1,1 @@
+ While upgrading from 10.10 to 11.04, upgrade froze. Got this error: http://goo.gl/xKaQV, reconfigured dpkg and ran apt-get update -f. Now ubuntu boots, but there is no GUI at all. (It is available via SSH and AFP, but still…)

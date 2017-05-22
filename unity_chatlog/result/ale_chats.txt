@@ -1,0 +1,2 @@
+ hi, I just updated to 11.04, but at the end of the update (I'd say it was around the 80% of the package installation step) my pc hanged with a blinking caps lock led. Now, whenever I boot it, I get a blinking caps and the pc hangs. My machine is a Lenovo T61, my network card is an intel 4965 (It seems to be related, at least that's what I found out googling)
+ Any help?

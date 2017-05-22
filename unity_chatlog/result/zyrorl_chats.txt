@@ -1,0 +1,7 @@
+ hey guys... i'm having an issue with 11.04... i can barely use it. it's sooooooooooooooooo slow. like constantly freezing, even in gnome safe mode
+ i had no problem at all with 10.10
+ ultra fast etc.
+ it seems to be because of the 2.6.38 kernel... if i try to boot using an older kernel its uber fast
+ does anyone else seem to have experienced this ?
+ anyone...
+ apparently not

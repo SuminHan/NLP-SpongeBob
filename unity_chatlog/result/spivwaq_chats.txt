@@ -1,0 +1,1 @@
+ Hi all,  there's a Windows Chrome "new tab redirect" extension that lets you change the default new tab location...does such a thing exist for ubuntu?

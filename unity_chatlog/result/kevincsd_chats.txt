@@ -1,0 +1,1 @@
+ Hi there. Is there a way to ask irb not to print out the return value after each input?

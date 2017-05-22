@@ -1,0 +1,4 @@
+ hey guys. my ubutnu upgrade is frozen. it has said 11 minutes remaining for about 6 hours now. its stuck at install setserial. should i force quit it and run it again?
+ hmmkay, i'll leave it on then
+ is anyone else experience really really slow wireless internet in 11.04?
+ hey lenovo

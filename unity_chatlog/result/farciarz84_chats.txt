@@ -1,0 +1,2 @@
+ hi, which technology canonical uses to build ubuntu.com?
+ which web framework canonical uses to build ubuntu.com?

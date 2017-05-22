@@ -1,0 +1,3 @@
+ Hi.  I'm new here so I do know what I am doing yet.
+ Can anyone help me with a problem?
+ Great here it is.  When I installed Ubuntu 10.1 with my windows xp, I found that it installed two versions.  How do I get rid of one version?

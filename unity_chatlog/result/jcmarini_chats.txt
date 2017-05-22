@@ -1,0 +1,7 @@
+ my cd burner will recognise a blank cd but NOT a blank dvd... anyone know why not?
+ is there any reason why a blank dvd is not recognised but a blank cd is?
+ my burner will burn cds but not dvds?
+ jjlee: braseo and gnome burner give message; no media when i put blank dvd in
+ jjlee: do some blank dvds just not get recognised because of some reason in manufacture?
+ why is a blank dvd not showing on desktop but cd is ok?
+ blank dvd not showing- but cd is-why?

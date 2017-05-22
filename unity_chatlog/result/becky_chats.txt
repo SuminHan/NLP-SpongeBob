@@ -1,0 +1,3 @@
+ I upgraded to 11.04 last night, and now I can't log in through X.  can log in via command line fine.  when I try to log in through X it looks like it's logging in then just brings back the login screen again.  an additional account does not have this problem
+ Edgan, looking at them now.  doesn't mean a huge amount to me though.  what am I looking for specifically?
+ Toph, ah Unity.  my gnome setup is heavily modified

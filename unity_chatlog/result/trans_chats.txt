@@ -1,0 +1,18 @@
+ hello guys, just upgraded to natty, how to get dash full screen by default
+ hello guys, how to get dash in full screen mode by default
+ oh, ok
+ any updated themes for natty, old themes aren't working nice
+ dsathe: installed dconf, what next
+ dsathe: dconf-editor is not valid command
+ then
+ yes
+ dsathe : I installed just "dconf"
+ now installing proper one
+ guys is 11.04 slow, it hangs whenevr I try to access dash, do I need to install unity 2d, I'm using P4 machine with 1 gb ram
+ ActionParsnip: I have installed nvidia drivers, nvidia 8400gs
+ ActionParsnip: I have installed nvidia drivers, nvidia 8400gs, 512mb
+ dsathe : Which key should I alter in dconf-editor
+ coz_: yes, I upgraded today morning since then its slow
+ dsathe : there is no form factor option inside unity, only options available are "devices","launcher","panel"
+ dsathe : sorry for my dumb question, I got it
+ ActionParsnip: whenever I click on dash it takes about 3 seconds for the dash to launch

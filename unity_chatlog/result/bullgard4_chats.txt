@@ -1,0 +1,178 @@
+ '~$ ip addr; 192.168.178.26'. '~$ sudo dhclient eth0; bound to 192.168.178.26'. What is bound here to what?
+ izinucs: No.
+ ruan: GNOME 3 is a project in progress. You can download a GNOME 3 DEB program package from a PPA.
+ ruan: Basically by de-installing the associated DEB program package. But it is difficult to deinstall GNOME 2 in Ubuntu because Ubuntu has many metapackages and thus side effects.
+ '~$ ip addr; 192.168.178.26'. '~$ sudo dhclient eth0; bound to 192.168.178.26'. What is bound here to what?
+ '~$ ip addr; 192.168.178.26'. '~$ sudo dhclient eth0; bound to 192.168.178.26'. What is bound here to what?
+ bazhang, tanath Thank you very much for your help.
+ Cale: In Ubuntu 11.04, at login, you can select GNOME 2. There you will have the GNOME volume control applet.
+ Cale: Just a second.
+ Cale: On my Natty system the DEB program package »gnome-media« is installed also.
+ Cale: No.
+ Cale: What is the reason that you have been forced to recompile the gnome-media package without the pulsaudio stuff in it?
+ http://people.ubuntu.com/~nhandler/classroom.html does not show me any entries. Does this mean that there are no Ubuntu classrooms in May, 2011?
+ Cale: At the outset you asked: "Is there a convenient PPA or something for adding back the gnome volume control panel applet in 11.04?" My answer now is: You need to fix your PulseAudio first from the ground on. And only after having done so ask for "adding back the gnome volume control applet".
+ Cale: I believe that your conviction is wrong. You do not need the PPA in order to re-build your (ALSA) sound system including PulseAudio.
+ Cale: Ah! I see. I do not know if such a PPA exists. Sorry.
+ http://people.ubuntu.com/~nhandler/classroom.html does not show me any entries. Does this mean that there are no Ubuntu classrooms in May, 2011?
+ gartral: That is a bad idea.
+ Andre_Gondim: My workspace is the whole screen. Yours not?
+ gartral: Because KDE is a complicated program consisting of many components.
+ Andre_Gondim: Right-click on the the icon in the lower right. > Preferences > Number of workspaces > 5.
+ gartral: Instaling KDE will not automatically auto-replace gdm. But having installed KDE you cannot simply "switch" back to having no KDE. Because Ubuntu has made too many metapackages. This would mean rather much effort by hand.
+ bison: Your apt package system is not all right. Check it.
+ bison: Try '~$ update-manager'.
+ bison: What do you mean by: "Nothing happens"?
+ bison: If you typed '~$ update-manager' and the program Update manager did not appear, then something serious is at fault. Please check your dmesg.
+ !pastebin | bison
+ http://people.ubuntu.com/~nhandler/classroom.html does not show me any entries. Does this mean that there are no Ubuntu classrooms in May, 2011?
+ !wireless | tyr
+ karthick87: You can install Firefox. In Firefoy you can install a Firefox add-on for flash player.
+ sameerkof: No.
+ http://people.ubuntu.com/~nhandler/classroom.html does not show me any entries. Does this mean that there are no Ubuntu classrooms in May, 2011?
+ http://people.ubuntu.com/~nhandler/classroom.html does not show me any entries. Does this mean that there are no Ubuntu classrooms in May, 2011?
+ kevinamadeus: Yes.
+ sebastian: You probably did not activate or install compiz.
+ !sound | hell_
+ pooltable: 3 question marks in a row are two too much.
+ op_amp: Your error message clearly states at least 3 measures to take. Did you do all of them?
+ uabn93: No.
+ Jordan_U: No. Please re-read. Three more are suggested.
+ http://people.ubuntu.com/~nhandler/classroom.html does not show me any entries. Does this mean that there are no Ubuntu classrooms in May, 2011?
+ http://people.ubuntu.com/~nhandler/classroom.html does not show me any entries. Does this mean that there are no Ubuntu classrooms in May, 2011?
+ ohsix: Not practical. He stands for the community there.
+ ohsix: Ah, this is a practical way. I will use it. Thank you for your help.
+ ohsix: I have written to the designer of Ubuntu's Update Manager but have not received an answer from him.
+ OY1R: No.
+ http://people.ubuntu.com/~nhandler/classroom.html does not show any entries. Does this mean that there will be no classrooms in #ubuntu-classroom in May, 2011?
+ http://people.ubuntu.com/~nhandler/classroom.html does not show any entries. Does this mean that there will be no classrooms in #ubuntu-classroom in May, 2011?
+ kill_joy: Me not.
+ kill_joy: Look up the error in Launchpad.
+ !ask | User_007
+ User_007: (I am not familiar with Unity.)
+ !grub | skullboy
+ user82: Ctrl-R
+ coder2: May be it helps to re-install alsamixer.
+ coder2: Using Synaptic, de-install the DEB program package »gnome-alsmixer«. Then re-install it.
+ coder2: 'sudo apt-get remove gnome-alsamixer && apt-get install gnome-alsamixer'.
+ coder2: alsamixer does not need GNOME.
+ justyellowboy: Wrong adressee.
+ justyellowboy: Wrong addressee.
+ coder2: I did not know that you do not have GNOME.
+ coder2: Try 'sudo apt-get remove alsa-utils && apt-get install alsa-utils'.
+ !backup | coder2
+ SeanChambers: Please describe your situation in greater detail and the error messages you obtained.
+ SeanChambers: Have you got access to a virtual console? Press Ctrl+Alt+F1.
+ SeanChambers: You can investigate your system using a Ubuntu Live CD or just re-istall your system.
+ SeanChambers: What does GParted say about the partitions?
+ SeanChambers: 4GB is not ample but may be enough. --  Can you find a file /var/log/syslog or /var/log/dmesg?
+ SeanChambers: On the partition where you or the installer mounted your root. Likely /dev/sda1.
+ SeanChambers: In that case I would probably try to re-install Ubuntu anew.
+ SeanChambers: I guess that your hardware is at fault or unsuitable. Did you check your hard disk, for example using GPrated? --  It is likely that Ubuntu installs Grub correctly.
+ s/Gprated/GParted/.
+ SeanChambers: A good point. Yes, then your hardware ist ok.
+ Somelauw: This depends on your hardware.
+ !Unity | billybob
+ How does MetaCity change if I assert in gconf-editor: apps->metacity->general->compositing_manager? (I did read http://en.wikipedia.org/wiki/Compositing)
+ !enter | tbf
+ xion56: Please put this question in a Linux Mint channel. This is #ubuntu.
+ bear_: No.
+ Rehan: You can change it to another value.
+ Rehan: I did not implay that.
+ Rehan: I did not imply that.
+ _genuser_: There is no "downgrade". You will need to re-install another Ubuntu release.
+ _genuser_: Yes. A quite common phenomenon.
+ _genuser_: I know this temptation too.
+ paspro: Be careful. Gwibber is fairly safe. If you mingle it with Twitter/Facebook you will abandon some security.
+ paspro: I do not know. I just opened my Gwibber to test this but at this moment there does not appear a notification.
+ dualcore: I do like 11.04 but I do not use GNOME 3 yet. I consider it too early to use it. I am using GNOME 2.
+ paspro: You mentioned this before.
+ ben21: What do you mean by "I am stuck" precisely?
+ ben21: So all your intervention cannot make that your upgrade process will progress?
+ How does MetaCity change if I assert in gconf-editor: apps->metacity->general->compositing_manager? (I did read http://en.wikipedia.org/wiki/Compositing)
+ ben21: What happens if you simply press the Enter key?
+ ben21: But that is all? Ubuntu does not continue upgrading?
+ ben21: If the upgrade windows seems frozen, this seems normal because the upgrade process  should not be interrupted.
+ ben21: I  do not know how to help you. This never happed with me at my many upgrades. --  I am afraid that you will need abandoning the upgrade process. This is very deplorable.
+ alib-da-: Join #freenode and ask there again.
+ ben21: No.
+ Romance: Yes.
+ aks_wahi: Try 'Ctrl+Alt+F1'. Does this work?
+ How does MetaCity change if I assert in gconf-editor: apps->metacity->general->compositing_manager? (I did read http://en.wikipedia.org/wiki/Compositing)
+ How does MetaCity change if I assert in gconf-editor: apps->metacity->general->compositing_manager? (I did read http://en.wikipedia.org/wiki/Compositing)
+ How does MetaCity change if I assert in gconf-editor: apps->metacity->general->compositing_manager? (I did read http://en.wikipedia.org/wiki/Compositing)
+ How does MetaCity change if I assert in gconf-editor: apps->metacity->general->compositing_manager? (I did read http://en.wikipedia.org/wiki/Compositing)
+ NAAAAWW:  There is a program available in Ubuntu made by Intel to analyze the power consumption of Linux computers. Get it installed. Analyze the power consumption of the components. Then read about ACPI and what you can do about it.
+ Exposure: System > Preferences > Keyboard > Layouts
+ How does MetaCity change if I assert in gconf-editor: apps->metacity->general->compositing_manager? (I did read http://en.wikipedia.org/wiki/Compositing)
+ How does MetaCity change if I assert in gconf-editor: apps->metacity->general->compositing_manager? (I did read http://en.wikipedia.org/wiki/Compositing)
+ How does MetaCity change if I assert in gconf-editor: apps->metacity->general->compositing_manager? (I did read http://en.wikipedia.org/wiki/Compositing)
+ How does MetaCity change if I assert in gconf-editor: apps->metacity->general->compositing_manager? (I did read http://en.wikipedia.org/wiki/Compositing)
+ How does MetaCity change if I assert in gconf-editor: apps->metacity->general->compositing_manager? (I did read http://en.wikipedia.org/wiki/Compositing)
+ jack123: Yes.
+ Where can I find the logs of yesterday's ubuntu-classroom lessons?
+ !details | Rehan
+ boomboorum: You could purge your Gwibber and re-install without theFacebook plugin first. See if that works.
+ boomboorum: to purge - to completely remove (the package, using for example Synaptic). Ok?
+ Rehan: Try to use System > Administration > Startup Disk Creator
+ Rehan: There is. But I do not know any details.
+ Rehan: One dd command alone is not enough.
+ Rehan: That means that you will have to do more operations than one dd command. Because the data on an USB stick is organized differently from a hard disk partition.
+ Where can I find the logs of yesterday's ubuntu-classroom lessons?
+ foodstamp: This refers to the year 2006. What I am asking for is logs of yesterday's classes.
+ freakynl: My /var/log/messages has been filled the last time on Mar 17, 2011. (*surprise*)
+ freakynl: My clock is accurate.
+ red: You should not. Better wait and see if the many bugs get fixed.
+ openbees: Try to play that particualr file using aplay.
+ openbees: Then I can give only a general advice yet: Try to establish the association between the logout event and triggering that particular sound file.
+ !sound | openbees
+ red I do not know what you refer to. I am lost.
+ red I see. The worst bugs are in Unity. GNOME 3 is a project in progress and has many bugs as well. These 2 are the biggest culprits.
+ red: Yes you can. Actually, I have done so too.
+ How does MetaCity change if I assert in gconf-editor: apps->metacity->general->compositing_manager? (I did read http://en.wikipedia.org/wiki/Compositing)
+ How does MetaCity change if I assert in gconf-editor: apps->metacity->general->compositing_manager? (I did read http://en.wikipedia.org/wiki/Compositing)
+ outy: What happens if you press Ctrl+Alt+F1?
+ !prefix | outy
+ outy: ubottu is a machine, it is no nick.
+ !ask | nags_
+ nags_: I believe yes.
+ nags_: By asking in #ubuntu-kernel and stating your kernel version.
+ !grub2 | nicko
+ jwtiyar: What Live DVD do you have?
+ jwtiyar: There are several different Live DVDs available from ubuntu.com.
+ jwtiyar: Using a Ubuntu live CD you can upgrade to Ubuntu 11.04 but you will need a broadband Internet connection to download many additional package.
+ s/package/packages/
+ jwtiyar: Then go ahead. But first make a backup of your old /home directory.
+ nags_: There is plenty of documentation what hardware is supported. You will need to be more specific.
+ !enter |  js__
+ wolfy_: Try ncdu
+ nags_: First turn to #ubuntu-kernel for establishing that your kernel supports your anticipated processors.
+ js__: What Ubuntu release do you use? What desktop do you use? Did you analyze /var/log/syslog at this event time?
+ js__: What desktop do you use? Did you analyze /var/log/syslog at this event time?
+ js__: By "desktop" I mean your graphical user interface. For example GNOME 2, Unity, KDE, etc.
+ js__: The default graphical user interface of Ubuntu 11.04 is "Unity". Do you see a few icons to the right of your screen image?
+ js__: I made a mistake. I meant "to the left". --  So you are using "Unity" as your graphical user interface.
+ js__: Yes. --  I cannot help you as I do not use Unity myself. --  Good luck with Ubuntu!
+ js__: I have read that such an error occurs with Unity. But I do not know how to fix it.
+ js__: I would recommend that you switch to Ubuntu Classic view. Ubuntu Classic View does not have many errors.
+ wolfy_: What is a "channel with cc"?
+ js__: It is not complicated: You will have to quit (or "terminate") Unity. Then start anew. When you are prompted for your login name and your logon password, you will find at the bottom at about the middle a menu which has a menu item "Ubuntu Classic". Press on it.
+ Pranav: will you be content with "dict"?
+ Pranav: "dict" does not list "everything a word has relation with". Sorry.
+ Pranav: No.
+ How does MetaCity change if I assert in gconf-editor: apps->metacity->general->compositing_manager? (I did read http://en.wikipedia.org/wiki/Compositing)
+ !ask | PeterZerneche
+ PeterZerneche: My advice: Stick to GNOME 2 in Natty. In Oneiron GNOME 3 will be developed very well, and Ubuntu will base much of their desktop activity on GNOME 3. So, switch to GNOME 3 in Oneiron.
+ AG_Scott: Yes. In GNOME 2 it is the second from the right. A letter envelope symbol
+ !prefix | AG_Scott
+ remoteCTRL1: First you will need an account in Launchpad.
+ GeorgeJ: There are more than one provision. You need to install a trace program. You need to install the necessary DEB packages.
+ remoteCTRL1: You can probably re-activate it.
+ remoteCTRL1: If you had an account in Launchpad and did not use it for a long time, you probably can re-activate your Lanchpad account.
+ +u
+ remoteCTRL1: Log in to Launchpad. Go to https://bugs.launchpad.net/
+ remoteCTRL1: Select the affected DEB program package.
+ remoteCTRL1: They have there a link "Read our guide or take a tour.)
+ remoteCTRL1: I did not say "button" but "link".
+ remoteCTRL1: Apparently the processes to report bugs to Launchpad have changed. In recent times I only used the ubuntu-bug command. But this is not possible for you, I understand. The old process apparently is no longer available. I just read that you can report a bug via an Email as well.
+ remoteCTRL1: See you later.

@@ -1,0 +1,3 @@
+ hi all. just updated to 11.04. Big question: how do I revert to the classical window manager? I'm not used to the shiny new compiz interface, and I really want back the old one. thanks
+ hi all. I'm tryng to configure postfix + smtp auth using this guide: https://help.ubuntu.com/community/Postfix#Authentication but I'm not sure if it works.
+ I see 250-starttls, but 250-auth on it's own line I don't. Rather I see 250-AUTH PLAIN LOGIN and 250-AUTH=PLAIN LOGIN. Anyone experienced with postfix/smtp?

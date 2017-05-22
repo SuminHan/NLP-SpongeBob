@@ -1,0 +1,9 @@
+ BlouBlou, you wanted Nvidia-current or Nvidia_current
+ "want"
+ Definitely "nvidia-current"
+ You didn't say you wanted to install an older one. May I ask why?
+ You can always DL the driver of your choice and run the executable
+ i.e. chmod +x nvidia_driver_blah && ./nvidia_driver_blah
+ Tobbi - the directory you're in doesn't have sufficient permissions for some reason. Change to a user with permissions, or grant permissions to the entire subdirectory recursively (i.e. every in it, all the way to the bottom)
+ Tobbi - for example, chown  -R <USER_TO_OWN_THE_FILES> *
+ ftp hack? Try #2600

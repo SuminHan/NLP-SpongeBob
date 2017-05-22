@@ -1,0 +1,3 @@
+ PW-toXic: No xorg.conf is created in recent ubuntu, its used if there is one otherweise not existing
+ ThisNameisCool: Why would you want to install python from source?
+ aj00200: oh, sorry, catched that

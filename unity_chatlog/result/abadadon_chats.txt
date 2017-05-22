@@ -1,0 +1,6 @@
+ does the ubuntu CD (~700 MB) contain ALL the programs I can install via the Ubuntu Software Center to the point where I don't need internet access as long as I have the CD with me?
+ ok! :) thanks
+ LjL: is there a way to download them all or would that be a bandwidth nightmare?
+ Omega: okay, that's that then. thanks :D
+ tjiggi_fo: thanks
+ toad__: I'm using 10.04, never had that problem. :(

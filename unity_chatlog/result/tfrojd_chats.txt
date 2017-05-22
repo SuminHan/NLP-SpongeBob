@@ -1,0 +1,7 @@
+ Hi i have managed to install a bitnami lamp stack image based on ubuntu on an amazon ec2 instance, I have sshed in and want to put 2 scripts running in nohup mode. However contrary to my mac I dont get a shell back after executing "nohup command &". Am I doing something wrong?
+ instead script runt as usual until i press enter and I get back to bash but my program is not running
+ cntrl-z does nothing
+ ayecee: so how do i start two commands in the background that still will run after i hang up
+ TheRedOctober:  I try, but you mean a new ssh  connection on the same instance right?
+ suddenly the nohup gives me shell back!?! just seemed that it took some time
+ thanks guys seem that it is working now

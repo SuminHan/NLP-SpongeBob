@@ -1,0 +1,14 @@
+ haseeb: do you use firefox?
+ haseeb: if so, do what BlouBlou said
+ haseeb: google it
+ ablaze: what's your problem?
+ is ubottu a bot?
+ Pici: thanks
+ okay
+ I don't know how to update on wubi
+ ablaze: but the "blackscreen" is just the loader for ubuntu. as long as you didn't halted the computer while updating everything should work
+ ablaze, how are you working right now?
+ ablaze: okay. the purple screen is nothing but the loader for ubuntu
+ tjiggi: wouldn't it be better to install 11.04 right away?
+ tjiggi, okay
+ Tropic, which language?

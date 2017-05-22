@@ -1,0 +1,1 @@
+ guys, its showing installer crashed when i install ubuntu 11.04, any idea how to solve it?

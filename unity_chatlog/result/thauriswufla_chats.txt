@@ -1,0 +1,4 @@
+ HELP: unable to install ubuntu 11.04 , tried every method usb,cd ,dvd, getting error 5 input /output error after 28 % of process.Is there any way to install?
+ botcity, no
+ botcity, how to do that
+ botcity, but live cd is working fine  except installation

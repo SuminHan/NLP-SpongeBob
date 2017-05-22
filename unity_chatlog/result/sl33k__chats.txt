@@ -1,0 +1,23 @@
+ any suggestion which to use virtualbox or vmware?
+ for ubuntu
+ PresunotoRJ: i am new to this :) what is the difference between them?
+ PresuntoRJ: then, as a guest. host would be windows
+ PresuntoRJ: any tradeoff for running on virtualbox/qemu?
+ PresuntoRJ: desktop
+ PresuntoRJ: is qemu reliable? also, could you provide some installation info/link?
+ PresuntoRJ: yea, same time i presume. i have used wubi, however did not like it as the boot used to break often
+ PresuntoRJ: any other like qemu. and which ubuntu installer to download. could you provide the downloader link and doumentation ?
+ is virtualbox and vmware reliable for running 10.04?
+ Dr_Willis: which you prefer?
+ Dr_Willis: could you provide me the installation steps/link?
+ thanks
+ Dr_Willlis: can vbox be used for hardcore computations?
+ Dr_Willis:  can vbox be used for hardcore computations?
+ is amd64 64 bit os?
+ does this install get dual booted on startup http://www.ubuntu.com/download/ubuntu/download ?
+ Incaus6: so yes?
+ Incarus6: so theres an option?
+ Incarus6: i just found i have a 10.04 i386 .iso file. burning is required to install?
+ Incarus6: dont know about live mode, could you expand? i have always used wubi
+ Incarus6: i would prefer wubu but it is bandwidth eating :(
+ Incarus6: thanks for the help

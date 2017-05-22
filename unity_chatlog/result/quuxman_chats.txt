@@ -1,0 +1,10 @@
+ I have a sound problem. Sound does not work with any app, except for mplayer I discovered if I use -ao oss, it works
+ also, my old test of `cat /bin/ls > /dev/dsp` also produces noise
+ alsamixer also works, but again no alsa apps produce audio
+ the drivers are clearly working, so what's left to be broken with alsa?
+ Kevin147: wiggle the cable?
+ Kevin147: oh, duh. Didn't think of that
+ Kevin147: play with /etc/X11/xorg.conf ?
+ how is it possible that Alsa works with OSS emulation, but not by itself?
+ any ideas why alsa wouldn't work, but oss emulation does?
+ is there a program that can run gnome applets in a regular window?

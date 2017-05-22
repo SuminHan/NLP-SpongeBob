@@ -1,0 +1,28 @@
+ just upgraded to natty and desktop env is almost entirely hosed. Looks like although the ati drivers are reportedly installed they are almost completely useless, 14 fps in glxgears and compiz won't even run at all, what gives?
+ Why was this release made when it seems that things are still very broken?
+ damn, wish I knew it was a fake release before I upgraded.
+ is there a way to rollback quickly?
+ short of a full backup restore?
+ it's totally unusable.
+ compiz won't run, anything that touches opengl subsystem is thoroughly hosed.
+ where is the super+a hotkey configured? it's gobbling something else I want to use and I need to disable it.
+ and how do I disable launcher?
+ freeman_: Where in compiz settings? launcher is a compiz thing or.. ?
+ ~.
+ I can't believe how badly this is broken, for a pushed update on an LTS o_O.
+ freeman_: I was having problems with getting any kind of opengl working, now it appears to work, just extremely badly.
+ like random compiz crashes, unable to enable cube plugin.
+ framerate under 20fps
+ on a HD 5870
+ Jordan_U: So the .04 = LTS convention no longer holds?
+ ohsix: I don't think so http://pastie.org/1852707
+ it just looks like fglrx is a spectacularly bad performer.
+ no idea why.
+ was working fine back in 10.10
+ hell with this, I'll just install the latest fglrx from the ati site, if it's still royally broken I'll do a full restore and stick to 10.10.
+ Nope, that broke opengl utterly, ok, doing a full system restore, after I just copy the files back over this partition, what's the command to tell grub to install again etc?
+ is there another way to do hotkey binding for workspaces? it looks like the compiz cube / rotate cube plugins are completely hosed in natty
+ ie super+shift1 = go to workspace 1
+ ah, found one.
+ phew, a usable system again.
+ for anyone else experiencing graphics hell with natty on fglrx, set v-blank to off.

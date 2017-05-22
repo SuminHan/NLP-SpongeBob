@@ -1,0 +1,4 @@
+ mount your flash drive and cp them over
+ it prolly will automount
+  /media/NAME_OF_DRIVE
+ it will be called something in that directory

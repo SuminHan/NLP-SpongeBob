@@ -1,0 +1,305 @@
+ jaredquinn: easy on the language please
+ rgr: yes he did
+ _cory: your call
+  /last jatt
+ ShiverOnBT4: are you using backtrack ?
+ kk9822: different processor capabailities
+ Guest68448: it's called "Windows"
+ kk9822: 32bit seems the sensible option unless you have 4GB of ram or more
+ Crazy1: :q!
+ Guest68448: in this one, it's called "windows"
+ warp_: depends on what stage it crashes, just re-do the upgrade process
+ Guest68448: showing some respect by using the proper product name, and communitcating cleary,
+ Guest68448: you've just said random words, you know the product is called "Windows" - call it "windows" please rather than trying to make excuses, then someone may actually help you
+ ricardo: if you ask a question
+ ricardo: depends on your hardware, and what you're doing - rule of thumb is same as windows
+ Guest68448: you KNOW the product is called windows, so don't use that as an excuse, if you use the correct term "windows" and clearly state your problem, maybe someone will help you
+ MattAAron: depends on the xorg dirvers you're using, what video card is it ?
+ Dr_Willis: no they can't
+ it doesn't support multiple cards
+ Dr_Willis: twinview only supports 1 card with multiple ports
+ Guest68448: I can, it's called "windows"
+ Dr_Willis: 3d acceleration ?
+ Dr_Willis: eg: 3 monitors being spanned on two cards with 3d acceleration ?
+ mrchak: just ask, people will help if they can
+ Dr_Willis: let me double check this as I've actually spoke to people at nvidia about this hence my surprise
+ Dr_Willis: still worth me checking up, thanks
+ Guest27069: how many disks are in the volume group ?
+ Guest27069: pastebin the output of these two commands please "mount" and then the output of "sudo vgdisplay"
+ Guest27069: please use a pastebin for the output
+ thiebaude: makes no difference
+ Guest27069: what is starred out ?
+ Guest27069: there is no service risk and for things like device mapper, it makes it hard to see what's going on
+ Guest27069: how big is your hard disk ?
+ Guest27069: nah, I figured it out enough, just want to check some stuff
+ noonoooo: yes
+ oops
+ muneeb: not for flash no, but for other 32bit stuff, sure
+ Sledge: thanks for that random noise
+ muneeb: remove it if you want to
+ p_ahuja: whats the isse
+ issue
+ p_ahuja: no, just explain the problem
+ p_ahuja: no
+ p_ahuja: sorry, not you
+ p_ahuja: what are you trying to install
+ pattysmatty: when a new ubuntu package is released (updated) you will be offered it
+ p_ahuja: ok - so what else isn't installing as you said you can't install "any .sh" files, and your describing one .sh file
+ cfc_{Pawpad}: sudo apt-get update brings your list up to date, sudo apt-get upgrade updates the packages
+ p_ahuja: may have to contact the .sh file owner/support then if it's just that one
+ p_ahuja: you're not using 10.10 though, so that's not relevant
+ notb: I don't believe so
+ notb: try to encode something ? check the libraries
+ p_ahuja: no it doesn't, it means that file works with ubuntu 10.10 - that you're not using, so it's not relevant
+ Guest91212: you can stop using phrases like "wtf" please
+ p_ahuja: no
+ p_ahuja: no
+ ic4l: that's personal choice, what's the best dinner to eat ? get it ?
+ Josesordo: same as every other distro, it's just an executable, run it
+ rgr: enough now - please stop it
+ ohsix: let it go please
+ Josesordo: run it from a terminal
+ guys - enough now, please.
+ Josesordo: ./filename.run
+ Josesordo: what are you trying to install ?
+ Josesordo: why are you trying to install ati drivers ? there are supported ones in the "hardware drivers" tool
+ reprapperMC: here is fine
+ Josesordo: it will install the ubuntu recommended/supported ones
+ Josesordo: depends if it's for that version, however you should look in the repos for packages rather than installing external pacakges
+ ^Mike: the PPA's are unsupport, ask the maintainer
+ sdegutis: can you stop with the "/me" attempts please - just talk
+ adzy: no, grub is on the mbr
+ luigi_panache: just ask
+ adzy: no problem "master boot record" small chunk of disk that your machine boots from
+ adzy: if you install 11.04 grub will get re-applied to the mbr, so "yes" in a basic answer to your question
+ Ultimate_Chaos: don't need all user messages, if you have a question, ask
+ luigi_panache: best to just ask the channel
+ tommylommykins: unity on ubuntu is supported here
+ constl: you never "need" swap unless you actually "need" it, it really depends on what you're doing, it's sensible to use it unless you known not to
+ _Platypus_: run it with sudo
+ _Platypus_: how are you trying to run it exactly ?
+ brandonc503: chroot option
+ _Platypus_: how are you launching the gui
+ _Platypus_: try launching the gui with "gksudo"
+ _Platypus_: just a test
+ terry: stop with the noise please, ask a question and wait for a response, "anyone" doesn't help, and flooding with "...." doesn't
+ terry: 8.04 is lts
+ steverm: no, it's release stable
+ brandonc503: yes, so use chroot options as I've told you
+ djcoin: /dev/sdb is a disk, not a partition, you mount a partition, not a desk
+ disk
+ djcoin: then there is no partition on that disk
+ djcoin: you need to partition the disk
+ djcoin: you are mistaken, "sudo fdisk -l /dev/sdb"
+ djcoin: there are no partitions on that disk then
+ omidp: they are identical
+ djcoin: there is no partition on the disk - data is already gone
+ djcoin: it's not mistaken
+ djcoin: pastebin the output of "sudo fdisk -l" please
+ djcoin: are you running from a livecd ?
+ djcoin: you used the command "sudo fdisk -l" yes? exactly like that ?
+ djcoin: how did you become root ?
+ djcoin: don't use "sudo su"
+ djcoin: sudo -i
+ djcoin: sudo fdisk -l output please.
+ djcoin: I didn't ask for the syslog
+ djcoin: look at what it's doing port 5 on the hub is disabling/up/down
+ nukem: if you don't know these things - you should be using sudo
+ there is no reason to login as root
+ nukem: yet you don't know that you need to set a password to login as root
+ nukem: the sudo model is quite basic and effective
+ bigMike: saying anyone is pointless, ask a question and wait for a response
+ nukem: yet you don't understand it.....hence you'd know to set a root password
+ nukem: there isn't one
+ nukem: they all use the sudo security model
+ hello
+ nukem: don't use ubuntu then, thanks
+ bigMike: what's the problem ?
+ pao: ask in #backtrack-linux - we don't support backtrack in this channel
+ bigMike: at boot time ?
+ bigMike: 11.04 ?
+ Herbs: what ?
+ Herbs: what are you talking about ?
+ Belias:  text editor and a compiler - gcc is the most common on the linux platform
+ bigMike: has this ever worked ?
+ Herbs: no-one said it's not, what are you talking about
+ bigMike: can you boot the box ?
+ bigMike: virtual container ? in that case look at the permissions
+ pao: join the mailing list then
+ bigMike: within the container
+ pao: read the support information on their website
+ bigMike: of the ttyp1 device file, but the one that is within the container
+ bigMike: can you show me the output of uname -a please ?
+ Herbs: control the language please.
+ Herbs: you've said that - give it a rest
+ pao: look on their website
+ bigMike: it maybe worth talking to your hosting provider, the reason I say that is that vps has a modified kernel (other things are probably modified too)
+ syn3rgy: not interested in your porn issues, drop it now
+ syn3rgy: we can help you with technical issues - just don't be provokative with the topic as you are clearly trying to be
+ DonDraper: nothing - it won't have done anything
+ NickUK`: no
+ Glycan: ##windows
+ NickUK`: no it doesn't there is a layer of protection within coreutils
+ coz_: stop it
+ coz_: "stop it"
+ DonDraper: stop putting that command in the channel
+ Incarus6: exactly
+ NickUK`: done what ?
+ what command ?
+ I didn't tell you to do anything ?
+ scott__: it may be talking about a different package, not the one you are trying to install
+ syn3rgy: are you struggling to grasp this channels topic ?
+ syn3rgy: stop - check the topic, it's ubuntu support discussion
+ syn3rgy: how is that an ubuntu support comment ?
+ gordon_: join the lfs support channel
+ syn3rgy: then it's nothing to do with ubuntu - get with the topic "ubuntu support" please
+ so ?
+ syn3rgy: so that has nothing to do with the discussion - this is the last time I'll tell you, #ubuntu is for ubuntu support discussion, please try to get with it
+ ubuntu-user: no, you don't "need" to
+ jooiiee: what did you install ?
+ bullethead: it's not supported here
+ jooiiee: have you kept it up to date ?
+ jooiiee: then you are running the stable version
+ pao: you've been told 3 times - #backtrack-linux is the correct channel
+ preyas: many people, ask a question
+ preyas: no idea
+ oops
+ preyas: escape chats a\ b.gif
+ pylix escape chars  a\ b.gif
+ 15:30 < ikonia> oops
+ preyas: wrong person, sorry
+ Dedego: install the build-essential package
+ escott: build-essential will install gcc
+ hnsz: it's just a text file
+ hnsz: such as ?
+ hnsz: record usage ?
+ recourse ?
+ hnsz: can you pastebin me what you see in your motd when you login ?
+ hnsz: pastebin it, lets see as most of that is controlled from parameter variables within the motd
+ !pastebinit
+ hnsz: it's not writing a script - just install the tool "pastebinit"
+ Ultimate_Chaos: it's fully available from the gnome repos
+ service ssh stop
+ salomonv: pidgin isn't in ubuntu any more
+ salomonv: how are you using it, if it's not in ubuntu any more
+ salomonv: how are you using using it, if it's not in ubuntu any more
+ salomonv: where did you install it from ?
+ !info pidgin
+ wow, it's still in main
+ salomonv: so it doesn't go to the tray when you minimise it
+ bsodmike: look at the file /var/run/mysqld/mysqld.sock is it there
+ bsodmike: ok - so either a problem or mysql server is not running
+ bsodmike: check it's running ?
+ bsodmike: ok, so you're going to have to check some logs first, the syslog and the mysql log is a good place to start
+ bsodmike: ok - painful, but here we go, walk through the init script to the part where ir runs mysqld-safe and try running that line
+ bsodmike: you'll find it's a link to the upsetart script
+ upstart even
+ bsodmike: give a minute, eating
+ bsodmike: look for pid file
+ bsodmike: be with you asap
+ bsodmike: ok - lets work this through
+ bsodmike: can you pastebin the output of "ps -ef | grep mysql" please
+ bsodmike: can you pastebin the init script for me please so we can work it through (not got an ubuntu box to hand to do it)
+ bsodmike: you may want to use pastebinit to make it easy
+ !pastebinit | bsodmike
+ dusf: that would not be legal so please don't ask
+ dusf: that doesn't matter, it's illegal
+ dusf: yes
+ bsodmike: tell you what, can you run "sudo mysqld-safe" please ?
+ killaz__: do not tell someone to break a license agreement
+ killaz__: enough -
+ killaz__: I'll say this one time - do not recommend someone break the license
+ bsodmike: that's fine, I'm not seeing a change when I refresh, are you sure the pastebin address is right
+ bsodmike: sorry, it did change
+ got it
+ bsodmike: ok - ps -ef | grep mysql anything running ?
+ bsodmike: ok anything in the syslog ?
+ ahhhhhhh I think I know the problem
+ bsodmike: what version of ubuntu is this ?
+ ahhh a vps
+ bsodmike: please do "dpkg -l | grep -i mysql"
+ bsodmike: I think we are getting there.......
+ bsodmike: sudo find / -name mysqld -print
+ bsodmike: that's surprised me
+ bsodmike: didn't expect it to be there
+ bsodmike: ok, lets up the aunty a bit
+ bsodmike: /usr/sbin/mysqld
+ bsodmike: let me walk this through in my head
+ bsodmike: can you do "which mysqld" please
+ bsodmike: /usr/sbin/mysqld --verbose
+ bsodmike: ok - I can't be %100 sure without more effort, but what I'm guessing is one of the libraries/deps mysql wants to use is missing
+ bsodmike: if it was there, and there was a problem that command would give you output
+ bsodmike: maybe worth "sudo apt-get reinstall mysql-server"
+ bsodmike: see if it pulls down any of the debs
+  bsodmike no, that's data files, they are safe
+ bsodmike: back them up if you are unsure
+ bsodmike: hang on, I'm rusty
+ bsodmike: it's apt-get install --reinstall mysql-server
+ bsodmike: the data files are normally /var/lib/mysql
+ bsodmike: looks like it, I think -A is all
+ however.....
+ bsodmike: sudo find / -name '*.MYD' -print will show you the db files
+ bsodmike: you can manually back them up if you want
+ bsodmike: whoaa, easy on the language
+ bsodmike: you're dependency tree is messed up by the looks of it
+ I'm guessing due to the restore
+ xeodox: yes it can be what you want, it's just a hostname
+ Doom_-_: ##windows
+ bsodmike: trying to think of the best way to deal with it
+ Doom_-_: #ubuntu will bug you if you're trying to do something illegal
+ bsodmike: I'm trying to think of a way to regenerate the package list so it knows what's installed, I have done this before years ago, so I'm confident it's doable
+ bsodmike: I'm cautious of stackoverflow guides
+ bsodmike: I don't think it's a bug, I think it's due to your restore messing it up
+ bsodmike: I'm thinking clear the cache file down and the bin file - re-run sudo apt-get update to get the current list, then install the missing packages then mysql-server package
+ even if it thinks somethings there - reinstall it so the dependency tree is up to date
+ bsodmike: there is a better way to do this, but I can't remember it
+ bsodmike: it's awkward not having a box to work it through with you, so I'm running from memory
+ bsodmike: can you pastebin ls -la /var/apt/cache please
+ psalden: if you card works with fglrx it will
+ bsodmike: sure
+ !info libc6 lucid
+ !info libacl1 lucid
+ mastaofdisasta: it's a problem with your network config, not upstart
+ mastaofdisasta: you shouldn't need to use /etc/network/interfaces, use the network admin tool from the gui
+ mastaofdisasta: 1.) don't use the phrase gay 2.) you clearly can't configure network interfaces file so you should use the gui
+ JoshDreamland: if that's all you've got to say, please don't speak, this is for support discussion
+ JoshDreamland: he's already been told - drop it
+ JoshDreamland: sorry, not you
+ LjL: 12 per arch I believe
+ excluding backports
+ LjL: a whole release is about 60GB
+ all archs/updates/repos/
+ I'll check now
+ AFD: look at the errors, it's complaining about your external repos
+ AFD: you've got a ton of external repos in there that are nothing to do with official ubuntu repos
+ AFD: then your interenet connection / dns is not working
+ lemorek: that's your problem then
+ lemorek: that's not how you upgrade
+ abhinav_singh: it's fine
+ no
+ lets just move along please.
+   /last ikonia
+ GreeNtooTH: please don't talk nonsense
+ jahrome_: the release is a stable release
+ chaospsychex: it is a stable release, yes
+ chaospsychex: no idea without investivation,
+ celthunder: init 5 is no longer needed, upstart changes the run levels
+ R3dy: how are you adding it ?
+ Customs: don't need that sort of nonsense in channel please
+ R3dy: how are you trying to add it, please show me
+ R3dy: and what's failing
+ beta__: if you know how to work with the kernel - take a stack dump from it
+ R3dy: what is the name of one of the scripts
+ beta__: take a stack trace on the kernel
+ beta__: you know how to work with the kernel, take a stack trace
+ !away > zz_eagles0513875
+ wolfreak_99: control the language please
+ celthunder: that is offtopic here
+ celthunder: sorry - not you
+ cretsiah: that is offtopic here
+ rhin0: you want to install ubuntu with a lower kernel than is provided ?
+ rhin0: 10.04.2 has a later updates
+ rhin0: I've got 8.04 working on an SSD drive here
+ no
+ rhin0: ahhh you want the trim options, ok
+ kwtm: ignore it, he's trying to make it sound like he's hard core

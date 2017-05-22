@@ -1,0 +1,2 @@
+ step21: the 11.04 installation disc seems much better than the 10. versions though so its worth downloading.
+ cordoval: http://www.ubuntu.com/download/ubuntu/download

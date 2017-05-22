@@ -1,0 +1,12 @@
+ no, unity is
+ Hi, I am trying to update to ubuntu 11.04 from 10.10 and the update manager is freezing up and then saying to check my internet connection. it's only doing this for the distro update, other updates are fine. Anyone know why that might be? thanks
+ no ideas?
+ I am trying to upgrade from 10.10 to 11.04 but the update manager is pausing and then saying I need to check that I am connected to the internet. Is it possible to upgrade manually?
+ oh right, thank you
+ I have just upgraded to 11.04 and on unity there are no toolbars anywhere, I just see a desktop. Moving the mouse to the edges of the screen doesn't do anything. I am using an nvidia 8600M GT. Is this a known problem?
+ oh right, I have rebooted quite a few times, but still not seeing it
+ Braiam: I am on ubuntu classic now and that works fine. But it would be nice to be able to use unity
+ zarathaz: should it not be ./test rather than ./test.cpp
+ not ./test.cpp, just ./test
+ you made the output file test didn't you? with -o test
+ zarathaz: no prob

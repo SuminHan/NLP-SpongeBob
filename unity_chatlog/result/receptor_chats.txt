@@ -1,0 +1,1 @@
+ i wanted to install ubuntu alongside windows 7. ubuntu LTS installer resized my data partition. i aborted the installation. i have a backup of mbr and two bootsectors for windows and data partitions. if i restore the backups e.g. using dd, will that be enough to restore my system to previous state?

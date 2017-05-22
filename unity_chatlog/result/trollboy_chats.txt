@@ -1,0 +1,21 @@
+ so, is there a handy link on how to customize the new menu bar on ubuntu?
+ r0fs3ck5, I just upgraded to 11.04
+ Naughty Narwhal?
+ [4-tea-2], sorry
+ r0fs3ck5, stil in development?  But I thought I got the stable release?
+ oh well
+ I'll wait
+ what about killing the autohide?
+ I use synergy and I keep just popping over to the other screen instead of activating the menu?
+ is there a way to kill the new mac-like titlebar?  (the titlebar of the application in focus becomes the application bar at the top of the desktop?
+ so, I've heard that you can switch the new ubuntu over to default gnome instead of unity, is there a tutorial on how to do this?
+ jrib that didn't work
+ there was no classic option on login
+ so how do I switch to gnome/kill unity whatever?
+ There was a keyboard and a handicap symbol
+ GDM options do not appear, only a password box when I click my name
+ OerHeks, there is no GDM options.  When I click my name, I just get the password box
+ I'll try again
+ that fixed it
+ thanks
+ will that be the default now?

@@ -1,0 +1,9 @@
+ how to get my hp un2400 module work in ubuntu 11.04 ?
+ is there any possibles to get a hp un2400 module that handles my integrated mobile broadband work in ubuntu 11.04
+ hello can someone help me with get my intergrated mobile broadband to wrk
+ @stefg  http://pastebin.com/RhiJ9PgV
+ stefg: thats possible , i havent load the module inside of windows , thats hp connection manager that handles that , i have read something about that i have to load the firmware inside windows and then copy the firmware files in ubuntu and use gobi_loader to load them
+ stefg_ thanks for helping , its a hp compaq mini 700 xx and its a wwan integrated besides the battery , i put off the battery and then stick in the simcard and then hp connection manager handles the connection and load the firmware ... is there any command to get exakt hardware spec in ubuntu ?
+ stefg: everything works just absolute fine including wlan , theres is no lan port so i have to use a lan adapter to get local network , and that also works out of the box , its just that mobile brodband i want to get working when iam away so i can remove windows from the computer
+ stefg : i need to go away for some minutes , can i start a private chat with you then , that makes it easier for me to get help ?
+ stefg : i need to leave for ten minutes , can i start a private chat with you then to make it easier for me to work ?

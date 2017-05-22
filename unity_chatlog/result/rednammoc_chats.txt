@@ -1,0 +1,14 @@
+ little question about booting my encrypted hd during boot. i added a line to /etc/crypttab and another to /etc/fstab. During boot it asks about the hd. Pressing 'M' i get to manual mode. ls /dev/mapper/ --> the hd is not mapped to this folder. manually steps like: cryptsetup luksOpen /dev/sdb my_map; mount /dev/mapper/my_map /media/the_map -- are working. any ideas what's wrong :-?
+ little question about booting my encrypted hd during boot. i added a line to /etc/crypttab and another to /etc/fstab. During boot it asks about the hd. Pressing 'M' i get to manual mode. ls /dev/mapper/ --> the hd is not mapped to this folder. manually steps like: cryptsetup luksOpen /dev/sdb my_map; mount /dev/mapper/my_map /media/the_map -- are working. any ideas what's wrong :-?
+ little question about booting my encrypted hd during boot. i added a line to /etc/crypttab and another to /etc/fstab. During boot it asks about the hd. Pressing 'M' i get to manual mode. ls /dev/mapper/ --> the hd is not mapped to this folder. manually steps like: cryptsetup luksOpen /dev/sdb my_map; mount /dev/mapper/my_map /media/the_map -- are working. any ideas what's wrong :-?
+ ceed^: you deleted everything except for data ?
+ ceed^: what do you meen by saying you deleted everything except data on /home ?
+ ceed^: mounting the encrypted root-partition on boot works but you have problems by mounting the encrypted home-partition?
+ ceed^: mounting the encrypted root-partition on boot works but you have problems by mounting the encrypted home-partition?
+ ceed^: this is a google result for: ubuntu installation recognize encrypted home partition --> http://superuser.com/questions/12182/how-to-get-a-reinstall-of-ubuntu-to-recognize-home-partition
+ ceed^: ok. i now the manual steps to do that: sudo cryptsetup luksOpen /dev/<device> <map_name>; sudo mount /dev/map/<map_name> /home
+ ceed^: to manually mount your home-partition you need to edit /etc/crypttab and /etc/fstab
+ ceed^: i never tried that before so i would be really careful about that :D
+ ceed^: maybe there is a dialog where it say's: "can't read that device/partition -> wanna format"
+ ceed^: you're welcome :D
+ Cporter: maybe this helps you: http://www.youtube.com/watch?v=-x2rZe2Z9as

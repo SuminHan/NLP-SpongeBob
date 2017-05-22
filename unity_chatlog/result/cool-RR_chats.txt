@@ -1,0 +1,15 @@
+ Hello!
+ I've installed 11.04 on VMWare
+ But Unity isn't working
+ What can I do?
+ LjL: VMWare does have some and I enabled it
+ jeija: I guess I'll try VirtualBox
+ I'll look into these options
+ Thanks everyone for your help!
+ Goodbye
+ Hello again
+ There's something I don't understand how to do in Unity
+ I press Super
+ Start typing the app name, like "ter"
+ But how can I use the keyboard to browse through the different apps?
+ Guys, how can I use the keyboard to move between app symbols in Unity?

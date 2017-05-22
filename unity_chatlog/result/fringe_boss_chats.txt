@@ -1,0 +1,7 @@
+ casey can be a windows dual boot issue, can be a APIC/ACPI issue
+ casey how many OSs?
+ casey by reinstalling GRUB you run the risk of loosing boot acces to the other OS. once I got involved in such problem - and its hardcore stuff
+ casey I heard about another boot manager people are using, but dont remember its name. take a look at freshmeat - good luck
+ sebsebseb theres another one
+ casey sebsebseb theres another boot manager around, about wich I heard good reviews
+ spyzer dunno - doesnt sounds like

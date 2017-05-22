@@ -1,0 +1,34 @@
+ Hi all
+ The new Natty interface seems pretty cool! I wonder if there are any tutorials for how I can find my way through it more easily..?
+ beta____, I can understand why you might wanna do that. :\
+ tensorpudding, how do I add more workspaces?
+ Hi all
+ how do I configure compiz without having to switch to the old interface?
+ Where do I find the new Application Panels Indicators/
+ ?
+ Hello?
+ KM0201, how do I use the panel-indicators?
+ KM0201, where do I find them?
+ KM0201, oh, I see. That's quite disappointing if you ask me. Thanks though.
+ KM0201, how do I add them to the indicator?
+ KM0201, no need to add anything at all?
+ KM0201, It's not about the indicator-applets themselves. What actually disappointing is having to add them from Synaptic (or the terminal).
+ KM0201, thanks to this issue alone, I assure you that quite many of those who interested in Ubuntu will walk away from just because of that.
+ KM0201, I think I might do the same. :\
+ KM0201, Yeah,
+ I'm switching back to gnome.
+ So how do I switch back to Gnome.
+ Hi all
+ Why removing compizconfig-settings-manager from the repositories??! :S
+ DingGGu, Trust me dude. No offense to the Ubuntu team but 11.04 simply sucks. Big time. -_-
+ trism, When I tried to install simple-ccsm, it said there are some unmet dependencies. That was one of them.
+ trism, It's already installed??
+ trism, Oh I see.
+ trism, it seems like everything is broken at the moment. The whole Ubuntu system is broken at the moment. :P
+ Hi all.
+ I'm having this weird problem with changing the keyboard lay-out. I use the the Alt-Shift combination to change the layout. I can change it from USA to Arabic (the second language), but when I try to change it back it doesn't work unless I do that manually with the mouse. How do I fix that?
+ _genuser_, FF4 is awesome if you ask me?
+ ahh, ignore the question mark..
+ htek, Exactly.
+ So can anybody please help me with me layout problem?
+ I can change my layout from English to the other language using the keyboard, but I can't change it back unless I do it with the mouse. What could be the problem?

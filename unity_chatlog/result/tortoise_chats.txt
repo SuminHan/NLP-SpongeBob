@@ -1,0 +1,41 @@
+ Hey guys. I've been faced with this issue for quite awhile, and have googled and researched and googled and researched and have yet to find a solution. I'm using 10.04, and firefox and when I attempt to load pages with hyphens at the end or the beginning of the URL, the page won't load. It does the same thing in Chrome. Even after all of the googling I have done, I still don't have a clue how to fix this, so I'm hoping someone
+ here could give me some direction?
+ spikebike: http://novemberblue-.tumblr.com
+ spikebike: I've also tried excluding the http bit, as well as with and without the w's but it doesn't make a difference
+ does this page load for you guys? http://novemberblue-.tumblr.com
+ Hola. I'm having issues loading certain pages in firefox. I believe it is because the URL contains unknown characters. I'm thinking this is because firefox has not been updated in awhile, due to missing repositories, but I'm not sure how to fix the repositories. Can someone give me a hand with this?
+ I'm getting this specific message every time I try to update: "
+ Failed to fetch http://ppa.launchpad.net/mozzilateam/firefox-stable/ubuntu/dists/lucid/main/binary-i386/Packages.gz  404  Not Found
+ Some index files failed to download, they have been ignored, or old ones used instead.
+ escott: where could I find a newer ppa?
+ escott: Oh, I thought I was
+ escott: is ubuntu ff in the software center?
+ escott: where is ppa-purge?
+ escott: that's fine, if anything I have chrome
+ escott: is it named ppa-purge? It's not finding the package
+ escott: yes
+ escott: should 3.2 load pages such as: http://novemberblue-.tumblr.com ? Because, to be honest, that's the only thing that I seriously want to fix. There are only a few features in ff4 that I would not want to lose.
+ escott: Okay, I know this is a stupid question, but what would be the smoothest way to revert back to 3.2?
+ escott: okay, where is the *right firefox to install? Because I feel like there is an overwhelming amount of packages to install for ff?
+ escott: I'm honestly not sure which one I'm supposed to be installing. There's one titled "firefox" but I believe it's even older than 3.2. There is also xul-ext-ubufox, I'm not sure what this is though?
+ could someone tell me if this is something good to go by? http://www.khattam.info/howto-install-firefox-4-in-ubuntu-10-04-lucid-lynx-and-10-10-maverick-meerkat-2-2011-04-07.html
+ I'm  having an issue loading pages with unkown characters in firefox 4, and would love some help fixing this. I'm running 10.04
+ Hey, how easy is it to upgrade to 11.04 (from 10.04) without losing all of my files?
+ do I need to upgrade to 10.10 before I upgrade to 11.04?
+ alright, and just another question until I think of another. Does this page load for you guys http://novemberblue.-tumblr.com ? If yes, what browser/distro are you usin?
+ using*
+ MK```: Then the page isn't found?
+ MK```: Oh I just tried it with the dash. And yes it does work, however it's the wrong page.
+ MK```: the page works fine in W7, so I just don't understand why it won't load in ubuntu?
+ Does anyone have any clue why Firefox 4 won't open pages with hyphens in them on Lucid? Because I feel like I'm the only one that has ever had this issue.
+ I'm currently running Windows Vista on one partition and Lucid on another. Could anybody link me to a decent guide for upgrading to 11.04 without ruining that?
+ Hey guys, I just bought a Nikon d3000 today and i'm trying to look at the software in came with, but the software is made for only OSX and Windows. Could someone help to get it to work with lucid?
+ KM0201: yes it is, would it be possibly to get it to work in Wine?
+ cheapie: I was going to, but I've never used Wine and don't even know where to start
+ KM0201: I've already tried it. Also, I don't think wine would need to work with hardware for it to work with Nikon's software.
+ KM0201: OH wow. I misread your first message. Well, an attempt is always worth it.
+ KM0201: but again, I've never used wine before, so how would I even begin?
+ KM0201: thanks, and I'm sorry for wasting your 6 minutes when I could've googled it. I should have never disturbed your peace.
+ KM0201: yeah, tbh I skipped google this time because I figured someone here could at least tell me how to do it in wine faster than i could find it on google. lol
+ KM0201: okay, I will if nothing in this thread works
+ KM0201: if you're interested, I just now found the sd slot on my computer. so no need for software (other than fspot). Thanks for the link!

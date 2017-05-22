@@ -1,0 +1,9 @@
+ Hi
+ Does anyone have any advice for burning a disc when you DVD drive might be poor. It's just that I've written Ubuntu 11.04 twice now and I have the burning software validate the disc after and I can open it and see or the files... but after I restart it's not detected when booting and when I try to view the files on the disc it doesn't detect anything.
+ I can see by physically looking at the disc that it has been written to. So I don't know
+ Well the ISO passes the md5 check, checked that
+ The burning software in Windows 7
+ I will try ImgBurn next, but think it will be the same
+ I say this because I had trouble with some other things
+ dasy2k1, nah it burns it as it should
+ cyas

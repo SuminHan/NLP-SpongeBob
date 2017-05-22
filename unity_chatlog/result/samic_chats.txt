@@ -1,0 +1,2 @@
+ I'm using 11.04 but classic and my notification area doesn't show stardict and pidgin icon (it shows transmission and dropbox though!)
+ BlouBlou: I have checked it to show but nothing!

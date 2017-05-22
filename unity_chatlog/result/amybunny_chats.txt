@@ -1,0 +1,2 @@
+ Im using Firefox 4.0.1 for Ubuntu Canonical - 1.0, and it seems to be crashing and it crashes (firefox turns grey) after navigating a page or two. Any idea how I can fix this?
+ hmm... with firefox broken for the moment, what's another good web browser?

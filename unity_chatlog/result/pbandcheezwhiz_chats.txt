@@ -1,0 +1,6 @@
+ Question.  I run a dual monitor setup, and just upgrade to Natty.  I really like the ability to shade windows. Now when windows are screen I am unable to shade windows like I used to.  Is that 'just the way it is' or is there something I can do about that?
+ everything seems to be working correctly using the nvidia 270 driver.  Its just the full screen with the way they went to the Mac style menus on the bar ya know?
+ if windows are not in full screen, i can shade properly.
+ i lived on the edge, didn't backup anything, and upgraded.  no issues really.
+ updated to Natty.  I didn't like how Unity was dealing with my dual monitors.  Installed Gnome-shell.  I got the theme to work correctly, but it seems the window decorations are not.  I ran "/usr/lib/gnome-session/gnome-session-check-accelerated; echo $?
+ " and acceleration is working   Thoughts?

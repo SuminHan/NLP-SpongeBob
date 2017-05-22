@@ -1,0 +1,1 @@
+ if I use dd and ff correctly, can I mirror my / to /dev/sdb1 and then install windows on /dev/sda1, edit grub, and then boot from either windows or ubuntu? I guess, I'm asking if "mirroring" the hard disk to another will make it bootable? Note the hard disks are different sizes.

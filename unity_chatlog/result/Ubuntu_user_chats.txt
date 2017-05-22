@@ -1,0 +1,142 @@
+ Wow 11.04 released
+ any tried it? hows it?
+ hows 11.04,
+ I always face grub problem when Win 7 and Ubuntu dual boot
+ any solution
+ escott:  Yep when i install both together in different drives I face this problem. As soon as i start windows and restart the computer it shows me black screen written that grub found no operating system and so on
+ brianl:  thats too good
+ brianl:  ohhh sudden
+ escott:  i think windows does something
+ Is any body using Ubuntu with Windows 7
+ MK``: Monotoko  brianl  are you guys using full install or install inside windows
+ escott:  Okay I tell it
+ MK``:  So Win 7 don't create any problems with booting
+ MK``:  escott  check this http://pastebin.com/BGPe1yUw
+ escott:  what i researched, i found that win 7 creates problem with grub
+ escott: I just shrinked my second drive D:/  to a new partition of 50 GB, then divided it into 3 partitions
+ MK``:  you lucky one, google it millions out there facing this problem
+ escott:  i am not able to get a solution
+ MK``:  but it will become a daily issue to fix grub each time u run window
+ escott: please explain
+ escott:  what windows 7 install options?
+ escott:  I am sure win 7 is intact only ubuntu grub is deleted or something
+ escott:  I am sure win 7 is intact only ubuntu grub is deleted or something
+ escott:  yes thats true, what  people are saying over ubuntu forums, windows does something with MBR
+ escott:  maybe 11.04 has some solution to it
+ escott:  tried it i completely restored window too with dell recovery cd but nothing same screen again, but when i repaired ubuntu with live CD everything was solved
+ LAcan: check it http://pastebin.com/BGPe1yUw
+ LAcan:  ATI
+ LAcan: does that matter
+ LAcan:  no when i install ubuntu newly it just says download and install ati drivers
+ escott:  yep true,
+ I have 20 gb free space on my HDD, how to i use it to install UBUNTU 11.04, i am on installer.
+ I have 20 gb free space on my HDD, how to i use it to install UBUNTU 11.04, i am on installer.
+ Dr_Willis:  can i just select that free space to install
+ Dr_Willis:  i have 4 gb ram with i5
+ how many partitions do i make of that 20 gb and of which types
+ how do i do that?
+ is there anybody who could help a new one
+ fuck
+ LAcan:  Hi dear, i have now installed ubuntu and i am on windows, how do i add entries using easyBCD
+ anybody who knows how to add Ubuntu entries in boot loader of windows using EasyBCD?
+ anybody who knows how to add Ubuntu entries in boot loader of windows using EasyBCD?
+ sivau: I also have same problem since 110.10
+ sivau: 10.10
+ ZykoticK9:  i corrected that, but i am gonna make that soon
+ sivau:  its a problem with GRUB
+ LAcan:  Hi dear, i have now installed ubuntu and i am on windows, how do i add entries using easyBCD
+ Okay can anybody tell me form which file or drive does ubuntu load. 1. swap 2. / 3. /home
+ Gatoratde:  it can be solved if we are able to add ubuntu entries in windows bootloader using easy bcd
+ Gatoratde:  i am investigatigating it, just hold on
+ ZykoticK9:  okay so if i have to add entry for bootloader which dive i am gonna use
+ anybody facing problem with windows 7 and ubuntu dual boot, i have found fixed soulution?
+ !please | loseweighttttttt
+ How do i install .sh file i downloaded from internet
+ jrib: netbeans 7.0
+ jrib:  that is 6.9
+ made it executable
+ jrib like file is at /home/username/Desktop/netbeans.sh so can you please tell me complete command to execute it
+ jrib:  I am new to linux........
+ jrib:  should i type  ./home/username/netbeans.sh to execute it
+ jrib:  thanks i try it and tell you result
+ jrib:  it requires  jdk 6, can iget it directly installable
+ Hi guys I am using 11.04 64 bit version, and want to install jdk 6, which command should i install
+ Hi i just installed a .sh file, from where can i run it? I am new to ubuntu.
+ Hi i just installed a .sh file, from where can i run it? I am new to ubuntu.
+ arand_:  I used chmod +x /path then ./file.sh
+ arand_:  It 's final instruction was "running the installer wizard"
+ arand_:  it is the installer for netbeans
+ arand_:  what do you think i should do now?
+ i am of 11.04 and want 7.0 as it has less bugs and better pgp support
+ pgp/php
+ arand_: i am of 11.04 and want 7.0 as it has less bugs and better php support
+ arand_:  it never proceeds the starting installer wizard
+ arand_:  i had just renamed the file to nb.sh
+ arand_:  check this image http://img806.imageshack.us/i/screenshotqeg.png/
+ arand_:  so what i need to do for that, thanks for ur time
+ arand_:  pardon me, didn't get you
+ arand_:  its working fine on yours
+ arand_:  there's some hitch that we are not able to pick. It didn't even asked for my password
+ any body on irc getting to point please
+ arand_:  ahhh so can you figure out what could be the problem
+ arand_:  I tried both the installers one from netbens.org and other from oracle.com bundled with jdk
+ arand_: i do have it
+ arand_:  thanks for your time
+ I try through forums too
+ arand_:  okay is there any sudo apt-get for netbeans 7.0
+ aarrrgghh
+ azoz:  what that join #ubuntu-ir
+ I found a bug in NATTY.
+ atdprhs:  just ask your question
+ I found a bug in NATTY.  It is unable to  execute .sh file.
+ PythonPup:  have you tried jdk 6 or netbeans 7.0
+ PythonPup:  lol, ofcourse yes
+ PythonPup:  But it wont even install
+ PythonPup:  jdk 6 or netbeans 7.0
+ ohsix:  even netbeans 6.9 is there...
+ ohsix:  if you dont use chmod in 11.04, it gives error
+ ohsix:  i tried the same package in 10.10 worked fine but in 11.04 it dont
+ ohsix:  okazzz
+ terminal stucks at "running installation wizard" after some time returm to normal state. And no wizard launches
+ ohsix:  7.0 has better intellisense and php support
+ atdprhs:  ??
+ atdprhs:  ahh i told you that you post question if anybody knows it they will surely answer and i dont use server or manage it
+ Samo502:  dear my main question is to resolve this problem and not the software alone
+ Samo502:  yeah thanks i do have it btw...:-)
+ its awesome for C++
+ ahh i use it and its great, i use it for gtk
+ but the main problem is still there why netbeans 7.0 does not launch
+ do i need some updates or what
+ kblin:  are you able to geton to win 7
+ kblin:  are you trying to dual boot win 7 & ubuntu
+ okay so two HDD??
+ kblin:  maybe you could try out easyBCD
+ Ultimate_Chaos:  no swearing please
+ So what could be the problem that natty does not launch my sh programs
+ genii-around:  yes
+ genii-around:  i have not made that program, its netbeans 7.0 and jdk 6
+ genii-around:  I just downloaded netbeans 7.0 from web and executed it, no wizrd comes up ever
+ genii-around:  no sh ./path
+ genii-around:  because sudo does not have 7.0 it is for 6.9 only
+ Jordan_U:  lol
+ genii-around:  thats why i downloaded it and tried to execute, but it works well on 10.10 but not on 11.04
+ genii-around:  are you there?
+ genii-around:  ahh. its 2:00 pm here
+ genii-around:  okay i try that too
+ still nothing it is stuck there only
+ i think getting back to 10.10 is much better now and wait more more stable release
+ So anyone i am searching for a solution from last 2 days
+ PythonPup:  coffee could be much better , lol, would try out later, thanks guys
+ last point is 11.04 not a stable release?
+ Jordan_U:  then why sh file never execute on it
+ Jordan_U:  any way to solve the pronlem i am using this file http://netbeans.org/downloads/index.html (c++). But it works fine on 10.10
+ Jordan_U:  sorry . are you admin or developer of ubuntu.
+ any way to solve the pronlem i am using this file http://netbeans.org/downloads/index.html (c++). But it works fine on 10.10
+ how to downgrade from 11.04 to 10.10?
+ terry:  okay,....
+ Dr_Willis:  terry thanks
+ red2kic: ??
+ red2kic:  i know what lts is.
+ red2kic:  so you think i should go for lts one
+ red2kic:  so whats that much better in lts
+ red2kic:  cost?

@@ -1,0 +1,8 @@
+ Hey guys I'm having an issue suspending. when I tell the comp to suspend it's hibernating instead. I need to only suspend because I run sshd on it and I need it to be accessible
+ anyone have an idea why my system is hibernating when it should be suspending?
+ oh really?
+ doesn't WOL solve that?
+ ohsix: I've had this working before so I'm trying to see if there's anything I need to do. do I need to install anything on ubuntu for it to wake on lan or is it purely a bios thing?
+ ohsix: thanks I'll look into it
+ hey does anyone know what the "Additional Drivers" application is called in the repos?
+ hey does anyone know what the "Additional Drivers" application is called in the repos? Trying to install on a minimal

@@ -1,0 +1,12 @@
+ Hello
+ Is Ubuntu 11.04 release
+ http://news.softpedia.com/news/Ubuntu-11-04-Officially-Released-197181.shtml
+ Is announcement for Natty done?
+ How softpedia saying "officially released"
+ http://news.softpedia.com/news/Ubuntu-11-04-Officially-Released-197181.shtml
+ Is it announced internally in any mailing list
+ okie thnx
+ Guys, i am facing issue logging into ubuntu 11.04 machine
+ When i am providing login n passwd it throwing me back to the machine
+ tsimpson, is ISO available?
+ Is that final ISo

@@ -1,0 +1,1 @@
+ anyone know how to apply a patch with binary diff? I tried patch -p1 --binary < my.patch but the binary file did not show up

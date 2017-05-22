@@ -1,0 +1,5 @@
+ hello, I just upgraded to 11.04 from 10.10 and I am not liking the UI changes at all... is there any way to use the previous UI or downgrade back to 10.10?
+ I feel like the saying " if its not broken, dont fix it" was ignored
+ ok
+ thanks
+ ohsix: true, and maybe its because Im just used to the old UI but there are a few things that just don't seem as intuitive

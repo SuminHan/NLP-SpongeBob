@@ -1,0 +1,126 @@
+ Hey guys
+ cablop, Which is why it works better that most other distros
+ ActionParsnip, What are you trying to do?
+ JoshDreamland, pm me
+ arand, no trolling
+ cablop, USC > ccsm
+ to many people on tonight who to help first
+ gahh
+ whats the offtopic channel again
+ i need to rant about unity
+ JoshDreamland, Don't mention that
+ just revert back to 10.10 like i did
+ all good
+ Lulz
+ how do i pm someone in irc again i forgot
+ how do i pm someone in irc again i forgot
+ nono start a private chat
+ arand, going to help the people i know a solution to bcz its busy hour at the moment
+ Ok
+ Sure
+ its hard to see whats going on the chat is running so fast
+ but ok what ever
+ I have a solution to the nvidia, go to there website and download the linux drivers they work fine
+ NyvenZA, Error?
+ NyvenZA, What problems is it causing, cablop, thats what happens when the kernal updates all the time...
+ NyvenZA, Does not sound like a display driver issue, did you update the kernel or something?
+ ScottONanski, he did
+ NyvenZA, Ok, then did it crash after that
+ or stop working
+ Who the hell idea was unity anyway, its a bad idea
+ NyvenZA, I mean is that when it stoped working
+ NyvenZA, Im confused are you on clasic or unity
+ kk
+ try what cablop said
+ NyvenZA, sudo apt-get install gnome-desktop
+ ActionParsnip, What?
+ ActionParsnip, Im not using it, i just love to help out the community and this seems to be the biggest problem among new people
+ and old timers aswell
+ k
+ MnCC, Problem?
+ ActionParsnip, Where not meant to talk about that in here, it hogs the channel
+ MnCC, Specificaly what won't work
+ MnCC, Or just compiz won't work at all
+ MnCC, 11.04 i assume?
+ Kevin147, Shoot
+ MnCC, how are you making changes
+ MnCC, For compiz i use ccsm (found in software center) then open term and type sudo ccsm
+ MnCC, sudoer seems to work
+ MnCC, go into terminal and type sudo ccsm
+ MnCC, go into terminal and type sudo ccsm
+ there should be a huge WARNING DO NOT UPGRADE
+ May cause loss of sleep
+ ActionParsnip, Fixed my flash Uber lag
+ If you know what your doing its a rly good idea
+ ActionParsnip, Well you learn something new every day
+ MnCC, Wierd with gksudo mine got reset and won't stick anymore lulz
+ I got a problem i need help with while im here, Anyone know about fixing the epic fullscreen lag with flash
+ MnCC, Go for it
+ Yep
+ ActionParsnip, Does your flash lag in fullscreen on things like youtube
+ asddfsasd, Don't do it
+ asddfsasd, If you had to ask that the problems will become endless
+ asddfsasd, Beacuse it really buggy and if you don't know about ubuntu that mich don't try it yet
+ ActionParsnip, Im plauged then
+ kcin1, arm?
+ ActionParsnip, Yea
+ ActionParsnip, yea i used a script to get that sandbox thing or whatver it is
+ the beta 3 .so plugin
+ for firefox
+ ActionParsnip, How well does it work?
+ ActionParsnip, brb ill try it now
+ ActionParsnip, Downloading from the ppa since the deb package didn't work
+ A_J, in your head
+ Sree_, Search gpart in the software center
+ A_J, Lies...
+ A_J, Jking
+ Sree_, Boot into a live CD
+ Sree_, Boot into a live CD, if you need to wipe your hard disk that is currently active
+ I hate flash
+ its so mean to me
+ A_J, is that the prebuilt ubcd
+ ActionParsnip, i think some ati radeion mobility
+ i don't know
+ A_J, So it doesn't use windows like ubcd
+ ActionParsnip, You would think so....
+ ActionParsnip, The wierdest thing is that HP Supports this laptop as an "Official Linux Laptop"
+ so all the drivers are made for it
+ for ubuntu anyway
+ that was strange the chat just stopped
+ Im going to try the 32 bit 10.2 flash release
+ and see if its better
+ vibhav, FLASH
+ vibhav, PM plz?
+ vibhav, can i pm you please
+ goodnight people
+ mintux, tell us the problem
+ lol
+ scorch2, Re-do the install
+ Scorch2, PM
+ cya later guys
+ tripelb, if you want full permisions type su
+ Froq, Try it.....
+ ross_, Generic or a supported one
+ Froq, What is keeping you
+ ross_, Its 5Am and i have been up all day and night on irc helping out
+ ill be on tomoro
+ or post in the forums
+ i need sleep i have a big day tomorow
+ Froq, I am linux only and i don't have any problems, RRU_Sciguy, The community needs support thats the only way to get new people so i pull my weight arround here to say thanks for the epic free os
+ RRU_Sciguy, I once stayed up for 3 days fixing some guys ubuntu install
+ tripelb, Shout out from australia
+ RRU_Sciguy, or whoever asked it. If you format and then overwright 32 times there is no trace
+ Because the magnetics will be different completly
+ and Forensic recovery relies on that
+ Ok can i clear something up before i get off
+ Australia is no a freaking outback bushland all across the board
+ I know america thinks we are but trust me were much more developed that most of america
+ some guy pm'ed me asking how i get fiber optic internet in the outback
+ ......
+ LOLOL
+ RRU_Sciguy, Go into offtopic i want to talk
+ lol
+ RRU_Sciguy, no your not
+ lol
+ fail
+ you won

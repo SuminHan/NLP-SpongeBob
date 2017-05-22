@@ -1,0 +1,19 @@
+ okay, I just had a disaster installing 11.04.  Please suggest what to do next.
+ I should say, upgrading to 11.04 from 10.00
+ It resized my window and gave me new menu settings I do not want.
+ Don't Install 11.04!!  It's a disaster!!!
+ Pici:  So, I am default logging in.  There is an item on the login menu that allows me to choose?
+ Pici:  Thank you Pici.  That is very helpful.
+ Say, why do I only have 1024x768 resolution now on my laptop with the 11.04 upgrade?  This makes it very frustrating to use?
+ I would have been much better off not upgrading with this fubar.
+ Halzen:  Can I find that out from proc?  I don't know where to look.
+ Halzen:  Video chipsets: Intel HD Graphics 256MB NVIDIA® Quadro® NVS3100M
+ Halzen:  This is on a Thinkpad T410 lenovo.
+ Halzen:  It's a laptop.
+ Looks like I've lost my contact for 11.04 video resolution degeneration help.  My video is:  Video chipsets: Intel HD Graphics 256MB NVIDIA® Quadro® NVS3100M
+ Is there a fixit list somewhere for Thinkpad Lenovo T410 to undo all the things 11.04 breaks on that kind of laptop?
+ Okay, here is my list of problems I am having with 11.04.  I'll provide notificatioins here as I add to the list:  http://paste.ubuntu.com/602528/
+ Anybody see that?  http://paste.ubuntu.com/602528/
+ I'd be glad to submit bugs, but launchpad isn't getting me to the new bug menu today, so I'll have to pass.
+ Thank you LjL.
+ Got my video chipsets on this one (top item):  http://paste.ubuntu.com/602541/

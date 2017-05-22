@@ -1,0 +1,1 @@
+ I'm using natty and mysql server can't start.  How do I fix this?

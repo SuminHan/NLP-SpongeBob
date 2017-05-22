@@ -1,0 +1,7 @@
+ hi can some help me. I just installed natty and everything went fine. But when i use the new kernel (2.6.38) my system freeze short after login. I have to use the old kernel (2.6.35) to use my system?
+ Is there any way how to figure out why the new kernel freeze my system after login?
+ lapion: what is "single user mode"? My system shortly freeze after login
+ lapion: my sound works with the new kernel in safe mode. But when i login with any other mode it freeze :/
+ lapion: ok thx
+ Is it possible to deactivate global menu in 11.04?
+ ok thx

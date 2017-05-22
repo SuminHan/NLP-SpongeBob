@@ -1,0 +1,5 @@
+ what is that website where i can paste code &  get a url for it?
+ thx
+ i just tried to upgrade ubuntu and now I'm getting this: http://pastebin.com/x7Jb58UZ
+ so, yes, peeps are having issues with the 11.04 upgrade, but just want a little direction as the only searches I get r my own pastebins... ;/ http://pastebin.com/9qENxDgs
+ WARNING: Couldn't find symtab and strtab in module /lib/modules/2.6.38-8-generic/updates/dkms/nvidia-current.ko

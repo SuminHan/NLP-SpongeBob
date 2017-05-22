@@ -1,0 +1,24 @@
+ i can upgrade without issues?
+ hey guys ..
+ had a question ..
+ is 11.04 a LTS ?
+ rww_, any known bugs with 11.04?
+ if going from 10.04 - 11.04
+ :(
+ any1 tried 11.04 on a thinkpad?
+ i had trouble with 10.10
+ on a lenovo
+ why dell ravibn
+ ?
+ i have a lenovo ..
+ oh ..
+ not good
+ i guess ill have to stick with 10.04 :(
+ i was so excited
+ i can upgrade without issues?
+ yu can download wubi from the software center itself
+ else check out www.ubuntu.com
+ i dont think natty narwhal is that cool.. any views?
+ constl: pls elaborat
+ constl: oh ok
+ constl: thanks

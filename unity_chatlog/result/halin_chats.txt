@@ -1,0 +1,2 @@
+ I am logged in to ubuntu from command line mode using a live cd. How can I access the drives on my hard disk ?
+ ActionParsnip: thanks. Is there a way so tat sudo fdisk -l shows file one page at a time ?

@@ -1,0 +1,6 @@
+ Are there 3 drivers available for ati/amd-cards? the default "radeon" driver, fglrx and the catalyst driver?
+ which drivers are available for ati-cards?
+ are there more than 2 drivers available for ati-cards?
+ Are there 3 drivers available for ati/amd-cards? the default "radeon" driver, fglrx and the catalyst driver?
+ ActionParsnip, Ah, thanks. which is the better of the proprietary ones?
+ I know ubuntu isn't using gnome shell, but there must be lots of users running it. I just wonder if there's anything one can do to run fglrx in shell?

@@ -1,0 +1,33 @@
+ does the ubuntu installer erase home during the install?
+ Dr_Willis: now I will put home on a separate partition
+ thanks
+ PresuntoRJ: single partition for ubuntu unfortunately
+ also, unity seems very laggy, especially with launching applications. Is that intended?
+ PresuntoRJ: right! thanks
+ another question: launching firefox takes about 2-3 seconds. Is that normal?
+ this is with unity
+ to open firefox
+ the icon blinks for 2-3 seconds. and then it runs reasonably fast. I did a 10.04 -> 10.10 -> 11.04 upgrade. I suspect I need to do a fresh install
+ PresuntoRJ:the icon blinks for 2-3 seconds. and then it runs reasonably fast. I did a 10.04 -> 10.10 -> 11.04 upgrade. I suspect I need to do a fresh install
+ PresuntoRJ: its bearable I agree. Its not as fast as 10.04 though.
+ PresuntoRJ: if this is expected, I can avoid a clean install. Thanks
+ PresuntoRJ: yeah. Im looking for configs which used to be in obvious places with gnome, unity is completely different
+ PresuntoRJ: got it! thanks!
+ Dr_Willis: as a form of punishment for something?
+ unity.launcher forgets that it has running instances of google-chrome and launches new ones every time.
+ Ubuntu classic saved my day
+ cebrian: logout and choose ubuntu classic from the toolbar below before loging in
+ cebrian: hrm... so you arent able to run X?
+ cebrian: are you using an nvidia graphics card by any chance?
+ hypetech: you take that back!
+ mithridates: nope. ubuntu classic saved the day for me
+ mithridates: I would've been fine with unity if they hadnt broken Alt+F2.
+ mithridates: DosAmp: various things. it wont complain if you've entered something non-existing. it doesnt autocomplete
+ mithridates: plus it laggy
+ Guest68448: can you mount the mp4 player as a mass storage device?
+ Guest68448: what do you mean by seeing the files but not the contents?
+ Guest68448: can you open it and see the contents?
+ snowrichard: at it takes a bit more time for you to want to rip your eyes out
+ Guest68448: tried pasting the mp4 files directly into a folder on the mp4 player that looks like "music/audio" ?
+ Guest68448: you would be missing a package if you're talking about missing codecs. Although I dont see how missing a codec will prevent you from transfering files to the player
+ Guest68448: gnokii?

@@ -1,0 +1,5 @@
+ Howdy, is the Update Manager normally this borked on Ubuntu updates?
+ Howdy; when I try upgrading to 11.04 in the update manager, it tells me "Could not download release notes, please check your internet connection" owtte. How does one upgrade?
+ Howdy; how does one configure the Unity sidebar thingy? :)
+ Is it possible to make the Unity sidebar float right?
+ (as opposed to left?)

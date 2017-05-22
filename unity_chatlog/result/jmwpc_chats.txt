@@ -1,0 +1,3 @@
+ I'm currently upgrading my laptop from 10.04 -> 11.04 using the CD. It's been stuck on 'Restoring previously installed packages...' for about an hour with no progress. I didn't really have all that many additional packages beyond the base OS installed. What's my next move?
+ ace_: I was in the same spot for about 6 hours, I eventually opened up system monitor and saw that there was still network activity... eventually it finished downloading everything and finished, but it took a while.
+ After upgrading to 11.04, shutting down doesn't actually power off my laptop, it just goes to a black screen.

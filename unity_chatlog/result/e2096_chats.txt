@@ -1,0 +1,1 @@
+ Hi,  can somebody tell me if there is a way to boot up ubuntu so that it does not try to generating the locales?

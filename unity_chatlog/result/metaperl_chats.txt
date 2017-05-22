@@ -1,0 +1,1 @@
+ I have successfully done "sudo apt-get install postgresql" --- now I'd like to get further information on setting up my postgresql server on ubuntu 11

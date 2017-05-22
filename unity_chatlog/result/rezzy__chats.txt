@@ -1,0 +1,5 @@
+ Could somebody help me with a sound problem? (PM preferred)
+ Somebody with pulseaudio/alsa/sound expertise, please send me a PM: I need your help!
+ Description of my problem: I can hear sound through my speakers (rear green output) but not through my headphones (front green output).
+ botcity: VIA VT2020
+ botcity: Integrated chip on the ASUS Crosshair IV Formula mobo

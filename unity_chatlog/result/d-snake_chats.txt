@@ -1,0 +1,15 @@
+ hey guys. is it possible to "blacklist" application from the global menu? In my case I wan't  exclude Gimp from it.
+ Push:  Is it possible to "blacklist" an application from the global menu? In my case I want to exclude Gimp from it.
+  is it possible to "blacklist" application from the global menu? In my case I wan't exclude Gimp
+ Chipzzz: I don't mean the Unity Menu. I meant the global menu in the panel. I don't want to have main menu of gimp (just gimp) in the panel
+ ciphergoth: just right click in the worspace switcher in the bottom panel. there you can configure the rows and cols
+ ciphergoth: You use Natty with Unity? Then open a terminal > type in
+ sudo apt-get install compizconfig-settings-manager
+ This will install a program to configure it. After this you search in the application menu for "compiz". There you will see the new program. Click on "General options" > switch to the last tab "Desktop size".
+ ciphergoth: No problem :-)
+ ciphergoth: in the old ubuntu (or Ubuntu Classic) you can do it as I described at first
+ ciphergoth: Unity is not complete at the moment. It is very new software
+ ciphergoth: Well, I think Unity is not perfect in the moment, but I'm sure it becomes much better in next months.
+ snikker: It was removed since Karmic, I think ;-). But you can create one
+ Opium56: But you see then the login screen? Whats your grafic card?
+ snikker: Cause it will configure automaticly by ubuntu. For indiviual settings you can create one

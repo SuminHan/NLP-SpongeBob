@@ -1,0 +1,4 @@
+ where to get ubuntu natty for netbook?
+ WaltherFI: you mean here http://www.ubuntu.com/netbook/get-ubuntu/download is the lastest netbook version?
+ WaltherFI: ubuntu will not support netbook anymore? what should I use in my eeepc?
+ WaltherFI: I see. You mean netbook can use desktop version because the unity is suitable for netbook?

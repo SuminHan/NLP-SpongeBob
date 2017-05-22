@@ -1,0 +1,2 @@
+ hello :) is there a way to create a partition via command line without user interaction?
+ celthunder: can I create an xfs partition using parted?

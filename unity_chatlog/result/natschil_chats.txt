@@ -1,0 +1,2 @@
+ Good day everyone. I am trying to get a modem (Cmotech CNU-680 aka CDU-680 aka D-50) to work under natty. Running usb_modeswitch manually gives me "USB error: could not get bound driver: No data available", and what I also find a little strange is that the modem's 'virtual cd' does not mount automatically, allthough I can mount in manually.
+ hatchetjack: possibly. But those few steps may have been needed to be able to go forward faster later on.

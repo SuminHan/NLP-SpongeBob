@@ -1,0 +1,5 @@
+ hi
+ I've just installed 11.04 in a virtual machine, and I can't get the resolution right. I need 1680x1050 (wide-screen). I've tried changing the resolution and installing VMware Tools to no avail. Any ideas?
+ I've just installed 11.04 in a virtual machine, and I can't get the resolution right. I need 1680x1050 (wide-screen). I've tried changing the resolution and installing VMware Tools to no avail. Any ideas?
+ I've just installed 11.04 in a virtual machine, and I can't get the resolution right. I need 1680x1050 (wide-screen). I've tried changing the resolution and installing VMware Tools to no avail. Any ideas?
+ I've just installed 11.04 in a virtual machine, and I can't get the resolution right. I need 1680x1050 (wide-screen). I've tried changing the resolution and installing VMware Tools to no avail. Any ideas?

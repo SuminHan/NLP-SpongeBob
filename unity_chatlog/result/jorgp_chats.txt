@@ -1,0 +1,11 @@
+ mount proc non /mnt/ubuntu/proc ; mount --rbind /dev /mnt/ubuntu/dev
+ non/none
+ interesting, unity will not run in a virtualbox?
+ thanks
+ osx
+ thanks
+ sebsebseb: I have gentoo is working fine, just wanted to try out natty
+ sebsebseb: unity working good now. thank
+ thanks
+ sebsebseb: yp, works great with osx and virtualbox
+ sebsebseb: I can not wait to see what gnome 3 will look like

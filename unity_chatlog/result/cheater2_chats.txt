@@ -1,0 +1,6 @@
+ hey guys, for some reason my mouse cursor just disappeared! what can i do?
+ hey guys, for some reason my mouse cursor just disappeared! what can i do? i can still move the mouse and click stuff, but the cursor is simply not there ...
+ IdleOne, any ideas? :x
+ IdleOne, my problem is i can't log out, because i'm running ddrescue
+ IdleOne, bit desperate :(
+ Sub_Zero, i believe it needs special hardware support

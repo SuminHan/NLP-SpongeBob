@@ -1,0 +1,51 @@
+ ubumtu
+ okay, so question, I have unreal 2004 installed. When I create a launcher on my desktop to ut2004-bin it doesn't launch...nothing happens. However, if I open it from the ut2004/system dir the game will open...what am I doing wrong?
+ okay, so question, I have unreal 2004 installed. When I create a launcher on my desktop to ut2004-bin it doesn't launch...nothing happens. However, if I open it from the ut2004/system dir the game will open...what am I doing wrong?
+ im using 11.04 btw
+ OchoZero9, what video card do you have?
+ Soothsayer, your hard drive
+ oh, it may not be supported. maybe find out what name/model of it is
+ Soothsayer, the install will add windows 7 to grub boot menu
+ Soothsayer, yes.
+ Soothsayer, this is for the boot loader right?
+ Soothsayer, then yes. you'll see what i mean when you reboot after the install.
+ it just shows a simple text menu after with ubuntu or windows 7 (loader)
+ Soothsayer, yes, set the root (ubuntu install files) to  /  and i personally make a /home parition as well
+ a7ndrew, lol
+ Soothsayer, yup. you didnt delete your win 7 partition right?
+ Soothsayer, yes
+ :)
+ we
+ shane4ubuntu, install ccsm
+ Soothsayer, if thats what you want.
+ Soothsayer, some people just make a  /  mount
+ Soothsayer, **shrugs***
+ Dont use MySQL lol
+ Soothsayer, lol...google tells me yes http://www.google.ca/#hl=en&biw=994&bih=898&q=%2Fvar+mysql&aq=f&aqi=&aql=&oq=&fp=1246a8259bf2a1fa
+ Soothsayer, thats up to your needs
+ Soothsayer, then delete the  / mount and recreate it...and then the others...say 20gigs each?
+ Soothsayer, my var has backups  cache  crash  games  lib  local  lock  log  mail  opt  run  spool  tmp
+ hello nandaram
+ Nightshade_, Natty rocks
+ Soothsayer, yes, thats the idea of home
+ ah
+ amy_, logout and select classic then login
+ shane4ubuntu, ctrl+alt+f1 >> then login >> type sudo service gdm restart
+ shane4ubuntu, yes, the gdm
+ shane4ubuntu, maybe
+ shane4ubuntu, do you have auto login on?
+ shane4ubuntu, reboot (sudo shutdown now -r) and then log into classic desktop (no effects)
+ shane4ubuntu, reconfigure compiz, logout and log back into unity
+ shane4ubuntu, what did you change?
+ shane4ubuntu, try this in a terminal gconftool-2 --recursive-unset /apps/compiz
+ shane4ubuntu, logout and login
+ Soothsayer, lol carefully now...you should really have a backup anyways...but im sure you thought of that right?
+ shane4ubuntu, at this point you could of reinstalled natty by now...you might as well do that.
+ Soothsayer, ah
+ ChronicSyncope, install ccsm enable wobbly
+ ChronicSyncope, video card drivers maybe?
+ ChronicSyncope, what video card you using?
+ shane4ubuntu, lol
+ ChronicSyncope, open additional drivers
+ Jon4248, someone must...but not me..lol...have you tried to restart?
+ Soothsayer, i just pick whatever is default.

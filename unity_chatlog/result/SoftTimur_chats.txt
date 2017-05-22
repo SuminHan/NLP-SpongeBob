@@ -1,0 +1,18 @@
+ Hello all, I just upgraded my ubuntu to 11.04. It is odd that after pressing Alt+F2, I could not launch "about:config", could anyone help?
+ ActionParsnip: I do not see what you mean
+ ActionParsnip: I do not know how to use about:config in a Firefox command
+ ActionParsnip: I see what you mean, but I want to do this http://www.multimediaboom.com/how-to-make-the-panel-transparent-in-ubuntu-11-04-natty-narwhal/
+ ActionParsnip: and I could not launch about:config as the link shows
+ ActionParsnip: it does not do anything
+ usr13: it does not show anything
+ ActionParsnip: yes I have that, but it is different from what the link shows
+ ActionParsnip: well, I see your point
+ ActionParsnip: but isn't it odd that I could not launch about:config by Alt+F2 as the link shows?
+ actually, what I am trying to do is... to move the panel on the top of the screen to the right side...
+ does anyone know how to do it?
+ hello all, does anyone know how to unlock the top panel and move it in ubuntu 11.04?
+ step2: I do not see what is "unity"?
+ step2: I just do not like the position of the top panel, I want to put it on the right
+ step2: what do you mean by "in unity"?
+ step2: I see... is there a quick way to go back to the classic/previous layout?
+ Hello all, does anyone know how to tile windows under ubuntu 11.04? for instance, place a window on the left or right half of the screen...?

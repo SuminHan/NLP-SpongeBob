@@ -1,0 +1,9 @@
+ i've got a pretty old dual core which works on i386 in 32bits for now  is it advise to try the 64bits or not????what is the edge of 64 bits?
+ stefg one giga
+ stefg ty for your help
+ hi i have an upgrade problem when i try to get natty i get this after a little moment during the source configuration http://paste.ubuntu.com/600431/
+ http://paste.ubuntu.com/600454/ ive got that problem when i try to upgrade to natty what should i do???
+  http://paste.ubuntu.com/600454/ ive got that problem when i try to upgrade to natty what should i do???
+ i try to remove transmission with apt-get remove transmission but it says that its not install but it is an ideo to remove this ???
+ celthunder ty
+ each time i use a password there the key gest who appears and ask me and password but nothing works what should i do???thx

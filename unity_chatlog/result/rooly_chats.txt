@@ -1,0 +1,13 @@
+ does anyone know where the patch for the rlt8192se that keeps it from making the system lock up is?
+ because there's been a regression since 10.10
+ ohsix, yes, i used it for 4 months prior to 10.10 (which brought it in to the kernel)
+ ohsix, because i didn't realize that 11.04 would regress on the rtl8192se wireless driver
+ ohsix, 10.10 fixed the problem
+ the problem was documented in 10.04 and patched for 10.10
+ ohsix, backparts are installed
+ *backports
+ hmm
+ i see a spot to test it
+ i might hop offline for a moment
+ well that was odd...
+ totally wasn't the bug i was looking for

@@ -1,0 +1,6 @@
+ hi.sorry for my weak english. i have windows 7 and open suse 11.4 installed on a lenovo thinkpad.after installing ubuntu 11.4 i cannt use open suse.although i can see it in grub but during the boot up nothing happens.i didnt have this problem when using ubuntu 10.10.
+ sdwrage i think you better install windows 7 first.but anyway u can use Gparted and create an ntfs partition and install windows.after the installition of windows u can use the ubuntu live disk to repair the grub and multiboot ubuntu and windows
+ lapion no. i created 2 seprate partitions one for " / " and one for "home" . i did the same during the installition of ubuntu 10.10 and 10.04 and didnt have that proplem.
+ lapion do you think i need to reinstall suse? and besides that after installing suse it cant detect ubuntu  atomatically and i must set the grub manually which i always fail to do.
+ lapion i dont have much gnu/linux experience. i'm not a programmer nor a geek and i only do my things in graphical imvironment.so how can i do so?
+ lapion how can i  edit the /etc/fstab file of suse and change the partions to the correct ones

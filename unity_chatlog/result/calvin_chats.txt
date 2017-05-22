@@ -1,0 +1,2 @@
+ I'm having a super weird problem.  I think it may have something to do with my networking settings.  I can scp, rsync, and git push / pull anything 1406 bytes or smaller, but once i hit that cap, i get a timeout...like it sends the first packet and poops out or something.  Is anyone willing to help me troubleshoot?
+ join #ubuntu

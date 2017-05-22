@@ -1,0 +1,24 @@
+ Hello everybody. I am running ubuntu 10.10 with restricted exras installed. my problem is i am unable play videos apple.com,etc
+ Jasonn:yes
+ <Jasonn> yes
+ Jasonn: how do i check it ?..
+ Jasonn: it shows a list..
+ Jasonn: could u be more specific ?
+ cannot play apple .com videos
+ ActionParsnip:which ?
+ ActionParsnip:wait checking .....
+ ActionParsnip:si it safe ?
+ ActionParsnip:is it safe ?
+ ActionParsnip:did this udo wget --output-document=/etc/apt/sources.list.d/medibuntu.list http://www.medibuntu.org/sources.list.d/$(lsb_release -cs).list && sudo apt-get --quiet update && sudo apt-get --yes --quiet --allow-unauthenticated install medibuntu-keyring && sudo apt-get --quiet update
+ ActionParsnip:installed win32codec from medi ubuntu rep. still no use . cannot play video sfrom apple.com.
+ ActionParsnip:gstreamer0.10-ffmpeg is already the newest version.
+ ActionParsnip:it says gstreamer0.10-ffmpeg is already the newest version.
+ ActionParsnip:sorry
+ ActionParsnip:any help?
+ ActionParsnip:thank u
+ ActionParsnip:slow learner
+ running ubuntu 10.10 with restricted extras amd medi ubuntu win32codec installed . problem is i cannot paly videos from apple .com
+ running ubuntu 10.10 with restricted extras amd medi ubuntu win32codec installed . problem is i cannot paly videos from apple .com
+ running ubuntu 10.10 with restricted extras amd medi ubuntu win32codec installed . problem is i cannot play videos from apple .com
+ running ubuntu 10.10 with restricted extras amd medi ubuntu win32codec installed . problem is i cannot play videos from apple .com
+ help

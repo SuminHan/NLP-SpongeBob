@@ -1,0 +1,14 @@
+ You can still start in gnome by choosing ubuntu classic at login
+ Im running sandy bridge which works ok but graphics is poor. 2d support only
+ lots of tearing etc
+ default
+ Incarus6, I just keep up to date with the ubuntu kernel
+ is there a more upstream one?
+ zetheroo, unity worked on my old gma intel chipset but sandy bridge has a new one.
+ Incarus6, yup
+ Incarus6, been running beta for a few weeks and did a dist-upgrade last night
+ Incarus6, 2.6.38-8-generic
+ I think my chip is an intel hd3000 whatever that is
+ zetheroo, did you buy it in the last 2 months and is it core i5/i7 if not then unlikely
+ zetheroo, your graphics will be fine
+ When my screen dims it lags coming back out. Im going to try an upstream kernel

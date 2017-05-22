@@ -1,0 +1,5 @@
+ I installed tasksel to install a LAMP server. But when i start up tasksel and chose LAMP it just closes. Could someone help me with this?
+ it doesn't work with out sudo
+ Anyone have any luck with setting up gnome-shell with Natty? I can't stand Unity
+ Anyone have any luck with setting up gnome-shell with Natty? I can't stand Unity
+ Anyone have any luck with setting up gnome-shell with Natty? I can't stand Unity

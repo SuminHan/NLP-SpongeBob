@@ -1,0 +1,17 @@
+ hello
+ i an stuck at "Enabling additional executable binary formats binfmt-support" in tthe upgrad process from maverick what should i do now ?
+ if i reboot i die?
+ bullgard4, it doesn't progress anymore, i don't now more
+ ben21, what all my intervention? i don't know what to do
+ bullgard4, what all my intervention? i don't know what to do
+ bullgard4, i get a new line
+ bullgard4, yes exactly
+ bullgard4, also the upgrad windows seems frozen since i can"t hide/display the terminal part
+ paspro, better than xchat ?
+ paspro, ok
+ bullgard4, ok that's a releaf so what now ?
+ bullgard4, i sould avoid rebooting ever, maybe i'get a nice uptime then
+ bullgard4, i there a clean/safe way out ?
+ is
+ Jordan_U, the killing the specific process worked the upgrad process resume
+ Jordan_U, maybe i'm not that doomed now

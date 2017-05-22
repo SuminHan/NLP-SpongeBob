@@ -1,0 +1,18 @@
+ I've installed vnc4server and ubuntu desktop.  I started :1 and killed it to create the config file for VNC.  I get the error "GTK-Warning ** cannot open display" when I execute "sudo gedit ~/.vnc/xstartup".  How can I remedy this?
+ I get the error "GTK-Warning ** cannot open display" when I execute "sudo gedit ~/.vnc/xstartup".  What can I do?
+ hmm
+ I tried sudo /etc/init.d/gdm start
+ nope
+ It saok
+ Sudo start gdm > job is already running: gdm
+ sorry im in SSH
+ i can load vnc session :1 and see a terminal box
+ but that's it
+ i have installed gnome
+ hmm
+ no im on a mac
+ sorry, let me clarify. i'm trying to get vnc remote desktop sessions running on a vps
+ i just installed ubuntu 10.04 lts
+ tsaknorris: you still there? :p
+ tsaknorris: http://paste.ubuntu.com/600248/
+ ok

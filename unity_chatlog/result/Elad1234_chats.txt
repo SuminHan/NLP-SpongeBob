@@ -1,0 +1,4 @@
+ Hi all, I just upgraded to ubuntu 11.04 (using unity), I'm using 2 monitor, the problem is that the notify-osd is on the secondary monitor (nvidia video card), someone can help me please?
+ Hi all, I just upgraded to ubuntu 11.04 (using unity), I'm using 2 monitor, the problem is that the notify-osd is on the secondary monitor (nvidia video card), someone can help me please?
+ Ultimate_Chaos, ?
+ rgr, the problem occur only when I'm using unity (in the gnome-classic mode = gnome-panel it works fine)

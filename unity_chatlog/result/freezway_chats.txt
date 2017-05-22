@@ -1,0 +1,15 @@
+ hey, i upgraded my heatsink and now sound doesnt work. I usually run arch but it doesnt work off the ubuntu 10.10 livecd either
+ lspci finds my sound card, but alsa wont load
+ maryanne, more specific please
+ maryanne, what messages
+ maryanne, please give us the messages. we cant do anything without knowing what the problem is
+ Angelic, please dont ask the same question 10x in a row. ask it and wait a little, reask if you must in a few minutes
+ !ask Alec_ \
+ !ask Alec_
+ !question Alec_
+ quant, beat me to it
+ hey, i upgraded my heatsink and now sound doesnt work. I usually run arch but it doesnt work off the ubuntu 10.10 livecd either. lspci sees it, but on arch, alsaconf does not. output of "sudo alsa reload" here http://pastebin.com/dpDD226g
+ fizyplankton, kill it? "sudo service gdm stop"
+ to keep it from starting edit /etc/rc.conf (may be init.conf or something, just remove gdm from the daemons list)
+ hey, i upgraded my heatsink and now sound doesnt work. I usually run arch but it doesnt work off the ubuntu 10.10 livecd either. lspci sees it, but on arch, alsaconf does not. output of "sudo alsa reload" here http://pastebin.com/dpDD226g
+ hey, i upgraded my heatsink and now sound doesnt work. I usually run arch but it doesnt work off the ubuntu 10.10 livecd either. lspci sees it, but on arch, alsaconf does not. output of "sudo alsa reload" here http://pastebin.com/dpDD226g

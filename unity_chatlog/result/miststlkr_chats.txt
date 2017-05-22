@@ -1,0 +1,5 @@
+ PythonPup: Funny this should come up, I came in to ask about setting up another ssh account which has limited access to files, preferably an account which has read-only access.  I think maybe I don't understand how to set up user permissions correctly to do this
+ PythonPup: would I have to create a new ubuntu user account that only has the permissions I want this ssh user to have, then have them log in accordingly?
+ PythonPup: thanks.  I will go read up on how to set the permissions the way I want.   cheers!
+ PythonPup: I've never heard of shfs, only use scp, ssh and sftp... Ideally what I want is a separate account for someone which will only allow them read-only access to specific directories.  essentially a secure samba share over the internet, now that I am thinking it through
+ PythonPup: given that thought, do you thin k there may be an easier way to do this?

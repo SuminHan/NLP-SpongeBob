@@ -1,0 +1,1 @@
+ Any good resources on using Ubuntu clients in a samba/NT environment(filesharing and auth)?  Preferably something for large environments(users won't be using smbmount).

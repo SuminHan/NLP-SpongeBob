@@ -1,0 +1,23 @@
+ If I upgrade ubuntu, will I be able to keep my settings and applications?
+ PythonPup: I also have a laptop and had to manually compile wifi drivers and I also installed burg. Do you think that'll remain too, if i upgrade?
+ Oh..and printer drivers
+ PythonPup: thanks
+ lol
+ Ok guys, I'm about to upgrade. I always hear of upgrade failures. Wish me luck.
+ freeman_: check :)
+ ohsix: why is that?
+ ohsix: will do that just to be safe. thanks 4 the info
+ ppk_: do you use 64 bit?
+ ppk_: maybe try getting the 64 bit version of flash. youtube has some tutorials
+ ppk_: I like using xbmc. great media center. great software. you should try it.
+ why isn't that new kernel in 11.04 available in 10.10?
+ So when upgrades are available through update manager they are just minor and not as big as the one available in 11.04 right?
+ kernel upgrades
+ bullard4: are you tying to throw me off? lol
+ Is there an amd card that is fully compatible with linux? Or am I better off getting Nvidia?
+ I heard people say that they have their radeon cards running fine in linux. Is it recommended to get ATI?
+ Simkin: Ahh. So I guess my future plans are to mix a phenom II with Nvidia. Is this a good mix? I mean, is it likely that I will run into some issues?
+ For a new rig.
+ :)
+ Simkin: What kind of video card are ya using?
+ Simkin: Btw, have you ever tried Dolphin Emu on your setup?

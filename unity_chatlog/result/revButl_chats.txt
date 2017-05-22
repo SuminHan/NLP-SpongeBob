@@ -1,0 +1,7 @@
+ ok thanks guys
+ greetings; what are some ways to set up my hard disk partitions?
+ suggested partition layouts please
+ decreasing emphasis on flexibility, data recovery, then performance; i have one hard disk with about 50 gigs over half a terabyte with about half a terabyte designated for windows
+ is the current heuristic for swapspace to be 2x the amount of memory you have still?
+ i don't want to configure my computer so that i lose education or entertainment potential; i just remember Ubuntu putting about 5 partitions on my hard disk;
+ ok thanks guys

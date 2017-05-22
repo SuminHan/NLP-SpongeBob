@@ -1,0 +1,1 @@
+ I have an external touchscreen-monitor connected to my notebook. When I use dual view the touchscreen doesn't work properly anymore. (It handles it as one huge screen) How can I configure Ubuntu that the touchscreen is only on my external monitor?

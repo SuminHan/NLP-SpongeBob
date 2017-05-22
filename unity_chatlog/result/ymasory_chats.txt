@@ -1,0 +1,4 @@
+ hmm alt as meta no longer works in terminal in 11.04. alt seems to cause the terminal to lose focus or something. anysolutions?
+ can the natty launcher be made to stay out permanently?
+ DasEi: i mean in unity
+ DasEi: i'm in unity. i'd like for the bar on the left to not hide itself when a window is maximized

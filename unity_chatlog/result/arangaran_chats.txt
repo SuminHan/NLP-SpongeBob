@@ -1,0 +1,7 @@
+ hello guys, anyone could give me a hand with a problem with 11.04 live cd?
+ ok, well i downloaded 11.04 and tested it in my dell inspiron studio 1558 and all good and great but when i use the keyring thing, to secure a password for the system the whole laptop crashes giving me a kernel panic and a stack dump with registers and stuff and given that it's a live cd there's no way to get a log
+ BlouBlou any ideas?
+ BlouBlou: it's the LiveCD i havent even installed it yet
+ BlouBlou: i havent tried that, i wanted to test this new version before deciding to install it, the alternate cd kind of defeats the idea of testing before installing i just wonder if the huge crash got something to do with my machine in specific or ubuntu? or if in the worse case scenario something is damaged in my laptop although all works fine under w7 sp1 64
+ sigh i guess i'll need to wait another 6 months till they release 11.11 sad past ubuntu's were way better
+ anyways thanks to all for the help

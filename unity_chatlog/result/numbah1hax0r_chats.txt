@@ -1,0 +1,54 @@
+ can directx 9.0 run on ubuntu
+ like for a game?
+ so Dcite
+ right,but does wine have it preinstalled?
+ or do i have to install directx via wine?
+ playonlinux?
+ whats playonlinux?
+ ark0nza, what's playonlinux?
+ thanks ark0nza :D
+ which version is 10.04
+ ?
+ so lucid?
+ Thanks man.
+ is a 3 GHz processor good?
+ like for ubuntu?
+ is there any way to run daemon tools on ubuntu
+ ?
+ it does?
+ o.o
+ but i need to emulate them
+ like mount one on top of the other
+ :/
+ what?
+ how do i emulate an iso on ubuntu?
+ /mnt/?
+ Isn't their an easier way? :/
+ lyl i'm a noon
+ :X
+ so ljl
+ sudo apt-get gmountiso
+ ?
+ hey LjL
+ How do I run I run gmountiso??
+ Guest27469, but I don't understand the command.
+ What goes in /mnt/?
+ Guest27469, Where do i find the article?
+ LjL, I have no idea how to use this command.
+ Is there an article?
+ how?
+ Could not open location 'file:///home/alex/gmountiso'
+ Error stating file '/home/alex/gmountiso': No such file or directory
+ sorry
+ lol :P
+ .LjL
+ I prefer an inferface.
+ Is there a version with interface?
+ :X
+ Synapatic?
+ What is Synaptic, LjL?
+ LjL, can I use the Ubuntu software center to get the version with interface?
+ thanks LjL :)
+ Can somebody help me?
+ In Xchat I can't see the list of users.
+ KM0201, thanks for responding but I fixed it. :D

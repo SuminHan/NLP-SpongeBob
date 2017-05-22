@@ -1,0 +1,5 @@
+ kaatta: I have not tried it but many swear by lubuntu:  http://lubuntu.net/
+ kaatta: What did you miss?
+ kaatta: What are the specs on the computer?
+ kaatta: 7 inch display!!!
+ econnell: Slackware has a slightly older version: http://slackbuilds.org/repository/13.37/network/mangler/

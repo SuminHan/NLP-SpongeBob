@@ -1,0 +1,68 @@
+ is it just me.. or would if have been faster to just freakin' kill my VM and install 11.04 clean?? ugh..
+ Halzen.. This update process has taken like, 6 hours....
+ Halzen: And now.. it's stuck w/ 2min remaining w/ the message "Setting up udisks (1.0.2-4ubuntu1)..."
+ Halzen: I just did it throught he GUI when it asked if I Wanted to upgrade.. yes on the VM.. and 10.10 on the version..
+ rafi: pastebin.com
+ Halzen... thinking I'm just gonna nuke my VM and start a new one..
+ ugh..
+ Halzen.. alright.. I'll give it a shot..
+ Halzen: Nope.. no dice.. wouldn't even boot.. Nuking VM.. Downloading the install image..
+ Halzen: Why a "small" partition?
+ Halzen.. My previous version was just sitting in a VM on a Win7 box.. I'm just creating a new VM
+ Halzen: We'll see...  lol
+ Anyone here get VBGuestAdditions to work w/ 11.04 yet?  Curious how long it took for the main module to build.. mine seems to be hanging... but unfortunately there's no way for me to know... :-(
+ spyhermit: you do it through the window GUI or throught he commandline?
+ spyhermit: dangit.. mine says "The headers for the current running kernel were not found.  If the following module compilation fails then this could be the reason. Building the main Gues Addistions module" and then it just sits there.. grrr..
+ grrr... anyone have any idea why the building of the module for VBGuestAdditions would just hang everytime I try to install it??
+ Anyone got a solution for the following? http://pastebin.com/A3YHzUxQ
+ Trying to get a shared folder to mount from my hsot OS... but the VBox module doesn't seem to be loading for some odd reason... http://pastebin.com/A3YHzUxQ
+ Anyone here have exp getting Files shared between a host OS and VM?
+ Arg.... can someone please help me get to the bottom of this? http://pastebin.com/nzch1SjY
+ I've created the folder through the vbox menus...
+ and I can see it in the bottom of the vbox window...  yet ubuntu can't see it..
+ ??
+ KNUBBIG: I would assume so... I get this when I do sudo vboxsf.mount: http://pastebin.com/TUrNELBQ
+ cache_surplus: yeah..
+ cache_surplus: I've created the dir /mnt/host_fs
+ cache_surplus: I've set up a shared folder through the vbox menu sytem.. can see it in the bottom of the window when I hover over the icon.. but I get those errors when I try to mount it to /mnt/host_fs
+ cache_surplus: headless?  I have no idea what that means.. lol
+ cache_surplus: oh.. nope.. not trying to do that.. just want to be able to share files from a folder in windows.. into Ununtu in my vbox VM..
+ cache_surplus: sudo mount -t vboxsf DEVICE MOUNT_POINT
+ cache_surplus: But that gives me: /sbin/mount.vboxsf: mounting failed with the error: No such device ... even though I can see the shared folder in the bottom of the vbox window.. ugh
+ cache_surplus: yeah... I know.. mine is sudo mount -t vboxfs shared_device /mnt/host_fs
+ Arphetic: Starting to think that myself..
+ cache_surplus: alright.. I'll take a look.. thnx
+ thnx cache_surplus
+ So how do I bring up my buddy lists in Empathy?
+ I've set up all my chat accounts.. but I don't see anywhere that says.. "HEre's who's online"..
+ Ok.. nevermind.. figured it out.. so then how do I get Empathy Internet MEssaging to load automatically when I boot?
+ Alright.. trying to install Ubuntu 11.04 from USB...  I get past my system BIOS and them I stuck w/ "SYSLINUX 3.82 2009-06-09 EBIOS Copyright (C) 1994-2009 H. Peter Anvin et al"
+ Then I tried removing "ui" from the /syslinux/syslinux.cfg file.. and now I get that same result + "Unkown keyword in configuration file: gfxboot"
+ taglass: chaospsyX :  the usb creator tool that's on the UBuntu image..
+ jack123... thnx.. I'll giat
+ Jordan_U: yes
+ Jordan_U: yeah.. I dunno... just wanna get it installed..
+ lol
+ Jordan_U: That's the message I got...  it just hung there..
+ Jordan_U: I have no idea why it said that...
+ Jordan_U: I dl'd the .iso from the ubuntu.com torrent link.. then I mounted the image using... uh.. clonedvd or something like that.. then I copied the usb creation tool to my HD.. ran it.. then I rebooted w/ the usb drive and that's what I got..
+ atlef:  ok...
+ arg... so many different ways to skin a freakin' Narwahl..
+ Say I wanted to run a command at the end of the boot sequence on my ubuntu server.. what file would I put that in?
+ Like.. remember back in the days of AUTOEXEC.BAT?
+ what would be the "equivalent" of AUTOEXEC.BAT in Ubuntu?
+ bindi: ok.. let me check that out.. btw.. rc.. is that the same acronymn that's used in .bashrc?
+ bindi: Found it.. "Run Commands" or RUNCOM... http://pastebin.com/eL4rsxvG
+ so if I wanna do a `cp -R * /tmp/somefolder` on a dir tree.. how do I modify that command so that ALL files (including files like .htaccess etc) and dirs will be copied?
+ Aginor: isn't that effectively the same thing?  `cp -R * /tmp` ?
+ shcherbak: but I don't want to copy the parent dir.. I want o copy it's contents.. there's no way to do that w/o first copying the dir as a whole?
+ Aginor.. lmtt
+ Aginor: Awesome!~  That worked!
+ thnx
+ Aginor: Let Me Try That
+ Aginor: So why doesn't cp confuse the second '*' with being the dest?
+ Aginor: didn't know you could just keep listing files to copy like that..
+ skybound.. thnx.. Aginor just gave me a good command for cp: cp -r .??* * <target>
+ Aginor: you rock.. thanks man
+ Aginor++
+ ok.. I remember doing this somehow.. but I have a script that has a `mysql -u someuser -e 'execute this'; in it.. but I can't remember how to set up someuser to be allowed to run mysql commands w/o a password... had something to do w/ adding "NOPASSWORD' to some conf file or something.. Anyone know what I'm talking about?

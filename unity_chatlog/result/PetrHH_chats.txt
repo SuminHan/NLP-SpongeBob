@@ -1,0 +1,11 @@
+ hello, I've installed Xubuntu 11.04, everything work fine except vmware player. If I try it to run, I got these errrors: http://pastebin.com/zH5uECrQ
+ anybody know what can be wrong, please?
+ abd_bela, no, I mean VMware player :-)
+ abd_bela, it is from vmware, virtual machine software
+ abd_bela, No, I haven't. I downloaded it directly from VMware website. I don't know that ubuntu have this in repo
+ abd_bela, Yes, I really need it. I'm developing a software and need to test in in several version of ubuntu and also other distributions.
+ abd_bela, I'll try but I doubt there will be something. It is not open source.
+ atlef, thank you, I'll look at it.
+ atlef, I solved it by installing libview2 package
+ it installed a few dependencies and it works
+ Herbs, thank you :-) I'm developing software for Linux and sometimes it is very strange

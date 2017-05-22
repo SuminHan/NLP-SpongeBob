@@ -1,0 +1,4 @@
+ hi, I'm installing natty and I have a problem with grub2 and lvm
+ it is an encrypted disk and grub2 can't probe a disk for my lvm root partition
+ error is: Autodetection of a filesystem of "/dev/mapper/my-lvm-root-partition" failed
+ ok, if anyone cares grub2 has a problem with lvm volumes with dashes, anyone knows how I can rename an lvm logical volume?

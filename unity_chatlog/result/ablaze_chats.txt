@@ -1,0 +1,81 @@
+ hi everyone
+ I hope this is the right place to come to search for a solution
+ in fact, i have upgraded to 10.10 and i was not able to start ubuntu (i have wubi installed) ::: then I used live USB to recover wubldr file and then it starts but it blocks on Ubuntu screen with dots moving underneath and nothing happens ::: what to do please?
+ i m totally newbie and know almost nothing about ubuntu ::: can someone help me please
+ i have already asked ::: i re-ask: in fact, i have upgraded to 10.10 and i was not able to start ubuntu (i have wubi installed) ::: then I used live USB to recover wubldr file and then it starts but it blocks on Ubuntu screen with dots moving underneath and nothing happens ::: what to do please?
+ i have tried recovery mode and i was able to go to the terminal mode
+ is this matters, regarding your question ?
+ suggestion sorry
+ <Dr_Willis> I have tried recovery mode and it worked ::: i was able to go to terminal :::: should i try now with your suggestion or???
+ Dr_Willis: I am not able to use the internet in recovery mode ::: for the sake of information, ubuntu is installed on another computer and i m using another computer ::: so i can use both at the same time ::: so kindly give me suggestions here and i will try them immediately on my ubuntu on other computer :::
+ Dr_Willis: what should I do? I didn't understand ::: sorry i m really newbie ::: i don't know about commands very well :::
+ Dr_Willis: i m just trying to google and using commands and trying to learn ubuntu in this way
+ where are these files please
+ kindly tell me that while in recovery mode :: which option should i select to start
+ ok
+ thanx
+ searching online documentation is really a long way to solve the problem ::: can someone help me here to solve my problem ::: i m totally a newbie ::: and in this way i m learning by practicing :)
+ i would be really obliged
+ i have a computer with winxp and ubuntu (through wubi) installed ::: i upgraded from 10.04 lts to 10.10 and ubuntu stops to start ::: then i used live USB and copy wubildr file to c:\ and i am able to get to the grub menu ::: but after that the computer is stucked on ubuntu screen with dots moving just below :::: i tried recovery mode and it works ::: what should I do to get back ubunto desktop pls ::: i m really a newbie ::: any help will be highly appreciate
+ can someone hep me please?
+ i have a computer with winxp and ubuntu (through wubi) installed ::: i upgraded from 10.04 lts to 10.10 and ubuntu stops to start ::: then i used live USB and copy wubildr file to c:\ and i am able to get to the grub menu ::: but after that the computer is stucked on ubuntu screen with dots moving just below :::: i tried recovery mode and it works ::: what should I do to get back ubunto desktop pls ::: i m really a newbie ::: any help will be highly appreciate
+ and what should i write in place of quiet splash ::: nothing???
+ ok
+ i m trying :::
+ when i remove quiet splash ::: there are log of messages (white on black screen) and at the ned it is stucked on enabling addition executable binary formats binfmt-support ::::: and it is written OK in front of this
+ ActionParsnip: now it is stucked on enabling additional executeable .....
+ what to do now plz
+ kindly help me to sort out my problem :::
+ is there someone available to help me???
+ plz
+ ActionParsnip: i have tried without "quiet splash" and now it is stuck on "enabling additional executable ....." what to do now plz :::
+ and how should i do that plz??? how to do that???
+ i have already tried but not very helpful ::: just kindly tell me that what can i do with this screen :::
+ is there any information which can help me to resolve my problem???
+ ok tell me ::: is there a channel where we help the beginners plz???
+ but what should i search ??? this is the problem ::: i have already searched google with "computer block on ubuntu screen" but i was not able to find the solution ::: so just help me plz and tell how to search :::
+ and i will do that
+ is there someone else who can help plz????
+ anyways thanx :::
+ hi i need some help about ubuntu ::: i m really a newbie ::: and don't know a lot about ubuntu ::: just trying to learn it ::: can someone help me please???
+ jorek: I have winxp and ubuntu (via wubi) installed on my computer ::: i tried to upgrade from 10.04 to 10.10 and ubuntu stopped to restart after upgrade ::: then i searched google for the solution and i used the liveUSB to replace wubldr file ::: and GRUB menu appears now but after that there is only a black screen with Ubuntu written in middle and dots moving beneath this ::: and computer is stuck on it ::: what should i do plz?
+ but now i m blocked on ubuntu screen ::: is there something to resolve this problem plz?
+ jorek: what should now I do to sort out the problem plz?
+ jorek: sorry, it's a purple screen with ubuntu written in it and dots are moving (becoming red and white) :::
+ jorek: i m on another computer with vista :::
+ tjiggi_fo: i have fixed the grub problem ::: now it's not the grub problem but after that it stucks on this screen
+ tjiggi_fo: i just read the megathread link given in your site ::: and i used their method to restore grub menu ::: but now it's not working ::: after that ::: when i use a generic, after that it stucks on purple screen ::: but recovery mode is working
+ jorek: can u help in this regard pls?
+ tjiggi_fo: i tried to remove "quiet splash" ::: should i try this and give u some information which could be helpful???
+ tjiggi_fo: it's true ::: well ::: where i can see log viewer???
+ tjiggi_fo: but i m not able to start ubuntu :( :::
+ tjiggi_fo: yes i have a live USB
+ tjiggi_fo: ok ::: thanx ::: i m giving this a try ::: and i will tell u the results, if i found ::: thanx again
+ tjiggi_fo: i will find the log and boot files in system folder of my live session's system file or it should be elsewhere ::: because i m not able to find this in my system except in live session's sytem files :::
+ can someone tell me how to use wifi internet while using recovery mode console? plz
+ JohnFlux: :( ::: i would really love to do so ::: any help is appreciated
+ nobody knows, how to connect to interent in recovery mode console???
+ JohnFlux: yes
+ it's wlan0
+ JohnFlux: it says "wlan0    IEEE 802.11bg   ESSID:off/any      Mode: Managed       Access Point: Not-Associated      Tx-Power=20 dBm    Retr long limit:7   RTS thr:off Fragment thr:off      Power Management:off
+ JohnFlux: it is wlan0
+ usr13: I don't know how to use this ::: can u explain how to use this plz?
+ usr13 it's console mode only ::: according to my understanding
+ usr13: ther is nothing graphical
+ usr13: unkown command "scanning"
+ usr13: the essid i know or essid ubuntu is showing?
+ usr13: done
+ usr13: what next plz?
+ usr13: waiting
+ usr13: connection timed out; no servers could be reached
+ usr13: it's not "scan" instead of "scanning"
+ usr13: ???
+ usr13: unknown command "scan"
+ usr13: yes
+ usr13: one minute plz
+ usr13: SFR_DA9
+ usr13: not permitted ::: then i used same command with sudo and it worked ::: but with command "host av.com", it gave same result "connection timed out"
+ usr13: it will need key also ::: no???
+ usr13: after giving this command, there is a large file just passing before my eyes ::: and it's only the last page in front of me ::: and yes i have encrypted router ::
+ usr13: thanx anyway :::
+ is there someoone else who knows how to use internet in recovery console mode ???

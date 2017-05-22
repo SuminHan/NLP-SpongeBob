@@ -1,0 +1,7 @@
+ forevertheuni: sudo apt-get install flashplugin-installer
+ forevertheuni: and make sure you have only one flash plugin installed
+ forevertheuni: so what's broken?
+ JoseeAntonioR: no?
+ netbook: should be installed
+ fizyplankton: I have something similar, as of today. not capslock, but numlock is backwards
+ fizyplankton: no, sorry

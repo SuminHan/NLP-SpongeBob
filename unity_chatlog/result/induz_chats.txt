@@ -1,0 +1,13 @@
+ bloopletech, but i really dont know what i am killing as names are not familiar except few like mozila and thunderbird
+ suddenly my comp is running slow
+ what should i do??
+  nothing has changed
+ is there anyway i can find what r the processes running
+  most of the processes r sleeping
+  but available swap is just 3%
+ ps aux throws a list of % CPU and i dont know what to do with them
+ how can i make it run fatser as earlier??
+ its getting better now
+ do i have to perform this KILL process everytime
+ bloopletech, its getting a bit better by killing some of the processes
+ bloopletech, but i really dont know what i am killing as names are not familiar except few like mozila and thunderbird

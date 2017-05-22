@@ -1,0 +1,33 @@
+ I have a problem with my new 11.04 install. The LiveCD booted into Unity with acceleration but now I've installed it I found myself in the old experience. How can I switch to Unity?
+ It current Says Ubuntu, not classic :(
+ Its a new Dell Latitude 6520 with Intel and Nvidia. The additional drivers say installed but not active.
+ Only to remove. The phrase is "activated but not currently in use"
+ Yes
+ "nvidia              10709116  0 "
+ "VALIDATION ERROR: Data incomplete in file /etc/X11/xorg.conf"
+ "Device section "Default Device" must have a Driver line."
+ :)
+ Okay, thats is cleaner. Reboot?
+ Thanks. BRB
+ After enabling the nvidia driver it booted to a black screen. I'm back on the intel driver. Confused how it worked fine on the LiveCD?
+ Yes, the new Dell Latitude 6520
+ Yes... but the LiveCD worked :)
+ Yup
+ Sure, could you tell me how/what you need?
+ Okay BRB
+ Right I've booted into the LiveCD and have Unity
+ That immediately solved the issue - its the i965 driver :) Didnt realise that was accelerated enough to run unity
+ Sorry lost networking for a sec. xdriinfo output is "Screen 0: i965"
+ Okay. Why isn't the i965 being configured by default when I install?
+ Thanks for the link. I'm happy sticking with the i965, but I'm confused why that wasn't selected once I installed as it was when I booted the LiveCD.
+ Dell Latitude 6520, new i7
+ Sorry, E6520
+ I think I need to enable the i965 drivers to enable Unity on this laptop can't figure out how
+ No, there's both in here and the LiveCD works with Unity using the i965 driver
+ Its a laptop so not sure exactly
+ http://paste.ubuntu.com/602759/
+ bazhang, http://paste.ubuntu.com/602759/
+ bazhang: thanks, i'll look into that
+ bazhang, id be happy sticking with the intel driver as that seemed to work fine on the LiveCD and I don't tend to need 3d... is that easier?
+ bazhang - I had Unity working on LiveCD without doing anything - it used the i965
+ bazhang - I'd like to get that working now I've installed

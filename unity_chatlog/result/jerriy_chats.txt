@@ -1,0 +1,64 @@
+ Hi
+ Hi
+ Question: my sudo failed (can't update, can't install apps cant do nothing) Can someone tell me how on earth I should work
+ Can sb help me I have a sudo problem
+ fishhat: yes I can't update/install and all that
+ the problem is what i stated: can't do anything (unable to resolve host"
+ sudo apt-get update  (for example)
+ carl-m: I cant "sudo" so "sudo whoami" is no go
+ yes
+ no after
+ carl-m: I've tried to sort out the issue by reading stuff on the net and stuff like /etc/hosts but I can't see what's wrong
+ carl-m: no I can't gksudo
+ (process:5324): Gtk-WARNING **: Locale not supported by C library.
+ pastebin?
+ carl-m: /etc/hosts ········> http://paste.ubuntu.com/601536/
+ carl-m: "myhost"
+ carl-m: inet addr:127.0.0.1  Mask:255.0.0.0
+ carl-m: meaning I need to add "myhost" to the first line in etc/hosts?
+ I'll try that and will be back (certainly if it didn't work out ;), carl-m
+ carl-m: ···> http://paste.ubuntu.com/601539/
+ carl-m what should it be then?
+ carl-m: yes http://paste.ubuntu.com/601544/
+ What do you mean "pop up a terminal" I can "open" the file
+ if it wasn't a sudo file
+ it does nothing (after it shows the warning or whatever (and if it is for example synaptic or auto update then i tick in the sudo password but then it doesn't even say "sorry" like in terminal
+ carl-m: it now says "Sorry, try again." but hat's cuz I rebooted (if i tried the third time it will again say can't resolve the host
+ carl-m: no I don't get any of that. It's just waiting for the sudo command
+ it means it asks me to type the password (try again... and again...
+ Where do I get it right?
+ I login with my account
+ carl-m: su: Authentication failure
+ carl-m: su username   >> Passworld: >>     su: Authentication failure
+ carl-m: sudo -i  >>> [sudo] password for mypc: >>> Sorry, try again.
+ carl-m: For what reason? That's the question. I have already changed the password in the GUI lemme see what happenes
+ How do I change user password from the command line?
+ sakuramboo: leoechevarria: forget the "sudo" part (my problem is namely that I can't sodo nothing
+ Yes scherbak: I'm the ultimate admin/boss of the pc. Btw I have found out that my root also requires password (don't you guys ask my how on earth this happened) i'll just have to do all that bin bash thing and get round this
+ shcherbak: http://paste.ubuntu.com/601550/
+  shcherbak: my username
+ Yer on to something shcherbak: bash: /etc/hostname_check: Permission denied
+ carl-m su username -c whoami >>> su: Authentication failure
+ I type "sudo cat /etc/hostname > /etc/hostname_check" and I immediately get bash: "/etc/hostname_check: Permission denied"
+ I something is definitely wrong with my authentication setup. I know that for sure
+ I just dunno how to sort it
+ shcherbak: yes I'm asked for passworld
+ shcherbak: I am here posting under that username so doesn't that mean I know and "it knows"?
+ shcherbak: login accepts but sudo doesn't
+ shcherbak: what do you mean type your passworld (just type that alone?
+ shcherbak: gksudo gedit resulted (after me typing password): (process:13892): Gtk-WARNING **: Locale not supported by C library.
+ And then: Using the fallback 'C' locale.
+ shcherbak: For all I know I could be in extraterrestrial terminal.
+ Yes I'm logged into my ubuntu partition and in a gui environment right now
+  shcherbak: I just hit control-alt-F5 and opened up terminal in max mode and was asked to login so I typed my username , then typed my password I did and it went OK :P
+ THE DEVIL! THAT'S it shcherbak: I just noticed that my keyboard isn't typing what's on the keyborard
+ shcherbak: wait I'm trying to find out how to find the right key to my password
+ I'm looking for french E
+ shcherbak: I got the mofo it's é
+ shcherbak I am now updating the bugger and will log out (cuz terminal is still showing the wrong keyboard set up (the gui is fully working and needless to say THANK YOU SO MUCH
+ Hi
+ Can somebody tell me whether the program "screenlets" is no longer updated
+ Dr_Willis: any known reason why that is
+ Dr_Willis:Has it been replaced?
+ What is that Maahes?
+ Dr_Willis:, Maahes: you guys mean the whole widgets/screenlets/gadgets thing is "passé"?

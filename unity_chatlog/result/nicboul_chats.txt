@@ -1,0 +1,4 @@
+ Hello, How can I list default search path /lib/ld-linux.so is using to link shared library
+ my alt-tab is slow as hell
+ my ctrl+alt+(right or left) is slow as hell also
+ since im in 11.04

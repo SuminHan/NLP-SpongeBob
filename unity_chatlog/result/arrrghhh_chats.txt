@@ -1,0 +1,57 @@
+ hey all, is the 2.2tb limit on all 32-bit systems, or just ones that don't use GPT?  i have a 32-bit ubuntu server, and i want to add a 3tb drive...
+ escott, excellent, thanks.
+ alex13, /msg
+ hey all, i have an ubuntu server and an ubuntu client communicating over NFS.  I noticed REALLY slow transfer speeds, like 500k/s.  That's KB not kb... When connected via gigabit, I get 20MB/s (again, not mbps).  Is that expected over wifi?  I don't remember it being this slow.
+ rgr, nothing to my knowledge.  i mean there's been some updates, but nothing earth shattering.  client is on 11.04 and server is 10.04
+ rgr, i guess that changed, the client used to be 10.10, now it's 11.04.  i've noticed slow xfer speeds in Windows as well, but that's over a different protocol (samba)
+ rgr, i'm mounting via IP.  what does DNS have to do with it.
+ rgr, ok thx...
+ rgr, and now it's "fast" again.  2.2MB/s... I don't get it, nothing changed other than the client reboot.
+ rgr, samba has problems too it seems... usually NFS is better.
+ !ot | helo_, this room is for support not for chat.
+ rgr, he was asking something that was highly opinionated...
+ pretty sure i'm not a 'net nannying spammer', thanks.
+ i'm kinda mad a reboot was the fix, but whatever.  i guess i don't need to troubleshoot it any further...
+ Rehan, popular apps i would imagine you put on the bar
+ so it's one click...
+ Rehan, you can always go back to "Ubuntu Classic"
+ lsv, releases
+ lsv, http://en.wikipedia.org/wiki/List_of_Ubuntu_releases if you want to know moar
+ Rehan, up to you entirely.  i wasn't a big fan of it myself.
+ lsv, yes.
+ lsv, sorry.  lsb_release -a.
+ i kept typing lsb_release and couldn't figure out why it wasn't working :P
+ lsv, lol np
+ lsv, also tab-complete should be your new best friend :D.  you can tab complete usernames in here, just type arr -> tab
+ lsv, yea i'm addicted to tab complete in the terminal.  you can do it basically everywhere in the CLI
+ herol3oy, you should use do-release-upgrade
+ herol3oy, i suggest you read the manpage.  if you have we can discuss it.
+ herol3oy, basically dist-upgrade prepares your system for an distro upgrade.  it removes obsolete packages, unlike a regular upgrade command.
+ firestarter is deprecated?
+ bummer, i used to like that when i needed it.
+ ActionParsnip, indeed like any of those
+ owner, jbsoum so ditch it.  go back to the 'ubuntu classic' setting
+ jbsoum, reboot?  i didn't have that issue...
+ jbsoum, gotta be your theme or smth related to it.
+ Juest, it's avail, but not used by default.
+ Juest, is it?  :P
+ !grub | Juest either use these links or figure out LILO on your own...
+ !ot | Ultimate_Chaos
+ [segfault], Emerald, isn't that ancient?
+ !emerald
+ [segfault], ^^
+ [segfault], i don't really mess much with the themes to be honest, sorry.
+ [segfault], i'd assume so...
+ [segfault], i know they drive me batty when i try to resize anything.  i just wish the zone for resizing was larger...
+ notlistening, yes
+ jigynet, i assume you mean how long is it supported for...?
+ jigynet, looks like until october of 2012
+ kingofswords, any?  you're going thru tools -> addons -> extensions?
+ kingofswords, sorry, the first one.  get addons.
+ kingofswords, i assume FF can connect to websites no prob?  have you tried thru addons.mozilla.org?
+ lol
+ ghostnappa, just ask.  don't ask to ask.
+ kingofswords, #android
+ trailoryo, you have FF installed?
+ er flash... sorry
+ kingofswords, register your nick, you really should.

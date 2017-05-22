@@ -1,0 +1,14 @@
+ good afternoon
+ at startup unity session  tells me unity can't run due harware , but if i launch manualy 'unity --replace' unity starts but gnome-panel stays present
+ what can i do please?
+ Incarus6,  i do not like unity-2d
+ ActionParsnip,  nvidia fx5500 173.14.30 drivers
+ pioruns_, it restarts
+ Lungan, you are allowaed to change the shadow of the top panel
+ lehel_,  you can only modify the shadow-panel the rest is hardcoded
+ somebody knows why handle grip is so visible ?
+ good evening
+ there is a priject about zeitgeist and nautilus integration?
+ project*
+ Oins,  middle clic
+ !gnome3

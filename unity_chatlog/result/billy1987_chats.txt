@@ -1,0 +1,15 @@
+ I just want the desktop on 11.04???
+ How do i get the desktop cube going on 11.04?
+ what is ccsm?
+ ok i have that but when i go to enable it it says it needs to disable the desktop wall... i click ok and then it says: desktop wa;; provides the feature LARGGEDESKTOP wich is required by the plugins UBUNTU UNITY PLUGIN... shoudl i do that... i am afraid I will break something
+ well whats it do if i disable the wall?
+ and there is no problem?
+ everything is the same as it was?
+ ok i am going to try it... if my computer catches on fire im blaming you knifepoint
+ yea the largedesktop is what i am worried about
+ i have never heard it say that
+ Is there a way to diable the desktop wall on 11.04 with out crashing my os?
+ is there a way to disable the desktop wall with out crashing my os on unubtu 11.04
+ thank you
+ I just want to be able to use the desktop cube
+ but when i disable the wall it tells me i need it for unity and then it goes crazy

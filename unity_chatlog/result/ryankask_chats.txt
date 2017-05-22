@@ -1,0 +1,30 @@
+ hi all. I've just tried booting 11.04 live cd and i get this: http://www2.ryankaskel.com/misc/images/screenshots/natty-startup.jpg How should I proceed?
+ are maverick apt repositories still going to work?
+ i.e. receive updates
+ are maverick apt repositories still going to receive updates?
+ Pici: thanks!
+ I am trying to boot 11.04 live cd and i see this: http://www2.ryankaskel.com/misc/images/screenshots/natty-startup.jpg
+ usr13: realistically.. i mean 10.10 runs fine but i can't even boot 11.04... any tips?
+ usr13: it's just a bunch of colored lines. it looks like it's a driver issue but i don't know.
+ i can't boot the live 11.04  CD without having a flickering screen with all sorts of colored lines... should i try to upgrade from 10.10 and debug from there? were there any many changes to hardware support in 11.04?
+ is there any way to inspect graphics card issues from the natty live cd?
+ i.e. abort x
+ ohsix:  i'm not getting a black screen i'm getting a flicekring screen
+ ohsix: very hard to see but http://www2.ryankaskel.com/misc/images/screenshots/natty-startup.jpg
+ ohsix: basically i'm running 10.10 fine and i don't see why i can't boot into it. should i just try upgrading? or can i debug like i could if i upgraded from the live CD?
+ ohsix: it's on board intel and nvidia
+ ohsix: where should i report that?
+ ohsix: and should i cancel my upgrade of natty until it's fixed
+ ohsix: hmm i believe i use edgers on 1.10 now... where should i report this?
+ ohsix: if I use edgers now will it upgrading to natty downgrade it?
+ ohsix: ok I've backed everything up I'm just going to give it a go
+ ohsix: where should i report this to?
+ ohsix: it's _very_ blurry but yes i can see text in the screen
+ ohsix: it's _very_ blurry but yes i can see text in the screen
+ ohsix: sorry got disconnected. it's impossible to make out but when I ctl-alt-back i can see the colors reverting to a black screen and shutting donw
+ ohsix: sorry to both you ... where can i find a bug report for the i910 driver?
+ bother*
+ ohsix: i910
+ ohsix: maybe i915
+ [dlp]: what i915 problems do you have>
+ hi all. when I drag a window to the top corner in classic mode, and the arrow goes to the toolbar, an orange outline of the window expands and the window maximizes. how can i stop this?

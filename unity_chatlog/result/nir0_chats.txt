@@ -1,0 +1,3 @@
+ hi guys, after updating ubuntu on my notebook i stacked with starting up. after login pc thinks about nothing for like 10 seconds and says that cannot update .ICEauthority. i tried to adjust rights and ownership of this file - nothing helps
+ can anyone help me?
+ my pc is blocked after update and i have no idea how to cure this, plz help

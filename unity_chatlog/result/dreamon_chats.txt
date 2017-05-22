@@ -1,0 +1,1 @@
+ Hello. since update to natty getting -> resume: could not stat the resume device file /dev/sdb7 -> thats right swap is /dev/sda7 -> changed /etc/fstab and /etc/uswsusp.conf to correct path.but still brings at boot /dev/sdb7 .. confused

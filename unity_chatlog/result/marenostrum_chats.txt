@@ -1,0 +1,164 @@
+ Snakkah, Why don't you plainly use "Ubuntu Classic" interface instead of downgrading?
+ Snakkah, I see; I don't know the answer of your original question.
+ jack123, I had a problem with internet connection at the beginning as well. I deactivate the connection and activated it again. It connected. Then after, everything is normal. I didn't have to do that all the time I boot. maybe this helps.
+ jack123, Didyou have any connection problem with the previous release if you were using it? Maverick, I mean.
+ jack123, I'm almost sure that its something related with some settings (or a need of installing a driver, at worst) but I can not say anything in concrete. Lets Google ubuntu+<your network card>
+ jack123, Yes, I'm here.
+ jack123, nforce 630 a seems to be your motherboard. What is your network card?
+ jack123, Was your internet connection active during installation? Does ubuntu Natty make connection while using the live CD? ıf answers are no and yes; maybe its best to reinstall with a working internet connection.
+ jack123, Was it an alternate ISO?
+ jack123, What happens if you tyr to start from a live CD (not alternate)? Isn't your machine capable of doing that?
+ jack123, Is there a RAM problem?
+ jack123, So what happens when you run live CD? No internet connection?
+ jack123, ıf you aask me, try. If you have a connection, install right then. By the way, I can not get why Ubuntu offers you 4 kernel at the installation. I have never experienced such a thing.
+ jack123, Note kernel. Note driver for the card(s) and try to note the settings for connection, if any.
+ jack123, I googled some and I'm almost sure that it should work.
+ jack123, Alternate: There's an instalation image which is mainly for old machines with not sufficient RAM and you do some things manually with it. I don't advice it. If your machine is OK for a atandars ISO go with it. And try to let Ubuntu to recognize and do the standard installation.
+ jack123, * atandars= standard
+ jack123, ıf connection works with live CD and you install but not have a connection after the initiall reboot, plainly deactivate and reactivate the connection from the GUI (from right top)
+ jack123, I understand it. I say for the next installation.
+ jack123, and other friends: Jack says that Ubuntu is offering him 4 kernels to choose one during installation. What kind of an installation is that?
+ jack123, from what media did you install? I'm still curious about that 4 kernel choice.
+ jack123, no need. try to let ubuntu decide almost all. Except your user name etc.
+ jack123, Don't try to choose kernel type or something. Let the live CD decide.
+ chaospsyX, ısn't it better if jack123 try live CD and if works let the CD make the installation in what way it sees OK?
+ yes.
+ Herbs, Can you figure out the problem?
+ Herbs, Maybe you know: What's that 4 kernel options that Jack is saying? For may Debian and ubuntu installations up till now, I've never asked something like that.
+ may=many
+ Herbs, me too. Because of that I advice a syandard installation.
+ chaospsyX, First I mentioned alternate. Asked if you used that ISO. Then he asked what alternate is.
+ chaospsyX, maybe it was better to ask him the name or md5sum of the ISO he downloaded.
+ Herbs, :( I feel bad for him. I hope he'll solve the problem because I don't think that there's a real problem. (I mean, he should connect.)
+ Herbs, Is there such a chance?!
+ Herbs, I see. :)
+ Interesting. When did I say Firefox to remember my pass for Launchpad? I don't like this. Maybe by an accident but I don't like this!
+ Starminn, I will do so but first I want to see if it remembered it against my will. I want to check (I don't know how to test :) )
+ Starminn, Yea. Thanks.
+ jack123, Yes Jack. I'm here.
+ jack123, What is the ISO you have at hand? name? bd5sum?
+ jack123, You are sure that 64 bit is OK for you?
+ jack123, Interesting but now we know that it works with live CD so we should try to find what is different with the installed system. Friends, any idea to check?
+ jack123, Did it ask anything such as kernel etc. during installation?
+ jack123, ı see.
+ jack123, On both the live CD and the installed system what is the result of uname -a . I mean, lets try to check the kernel versions.
+ jack123, was that one for the installed?
+ jack123, lets check md5sum of the ISO now.
+ jack123, do you know how to do?
+ jack123, Opğen a terminal go to where the ISO is. write md5sum nameoffile.iso
+ I'm waiting here. lets solve this.
+ jack123, There's a tool for windows you can find from download.com : md5summer . You can get md5sum of the ISO with that.
+ jack123, md5summer
+ Herbs, You told jack123 that  2.6.38-8-generic is an old kernel but its the same with mine. Its what for Natty for me as well. And I have a working up to date system. Did I miss something?
+ jack123, yess
+ jack123, What's md5sum?
+ jack123, I'm trying to gind . If any friend has it, check. or wait some please.
+ jack123, md5sum is correct.
+ jack123, original here: http://releases.ubuntu.com/natty/MD5SUMS
+ jack123, here's also how to do it briefly: http://www.ubuntu.com/download/ubuntu/download Look at the burn VD section
+ * CD
+ jack123, waiting. Take your time.
+ Sereph, Good morning
+ serif, Good morning!
+ jack123, Are you here? Burn the CD as an ISO image; NOT data cd.
+ chaospsyX, you2ve metioned by mistake "burn as a data disc". I realized it now. Hope he reads the page I gave. ubuntu howto for tISO burning.
+ chaospsyX, ot should obviously be NOT data BIT ISO image.
+ *but
+ jack123, Why?
+ jack123, OK it means you are burning as an image not as a data CD.
+ jack123, OK. Perfect. Its what it should be.
+ jack123, While installing, if you like, check CD for defects. There's such a option at first. lets guarantee.
+ jack123, waiting.
+ mk0, I didn't try but for gnome3 is not an official package right now... hard to say something.
+ Browser, Hi!
+ Joker_99, I won't say that. :) Question?
+ red, You can upgrade. You should backup your perdonal data files if you like to be on the safe side, especially if you don't have a seperate home partition. You don't need to backup any setting as far as I know.
+ red, the sense of Web upgarade is having your settings on the new release automatically as far as possible.
+ Nielsen, Hi!
+ Xinux, hi!
+ abhinav_singh, Not a must, for some time in the past I had both installed. But purge remove would be better not to interfere anything to Libre Office from Open Office settings or files etc.
+ abhinav_singh, In my opinion. I'm not an expert.
+ abhinav_singh, Then, do nothing to Open Office and plainly install Libre Office. After that, you may purge both and install what you like if you want a cleanly purged install.
+ Lungan, I read your sound problem but can't say anything. I may advice to try it with the live CD and if works there -probably work- try to see what is different in your installation.
+ Lungan, Not a very sophisticated way, but sometimes works.
+ abhinav_singh, By the way, I can assure you that Libre Office is very very good. There's no reason to prefer Open Office. Don't afraid.
+ BOBBY_, have you examine here: https://wiki.ubuntu.com/WubiGuide
+ BOBBY_, ıs it a must to use Wubi way? can't you give a try to CD dual-boot installation if you can't solve Wubi problem?
+ Herbs, So, do you say that Wubi is something which can not be used? Weird. (I have no idea on Wubi.)
+ Herbs, me too :) But friends developing Wubi should konow something. Else, it would be a waste of time to develope it.
+ miles__, I'm on the default theme but I've just tried New Wave and didn't experience your problem. Maybe it helps to customize more after you switch to New Wave.
+ miles__, Go to system settings > appearence. Choose the theme. Then there's a bullet at the bottom saying something as "customize" (mine is Turkish locale, I retranslate). From  there you can make some more settings as I can see. maybe you find something for the text colour etc.
+ casey, I don't have a printer at the noment but what's the problen when -lets say- you try via Libre Office?
+ casey, hmmm. You say jpeg. I don't know that.
+ casey, have a look here: http://ubuntuforums.org/showthread.php?t=398506 Maybe not exactly the topic you want but it seems related and you can modify the solution to your needs.
+ miles__, Are you on Natty? Was it a fresh install or do you have some older settings in your system?
+ casey, You're welcome. Those guys say that they do something to print borderless but I didn't do such a thing. Good luck.
+ miles__, Can home has something to do with those settings? Maybe. What if you add a new user. And choose that theme for that user. I'm saying this because I don't experience the problem with that theme.
+ miles__, Mine is a fresh install.
+ miles__, Can there be a hidden directory in /hme for personal preferences, from the past? Maybe deleting them?
+ sdollins, What's broken lastly?
+ sdollins, On maverick on on Natty? (beginning of the mess)
+ sdollins, ıs it OK now? After reboot?
+ sdollins, I have a report from my brother-in-law. he's on Maverick and says that wireless is broken. It interrupts randomly. I'll go and see. Your sitiation sounded similar.
+ pennnn, And of course, there's "ubuntu Classical" interface which is mainly Gnome2 interface. Its already installed. You can chose it from login screen.
+ sdollins, He doesn't know GNU/Linux well. I should pay a visit. I don't know what is broken.
+ pennnn, Wer'll find a solution. :) We have time for 11.10. For now, we have Classic at hand. No problem. :)
+ sdollins, Try to figure out the problem and bug report if you can do. But, clean install is the solution, of course. :)
+ sdollins, Which one? wireless thing? Can you supply me with the address?
+ sdollins, I see.
+ pennnn, 1- Don't flood. 2- pps is ppa. No one says that PPAs will be compatible. Ask that PPA!s owner.
+ sdollins, Most probably. Yes. :)
+ sdollins, At first, I have had to install some 3rd party driver for him. I don't remember the name.
+ sdollins, good news for his problem. So maybe when I upgrade him there won't be such a problem.
+ jack123, Yesss.
+ jack123, How did you do??
+ jack123, Sorry to hear that. I wish I were near you. Isn't there someone near you who can help?
+ jack123, Would you like me to help step by step on private IRC converstion. From Windows maybe. And wgat's messed up with your Windows installation?
+ jack123, have a look here: http://expertester.wordpress.com/2008/07/27/how-to-remove-ubuntu-boot-loader-xp-and-vista/
+ jack123, This is better, it doesn't need Win CD: http://ubuntuforums.org/showthread.php?t=180607
+ jack123, Grub (bootloder) problem can be solved. If I were you I'll give a try to repair it before uninstalling it. I can help if you like.
+ jack123, All we need is you'll boot from live CD and we'll find a way to communicate with you while you are there.
+ Do you have a second machine?
+ jack123, Dou you have a 2nd machine near you?
+ jack123, You'll get mad, but its Ubuntu. And you may try, fedora.
+ jack123, If I need to name another distrı I'll say Fedora.
+ jack123, Dont mess up Grub bootloder more. If the CD at hand is not brıken, try to install with it again. or try to install lets say Fedora to that partition. It will most probably install Grub bootloder again and you'll have Fedora at hand and your Windows untouched.
+ jack123, Do you have many critical unbackuped data on your Windows partition?
+ jack123, I see.
+ sdollins, Nice to hear. :)
+ abhinav_singh, Nice to hear that you like Libre Office.
+ sdollins, I'm with you. No one says that LTS is more stable than a non-LTS release. LTS is just long term. For those server things; not to have need to install, upgrade every 6 months. Bug is bug. Fault is fault. No matter in LTS or non-LTS.
+ Herbs, Why do you say so?
+ sdollins, I see. fresh install!
+ maheanuu, I, too, use just GIMP. I do many things with it. But I'm not a professinal and I even don't know 90 % of it maybe. But I can do pretty much things witjh it. Without GIMP life would be really hard for me.
+ sdollins, What's in your mind? Alternative?
+ Herbs, No I didn't say that GIMP isn't in repos. Its there. I have already installed. He asked about the favourite photo editors. That was my answer.
+ sdollins, If to be frank, I'm not a fan of Unity as well. I don't have a netbook and I still don't see the point why I should use it on a desktop. But I trust ubuntu leading team and I'll seriously try it and try to see what's in it for me. We know Gnome 2. And we'll see Gnome 3 as well. For now, Ubuntu Natty's two choice is OK for me. If not Unity, there's classical choice.
+ Starminn, You mean from ppa. First I want to experience Unity. Then, I'll give it a try.
+ Starminn, And I'm not sure Gnome3 from ppa will give a good result with Natty, especialy for a production machine as I use. Maybe I need an experimantal machine.
+ Starminn, I have very bad feelings for SUSE because of some non-technical reasons. I may try from Feddora live. Or I may install from ppa on Natty these days and then make a fresh Natty install again before I set up everything on Natty.
+ Starminn, Nowadays to try Gnome3 the best way seems to be Fedora -from live CD or install.
+ Starminn, But I'll just try. My main OS is Ubuntu. ubuntu Natty.
+ Starminn, Trying is something else but I made my mind that Natty Narwhal is OK for me for the next 6 months.
+ Starminn, I noted the reversal process issue. Natty instal is very new now. I may try PPAs Gnome3 today and tomorrow and then make a fresh Natty install. :)
+ Starminn, I don't advice anybody to try Gnome 3 from PPA on a production machine. That will be a Russian roulette. :)
+ envygeeks, Nice for ppa but I won't install it on an established machine with no plan to fresh install.:)
+ lifeofguenter, Hello!
+ AG_Scott, Can it be /home/.purple
+ AG_Scott, :)
+ nags_, To the chanel directly, please.
+ *chanel
+ nags_, Please have a look here: http://ubuntuforums.org/showthread.php?t=1117827 This is abou the CPU.
+ nags_, You're welcome. Hope it was useful.
+ Rahber, An old forum thtead bıt may be useful: http://www.webupd8.org/2009/09/dependency-is-not-satisfiable-libnss3.html
+ nags_, Might be better. And keep in mind the address: askubuntu.com There you can have nice answers as well.
+ nags_, There are many friends who knows a lot about hardware and servers thete on askubuntu.com
+ nags_, Wish you luck.
+ js__, Your problem shouldn't have to to anything with Unity interface. I'm on Unity as well but don't experience the problem. I try to think about it but, sorry, I couldn't figure out anything. By the way, is there any other problem with the system? Is the terminal the default one, gnome-terminal?
+ js__, So its definetely not related with Unity. But what? Lets google some.
+ js__, Some did. Would you please wait for me for a couple of minutes?
+ js__, Not sure about the solution but found something similar. 3 minutes.
+ js__, 1st link: https://bugs.launchpad.net/ubuntu/+source/compiz/+bug/252144  Its an old bug and should be fixed but mat give an idea. There's one more. Coning.
+ js__, ıs there any hint for the solution for you? I'm not experiencing the problem.
+ js__, Did you make a fresh install or Web upgarade? Did you make changes to Compiz?
+ js__, I see. So I can't say anything why you have the problem and why I don't. Wish luck.

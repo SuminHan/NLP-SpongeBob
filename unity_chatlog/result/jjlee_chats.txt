@@ -1,0 +1,14 @@
+ How do people bring up their iptables firewall these days?  I used to use if-pre-up.d, but network manager doesn't call those scripts any more.
+ brous-kee: maybe, thanks
+  I just reinstalled my OS.  I'm using same home dir, OS release (ubuntu maverick), hardware -- only change is the disk I booted from.  Old install: kaffeine works fine, flashplayer-nonfree (Adobe Flash ns plugin) works fine.  New install: no sound from kaffeine, nor flashplayer-nonfree.  On new install, aplay -Dplughw:1,0 random.wav works.  On the old install, I believe I didn't need the -D argument.  On the new install, apl
+ ay hangs without that argument.
+ So why no sound from kaffeine / flash player?  Where should I be looking?
+ jcmarini: what are you doing to try to burn DVDs?  What happened when you did that?
+ Lcawte: you don't have a backup already?
+ Lcawte: that's unfortunate
+ Lcawte: get that knowledge
+ Lcawte: do you have actual data on there (databases, files), or just configuration?
+ Lcawte: sounds like you have access to your files?  Back them up now.
+ Lcawte: no playing with partitions is needed.  Just back up *your* data -- not the whole OS
+ Lcawte: if you don't have *any* other storage (CD-R?), get a gmail account, tar it up, and mail it to yourself, or something
+ Lcawte: If *you* don't expect yourself to do that, you're likely to eventually lose all of those things

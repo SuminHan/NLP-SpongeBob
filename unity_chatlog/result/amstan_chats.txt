@@ -1,0 +1,19 @@
+ hello, i would like to install the haskell packages from debian(http://packages.debian.org/sid/haskell-platform). Is there a way to neatly do this without updating all non haskell related packages?
+ iceroot: i know, i'm good for that, but.. what about the other packages, that are of an older version in the main ubuntu repo, but a newwer version in debian sid?
+ iceroot: won't they try updating?
+ iceroot: yes, i don't want to do that, i only want to have those haskell packages being updated
+ iceroot: is that possible?
+ ActionParsnip, iceroot: yes... i get that it's not supported, but the package from ubuntu is broken, and building from source is not an option
+ ActionParsnip: if you can find me one, i'll be happy to use it
+  haskell-platform : Depends: ghc6 (< 6.12.1+) but 6.12.3-1ubuntu7 is to be installed
+ ActionParsnip: apt-get install haskell-platform does that: https://bugs.launchpad.net/ubuntu/+source/haskell-platform/+bug/742052
+ ActionParsnip: natty
+ ActionParsnip: decent, how did you find it? i tried for 15 minutes
+ ActionParsnip: it didn't like me: http://pastebin.com/miqTQJ4c
+ ActionParsnip: yeah, so that repo was the only one that had ghc for natty
+ ActionParsnip: well... still, is there really no way to use the debian repo, without having everything get updated(except the haskell)?
+ ActionParsnip: maybe change it to lower priority or something...
+ ActionParsnip: so i have a bunch of debs now, for my haskell install, i would like to make it easier for myself to use them, can i create a ppa with them in there?
+ ActionParsnip: they're unmodified, just downloaded them from the ubuntu sid repo
+ ActionParsnip: i know, but i want a ppa, or something similar to host them for other comps
+ Rehan: no

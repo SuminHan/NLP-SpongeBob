@@ -1,0 +1,1 @@
+ does wine run under unity menu on ubuntu 10.10?

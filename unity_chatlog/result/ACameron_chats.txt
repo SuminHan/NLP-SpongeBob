@@ -1,0 +1,32 @@
+ Hey all.  In the middle of upgrading from 10.10 -> 11.04; got told to consider submitting a bug report about monodoc-base failing to install.  Where do I report this bug?
+ ohsix: thanks.
+ anybody else had issues with the monodoc-base package during the upgrade, yet?
+ it looks like there are a bunch of bugs about it in Launchpad
+ hey gang, I'm doing the update through the X gui; where do I grep for errors?
+ would it be on dmesg..?
+ I'll be doing another report this term and it's not even an official co-op term
+ done six already
+ mischan; sorry =X
+ Any reason I should have gotten this error while upgrading? "The upgrade has aborted. Your system could be in an unusable state. A recovery will run now (dpkg --configure -a)."
+ ChronicSyncope: yeah, I know. :) But I didn't cancel the installation, and the only problem was with monodoc-base.
+ Hi all.  The upgrade from 10.10 -> 11.04 really messed up my system and I would just love some help getting my computer to even reach the BIOS.
+ zachgretzinger: Given that my computer barely boots, I'm not sure how to answer that question.  How can I find out what you're asking?
+ zachgretzinger: I mean, I can't even reach GRUB to boot my Windows partititon.
+ *partition
+ zachgretzinger: I turn it on, and the screens receive zero input.  Not even the screen that the BIOS puts out saying, "I'm booting up!" before I see GRUB.
+ When I say it says "I'm booting up", I mean that figuratively.
+ It actually has the motherboard logo on it, and so on.
+ zachgretzinger: I will cross my fingers.
+ zachgretzinger: Unfortunately, I have no sandwiches, and without a terminal I can't order my roommate to make me one.
+ zachgretzinger: Any other ideas? multiple hard reboots have been unsuccessful so far.
+ zachgretzinger: if I could boot, maybe I could wipe my drive...
+ zachgretzinger: even though I really don't want to.
+ zachgretzinger: I apologize if I get snarky; it's not you, it's my computer, and it's very late for me.  Please don't take it personally.
+ zachgretzinger: No, although I think I could manage a LiveCD.
+ zachgretzinger: although, again, not sure how I'm going to boot from it.
+ zachgretzinger: Heh, sounds like some of my coworkers this summer.  Haven't met any of them yet, but they're german and working in NYC.
+ zachgretzinger: install it on.. my unbooting computer..?
+ oh, I see
+ OK, so use Unetbootin to create a DSL bootable thumb drive?
+ thanks zachgretzinger, truepurple.  I think I'm going to pass out for now and grapple with this some more in the morning.
+ Looks like any plans of playing Portal 2 tonight will have to wait.

@@ -1,0 +1,16 @@
+ hi why would unity display little static(as in tv static) screens everywhere where an icon or menu should be?
+ why would unity display little static(as in tv static) screens everywhere where an icon or menu should be?
+ why would unity display little static(as in tv static) screens everywhere where an icon or menu should be?
+ bastidrazor: funny, but it looks like memory from gpu in graphical form;)
+ bastidrazor: raw memory from gpu in graphical form;)
+ botcity recent upgrade when it asked i agreed
+ botcity: recent upgrade when it asked i agreed
+ botcity: gpu is ati asus ah 3450
+ botcity: i hard restarted it onece and it showed me this static, hard reset again, only first screen showed, so tty1 remove unity, restart ubuntu told me that my hardware can't  use unity(douh unity was gone by that time), another hold, restart gdm
+ botcity: and now i'm using classic
+ botcity: any idea why i had this tv-like static?
+ botcity: what do you mean 'correctly' it works now and worked before unity
+ botcity: i got simmilar tv-like static only on boot screan never when the desktop loaded fully
+ botcity: yes, but why? you know i wanted to try this 'unity' and stuff
+ botcity: but it does not work for me, and i don't know why
+ botcity: thanks for help :)

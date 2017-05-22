@@ -1,0 +1,55 @@
+ hello
+ how do i change my screen resolution?
+ ... where is preferences?
+ minute
+ hey guys
+ is there a channel for musicians?
+ hello
+ 11.04 is my first linux os
+ hey
+ is there a package that has drivers that deal with ps3 controllers?
+ is there a package that has drivers that deal with ps3 controllers?
+ eamon, so i dont have to download any packages?
+ hey guys, i need some help with terminal
+ it's asking me for my password but nothing i type comes up
+ thanks
+ can someone help me go through this tutorial: http://www.ehow.com/how_7729420_use-ps3-controller-ubuntu.html
+ im confused:"Type the following command to switch to the download directory: cd /home/user/downloads Replace "user" with your user name." i typed this in terminal and it said the dorectory doesn't exist
+ hey can i get some help with something?
+ i type in "cd /Home/adam/downloads" and it sais the directory doesn't exist
+ i didn't work either way
+ ok ill try
+ ok i got it
+ hello
+ im following a tutorial at:http://www.ehow.com/how_7729420_use-ps3-controller-ubuntu.html
+ when i type in a certain command, this comes up "unable to retrieve local bd_addr from 'hcitool dev' (line break) please enable bluetooth or speccify and address manaly"
+ i need some help
+ when i type in a certain command, this comes up "unable to retrieve local bd_addr from 'hcitool dev' (line break) please enable bluetooth or speccify and address manaly"
+  im following a tutorial here: http://www.ehow.com/how_7729420_use-ps3-controller-ubuntu.html. when i type in "sudo ./sixpair, this comes up "unable to retrieve local bd_addr from 'hcitool dev' (line break) please enable bluetooth or speccify and address manaly"
+  im following a tutorial here: http://www.ehow.com/how_7729420_use-ps3-controller-ubuntu.html. when i type in "sudo ./sixpair, this comes up "unable to retrieve local bd_addr from 'hcitool dev' (line break) please enable bluetooth or speccify and address manaly"
+ yes
+ it sais no suck device
+ and i have my controller plugged in
+ still nothing
+ ok
+ says no ddevices still even though it is plugged in
+ should i try rebooting with the controller plugged in?
+ is there a playstation emulator for xubuntu?
+ hey guys, i plugged in a controller, how do i configure it?
+ hey guys, i plugged in a controller, how do i configure it?
+ a gaming controller
+ like the brand?
+ a usb recoil controller is all i know about it
+ gimme a minute and i can have details
+ ok its a GGE909 PC recoil pad
+ oh
+ poop
+ yeah, nothing happened
+ how do i enable my wireless?
+ umm i would have to install it first
+ gimme a minute to copy this down
+ it says "Error opening /dev/input/js0! are you sure you have joystick support in your kernal?
+ how do i enable my wireless network?
+ nope
+ i should do that now
+ ya my laptop IS pretty dam old

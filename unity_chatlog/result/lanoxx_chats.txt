@@ -1,0 +1,8 @@
+ heroprimeremix, with sudo?
+ heroprimeremix, are u using the gui or console?
+ heroprimeremix, if you have a zip file then unzip if its tar.gz then use tar such as tar -xvzf xyz.tar.gz
+ heroprimeremix, if it is a zip file then its sudo unzip xyz.zip
+ heroprimeremix, try man unzip or man tar for more information
+ heroprimeremix, then its sudo tar -xvzf filename.tar.gz
+ heroprimeremix, it will unzip in the current directory
+ heroprimeremix, you can add -t to see what will be extracted

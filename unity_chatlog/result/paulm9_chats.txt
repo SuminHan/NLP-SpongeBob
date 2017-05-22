@@ -1,0 +1,3 @@
+ hi, I'm trying to get postfix to relay mails via exchange.   i'm getting SASL authentication failed because of authentication unsuccessful. Could this at all be caused by an Untrusted TLS connection?
+ hi, where can i get help with setting up postfix?
+ stegf: thanks

@@ -1,0 +1,38 @@
+ Anyone else having lag on compiz after uptime for a day or so
+ Also nautilus is heavily leaking memory on my system.
+ nikolai`: you might be having an issue similar to me.. when i move windows around, wobbly windows lags. But only if i havent restarted in a day or so
+ nikolai`: so i guess the question is.. does it always do it?
+ Hmm ok im not sure then
+ I want to blame compiz bugs
+ victorhugo289: That is pretty old. It might be too old for all of unity.
+ victorhugo289: you shouold be able to do like a lowquality unity or something
+ yea like LjL said..
+ victorhugo289: Terminal.. sudo apt-get install unity-2d
+ ya?
+ victorhugo289: i just checked its in software center too
+ i wasent sure if they listed it there
+ dynoboyz: Does it exist?
+ dynoboyz: seriously though, have you checked for it with gparted or something?
+ o ok
+ then how is it not recognized?
+ dynoboyz: Like.. What is it not recognizing.. Like in nautilus?
+ dynoboyz: ... That could have destroyed the partition
+ dynoboyz: Your best bet is to attempt data recovery.
+ dynoboyz: https://help.ubuntu.com/community/DataRecovery
+ dynoboyz: It could get messy. There are also some easier applications in the ubuntu software repos
+ praveen: Are they windows computers?
+ or linux?
+ ok
+ praveen: Is samba setup correctly on your pc?
+ dynoboyz: you may have lost everything. Hopefully have backups or find professionals to recover it, hard to say how much can be saved from a half edited partition
+ praveen: Most likey an issue on the individual windows computer then.. check security settings
+ calamari: I feel like ssh has some sort of keepalive
+ i'm not an expert on it though lol
+ calamari: im pretty sure its controlled by upstart which would explain it
+ praveen: It could be an issue on either end..
+ calamari: mhm
+ praveen: Perhaps an issue w/ the version of windows. Or some random samba issue
+ jdl: ... Um Download. Done?
+ praveen: ask #samba? lol
+ Ok. im done for now..
+ later

@@ -1,0 +1,11 @@
+ how do I configure my ubuntu desktop on my network for static IP address?
+ I am googling to change maveric from dhcp to static ip on local network but am getting a range of ways to do it - how do I change from dhcp to static IP on my maverick box on my local network?
+ serene, will thanks for the input - I do have gnome running...
+ escott, yes that sounds better/easier... do you have a url with instrructions?
+ escott, I have a wrt54g2 linksys with 1.0.01 firmware - checking options for mac addresses
+ escott, I dont see any options to assign ip to mac address?
+ escott, googling tomato
+ !staticip
+ escott, yes I found it but still would be without the understanding of how to config for static ip
+ escott, right... so I could flash the firmware and still not know how to assign ip address to mac addresses
+ escott, thanks looking now

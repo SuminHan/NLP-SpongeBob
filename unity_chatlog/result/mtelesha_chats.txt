@@ -1,0 +1,2 @@
+ upgraded my son's lenovo S12 from 10.10 to 11.04 no gmd just boots to background image and I can clt-alt-t a terminal. Can I redo the upgrade?
+ gmd = gnome login manager where you type in your name and password

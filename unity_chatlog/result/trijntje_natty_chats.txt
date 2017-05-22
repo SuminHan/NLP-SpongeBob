@@ -1,0 +1,1 @@
+ Hi all, is it possible to take your upload/download statistics from transmission to your next install?

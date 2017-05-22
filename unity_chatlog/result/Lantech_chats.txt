@@ -1,0 +1,8 @@
+ Hello
+ I've migrated a win7 install with Wubi to an SSD.  Then, I moved the wubi install to a "real" install on a partition.  Now, I'm upgrading to 11.04.
+ Do I need to do any tweaks RE the SSD?
+ in terms of trim support or anything?
+ No?  Yes?  Maybe?  Fuck off Lantech?
+ sigh
+ yeah, thanks.  tell me again.
+ TIL this channel sucks

@@ -1,0 +1,1 @@
+ hey guys, does any of you know where gnome stores the user profile data (the one from System -> About Me)? Specifially, I'm interested in the profile picture.

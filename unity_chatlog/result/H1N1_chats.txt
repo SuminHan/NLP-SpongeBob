@@ -1,0 +1,3 @@
+ libxtst is installed . i can see it in usr/lib when when i compile my application using "gcc".it is giving Error of libxtst like this:-
+ Error-> /usr/bin/ld: cannot find -lxtst collect2: ld returned 1 exit status
+ Error-> /usr/bin/ld: cannot find -lxtst collect2: ld returned 1 exit status.......................[libxtst is installed . i can see it in usr/lib when when i compile my application using "gcc".]

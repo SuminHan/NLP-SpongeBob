@@ -1,0 +1,214 @@
+ does anyone know how I take my NIC out of monitor mode or restart it?
+ walent, system/adminstration/language support
+ Holek, right click the desktop, last option
+ walent, then u need to install the language pack from ubuntu software center
+ does anyone know how I take my NIC out of monitor mode or restart it? escott?
+ Ubuntu_user, whats the problem you are having?
+ escott, just "iwconfig"?
+ escott, ty ty
+ Ubuntu_user, Holek u have a nvidia?
+ Holek, that is normal behaviour. if you want more theme configuration you have to install tweak ubuntu or ccsm for compiz
+ Holek, however u should be able to turn on effects thru that method i described
+ Ubuntu_user, is ubuntu using the nvida drivers?
+ Ubuntu_user, sorry u are having the booting issue correct? the pastebin from earlier?
+ Holek, in ubuntu natively thru the theme option in right clicking should allow you a) pick a theme and b) pick the level of desktop effects. this does in fact work correct?
+ Ubuntu_user, ok, so we need to fix your boot settings?
+ maximus_, its  good idea to put the swap on a physically seperate volume
+ Holek, ok, thats above my paygrade, your gonna need a them builder or whatver.... have you tried tweak ubuntu? it has many visual tweaks available
+ Holek, tweak ubutu should be, or the PPA is easily findable thru google... but i think its in the native repos yes
+ Ubuntu_user, still here? can you mount your window drive in ubuntu?
+ neckoox, dns does not include port information
+ Ubuntu_user, u can mount your windows drive in ubuntu?
+ Ubuntu_user, by answering the questions :) Can you mount your windows drive in ubuntu? can you see your windows files?
+ Ubuntu_user_, ok, thats good :) so when you boot, u get the grub boot menu yes? the one which allows you to choose ubuntu?
+ Bluebill-Wolf, hello no
+ Ubuntu_user_, wait im confused... on that menu there was an option for ubuntu and for windos7 yes?
+ Ubuntu_user_, ok. but once you selected windows, the NEXT TIME you booted, the ubuntu boot menu was gone, and instead you got "no OS found"?
+ Ubuntu_user_, hrmm ok thats weird.
+ Ubuntu_user_, ok so how did you boot into ubuntu THIS time?
+ Ubuntu_user_, Ok.. how did you manage to boot windows if "no OS found"?
+ Ubuntu_user_, ok download a freeware app called "EasyBCD" for windows
+ Ubuntu_user_, ok, then make sure your windows menu looks legit then add an entry for your ubunut partition...
+ Ubuntu_user_, no, win7 doesnt use boot.ini
+ Ubuntu_user_, i want you to boot windows and using EasyBCD add an entry for "linux" in its options
+ Ubuntu_user_, windows really likes to be primary, so your best bet is yo use windows boot menu and ad an entry that points to your ubuntu partition... then when u boot u can pick either OS or switch between grub and winload.exe
+ Ubuntu_user_, basically you want to make an entry for windows in grub (u already have it seems) and make an entry for ubuntu in windows...
+ Ubuntu_user_, make sure you are not deleting any entries to either, you are just adding them
+ Ubuntu_user_, its not a ubunut rpoblem man, its a winload.exe problem. reinstaling ubuntu wont do jack
+ gib0t, menu editor in system/preferences ?
+ gib0t, im on 10.10 look for something called "Menu Manager"
+ harpal, u need to edit the windows partition. can u boot windows?
+ harpal, download "Grub Customizer" it has a PPA .. google it
+ sam16, for the next little while yes. let the nerds work out all the bugs.. im gonna wait for 11.10 personally
+ sam16, 10.04 should be the most stable...
+ Thriky, stick to it
+ sam16, ya 10.10 is nice
+ what NOC?
+ NOC, thats pretty broad... email from your page?
+ NOC, #apache
+ !apache
+ NOC, #apache
+ !smtp | NOC
+ does kismet have a proper GUI? like a gnome interface?
+ gtklocker, where are you getting your CD's from?
+ gtklocker, FROM WHERE?
+ gtklocker, karmic koala seems like old software. get a 10.10 ISO and use that
+ Dominater, why wouldnt u just install xubuntu?
+ gtklocker, what are you picking as your GUI? have u tried just using the default (gnome)?
+ Eduard, they are up to nvidia 173 now... but i dont know if thats for your card or what...
+ escott, i tried running "sudo iwconfig wlan0 mode Auto" but I get "SET failed on device wlan0 ; Invalid argument." ?
+ escott, yes
+ escott, is there a way I can just restart it and let ubuntu do the config as if it was a rebbot/logout ?
+ does anyone know the modes for an intel 345ABGN ?
+ escott, modes is "Managed" on an intel
+ Elssha, just install ccsm...
+ im trying to download a torrent but it sasy the filename is too long... anyone know the option in Transmission or another fix?
+ Elssha, whats the screwup? you are likely in conflict between your WM and compiz?
+ ccsm
+ Elssha, than you can reset those properties THROUGH compiz ccsm
+ is there a way to safely delete my swap partition and add it to my existing filesystem?
+ escott, dotblank i have 8GBS of physical memory... is running out a likely problem?
+ dotblank, gotcha... now this swapoff... i can just run that through a terminal window?
+ dotblank, i can run swapoff and then boot some other OS to grow the partition... sound right?
+ dotblank, i can just nuke it?
+ dotblank, maybe aill swapoff just to be safe then boot windows and extend the partition... sound safe?
+ dotblank, because its ext? i should use a linux grow util like parted then?
+ dotblank, escott thanks guys, wish me luck!
+ anyone know if kismet appeneds or overwrites log files?
+ ohsix, no ubuntu
+ does anyone know the repo for backtrack?
+ cpgeek, ya go back to 10.10 :)
+ demlasjr, whats up?
+ demlasjr, i think u have to use the hex key and not the plaintext pw
+ are the firefox repos just broke today cuz of the update or what? i got one patched at 8am but no luck since then
+ any thoughts on how 11.04 is gonna perfrom on 2gugs of ram?
+ Viking667, what size swap should I use?
+ any way to use gnome in 11.04 or should i just suck it up an use unity?
+ is unity better somehow or why the change?
+ arkanabar, id just install lubuntu if i wanted that :)
+ lololol
+ merther, grep!?
+ hey guys I want to setup a remote GUI terminal from my windows box to my ubuntu box. what am I looking for?
+ Buddhacz, yes exactly
+ Buddhacz, that has a client for windows I'm guessing?
+ KNUBBIG, Buddhacz and it uses SSH or some other encryption...?
+ Buddhacz, ok but itll let me do a remote desktop.. im not much on the command line...
+ ok so VNC it is
+ vanguard, reboot
+ what size swap partition should I use on a 32 bit laptop with 2gb of physical ram? ubuntu 10.04...
+ zvacet, will more increase perofrmance or anything...?
+ so 4gb kowen ?
+ kk
+ tepster, ya and its a good idea
+ Nexxy, does your vcard support that resolution?
+ how do i enable VNC server on 10.04... is it installed by default?
+ is VNC installed by default in 10.04?
+ does ubuntu ship with a native firewall?
+ Can someone help me with VNC real quick? I'm trying to connect from TightVNC on windows to my ubuntu machine but keep getting the error "Server did not offer supported security type!"
+ Can someone help me with VNC real quick? I'm trying to connect from TightVNC on windows to my ubuntu machine but keep getting the error "Server did not offer supported security type!"
+ ActionParsnip, can you help me with VNC real quick?
+ ActionParsnip, what do you use?
+ Can someone help me with VNC real quick? I'm trying to connect from TightVNC on windows to my ubuntu machine but keep getting the error "Server did not offer supported security type!"
+ Can someone help me with VNC real quick? I'm trying to connect from TightVNC on windows to my ubuntu machine but keep getting the error "Server did not offer supported security type!"
+ Can someone help me with VNC real quick? I'm trying to connect from TightVNC on windows to my ubuntu machine but keep getting the error "Server did not offer supported security type!"
+ Can someone help me with VNC real quick? I'm trying to connect from TightVNC on windows to my ubuntu machine but keep getting the error "Server did not offer supported security type!"
+ how can I check if SSH is active and listening?
+ shcherbak, and if I dont see ssh or 22 then I can assume its not running?
+ shcherbak, i get 'unknown service: ssh'
+ shcherbak, sorry "ssh: unrecognized service"
+ Fireblasto, right click the panel, properties
+ oooohhh openssh-server i dont think is installed
+ shcherbak, success!
+ ohffs
+ shcherbak, see above
+ shcherbak, i cant get VNC to work :(
+ shcherbak, ya looking thru the ubuntu wiki here it says u have to have SSH tunnel first, which i have and is working...
+ shcherbak, ok thanks for the help with SSH
+ uggghh... where can I go for VNC help?
+ ok, outside of VNC what are my remote desktop options for ubuntu?
+ is there a good guide on optimizing GNOME for VNC (ie. make it faster?)
+ mickster04, ya i saw that for setting up my VNC over SSH.. now i just want it to be more responsive
+ how do i knock down the color depth on gnome desktop?
+ !wlan | lacan
+ what do I have to put in /etc/network/interfaces to make an interface start automatically when the computer boots?
+ what do I have to put in /etc/network/interfaces to make an interface start automatically when the computer boots?
+ ajdonnison, can you maybe tell me ahwere i need to put the auto? http://pastebin.com/uMis1nxE
+ ya i did and its useless
+ ajdonnison, I just need to make is start when the PC boots.... dont know where to put the 'auto' stanza
+ ajdonnison, I read the ubuntu WiFiWiki pretty thoroughly
+ ty llutz
+ hrmmm didnt take
+ faryshta, #aircrack-ng
+ How do I get a wireless connection to auto start with the computer instead of on log in?
+ llutz, im trying to avoid network manager.... but are you sure cuz I looed thru it pretty thoroughly...?
+ llutz, also network manager doesnt start until gnome does...?
+ hrmmmm
+ llutz, just "networkmanager" from the command line?
+ DirtyDawg, plug your laptop in
+ sorry llutz how do i get to the network manager?
+ sje2, how do I open it?
+ brign up the gui or whatever...
+ sje2, no i dont want the applet
+ sje2, ok.. im going off osmeone else tips but maybe u know... how can I manually configure a wifi interface to start and connect when the computer boots instead of when I log in?
+ Can anyone tell me how to manually configre a NIC to start on boot instead of when I log in?
+ Can anyone tell me how to manually configre a NIC to start on boot instead of when I log in?
+ shcherbak, ok i think i had my auto statment in the wrong place
+ faryshta, rebooting
+ ffs didnt work
+ Can anyone tell me how to manually configre a NIC to start on boot instead of when I log in?
+ Dr_Willis, a wireless one
+ Can anyone tell me how to manually configre a wireless NIC to start on boot instead of when I log in?
+ !wicd
+ lollo64it, i stumped the bot
+ usr13, what is wicd?
+ usr13, Pici is that a replacement network manager with more options?
+ usr13, does it have a gui at all?
+ usr13, also it isnt using dhcp, will that be a problem for wics?
+ wicd
+ usr13, ya
+ usr13, does networkmanager basically overule everything i put in /etc/network/interfaces?
+ usr13, well.. is there a way to tell network manager not to config a certain card?
+ usr13, any link or info?
+ usr13, and then interfaces will be used when I boot intead of when I log in?
+ usr13, ok thanks. I'm go try that
+ PatrickC_Pre2, yes
+ logesh, "/j #<channelname>
+ iggyology, ya use "gksudo" instead of just "sudo"
+ iggyology, alternately u have to check "Run in Terminal"
+ no
+ logesh, "/j #<channelname>
+ MethedMan, OpenOffice + Latex
+ iggyology, edit the shortcut
+ ChrisBuchholz, you can edit your keyboard shortcuts thru the menus
+ MethedMan, install open office and the latex plugin for it through ubuntu software manager
+ codingenesis, if u want to program PC's, dont bother with assembly language
+ MethedMan, google is your firend! (i dont use sci notation)
+ usr13, ok i removed the network manager applet and now I have 0 network connections.. crap
+ iggyology, that means u are running the command as root
+ iggyology, if your shortcut requires it, use gksudo instead of "sudo" in the command part of the launcher
+ iggyology, if however, there is no "sudo" in the lanucher, then u need to create the lanucher and check "Run in Terminal"
+ Weems, theres a grub editor in the system menu
+ iggyology, in the lancher properties under Command
+ Weems, GRUB something
+ Weems, prolly grub editor
+ lampe2, yes, install tweak ubuntu
+ iggyology, right click the icon
+ iggyology, are you in openbox or....? what do you mean by "launcher"?
+ iggyology, so you added a panel...? there are no left side icon bars in native ubuntu (10.10 at least)
+ iggyology, so create a working shortcut on the desktop, then add it to the panel
+ How do I start an interface with the settings in the interfaces file?
+ how do I mount a cd to E: ?? Ubuntu Software Centre wants the CD on "E:"?
+ zizban, well it mounts it to /media/cdrom
+ zizban, but software centre wants it on "E:\"
+ zizban, no ubuntu
+ zizban, yup
+ zizban, im trying to add the CD as a sofwtare source so I can reinstall network manager applet
+ zizban, ya, it does that... but this is ubuntu software centre
+ zizban, no network connection
+ usr13, left me without a net connect... i unnstalled the manager and now i cant get the cards to connect to the internet...
+ usr13, man, i cant get any network connections now that i uninstalled the network manager... grrrrr
+ bcoop, theres a keyboard shortcuts option in the system menu
+ usr13, ya i tried that
+ usr13, ya and now my only option is reinstalling ubuntu to get the damn network manager back
+ usr13, they wont connect to their essid
+ only in ubuntu does it take 3 days to set a static IP address. yeesh.

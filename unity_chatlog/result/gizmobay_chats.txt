@@ -1,0 +1,2 @@
+ I had problems booting so I removed the nvidia drivers and I'm using Nouveau drivers but it only works in classic mode. Am I missing something? Glxgears works.
+ 11.04 that is

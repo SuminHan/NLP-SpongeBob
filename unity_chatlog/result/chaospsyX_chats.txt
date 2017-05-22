@@ -1,0 +1,159 @@
+ finally I got my wireless usb adapter working in 10.10!
+ jack123: Ubuntu
+ jack123: try fedora
+ jack123: mandriva,debian,fedora all are decent
+ jack123: mandriva is probably the most noob friendly other than ubuntu
+ Jack123: download 'virtual box' and check them all out
+ Jack123: http://www.virtualbox.org/wiki/Downloads
+ can't believe that program is free
+ hi geekorama
+ Ravenhurst: what program did you use to make the USB?
+ jack123: you can check both of them out in VB
+ RavenhursT: watch for any errors when you pendrivelinux....might have a broken image,have to redownload it
+ give a go
+ which version of ubuntu jack123?
+ cool
+ jack123: you got a decent video card?
+ me neither
+ jack123: the grub menu ?
+ jack123: where did you download the ISO and what distro?
+ jack123: alternate?
+ whats the filename of your ISO image
+ jack123: you got a 64-bit cpu ?
+ jack123: remake the usb with pendrive linux
+ wimax?
+ what is that?
+ jack123: are you using wimax right now in windows?
+ jack123: do you know to log-into the wimax box ? access the shell ?
+ *how to log-in
+ in ubuntu does it connect to it?
+ yeah
+ you know on the panel on the top,can you connect to the wimax signal
+ does it even show wireless connections?
+ *wireless networks i mean
+ the icon that looks like a signal
+ does it list a wireless network when you click that icon?
+ you have a ethernet cable going to your comp?
+ oh
+ you have DHCP turned on?
+ on the wimax box ?
+ he doesnt have wireless
+ he has a 4g wimax box
+ but the box is receiving a wireless signal ?
+ and sending that to your comp over ethernet?
+ go into 192.168.1.1 and hit the print screen button
+ and show me
+ no wait
+ do this
+ boot into the live cd and 'try ubuntu'
+ on the top panel click system > administration > network tools
+ theres a pull-down menu on 'network devices '
+ select (eth0) and see if it has been assigned an IP. It (eth0) should be on the list too.
+ try this first
+ k
+ yup
+ jack123: the ip should not be 0.0.0.0 either
+ it should be 192.168.1.xxx
+ jack123: also do 'lspci' and see if your NIC is on there
+ if its on there then it's loaded right? working properly? correct driver? Herbs?
+ it will be listed by 'ethernet controller'
+ yeah
+ he did that already and said internet wasn't working though right ? jack123?
+ jack123: Have you booted into the live cd and done 'try ubuntu' ?
+ why was he saying his internet wasn't working????
+ and why would a live cd ask him to select a kernel image? he has left out some info
+ grub does that after installation
+ ahoy
+ me neither
+ i don't know what he was talking about.....
+ he also mentioned something about the 'alternate' iso image way back too
+ isn't that a text-based installation ?
+ i'm not familiar with the alternate iso
+ oh lol
+ nah i never used it
+ he probably doesn't even know what md5 is
+ the version of syslinux he was seeing was not what his iso image should have contained either
+ so......who knows
+ im here
+ so what happened
+ what took so long ?
+ ;-)
+ are you doing a dual-boot? or giving ubuntu  the whole hdd
+ reinstall
+ Clerisy: http://www.google.com/url?sa=t&source=web&cd=1&ved=0CBYQFjAA&url=http%3A%2F%2Fwww.pendrivelinux.com%2Funiversal-usb-installer-easy-as-1-2-3%2F&rct=j&q=pendrivelinux%20123&ei=ppy_Tc-gCoPpgQf_t9jbAg&usg=AFQjCNGdSazRNs32lEZo8ZfvenfYK9ML_A&cad=rja
+ oops
+ i have no idea, try a reinstall
+ you trying to make a live usb stick ?
+ download unetbootin then clerisy
+ yes please jack,want to see this
+ i don't think so, Herbs ?
+ jack do you have another usb stick? your going to need to save the screen capture some how to upload it
+ open the terminal jack
+ applications > accesories > terminal
+ type uname -a
+ do the same command once you install
+ jack123: when you installed and got to partitioning what did you select? 'use entire disk' ?
+ jack123: you need to check the md5 of the iso image
+ and see if they match
+ on another computer?
+ or another disk in same computer case?
+ jack123: ?
+ do you have two hard-drives in the computer jack?
+ are you seeing it in ubuntu ?
+ the usb stick is read-only
+ when in live mode
+ my connection is too slow right now too do that
+ jack123: does windows have the entire disk ? the other disk that it is on
+ wait
+ windows have entire disk ?
+ it has all 500gb?
+ ok reboot into windows and download md5sum and get the md5 of the ubuntu iso
+ write it down
+ and come back
+ google md5sum program
+ i have temperature and weather checked but it's not showing up on the panel ?
+ Herbs, when i tried Fedora it did a LVG for partitioning,what is that?
+ it took up the entire hd but said there was free space ?
+ it is like extended parts inside a logical part?
+ oh
+ i'm thinking the md5 is off
+ and your going to have to re-download the iso
+ wait, let marenostrum see what the md5 is
+ if they match
+ there is a file
+ jack123:  checking now
+ jack123: they match
+ what program did you use to make the usb ?
+ remake the usb with unetbootin jack
+ remake the usb
+ use unetbootin
+ make sure you format the usb
+ as fat32
+ oh,lol
+ can you burn discs jack ?
+ burn the iso to a cd
+ frees up the usb too
+ yeah burn it and install it
+ burn as a data disc
+ ok
+ i've had problems with usb installations
+ k
+ good
+ yeah follow the page he pointed you to jack on burning iso
+ k
+ install that sucka
+ should I download and install the updates for 10.10 ? everything is working like a charm and I am kind of apprehensive about updating 10.10
+ whats the command to see what kernel version i have installed ?
+ lol
+ what do i need to access a windows network from ubuntu ?
+ LOL
+ omg
+ <red2kic> Software Center is back in Ubuntu 11.04?  <---- LOL
+ red2kic: :-P
+ magpii: i was in your situation a few nights ago :-( i feel for ya man, i really do
+ how ironic if 'unity' resulted in the ubuntu community becoming divided, lol
+ ok no prob
+ how can i install firefox 4 on 10.10 ?
+ where kind I find all the keyboard-shortcuts for ubuntu 10.10 ?
+ can someone help me on how to use 'KLibido'
+ can someone help me on how to use 'KLibido'

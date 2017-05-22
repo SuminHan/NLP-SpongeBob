@@ -1,0 +1,105 @@
+ Fuck me this place is busy.
+ I've lost my hardware graphics support.
+ And encfs doesn't work properly (but then it never did). My hacks have been undone.
+ Graphics didn't involve any hacking, so that's worrying :-s
+ acicula: It's complicated.
+ acicula: You can easily create an encfs filesystem.
+ acicula: But do you want to use it for authentication and encrypt the whole home directory?
+ acicula: I don't know how it works throught the GUI,
+ acicula: I've done it manually.
+ acicula: You have to set up pam_encfs
+ Yeah?
+ ohsix: So what would you suggest?
+ acicula: Ignore me then. Apparently I don't know what I'm talking about.
+ #
+ acicula: Using it for auth *does* cause problems.
+ acicula: It can be.
+ ohsix: I see.
+ oic
+ There is a wiki somewhere.
+ acicula: Be careful.
+ acicula: I had problems with this. encfs has a timeout
+ acicula: if it times out while you're logged in, you start getting lots of "Transport endpoint not connected" errors.
+ acicula: And it doesn't seem to remount on demand.
+ acicula: Possibly waiting for input (which is impoossible since it won't have a controlling term)
+ I've got i915 problems.
+ ohsix: A lost laptop could easily be an identity fraud bonanza without encrypted filesystems.
+ ohsix: No, but it does make that information much more difficult to read.
+ ohsix: Even if you don't encrypt swap.
+ ohsix: Do you actually want me to calculate the statistics?
+ ryanakca: It doesn't look like I'm getting any acceleration.
+ ryanakca: I think X is using the wrong driver.
+ ohsix: Rubber what?
+ oic
+ ohsix: Well if they've got my laptop they probably don't know who I am.
+ ohsix: Until they've broken the cryptography.
+ ohsix: I never said anything about a known adversary.
+ ohsix: Shall we take this into #ubuntu-offtopic?
+ ohsix: But the adversary does not have infinite time, because in a few years the information will be worthless.
+ I know first hand why it's bad. For various reasons.
+ ohsix: Unless "they" have developed an efficient interger factorisation algorithm, "they" will not be able to decrypt the information within its valuable lifespan.
+ ohsix: Or unless "they" are prepared to come and beat me with a rubber hose for it.
+ entity: What does /etc/fstab say?
+ entity: Ubuntu 11.04 has probably enumerated the drives differently for some reason... so /dev/sda1 could become /deb/sdb1
+ Use UUID's in fstab instead
+ entity: When you get the boot menu.
+ entity: Remount read-write.
+ entity: If your root partition wasn't mounted you wouldn't be able to read /etc/fstab
+ Or anything else, for that matter.
+ entity: Use blkid to find UUID.
+ entity: Replace /dev/sda2 with UUID=... in /etc/fstab
+ entity: Make sure it's the right partition!
+ entity: And could you paste /proc/mounts as well?
+ entity: Yeah.
+ xinel: Don't get him started :D
+ chotaz: You're in an awkward position.
+ chotaz: Depends when the power failed
+ chotaz: You could probably recover the filesystem but the software will likely be in an inconsistent state.
+ chotaz: I would, probably.
+ chotaz: Use a liveCD to do a backup first (if you haven't already).
+ chotaz: There's no simple answer to that.
+ chotaz: How much RAM you got?
+ chotaz: With that much RAM you don't really need swap unless you want to use hibernate.
+ chotaz: Or you're running something insanely memory-hungry.
+ I usually suggest some as well.
+ My machine has 3GB RAM, and used swap is almost always 0.
+ chotaz: If Linux runs out of memory it will kill a random process.
+ chotaz: That is, when all RAM + swap space has been used.
+ in which case malloc() will fail instead.
+ :D
+ I never use hibernate.
+ Only suspend.
+ ohsix: Interesting.
+ I don't use suspend much either. I don't think my laptop has ever gone into hibernation that way.
+ entity: What?
+ entity: Make your fstab look like this: http://paste.ubuntu.com/600524/
+ ohsix: Who?
+ entity: Try mount -o remount,rw /dev/sda2 /
+ lol
+ entity: Good.
+ entity: Be careful.
+ entity: You reboote3d?
+ Um. Ok. That's weird.
+ entity: You could run fsck on the drive, *DO NOT DO THIS IF THE FS IS MOUNTED READ-WRITE*
+ entity: If you've got a backup the risk is limited.
+ entity: And if you don't then a clean install is riskier.
+ entity: Then breaking your filesystem with a bad fsck is worth trying.
+ Because it won't take as long as a fresh install.
+ entity: And the chances are it won't break your filesystem.
+ entity: cat /proc/mounts
+ entity: then fsck /dev/device-by-uuid/...
+ entity: I am assuming the fs is mounted read-only. It's very important that it is.
+ Are you sure?
+ entity: ^^^
+ entity: fsck will print a big fat warning anyway
+ entity: If you just rebooted, you should be read only already.
+ entity: What did the cat say?
+ entity: And what error did you get this time?
+ entity: Can you paste the line with /dev/disk/by-uuid on it?
+ entity: It's read only, you can fsck it.
+ entity: fsck might still complain it's mounted, but just ignore it.
+ fsck /dev/disk/by-uuid/87d334b4-9a16-4621-967a-5f74491dd9e4
+ entity: What happened?
+ entity: Then it should have mounted in the first place.
+ entity: Fair enough.
+ entity: I'm defeated.

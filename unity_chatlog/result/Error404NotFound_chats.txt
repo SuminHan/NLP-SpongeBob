@@ -1,0 +1,1 @@
+ how do i restore burg to be bootloader after grub overwrites it due to an update?

@@ -1,0 +1,3 @@
+ Heya. When I try to compile something and try to run ./configure I keep getting Permission denied. Any pointers?
+ Let's see....it's chowning...
+ :P

@@ -1,0 +1,11 @@
+ anyone have experience with nfs?
+ Herbs: ubuntu nfs server and windows client? I'm like minutes away from ditching gentoo, nfs in ubuntu has not been good at all, right now it will mount, let me see eveything, but I can't read some files and I can't write to any and nothing has changed config wise- I have rebooted the ubuntu machine and the windows machine... thought I had it working normally nd then I go take a shower and I can't do anything on the share
+ *ditching to gentoo
+ I used gentoo for like 10 years... and gave ubuntu a shot so I could spare this atom machine from the compiles... if anyone can fix the nfs issue, I'll probably keep using ubuntu
+ OSS is crap - always has been
+ usr13: other than having to reboot my ubuntu server every3-7 days because nfs stops working and restarting the service does not help, right now I can't do anything but get a directory listing
+ usr13: client is windows, worked great in xp, and just as good in 7, I have had the same configs for years
+ I was waiting for that
+ I'm gonna be cool about this.. I refrained from posting a nice long line that would have had me perma-banned, something is wrong with nfs on ubuntu, look around, you will find posts going back to 2007 with these issues, I'm going back to gentoo so my stuff will work and I don't have to reboot to fix something
+ .. my pont I didn't post, those are cifs services
+ enjoy your new release all... I'm *GONE*

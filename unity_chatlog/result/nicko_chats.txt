@@ -1,0 +1,2 @@
+ Hello , i have a small problem , my grub2 boot list countdown (timer) disappeared . any ideas ?
+ DJones: i'm dual boot , my grub2 is working fine just the 10 sec countdown not working and i have to manualy click it, my /etc/default/grub is the same from the day i install

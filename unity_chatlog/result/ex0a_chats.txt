@@ -1,0 +1,2 @@
+ if i get a package like zend studio which is a binary package, where should i put the directory so that it's in user's paths according to ubuntu "standards"?
+ escott: /opt is more along the lines i was looking for, but seeing as i'm the only desktop user on this machine i think i was asking more to see if there was a standard.. i'll probably just leave it in my ~ somewhere for simplicities sake.. ty!

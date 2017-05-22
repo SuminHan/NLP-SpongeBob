@@ -1,0 +1,4 @@
+ I am using natty server in a VM. I cahnged the MAC address from what it was installed with and now eth0 won't appear. How do I fix this? I've tried dpkg-reconfigure network to no win
+ lspci shows it as an Ethernet controller, but does not show in ifconfig
+ I am using natty server in a VM. I cahnged the MAC address from what it was installed with and now eth0 won't appear. How do I fix this? I've tried dpkg-reconfigure network to no win
+ lspci shows it as an Ethernet controller, but does not show in ifconfig

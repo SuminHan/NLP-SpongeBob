@@ -1,0 +1,20 @@
+ When will firefox 4 be available for ubuntu?
+ escott: how do I know which version of ubuntu I have?
+ escott: how can I upgrade ubuntu from the version 10.4 to the 11.04?
+ ok
+ escott: but I guess 11.04 is better
+ Devil999: why
+ Devil999: I see
+ escott: how do I start the upgrade-manager? did you mean update-manager?
+ escott: ok I'll check that out.
+ escott: Do I need need to upgrade to the version 10.10 before I upgrade to 11.04?
+ how can I resize the disk through the command line?
+ guntbert: but I can't umount the fs..
+ guntbert: yes, thanks
+ what are the hardware requirements for the unity?
+ how can I see which version of ubuntu I have?
+ ty
+ what is unity exactly?
+ nice one ActionParsnip :)
+ Why gnome3 is not the ubuntu main desktop?
+ ok

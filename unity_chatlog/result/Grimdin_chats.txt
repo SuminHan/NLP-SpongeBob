@@ -1,0 +1,8 @@
+ i already installed 11.04 ;)
+ 11.04 problem, i dont use unity, so i use classic but my desktop visual effect are all missing, howto re-enable them?
+ lo0m, i have switched unity off, but there is not visual effects in classic mode...
+ Logan_, i have installed it, and it says enabled lots of things, but nothing seems to be happening
+ mello, i have same problems on nvidia driver (latest version)
+ compositing does not work
+ mello, is there bug open already?
+ another problem after 11.04 upgrade, laptop, nvidia, classic desktop, i use 2 monitors  and external monitor is my primary monitor, now i noticed on laptop monitor that it has global menu enabled and its missing window controls, etc, but on external monitor i have window controls and no global menu but no desktop visuals

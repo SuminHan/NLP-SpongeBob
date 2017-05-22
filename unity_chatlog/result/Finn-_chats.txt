@@ -1,0 +1,5 @@
+ Gentlemen. I just updated to 11.04, and now as I boot and login, my desktop is not loading. I had this problem before, but solved it with the uninstallation of compiz. However, it is not installed, and the problem is back. Any ideas?
+ I only get the Ubuntu Desktop guide, bun none of the keyboard shortcuts work.
+ Ah, selecting "Gnome classic" seems to work. Now I just have to make sure that it selects it automatically the next time, or at least until Unity is fixed for me.
+ most excellent
+ thanks for the mental support, if nothing else :)   bye~

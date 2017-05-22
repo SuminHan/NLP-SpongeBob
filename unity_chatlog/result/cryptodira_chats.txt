@@ -1,0 +1,2 @@
+ hi folks.... just upgraded to 10.10 ..... all went well... except, i am NOT seeing xscreensaver under system preferences.... synaptic says it is installed....how can it be accessed?   10.10 amd/64
+ xscreensaver lives under preferences in 10.04...... it is NOT there in 10.10..... where did it get moved to?    10.10 amd/64

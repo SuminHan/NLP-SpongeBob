@@ -1,0 +1,1 @@
+ hmm... when using ubuntu with virtualbox 4.0.6 and swtichting to the scaled mode (CTRL+C) i have a black bar at the bottom... the desktop doesnt seem to scale correctly and the mouse pointer seems to be at an invisible position a few pixels above the actual visible mouse cursor

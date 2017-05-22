@@ -1,0 +1,6 @@
+ just install ubuntu 11.04. all seems fine, but no sound. soundcard detected and installed fine. just no sound
+ Fresh Ubuntu 11.04 install. No sound. run alsamixer and made sure nothing is muted.device is enabled, volume is on but NO AUDIO at all. card 0: ICH6 [Intel ICH6], device 4: Intel ICH - IEC958 [Intel ICH6 - IEC958]
+   Subdevices: 1/1
+ Hi Guys, Have a Fresh install of 10.10 and no sound at all. device details:card 0: ICH6 [Intel ICH6], device 4: Intel ICH - IEC958 [Intel ICH6 - IEC958]
+   Subdevices: 1/1
+ . unmuted everything in alsamixer. volume enabled but no sound. what can i do?

@@ -1,0 +1,5 @@
+ Hey, I need some help with natty.. Have just upgraded from maverick and the log in buttons just dissapeared =/ Its like that image but without the password field and the Cancel and Log in buttons.. any advice?
+ NyvenZA, I didn't read your problem >.< I can't just log in into natty :(
+ NyvenZA, have you tried reinstalling GDM ?
+ its not my computer which has the problem, it's my uncle's computer, who is in another state :P can't just tell him "reinstall GDM"
+ NyvenZA, I have told my uncle to reinstall GDM :p let's see what happens..

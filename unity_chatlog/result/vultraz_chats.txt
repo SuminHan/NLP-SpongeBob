@@ -1,0 +1,17 @@
+ who to talk to
+ where do i report 11.04 bugs?
+ new GRUB seems to send signal to the numlock key to turn it on at boot
+ so it's hard to enter a password
+ on a laptop keybpard
+ because most keys get locked
+ also sometimes it turns on mute and I have to shutdown and turnon
+ turn on*
+ also yesterday at boot Unity disappeared and I got the non-unity 10.10 interface
+ why is natty so buggy?
+ :P
+ ;)
+ Guest29994; lol
+ jetole: I think so too
+ jetole: ya
+ jetole: we'll probably have 11.10 before 11.04 is really stable
+ anyway I don't mind it has nice interface

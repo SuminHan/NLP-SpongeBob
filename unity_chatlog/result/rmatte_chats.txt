@@ -1,0 +1,23 @@
+ does anyone know of a simple way to revert to the versions of compiz/emerald that were included with 10.10 after upgrading to 11.04?  The new version of emerald is buggy with my window theme.
+ billybob: glxgears is just an indication that OpenGL is functional, it is not an indication that compositing (which is required for Unity) is functional.
+ billybob: are you by any chance using two monitors across two different video cards?
+ billybob: or one video card that has two cards in it connected via SLI across two monitors?
+ sorry, clarify?
+ karthick87: not to be rude, but come on: http://lmgtfy.com/?q=remove+ppa+repo+from+commandline
+ billybob: I didn't understand what you meant by "no one both"
+ what is your setup?
+ I have lots of experience with this sort of thing but I need to know what your setup is
+ billybob: ok
+ billybob: what kind of video card are you using?
+ billybob: hmmm, what about unity isn't working?
+ are you seeing artifacts left behind by windows and stuff?
+ billybob: oh, that's really weird
+ billybob: it ran on my work workstation which has no graphics acceleration of any kind (didn't run well at all, but it did start)
+ billybob: sounds like possibly a package problem or something
+ billybob: unfortunately Unity is too new... I don't have any tricks up my sleeve for that one, I'd just be googling around like you are
+ billybob: have you tried using Unity 2D?
+ billybob: apt-get install unity-2d
+ then it'll be available in the list of session in your login manager
+ so just logout, select it, and log back in
+ billybob: yeh
+ I have to take off for now, later

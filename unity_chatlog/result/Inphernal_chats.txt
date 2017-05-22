@@ -1,0 +1,66 @@
+ greenlantern: I don't think 11.01 doesn't use Gnome
+ * I don't think 110.4 uses Gnome* lol
+ fail
+ Hey all, trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+ I've looked onlien, but couldn't find any solutions, just other people experiencing the problem
+ greenlantern: "11.04 is considered to be a major release for Ubuntu because it represents a significant departure from the default GNOME UI to the new Unity UI."
+ km0201: Haha it does scroll pretty fast xD
+ Hey all, trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+ greenlantern: http://news.softpedia.com/news/How-to-Install-GNOME-3-on-Ubuntu-11-04-194085.shtml
+ Anybody know how to fix "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." when upgrading to 11.04 from 10.10 64bit
+ jbicha: I wasn't encouraging, I thought that's what he was trying to do
+ trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+ jbicha: I'm pretty sure I removed all but the original ones, how can I check and let you know which I have
+ jbicha: Got it, kept opening in a funny window not allowing me to copy. http://paste.ubuntu.com/601579/
+ jbicha: I'm looking in the repositories section in synaptic package manager, and it seems the wine, firefox, and a couple other http://ppa.launchpad... are still there, even though I clicked remove on all of them, is there a specific way I need to do this?
+ jbicha: That's ok, thank you for trying
+ Hey all, trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+ Hey all, trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+ DingGGu: Run Update Manager
+ Hey all, trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+ Hey all, trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+ TrevorBradley2: We see you
+ http://www.blizzhackers.cc/viewtopic.php?t=448729
+ Oops, sorry lol
+ Hey all, trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+ jetole: Nothing
+ jetole: =[
+ jetole: Someone told me it could be my PPAs? But they weren't sure how to check?
+ jetloe: Allright, I'll keep looking. Thank you
+ jetole: Yeah, slowly
+ Hey all, trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+ Hey all, trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+ celthunder: I check, I don't think there's any
+ celthunder: Any idea what else I should check?
+ Hey all, trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+ Hey all, trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+ Hey all, trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+ Hey all, trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+ Both of them suck
+ rage
+ Hey all, trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+ Woahh, security
+ Hell all, trying to upgrade 10.10 64bit to 11.04, but I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." at "setting new software channels" step
+ Hey* haha
+ Hey all, trying to upgrade 10.10 64bit to 11.04, but I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." at "setting new software channels" step. Anyone know how to fix this?
+ Hey all, trying to upgrade 10.10 64bit to 11.04, but I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." at "setting new software channels" step
+ phunyguy: Did it, trying upgrader again
+ escott: I think someone helped me figure out that I havn't last night, but I can check again if you can tell me how lol
+ phunyguy, taht didn't help, same error
+ taht*
+ that* lol
+ escott: Ok, a long list came up with install on the right of each listing
+ escott: They all say install, but the list shows only l-z in Terminal
+ escott: I can only scroll up to l
+ escott: What do you mean?
+ escott: Ok, nothing came up
+ escott: What does this mean?
+ escott: Haha ok, any other ideas?
+ Hey all, trying to upgrade 10.10 64bit to 11.04, but I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." at "setting new software channels" step. No packages held
+ escott: Ok, thanks for the help
+ I'll keep looking
+ Hey all, trying to upgrade 10.10 64bit to 11.04, but I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." at "setting new software channels" step. No packages held
+ Hey all, trying to upgrade 10.10 64bit to 11.04, but I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." at "setting new software channels" step. No packages held
+ brontosaurusrex: Yeah, but they are disabled at the beginning of the upgrade? (Or so it says)
+ Hey all, trying to upgrade 10.10 64bit to 11.04, but I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." at "setting new software channels" step. No packages held
+ Hey all, trying to upgrade 10.10 64bit to 11.04, but I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." at "setting new software channels" step. No packages held

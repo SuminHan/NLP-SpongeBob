@@ -1,0 +1,23 @@
+ Hi all, whats up? :) guys i have a problem, when i plug in any external storage USB when i want to remove it i press safely remove but after a while the window pops up again and i have to remove it again in order to stop working, why? does anyone know what is happening?
+ Hi all, whats up? :) guys i have a problem, when i plug in any external storage USB when i want to remove it i press safely remove but after a while the window pops up again and i have to remove it again in order to stop working, why? does anyone know what is happening?
+ Ubuntu has become really crappy you know?
+ Man i miss the old distros
+ ActionParsnip, you can't deny that its getting really crappy compared to the old ubuntu distros
+ i will w8
+ More and more people are having problems with the 3 latest ubuntu releases, and i am one of those. i have seen so many bugs in these last releases that i felt like i would jump out of the window xD
+ I really prefere the old ones like i.ibex and seems like i will change distro again. i loved ubuntu and i still love it but it gets really crappy
+ Right now i have problems with my usb drives
+ when i plug in any external storage USB when i want to remove it i press safely remove but after a while the window pops up again and i have to remove it again in order to stop working, why? does anyone know what is happening?
+ ActionParsnip, You mean if i have reported a bug?
+ ActionParsnip, nope
+ ActionParsnip, Thats true, but why i haden't ha d these problems with other distros?
+ Anyway, i'll change because i need a realtime kernel so ubuntu won't do for me anyway
+ I will always love it as it was the distro that started my Linux Journey :)
+ joakim, if you want to post outputs of a terminal etc it would be  a good idea to use pastebin.com
+ Lcawte, You have to get a big external drive, this thing will save you many times and its a must
+ ojii go to system/Administration/language  support
+ ojii there is a small box which says Apply system wide, did you push that? xD
+ ojii, damn...maybe its a bug then xD
+ ojii thats cool xD
+ ojii nice ;)
+ ojii ;)

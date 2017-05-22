@@ -1,0 +1,19 @@
+ how do I make read only doc files readable in libreoffice?
+ terry: Yeah
+ Sorry, I'm rather hung over
+ terry: It's a property of the document, not on the filesystem
+ I think I've figured it out though
+ not sure how, I just clicked on stuff and now it's readable
+ *writable
+ terry: Thanks
+ What are the primary mirror sites for the UK?
+ gb.archive or gb.releases?
+ since upgrading to natty, I don't have an nvidia kernel module, and X11 will not start. Any ideas?
+ Changing the X11 Module to "nv" gets X running but I don' tthink it has hardware accelleration
+ ActionParsnip: Will do.
+ dpkg-reconfigure nvidia-current followed by reboot seems to have done the trick
+ no unity though :S
+ how do I re-enable the network manager applet
+ In my aptitude list, network-manager-gnome is listed with "iB", how do I fix this
+ the network manager applet only shows up on one logged in user :S
+ How do I get the nm-applet to display for multiple users?

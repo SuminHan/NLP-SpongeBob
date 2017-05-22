@@ -1,0 +1,28 @@
+ Hello guys, I'm installing ubuntu on usb flash drive, is it a good idea to create a swap partition or not?
+ lol
+ Hello guys, I'm installing ubuntu on usb flash drive, is it a good idea to create a swap partition or not?
+ crazyrohila, well, some people say that it will kill my thumb drive faster
+ crazyrohila, uhhm, ok, thanks
+ Diosjoe, in my life I did 3 upgrades, none of these decisions were good.
+ Diosjoe, well, you can upgrade, but be prepared for some things to get fucked up
+ Soothsayer, you can change the size later
+ Soothsayer, but yeah, swap must be a little bit bigger than your memory
+ Soothsayer, for swap?? there's no filesystem for swap
+ Soothsayer, for you system you'll be good with ext4
+ Soothsayer, just choose SWAP, it doesn't ask for filesystem
+ samtate, it's your laptop feature, you can't change this behavior
+ samtate, oh, then try alsamixer or gamix
+ Soothsayer, oh, when it asks for file system choose linux-swap
+ Soothsayer, that's for swap of course
+ Soothsayer, don't worry
+ Soothsayer, after installation you can run live cd and change your partitions any way you want
+ tauntaun, like someone knows what is itunes, lol, I never got a point of it.
+ conical well maybe you need something smaller than ubuntu?
+ conical, maybe this will help? http://www.linuxquestions.org/questions/linux-newbie-8/best-distro-for-dns-server-435160/
+ sudo apt-get install firefox will install firefox 4 or 3?
+ ActionParsnip, I'm on 11.04
+ ActionParsnip, haha. well I'm on lubuntu. :D ok thx
+ ActionParsnip, yeah, especially the last version :>
+ !info kupfer natty
+ old :<
+ !info vuze natty

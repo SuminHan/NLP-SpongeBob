@@ -1,0 +1,2 @@
+ Hey guys, my video driver is activated but I can't start Unity. Is there any way to fix this? Thanks for the help!
+ HRT: I'm running into the exact same issue, but with an Nvidia driver

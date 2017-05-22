@@ -1,0 +1,11 @@
+ Hey all.
+ I've tested the compilers (g++ and gcc) and can't compile anything. I receive the following error: "gcc: error trying to exec 'cc1': execvp: No such file or directory
+ Anyone know what could be causing this: gcc: error trying to exec 'cc1': execvp: No such file or directory?
+ LjL: Yep, I do.
+ LjL: I even removed it and re-installed it. Same result(s).
+ Welp, that sucks. lol
+ vibhav: Then maybe you can help me with my mindboggling issue...
+ vibhav: gcc: error trying to exec 'cc1': execvp: No such file or directory  <-- getting that when I try to compile. Build-essential is installed.
+ vibhav: I've done that. I've also removed it and re-installed it, and nothing.
+ vibhav: I highly doubt that it will work, considering that cc1 isn't anywhere in the /usr/lib/gcc directory
+ Welp, I'll keep researching for the answer to this issue. :P

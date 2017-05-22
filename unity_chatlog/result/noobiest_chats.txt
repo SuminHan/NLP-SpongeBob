@@ -1,0 +1,19 @@
+ anyone can help me about debconf error?
+ my debconf freeze after install package ubuntu restricted extras i kill it via sysmonitor then i must partially upgrade i cant use ubuntu software again?
+ my debconf freeze after install package ubuntu restricted extras i kill it via sysmonitor then i must partially upgrade i cant use ubuntu software again?
+ i hav problem natty with debconf :(
+ cheapie: do u know how to fix debconf?
+ cheapie:freeze debconf first appear EULA then freeze i after i install ubuntu restricted extras, i killed via system monitor then i open updatemanager,should i run partial upgrade?
+ cheapie: a partail upgrade is harmless?
+ wait i must reboot bcoz my ubuntu center freeze and nt gonna lock
+ i see u latter'
+ cheapie:take a look debconf freeze again after partial upgrade http://postimage.org/image/175z2g810/
+ cheapie:what shall i run in terminal?or this bug bcoz i install ubuntu with ubiquity and gave me some error
+ dpkg was interrupted, you must manually run 'sudo dpkg --configure -a' to correct the problem.
+ after i run,its lokk like partial upgrade same thing diff way
+ my debconf still in trouble
+ after installing new package i must run 'sudo dpkg --configure -a' or partial upgrade awfull bcoz debconf freeze
+ debconf-communi what  procces?this process always freeze and make me doing  'sudo dpkg --configure -a' or partial upgrade many time can i remove it?
+ any idea/
+ anybody can tell me what kind debconf-communi  procces?this process always freeze/sleep but the  window appear after install new package both with ubuntu softwarecenter or apt-get  and make me doing  'sudo dpkg --configure -a' or partial upgrade many time can i remove it?
+ cheapie:problem solved but i must run dpkg-configure --a after install new package and kill that proccess this awfull but Many thanks to your help

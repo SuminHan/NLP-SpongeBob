@@ -1,0 +1,3 @@
+  I need to establish logging the events from the network via rsyslog, I had already added appropriate lines into rsyslog.conf, by these lines I mean the line which loads the module listing on the tcp port and added my own ruleset to it
+ but it does not work
+ anyone with scilab expierence here ?

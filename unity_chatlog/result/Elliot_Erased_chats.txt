@@ -1,0 +1,4 @@
+ Hi
+ I encountered a problem while installing 11.04
+ When I'm doing the install, it fails while installing GRUB
+ the error given is that it can not install it.

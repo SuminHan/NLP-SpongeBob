@@ -1,0 +1,10 @@
+ can someone give me a hand with gnome3 i hate it and want ubuntu classic back
+ reinstall ??
+ as in my while OS
+ no didnt see it
+ downloaded it through ubuntu tweak
+ so well it looks like im using gnome3 than
+ cause i am not reinstalling and losing all my data
+ Wolf: use cheese
+ wolf: sudo apt-get install cheese
+ just click it wolf duh

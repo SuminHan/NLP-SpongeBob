@@ -1,0 +1,12 @@
+ anyone know what ATI video support is like in natty?
+ time of release is after noon GMT+1 according to a canonical employee: http://bettween.com/matto1990/yaili
+ I have a 64 bit CPU and use 64 bit Windows 7. Is Ubuntu good enough for me to use 64 bit yet?
+ will you have a problem with drivers or anything though? I have a year or so old Acer laptop
+ m3t4lukas: less? How so?
+ m3t4lukas: ah ok, so it should work really well. What about ATI GPU? good support for that?
+ m3t4lukas: perfect. Thanks for the help. May as well go for 64 bit then :)
+ tracker refusing to accept torrent yet, must wait :P
+ just a quick on. In the screenshot on the ubuntu homepage the dash is resized to quarter of the screen. On my new install it takes up the whole thing and no option to resize. Am I running a strange version of unity?
+ maco: no windows open
+ maco: nope, full screen still
+ maco: nothing seems to happen. It's the actual dash window (think it's called the dash). The bit which opens when you press super

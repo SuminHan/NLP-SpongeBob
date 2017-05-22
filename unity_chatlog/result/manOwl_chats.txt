@@ -1,0 +1,84 @@
+ So I found a package that I don't believe is in the ubuntu repositories and it's pretty good
+ If I make a .deb for it and stuff, can I submit it?
+ How are packages selected for inclusion?
+ bp0: ms-sys
+ bp0: it allows you to make a windows 7 mbr and stuff. it can be used to create a bootable windows 7 usb drive from linux
+ I was thinking about maybe making a little GUI in python for it
+ to create a bootable win 7 drive from linux
+ bp0: you promise not to steal my idea ;)?
+ Jordan_U: and that works for win7 etc?
+ Jordan_U: cool
+ :D
+ mcurran: hm, i wonder if it would run successfully off of a usb stick like that.
+ so i think that the newest release of ubuntu.. combined with the hardware compatibility of linux, the repositories, and stuff... and this new UI
+ windows 7 is an inferior OS
+ this is actually the first distribution that is legitimately easier to use than windows
+ Ultimate_Chaos: does it render all the textures correctly?
+ i had portal running, but it was not rendering all the textures
+ because i had to run it in dx8 mode
+ hobbel: the list of files is not bound to the file itself..
+ hobbel: the filesystem stores the filenames, inodes, inumbers etc..
+ hobbel: the file itself is a binary blob
+ hobbel: you're missing filenames?
+ paths etc?
+ hobbel: first, are the files really important
+ what are they
+ hobbel: recovering lost files on a drive is very time consuming, I assume you have a really, really good reason to want the files?
+ also stop using the drive now or you'll ruin your chances
+ hobbel: you're not going to be able to recover 80gb of files that have lost filesystem entries.
+ hobbel: i don't know what the best software is for recovering a lost file, but it can be done with dd.
+ hobbel: what do you mean, free your lost space?
+ hobbel: when the filesystem loses a file, that space is considered free!
+ you're constantly overwriting your old files as you use your computer
+ hobbel: either you are not looking hard enough for the file that is taking up your space, or you need to make a new filesystem.
+ hobbel: try the tool baobab
+ it finds the biggest files to delete
+ hobbel: there are two possibilites. that you used a ton of space, or that the filesystem is corrupt and needs to be erased and reformatted.
+ hobbel: some runaway program probably created a big file on your computer.
+ hobbel: sudo apt-get install baobab <--- run this, find the big file, delete it.
+ if you can't, then you need to make a new filesystem.
+ hobbel: what do you mean it finds the files as space?
+ hobbel: the numbers that df -h reports are definitely incorrect?
+ hobbel: you can try fsck
+ PEBKAC
+ Where did the desktop effects preferences go in 11.04!?
+ trailoryo: the gimp
+ man why isn't it easy to add a launcher to the unity panel?
+ i just want to put a terminal on there
+ that's what I tried
+ maybe I dragged it wrong
+ This panel is not ready for primetime
+ I am disappoint.
+ tensorpudding: duh
+ tensorpudding: two problems here
+ tensorpudding: dragging it to the bottom does not work, it seems intuitive to drag into empty space. for it to work you must drag it to the top
+ second problem
+ I just added the launcher to my panel
+ and it instead inserted a blank space the size of the launcher
+ with no icon
+ ohsix: i don't use developmental software
+ i stay on stable releases
+ which is why I am a bit peeved
+ I might have to file a couple bugs.
+ yeah
+ i'm taking a video of it now
+ and gonna post it on launchapd
+ ohsix: i don't think it's a bad idea, i think it's kinda cool
+ ohsix: but there are some things..
+ ohsix: for example, a lot of apps in the repositories have 1995 icons that look like shit
+ and when those icons are shown in unity
+ its just ugly
+ ohsix: sure there is, they should just remove the apps
+ a lot of them are trash anyway
+ tensorpudding: there are misc apps being shown in the "hey download this" part
+ and they have ugly icons
+ I don't care to be interrupted with information about some text based roleplaying game from 1998
+ when I'm searching the apps on my desktop
+ ohsix: i will have to put it in a blog.
+ sorry
+ I am sorry for ranting earlier
+ usually I set the key /apps/metacity/general/button_layout in gconf to move my window buttons to the right
+ but in unity, when I maximize a window
+ the buttons move to the left of the top bar!
+ so if I move my buttons to the right, then maximize.. all my buttons move to the left!?
+ is there another key?

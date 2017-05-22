@@ -1,0 +1,46 @@
+ easy question: I
+ I'm ssh -x ing into my ubuntu box
+ but can't open folders that requre root access
+ normally i'd be prompted to enter my password
+ yes, I know that, but it's in a shell
+ i mean
+ it's in the gui
+ so a better question
+ okay, is there a way to enable the gnome session to view the locked drives?
+ mount?
+ how do you remotely log into your machine so you can view it over VNC?
+ it requires me to be logged in
+ to enable remote assitance
+ assistance
+ which i can do via ssh -x
+ but then i'm viewing that session
+ i believe one is already running
+ or at least
+ when I sshed in
+ i started it through the gnome gui
+ okay, so having installed a vnc server, how do I start an x session running
+ essentially, how do I log into my machine without connecting a keyboard to it
+ so I can use the vnc server
+ I have ssh
+ i can even ssh -X in
+ but I need a full session running
+ to do a couple things that a remote X session won't do well
+ so, using ssh, how do I tell my computer to "log in"
+ locally
+ ohsix I'm trying to access some features of gnome that don't work over an ssh -X connection
+ so I need my computer to log in locally
+ so I can use VNC
+ so, using ssh, how do I tell the computer to log in locally so I can use vnc to access the local session
+ so, ohsix, any suggestions?
+ ohsix, did I miss your answer?
+ x11vnc, correct?
+ ohsix, so, a simpler question
+ I have partitions that I could access just fine if I had mounted them using gnome
+ I can't do it using a gnome session (i've tried)
+ remotely
+ is it a bad, bad idea to try and use my ubuntu box as a DNS server for my home intranet?
+ is there an "easy" way to do it
+ i can point the router to my home machine
+ a second machine to just do dns
+ it's probably better to stay away since I don't fully understand it, and doing it improperly could rip a hole in the universe
+ well, more like bring down my home network, but close enough

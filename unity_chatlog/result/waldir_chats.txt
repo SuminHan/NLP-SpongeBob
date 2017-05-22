@@ -1,0 +1,3 @@
+ I just upgraded to natty and I want to re-enable the world map in the time/date. How can I do that?
+ does the update to natty change the location of X11 libs? I have a software package whose build is breaking for not finding some X11 libs (/usr/lib/libSM.so, /usr/lib/libICE.so, etc.)
+ Hi all. does anyone know whether the Ubuntu update to natty changes the location of X11 libs? I have a software package whose build is breaking for not finding some X11 libs (/usr/lib/libSM.so, /usr/lib/libICE.so, etc.)

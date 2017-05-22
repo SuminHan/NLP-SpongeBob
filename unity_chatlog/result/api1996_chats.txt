@@ -1,0 +1,3 @@
+ Hey everyone.  I'm running 10.10 on a wubi install.  Has anyone reported success updating a wubi install from 10.10 to 11.04?
+ will updating a wubi install of 10.10 to 11.04 work?
+ thanks monotoko

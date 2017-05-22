@@ -1,0 +1,35 @@
+ does anyone know how to edit file associations
+ I need to permanently and completely remove all references to one
+ particularly, after I upgraded to 11.04, SOMEHOW my system did something retarded
+ and now whenever something attempts to open a folder, it opens WITH VLC
+ so load old style gnome
+ places->Home Folder
+ my home folder opens in VLC
+ I cannot find the configuration file contaning this
+ crap
+ I upgraded to 11.04 and I went from 16 virtual desktops to 4
+ what the hell?
+ this is screwing with my spatial orientation
+ tensorpudding:  yeah I was using compiz, now I'm on Unity
+ tensorpudding:  oh, EVERYTHING broke on the upgrade
+ and then I tried installing gnome3 ppa to get Gnome-shell, and had to reinstall ubuntu
+ tensorpudding:  the stupidest thing was immediately after upgrading (before trying to get gnome-shell), I couldn't open folders
+ anything that accessed an inode/directory opened it with vlc
+ so if I hit "Home Folder," VLC opened.
+ etc
+ I found in ~/.local/ blahblahblah there was a file that contained "Deleted associations" that had that
+ and it used it, even though it was a deleted association
+ because it was "deleted," no interface exposed it to me; I had to find the configuration file and remove the line
+ @_@
+ zzecool:  clean install wouldn't have fixed that; that was in my /home directory
+ zzecool: so I fixed that, and then did a clean install
+ zzecool:  and then found ALL MY DATA was gone and -- oh, it mounted /home subvol=@home, the heck is this?  ... modified fstab and got all my files back.
+ zzecool:  I have 500 gigs in /home, what the hell do I back up to?
+ zzecool:  it's on a separate partition, as well.
+ anyway
+ I danced around the issue, it works now, other than Unity being not total crap, but not great.
+ zzecool:  no, I didn't love it in the 90s and I don't love it now.
+ zzecool: replace the Ubuntu icon in the top left with a black and white Apple icon
+ zzecool:  welcome to MacOS6
+ who decided that menus belong at the top of the screen, instead of the top of the window
+ zzecool:  I know.  I'm toying with Unity so that when Gnome3 is available and I switch to Gnome shell I can claim I've used Unity extensively.  The initial shock is wayning.  I've toyed with gnome-shell though.

@@ -1,0 +1,15 @@
+ need help .. may i ask?
+ i need to enable email sending from my fresh ubuntu sending from apache php webpage .. what should i do?
+ should i install mailserver?
+ i need to enable email sending from my fresh ubuntu sending from apache php webpage .. what should i do?
+ hmm
+ somebody ?
+ i cant send email from my page
+ running apache
+ what should i do bro LAcan
+ i mean .. its a contact form
+ already done that
+ yes
+ escott : my ubuntu is fresh
+ how to do smtp in a correct way?
+ thanks

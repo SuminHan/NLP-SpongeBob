@@ -1,0 +1,2 @@
+ I'm running Ubuntu Server 10.04, trying to install ffmpeg. I'm having nothing but problems. Currently, I'm trying to install nasm through apt and it's telling me it's not available.
+ Any ideas?

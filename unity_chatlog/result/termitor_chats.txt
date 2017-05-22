@@ -1,0 +1,7 @@
+ hello, how to pass grub in text mode ? i'm have "out of range" in screen
+ DasEi, system don't boot, i have no cd or other tools for use live cd
+ DasEi, just the shortcut for text mode in grub , give me help i'm need
+ DasEi, hum , no boot , screen "out of range" ,
+ DasEi, dont have :c
+ DasEi, other pc , no cd reader on
+ DasEi, make install liveusb on sd card, but no sure it working

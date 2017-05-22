@@ -1,0 +1,6 @@
+ Seven_Six_Two: multipointer?
+ Seven_Six_Two: ah thats what i was missing. 3 mice and 4 keyboards ;)
+ Seven_Six_Two: yeah you explained it earlier. couldnt think of any use myself and find the idea still very confusing ;) but i recognize other peoples needs
+ ali_: you mean windows shell commands?
+ ali_: i remember some kind of guide from back in the days, like 1999 or so. you know win shell and are new to linux?
+ ali_: cant really supply a guide but you will like linux terminals. the win cmd is a joke compared to it

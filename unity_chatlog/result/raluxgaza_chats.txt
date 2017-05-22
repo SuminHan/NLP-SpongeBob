@@ -1,0 +1,14 @@
+ Hey guys i'm having problems with my wireless after upgrading to Natty. I have an Acer Timeline 4810T and the wireless just doesn't work after suspend
+ I didn't have this problem with 10.10
+ I've looked online but haven't found any threads yet
+ vibhav, yea
+ Abbas-uB, welcome
+ Abbas-uB, might be your network connection
+ vibhav, any luck yet?
+ vibhav, aright thanks, i'll get back to you
+ vibhav, thanks mate
+ vibhav, still trying it
+ vibhav, it's just finishing up, i'll have to logout and log back in to verify
+ vibhav, testing commences now, <fingers crossed> be back in a bit <hopefully>
+ vibhav, yaaay it works, thanks buddy
+ yup it's working

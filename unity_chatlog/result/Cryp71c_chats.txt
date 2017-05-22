@@ -1,0 +1,3 @@
+ Is there any plan for an official package for gnome3 in Ubuntu, since Unity is the default now?
+ Anyone? 11.04 + Gnome3?
+ popey: who'se working on those experimental packages? Is there any hope for them to eventually become stable?

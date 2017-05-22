@@ -1,0 +1,22 @@
+ hello
+ when i try to do "ls *.mpg" i get this error message: ls: invalid option -- ' '
+ any idea what causes this?
+ why does ls *.avi works but ls *.mpg does not on Ubuntu?
+ kwtm: show me files with mpg
+ aj00200: i get an error message when i do ls *.mpg
+ thats the problem
+ kwtm: i know
+ just ls *.mpg causes problems
+ hmmmm
+ maybe its a feature but i consider that a bug
+ kwtm: how can you wor around it?
+ kwtm: it works
+ but it does not work for vlc
+ vlc .mpg
+ kwtm: yes
+ there are some movies with weird characters in them
+ ok
+ i'll try
+ ok
+ thank
+ that solved the problem

@@ -1,0 +1,55 @@
+ ActionParsnip: Can you please help me fix Ubuntu?
+ Can somebody please tell me how to fix Ubuntu?
+ tully-: Ubuntu won't boot, when I choose ubuntu in the boot menu, all I get is some kind of GRUB command prompt.
+ tully-: I upgraded Ubuntu last night to 10.10, and it worked fine then, and this morning.
+ tully-: I am on 10.10.
+ tully-: are you there?
+ Can somebody help me fix Ubuntu? It won't boot right, when I select it in the boot menu, all I get is some kind of GRUB terminal.
+ nott anymore aj00200
+ now i just have a terminal
+ a grub terminal.
+ aj00200: nope
+ aj00200: but i will lose all of my data! cant i just do a command in the terminal to see what is wrong?
+ ActionParsnip: Can you help me with the GRUB terminal?
+ Can somebody help me fix Ubuntu? It won't boot right, when I select it in the boot menu, all I get is some kind of GRUB terminal.
+ ActionParsnip: Can you please help me? I heard you are the best.
+ The best, and humble.
+ Amazing.
+ ActionParsnip: Where do I get a live CD?
+ ActionParsnip: I installed 10.10 via ubuntu update manger
+ :x
+ after i burn it what do i do ActionParsnip ?
+ how would i do that ActionParsnip
+ ?
+ but how? :x
+ ActionParsnip: In the settings of the computer?
+ ActionParsnip: What would I do to boot to the CD? Just turn on my pc to it? Also, would I have to reinstall and lose all my data?
+ ActionParsnip: The terminal says that no kernel is loaded, is there a command to fix thaf?
+ alright thanks ActionParsnip :D
+ ActionParsnip: which download do i get? download and install or try it from a cd or usb stick?
+ also ActionParsnip
+ ialright
+ ActionParsnip: what if i installed with wubi???
+ so ActionParsnip do i want the try it cd or the installstion?
+ ActionParsnip: I'm on 10.10 and it isny an option
+ what do i do?
+ ActionParsnip: to download ubuntu 10.10
+ but that is the one i am on
+ what do i do?
+ ActionParsnip: which is natty? :x
+ wait ActionParsnip isnt natty bad?
+ also ActionParsnip should i get 32 bit or 64 bit?
+ ActionParsnip: Why? :0
+ ActionParsnip: Why is 32-bit better?
+ ActionParsnip:
+ Ok noe I have a rar file with a whole bunch of fikes in it?
+ Do i extract it ActionParsnip ?
+ ActionParsnip: but its a winrar file?
+ ActionParsnip: Sorry. XD can i use a dvd to burn it
+ ?
+ ActionParsnip: i think i downloaded the cd iso
+ where is the dvd one?
+ ActionParsnip: Where can I get the DVD iso?
+ I don't see it as an option.
+ thanks ActionParsnip :D
+ ActionParsnip: Sorry, I have one more question though, does the DVD ISO support DVD+Rs?

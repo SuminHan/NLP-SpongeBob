@@ -1,0 +1,100 @@
+ is 11.04 released or coming tommorow?
+ hi indians
+ madhu:just by the domain .com
+ i by mistake removed my menu pannel , how to get it back
+ DirtyDawg:right clicking is not giving option for it
+ DirtyDawg:hi this worked firdtly i think it will not going to work but it worked gconftool --recursive-unset /apps/panel && killall gnome-panel
+ is upgrading my ubuntu 10.10 to 11.04 also removes my virtual box OS?
+ hi ubuntu 11.04 is out
+ it is out but there is no link to downloading it perhaps in 1 or 2hrs it should be start downloading
+ burg:just use 64bit
+ thien:just go to ubuntu home page
+ is it better to run 32 or 64 bit if my hardware supports 64?
+ jrib:4gb
+ jrib:ok
+ Incarus6:ok thanks any way to make it better "flash' to work fine in 64bit
+ jrib:is there a flash issue in 64bit?
+ JR)cket1:   :-)
+ exalt:unetbootin
+ how 11.04 is working guys i am thinking to install it or i should wait for few days more?
+ stefg:is there any cause
+ stefg:ok thanks if you don't mind may you tell what kind or problem will i face if i installed it yet?
+ stefg: also i have 4gb of ram and 64bit supporting hardware shoul di go for 64bit
+ escott:please tell me
+ is unity better than gnome?
+ thanks to all
+ <Dr_Willis|2>in your opinion which is better gnom3 or unity
+ jrib:should i install 11.04 or wait some days?
+ Dr_willis:i have nvidia gefore 9400GT does it supports 3D for natty?
+ i have write "unity" under termianl and hit enter it suddenly vanishes my max,miz button also the left pannel completely?why it is happening?
+ how to use nity?
+ how to use unity?
+ RAMPKORv:how to chat via termianl?
+ ok
+ BlouBlou:thanks
+ RAMPKORv:ok thanks
+ how to configure effects related to unity?
+ maco:ccsm?
+ my max,miz button is missing in ubuntu 11.04 how to get it back?
+ min,max button is missing from ubuntu 11.04,how to get it back?
+  #ubuntu+1 is invite only means?/
+ arnad: will you help me my 11.04 min,max button also the applet that is in left side is missing
+ hi 11.04 is good :)
+ can we not change the top applet (opacity)
+ i am on 11.04 64bit in ubuntu s/w center which option shhould i to do install for virtual box as there are many?
+ !virtualbox
+ any new fighting game available in ubuntu 11.04?
+ hi i am on 64bit ubuntu 11.04 i have installed adobe flash player but still video in youtube is saying install missing plugin when i click to install it there are nothing to install.How to insatll it
+ any idea?
+ ok
+ thanks
+ in synpatic i have seen already installed flash-plugib-installer
+ which is best software for desktop recorder available in  natty
+ best s/w availabe for desktop recording available?
+ how to remove not installed(residual config ) from ubutu package man as the apply button is freezes
+ i have i nstalled "radio tray" but clicking to it doesnot openig it?
+ hi radio tray is not working
+ how to fix Radio tray as clicking to it doesnot opening it?
+ gui iptables for natty?
+ please tell me the GUI iptables for natty?
+ ohsix:ok thanks
+ ohsix:thanks
+ fr00g:"unity dash"?
+ fr00g:ok
+ fr00g:see the unity dash at the right botton corner click it
+ dury: are you chose he option it from host under devices
+ dur:perhabs you didnot chose the option devices-->cd/dvd devices -->host drive
+ dury: oh sorry perhabs i misunderstood your question
+ dury:please repeat your qustion one more time
+ dury:ok
+ dury:then whats the problem
+ dury:just go to bios option and under boot enable usb device
+ dury:then boot
+ dury:actually by default you bios has only enabled the cd/dvd boot .just go under boot option in bios and enable usb device also
+ dury:have you done as i told you
+ vibhav:he wants to install 11.04 from usb but i think he didnot enabled usb option from bios menu
+ dury:then no idea, listening first time this type of prob :)
+ dury:i think you should enable first   boot device in BIOS is  USB drive , perhabs the cd/dvd is of first boot priority check it out
+ dury:are you getting grub screen?
+ channel for debian?
+ which is better unity or gnome?
+ pennn:please stop repeating
+ how to dd any application  permanently visible on left side panel of unity?
+ *add
+ chapie:thanks
+ any text to speech conversion s/w in ubuntu s/w center except jovie as it is not working i am using natty?
+ is there any text to speech conversion s/w in ubuntu s/w center except jovie as it is not working i am using natty?
+ scherbak:thanks alot
+ in synpatic package manager i marked some residual not installes s/w for complete removal but after marking these for removal where from where i apply changes as the apply buttin is freezes?
+ any solution to my problem?
+ in synpatic package manager i marked some residual not installes s/w for complete removal but after marking these for removal where from where i apply changes as the apply buttin is freezes?
+ always when i opens firestartter after entering password it says "failed to open the system log , no event information will be available." please tell how to fix it?
+ no solution?
+ bazhang: always when i opens firestartter after entering password it says "failed to open the system log , no event information will be available." please tell how to fix it?
+ bazhang: is gufw is in graphical
+ bazhang:idle0ne:thanks
+ bazhang: one more question in synpatic package manager i marked some residual not installes s/w for complete removal but after marking these for removal where from where i apply changes as the apply buttin is freezes?
+ bazhang:it also gives residual in synpatic package manager
+ bazhang:ok but why the apply button in package manager is frezed when i want to apply for the packages to removal
+ in synpatic package manager i marked residual configuration for complete removal but the apply button is showing freezed how to remove that and also fix this problem?any idea?
+ in synpatic package manager i marked residual configuration for complete removal but the apply button is showing freezed how to remove that and also fix this problem?any idea?

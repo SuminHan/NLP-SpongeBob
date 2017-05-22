@@ -1,0 +1,13 @@
+ how to do the dist-upgrade from commandline?
+ jrib: ?
+ jrib: ah thanks!
+ hey, one laptop upgraded to 11.04 without problem, but the other one is not showing the "upgrade" button in the update manager! i have enabled showing dist-upgrades in the settings :S
+ gartral: no
+ Stew_822: yes but i wanted to do it guiwise
+ BlouBlou: yes its already normal editions :S
+ phonex01: wtf why!?!?
+ gartral: kk
+ phonex01: why?
+ gartral: nope, its the same situation, its not showing up
+ i want to automate a python job, but when i use cron to run it from some directory, the filenames in the script don't work anymore, like when i have "f = open('asd.log')" it doesnt open it in the script directory, but tries to open it in the cron directory, where it obviously does not exist. how can i execute a script with a custom working directory?
+ how can i execute a script with a manual workdir?

@@ -1,0 +1,1 @@
+ Is there somewhere on the net that explains the differences between the different kernel image packages in the repos?

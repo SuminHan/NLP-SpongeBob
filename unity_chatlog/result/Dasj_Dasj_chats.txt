@@ -1,0 +1,13 @@
+ I downloaded live cd of natty . Can i updrade using it?
+ xangua:  yes i do. mine is 10.10
+ xangua:  how come i do that
+ !upgrade
+ any way to do it
+ I downloaded live cd of natty . Can i updrade using it? i am on 10.10
+ xangua:  but how
+ xangua:  should i boot it
+ okay if i upgrade will all installed softs and apps will be there or not
+ xangua:  thanks
+ praveen:  thanks
+ how to adjust icons according to your preference on natty sidebar
+ I want to rearrange

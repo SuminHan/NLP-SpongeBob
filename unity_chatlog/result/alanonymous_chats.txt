@@ -1,0 +1,5 @@
+ question for y'all: running 10.10 with wine 1.3, I installed the game Rift, everything works great except when game runs it's ~5 fps and all of the textures are black.  Any idea?  I've googled like a madman and can't figure it out.
+ is anyone else not particularly happy with gnome 3?  or does it just take time to work its way into my heart?
+ is gnome3 really not customizable?  For instance, moving launcher panel, allowing multiple instances of something like chrome to be launched from launcher, etc?
+ can someone explain to me how to move the launcher panel to the bottom of the screen in gnome 3?
+ question:  I may be missing something, but in gnome3, can you really not move the launcher bar?

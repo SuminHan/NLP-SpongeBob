@@ -1,0 +1,2 @@
+ anyone having this problem php5-gmp:
+   Depends: php5-common (=5.3.2-1ubuntu4) but 5.3.2-1ubuntu4.2 is to be installed

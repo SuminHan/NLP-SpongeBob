@@ -1,0 +1,1 @@
+ I did tasksel install lamp-server on fresh install of Ubuntu 10.10 but I can't find php.ini, its not in  /etc/php5/apache2/php.ini where my 10.04 php.ini was located.

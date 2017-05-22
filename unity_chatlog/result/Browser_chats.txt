@@ -1,0 +1,12 @@
+ Buenas.
+ Hello
+ The server natty are off?
+ no DasEi
+ I cannot update the repository in Natty: I write: sudo apt-get update ...
+ DasEi: fail too
+ DasEi: E: encountered a section with no Package: header E: Problem with MergeList /var/lib/apt/list/ es.archive.ubuntu.com_ubuntu_dists_natty_main_binariy-i386_Packages
+ DasEi: fail too, mmm i am going to remove the es.ubuntu....... repository
+ Anybody could past the apt source list of natty ?
+ DasEi: fix, i use sudo rm /var/lib/apt/list/*
+ Hi
+ Good Moorning

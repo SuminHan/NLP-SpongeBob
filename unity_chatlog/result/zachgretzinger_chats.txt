@@ -1,0 +1,84 @@
+ hello?
+ Anyone here familiar with Java?
+ Ever heard of Jsmooth?
+ Aginor , romulobr - Do you guys know if there's a way to convert a .jar to a .deb?
+ Aginor , ahh, I see. Any links? jazzy , No I know how to run a .jar in Ubuntu. romulobr , all I need is the .deb to call the .jar to run it
+ Aginor, thanks
+ jazzy, well do you have  a tutorial or a link then?
+ Aginor, yeah I've given myself an 8 hour crash course in the art of .jar and .deb today and am realizing that it's pretty involved
+ Aginor , I tried creating a .deb package that called the .jar using "dpkg -b blahblah.deb" in terminal... It built the .deb but did not do what I needed it to. Either that or I'm just not used to Natty yet
+ gogeta , that's all I'm trying to do... I want the .jar inside a .deb so I can trick Natty into thinking it's not running a .jar
+ gogeta , exactly. All I want to do is to be able to change the icon of the .jar. The reason for this is because .jar packages cannot hold system icons. They have icons contained in the package. The .jar in question has a horrible icon and it looks atrotious in the Unity launcher
+ Is there a way to remove Natty and install Maverick without losing my files and programs?
+ ubottu so if I create a partition with, say, 100gb and put everything in that, I'll be able to remove Natty completely and freshly install Maverick and then remove the partition when I'm done?
+ eiriksvin are you using the terminal right now?
+ ejv click on your name on the right hand corner of your screen and go to setting
+ ejv sorry, I meant the power button next to your name
+ ejv and it's "System Settings"
+ Ziber no
+ Ziber since not everybody uses dual monitors, it would be pointless to dedicate the hours and time required to enable such a feature. Especially for such a small group of people
+ efox29 4 hours?!? It seriously took me less than 30 minutes lmao
+ Ziber update your drivers
+ System > Admin > look for something that looks like a green motherboard
+ efox29 it might be their connection then (it is launch date after all)
+ tanath i was being user-friendly...
+ efox29 lol no I upgraded 2 days before the official release
+ Guys, if you're unhappy with 11.04 you can either downgrade or wait for the next release (closer than you think it may be)
+ Here is the release schedule: https://wiki.ubuntu.com/LucidReleaseSchedule
+ ACameron what exactly is wrong?
+ ACameron explain in detail what your computer is doing that it shouldn't be
+ ACameron that happened to me as well... I simply restarted the computer a few times, ate a sandwhich, and voila - it went back to normal...
+ If the problem persists, try creating a bootable USB with Damn Small Linux or something and go in "magically" and grab your files then wipe the drive and start over. It may be a pain but in the end it's worth it
+ ACameron how opposed are you to wiping your drive and trying a'new?
+ ACameron do you know how to make a Bootable USB?
+ ACameron lol I'm a full German raised in NYC - I'll never take anything personal
+ ACameron install Unetbootin
+ ACameron it's a tool to create bootable usb devices. Try using Damn Small Linux as it's only 50mb and the install takes less than 5 minutes
+ ACameron install it on whatever computer you have that works
+ ACameron yeppers. Then use that USB to boot into your computer and throw your crap on an external and wipe the drive
+ ACameron np
+ truepurple it shouldn't uninstall any programs when updating at all
+ truepurple they are obsolete packages, not the programs themselves. You know on Windows when you download an .exe and install the program you still have the .exe somewhere? Same concept
+ truepurple no it is not going to uninstall anything
+ truepurple it's simply going to remove any unneccessary crap associated with the program before you installed it. Anything that will be removed you do not need
+ truepurple some programs (as of now, mostly only temporarily) will not update in Natty right now. Don't worry though, updates will soon become compatible with Natty
+ truepurple but you still can use all of your programs
+ truepurple yes, do a quick sudo apt-get update before upgrading
+ truepurple before you upgrade though I would suggest install Natty on either a CD or USB and testing it out a bit. That way you won't have wasted your time if you do not like Natty
+ truepurple just make sure before you update that the terminal is doing nothing
+ yi zhi go right ahead. I don't know why on earth you'd buy a macbook fashionaccessorypro though...
+ truepurple just keep in mind that 11.04 (Natty) is a BIG change from what you're used to. A lot of people don't like Natty because they haven't immediately gotten used to it
+ yi zhi honestly, design should be the last thing to look for when buying a computer... I work on both PC and Mac at work and most of the Mac's are actually inferior to the PC's
+ truepurple go to youtube and type in Natty and watch a few of the videos
+ truepurple there are reviews on Natty where virtually everything is covered. pro's, con's, etc
+ tanath I apologize, oh great grammar Nazi *bows head*
+ tanath, English is actually my 3rd language...
+ tanath as long as people understand what I mean, it really doesn't matter to me.
+ truepurple that doesn't matter for now, you still got the updates you need. Did you see "404" a lot?
+ tanath I'm 20, give me a break!! Spanish was my first language, followed by German. You can see how English may be a little complicated with all of it's rediculous rules
+ truepurple press ALT+F2 and type in the following "sudo apt-get update"
+ tanath: Correction: Don't think I've been hard on you.
+ truepurple then manually open the terminal and type the following: "sudo apt-get update"
+ truepurple so absolutely NOTHING happens? You don't see 99% a million times?
+ truepurple that doesn't mean everything didn't update
+ truepurple were you in the terminal
+ tanath beschweren sich über Grammatik an jemand anderen
+ truepurple type in the command again and copy all of the output into a text file and save it on your desktop
+ djazz me
+ djazz by trouble, do you mean trouble getting used to it
+ truepurple because I think you're misunderstanding something but would like to be sure
+ truepurple because once you do it and tell me you did it I'm going to have you email it to me and I'm going to read it
+ truepurple however you want, just give me the output of the terminal once you type in sudo apt-get update
+ truepurple yes, I replied
+ elad what is wrong
+ djazz because empathy sucks
+ elad type in my whole name or I can't see that you mentioned me
+ elad what is the error
+ elad try the 64 bit version
+ elad np
+ elad you ran 10.10 fine?
+ elad was it 64 bit 10.10? Also, are you trying to upgrade to Natty?
+ That's really strange
+ pm me
+ elad pm me
+ atavist www.ip-adress.com

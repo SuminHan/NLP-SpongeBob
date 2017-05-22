@@ -1,0 +1,4 @@
+ is there a way to use xmonad and gnome 3, unity has failed me
+ if you installed django and apache from apt it wont remove them it will upgrade them
+ you cant downgrade
+ you wont lose your data

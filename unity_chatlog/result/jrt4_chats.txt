@@ -1,0 +1,4 @@
+ Do I need to do a distribution upgrade from 11.04 alpha2 to the 11.04 release?
+ Coty91, So I'm not going to be perpetually tracking a development version? i.e. Once it gets to 11.04 release, it will no longer be downloading development updates like it was before?
+ Coty91, thanks
+ brandonc503_, Use sshd not ftpd

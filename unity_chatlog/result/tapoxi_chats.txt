@@ -1,0 +1,3 @@
+ Hi guys, will gnome-shell make it into Ubuntu?
+ Defusal_: Ahh, I haven't upgraded to 11.04. So if I want to go to gnome 3 instead of unity, I can just install gnome-shell?
+ thanks Defusal_ !

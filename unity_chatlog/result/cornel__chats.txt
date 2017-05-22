@@ -1,0 +1,2 @@
+ hello ll
+ i have one problem: "sudo: must be setuid root" in 10.04

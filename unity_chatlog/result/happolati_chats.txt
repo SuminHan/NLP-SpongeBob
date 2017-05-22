@@ -1,0 +1,7 @@
+ Hi. After upgrading from 10.10 to 11.04 i can't log in. My machine freezes at the ubuntu splash-screen. What log files should I read to find out what's going on? I can log in in failsaxe graphics mode.
+ is the nvidia-driver removed when upgrading to 11.04? how can i get it back?
+ after upgrading to 11.04 my mouse is not uncluttered anymore, but it kinda flutters on and of. this raises windows accidentally sometimes.
+ Anyone know why blackjack is no longer part of the gnome-games package?
+ Did I get another nvidia driver when i upgraded to 11.04? Google earth suddenly won't work, I get : Xlib:  extension "GLX" missing on display ":0.0".
+ Google Earth has caught signal 11.
+ soreau: Ok, here it is: http://pastebin.ca/2053648

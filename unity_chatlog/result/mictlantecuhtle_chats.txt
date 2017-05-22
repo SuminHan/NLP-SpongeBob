@@ -1,0 +1,9 @@
+ Hi, hoping someone can help clarify something for me. Just upgraded to Natty, appear to be suffering from the following (quoted from Release Notes) - "Under certain conditions, on systems equipped with nvidia GPUs, focused or maximized windows may be blank". However, the bug it links to (763680) is as follows
+ "Dash appears under full screen apps"
+ so my questions, I guess, are as follows - (1) is this fixable? (2) any ideas why the Release Notes appear to link to the wrong bug (or am I missing something)?
+ Is anyone else having problems with maximized windows being blank?
+ ohsix: all windows, they don't even have to be maximized, just stretched beyond a certain size, and yes I'm using an nvidia card
+ ohsix: I linked to the release notes earlier, but it appears to point to the wrong bug (unless I've missed something)
+ ohsix: yes, it's an older nvidia card, GeForce 6200 LE
+ ohsix: I believe I'm using the proprietary driver. When I installed Maverick it gave me the option to install those drivers, I think. Everything was working fine until I upgraded to Natty.
+ ohsix: ok, I will try that. I'll stop bothering you for the moment, but I just want to say I appreciate your taking the time to help me out

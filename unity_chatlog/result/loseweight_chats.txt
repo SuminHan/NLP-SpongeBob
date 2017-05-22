@@ -1,0 +1,32 @@
+ how to save changes to a file using vi editor
+ it keeps making a .swap file
+ why?
+ and none of those commands work Sir
+ x
+ ;
+ escape
+ i have no choice now
+ im inside the document
+ how to exit and save
+ none of them work
+ im still inside the vi editor
+ it doesn't
+ at the same time?
+ ok i did them all
+ im still in vi editor
+ but i need to get out
+ pleaseeeeeeeeeeeeee help me
+ its not blinking
+ does it matter that im using centos
+ crtl zz always creates a swap file
+ should i just use that
+ : makes the cursor go to bottom
+ after: ?
+ its not workinggggggggggg
+ omg some1 help me please!!!!!!!!!!!!
+ closing the terminal is not a good idea as
+ then i lose all my edits
+ nano is better than vi?
+ please help
+ http://pastebin.com/W8UnQSfr
+ http://pastebin.com/W8UnQSfr

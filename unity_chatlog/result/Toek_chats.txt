@@ -1,0 +1,1 @@
+ ive donwloaded the linuxmint (http://www.linuxmint.com/edition.php?id=80) ISO and trying to make a bootable usb with startup disk creator. but the iso wont stick when i choose it any ideas?

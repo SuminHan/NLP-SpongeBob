@@ -1,0 +1,56 @@
+ Yes
+ But I was going to install windows first then, ubuntu new one
+ I swear I die if I cant burn a dvd
+ Oh Shoot
+ How do I COMPLETLELY get rid of firefox.. I downloaded an extension and played with about: section and its so messed up I can even type in URL's..
+ When I remove and reinstall it, it is just the same
+ jenkinsear I remeoved .mozilla myself but just going around and deleting files and crap but it fugged it up more
+ IM Screwed
+ I can not get back firefox the way it was at all.  I did everything sudo apt-get remove , sudo apt-get purge, Tried to remove from ubuntu software center, Synaptic.....NOTHING
+ I can not get back firefox the way it was at all.  I did everything sudo apt-get remove , sudo apt-get purge, Tried to remove from ubuntu software center, Synaptic.....NOTHING
+ how do I remove firefox
+ I mean .firefox
+ I deleted .mozilla its in my trash
+ Yeah I think its gone
+ IT worked fine, I downloaded too much extensions and then changed some setting in about:  Now I cant click on anything, there no extensions cuz I deleted .mozzilla , I cant type in websites
+ Saku I delete .firefox with mouse do i still need too  rm $HOME/.mozilla/firefox
+  This is what I got , rm: cannot remove ' /home/juz/,mozilla./firefox':  Is a directory
+ I mean .mozilla
+ Calamai 190-134-154-254.dialup.adsl.anteldata.net.uy) has joined #ubuntu
+ * cached has quit (Ping timeout: 240 seconds)
+ <MalMen> hello, my ati driver is not working on ubuntu 11.04.. anyone can help me please ?
+ <IdleOne> KM0201: 11.10 is 6 months away and off topic for this channel
+ <KM0201> IdleOne: i was just saying what i read
+ wait one sec
+ I didnt copy that
+ Calamari   http://pastebin.com/hppW8wcE
+ oh yeah yes
+ I wonder why does it matter what type of cd or dvd it may of been blank
+ I dunno!
+ Here it is :  http://pastebin.com/CNL8VRxz
+ thats when I put in a CD look what happens when I type mount after putting in DVD
+ Calamari http://pastebin.com/ixwprTBh
+ what is sudo K3b going to do
+ I already tried to burn over a thousand times using k3b!
+ Ok lets see this
+ *americans, president obama on tv to talk it supposed to be a national security issues*
+ sud
+ Calami
+ I have this something about error , then it said try "TAO" the error was a number but I didnt get it
+ Calami I think I know what wrong when I typed sudo k3b I got this long message want to see
+ http://pastebin.com/xX1v565f
+ want me to re try
+ so "gksudo k3b" then burn to iso
+ it loaded last time
+ it still didnt work it gave me that message about klauncher when i looked back in terminal
+ NO
+ No it said I had root
+ It was a number
+ hey guys I know this is an ubuntu room, but Osama Bin Laden has been caught and he is dead
+ Sorry, I just heard it on CNN
+ it some big news
+ calami please
+ shoot
+ no one to help me
+ I know I announced that already tully I got int trouble
+ xangua most not live anywhere near where he killed 3,000 + of our ppl

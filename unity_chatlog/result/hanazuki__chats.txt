@@ -1,0 +1,4 @@
+ how do i get raido tray working in ubuntu natty ?
+ rcmaehl,  yes i upgraded from 10.10 to natty but now it wont start
+ rcmaehl,  oehh i cant confirm that
+ rcmaehl,  it says its installed

@@ -1,0 +1,3 @@
+ Question about upgrading from 10.10 to 11.04: I have a 10.10 system, ran update manager and pressed the Upgrade button.  It gives me the Release Notes, and when I hit Upgrade again, it waits for a couple of seconds and then droppped me back to Update Manager.  My other laptop upgraded just fine.
+ karth: was there any diagnostic messages I can see?
+ karth: thanks for the info.  I'm glad that I am not the only one.

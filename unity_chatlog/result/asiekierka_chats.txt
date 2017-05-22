@@ -1,0 +1,99 @@
+ Hello
+ So I upgraded from 10.10 to 11.04
+ now my OS is a complete s**tfest
+ in GDM everything blinks the menus are not visible
+ i got here from irssi actually :/
+ NOPE
+ don't
+ i just ruined my Ubuntu installation using the standard way
+ and have no idea how to fix it
+ anyone with 11.04 can help :/
+ this is really bad =(
+ i need to use my computer to move some files now but i really can't
+ unless i use cp /*
+ or something
+ xsinick_laptop in what way
+ i use Nvidia
+ >:(
+ i use Nvidia and the entire Gnome (notifications and desktop) blinks for me on/off
+ and the menus aren't visible at all
+ carandraug i'll just run ./fixgpu.sh to install the beta drivers i use
+ i'll see if it helps
+ (my own script)
+ brb
+ Derrrrp
+ this is NOT what i intended
+ :[
+ the drivers didn't help
+ what to do now
+ carandraug didn't you know how to fix the nvidia issues?
+ oh
+ i... am honestly annoyed by this fact and hope a fix is released
+ is there a way to get the OSS nvidia drivers into Ubuntu? like, by command line
+ rikriktherik: ugh... apt-get install default-jre
+ just do it as root
+ what was the X configuration command for ubuntu actually?
+ i think there was one
+ not sure
+ maybe i mistook it for another system
+ so, what was the x video configuration command in Ubuntu 11.04 (command-line)
+ :(
+ :|
+ Okay, i'm in failsafeX
+ GDM booted without blinking
+ but i STILL can't see the menu bars
+ what's going on!?
+ sdegutis 11.04?
+ waterman for propiertary driver users yes, especially nVidia
+ yes but i still have no idea how to restore the gnome menu bars
+ also everything is so square now just as if a theme pack wasnt installed
+ this is a horrible upgrade for me
+ tanath i don't have access to any menu bars
+ and stop gdm/start gdm fails
+ oh wait a minute
+ nope
+ checking ctrl+alt+del
+ tanath hibernation, sleep, reboot, turn off
+ eiriksvin i like how classic didn't have problems
+ i mean
+ 10.10
+ one moment
+ ok, i got screen lock there
+ but the lock menu doesn't appear
+ just its desktop
+ i think like
+ half of Gnome broke up and i need to reinstall it
+ tanath there's a change user option
+ i clicked it
+ and now i'm at an empty dekstop
+ tanath i'm on 11.04
+ upgraded from 10.10
+ tanath i'm using the tty shells ubuntu gives
+ you know, Alt+F1-F4
+ i'm considering a reinstall
+ but i'm not sure if i'm considering ubuntu :|
+ it was fun and easy, sure, but
+ tanath i think so, yes
+ tanath yep, irssi
+ notthe narwoah you expected
+ was it
+ i'm already in failsafeX
+ okay this is not helping
+ Looks like any plans of doing stuff today will have to wait
+ i'm considering changing distros :/
+ tanath I believe 11.04's X installation ended up corrupted for me
+ half the things barely installed
+ Chaoss so seem I
+ I used 10.10
+ it worked perfectly
+ upgraded and now...
+ GDM blinks in normal mode
+ no menus visible in failsafeX
+ (or normal)
+ lock screen is also buggy, buttons are square and look like themeless
+ tanath yeah
+ what's the command again?
+ Chaoss
+ if you shout we're going to ignore you even more
+ look, a new version of Ubuntu ruined lifes of hundreds of peole
+ ZenGuy311 not with the thousands of packets i had installed

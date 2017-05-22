@@ -1,0 +1,6 @@
+ guys?
+ someone know how to compile perl script to exe file
+ i need to compile
+ because i want to send someone my program on windows
+ and he doesnt have perl installed
+ and have no idea how to execute it

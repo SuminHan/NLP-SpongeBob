@@ -1,0 +1,1 @@
+ Hey i've got a question for yall. When aptitude is "resolving dependencies" it says "open: # closed: # defer:#" what do these mean?

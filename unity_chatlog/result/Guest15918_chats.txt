@@ -1,0 +1,2 @@
+ My friend is running 10.10 withot an internet connection & he has removed openoffice by mistake. I have an internet connection .Is there away I can download and take the packages with me ? & then install them by dpkg -i *. deb  ????
+ how to know which packages to download ?

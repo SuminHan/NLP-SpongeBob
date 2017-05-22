@@ -1,0 +1,3 @@
+ Question, 11.04 is out, since it has a new gui, should i reformate or just upgrade?
+ Ok... thanks for the heads up ohsix
+ I have a netbook, pretty normal setup (though i use desktop edition because unity sucks in 10.10)

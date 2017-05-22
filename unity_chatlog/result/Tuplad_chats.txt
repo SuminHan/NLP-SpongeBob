@@ -1,0 +1,23 @@
+ so... another nvidia talk. I've just installed Ubuntu on my laptop. the usb live version worked just fine, when I installed it it told me to get drivers, because unity can't be run.
+ installed nvidia, now I have no video whatsoever :(
+ Dr_Willis: Nvidia GT540m - I downloaded from the site, installed, rebooted... now I'm in TTY trying to fix it.
+ Ignatus: indeed
+ Dr_Willis: the ones from repos didn't work at all, I downloaded from nvidia.com
+ Dr_Willis: the one in repos don't work either, I can uninstall the nvidia.com ones
+ How can I get "glx" support ? I'm trying to install unity, but with no success. nvidia drivers just won't work.
+ Dr_Willis: Geforce GT540M
+ Dr_Willis: I don't think they work, because I can't access nvidia settings and I can't install unity.
+ Dr_Willis: fresh install, I want Unity-3d, not 2d :D
+ Dr_Willis: exactly, everything is installed, but it doesn't work. GLX doesn't seem to work and I can't make it work :(
+ Anyone knows how to activate GLX ? Can't seem to get it right, Unity etc. doesn't work.
+ is there a way to uninstall unity and everything that comes with it ? it's really bloated and slows everything down on both computers.
+ red2kic: why reinstall ?
+ !downgrade
+ I'm not trying to downgrade
+ just remove unity
+ I'd rather get Gnome 3
+ so removing Unity can't be done ?
+ !Unity | Tuplad
+ desktopcouch-service is taking up 100% CPU, anyone else having this problem ? Googled, but no solution fond.
+ desktopcouch-service is taking up 100% CPU, anyone else having this problem ? Googled, but no solution fond.
+ desktopcouch-service is taking up 100% cpu after upgrade. how to fix ?

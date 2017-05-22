@@ -1,0 +1,5 @@
+ hello
+ does someone else also slow internet on ubuntu 11.04?
+ i got the same problem as haroon. wireless works but some programs act like there is almost no internet
+ giles at the log in screen. there is a option below for that
+ why is wireless internet slow on ubuntu 11

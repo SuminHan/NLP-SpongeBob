@@ -1,0 +1,3 @@
+ The upgrade to natty seems to have broken nautilus. is this a known issue?
+ After upgrading from maverik to natty, nautilus is unusably slow. Using classic gnome. Any takers?
+ Hi. Any word on why compiz-config won't fully import old configuration files, and why it wipes my config when upgrading?

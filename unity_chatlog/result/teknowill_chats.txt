@@ -1,0 +1,50 @@
+ I can give you some help with hp printer vbox win 7
+ thegoodcushion: i can help a little
+ thegoodcushion: do you have the usb 2 expanstion pack installed
+ thegoodcushion: have you tired it with both usb 2 turned off and on
+ thegoodcushion: its fully dismounted from ubuntu and mounted in win7 box? sry so manys qs
+ thegoodcushion: k, you could share the printer via samba
+ thegoodcushion: samba/cups
+ thegoodcushion: you should be able to share the usb printer over cups/samba to the vbox
+ thegoodcushion: what's messing up the share
+ thegoodcushion: so your host is win 7 and guest ubuntu? you should "share" from host if possiable, otherwise you might have issuses.. one sec pls for the answer to q
+ thegoodcushion: in unbuntu 10.04 top bar > system > administration > printing > network printer > windows printer via samba
+ thegoodcushion: windows 7 dose and it makes a different how the network setting are set for vbox, set the vbox net interface to bridge so it has a ip in your network
+ thegoodcushion: you might need to give the host ip in manually even then
+ thegoodcushion: on the lower right of vm window should be an icon for network card if not: shutdown the guest, and under its settings should be something about the network card in there will be a drop down
+ thegoodcushion: it's not just a selction in the settings not too complex, but understand the fustration
+ thegoodcushion: yep!
+ thegoodcushion: i think the real one
+ thegoodcushion: hard to picture in my mind sry
+ thegoodcushion: could you see inet pages befoer in the box?
+ thegoodcushion: sounds right
+ thegoodcushion: you could make a dummyuser or you can put a password on the administrator account that is default to all win boxes
+ thegoodcushion: ubuntu support annoymous, but win 7 has this homegroup thing, if you have that on it makes working with non win7 pcs hard
+ thegoodcushion: i guess, but this is a fixable problem
+ thegoodcushion: if you want as well, you can have ubuntu print to pdf file as printer insead of direct and just save them to a shared dir
+ thegoodcushion: and just print in win... k just a side thought... but I think the troulbe is win7 home group crap
+ thegoodcushion: only when you trun off home group can any pc access a share without password... you would have this problem on any non win 7 metal box trying to connect over ethernet, just so you know
+ thegoodcushion: but usb on bare will work, non vm has it's problems as well, but speed will be better
+ thegoodcushion: i think though, if you turn off or remove your win 7 pc from home group and reshare the printer to "everyone" ubuntu will take it
+ thegoodcushion: ok, well good luck with either route, i'll check/scroll back in a bit if you decide to give it more time
+ thegoodcushion: I've have good luck with 10.04, I wouldn't go 11 yet
+ thegoodcushion: had good luck with opensuse 11.3, 11.4 kde eats too much cpu
+ thegoodcushion: well debian is a pain if you want none approved progs and out of box flash didn't work... fedora is good but again you need to get codeces....
+ thegoodcushion: well i mean as far as they go i'd go best experiances were unbunt 10.04 for desktops and debian no-gui for servers
+ thegoodcushion: you might be able to use a different x server in ubuntu if you dont like unity
+ thegoodcushion: well you could always add it later, i'm sure there would be a  ubuntu distro with a none unity if they do, i mean they have a kubunu now so I bet they would doa gubuntu
+ thegoodcushion: I say as long as it still has what you want stay with it, till it doesn't i'm sure a lot of people will want they anther solution will come around if they do drop it
+ thegoodcushion: don't forget name almost missed your im
+ thegoodcushion: is party why i went with lts so I have a chance to adapt and or somehting that will come can come out have a few years with this one till it's a "problem"
+ thegoodcushion: i had bad luck with 10.10... and they only seable diff from 10.04 is it's libra office by defult and the rythmbox thing is "cooler"
+ thegoodcushion: then go with 10.04
+ thegoodcushion: you can upgade kernal after
+ thegoodcushion: if you really want 10.10 i can get you a torrent link...
+ thegoodcushion: ok, no problem good luck
+ the guy was just telling people where channels where
+ de channels
+ german
+ i think it's a bot though, just to help them find it
+ html_inprogress: its a bit complezx
+ html_inprogress: you need samba, or you can use ssh and sftp, do you need a drive letter or just get/put to folders?
+ Barsuk: install 11.04 unity is default

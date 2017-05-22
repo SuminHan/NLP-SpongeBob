@@ -1,0 +1,8 @@
+ hello, can you help me?
+ I have ubuntu installed but I want to put a hard disk with windows already installed, how can i include this windows in my grub???
+ i tried sudo update-grub but not work ...
+ no DasEi
+ DasEi: after i will include this hard disk in fstab, the command sudo update-grub will work??
+ Jordan_U: i dont know pc is in my school...
+ yes, i know Jordan_U , tomorrow i will try all the options you cant tell me now hehe
+ i will remember this Jordan_U thanks

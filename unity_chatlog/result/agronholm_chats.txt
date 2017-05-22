@@ -1,0 +1,47 @@
+ hi, does anyone know how to make the unity launcher permanently visible?
+ it doesn't always show when I move my mouse cursor to the left side of the screen
+ so I would prefer it to be visible at all times
+ I just can't find any setting to make that happen
+ ah, it was in compiz-settings.
+ boot: java has nothing to do with javascript
+ rzx237: yeah it can be configured graphically too
+ rzx237: http://askubuntu.com/questions/35963/how-to-make-unity-dock-always-visible
+ from what I've heard of it, gnome 3 is a train wreck
+ boot: are you not hearing/reading me
+ boot: I already said java has nothing to do with javascript, so how do you figure installing Java would help with Javascript issues?
+ boot: enable javascript in settings
+ boot: in the content tab
+ boot: then the website is probably doing something wrong -- what site is this?
+ boot: yeah the website seems broken
+ not much you can do about it
+ boot: in firefox?
+ boot: for the last time, this has nothing to do with Java
+ boot: the website has an error -- it's looking for the "txtPassword" element when it should be looking for "txtpassword"
+ boot: a simple programming error
+ not the fault of your browser
+ boot: in firefox?
+ boot: I just tried in Firefox 4.0.1 on Windows, it does not work
+ boot: I get the same error
+ boot: not for me
+ boot: I don't get the error on IE8 though
+ boot: fails here on firefox 4.0.1 with java 6 update 25
+ boot: I cannot fix the site for you -- try any other site and you will see that javascript is enabled and working fine
+ KM0201: http://edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx
+ KM0201: try any combination
+ ActionParsnip: so it doesn't work on chrome after all?
+ ActionParsnip: yup, javascript disabled please enable
+ on any browser other than IE
+ boot: that's what I thought too
+ boot: I already explained what the problem is
+ did you miss that line?
+ ActionParsnip: not my problem...I'm helping boot out here
+ boot: because internet explorer works case insensitively with document.getElementById()
+ the others do not
+ main what?
+ boot: yes, like I told you already.
+ I don't understand why people use Internet Explorer so much in India
+ and China too
+ Jasonn: that has what to do with browser market share?
+ boot: yes but clearly that site was only tested with IE
+ boot: nothing really
+ yeah we heard you the first time

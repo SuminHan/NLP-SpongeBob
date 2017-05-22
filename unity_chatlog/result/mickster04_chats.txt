@@ -1,0 +1,29 @@
+ !who
+ !who
+ :D
+ tomekh: try tab complete and see if it shows you?
+ !tab | tomekh
+ tomekh: when you tyoe in sudo apt-get install op<tab> and it will show you a list of options
+ tomekh: why not?
+ !unity
+ MK``: Andrey_BTI's prpoblem sounds like a samba issue
+ !broadcom | atpa8a
+ shane4ubuntu: compiz
+ shane4ubuntu: ?
+ diaoer: i don't think that is a correct correlation
+ diaoer: more partitions doesn't mean the harddrive will break sooner?
+ diaoer: not related to the number of partitions i can bet
+ mordof: /SET IGNORE XXX perhaps?
+ mordof: he can still see you though -_-
+ !grub | fezzik02
+ fezzik02: well the restoregrub link ois for you then
+ is*
+ !md5 | rpk
+ Ivan96485: not natively no... or hybernate kinda does?
+ \!md5 | JoshuaYoshua
+ hanasaki: you have it set to lts only
+ hanasaki: go to synaptic>settings
+ hanasaki: 0.o no idea, where do you see that?
+ !vnc
+ LAcan: see ubottus thing
+ !unity | afeijo

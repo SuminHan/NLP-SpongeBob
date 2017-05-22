@@ -1,0 +1,1 @@
+ I'm looking at this bug report at the moment.. https://bugs.launchpad.net/ubuntu/+source/vlc/+bug/542943 .. They're claiming the fix has been released in the given versions they write in there.. but how do I get those versions, because the official packages have earlier versions?

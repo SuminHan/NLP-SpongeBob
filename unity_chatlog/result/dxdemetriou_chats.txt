@@ -1,0 +1,13 @@
+ upgrade from 10.10 to 11.04 I have the error "The upgrade has completed but there were errors during the upgrade process"
+ if upgrade does not complete can I re-run the cleaning process?
+ if the upgrade from 10.10 to 11.04 is completed can I repair it? After pressing OK it didn't make the cleanup process.
+ if the upgrade from 10.10 to 11.04 is completed with errors can I repair it? After pressing OK it didn't make the cleanup process. (sorry for the double post)
+ RoDiMuS-X, it does not have any broken packages, just completed with errors without cleaning non-required packages, and the problem is that I can't find what package/s produced the problem.
+ where is the configuration for X now (xorg.conf)? Nvidia still uses xorg.conf.
+ unity does not show anything, just the background..
+ I have Ubuntu with sequential updates from Breezy 5.10. Maybe it's time to make a fresh install.
+ zvacet, I see a lot of warnings/errors in each new release and I have to choose if it's better the troubleshooting or rebuilding.
+ zvacet, the latest is that I have the unity with background only.
+ In indicator applet when I create a profile for vpn connection id does not let me to save it without password (with Marverick I could).
+ from "indicator applet" the "vpn" where it stores the "private key password"? It doesn't accept to be empty.
+ can I have the old-per-window-menubar back in unity to be the default? (http://brainstorm.ubuntu.com/idea/27688/)

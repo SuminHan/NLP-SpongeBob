@@ -1,0 +1,3 @@
+ hi, excuse me...
+ is ath9k a proprietary driver?
+ Is there a FOSS replacement for ath9k?

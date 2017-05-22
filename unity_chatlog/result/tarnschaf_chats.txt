@@ -1,0 +1,1 @@
+ hi, does anyone know a possibility to run 3 monitors with 2 graphics cards?

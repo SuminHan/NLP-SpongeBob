@@ -1,0 +1,4 @@
+ hi folks, is the reason the 32bit version of 11 recommended because the 64 is not quite stable?
+ Incarus6: thanks, that's the advice I got elsewhere too
+ 32 it is
+ cheers folks!

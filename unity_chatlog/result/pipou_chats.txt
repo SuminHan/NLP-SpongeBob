@@ -1,0 +1,1 @@
+ where does the ubuntu upgrade need 1.5 GB or so of disk space? I can't do that on / but can somewhere else

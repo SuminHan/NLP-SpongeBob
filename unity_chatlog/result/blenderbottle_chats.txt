@@ -1,0 +1,4 @@
+ why wont xchat connect to the irc.twit.tv server
+  IdleOne ...what could i be doing wrong
+ i can connect in irssi
+ wtf....

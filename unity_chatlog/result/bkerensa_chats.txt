@@ -1,0 +1,31 @@
+ Ubuntu Natty repos seem so slow.... 99kbps downloads ugh
+ Has anyone tried Classic Session on Natty? I dont wanna use the Unity Integrated menus.
+ cholo: Are you kidding me?
+ cholo: So they are forcing people to use integrated menus
+ Well if they remove the Classic Session option from Natty I will have to go back to Maverick
+ I do not like this integrated menus stuff.... It reminds me when MS added the crayola crayon of a taskbar to XP
+ ChogyDan: So if they remove Classic from Natty will there be a solid workaround to scrap Unity for Gnome 2
+ ChogyDan: Yeah but apparently they plan to remove the Classic option in future releases and force Unity
+  ChogyDan: Yeah but apparently they plan to remove the Classic option in future releases and force Unity
+ ChogyDan: How can I change repos when doing a natty upgrade so the download process if faster
+ Help!.... I am trying to do the Natty upgrade from 10.10 but the download speeds on the repo are insane slow... My eta is over 7 hours.... I have plenty of bandwidth
+ Surlent777: Do you know if they intend to keep the Classic option on Natty or eventually force Unity?
+ Surlent777: Hmm so if I prefer classic perhaps staying with 10.10 might be best bet
+ Surlent777: I just dont like the integrated menus... I hate it.... I love classic panels
+ Surlent777: Yeah but when/if they discontinue classic in Natty then I gotta do a workaround to keep classic and that wont be fun?
+ yes
+ use apt-get remove
+ doncams: Use apt-get remove lamp-server
+ Flare183: Why not apt-get remove lamp-server ?
+ doncams: It will go too
+ :)
+ Dominater: I concur with Flare183... proftpd for the win
+ demlasjr: Have you ran apport?
+ Dominater: In most cases yes
+ thejonb: I would wait a few hours imho
+ doncams: !dpkglock
+ eck
+ damn xchat script :P
+ n #ubuntu-us-or
+  /join #ubuntu-us-or
+ joeyr: You having some trouble?

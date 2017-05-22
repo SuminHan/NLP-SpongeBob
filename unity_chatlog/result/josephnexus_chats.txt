@@ -1,0 +1,14 @@
+ in natty, when I enable dual screen, my system becomes nearly unresponsive.  I have an nvidia 8800... should be fine
+ looks like it installed the wrong driver by default
+ manday, no
+ mah454: what's wrong with it?
+ it's working fine for me
+ vooze: just run your updates
+ Bluebill-Wolf: defragging is for stuff like ntfs and what not, not needed in ext4 and such
+ vooze, apt-get update first
+ mikebot: it's a way of virtualizing other operating systems
+ it works quite well
+ skabja: similar thing here... I think the servers are a bit overwhelmed
+ so how can I change the shortcuts found in the dash on unity?
+ a friend of mine just installed 11.04 and it wondering how to clear recent documents... i've figured out how to do it it in most places, but totem doesn't seem to store it in recently-used and i'm not finding any where to clear it since there is no places menu anymore
+ any ideas?

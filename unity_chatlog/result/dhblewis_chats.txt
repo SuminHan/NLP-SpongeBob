@@ -1,0 +1,3 @@
+ I now have Ubuntu 11.04. Taking a while to get used to it! However, Whenever I print I get this error message processing file /system/library/colorsync/profiles/sRGB Profile.icc
+ anyone able to help me with my printing issue?
+ I now have Ubuntu 11.04. Taking a while to get used to it! However, Whenever I print I get this error message processing file /system/library/colorsync/profiles/sRGB Profile.icc	 Anyone know how to fix it?

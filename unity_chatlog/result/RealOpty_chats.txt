@@ -1,0 +1,8 @@
+ ^
+ morning
+ is 11.04 using gnome 3 ??
+ I hope not. its crap
+ Stameni, is it similar to gnome3?
+ has anyone used apt-cache-ng to do distupgrade ??
+ has anyone used apt-cache-ng to do distupgrade ??
+ does virtualbox only emulate a 32bit cpu??????????

@@ -1,0 +1,7 @@
+ hi ppls, is there away, to view a sata drive that is connected by a multiport adapter, filesystem type comes up as unkown
+ is there an anti-virus i can install in ubuntu10.10 to examine windows hd's?
+ ty Starminn
+ might try clamav first.... system was working fine ..... now its slow from the bootup bios screen :/
+ ubuntu10.10 doesnt seem to like big file transfers + xchat + software center all at the same time with only 2gig ram :(
+ tripelb thats considered illegal in most countries
+ does any1 know how some1 can hack a browser to create a chat?? it happened to me yesterday now my system is clapped out

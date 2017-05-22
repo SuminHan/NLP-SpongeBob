@@ -1,0 +1,20 @@
+ #join ubuntru.se
+ #join ubuntu-se
+ in my gnome panel I had a icon that when you clicked on it and then on a window closed that process. This was very handy when a window stoped responding. How can this be done in Unity?
+ Now I done it... When I login with unity I only get a background image.. nothing else. I think I messed up in compiz-config. I tried to delete the .compiz folder in my home but that didnt help.. how do I solve this?
+ if I log in with clasic and turn ubuntu plugin on in compiz-settings I get the unity launcher back with my settings.. but not the panel
+ Dr_Willis, but I dont want to reset the launcher.. it seems to work (if I start it in classic anyway). But the panel + launcher is gone in my unity login
+ is there any known graphic bugs with 11.04? I did a clean install on my brothers computor and his screen wont "light up" If you look closley you can se some of the background image and I can se the mouse.. Its like the screen has no backlight. Everything workes on 10.10 (liveCD) and if I connect it to the TV it works...
+ I have this bug https://bugs.launchpad.net/ubuntu/+source/gnome-power-manager/+bug/772785 on my computor and the suggested fix workes. But How can I make this stick after reboot?
+ uberfrau, I know. The suggested fix in my link works (set the brightnes to full) but how can I make this stick after reboot?
+ anyone knows how i can make this suggestion stick at reboot? https://bugs.launchpad.net/ubuntu/+source/gnome-power-manager/+bug/772785
+ Ive got the "backlight is off" bug on my laptop. I tried to put the solution (setpci -s 00:02.0 F4.B=20) into rc.local but it wont work. I guess I need to do sudo.. .how can I solve this so the command is runned as sudo everytime a reboot?
+ Dr_Willis, Yepp I did. Though the screen light up for a second it turns of when I have loged in
+ yepp if I do a sudo setpci -s 00:02.0 F4.B=20 the screen lights up as it should
+ Dr_Willis, sounds right.. witch file and where? I'm feeling like a n00b
+ Dr_Willis, come again?
+ Dr_Willis,  sorry... ok.. I'll try that one
+ Dr_Willis, So I put a new startup app in system->preferences->sessions and at command I wrote setpci -s 00:02.0 F4.B=20. Nothing happened at reboot.. Does "startup apps" work the same when running unity?
+ Dr_Willis, ok solved it with a uggly hack.. just put sleep 5 before the command in rc.local... Not pretty but it workes.
+ Dr_Willis, Hope they solve this soon... this workes for now.. thanks for all the help.. I buy you a beer sometime.. ;-)
+ Dr_Willis, Yepp.. I'll make it like 20 instead...

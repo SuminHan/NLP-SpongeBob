@@ -1,0 +1,8 @@
+ Why can't Ubuntu keep Broadcom B43 support stable?
+ STA doesn't work in 11.04
+ It worked fine me both 10.x versions
+ is there anyone around that can explain why ubuntu can get the broadcom b43 support consistent?
+ I understand thanks
+ But why does support come and go every time
+ it works in one release and doesn't two releases later then it works for two more and stops again
+ How do I get this issue higher on Ubuntu priority list?

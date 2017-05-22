@@ -1,0 +1,7 @@
+ has anyone installed the flash player 11 on ubuntu?
+ anyone
+ I'm trying to see if flash molehill
+ runs nicely in ubuntu
+ so.... adding the beta flash player into firefox
+ any ideas
+ ?

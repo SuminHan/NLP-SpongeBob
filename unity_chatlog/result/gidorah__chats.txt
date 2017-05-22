@@ -1,0 +1,3 @@
+ hello, i have problems with installing opencv on ubuntu. here is the terminal output of make command: http://codepad.org/B9ijN98y . could anyone please help me?
+ hello, i have problems with installing opencv on ubuntu. here is the terminal output of make command: http://codepad.org/B9ijN98y . could anyone please help me?
+ hello, i have problems with installing opencv on ubuntu. here is the terminal output of make command: http://codepad.org/B9ijN98y . could anyone please help me?

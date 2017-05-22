@@ -1,0 +1,6 @@
+ hi guys!
+ i need some help. I've some dependencies. I tried to resolve the problems with apt-get -f install and synaptic's fix broken dependencies but nothing happened.
+ update-manager said Can not upgrade An upgrade from '' to 'maverick' is not supported with this tool.
+ please help i dont wanna reinstall
+ Chipzzz:  --check E: Command line option --check is not understood
+ http://pastebin.com/W1R7MUM9 that's my problem dependencies

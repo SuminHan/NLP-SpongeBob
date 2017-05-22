@@ -1,0 +1,7 @@
+ how safe is an encrypted home partition?
+ the regular installer
+  ecryptfs the default one that is used in the ubuntu installer
+ rgr: ecryptfs
+ sorry to ask this again but does anyone know how secure ecryptfs is?
+ ohsix: ok thanks i was just wondering because since it only encrpyts your home directory i was worried that there maybe sensitive data stored in other parts of the partition is this true?
+ ohsix: are all privite files stored in the home directory such as logs?

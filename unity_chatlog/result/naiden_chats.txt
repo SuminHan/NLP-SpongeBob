@@ -1,0 +1,3 @@
+ when i run vi, ubuntu opens vim, then when i try vim it does not exist and  it proposes install vim, why vim command doesnt works?
+ Hello71, taglass, but when i type vi, console shows "VIM - Vi IMproved"
+ taglass, hmm, ok

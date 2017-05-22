@@ -1,0 +1,2 @@
+ compiz ain't working on 11.04 here, I have AMD catalyst drivers (latest),  glxinfo gives "X Error of failed request:  BadRequest (invalid request code or no such operation)"
+ lol, bug, enabling sync to vblank results in epic slowness

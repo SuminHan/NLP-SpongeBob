@@ -1,0 +1,3 @@
+ Hi
+ Is there a way to have close, maximize, minimize buttons on the right side in Ubuntu 11.04 for maximized windows?
+ Hi! Is there a way to blur behind Unity launcher?

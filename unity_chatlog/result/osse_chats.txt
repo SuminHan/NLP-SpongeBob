@@ -1,0 +1,27 @@
+ mikebot, what do you mean by "on the same partition"? Did you install it from within Windows?
+ mikebot, if they are visible from 'Computer' you probably have the side-pane in the File manager turned off :P Try pressing F9
+ mikebot, if you go to System -> Preferences -> Appearance -> Visual effects you can choose 'None'. That should help
+ mikebot, then probably you don't have any desktop effects at all, because somehow it's not supported. Do you know what graphics card you have?
+ mikebot, did you find the Visual Effects tab,?
+ Soothsayer, I don't know why you don't have that tab.
+ mikebot, then I don't know. Sorry. Maybe it will help if you install Ubuntu not from within Windows, but that can be a bit complicated if you're not experienced with creating partitions and so on
+ mikebot, if you use a so-called extended partition instead of a primary partion you can have as many partitions as you like. The extended partitions works as a "frame" you but logical partitions. But still it means you have to remove one of the partitions you have now.
+ I just booted up with a USB stick with the 64-bit Natty images. Have they moved the "try or install directly" choice to the GRUB menu or is there something wrong with my imagethingy??
+ Have they moved the "try or install directly" choice to the GRUB menu or is there something wrong with my imagethingy??
+ bahamas, how have you modified it? Which OS is the other one?
+ bahamas, I would suggest installing a new menu.lst. Grub has gotten pretty good at detect stuff lately.
+ bahamas, hold on. which versions are you upgrading from and to?
+ bahamas, is it too late? :P If I'm not mistaken 9.04 used grub, not grub2.
+ bahamas, I would still install a new one though, but make a backup of the original
+ bahamas, it'll probably be fine. It's been a long time since I've had to modify the grub menu manually
+ bahamas, but I apologize in advance if it turns out I've given som incredibly stupid advice.
+ bahamas, I would wait. In reality I don't think you have a choice since the package manager thingy is in use by the upgrade process.
+ bahamas, I think I gotten the question about menu.lst before without me even changing the file myself at all. If you can't remember how you modified it it probably wasn't important :P Stuff like which is where on the menu and timeout and all that is easy to change. Are you going through a chain of upgrades or are you stopping at 9.10 ?
+ ohsix, true! but in this case I think we are stuck with grub, not grub2 which is what made it all better, I believe.
+ bahamas, I'm not really sure. I can't think of anything that should make it slower except for fancier desktop effects which you can turn off.
+ Each time a new Ubuntu version comes out I see a lot about upgrading. But I never manage to find out if there will be any significant difference between a fresh install and an upgraded installation. I guess because there are none?
+ rgr: Maybe a "no news is good news" kind of thing :P
+ Thanks, guys. I'll try to think of stuff I might have done. In 11.04 the default media player has changes. Does this mean that Banshee won't get installed because it notices that I have Rhythmbox set as the default player?
+ Froq, extracted it'll be over 400 MB I think. Text files are usually very compressable. Also, that it's a bunch of small files instead of a few larger ones contributes.
+ jrib, ohsix: thanks.
+ Does anyone know how to make Ctrl+Shift act like AltGr?

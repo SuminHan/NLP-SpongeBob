@@ -1,0 +1,6 @@
+ hello !
+ i would like to send some keyboard events using a sh script.. is it possible ?
+ escott, yes
+ escott, i don't have xsendkeys, and i can't install it
+ escott, i don't have internet on this computer. But i do have root. I can't really install anything
+ escott, your last link works perfectly. Thank you so much

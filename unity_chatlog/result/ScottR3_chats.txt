@@ -1,0 +1,23 @@
+ marel: su
+ other_max: unless I can customize some of the options I can't find menus for, I'm going back to gnome2. Biggest complaint
+ escott: you're right, sorry. forget these things sometimes ;)
+ so I've got a few questions on how to, er, fix some of the customizations unity has taken liberty with
+ 1) how do I move the launcher? it's on the left side of my right-hand monitor...
+ fizk_: took me 2.5 hours just to download the packages :-/
+ how do I remove the top menu bar from my second monitor?
+ how do i disable this auto-snap-maximize feature in 11.04?
+ mongy: great, thanks. just didn't know where to look!
+ mongy: ahh.. ubuntu is once again not irritating! thanks!
+ AceKing: you don't have to use Unity. I turned it off because I didn't like it
+ matt[vic[ makes me happy to see someone in the know hates it too
+ AceKing: can't speak for them, personal experience only... dropped back down, no issues so far
+ AceKing: to drop back down, just select "Ubuntu Classic" at the login screen
+ nmvictor - i'm starting to get that feeling too...
+ 11.04 was released yesterday jatt
+ jatt: -_-
+ After installing 11.04, some of my keyboard shortcuts aren't working, and I can't find where they might be bound in CompizConfig Settings Manager.
+ roasted: Yep, and they're bound just like they were in 10.10 before I upgraded
+ roasted: Mod4 + T (Mod4 = windows key)
+ roasted: what's more, Mod4+E still works as originally bound...
+ JoshDreamland: you logged in to Ubuntu Classic and not Unity, right?
+ JoshDreamland: which applet exactly, and what's not working about it?

@@ -1,0 +1,13 @@
+ so are people planning on actively working on unity while this release is in the wild?
+ sebsebseb, are we going to see those improvements?  It's completely unusable right now
+ sebsebseb, are they going to continue developing unity even after gnome 3 is done?  It seems the two have similar goals
+ sebsebseb, just seems like a strange interface choice...I actually had to uninstall unity on a netbook last release because it was taking up all the horizontal space and causing scrollbars on all webpages
+ sebsebseb, so are they going to try to reconcile those?  seems like a pretty strange thing to have two different versions of the same thing floating around... I'm still not sure why they didn't just pump more manhours through docky, which appears to be more stable and usable than this unity thing is
+ jo-erlend, I'm just wondering why this change has been forced on desktop users when it doesn't appear to have anything to do with us, are there a lot of people running ubuntu on a touchscreen device?  AFAIK there isn't even a ubuntu touchscreen device in existence...
+ jo-erlend, I'm running the standard session right now after an hour or two of being frustrated with even the most minor modifications to the unity bar (adding new applications to it), but I'm worried that in future versions users not using unity will be shoved out the door or disregarded, I want somewhere to voice my opinion
+ jo-erlend, If there's some like voting booth or something I could go to to let everyone know that I don't think this is a good direction for the OS I would be very interested in doing so.  Unity has to be one of the least customizable things I've ever seen.  You can't even pick which screen edge to display it on (unless there's some manual hack for that I'm not aware of)
+ TerryBook, I noticed that too, was easily the longest part of the install
+ I couldn't even add a custom script to the unity launcher
+ then I tried to add the terminal by dragging it onto the bar and it just put a gap between two icons
+ without anything in it
+ I also tried to pin the active google chrome window on the bar by selecting the pin option, and the freaking thing would never open a new chrome window ever....

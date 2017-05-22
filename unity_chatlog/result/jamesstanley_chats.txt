@@ -1,0 +1,23 @@
+ I have just got a new hard disk. I moved everything using LVM to the new one with LVM, and /boot I copied manually. Now, the new /boot has a different UUID to the old one. No problem, when I booted I just typed the new one in to grub and booted fine. However, when I run "sudo update-grub" I am told "/usr/sbin/grub-probe: error: Couldn't find PV pv0. Check your device.map."
+ Where is device.map and how can I check it?
+ None of my PV's have ever been called pv0
+ Jordan_U: ok, what should I do instead?
+ Jordan_U: i could manually fix /boot/grub/grub.cfg but there must be a better way
+ 11.04
+ Jordan_U: i upgraded from 10.10 to 11.04 recently
+ Jordan_U: but unrelated to the hard disk upgrade and everything worked fine before the hard disk changed
+ Jordan_U: i am currently in the 11.04 kernel and i did it by pressing 'e' at grub and fixing the uuid manually
+ Jordan_U: are you sure the device.map thing is a red herring? Should I not try to find and correct device.map?
+ Jordan_U: I have got my update-grub to work :D. I made a /boot/grub/device.map with "(vg1-ubuntu--root) /dev/vg1/ubuntu-root" as the only contents
+ Jordan_U: how so?
+ Jordan_U: grub-install currently works perfectly well and i can't see myself changing the name of either the vg or the lv ever
+ Jordan_U: the root filesystem should be irrelevant to grub since /boot is not in lvm
+ Jordan_U: /boot is a separate partition
+ Jordan_U: ok, thanks for pointing out my potential mistake anyway
+ Jordan_U: well i guess it's still a mistake but it will have no consequences. it's more of a workaround
+ that's no odds to me
+ i don't spend much time staring at the boot menu anyway
+ Jordan_U: ok, will do
+ Jordan_U: submitted
+ Jordan_U: https://bugs.launchpad.net/ubuntu/+source/grub2/+bug/777435
+ no problem

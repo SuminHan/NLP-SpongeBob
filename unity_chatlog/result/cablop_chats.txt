@@ -1,0 +1,89 @@
+ hello
+ i need a suggestion in a software to detect Wireless Networks and the channel they're using, not kismet, kismet is more than what i need, i just need to know, available networks, channels in use and signal strenght, just to help in choosing the wireless channel of a wlan
+ let me try
+ Sylphid, ActionParsnip will i lost wlan connectivity with that command?
+ Sylphid, ActionParsnip thanks a lot
+ is there any gui for that? i can use this, but barely i can ask others to use CLI
+ any GUI tool able to scan Wireless Networks giving me signal strenght, channel in use, and the like? (iwscan is ok for me, but...)
+ vibhav: giving it a look
+ vibhav: thanks, i think it is good enough, we can go iwlist when wanted more detail :)
+ well guys
+ another question
+ compared to 10.10 is 10.04 much better or just a few  improvements?
+ i mean 11.04
+ mmm unity by default? then better i keep in 10.10 for a while... i disliked unity because it had a unable to hide bar at the left
+ i just liked the bar was like the win7 taskbar
+ i disliked i cannot configure two panels as clasic one on top and below and move their items
+ sigh, i'll like the apps left bar with the classic panels and so on xD
+ in fact i just want the left bar from unity :P
+ any sound or video issues?
+ that crappy pulseaudio becomes just noise and cracks and bleeps after a while, but alsa cannot deal tih my mic
+ *with
+ mmm i see
+ afaik the cracky crappy sund it is an issue related to laptops netbooks
+ when the kernel uses some event instead of time management in order to save battery
+ i always used nvidia drivers in ubuntu
+ i mean
+ original drivers
+ :P
+ ubuntu is free but its main focus is be usable rather than OSS
+ ActionParsnip: same here :)
+ wait
+ i want the answer of finding prefs too
+ mikebeecham: license terms, meaning you as a person actively enable them
+ if thinks are like 10.10 just ticking the active checkbox
+ let me check mikebeecham
+ why system settings in the shutdown menu????
+ MnCC yup it seems unity uses its own windowmanager, not the compiz one
+ mikebeecham: afaik you get somehow to the additional drivers panel
+ mikebeecham: then select the one you want to enable and click on the activate button, it will disable the free one and enable the restricted driver
+ no checkbox, sorry, was confused
+ afaik, if you use nvidia you will have a long way to go
+ for 10.04 and 10.10 you need to delete nuveau drivers first, then install the nvidia ones
+ MnCC not sure, but try installing the CompizFusionIcon, and change settings from there, it'll change the settings for you
+ mikebeecham: i did that in 10.10 to enable the nvidia drivers, i removed many nouveau content
+ because a broken reference in somepackage makes nouveau lanch and then you cannot use the nvidia drivers
+ greylurk, enable all repos, then try again
+ TheHackOps: yes, that solves the nvidia thing, but with a cost, each time you upgrade your kernel they recomplie something and your old kernels won't work for gui
+ for everyone, i suggest you to install the classic gnome desktop, then tweak it until compiz and drivers are working properly
+ then move to unity and make it works
+ Nyvenza do that, move to classic gnome and deal with it until compiz works
+ Nyvenza not all headers are installed by default
+ aetaric i suggest you to install the proprietary ones
+ Nyvenza afaik sudo apt-get install gnome-desktop
+ the best time was when they launched 6.06, they do a good work to release something with no errors
+ after that ubuntu seems to be, try, and deal with it until you got used to what WE believe it is good for you
+ but, besides ranting, my suggestion is this to solve all unity and nvidia and compiz issues
+ install the classic gnome, you already know it, then configure compiz, drivers and so on until they work, then when everything is working fine move to unity
+ give me a second about enabling the old gnome desktop
+ to open the classic gnome i think this wpuld be the guide http://ubuntuguide.net/ubuntu-11-04-natty-login-to-classic-gnome-2-desktop
+ in fact i tried unity in 10.10 and classic gnome, and, classic gnome saves the more space for you on a netbook screen, unity waste space.... ironically (at least in 10.10)
+ Nyvenza check this one http://ubuntuguide.net/ubuntu-11-04-natty-login-to-classic-gnome-2-desktop
+ einseenai, afaik... yes
+ einseenai recommendation was for me to wait at least one month before tryin to upgrade
+ Nyvenza, they replaced the menu for a button with all on it
+ check the guide i gave you to get the old menus back
+ NyvenZA: check the guide i gave you to get the old menus back
+ ok, then let me check it NyvenZA
+ NyvenZA: it should be there, in the login called ubuntu classic
+ ok Nyvenza, but you are in the classic gnome, the one you know and you can fix it, then, try alt+f1 to reach the menu, or alt+f2 to run apps and run ccsm
+ NyvenZA: alternatively you can install compiz fusion icon to select default windows manager and so on
+ cannonball, before login reselect ubuntu classic in login menu
+ netbook are not going to dissapear
+ Nyromith: afaik xubuntu didn't have the support that gnome orkade had, so... i suggest you to use classic ubuntu instead, it is gnome, but gnome works so nice in a netbook
+ Nyromith: well at least in Atom netbooks, dunno in arm or eee
+ Nyromith: I'm running Ubuntu 10.10 on a Compaq Mini netbook with compiz enabled and classic interface, able o launch a Virtualbox with Windows XP on it and using the whole hard drive encrypted, performance is nice
+ Chilaquiles dunno, maybe we don't have that issue, anyway try looking in the menus to see if you disable it by mistake or something
+ Chilaquiles: here it is called main toolbar, click it
+ Chilaquiles: View > Main Toolbar check it
+ Chilaquiles: try reloading window manager or logging off then in again... but it is a weird issue
+ and i agree
+ MAc people would like new ubuntu's .... anyway mac users got used for OTHERS to decided what's the best for them
+ ceo mark it as executable, via Nautilus or chmod
+ ceo, anyway, office 2007 will give you some trouble to run on wine, try a virtual machine instead
+ CQ check them manually in synaptic (if 11.04 still have it) it depends on your installed kernel and architecture, but you'll find it called linux-headers-XXXXXXX
+ TheHackOps: install FlaskBlock for Firefox and for Chrome... i hate flash too xD\
+ TrentonAdams: http://ubuntuguide.net/ubuntu-11-04-natty-login-to-classic-gnome-2-desktop
+ A_J he is saying hello, not asking to ask :P
+ Browser ubuntu 11.04? use main repos for a while until all repos are in sync, it will took a feww weeks or a month depending where you are
+ exit

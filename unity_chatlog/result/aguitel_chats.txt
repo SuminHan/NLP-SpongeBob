@@ -1,0 +1,15 @@
+ !topic
+ how remove all gnome stuff in natty?
+ how remove all gnome stuff in natty?
+ Samsagax, i will install gnome-core
+ coz_, install gnome-core only
+ coz_, thispage is usefull but no natty answer till now about my question ,http://www.psychocats.net/ubuntu/purekde
+ coz_, thispage is usefull but no natty answer till now about my question ,http://www.psychocats.net/ubuntu/purekde
+ anyone try gnome3 in natty ?
+ anyone try gnome3 in natty ?
+ lost_cause, install ccsm
+ what is last version of libreoffice ?
+ rgr, in natty
+ akshatj_, if i install from ppa in lucid too ?
+ rgr, i need to install in 10.04 to replace openoffice
+ akshatj_, thanks

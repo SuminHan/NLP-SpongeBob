@@ -1,0 +1,29 @@
+ why did 11.04 build not turn on the 3945 abg wireless card everf thing but that dose work it worked in 10 build
+ dine
+ fine
+ whats goin on thanks?
+ bazhang: why did 11.04 build not turn on the 3945 abg wireless card everf thing but that dose work it worked in 10 build [20:05] <raymondjtoth> dine [20:05] <raymondjtoth> fine
+ i got a dell e1505 laptop
+ ohsix how i fix it thanks
+ bazhang:  ddi you see wgar ohsix posted
+ ohsix: any fix yet for it
+ bazhang: weird might be some not afected and some is
+ ohsix:  im one that hhaving the problem
+ ohsix: any work around
+ bazhang: it shows ever were even in ifconfig
+ bazhang: any idea
+ bazhang: i did the switch dont turn it on
+ bazhang: hope can still have idea
+ it like if there no driver in windows or a maping for it in dell e1505
+ bazhang: it gave me it as update
+ bazhang: amy idea
+ bazhang: sorry im austic person
+ sorry that not waiting some times it comes out
+ bazhang: o ok want sure
+ thanks for helping bazhang
+ bazhang: stil here
+ still here
+ bazhang: thanks for helping me
+ bazhang: thansk agen for helping
+ bazhang: see any thing
+ bazhang: you still here

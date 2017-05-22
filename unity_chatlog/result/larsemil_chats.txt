@@ -1,0 +1,4 @@
+ any way to disable meta button to open launcher?
+ anything to do when the unitypar does not want to minimize?
+ anything to do when the unitypar does not want to minimize? It stays open
+ unity panel even

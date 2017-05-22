@@ -1,0 +1,12 @@
+ hi all, is there a good application i can use to keep track of tasks, with that minimizes to the tray maybe?
+ hi guys, i want to try to install the x server on an ubuntu install, can someone tell me which iso i could have to use, that does not come with x,?
+ how do i register?
+ with my nick
+ ?
+ hi all, in sun virtualbox is the (save machine state == hibernate)?
+ hi, does anybody know how to copy and paste text from host to a sunvirtual box vm?
+ conky
+ <chille>
+ wow are there actually any other answers?
+ hi, does anybody know how to copy and paste text from host to a sunvirtual box vm?
+ where can i install an installation cd of ubuntu that does not come with the x server, (so that i can try to install it)?

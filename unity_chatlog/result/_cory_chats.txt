@@ -1,0 +1,22 @@
+ has anyone tried 11.04 yet?
+ is it worth upgrading to 11.04?
+ ite I'm going for it lol
+ ok i feel very out of place on 11.04...
+ is there a way to move this sidebar thing to the bottom?
+ where is my administrator menu?  No more compiz?  wtf...
+ why does 11.04 seem so dumbed down?
+ witchsong_: Maybe u can help me figure a few things out.  I want to reconfigure my monitors but I don't have a preferences or administration menu anymore.  Also is tehre a way to reposition the sidebar?
+ witchsong_ ah ha!  thx
+ Yo, does anyone know how to pull back up a window that has been minimized with 11.04?  Xchat wants to open a new instance every time I click it...
+ kubuntu seems clunky and slow for me compared to ubuntu.  I'm having some difficulties getting used to the new interface tho
+ Jot: what is your problem?
+ demlasjr: Try asking your question first
+ jot: so you have proprietary nvidia drivers installed?
+ demlasjr: ah sorry I missed it.  What type of error are you getting?
+ jot: ah so ubuntu is outputting a higher res then your monitors will display?
+ demlasjr: Yeah I've had similar issues in the past.  I can't remember what I did to fix it tho lol.  I want to say I tried changing to a different type of security, have you tried that?  Or would it be too big of a hassle for the other users?
+ jot: have you tried setting your res to auto?
+ demlasjr: Yea try that and see if that works
+ jot: hmm, yea the nvidia x server settings doesn't recongize mine either.  But it does detect the correct res.  What happens when you goto monitor preferences?
+ jot: ubuntu's monitor preferences not nvidias
+ demlasjr: Hey did that work for you?  I went afk for a min

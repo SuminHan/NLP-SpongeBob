@@ -1,0 +1,4 @@
+ Hey all, just got 11.04 and i saw those rotating wallpaper sets. How can i make my own?
+ Can you make rotating wallpapers in unity?
+ can i make rotating wallpapers using unity? the gnome methods dont work anymore obviously
+ crud. I saw those nice roating sets preloaded and thought they made it native.

@@ -1,0 +1,3 @@
+ I just installed Natty for the first time and jockey tells me that the NVIDIA accelerated graphics driver (version current) [Recommended] is "activated but not currently in use". 'Sup?
+ GTX 470 if it matters.
+ ditto Ignatus

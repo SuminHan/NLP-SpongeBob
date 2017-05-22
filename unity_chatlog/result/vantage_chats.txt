@@ -1,0 +1,3 @@
+ Hi all, I've got a couple daru2 laptops from system76 and since 11.04, whenever the laptop tries to start the screen saver the brightness bounces down and up and the machine locks up.  Any idea what might be causing this?
+ rgr: permanently?  Temporarily? Or is it a driver or kernel issue?
+ rgr: Is there a bug for the display freezing on the daru2 anywhere?  Is it display driver specific?

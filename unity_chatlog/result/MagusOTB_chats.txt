@@ -1,0 +1,9 @@
+ What's the command-line thing to upgrade to 11.04?
+ I remember it being not apt-get dist-upgrade
+ Is setting up a swap partition on a SSD a good idea?
+ wouldn't it result in tons of write cycles?
+ bazhang: 128G, but what difference does that make?
+ bazhang: Still, given that mine is not, is it worth having one, especially considering that the machine has 12GB of ram
+ bazhang: I don't need to hibernate/suspend. I don't think my motherboard supports either of them properly.
+ giacomo_c: Does it now show up on your desktop?
+ bazhang: K. thanks.

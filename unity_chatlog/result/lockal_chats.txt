@@ -1,0 +1,5 @@
+ Hey guys! Have a look at this! https://addons.mozilla.org/ru/firefox/addon/unityfox/
+ it took me about 2 hours to make this extention. But it is awesome
+ Anyone with 64-bit ubuntu?
+ aeon-ltd, I am not sure, if https://addons.mozilla.org/ru/firefox/addon/unityfox/ works for 64-bit ubuntu
+ BlaDe^, it uses js-ctypes, which can cause some api incompatibilities

@@ -1,0 +1,21 @@
+ hey, I am new to unity, how can I get network manager applet back? or how can I manage applets?
+ how can I get network manager back?
+ it is installed, but does not show up!
+ celthunder,
+ celthunder, the job is already running!
+ celthunder, what executable should i run? there is nothing other than the service...
+ celthunder, ok :)
+ celthunder, nmcli: error while loading shared libraries: libnss3.so.1d: cannot open shared object file: No such file or directory
+ celthunder, this was the problem
+ celthunder, it is odd that ubuntu does not install it by itself
+ celthunder, because it installs one package by default, without its dependencies?
+ celthunder, it should work on a fresh installation
+ celthunder, network manager is not something that I only want!
+ any aidea how to install this? libplds4.so.0d
+ ?
+ ?
+ any aidea how to install this? libplds4.so.0d?
+ I wanna run nm-applet in 11.04, but it didn't work... with this error: nm-applet: error while loading shared libraries: libplds4.so.0d: cannot open shared object file: No such file or directory
+
+ kezzawd, ok
+ kezzawd, could you please provide me with the full link, bit.ly is filtered in iran :D

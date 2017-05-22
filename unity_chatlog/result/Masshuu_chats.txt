@@ -1,0 +1,1 @@
+ so i have ubuntu 10.10 on a VM, lukley i made a backup but after upgrading to 11.04 it stoped working :/

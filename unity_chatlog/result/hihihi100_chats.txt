@@ -1,0 +1,30 @@
+ im upgrading to 11.04, its been like that for the last 24 hours. Yesterday, 12 hours ago, there were just 9 minutes left to download the files. 2 minutea go, I discover that the upgrader is starting to install, STARTING, not in the middle of installing or the end, but the BEGINNING; less than 5%. WTF is wrong with my machine?
+ fuck
+ a, the always welcomed political correctness...
+ i believe my system was up to date: before installing 11-04 i updated everything that needed to be updated
+ can anyone share how much time they have needed to upgrade?
+ pfifo, a, ok
+ did you use the alpha, as pfifo just said?
+ alienkid16, so, download it as ISO, burn a cd and fresh install it?
+ alienkid10, so, download it as ISO, burn a cd and fresh install it?
+ i finally upgraded to 11.04, what do I have to do to see applications and the other 2 menus without leaving unity?
+ rgr, no
+ ok, found it in the right side column, but I want to see all my aps as they were classified by me, I even created some folders and grouped them, I dont see that now, just all my aps ordered by alphabetical order
+ how do I leave unity?
+ kostas, do you see any advantage in the unity desktop?
+ if so, please share
+ all my workspaces appear as "workspace 1", shouldnt they be numbered?
+ am I the only one that can use internet with tor on after the upgrade?
+ am I the only one that can use internet ONLY with tor on after the upgrade?
+ i can see the log while my machine boots, like the whole screen was a terminal, how do I get a better looking screen during booting? its before I am asked to choose a user and password
+ i can see the log while my machine boots, like the whole screen was a terminal, how do I get a better looking screen during booting? its before I am asked to choose a user and password
+ eamon, id like to see the usplash bar at least
+ eamon, together with the ubuntu logo
+ what happened to the bottom bar of firefox? its gone since the upgrade
+ witchsong, the bar where I had icons to access my add-ons, like perakun, adblockplus, noscript, foxyproxy...
+ witchsong, torbutton
+ what happened to the status bar?
+ how do I change the boot screen? I have every plymouth package installed, but solar does not work 11.04
+ how do i change my boot screen? I have plymouth, all the packages, and did http://maketecheasier.com/change-login-and-boot-screen-in-ubuntu-lucid/2010/05/13, but all I see is a blue screen
+ i upgraded to 11.04, i cannot use internet, I can only surf with tor on
+ help please

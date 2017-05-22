@@ -1,0 +1,366 @@
+ como que apologies?
+ anyone knows how to default browser on ubuntu 11.04? I want to set it chrome as default as it was before the upgrade changed it to firefox? any command or setting?
+ is that the only way?
+ i want to keep it just in case
+ not all works on chrome you know
+ anyone how to set default browser on 11.04
+ what is the name for 11.04?
+ natty
+ anyone knows how to set default browser on natty?
+ i had a similar problem with usb yesterday
+ updaterelatives
+ why ?
+ why '?'
+ yes mount it manually and perhaps it can work after a reset, check permissions too
+ update-alternatives -config x-www-browser
+ update-alternatives --config x-www-browser
+ sudo of course
+ oh thanks
+ will check
+ ravi don't
+ give me a url
+ http://www.pastie.org
+ ahh still firefox pops up
+ rats!
+ perhaps I need to restart
+ command msg for what?
+ no errors
+ 0 auto chrome
+ 1 manual ff
+ 2 manual chrome
+ to 2 and then now to 0
+ where is that?
+ preferred
+ how to get there, this is natty I don't know where things went
+ just got it
+ had to search it the natty way
+ well thanks for that
+ give me http://www.pastie.org
+ ok now it is solved
+ nice
+ I like natty
+ sorry
+ I used to have indicators on 10.10 on the pannels how do I get them back? I had temperature sensors and my messages would popup or windows for me to select
+ can i still have pannels?
+ I can be distracted in a content and forget about things I was doing, that is why I think panels were useful
+ now with natty I can't keep track of other things
+ how to solve it?
+ dropbox icon running does not show either
+ skype does but hardly
+ also I can't zoom like i used to with the windows key
+ it used to zoom the whole desktop in and out
+ and now that feature is gone!!!!!!!!!!!!11
+ rats!
+ i want to like natty, but not sure how to do some things
+ is there a tutorial on how to handle it better?
+ any natty tutorial?
+ going to check now
+ thanks
+ will they be enough, I just wonder
+ how to search "natty"?
+ alpha 3?
+ que cosa?
+ como que apologies?
+ can i install effects on natty?
+ sounds the youtube video had effects
+ was that compiz or some other?
+ how about copying pasting from the terminal with few keystrokes without having to do the ctrl+c +v thing?
+ anyone knows how to copy paste from the terminal to elsewhere? I highlight but then what?
+ my mouse has not middle click
+ or it does the wheel
+ ?
+ but is that the way?
+ oh yeah it works
+ thanks
+ the wheel is hard though
+ but simpler
+ anyone knows how to pastebinit but graphically or to specific service? from a browser or from other editor for instance?
+ pastebinit with the less clicks possible
+ too many clicks, for instance if I have to select some output from the terminal or a browser
+ I don't want to paste it into a document or open a browser page
+ but rather directly click and it saves the url on memory to paste
+ pastebinit is limited to terminal and sometimes i cannot pipe the output that i want
+ I have to save to document first then use the command
+ a lot of keystrokes
+ example?
+ dont you use pastebinit?
+ php some command | pastebing does not work!
+ hmmm oh thanks ChogyDan, how to change provider, I want pastie.org rather
+ rats!
+ rats! need to change to pastie.org
+ cordoval_: sometimes doing it like this works for me: pastebinit<(command etc etc)
+ rats! can someone knows how to change provide for pastebinit?
+ to pastie.org or is it hardcoded?
+ rats!
+ what is the effect like mac minimizing and getting windows opened?
+ is that water effect?
+ how to set up the mac like effect? for windows?
+ how to set up the mac like effect? for windows?
+ anyone?
+ it is working on me
+ how to set up the mac like effect? for windows
+ for windows on natty?
+ sorry just wanted to repeat the effect that I saw on youtube natty demo
+ it had like mac windows dynamics
+ really nice
+ i wonder if that is compiz or not
+ or which values because mine seems too fast or it is not there
+ what is the name of that effect?
+ rats!
+ how to google it without the name?
+ cats!
+ yes
+ genie effect
+ is called?
+ wow
+ magic lamp thanks!
+ it does not show up though, sometime I had to do?
+ http://www.omgubuntu.co.uk/2010/08/get-the-os-x-genie-effect-in-compiz-easily/
+ rats! i followed instructions and got it messed up
+ rats!
+ anyone on how to get the magic lamp rightly?
+ old instructions don't work
+ rats! nothing on genie effect
+ how to restablish a component if i have messed it up?
+ unistall and reinstall it?
+ rats!
+ how to boot the gui?
+ rats!
+ rats! it was just animation but i messed it up
+ wonder if I should uninstall and resintall compiz to resolve
+ how to reestablished after compiz –replace &
+ I have lost my unity navigation bar on the left and top bar, how do I fix it?
+ I am in unity natty
+ how to fix my missing navigation bars?
+ can't access anything
+ after working on my settings and a shut down I lost my natty unity navigation bar on the left feature
+ rats, i am unable to even access anything
+ please help me
+ what command?
+ please tell me how to fix the natty unity missing nav left bar
+ compiz (core) - Error: Couldn't load plugin 'unityshell'
+ compiz (core) - Error: Couldn't load plugin 'unityshell' how do i solve it?
+ compiz core
+ no nobody told me anything
+ just give me the proper command to run
+ compiz (core) - Error: Couldn't load plugin 'unityshell'
+ what do i do with this error compiz (core) - Error: Couldn't load plugin 'unityshell'
+ please help me too
+ compiz (core) - Error: Couldn't load plugin 'unityshell'
+ rats!
+ let them help me, this was working before
+ how do you know it is the same problem?
+ hmmm
+ what is the command to log out?
+ I can't log out because i don't see the button
+ command to log out user?
+ what is the command to log out?
+ anyone ?
+ it does not work
+ logout it does not work
+ please provide command to log out
+ logout of the session of ubuntu
+ I can't see the button, else I click on it
+ right
+ no
+ session the whole ubuntu thing
+ rats!
+ logout user
+ relog into the system
+ rats!
+ sorry?
+ please tell me
+ i cant log out
+ rats!
+ and cats too!
+ rats!
+ get me back to 10.10
+ just tell me how to I revese
+ I want 10.10 back
+ rats!
+ reinstall?
+ what do you mean, how can I reinstall natty?
+ how though
+ please tell me how do I go to classic desktop and also how to reinstall nantty
+ I want to go to classic desktop then reinstall natty
+ I have no login screen
+ no bottom nothing
+ it goes straight in
+ lapion: please help me
+ you said ubuntu+1 supports natty?
+ ok but i get no response
+ no I did not see
+ please repeat
+ also I am on classic now
+ but I want to go back to natty and fix my bar left
+ ok
+ but i want to fix the problem
+ how to reinstall unity?
+ sudo apt-get install unity?
+ because I missed the left and top panels
+ just tell me how to reinstall it please
+ lapion: nothing
+ I can't access ubuntu+1
+ anyone knows how to insert a second bar on top of the screen to have the regular applets that I had before?
+ on natty
+ really?
+ how come?
+ where to go
+ how to upgrade?
+ please tell me what I do to get it
+ I already am on natty but not the latest
+ no it is not
+ I was upgrading to natty and my computer shut down because i unplugged it
+ now it is waiting for disk to be present or manual recovery
+ what do I do?
+ hit m for manual recovery
+ any ideas on how to manual recover a failed install because of power failure
+ how to fix it please help
+ my computer powered down and it was installin natty
+ what do I do?
+ rats!
+ no
+ escott: what the command
+ how to start over?
+ I was doing upgrade
+ I was upgrading, have some data
+ what is the command escott, you seem to help a lot
+ dpkg configure -a?
+ dpkg configure -a  error need an action option
+ escott: I don't have a livecd
+ rats!
+ I can backup data then but could I just plugin an external usb and fetch it?
+ It gives me the option to go to older kernels
+ perhaps I can go into one of them and try reinstalling?
+ this is an asus g73
+ I will go to kernel 27
+ i think 28 is natty
+ rats it can't mount /
+ rats!
+ and cats! /
+ press s to skip mounting
+ press M for manual recovery
+ when I press M
+ I get the console
+ but now what
+ I am on the console
+ what do I do now?
+ busybox terminal ok
+ device or resource busy while tryng to open dev/sda
+ filesystem mounter or opened exclusively by another program?
+ what other command I can try to restore it?
+ can it be any install disk eg ubuntu 10.10?
+ escott: oh so I should have trieddev/sda1
+ hmm
+ rats!
+ it is doing something
+ oh no
+ wrong
+ I better get that cd
+ ok I will try 10.10 livecd and I guess I choose to try ubuntu there or what?
+ ok going for it
+ what is ror?
+ and also would it matter if it is a 64 machine and it is a 32 bit live cd?
+ escott:
+ ok it is bootting
+ I guess I should choose the option to try ubuntu
+ how to go for b
+ sounds easier
+ ok
+ I will do fsck /dev/sda1
+ I got the default
+ rats
+ 11
+ escott: now I open a terminal on the ubuntu 32 and type fsck /dev/sda# so the # is not going to be 1
+ is going to be something else I hope it can at least mount it
+ rats!
+ oh ok
+ thanks escott!
+ yes will do
+ escott: so the command I should run is fsck -p /dev/sda#?
+ for each partition
+ escott: so the command I should run is fsck -p /dev/sda#? for each partition
+ rats livecd is slow in loading
+ wonder why this is an asus g73
+ just got livecd working
+ I knew i had not bought an asus g73 for nothing
+ rats!
+ I wonder if I reinstall ubuntu if it will keep my data intact
+ rats! ok escott, sorry rats! is like to convey frustration
+ escott: not sure if I find the partition that my disk is in
+ how to figure it out the partition of my drive
+ it has only loop0, sda, sda1, sda2, and sd5
+ it has little information
+ I already did that
+ oh rats sorry required sudo
+ sda1 is clean
+ sd2 is fsk.ext2 attempt to read block from filesystem resulted in short read while trying to open dev sda2
+ could this be a zero-length partition?
+ -p would not fix that
+ this is serious businsess
+ escott: it is sda1 huge amount
+ but it says now it is clean
+ sda1
+ I will check them with gparted since it is gui
+ and see what happens
+ escott: thanks I will check them with gparted
+ confirmed
+ escott: you are confirmed in all you said
+ so checking now sdad1
+ escott: you sold me on a
+ should I try to restart laptop just in case perhaps it works?
+ escott: how to see my files from here though
+ i can plug a usb drive
+ but how to move the files if I cannot see them
+ oh nevermind went to places
+ it is mounting now
+ basically I need to backup the dsktop and my sites
+ hmmm, true
+ but my configuration
+ but that I can redo
+ hi
+ escott: I get an error with havlet on another installation of natty
+ anyone knows about a havlet error on install returning code 100
+ something is not right
+ anyone havlet problem returning 100 while installing natty ubuntu
+ what do you mean havlet
+ locate?
+ wow
+ sorry it is halevt
+ halevt
+ escott: halevt
+ hmm, so it fails  loading usbs? let me try
+ it does load usbs
+ wonder what other effects halevt would mess up
+ or how do I configure it properly or reinstall
+ because that will fix halevt
+ should I do sudo apt-get halevt? and see?
+ escott: it sayshlevt sub-processs post installation usr/bin/dpkg returned an error code 1
+ halevt 0.1.6.2-1.3
+ no usbs
+ ok I will leave it there
+ thanks
+ now to work on the dead asus g73
+ it has no response, just manual restore console
+ what do I do¡? I already backed up my data
+ where do I download natty img
+ url please
+ natty on asus g73 please help
+ escott: so I burn the livecd and just wipe things out? should I burn then natty or mint?
+ halevt was in natty
+ rats! halevt or whatever it was, itgave problems when upgrading from 10.10 to naty escott
+ www.ubuntu.com?
+ rats! get me the natty url, is the latest or the LTS?
+ escott: LTS or latest?
+ of course the latest!
+ rats!
+ what kind of question is that, leaving it up to me? I just want the latest
+ escott: post install during upgrade to natty
+ rats!
+ escott: so I will burn the livecd and don't have those problems i hope
+ escott: what to burn the livecd?
+ I will burn the 64 bit right now, can't wait then I assume it will upgrade
+ rats! I need to get work going
+ rats! and cats!
+ if you would excuse me I need my BW
+ bye bye

@@ -1,0 +1,8 @@
+ can anyone help me with an apache2 issue?  whenever I go to my site via my dyndns name it changes ht eURL in the browser to my IP address
+ rileyp: so just write an entry in /etc/hosts with IP - fqdn?
+ rileyp: oh this is external
+ port-forwarded out the FW
+ go to dyndns entry from the outside and it rewrites the dyndns to my external IP
+ rileyp: I'd assume it keeps the dydns name in it the whole time
+ np thanks for the help!
+ now to run this VM through the 11.04 upgrade

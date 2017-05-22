@@ -1,0 +1,3 @@
+ is there a photoshop equivalent for ubuntu?
+ is there a good site for ubuntu compatible software?
+ do i need to mount ausb  drive in ubuntu?

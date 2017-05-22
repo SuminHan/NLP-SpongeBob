@@ -1,0 +1,5 @@
+ hi, i installed ubuntu 11.04 on my toshiba l505d but there were several functions that didn't work. After that i passed to ubuntu 10.10 but my wireless don't work anymore
+ ajay, it's a real shame but now with the 10.10 it does't work either
+ anybody here with a toshiba l505d edition?! i am experimenting problems with my wireless
+ hi! i just installed ubuntu 10.10 in my toshiba sat. l505dhave been a series of problems ever since. first my wireless did not work and now video and sound are failing. plus the funcs of my laptop dont work. anybody knows what to do?. There
+ xs3ns3, yeah i have double checked and still...

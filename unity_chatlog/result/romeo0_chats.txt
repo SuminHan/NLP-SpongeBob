@@ -1,0 +1,6 @@
+ i have no apache package and now i'm gonna install it so I was looking for it > "apt-cache search apache" and there would be lots of packages.. and now i'm jsut wondering which one i have to install?
+ i have no apache package and now i'm gonna install it so I was looking for it > "apt-cache search apache" and there would be lots of packages.. and now i'm jsut wondering which one i have to install?
+ no idea?
+ yes
+ apache2
+ robehend11: you know actually my problem is that when there would be alot of packages for apache2 when i type : apt-cache search apache2   so how could i find out that which one that i have install?

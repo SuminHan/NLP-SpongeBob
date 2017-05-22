@@ -1,0 +1,1 @@
+ is it possible to install a new version of ubuntu without formatting a partition (to preserve the data in certain directories like /home, /var, etc.)?

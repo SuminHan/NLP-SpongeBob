@@ -1,0 +1,29 @@
+ I seem to have a problem; I just installed compiz-config, used it, and after changing some options, the taskbar and launcher are gone. I can't even open the start menu with the meta key.
+ me?
+ does anyone know how to start the terminal without using the launcher or the start menu?
+ crap... alt-tab doesn't work
+ My launcher and taskbar are missing, I can't use keyboard shortcuts liek alt-tab, and I can't resize or move any windows. Also, windows don't have borders... What do I do?
+ This is Ubuntu 11.04 beta 2
+ tartar sauce.
+ What happened is I was trying to change some settings in compiz-fonfig, then it disappeared all of a sudden.
+ rebooting doesn't help.
+ maybe I disabled it by accident?
+ Chubcorp, thanks; I'll try that.
+ Chubcorp, yeah, but I still need my launcher...
+ and taskbar
+ my taskbar is missing and my launcher is missing
+ talntid, it didn
+ t
+ I get an error: unknown option -recorsive-unset
+ whoops
+ actually, I did spell it right in the terminal
+ BTW, talntid, I'm using Ubuntu 11.04
+ have to reboot...
+ does gconftool-2 run in GUI mode?
+ does anyone know how to start the unity panel service?
+ talntid, gconftool-2 didn't work...
+ does anyone know what the default window manager for natty is?
+ do you know how I can reset my compiz settings to their default values?
+ Sexygurl2furl, sudo apt-get install java
+ check the java website out
+ whew! deleting my compiz settings fixed all my worries.

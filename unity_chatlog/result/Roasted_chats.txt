@@ -1,0 +1,110 @@
+ If I'm on 10.10 is it possible to upgrade to 11.04 yet, or are thtose packages not out yet?
+ histo, appreciate it bro
+ histo, by chance if you upgrade, do you know offhand how much extra hard drive space it uses? I ask because I only have 2gb left on my root partiion. I dont want to attempt it if itll tank it :(
+ Is there a system requirements section in regard to Ubuntu Unity? I know about Ubuntu's spec, but I'm curious at what point users should decide from 2D or 3D Unity.
+ I'm browsing my samba share on a laptop. All of the thumbnails are coming up black with the white text JPG. Is there any way I can SEE the thumbnails?
+ How can I turn off the tap-to-select on my touchpad in ubuntu?
+ How can I turn off the tap-to-select on my touchpad in ubuntu?
+ Is there ANY customizable settings for Unity 2D? At least on 3D I can make the bar auto hide and change icon sizes. Can I not do this in Unity 2D?
+ Flynsarmy, in that menu could you change the bar to auto hide or icon sizes?
+ Flynsarmy, are you on 2d tho, or 3d?
+ Was there a fix for Unity yet with dual screen monitors?
+ spikebike, unity only likes being on the left. But my right monitor = main monitor. I can't figure out how to get the unity bar to be on the left of my right (main) monitor.
+ spikebike, is your left monitor you rmain monitor?
+ spikebike, ah. I have mismatching monitors, so my bigger one = main.
+ spikebike, my 2nd one is just for IRC, email, IMs, etc. I dont WORK from it, it just displays additional... crap. :P
+ Hey guys - has the Unity bug with dual screen monitors been fixed so I can have my right-side monitor as the main with Unity's bar on it?
+ coz_, nvidia 9600gt
+ sebsebseb, bummer. :(
+ sebsebseb, when you are running 2 monitors, you can't move the unity bar anywhere else EXCEPT on the far far left.
+ sebsebseb, I want it on the left of my main screen (which is on the right)
+ coz_, it has to be moveable, as Im sure half of the dual screen world is screaming about it now.
+ sebsebseb, LOL. you gotta be kidding. Next release = fail if that's how long it will take.
+ sebsebseb, I mean within a month or so would be nice to see the feature there... a feature that should have been there since day 1 if you ask me.
+ sebsebseb, I can understand being limited on feature set, but at least keeping the potion for dual screeners out there... that just *makes sense*
+ coz_, certainly will. thanks.
+ sebsebseb, that sounds so fail. hate to sound negative but, that's really bad.
+ sebsebseb, well, I'm sure that has potential to change once ubuntu gets off of the guinea pig test-drive that they're currently doing with it.
+ sebsebseb, I have no idea what you just said. I'm referring to Unity on other distros.
+ Dumb question - I'd like to report a bug I found with an Atheros wifi card in 11.04. Where's the best place to do that?
+ Customs, you don't create it. It's assigned to you by your ISP.
+ Customs, if you go to "www.whatismyip.com" you'll be shown your external IP.
+ genii-around, oh man. I'm not sure.
+ Customs, what is your intention? to host something on the web and provide a link to others todownload it?
+ Customs, then you need to log in to your router, which is done through your gateway. most common is 192.168.1.1. Once in there, you'll need to forward port 80 to whatever IP your computer is using that you want to host the material.
+ Customs, then install apache2 (sudo apt-get install apache2).
+ Customs, then, using root nautilus (gksudo nautilus) I'd create a folder in /var/www that you have rights to. I created 3 or 4 in there, such as ghost, mist, skynet, etc.
+ Customs, I've never heard of a router that didn't support port forwarding. But if it does not support it, I have no idea how else to work around it.
+ Customs, what you are doing is basically allowing one system on your network to have port 80 access. Port 80 is HTTP access, hence the http://your.external.ip.address and then being able to see what you have hosted.
+ Customs, so forward port 80 to your box with the IP your box is using, and then create a folder in /var/www, something like public or storage or whatever.
+ Customs, then go to http://your.external.ip.address/storage (or public, or whatever you made it)
+ Customs, once there, you should see the contents on a relatively blank white page.
+ Customs, I find it very handy to use instead of sending files to dropbox for friends to download. That way they can leech directly from my box.
+ NeuralJack, Unity is not cursed, and I advise you take an open minded standpoint on it and use it like I did. Likewise, there's Ubuntu Classic available at hte login screen which will allow you to use Gnome 2.X panels for that session.
+ Customs, I apologize, I am not aware of that toolkit.
+ Customs, good luck. You might find interest in reading about port forwarding so you can understand how it works. IT's one thing for me to say, oh forward port 80 to your internal IP so you can access it externally, but understanding WHAT it's doing is far more valuable. ;)
+ genii-around, I'm not sure if it would be network-manager related. I was comparing two wireless cards, one atheros one intel, and the atheros one was SIGNIFICANTLY slower, but only with security. If I took security off, suddenly the atheros was on par with the intel card.
+ genii-around, in 10.10 this was not the case, as both cards were very fast. in 11.04, it was the atheros that suffered. Another user on the forums confirmed a different atheros card is doing the same thing for him.
+ NeuralJack, I apologize this was not that easy of a transition for you. I'm just trying to make it aware that a lot of people devoted a LOT of time and energy into Unity, and it actually is a very very intuitive interface. Different? Oh yes. So different it may be frustrating. But once you get used to it, it's amazing how nice it is to use.
+ NeuralJack, I hated Unity for many weeks when I used it during the beta process. But it grew on me, and over time I began to see its benefits. I'm just suggesting that you try it for an extended period of time, and instead of trying to do things the old way, find a new way to do them. AFter all, that's the only way to learn in a new environment, in my opinion.
+ genii-around, I'll fire up my other laptop here with the atheros card in it and see. But I cannot comment on what the other user was using for his atheros card that gave him issues.
+ BlouBlou, I got ya beat. Ive used classic since 2005. :P
+ BlouBlou, that's the power of linux though. We users have choice. Love or hate kde/lxde/xfce/gnome2/gnome3/gnomeshell/unity/full blown command line terminal, we have choice
+ ScottR3, keyboard shortcuts are under the system settings menu. did you look there?
+ genii-around, It's the ath9k driver. Shall I file with that?
+ ScottR3, oh wow. no kidding? What keys in particular is this?
+ BlouBlou, take care!
+ Customs, network administrator? No. I'm a system technician though, waiting for this Windows install to finish up.
+ lsolesen, update... or UPGRADE?
+ Customs, yes
+ lsolesen, from 10.10 to 11.04?
+ lsolesen, then that's considered an upgrade.
+ lsolesen, I cant offer any help, as I've never trusted upgrades on any OS platform. Ever upgrade from XP to 7?
+ talk about a nightmare
+ vaul, nvidia drivers require a reboot to activate, so I'm doubtful that's possible.
+ lsolesen, you could try recovery console, which is in the boot menu
+ lsolesen, it's possible, but I'm not too sure.
+ Customs, I'm not sure. I've only port forwarded 80 and called it that. I have a *very* basic router though which is very limited on functionality.
+ vaul, an X restart might do it actually... but I'm doubtful log in/out would fly.
+ Customs, not necessarily. what you're doing is very basic... it doesn't sound like you want authentication or loggins or anything like FTP often requires.
+ Customs, I just accept whatever I put in that public/storage folder in /var/www that I created COULD be on the web for anybody to see.
+ Customs, so if I post a picture in there and link it to somebody, I accept it might be public forever now.
+ Customs, but I do it in an intelligent manner. I just use it to host files temporarily for friends or to help me out with something at work. I don't use logins or anything like that.
+ vaul, I'm not sure, as that's the only way I've installed them. I think nvidia drivers come from the web site in a .sh format, which if you grant it executable rights and sudo ./nameoffile.sh you might be able to install there. That's just me talking out loud though.
+ Customs, you wouldn't *need* to, but if you don't, you might have to log into your router pretty often to change the IP in the forwarded setting since port 80 would be bound to a specific IP. So if your boxs IP changes, your apache functionality is gone till you change it.
+ Customs, VERY quikc fix, but very annoying too. I personally give myself a static IP.
+ vaul, good luck!
+ Customs, no problem. and now that my windows install is within 30 seconds of being done, I must go. take care!
+ varunthacker, the GNome 3 PPA is currently a "one way upgrade." I do not know of a way to reverse it once it's installed, besides reinstalling.
+ varunthacker, It's just the nature of the beast considering Gnome3 and Unity are both *very* new and reverse-uninstalls haven't been figured out yet.
+ varunthacker, without reinstalling, I'm not sure there's any hope to bring Unity back. At least right now.
+ Customs, I'm not sure which protocol it uses. A quick google search might show you the answer. I think I have a wildcard entry to use both UDP and TCP though on my router.
+ varunthacker, again I'm not too sure offhand. All I've read says once you install Gnome3, there's no going back without a reinstall. Not yet, anyway.
+ varunthacker, I know not everybody has spare boxes sitting around, but I have an older one just for situations like this. I depend on my desktop for *a lot*, so downtime is a big hassle for me. So I install whatever OS I'm planning on using and use it/break it and see what happens. That way by the time I install it on my main desktop, I'm not feeling like a fish out of water...
+ varunthacker, this is news to me.
+ varunthacker, would an apt-get install unity work?
+ varunthacker, that's the best I got.
+ varunthacker, nad you're still black screening on bootup?
+ where should I report ubuntu bugs at? The link on launchpad keeps routing me to using ALT+F2 to report bugs, but I want to post it to launchpad directly.
+ iceroot, oh I thought alt+f2 was gone in 11.04. My bad.
+ iceroot, it's not a "package". I've isolated it to being a brand of wireless card. What should I choose?
+ iceroot, so ubuntu-bug ath9k?
+ iceroot, says the package does not exist.
+ iceroot, should I use network manageR?
+ iceroot, this atheros card is very very slow with using WPA/WPA2 security. I replaced it with an intel and directly compared, and the intel is about 10-12x faster on speed tests. If I remove security, the atheros card is on par with the intel.
+ iceroot, it's only with 11.04. 10.10 did not exhibit this problem.
+ iceroot, as my laptop dual boots 10.10 and 11.04 on independent partitions.
+ iceroot, I have no idea where it falls under. I'm just trying to post a bug to it asap so I can do my part to help out and get outa here today :)
+ I found a bug with a specific wireless card/driver. Where do I submit the bug report to? ubuntu-bug network manager???
+ Where can users post feature ideas to Ubuntu? I think (to avoid future issues when Ubuntu is released) that the installer CD should ask users if they want Unity or Gnome Shell upon installation, similar to how opensuse and Mandriva ask about KDE/Gnome during the install process. Where can I submit and push this?
+ thanks envygeeks
+ Does Ubuntu have any sort of software raid preinstalled? I'm setting up a NAS, where the OS will be on a flash drive and I have two SATA drives. I'm curious about software-raiding them.
+ cheapie, it's not included in the repos?
+ cheapie, can I use mismatching drives? I understand if I use a 160 and 250 I'd have a max of 160 total, but my goal is to at least have some sort of mirroring.
+ cheapie, well, okay... but can I use mismatching drives for raid?
+ cheapie, also, during the alternate install CD does it ASK me about raid?
+ Does anybody here have a preference at which point they install Unity 2D over 3D?
+ vibhav, I'm just curious at which point (hardware wise) people prefer 2D over 3D
+ aeon-ltd, that is definitely not what I asked, but thanks anyway.
+ aeon-ltd, it's nice all around, if you ask me. As a former hater I'm swallowing my words as I see all of the benefits in usability now that I've used it for a few weeks.
+ Is it possible to rearrange Unity icons in 2D land?

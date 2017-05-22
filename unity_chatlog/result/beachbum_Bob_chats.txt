@@ -1,0 +1,2 @@
+ how do i upgrade from clamtk 4.30 to clamtk 4.32 ?
+ thanks xangua

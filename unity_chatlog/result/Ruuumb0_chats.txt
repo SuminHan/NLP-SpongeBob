@@ -1,0 +1,4 @@
+ Hello
+ /join #php
+ sorry
+ Its jabber client

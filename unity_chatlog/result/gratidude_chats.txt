@@ -1,0 +1,2 @@
+ nmvictor: are you using any password-protected wifi network, that tries to connect when you bootup?
+ nmvictor: There is a "Available to all users" option that you can enable in Network Manager's config for that wifi connection, and that will stop the system from prompting you to enter the keyring password before connecting you to wifi. Are you using auto-logon?

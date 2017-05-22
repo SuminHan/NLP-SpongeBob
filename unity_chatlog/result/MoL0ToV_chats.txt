@@ -1,0 +1,3 @@
+ hi to all! i just upgraded to 11.04, where i can find the normal/basic/advanced compiz graphics effects?
+ i  just installed squid on ubuntu 11.04, i leaved only the acl:   http_access allow all but i not able to surf the web.
+ someone explain to me where i do the mistake?

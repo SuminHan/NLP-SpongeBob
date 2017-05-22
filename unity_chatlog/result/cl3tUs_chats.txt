@@ -1,0 +1,4 @@
+ Why is it that my login screen shows up on my second monitor/tv by default?  How do I change that?
+ chreestopher, what kind of soundcard?  Have you checked in the additional drivers area?  I'm not sure if it'd be there as I'm new myself, but it's possible that it could be.
+ Anyone know what I can do to fix Samba4?  I upgraded to 11 and am getting issues when trying to install anything.
+ Anyone know what I can do to fix Samba4?  I upgraded to 11.04 and am getting issues when trying to install anything.

@@ -1,0 +1,23 @@
+ Hello all.  Could someone tell me, if I'm running 10.10, and I have 11.04 on a CD, how do I kick off an upgrade from the CD?
+ komodo169: but will that pull 11.04 from my CD? I'm trying to avoid the download.
+ I know.  But if Ubuntu is going the way of Unity, I'm going to dive in head first.  </lemming>
+ komodo169: I may end up doing that.  Thing is I've got 10.10 running as part of a dual boot, and I'm trying to avoid drama there.
+ komodo169: I've got 11.04 running on 2 other machines. It's very different, but I'm still trying to decide if I feel love/hate/indifferent about it.
+ I'm all for whatever will give Ubuntu a broader user base.  Then more commercial apps will show up on it.  I can't ditch windows at home because I'm a gamer.  I can't ditch windows at work because of outlook and Active Directory.
+ nemo: I wish I could say the same about Wine.
+ nemo: my current games are Starcraft 2, Portal 2, and Rift.
+ mbeierl: the problem is that I have to be able to manage AD
+ mbeierl: That would be my only option.  Our main company apps already run in citrix, which works great in Ubuntu.
+ mbeierl: The other thing stopping me at work, I can't quite figure out.  Ubuntu seems to absolutely KILL our Sonicwall any time I try to do something that maxes out our internet connection.  Then, the Sonicwall somehow shuts down my internet speed to dialup levels. I've googled the mess out of the issues, but with no luck.
+ mbeierl: Sort of.  All of our pings will go to hell while it's happening.  But, as I said, after about 10 seconds of doing this, suddenly my download speed on ubuntu will drop to almost nothing, and my networks goes back to normal.  I can reproduce this on any hardware, as long as it's running Ubuntu.
+ mbeierl: what I mean by max out, is anything that can fill our pipe, like a MS service pack download, or something like that.
+ mbeierl: all i'm doing on the ubuntu machine to trigger it is downloading something from the internet.
+ hell, even a youtube video will do it
+ mbeierl: webpages download just fine.  Only larger, single file downloads.
+ mbeierl: ubuntu software updates will usually do it too
+ mbeierl: the network and sonicwall admin would be me.
+ mbeierl: I've looked in every nook and cranny of that sonicwall, and I can't find anything that might do what it does.
+ mbeierl: even bypassing the sonicwall with a content filter bypass doesn't help.
+ mbeierl: somehow it just doesn't like something Ubuntu does.
+ mbeierl: I'm glad you brought that up.  I've got wondershaper on the machine, but either I'm doing something wrong, or I just can't speed up what wondershaper is letting me do.  The command I'm using is "sudo wondershaper eth4 9999 9999".  Supposedly that will give me approx 10 megabit up/down.  But i'm only averaging 16kB/s
+ mbeierl: I do for about 10 seconds, then the sonicwall shuts me down to nothing.

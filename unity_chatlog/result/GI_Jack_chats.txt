@@ -1,0 +1,10 @@
+ seriously why does 11.04 take forever to damn boot
+ fuck natty
+ ohsix: why does the new version of udev choke on my sata controller
+ and/or the kernel for that matter
+ GTK3 can blow me, but we get firefox 4 which is pretty cool
+ I am running a GTX 480 in 11.04
+ so far its working
+ ohsix: lemme check
+ OK, my sata controller is a ATI technologies SB7x0 8x0,etc....
+ I don't like this new scroll tab thingy either, how do I get rid of it

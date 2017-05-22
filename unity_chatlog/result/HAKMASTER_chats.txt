@@ -1,0 +1,10 @@
+ hey!! quick question, i'am installting Ubuntu 11.0.4 and during the installation when i'm doing parition resize, i can't mount it to other than the default mount listed name!! how i can fix this? thanks in advance
+ <botcity> yes but  i want to choose another partition name then the default ex: /media/data
+ <botcity> have you experience like this issue before?
+ hey!! quick question, i'am installting Ubuntu 11.0.4 and during the installation when i'm doing parition resize, i can't mount it to other than the default mount listed name!! how i can fix this? thanks in advance
+ botcity if want to create another parition ex: /media/data a separate parition other then /
+ botcity i used to do it with Ubuntu 10.x and it works fine
+ <truepurple> why you don't try a clean install
+ <truepurple> ohh , well i always prefer a clear install rather than upgrading =)\
+ Ubuntu 11.0.4 looks like MAC
+ hey!! quick question, i'am installting Ubuntu 11.0.4 and during the installation when i'm doing parition resize, i can't mount it to other than the default mount listed name!! how i can fix this? thanks in advance

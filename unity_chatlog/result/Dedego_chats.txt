@@ -1,0 +1,7 @@
+ Can someone help me solve this problem? > http://paste.ubuntu.com/601769/
+ escott: look http://paste.ubuntu.com/601770/
+ escott: http://paste.ubuntu.com/601771/
+ escott: yeah
+ escott: giving reboot resolves?
+ escott: ok
+ how can I remove this version of the build-essential?

@@ -1,0 +1,11 @@
+ anyone have experience with getting Intel 1030 Wireless-N working on ubuntu ?
+ actually... can someone point me to a tutorial for compiling a NEW kernel downloaded from source from kernels.org i wana do it from scratch
+ ty
+ god i hope this makes my wireless work, i have the feeling it maybe hte gpu switching on this fucking thing
+ what are the packages needed typically for gtk for python /
+ getting this error...
+ /usr/share/kernelcheck/scripts/main.py:608: GtkWarning: gdk_screen_get_width: assertion `GDK_IS_SCREEN (screen)' failed
+   self.widgets = gtk.glade.XML(KCHECK_UI + "kernelcheck.glade")
+ /usr/share/kernelcheck/scripts/main.py:608: PangoWarning: pango_layout_get_line_count: assertion `layout != NULL' failed
+   self.widgets = gtk.glade.XML(KCHECK_UI + "kernelcheck.glade")
+ anyone know what im missing?

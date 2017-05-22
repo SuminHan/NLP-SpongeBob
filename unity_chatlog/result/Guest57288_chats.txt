@@ -1,0 +1,6 @@
+ Hi guys, got a wireless network problem with ubuntu 11.04 and a broadcom card
+ Yeah i just lost the info saying wichone, ill need to dig it up again 2sec
+ BCM4313
+ I wouldnt know how to tell
+ 03:00.0 Network controller: Broadcom Corporation BCM4313 802.11b/g/n Wireless LAN Controller (rev 01)
+ KM0201: I wouldnt really know tbh, ive been around on forums and wiki pages trying to sort it out, driver compiling and stuff.

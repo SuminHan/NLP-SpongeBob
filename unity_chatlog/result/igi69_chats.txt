@@ -1,0 +1,17 @@
+ @DAtevayo there are 2 ways to install java
+ @Datebayo once is using the add/remove software
+ @datebayo
+ @datebayo the other with the terminal something like sudo apt-get install java
+ @datebayo there is a third one from the web
+ @datebayo you type www.java.com
+ @datebayo the web will find out that your S:O is linux and i will offer a download
+ @datebayo, did this help?
+ Hello,  I have 2 ubuntus (2HDD) in my pc in one (ubuntu 10.10) is working the bluetooth in the other not (ubuntu 11.04), I am geting the following error" "Connection refused (111). how may I copy the configuration of the bluettoth that is working in the one that is not working? what files should I copy?. I have already posted in  http://ubuntuforums.org/showthread.php?t=1743353 or this one http://www.linuxquestions.org/questions/ubuntu-63/bl
+  Hello,  I have 2 ubuntus (2HDD) in my pc in one (ubuntu 10.10) is working the bluetooth in the other not (ubuntu 11.04), I am geting the following error" "Connection refused (111). how may I copy the configuration of the bluettoth that is working in the one that is not working? what files should I copy?. I have already posted in  http://ubuntuforums.org/showthread.php?t=1743353 or this one http://www.linuxquestions.org/questions/ubuntu-63/b
+ @mamad sorry did you try the maybe run apt-get update or try with --fix-missing?
+ well it seems that this address http://kw.archive.ubuntu.com/ubuntu/pool/main/p/perl/perl-modules_5.10.1-17ubuntu4.1_all.deb has a problem
+ @mamad somthing like http://kw.archive.ubuntu.com/ubuntu/pool/main/p/perl/perl-modules_5.10.1-17ubuntu4.1_all.deb a problem with the 5sum=
+ @mamad have you tried the add/remove software application?
+ @mamad synaptic, yes, but the easiest is the add/remove software
+ @mamad I means software center of ubuntu
+ @mamad I think the solution of ust13 can help

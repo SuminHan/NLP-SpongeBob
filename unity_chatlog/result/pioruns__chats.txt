@@ -1,0 +1,6 @@
+ Hi guys. I wanted to report an issue: when I boot Ubuntu 11.04, it stops loading. And doing nothing, until I press ENTER. It happen on boot screen (this bronze background, and nothing else, even Ubuntu logo). Where I should report it, which package to report (Launchpad?). I'm using Nvidia proprietary driver.
+ Hi guys. I wanted to report an issue: when I boot Ubuntu 11.04, it stops loading. And doing nothing, until I press ENTER. It happen on boot screen (this bronze background, and nothing else, even Ubuntu logo). Where I should report it, which package to report (Launchpad?). I'm using Nvidia proprietary driver.
+ Hi guys. I wanted to report an issue: when I boot Ubuntu 11.04, it stops loading. And doing nothing, until I press ENTER. It happen on boot screen (this bronze background, and nothing else, even Ubuntu logo). Where I should report it, which package to report (Launchpad?). I'm using Nvidia proprietary driver. Can somebody answer me please?
+ konaya, how to disable it? splash off or something, in GRUB?
+ zniavre, kill gnome-panel app
+ thanks, konaya, botcity. Also in my foreign ubuntu forum I saw posts from people with same problem. I will investigate it later

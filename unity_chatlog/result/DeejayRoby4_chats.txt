@@ -1,0 +1,27 @@
+ hello guys, I'm having a problem with the installation of natty because it tells me that it finds a Error installing the grub and it offers me three choices: do not install ubuntu, do not install grub, and try to reinstall it, but the problem is that if I click ok nothing happens
+ hello guys, I'm having a problem with the installation of natty because it tells me that it finds a Error installing the grub and it offers me three choices: do not install ubuntu, do not install grub, and try to reinstall it, but the problem is that if I click ok nothing happens
+ nobody knows?
+ @ohsix not true  @PythonPup Maverick is working
+ PythonPup, maverick works correctly
+ PythonPup, yes, the release version
+ PythonPup, it is a fresh install
+ PythonPup, I can't it's elementary os and still I could not, because I just rewrote the partition table
+ PythonPup, the image (in italian) http://tinypic.com/view.php?pic=2elwlma&s=7
+ PythonPup, now? http://oi51.tinypic.com/2elwlma.jpg
+ PythonPup, you do not understand the problem, I can not click ok
+ PythonPup nothing appears if I click ok!!
+ PythonPup I've done it!!
+ PythonPup, I've troed that and it did not work
+ PythonPup, I've tried*
+ PythonPup, I can try this way but the install is not completed!
+ PythonPup, maybe I've figured out the problem! could be because I use a nvidia raid 0?
+ PythonPup, what can i do for install?
+ PythonPup, i've done it
+ PythonPup, no, I can't, later, I want to install windows in dual boot mode and in any case the hardware raid is faster
+ PythonPup, I do not think I understand, the raid is done entirely on the chipset
+ PythonPup, a 980a chipset
+ PythonPup, at this moment I can't buy anything
+ PythonPup, What should I do to make a software raid
+ PythonPup, so if I make a raid software will work only on Linux?
+ PythonPup, I do not want space. I want speed, especially on Windows because I play
+ PythonPup, you're right, maybe expect too .... Well think about and decide

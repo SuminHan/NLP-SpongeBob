@@ -1,0 +1,3 @@
+ Hi, what is the difiference between version terminating by .10 and those   terminating by .04
+ lukus, histo: thanks
+ yes

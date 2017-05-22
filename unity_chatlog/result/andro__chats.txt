@@ -1,0 +1,1 @@
+ why do the 64bit and 32 bit versions have different uis?

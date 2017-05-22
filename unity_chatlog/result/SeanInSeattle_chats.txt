@@ -1,0 +1,29 @@
+ I'm super confused on what to do.  I've just upgraded my personal laptop to 11.04, and I can't login.  Can someone point me in the right direction?  I've got an asus u81a laptop
+ lcb:  I get a frozen screen.  Oh, and btw:  I don't even have to try and login, it freezes a min or two after having loaded the login screen.
+ lcb: Yes, I finished the upgrade.   I didn't interrupt anything.  Do you mean, "did [I] reboot asap after it told me to?" answer: no, I didn't.
+ lcb: I waited a couple of hours.
+ lcb: I've done that many times, and the same thing occurs:  it loads like normal until loading up the login page, and then it runs a bit slower than normal... next I try and login, and it freezes.  If I don't try to login and just wait a little bit, it still freezes.
+ lcb: it seems like the graphics card settings are set too high.... or something....
+ lcb: will do.
+ lcb: what then?
+ lcb: working on it, had to reboot a second time because I wasn't holding shift down....
+ lcb: lol.  What should I do, run ubuntu in low graphics, reconfigure graphics, troubleshoot, or exit to console?
+ lcb: reconfiguring loops on the "how would you like to reconfigure your display..."
+ lcb: sorry, the screen scrolls by fast on my wife's netbook....
+ lcb:  I get the same dialog with the same three options, regardless which one I choose.
+ lcb: can I reconfigure the graphics once I've booted into low-graphics mode?
+ lcb: not yet, but I'm don't seem to be able to get past this screen:  "How would you like to reconfigure your display?"  1) use default, 2) create new, or 3) use backup.
+ lcb: It doesn't seem to be changing its response, regardless of the choice that I make on that screen, and yes I did prefer the default.
+ lcb:  that's really confusing... there's no messsage saying "you've reconfigured your graphics to the default / generic setting"?
+ lcb: that worked btw.... it logged me in.  Should I reconfigure the graphics again using the normal tools?
+ lcb:  I've logged in to normal ubuntu, and I can see the unity UI now... so it looks normal.
+ lcb: ok.  will do.  "pls wait, processing."
+ lcb:  using the normal grub entry?
+ lcb: booted to graphical login screen, login normally?
+ lcb: darnit!  its haning on the login.  It doesn't seem to be a graphics issue, at this point.... effing piece of crap....
+ lcb: now its frozen...
+ lcb: I know.... :(
+ I believe its because I didn't reconfigure the graphics after booting into failsafe.
+ lcb:  yes, I will.
+ Hey all.  I've got a quick unity question for all you peeps that just recently upgraded to 11.04... How to add an application that I've unpacked (e.g. /home/apps/eclipse) outside of the debian package mgr?
+  Correction:   How to add an application that I've unpacked (e.g. /home/apps/eclipse) outside of the debian package mgr to the unity launch panel?

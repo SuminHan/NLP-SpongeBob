@@ -1,0 +1,38 @@
+ hfx: because it's not
+ seeing as there is no set time for the release, it really doesn't matter what time it is
+ lwizardl: there is no set time
+ smw: and now you know why we restrict editing factoids :)
+ smw: for one day, not really...
+ smw: most clients will let you set command aliases, set one to send that message
+ msb___: yes
+ ScottONanski1: there is no set time
+ Popopo: 11.04 releases today
+ linuxfreaker: it's not released yet
+ linuxfreaker: because they're wrong
+ Incarus6: no, it's not
+ no, it's not
+ MaRk-I: that's not true that bans expire after a month
+ Naib: no
+ HF_acid, fcuk112, it is NOT out yet
+ HF_acid: because the release manager has not released it yet
+ no, it's not released yet
+ whatever you have, it may not be not the final release
+ whatever the file name, date or whatever
+ think what you want
+ tomasz: it's not released yet, don't post links
+ tomasz: it's not, the official release will use "11.04" not "natty"
+ 11.04 is NOT released yet, join #ubuntu-release-party to wait
+ babarabush: join #ubuntu-ops if you want to discuss the ban
+ Etherael: that's not a convention at all
+ Etherael: LTS are released every 2 years usually
+ tenochslb: Alt-F2, type in "ubuntu-bug banshee"
+ Guest66097: either explain your issue, or go somewhere else
+ llutz: sure
+ helpme: either explain your issue, or go somewhere else
+ iggyology: this is not a polling channel, #ubuntu-offtopic for general chat
+ iggyology: no, but someone else here probably can
+ iggyology: I use Kubuntu
+ !files
+ iggyology: many things, but that's offtopic for this channel
+ iggyology: this channel is for ubuntu technical support, ask for opinions/comments in #ubuntu-offtopic
+ iggyology: "it's not working" is not a good description

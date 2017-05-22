@@ -1,0 +1,3 @@
+ Hey guys anyone else having problems connecting to gb.archive.ubuntu.com ?
+ I think its down
+ ;;ident BitterTea

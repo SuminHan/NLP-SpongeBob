@@ -1,0 +1,3 @@
+ How do I change grub screen resolution on boot? it's too large and my monitor won't display the boot screen
+ LAcan: under what
+ I dont have a list for grub

@@ -1,0 +1,3 @@
+ i intsalled ubuntu 11.4 and tried to install other languages, but none are found. it cannot connect to us.archive.ubuntu.com - so i changed the update server by detecting the best one. now i cannot select any laguange at all (none are listed anymore)
+ how to fix this?
+ strange language install works now after updating server and restaring language support (it checked for languages again)

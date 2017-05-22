@@ -1,0 +1,2 @@
+ my ubuntu upgrade made my pc unbootable, only safe mode thing and startx gives me X, how may I fix this?
+ I have an ubuntu 11.04 installation on the choose keyboard part, with the grayed out forward button, I chose to download updates and install so it may do somewthing, but its been a while since I dont see much progress other then moving HD lights, should I wait or reboot?

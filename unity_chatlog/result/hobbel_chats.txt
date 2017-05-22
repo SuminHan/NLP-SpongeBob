@@ -1,0 +1,25 @@
+ Is there a way to speed up the unity launcherbar appearance animation? Its to slow for me..
+ tatzenblogde 3d
+ tatzenblogde ah thanks, i hope its in there :)
+ Is there a way to make unity hide a program on click? clicking on an active icon slides the unity launcher out instead of hiding the program :s
+ Major problem here, I have files disappearing on a fresh install of 11.04. Space remains filled though. No clue on the problem
+ What could make a file disappear from the file list yet remain on the harddisk?
+ ActionParnip manOwl im missing a lot of files, no data on HD lost (since leftover space is the same). I suspect Deluge
+ ActionParnip manOwl how can I restore my files?
+ manOwl ActionParsnip have them on backup, fresh install of 11.04. but the files do not show up on the drive anymore.
+ manOwl there is no space lost, its about 80GB thats just "gone". But i did not get +80gb in free space
+ manOwl so i guess files are still there, but in a weird "cant see" modus or something
+ manOwl how can I Free my lost space then?
+ manOwl I have a backup so I dont care about the files
+ manOwl let me repeat, the filesystem doesnt find any free space! I cant find ~80GB worth of files in nautilus / amarok etc. on a 120GB disc! only 5GB free space atm
+ manOwl Jordan_U this filesystem is ~6 hours old. All lost / hidden files are Deluge "seeds". Already did a restart
+ manOwl, baobab still finds the files as space
+ manOwl, looks like my partition is smaller all of sudden... hmmz
+ manOwl 64 / 70GB used in baobab, the folder with the "missing files" still reports the folder size it had before the files went missing. Folders themself still there, i just miss the files (mainly .mp3)
+ manOwl ActionParsnip  copying files from backup disc to disc -> "do you want to overwrite file" <-- so files are def. still there!
+ ActionParsnip ls returnt nothing
+ ActionParsnip sudo ls doesnt return anything either
+ ActionParsnip to rule out permission errors
+ ActionParsnip it reports two "files", one names "." and one ".."
+ ActionParsnip I found a way to get the files back... copy them from the external HD (backup) but hit "no" on overwite makes them appear again
+ ActionParsnip extremely weird

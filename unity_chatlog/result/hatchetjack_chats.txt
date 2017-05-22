@@ -1,0 +1,5 @@
+ I can no longer move programs in my task bar in 11.04
+ any ideas what happened?
+ I am getting use to something breaking when I upgrade ubuntu
+ how come I cannot reposition programs in my taskbar anymore?
+ did ubuntu take a few steps back in 11.04 or something?

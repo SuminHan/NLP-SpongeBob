@@ -1,0 +1,1 @@
+ lgp171188 , i cant give an solution, but i had the same kind of issue, i just turned of the splash so that the cool text shows and nothing more.. untill it boots into the desktop.. :)

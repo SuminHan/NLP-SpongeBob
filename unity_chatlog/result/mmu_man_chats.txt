@@ -1,0 +1,4 @@
+ ... it kinda violates the spirit of the RFCs but dokuwiki thinks apt is a namespace if I don't use :// :(
+ plop
+ anyone can tell me if apt: links work when using :// ? like apt://build-essential ?
+ ... it kinda violates the spirit of the RFCs but dokuwiki thinks apt is a namespace if I don't use :// :(

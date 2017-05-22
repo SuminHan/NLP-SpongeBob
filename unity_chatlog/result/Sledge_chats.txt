@@ -1,0 +1,84 @@
+ is anyone else having problems with java and flash, not working after the update to 11.04
+ jonii2
+ there you go
+ Yeah i don't really care for the new GUI ive had some serious issues with getting used to it also
+ PalinBachman2012,  oh is this UNITY?
+ PalinBachman2012,  i heard alot about it.
+ PalinBachman2012, didn't even realise thats what happen when i upgarded. lol
+ flash games or HULU not working
+ after upgrade
+ rumpe1,  i went to synaptec and it says its already installed..
+ rumpe1,  well it says flash is already installed
+ rumpe1 , just installed it now.. should i reboot?
+ rumpe1 just did, didnt work.
+ rumpe1, (firefox-bin:2658): LIBDBUSMENU-GTK-CRITICAL **: dbusmenu_menuitem_property_set_shortcut: assertion `gtk_accelerator_valid(key, modifier)' failed
+ rumpe1 , yes 64bit
+ rumpe1 i think
+ NVIDIA
+ rumpe1 whats that command to see what im running again?
+ rumpe1 Linux sledge-pc 2.6.38-8-generic #42-Ubuntu SMP Mon Apr 11 03:31:24 UTC 2011 x86_64 x86_64 x86_64 GNU/Linux
+ 64 bit.
+ rumpe1 ok thanks
+ so delete Flash_player DIRECTORY?
+ rumpe1 so delete Flash_player DIRECTORY?
+ rumpe1 how do i liset hidden files and folders
+ rumpe1 im in /home/name/.adobe
+ Doesanyone have any experience installing flashplayer.SO file
+ xangua this is 64bit
+ rumpe1,  you still here?
+ LOL
+ is there a  way i can change these hotcorner thingies
+ usually you can just right click on them change their settings top, right bottom, left all that jazz
+  I HATE FLASH
+ ikonia,  well sorry, but it stopped working after the upgrade, and i had it working just so good.
+ muneeb,  are you having a problem with flash after the upgrade?
+ muneeb did you use the .so file?
+ muneeb, yes same exact problem im having
+ Halt use rythmbox
+ muneeb,  no i have tried uninstalling and reinstalling
+ Usually i can just right click on a launcher panel and change the size settings, and things liek that color, text font.. but for some reason i can't do that anymore, and all my colors and sizes hhave changed with unity..
+ has anyone figured out how to navigate easily with this UNITY
+ http://www.omgubuntu.co.uk/2011/04/become-a-natty-power-user-in-no-time-using-this-unit-keyboard-shortcuts-wallpaper/
+ you mean this?
+ and my SEE Desktop icon is gone!
+ grr.
+ won't let me add anything to it either
+ does anyone know how i can stop this panel from auto hiding
+ ccsm
+ ok
+ esx,  was going to say right clicking does not work
+ esx, already installed.
+ tatzenblogde,  since the upgrade right clicking on the panel's does nothing.
+ esx, desktop ? what do you mean?
+ Cool
+ thanks
+ uh oh
+ i cant even get ALT+F2
+ unity panel is gone
+ ok muneeb i figured out how to login what was that dpkg command again?
+ muneeb,  thanks
+ muneeb, still didnt work..
+ muneeb,  if i do ctrl alt f2, it takes me to a black screen and i can't figure out how to get back to chat once i get in there
+ muneeb,  black login screen..
+ muneeb,  ok well.. i did the command and still i have nothing
+ muneeb,  ok yes that worked.
+ i can go back and forth now from terminal and GUI
+ muneeb,  yes
+ muneeb,  i executed the command dpkg-reconfigure, no terminal
+ i figured that command sudo dpkg-reconfigure unity would get me back to default, but still no change in the GUI
+ rgr, so could you please tell me how to put in the defaults?
+ muneeb,  i did .. didnt work
+ probably compiz-- replace
+ yes
+ i think i had this problem before
+ rgr, i was in ccsm and i canged some settings and conflicts were popping up left and right with desktop cube, and now all of a sudden i cannot run any programs with alt+f2, the unity panel's are gone and im left with nothing but a desktop
+ muneeb,  the problem is i cannot run CCSM
+ escott the only thing i can access now is virtual terminal
+ sudo apt-get install unity ?
+ escott,  yes
+ said unable to locate package CCSM
+ muneeb,  it said it was unable to locate package ccsm
+ muneeb,  ccsm is only the manageing GUI applette im sure compiz needs to be reinstalled anyway
+ muneeb,  fixed.
+ stil can't figure out how to add stuff
+ sudo apt-get install gnome2

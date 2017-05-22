@@ -1,0 +1,14 @@
+ Cajun_Lan_Man: o upgrade from Ubuntu 10.10 on a desktop system, press Alt+F2 and type in "update-manager -d" (without the quotes) into the command box. Update Manager should open up and tell you: New distribution release '11.04' is available. Click Upgrade and follow the on-screen instructions.
+ Chipzz:  want do it
+ Cajun_Lan_Man: it would be better to back up files and fresh install
+ Cajun_Lan_Man: p.s. - love the lemming comment - that's the spirit!   ;-)
+ lol@nemo
+ Cajun_Lan_Man: I didn't like the 11.04 deal.  the unity desktop did not work for me
+ Cajun_Lan_Man:  have you tried the live cd?  do you like it?
+ @nemo:  right-o
+ Dr_Willis: Im using 11.04 KDE - love it
+ Cajun_Lan_Man: Back to the original issue: probably back up / install 11.04 if you want.  Just the way I would do it.  or keep 10.10 til yer absolutely sure
+ Cajun_Lan_Man: excellent choice on games.  nice.....
+ miceiken: it appears ok.  can you connect to the internet?  what exactly is the issue?
+ miceiken: have you removed "splash" from the kernel command line?
+ miceiken: you can remoive it permanently or per session

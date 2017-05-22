@@ -1,0 +1,2 @@
+ There is any problem with Ristretto in Xubuntu 11.04?
+ sideshow in Ristretto (Xubuntu 11.04) is not working, right?

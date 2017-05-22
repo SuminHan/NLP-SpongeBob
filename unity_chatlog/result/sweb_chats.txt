@@ -1,0 +1,45 @@
+ ubuntu 11.04 do not have netbook v ?
+  jaredquinn, so ubuntu netbook and desktop are same
+ ?
+ thank you guys . happy new UBUNTU <3
+  jaredquinn, lock at this torrent links http://www.ubuntu.com/download/ubuntu/alternative-download#bt
+ jaredquinn, desktop and netbook not smae
+ same*
+  jaredquinn, which one that for my netbook ?
+ after install my GPU on ubuntu Unity will appear with ubuntu classic top bar. i change it into Ambaince but top menu and another menus will not affect http://up.iranblog.com/images/bltz8oqj0xcfxhbg9664.jpg
+ any body answer me ?
+ compbiz could not be install inside ubuntu unity  ?
+ compbiz*
+ compiz could not be install inside ubuntu unity  ?
+  trijntje, i want to instal simple compiz wizard. ubuntu give me an error
+ trijntje, th UI application that you can set the effect of desktop.
+ how can i resize and configure Unity panel in Natty ?
+ i install it on eee pc ausu 904 hd, linux suppor
+ support
+ after some restart the theme of gnome will be broken
+ windows 7 work on eee pc well
+ any one can answer me ?
+ http://askubuntu.com/questions/38159/install-on-asus-eeepc-with-stupid-big-problem
+ any one can asnwer me : http://askubuntu.com/questions/38159/install-on-asus-eeepc-with-stupid-big-problem
+ qin, no theme is in appearance list but when i click on it nothing happened. the theme style is gray with old icons style.
+ qin, i think ubuntu have a big problem on this version
+ qin, unity is for kids not usefull. i thinks cononical must zoom on stability and hardwares not on some funy tools like unity. ubuntu required stability not stupid problem after v 11
+ qin, so what can i do to change gnome setting ? change appearance ?
+ qin, how can i completly remove it and use stable gnome v like 10.10
+ qin, i need stable v of gnome with good support
+ qin, BlouBlou, i know but on ubuntu classic also i cant change appearance . all themes are same with old icons style and gray color of paneles
+ BlouBlou, qin, i'm expert ubuntu user. i'm php programmer that i can compile complex mod, module and plugins for LAMP. i know where can i change the theme. System > Preferences > Appearance > Theme. all theme in list like Dust, Ambiance and etc.. gnome still have old icons and old colors. gnome looks like completely splinted
+  qin, any idean ?
+ qin, how can i reset gnome setting completely ?
+ did you get bug from unchangable gnome theme ? after installation theme transfered to old and gray theme that can be unchangable ? i'm testet on Vmbox and Asus eeepc netbook [linux based netbook]
+ we install v 9.10 on asus eeepc without any problem
+ v 11.04 disappoint us
+ why ubuntu 11 have bad failure on GPU and hardware ? what's the problem ?
+ i have an old lap top sony ram 256, 1800 amd cpu .... wich ubuntu version good for that ?
+ i have an old lap top sony ram 256, 1800 amd cpu .... wich ubuntu version good for that ?
+  acicula, ubuntu netbook /
+ ?
+ natty have a lots of bug, when can i download it as a stable version ?
+ constl, i ask some question on IRC, askubuntu without get answer. test natty on VBox and Linux Netbook with lots of bugs. http://askubuntu.com/questions/38159/install-on-asus-eeepc-with-stupid-big-problem
+ constl, one of big prolem is gnome change to basic theme and i can't change the appearance from list of theme
+ constl, so how can i trust to download it tomorrow

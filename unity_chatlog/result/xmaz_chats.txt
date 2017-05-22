@@ -1,0 +1,5 @@
+ Hey, i am just upgrading my ubuntu, and a screen come up saying: A new version of conf file /etc/defoult/grub is avaliable, but the verson installed has been modyfied: what you want do? KEEP CURRENT or change ? What is this grub file? Can i upgrade it? Does it effect any security issues if i dont upgrade it?
+ Hey, guys where can i change the login MOTD?
+ AziaBurgi: is your ubuntu ran as a virtual machine?
+ I had this issue, what i did to repair is was, checking the disk.
+ Chepoll: just ask what you need :P

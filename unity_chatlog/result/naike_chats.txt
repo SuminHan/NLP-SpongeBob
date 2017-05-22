@@ -1,0 +1,17 @@
+ hi
+ I have trouble finishing installing my ubuntu 11.04 I get this error at the end: Unable to install GRUBB in dev-sda (i created main partition and swap, I also have windows and other partitions on the hdd, totaling 5 partitions)
+ yes jheyes what motherboard do you have
+ jheyes if you dont know chances are you dont have the same motherboard i have :P
+ can anyone help me with 11.04?
+ m13 I get the error: Unable to install GRUBB in dev-sda when installation is almost complete
+ m13: ok :(
+ Anyone else know the solutionf or this error: Unable to install GRUBB in dev-sda
+ lcawte we ened to know what caused the error
+ no idea lol :s are there any logs or something i never used ubuntu for more than 10 mins
+ i hope you backed up your system, upgrades come with risks
+ zvacet: thanks
+ zvacet: the ubuntu installer already performs those commands, I don't think that is the problem
+ i have my hdd partitioned in 3 primary partitions, and I want to install ubuntu on the unallocated space left
+ but i get this Unable to install GRUBB in dev-sda
+ How does WUBI work? does it install ubuntu like if i would use a live cd or does it somehow install it as a simulation actually in windows or something?
+ Unable to install GRUBB in dev-sda  help me cant install 11.04

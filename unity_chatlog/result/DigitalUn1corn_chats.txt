@@ -1,0 +1,2 @@
+ I'm having a problem where I go to click on things within a window, but it selects stuff from the window behind it.  Anyone know of a fix?
+  I'm having a problem where I go to click on things within a window, but it selects stuff from the window behind it.  Anyone know of a fix?

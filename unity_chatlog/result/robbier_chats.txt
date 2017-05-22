@@ -1,0 +1,2 @@
+ I have a quick question regarding wireless in Ubuntu 11.04.  In earlier versions of Ubuntu, I was able to install b43-fwcutter and my wireless would work just fine.  In the latest version of Ubuntu, however, even if I install b43-fwcutter, my wireless does not work.  The firmware is missing.  This is strange because this exact same process worked in previous versions, but not the latest.
+ Broadcom B4309, it is a dell laptop.  Branded as Dell True Mobile something.

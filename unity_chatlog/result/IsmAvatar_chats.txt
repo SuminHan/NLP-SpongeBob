@@ -1,0 +1,43 @@
+ laumonier: I had that problem. Follow what it says. Turns out I had an unofficial software source that I had to remove before upgrading.
+ I'm not sure if this is the Global Menu's or Firefox's fault, but when I middle-click a bookmark, it opens in the current tab, whereas in Ubuntu 10.10, it opened in a new tab. What's up?
+ BiosElement: as I said, it happened in 11.04 and not 10.10, despite being ff4 in both versions. It sounds like more of an Ubuntu/Unity/Global Menu issue
+ Hey guys, my NVidia driver is "Enabled but not in use". How do I put it in use?
+ botcity: yes, that's how I found out that it was activated but not in use.
+ lucas: you'll have to forgive me, I can't for the life of me figure out how to navigate unity, and I've never heard of that before.
+ lucas: tell me about it, lol
+ lucas: jockey-gtk takes me to the Additional Drivers window that botcity already got me to
+ botcity (and lucas): It's already activated, as I said. It's just "not currently in use". So the "Activate" button doesn't say activate, it says "remove"
+ lucas: I haven't made any changes yet...
+ lucas: it was already this way
+ lucas: http://pastebin.com/YF14057Z
+ you didn't tell me to, lol
+ lucas: didn't help. Moment while I pastebin.
+ lucas: http://pastebin.com/dye9yRD9
+ nanuganga: join the club >_>
+ lucas: this isn't going to kill my display, is it? That validation error isn't a concern?
+ ramin: especially when the darn thing keps hiding
+ lucas: http://pastebin.com/6tcnDc11
+ lucas: I don't see any nulls, so I'm guessing it's good to go
+ lucas: ok, thanks, brb
+ I'm back. Which is good news and bad news. Who was helping me?
+ lucas, that's right
+ lucas: good news is I'm back, and I can see the screen. Bad news is the Additional Drivers says that it's still "activated but not in use"
+ lucas: sure, after I install it
+ lucas: aware
+ lucas: It's running in at about 1900 FPS, and seems to have a bit of lag
+ lucas: it's certainly not the fluid animation I'm used to when I see glxgears on a good graphics card+driver
+ lucas: Depends, when would I see it? Because I think my card displays itself at about the same time as my bios. Then I get Grub, and then the purple screen for several seconds, and then the login screen.
+ lucas: http://pastebin.com/Hk2aV3ut
+ lucas: it's on-board, and I believe it's the GeForce 9200.
+ ZykoticK9: aware, thanks
+ lucas: 03:00.0 VGA compatible controller: nVidia Corporation C79 [GeForce 9200] (rev b1)
+ lucas: yes, hence why I was complaining about Unity earlier
+ lucas: something else I need to apt-get
+ lucas: ok, I'm looking at G Alternatives. Not sure what you want me to do with it?
+ lucas: right side says nvidia-current (already selected) or mesa.
+ lucas: think I found a bug on the matter: https://bugs.launchpad.net/ubuntu/+source/jockey/+bug/771788
+ lucas: I believe so. Someone reported on that bug that they were using GeForce 9300, and I'm getting lag like they describe.
+ lucas: I'm familiar with the speeds glxgears usually runs at for decent graphics cards. Obviously 1900 fps is slower than would be expected, especially of a geforce 9200.
+ lucas: I've subscribed to the bug, so maybe a fix will come around some time in the near future. Like after they get done making unity not suck >_<
+ lucas: I get where they're going with it, but I think they it just got crapped on when Gnome decided they didn't want any part in it.
+ lucas: read shuttleworth's blog and I think you'll have a bit more sympathy for unity. The bad idea wasn't so much unity, it was deciding to ship despite dropping gnome support.

@@ -1,0 +1,20 @@
+ jnettop is giving me this output: http://dpaste.com/538049/ what's up with that, and how can I find out more?  I checked out netstat, but it didn't show anything bound to 0.0.0.0:0.  This "connection" has been doing 100-300Kbps for about 5min (dropped to 20-40 in the last minute, though)
+ jnettop is giving me this output: http://dpaste.com/538207/ any ideas what's up?  I checked out netstat, but it didn't show anything bound to 0.0.0.0:0.  This "connection" has been doing 100-300Kbps about 5-10 min at a time several times throughout the day, and I have no clue how to track down the culprit :/
+ 3 days?  really?
+ iggyology, does it have to be either/or? :/
+ iggyology, I use kdm (leftover from my KDE days) with a custom .xinitrc that launches Compiz as my window manager.  No fancy "desktop environment" for me.
+ gnome-do for app launching, awn dock for app management, conky for system stats.
+ it's very much a comfort zone :)
+ but I would say it's lighter than having all the DE libraries etc loaded on every startup
+ LXDE, Gnome, and KDE are all tried and true.  In order of "heaviness", I would rank them KDE, Gnome, and LXDE, but that's very subjective
+ great thing about linux is there's all the highly interchangeable pieces and parts.
+ I haven't tried Unity, nor am I going to.
+ not because I don't like it, but because I like what I have.
+ aneeshep, I use a custom collection of programs, no DE.
+ *no stock DE
+ XFCE I think is slightly more heavy than LXDE, but it's good as well.
+ only 2 days? :P
+ wait till you've spent 4 years :P
+ granted, only year 1 was spent getting everything perfect... the other three have been small tweaks along the way
+ anyway, my question: my internal wireless card seems to be stuck in promiscuous mode, as all traffic on my network is hitting my machine, whether or not it's the destination/source.  I've tried "ifconfig wlan0 -promisc" to no avail.  Any ideas?
+ my wireless card seems to be stuck in promiscuous mode, as all traffic on my network is hitting my machine, whether or not it's the destination/source.  I've tried "ifconfig wlan0 -promisc" to no avail.  Any ideas?

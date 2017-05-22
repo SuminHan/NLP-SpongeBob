@@ -1,0 +1,112 @@
+ wombatunder: See my pm
+ What is the default IRC client for 10.04 ?
+ Or does it not come with one?
+ Sidewinder1: That's what I thought.... Ok.
+ Sidewinder1: If someone does not have Xchat, they they must not have a full install.  Right?  Or...?
+ idefix: see my PM
+ pfifo: I've replaced network-manager with wicd and like it better.  It is simplier / easier to use.
+ krad: upstart is installed by default
+ !upstart | krad
+ krad: Are you saying upstart by mistake? (Typo maybe?)
+ krad: Did you un-install upstart?
+ krad: Oh, I see.  ... hummm not sure what to do now..  Where does it hang on bootup?  Where are you at now?
+ krad: If you can... just re-install it.
+ krad: So you booted from a Slackware CD?  Is that what you are saying?
+ krad: Yea, as pfifo says, just re-install upstart.  sudo apt-get install upstart
+ pfifo: well, just apt-get install upstart
+ pfifo:  what did you have installed in the first place?  What distro, what version?
+ krad:  what did you have installed in the first place?  What distro, what version?
+ krad: dpkg -i upstart
+ iceroot: install upstart
+ iceroot: O
+ brian_: np
+ maddie: Can you rephrase  your question?
+ oneliner: I usually just set F12 as hotkey for terminal.
+ Linuxfav: What screen do you have now?
+ Linuxfav: what display card do you have?
+ docmur: From __________  to ___________?    From .mov to .avi or....? what?
+ emj: install x11vnc on his PC and use vncviewer on yours.  (Install tightvnc on yours.)
+ emj: They are both Ubuntu?
+ emj: Ok. Rocky can prolly help you.
+ Linuxfav: And you have installed Nvidia driver on it?
+ Linuxfav: Do you think that bypassing the proprietary driver will help?
+ Linuxfav: sudo mv /etc/X11/xorg.conf /etc/X11/xorg.conf.bak   #Will bypass it.
+ Linuxfav: And will put you back on the open-source driver.
+ some_dude1234: Turn off encryption on the router and try it.
+ puckipedia: /leave
+ puckipedia: If it is a pm   /q
+ krad: 9.04?
+ krad: You can add soruces via synaptic
+ krad: System -> Adminstration -> Software Sources
+ krad: Oh ok. pastebinit /etc/apt/soruces.list  and we'll have a look.
+ krad: just  a sec
+ krad: lsb_release -a   #Does that say 10.10?
+ bison: Prbably need flashplugin upgrade
+ bison: http://trryhend.startlogic.com/
+ s33k: What command did you use to copy the /home files to the new partition?
+ s33k: and what exactly is the  .gfs  file?
+ s33k: So the /dev/sda7 partition is for /home only?
+ s33k: bp0 is correct.
+ bp0: s33k But you CAN copy it.
+ s33k: bp0 and then delete /home later.
+ s33k: What  you should have done is   sudo mkdir /mnt/sda7 ; sudo mount /dev/sda7 /mnt/sda7 ; sudo cp -ar /home /mnt/sda7
+ s33k: Actually first you need to   sudo mv home/ old-home/  and then do the above.  Then change fstab entry and reboot.  If all works well, then rm -rf old-home/
+ s33k: and what exactly is the  .gfs  file?
+ s33k: ls -l .gfs
+ s33k: file .gfs
+ s33k: ls -l .gfs > gfs-info ; file .gfs >> gfs-info ; pastebinit gfs-info ; rm gfs-info
+ s33k: chmod 777 .gfs
+ s33k: is this .gfs file something you really need?
+ !google
+ s33k: chmod 777 .gfs/
+ s33k: and then   mv .gfs/ /home/were/ever/it/is/supposed/to/go
+ antihero: You mean writable?
+ antihero: If you mean writable, open a terminal and do chmod +w  file-name.doc
+ antihero: ok, very good.
+ antihero: NP
+ Pierewoj: http://ubuntuforums.org/showthread.php?t=1742231
+ necreo: Far as I'm concerned it is, (but I'm not concerned :)
+ LjL: Tnx info
+ Guest91212: You'll just have to be patient, the servers are still over-loaded today.
+ Guest91212: I don't knwo.
+ *know
+ rgr: Well said.
+ Ultimate_Chaos: You can login to a console session and add a user.
+ omidp: Do you need to establish a network connection via wireless or wired?
+ omidp: If you have established a network connection you can install network-manager or wicd.  (I use wicd - it is a bit simplier.)
+ omidp: sudo apt-get install wicd
+ andeeeuk: I have used newsgroups before.
+ andeeeuk: I don't know.
+ andeeeuk: Been a long time.  Just use groups.google.com now.
+ andeeeuk: thunderbird.
+ andeeeuk: My ISP no longer has a feed for newsgoups and hasn't in some time now, so I just use groups.google.com
+ Ubuntu_user: I think you would just have to re-install with 10.10
+ constl: Cinelerra  - Video Editing Software
+ constl: See:  http://www.cyberciti.biz/faq/top5-linux-video-editing-system-software/
+ nmaxchat: You would first have to unpack it.  tar zxvf file-name.tar.gz
+ nmaxchat: Herbs is correct, what you have more than likely downloaded is a tarball.
+ nmaxchat: Yes
+ nmaxchat: What is it that you are wanting to install?
+ nmaxchat: What is your end goal?
+ nmaxchat: where did you download from?
+ nmaxchat: https://www.dropbox.com/downloading?os=lnx   #This site?
+ nmaxchat: You should have ended up with a .deb  file.
+ nmaxchat: Yep, there you go....
+ How does one convert a system to LTS?
+ PythonPup: Ok, thanks.
+ botcity: What do you mean, which LTS?
+ botcity: I'm talking Long Term Support
+ PythonPup: If the system is 9.04 now, will the LTS option be available in the update manager & package manager?  (Or will it first need to be updated to 10.04.)
+  ....... Anyone  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,..........^^^
+ PythonPup: VCoolio: Ok, here is the situation.  A friend of mine had 8.04.  I thought it was LTS, and told him to just do the distribution upgrade. Well, now he's on 9.04.
+ VCoolio: What do you mean "updated version twice"?
+ VCoolio: Well, he said he was on 8.04, now he's on 9.04  I don't know how he got there, but, well, I'll just have to wait and see when I get there.
+ VCoolio: Well, again, I'll find out when I get there.  I'm going over there sometime next week, was just wondering how it worked.  No big deal.
+ PythonPup: Ok, thanks info
+ PythonPup: VCoolio atlef Thanks for the info.  I
+ PythonPup: VCoolio atlef Thanks for the info.  I'm hoping to wait for the traffic to simmer down, maybe next week and then do somethig with it.
+ djcoin: You don't seem to have sdb  Is it a USB drive?
+ Herbs: he did
+ djcoin: You may need to plug it in again.
+ djcoin: Try  unplugging it and plug it in again and see.  fdisk -l | pastebinit
+ djcoin: Ok, very good.

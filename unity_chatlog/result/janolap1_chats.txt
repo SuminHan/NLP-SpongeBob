@@ -1,0 +1,10 @@
+ Hi everybody, I have a problem with one of my ubuntu 8.04 server. Someone has done something (maybe she has delete a file) and now the server doesn't boot, showing the error : grub loading please wait error 15. And the server is configurated with LVM. I have booted with rescueCD but don't know what to do. Can you help me, please ?
+ Dr_Willis : I really don't know what the user with sudo did (and she's not here until thursday).
+ GeorgeJ : I would like to, but I don't know how to mount lvm volume in rescue CD... I did lvm and lvdisplay
+ GeorgeJ : Can you help me to mount lvm to access files ?
+ GeorgeJ : thank you ! I'll read it !
+ GeorgeJ : I think she did a recursive rm... too bad !
+ GeorgesJ : There is nothing (or so few) in the system. Thank you for your help...
+ GeorgesJ : I have to do this... but what a waste of time !
+ Hi, I have a problem with grub on my ubuntu serveur. Let me explain: I had to restore the filesystem (backed up with a tar.gz). But my system is on LVM. When I restored it using system rescue CD, I have to do a "grub-install --root-directory=/mnt/fcroot --recheck --no-floppy /dev/virtual12/root" where /mnt/fcroot is where the lvm is mounted and /dev/virtual12/root is the / of my server. But...
+ ...grub says : "/dev/virtual12/../dm-0 does not have any corresponding DOS drive". Any ideas ?

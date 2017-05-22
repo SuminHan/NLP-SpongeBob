@@ -1,0 +1,2 @@
+ Abhijit: If you have lucid, and installed all updates, you have the latest version available on Lucid
+ Abhijit: If you want the version from Natty, you will need to upgrade to Natty

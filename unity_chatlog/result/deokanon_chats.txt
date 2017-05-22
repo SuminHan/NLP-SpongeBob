@@ -1,0 +1,1 @@
+ hello, i have a simple question... did something change in the open source propiertary driver for graphic cards in 11.04? i can play games now like crazy

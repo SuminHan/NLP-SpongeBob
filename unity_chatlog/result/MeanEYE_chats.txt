@@ -1,0 +1,1 @@
+ Datz: upgrade, logout and login to gnome classic session

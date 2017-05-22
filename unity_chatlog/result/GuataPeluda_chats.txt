@@ -1,0 +1,6 @@
+ hello
+ hi, I use 10.10 x86 and recently noticed my laptop supports 64bits... is there any way to upgrade to 11.04 64bits from 10.10 x86 with no loss at all?
+ escott thanks
+ tonite I'll upgrade to natty =)
+ happy Nasty Naughty
+ _/join #openfiler

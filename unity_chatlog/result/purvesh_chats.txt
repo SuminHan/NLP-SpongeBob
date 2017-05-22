@@ -1,0 +1,36 @@
+ can some one help me for upgrading from alternate iso, i had already mounted iso to cdrom0 but when i try to to run: gksu "sh /cdrom/cdromupgrade" it wont show any effect or any upgrade screen what to do ?
+ Rehan, no any changes without quotes ... same issue ...
+ usr13, nope not working even i had also tried cdrom0/
+ usr13, m trying at run (alt + F2)
+ usr13, nothing happened now what to do bro ?
+ usr13, yup ...
+ usr13, sudo mount -o loop ~/Desktop/ubuntu-11.04-alternate-i386.iso /media/cdrom0
+ usr13, and cd is mounted also
+ usr13, i can also see that cdromupgrade file
+ usr13, Thanx a lot now it works
+ can some one tell me is there any difference in alternate iso and normal desktop iso ?
+ LjL, so via that i can also install on some pc right ?
+ LjL, if i install ubuntu via alternate cd on some hard disk then there will no any changes between normal setup and alternate cd setup ?
+ LjL, only difference is this is text mode and normal cd have GUI mode right ?
+ LjL, but after all installation completed all the content are same like normal
+ LjL, no minimal is not preferable in my case net speed slow or dis connect internet many times :(
+ LjL, Thank You for ur reply and support :)
+ LjL, one more thing bro can you tell me that ubuntu 11.04 Desktop edition is capable to work on intel P4 2.4ghz 1.5gb ram ? or i have to download netbook version ?
+ bazhang, ya just now i had seen its torrent link is broken
+ bazhang, but ill try 10.04 netbook version if necessary
+ LjL, you there ?
+  can some one tell me that ubuntu 11.04 Desktop edition is capable to work on intel P4   2.4ghz 1.5gb ram ?
+ lcb, it will not hang my p4 right ?
+ lcb, so netbook iso is for what ?
+ lcb, it is only for single core or what ?
+ lcb, i have 2 cpu one is Intel P4 2.4GHZ with 1.5GB ddr1 Ram, and other AMD Quad Core 64Bit with 2gb ddr2 ram
+ lcb, Thanx for suggestion :)
+ lcb, there one more thing if i have installed 11.04 64bit desktop version on my quad core 64bit cpu and now i want to put that hard disk to my p4 which is 32 bit cpu so it will work or not ?
+ Pici, ohk ...
+ lcb, so the whole data and software and Ubuntu OS will remain same and work perfectly?
+ lcb, so my installed softwares will not work ?
+ lcb, k....
+ how to turn on advance graphic mode in ubuntu 11.04 may be it is in default normal mode after upgrading from 10.10 ?
+ how to set Set the visual effects in ubuntu 11.04 does any one have idea ?
+ after upgrading to ubuntu 11.04 my phpmyadmin is not working so for that this command is perfect or not? but i dont want to loose previous all databases if i reconfigure with this command: "sudo dpkg-reconfigure -plow phpmyadmin"
+ my top bar had been gone after applying unity in ccsm so it means i cant control windows even cant move some where + alt and Tab not working in ubuntu 11.04

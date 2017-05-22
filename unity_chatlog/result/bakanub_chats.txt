@@ -1,0 +1,6 @@
+ Somehow natty doesnt like my notebook. Native resolution is 1280x800, but Natty only allows me to choose 1024x768 (the rest is simply cropped). VGA is an integrated intel mobile gm965/gl960. Liveusb and a clean install gives the same result... What to do?
+ sam-_-, yes
+ niels1, intel graphics?
+ Somehow natty doesnt like my notebook. Native resolution is 1280x800, but Natty only allows me to choose 1024x768 (the rest is simply cropped). VGA is an integrated intel mobile gm965/gl960. Liveusb and a clean install gives the same result. Tried nomodeset - helped with the resolution, but lost unity
+ Incarus6 the problem only is with 11.04. 10.10 worked out of the box
+ Incarus6, yes

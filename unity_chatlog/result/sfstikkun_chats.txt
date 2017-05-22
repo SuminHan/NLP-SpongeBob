@@ -1,0 +1,5 @@
+ Hi, I thought I was accessing XChat and I was switched over to freenode.  Is there a reason for that?
+ Anyone know why sound on Ubuntu is so compromised on a regular basis.  Right now, I cannot use my Ubuntu program to play my music files.
+ KM0201, I nothing...no error message, no nothing.  I checked to see if a card was installed and it is.  Still nothing
+ right, KM
+ KM0201, I'm going to do that now. BB in bit

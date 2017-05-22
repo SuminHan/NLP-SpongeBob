@@ -1,0 +1,17 @@
+ i'm doing the upgrade for 11.04.  I hope it finishes downloading all the packages before my free download time window stops at 6 am
+ yeah i though so
+ o
+ drowning from the flood lol
+ finally got all the packages downloaded for 11.04 upgrade
+ it says installing them is another 2 hrs
+ got the 11.04 upgrade done ... new desktop takes a bit of getting used to
+ my monitor says "input not support" during the 11.04 bootup but once the login screen starts its ok
+ Dr_Willis,  well its not hurting anything.  Would i disable the splash in the grub 2 configuration some how?
+  /etc/default/grub thanks
+ i'll take a look
+ Dr_Willis, thank you no more annoying message on the monitor
+ about not supported video mode
+ guess i was lucky upgrade worked fine
+ even wireless still worked
+ karma_police,  I didn't have any problem with my htc aria and usb tethering with 10.10. Not tried it in 11.04 yet
+ i didn't have to root my phone to use the tethering - its part of froyo 2.2.2

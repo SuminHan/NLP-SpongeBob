@@ -1,0 +1,99 @@
+ hi. it seems to take about 15 minutes, once I've disconnected, for the system to realize I've disconnected. can I change this timeout?
+ bite-android: swap is used to supplement your memory should you run out..
+ bite-android: memory, as in ram
+ bite-android: then you're probably okay without it, but if your apps ever use more than 2gb of ram, you'd run out of memory at that point
+ bite-android: yes.. basically a very slow form of ram
+ bite-android: I currently have 1gb of ram and 1gb of swap.. so with your ram only, you have as much memory as I do :)
+ bite-android: you can also use a file as swap space, so if you find out you need it later, you can still do it
+ Froq: https://help.ubuntu.com/community/SwapFaq#How%20do%20I%20add%20more%20swap?
+ yw
+ hi.. I did /etc/init.d/ssh stop .. and then pkill'ed sshd.. and sshd started running again. the only way I could stop it was by renaming the sshd executable. what is causing this?
+ ZzTribble: thanks.. that gives me a place to look!
+ kusanagi: nah dude.. this happened all the time.. one release you couldn't even edit the menu
+ Silentmyst: you could try cat on the mmouse device and see if the kernel is seeing the events
+ Steela: *mouse
+ Silentmyst: don't pm please
+ Silentmyst: open a terminal.. cat /dev/input/mouse0
+ Silentmyst: might need sudo for that
+ Silentmyst: so you're seeing the gibberish when you push the buttons, except middle thumb?
+ Silentmyst: maybe those are a different mouse device like mouse1, 2, 3?
+ Silentmyst: I meant, try cat with the other files
+ Silentmyst: yeah
+ Artarian: if something was working for you, why upgrade?
+ Artarian: you're experiencing the new features lol
+ Artarian: but seriously.. that's why I'm running a frankenbuntu of kde3.5 and lucid
+ Silentmyst: k.. well that was my only idea. basically those should be showing whatever linux sees
+ Silentmyst: however it's possible that the additional functions are in a different device as well that I don't know about
+ Silentmyst: there are a number of /dev/input/event# devices in mine
+ Silentmyst: yw.. btw is it usb?
+ tripelb: picasa works fine in linux btw.. it's a hellish mix of wine but it works
+ gonzalo: what is this ROOT program.. thats the key here
+ WindowNumOne: you need to grant your user account permission
+ WindowNumOne: patience, I'm looking
+ WindowNumOne: it's in your preferences or admin under users and groups
+ WindowNumOne: there should be a cdrom group and you need to add your user to that group
+ dijonyummy: usually not much difference
+ dijonyummy: they might resolve dependencies differenly
+ dijonyummy: to get a list of packages in some sort of installed or not fully uninstalled state, use dpkg -l
+ WindowNumOne: sorry, I'm not running Gnome.. ask for help on how to get to the Users and Groups settings
+ WindowNumOne: then go to groups
+ WindowNumOne: you should have a cdrom group
+ WindowNumOne: is there a cdrom group?
+ HyperShock: he's trolling
+ WindowNumOne: then that is fine the way it is, don't change it
+ WindowNumOne: is there a dvd group or cdrw or something liek that?
+ WindowNumOne: doubt it unless you hgave more than one cd drive
+ WindowNumOne: you were wanting to use k3b, right?
+ WindowNumOne: actually, wait a sec.. I have an idea
+ WindowNumOne: do you know the name of your cd device.. like /dev/...  ?
+ WindowNumOne: don't add that
+ WindowNumOne: okay that's not right but I'm going to take a guess.. open a console and type ls /dev/sg*
+ WindowNumOne: sudo ls /dev/sg*
+ whattt
+ WindowNumOne: you typed the original command wrong
+ WindowNumOne: it should be "ls /dev/sg*" ... no quotes
+ openbees: okay put in a cd that already has data on it and browse it .. then go to the console and type "mount" (no quotes). tell me if you see /dev/sg0 or /dev/sg1 in the list
+ openbees: sorry typo
+ openbees: wrong person
+ WindowNumOne:  okay put in a cd that already has data on it and browse it .. then go to the console and type "mount" (no quotes). tell me if you see /dev/sg0 or /dev/sg1 in the list
+ WindowNumOne: yes
+ wobblyonions: kerep in mind that shuttleworth had some fight with gnome devs and so next ubuntu won't have gnome at all
+ Jordan_U: true: In April 2011 Mark Shuttleworth announced that Ubuntu 11.10 Oneiric Ocelot would not include the classic GNOME desktop as a fall back to Unity, unlike Ubuntu 11.04 Natty Narwhal.
+ WindowNumOne: just look in the list and find the info, no need to paste it
+ thanks for correcting me.. I am glad to hear that I am wrong about Gnome in 11.10
+ Steela: are you the same and that WindowNumOne guy?
+ Steela: I don't see a mounted cd or dvd in that list
+ Steela: all I wanted to know was the name of your cd device .. it is probably /dev/sg0 .. lets just guess
+ Steela: pastebin this: ls -l /dev/sg* /dev/sr*
+ Steela: that looks good then. and you said you were already in the cdrom group.. well I don't know at this point. I can get you working in a "wrong waqy" if you just want to burn
+ Steela: if you run "sudo k3b" you should probably be able to burn
+ KM0201: it told him permission denied.. I used to get that all the time until I got my permissions sorted out
+ KM0201: but if he just needs to burn something he can use sudo and get it done
+ KM0201: it's not the right solution, but i can get him going in a crunch
+ KM0201: I'm pretty sure you need to be able to access the /dev/sr0 (etc) device in order to burn.. and the permissions are root.cdrom.. so either root or in the cdrom group
+ Steela: did "sudo k3b" work to burn your cd?
+ Steela: it'll run it as root
+ Jordan_U: if you wnt to take over and help him, go ahead
+ Jordan_U: there is nothing wrong with using sudo to run a program
+ Jordan_U: and I haven't kept up on the grpahical sudo of the week
+ okay well I don't want to get banned for helping so sorry Steela you're on your own
+ Jordan will help you
+ btw your ubtu command never sent me any kind of link
+ lol that's funny.. I guess I never thought about that.. if .ICE got messed up I'd just fix it
+ well good to know I guess
+ Steela: I guess your command now would be gksudo k3b
+ wdbl: I was thinking about that the other day ... actually with /usr/src. if a regular user had write access to /usr/src.. a malicious user could fill up the partition /usr . I don't know if that is THE answer, but just a possibility
+ wdbl: if it's just your system you could also change the permissions
+ MoleMan: it means it detected a directory and you didn't use -R
+ wdbl: I'm not sure either
+ wdbl: cool then. I just hacked mine with chown username.username /usr/src   .. defininely not the best practice but it worked for me :)
+ Steela: ok
+ Steela: I thought I said to use gksudo because they corrected me.. guess you missed it
+ Steela: but still.. the program should have loaded
+ Steela: well did k3b load ?
+ Steela: did it work to burn?
+ Steela: so it still complained about permissions
+ Steela: oh cool.. guess k3b got smarter since the lasty time I tried that hack.. lol
+ Steela: I want to see it here, 1 min
+ Steela: so it gives the warning and lets you close the warning. does it then let you burn?
+ Steela: good luck with your probs, I'm out for a while

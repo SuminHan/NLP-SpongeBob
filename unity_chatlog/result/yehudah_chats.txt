@@ -1,0 +1,5 @@
+ help
+ cannot boot into 11.04 just hanging on blank screen
+ which first screen?
+ Guest68448: can we go to pvt chat?
+ how do i start acpi once in unity

@@ -1,0 +1,3 @@
+ so once i done all the updates im on 11.04 right?
+ you can mount isos in grub if that helps
+ Rehan, what pavilion do you have?

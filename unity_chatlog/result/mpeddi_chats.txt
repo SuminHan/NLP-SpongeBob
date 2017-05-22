@@ -1,0 +1,6 @@
+ Defect? 11.04 resuming from hibernate messes up my screen, have to restart to get screen working again
+ known issue?
+ stefg: do you know if there is a known defect in 11.04 with coming out of hibernate?
+ yes dd214, same, my screen stays black, sometimes I see garbled matrix style text
+ interesting
+ thank you dd214

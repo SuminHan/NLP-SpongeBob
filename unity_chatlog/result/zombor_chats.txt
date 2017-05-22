@@ -1,0 +1,19 @@
+ hey, i just tried creating a bootable usb from the download image, and it wont boot from my machine, anyone know why? i used dd on my mac to copy the image to my usb key. ive booted from the same usb key for other linux distros...
+ taglass: the instructions say to use dd, and unetbootin doesnt list my usb key
+ Jordan_U: i have an intel efi pc
+ no, 32
+ >_<
+ Jordan_U: the 64 bit download has "amd64" in the filename
+ k, im just used to seeing x86_64
+ Jordan_U: still doesnt work :(
+ hi, are the live cd's supposed to be working with intel i3+H61 machines?
+ hello, im trying to install ubuntu, and i get the bootloader, but when i select "install" i just get a blank screen. im trying to install it on an intel i3 H61 machine, anyone know how to get it to work?
+ arand: let me try your first suggestion
+ arand: i havent tried the alternate install
+ arand: without quiet boot, a bunch of stuff scrolls by, then i get a blank screen
+ arand: im just using the built in video of the processor
+ anyone know the status of the GMA 2000 intel graphics chip? im having a hell of a time getting even a display to come up
+ has anyone gotten ubuntu working with an intel i3 with the GMA 2000 video? i can't seem to get anything to display
+ has anyone got sound working with an intel H61 i3 processor on board audio? when i do alsamixer it says "cannot load mixer controls: Invalid argument"
+ has anyone got sound working with an intel H61 i3 processor on board audio (Realtek ALC887)? when i do alsamixer it says "cannot load mixer controls: Invalid argument"
+ FunnyLookinHat: FIX MY PROBLEM

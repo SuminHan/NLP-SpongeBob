@@ -1,0 +1,25 @@
+ anyone  care to help a linux newb who is having some simple problems?
+ how do I setup a sudo password for a user?
+ i dont know the correct terminology yet, but i hope you understand what i mena
+ mean*
+ yes
+ ok, ill google that, should be able to get  it
+ i just found a tut on google freeman, thanks though
+ thanks buddy, I got it working , adding users to sudoers that is
+ i forgot your name though
+ lol
+ freeman, thats who it was, thanks for the help
+ me too, this time around for some reason things are clicking much better in my head than in the past when ive tried to learn to use linux
+ exactly
+ I myself am an IT professional, mostly experienced with windows sides of things including AD etc as well as general IT support for medical practices as well
+ im trying to expand my knowledge because the government is giving out tons of money to train for healthcare IT profesions , and ive already got a bit of background in the field, would just love to go as deep down the rabbit hole as i can
+ anyways, just felt i would give you guys a bit of an intro , its the least I could do in exchange for the support
+ lol
+ my end goal is to learn pentesting , as eventually i would like to get cissp
+ as healthcare has a huge need for security in their technology ...
+ so i plan on learning more advanced distros once I get comfortable
+ im liking it so far because im really starting to look at things differently already, only a few weeks in, and my mind is seeing and thinking about things in a more logical way , or atleast it seems that way
+ would anyone care to help me to get my sound up and running in my linux distro?
+ can someone help me, im trying to get my sound to work, I load the alsa mixer and it shows the typical sources my card is capable of using, but when i turn the volume up, no sound comes out.... any ideas?
+ anyone know of a good tutorial on gettng your soundcard to work with alsa in ubuntu? (preferably newb friendly)
+ hd intell is the card acording to alsa, and VIA VT1708S is the chipset

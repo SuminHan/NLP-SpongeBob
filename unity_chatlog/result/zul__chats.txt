@@ -1,0 +1,4 @@
+ hi all
+ who can tell me what's the path to copy  mysql-connector-java-5.1.10-bin.jar for a java web application running in tomcat6?
+ #ubuntu-it
+ the java application is in /var/lib/tomcat6/webapps l403

@@ -1,0 +1,7 @@
+ Let's talk Ubuntu vulnerability.. does anyone have the same problem if idle, the screen goes black, but when the mouse or keyboard are moved you have access to the desktop for 10-20 seconds, then out of no where the Login Prompt appears?
+ LjL that would be a security no-go for some of the environments I would like to use Ubuntu @ work/
+ LjL, at least it's not just me.. thanks for confirming the err.
+ engammalsko did you upgrade 11.04 or clean install?
+ engammalsko, unfortunately not.  I had alot of problem after upgrading,  so I backed-up and did a clean install of 11.04, all my problems went away in about an hour.   but.. that's probably what you didn't want to hear.
+ Glycan, send your traffic
+ engammalsko, let us know how the clean install works

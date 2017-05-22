@@ -1,0 +1,9 @@
+ syntaur: worth a shot, thx, it'll take some code archaeology, unfortunately (not my code, of course)
+ q from a ubuntu noob...
+ i've got a pkg installed that requires access to port 8010
+ but even though the port seems to work by doing a wget locally
+ i can't access from something hitting my AWS instance... ideas?
+ with ubuntu on an AWS instance... ubuntu firewall disabled, aws security group set to wide open (0-65535 on 0.0.0.0/0), is there any reason i shouldn't be able to connect to a port by hitting my AWS IP?
+ so sorry, whoever was kind enough to reply... i accidnetally termed my channel window, can you pls repost?
+ syntaur: i'd be surprised, but it's worth a look. we've run this away from AWS without issues like that... but who knows.
+ syntaur: worth a shot, thx, it'll take some code archaeology, unfortunately (not my code, of course)

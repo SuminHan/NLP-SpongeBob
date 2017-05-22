@@ -1,0 +1,106 @@
+ hi all; after my recent update to 11.04 from 10.10, I have no GUI, but I do have a virtual terminal.  I can run commands to diagnose and repair the problem, but I'm not sure what those commands are.  Any help?
+ Eduard:  I think so..?  There is a file at /etc/X11/xorg.conf
+ Eduard: renaming xorg.conf to something like xorg.conf.bkp would be okay? And I remove the drivers through apt-get, right?
+ Eduard: Never heard of nouveau before, though.
+ Eduard: I can do it with vim..!  :P
+ Eduard: /etc/modprobe.d is a directory.
+ Eduard: no, there's no nvidia.conf
+ Eduard: although I am using nvidia
+ Eduard: 11 files
+ Eduard: most match "blacklist-*.conf"
+ Eduard: Nope, nouveau isn't mentioned in any of the blacklists
+ budo, asking about puppylinux in a channel about #ubuntu isn't likely to get good results.
+ Eduard: ls /etc/modprobe.d -> {alsa-base,blacklist-ath_pci,blacklist,blacklist-firewire,blacklist-framebuffer,blacklist-modem,blacklist-oss,blacklist-rare-network,blacklist-watchdog,dkms,libpisock9}.conf
+ Ignatus: a friend of mine was complaining about Unity, too, but I don't have many more details.
+ Eduard: Okay, will do.
+ Eduard: unable to locate package nouveau.
+ Eduard: I currently have four packages installed beginning with "nvida-", should I remove all of those as well?
+ nvidia-{173-modaliases,96-modaliases,current-modaliases,settings}
+ Eduard: there are a few packages not named "nouveau" that might be what we're looking for: libdrm-nouveau1a (and $SAME-debug), xserver-xorg-video-nouveau (and $SAME-dbg), nouveau-firmware ?
+ Eduard: the nvidia packages I have are nvidia-{173-modaliases,96-modaliases,current-modaliases,settings}
+ Eduard: Thank you for your help; have a nice day. =)
+ step21: Hm, I already had the nouveau package installed.  Moving xorg.conf and/or deleting my nvidia drivers seems to have done it.  Thank you for your help, as well.
+ step21: Whoa, not so fast, maybe..  apparently I "do not have the hardware required to run Unity."
+ step21: should I have installed nouveau-firmware as well..?
+ step21: Whoa, cool, kernel panic!
+ step21: "Fatal machine check on current CPU"; it rebooted itself.
+ step21: I imagine from trying to use the new nouveau-firmware package… I installed it, then logged out and tried logging in again so Unity would start.
+ step21: When I tried to log in, kernel panic!
+ step21: That's the hope! =)
+ step21: Well, no kernel panic this time, but I still don't seem to have compositing.  nothing in the "Additional Drivers" settings is selected, either, although there are 3 options.
+ step21: how can I tell nouveau is actually being used?
+ step21: tail of /var/log/Xorg.0.log shows a lot of lines with "NOUEVEAU(0)" in them
+ step21: I also get (when grepping for "dri"), AIGLX: dlopen of /usr/lib32/dri/nouveau_dri.so failed
+ step21: sec, I'll paste my entire /var/log/Xorg.0.log somewhere
+ step21: 803 lines of it, pasted here for your reading enrichment: pastebin.com/LtFEnHsY
+ alaing: try nano?
+ alaing: personally, I like vim ;)
+ step21: sure - which package names am I looking for?
+ step21: there are several "nvidia-glx-(stuff)" packages not installed. libdrm-nouveau1a is installed.
+ step21: it is.  Reboot after remove?
+ step21: remember that kernel panic from earlier..?
+ step21: to be clear, this kernel panic happened during startup after the reboot.  second reboot underway now.
+ step21: and seems to have disappeared.
+ step21: transient behaviour, perhaps.  :D
+ step21: Okay, at my desktop again.  Once again, no compositing.  Want a fresh Xorg.0.log?
+ step21: Interesting.  Xorg.0.log says at one point, "Matched nvidia as autoconfigured driver 0"
+ step21: before proceeding to nouveau, nv, vesa, and fbdev, in that order.
+ step21: Alright; thank you very much for all your help. =)
+ Hi all; I seem to be having some troubles with nouveau.  Any help?
+ Hi all. I'm having some trouble with nouveau and Unity after my recent upgrade to 11.04.  I'm comfortable in the commandline to troubleshoot it, but not sure what to do at the moment.  Any help?
+ kingofswords: on IRC?  /msg NickServ identify <password>
+ kingofswords: more info: /msg NickServ help identify
+ techfighterminal: Try handbrake.
+ techfighterminal: Here's Handbrake's website: http://handbrake.fr/
+ I've been having some trouble with my graphics after updating to 11.04. It seems like nouveau isn't being used, or isn't working properly, or something. I don't appear to have any hardware acceleration.
+ I've been having troubles with graphics and the nouveau drivers after my upgrade to 11.04.  I'm pretty sure the drivers are either not being used or not working properly at the moment.  How can I troubleshoot this?
+ Anybody around to help troubleshoot nouveau and graphics issues with 11.04?
+ This is the xorg.conf file I'm using, but nouveau isn't working properly: http://pastebin.ca/2052662  Any ideas?
+ This is the xorg.conf file I'm using, but nouveau isn't working properly: http://pastebin.ca/2052662  Any ideas?  Has nvidia released drivers for 11.04 yet?
+ Does anybody know if there are official nvidia drivers for 11.04 yet?
+ aphexcoil: Very funny. :(
+ aphexcoil: My advice: DON'T.
+ aphexcoil: Nothing but problems since I have.  I'm about to decide to back up ~ and then wipe it and do a fresh install.
+ aphexcoil: I guess my advice is only tangentially related to your question, seeing as my drivers are so borked that I haven't even been able to use Unity yet.  But my advice is that if you're upgrading, do a fresh install.
+ aphexcoil: I am, but I don't speak for the rest of #ubuntu.
+ The other difference, if you're "lucky", is that your drivers are borked and your system freezes.
+ uRock: the better way is to do propper debugging and testing before releasing to your users.
+ uRock: People who are willing to deal with bugs in production should be using alpha releases.
+ uRock: the occasional bug is obviously impossible to prevent, but the fallout from Unity is probably a pretty good indication that it wasn't ready yet.
+ uRock: business as usual for Ubuntu, though.
+ uRock: You are one data point.
+ uRock: Here's another one for you: when I upgraded, I could barely boot.
+ uRock: average our experiences and it's still pretty terrible.  that's why I used the term "fallout" earlier.
+ uRock: it's not just me that's had issues with the new version.  it seems to me that there's been more than usual.
+ Flannel: I'd rather just stop talking about it.  But thanks.
+ Anybody have any idea how to get nouveau working properly on my system?
+ KM0201: That was really, really helpful. Good work.
+ KM0201: :P
+ Cairo|Mac: Not sure what you mean.  What's wrong with that screenshot?
+ Cairo|Mac: check /var/log/Xorg.0.log for clues? or can you not even ctrl-alt-f1 into a VT?
+ Cairo|Mac: that might give you some clues, then.  but aside from that, I don't know much about it.
+ Cairo|Mac: there are many. I use vim; you're probably looking for nano.
+ hiexpo: I like vim because it uses only the keyboard, and has a lot of good mechanisms for navigating text and manipulating it.  Many of my reasons would be repeated by users of emacs.
+ Cairo|Mac: That's probably not good!  If you copy it into a pastebin somewhere, somebody else might be able to help you, but I'm not very familiar with Xorg, sorry.  =X
+ Cairo|Mac: yeah, it's lynx.  but you might be able to copy the file to another computer and pastebin it there.
+ Cairo|Mac: or, use Maahes suggestion..!
+ While trying to activate an nvidia driver in the Additional Drivers dialogue, I got an error. /var/log/jockey.log says "modinfo for module nvidia_current failed".  How do I fix this?
+ When trying to activate an nvidia driver in Additional Drivers, I get this message: http://paste.ubuntu.com/602077/  How do I fix this?
+ Sonjaaa: or do a fresh install.  but don't upgrade.
+ Sonjaaa: Well, for me, my graphics drivers are totally broken.  But it's different in every situation.  Fresh installs are just generally more headache-free.
+ gonzalo: read the topic.  Don't ask to ask a question, just ask it.
+ Dear #ubuntu, after running the nvidia installation script from the commandline and restarting my system, Additional Drivers informs me that nvidia_current is "activated but not currently in use."  how2fix plz
+ mister_m: so any ideas how to fix it?
+ mister_m: thanks anyway.
+ hooray, another kernel panic. =/
+ Hi all, although Alternative Drivers says my nvidia-current is "activated but not currently in use", glxinfo and glxgears seem to suggest that it actually is.  My problem: "Detect monitors" is not showing my second monitor.
+ #ubuntu, why is my second monitor not getting detected?
+ How do I move the Unity bar around? I have multiple monitors and would like it on the far left edge, not the left edge of the right-hand monitor.
+ wow, that's awesome.  For real?!
+ Romance: No.  Nothing.  Don't use it.  Unity should die in a fire.  Stay on 10.10 while you still can.
+ Romance: I'm not being sarcastic.  I've had nothing but trouble since I updated.  AVOID.
+ Romance: The term "bleeding edge" comes to mind.
+ Romance: That works, too.  =)
+ spicytaco: No, I can't.  I'm illiterate.
+ spicytaco: well, we can all see you just fine. =)
+ spicytaco: couldn't tell you.

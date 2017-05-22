@@ -1,0 +1,1 @@
+ Hello! I installed python 2.7 on Ubuntu 10.10. How can I make it my default python instead of 2.6 without upgrading the distribution to 11.04?

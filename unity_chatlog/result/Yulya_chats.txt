@@ -1,0 +1,8 @@
+ hello guys
+ i have some trouble with 10.04
+ i make backup with tar, unpack it, install grub
+ fix fstab http://paste2.org/p/1398614
+ on first boot i got http://touhou.ru/upload/6a12b415e03838b3682c25ea0fc379a8.png
+ and nothing happen
+ guys, whole qestion in one line: i make tar file from live system, unpack it on new disk, install grub, fix fstab like here http://paste2.org/p/1398614 and on first reboot i got : http://touhou.ru/upload/6a12b415e03838b3682c25ea0fc379a8.png and nothing happen
+ if i move /var/ and /tmp/ to its default place and remove bind's from fstab system boot properly

@@ -1,0 +1,2 @@
+ After last update from Natty, I can't login with GDM anymore. The password seems to be accepted, the screen gets black, and the GDM screen appears again. Any hints?
+ I cannot login in my Ubuntu anymore. I select my user, type the password in, but the screen returns to the login. Can anyone help me solving this problem?

@@ -1,0 +1,6 @@
+ untu: when you turn on your computer dose it ask you for user id/password?  this is the logon sscreen (aka gdm ) where you select session
+ untu: you logout and that woudl be it
+ compdoc: why gksudo?
+ Dr_Willis: exactly
+ compdoc: no need as you want firefox to run as normal user
+ Dark_Star1: no need to run as root

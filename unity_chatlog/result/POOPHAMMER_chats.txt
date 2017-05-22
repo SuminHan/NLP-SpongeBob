@@ -1,0 +1,12 @@
+ is there a way to force ubuntu to load its GUI?
+ it always just traps me in a terminal
+ i used to
+ until it stopped loading
+ i have no idea
+ no im in a terminal using IRSSI
+ it just says welcome to ubuntu 10.10 tty sp,ething like that
+ i used to have the ubuntu desktop enviroment
+ then one day it just stopped working
+ neither of those commands did anythin
+ g
+ ill bbl im just going to load windows

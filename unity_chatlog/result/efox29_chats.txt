@@ -1,0 +1,18 @@
+ yi`zhi, you might need it
+ yi`zhi, i dont like unity, i feel my desktop is a phone now with all these 'apps'
+ and some of scripts no longer work
+ that was asthetics, for functionality, some of basic scripts dont work, but if i manually type them into terminal they work (i mean the actual command)
+ entering in the incorrect root passwd sometimes makes my terminal hang
+ restarting sometimes freezes...
+ if i modify my sudoers to enable a user to run a script without passwd, will that script run commands that typically only root can run ?
+ because right now, i can run the script, but the command within in the script still requires a root passwd...
+ vishal_, it took me like 4 hours ish
+ vishal_, no
+ lol
+ vishal_, i guess im just a bit disappointed that somethings broke along the way, and i had to fix them...whereas with other upgrades...no problems
+ zachgretzinger, ya, the download took a while...it would fluctuate, i dont know if it was their servers or my connection, but id be hittin like 700kb/s then drop to like 6kb/s
+ zachgretzinger, thats what i thought too....i guess you hopped in when everyone got fed up and cancelled
+ lol
+ zachgretzinger, so even before ppl cancelled..lol
+ zachgretzinger, see...just like vishal_  :)
+ anyone know how to allow a script without root passwd

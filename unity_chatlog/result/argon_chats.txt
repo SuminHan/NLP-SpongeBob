@@ -1,0 +1,6 @@
+ i got compiz lag on ubuntu 11.04 (nvidia) can someone help me?
+ hello,draging windows in ubuntu  11.04 is very laggy. I'm using the nvidia drivers.. is this an knowen problem?
+ actionParsnip : I'm not shure how to do this
+ actionparsnip: better performance with metacity, bu no effects and the Unity bar is gone
+ actionParsnip : howto switch back to compiz, i can't research now because unity is gone
+ actionParsnip : alt + f2 -> nothing happens

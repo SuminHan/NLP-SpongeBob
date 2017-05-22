@@ -1,0 +1,18 @@
+ Are the Ubuntu servers getting slammed?
+ How do I make IRC rooms show up in the Empathy user list?
+ How do I make Irc channels show up in the Empathy user list?
+ How do I make Irc channels show up in Empathy's user list?
+ I feel a great disturbance in the Force, as if millions of Ubuntu apt-get repositories suddenly cried out in terror, and were suddenly silenced.
+ Hey, can you separate texts into chat bubble with Pidgin like you can with Empathy?
+ Man, this build of Ubuntu is uber buggy.
+ I'm using Unity with the Nvidia proprietary 270. drivers.
+ Works great.
+ TheHackOps: That's what I'm using. Downloaded, and installed them this morning.
+ Didn
+ Didn't even remove the old drivers. lol
+ mikebeecham: Download and install the proprietaries from Nvidia's site.
+ They work much better.
+ Yes, mike.
+ mike. pm me. and bring a pen.
+ mamma say... mamma saw... mamma ma koo saw.
+ How do I edit the Unity menu bar? I'm trying to drag other folders from my Home directory to it, but no dice.

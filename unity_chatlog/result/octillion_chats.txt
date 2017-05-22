@@ -1,0 +1,4 @@
+ Rehan:  If you have a large enough external drive, you can just dump an image of your current HDD with dd
+ just dd the partition with ubuntu
+ Rehan: sure
+ Robert__ in a terminal, lsb_release -a

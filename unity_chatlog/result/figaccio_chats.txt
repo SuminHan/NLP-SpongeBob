@@ -1,0 +1,2 @@
+ hey guys, i'm having a problem regarding hdmi audio with the realtec alc888 codec. Video works fine with HDMI but no audio output... in alsamixer the SPDIF, SPDIF D shows 00 - SPDIF 1 is MM - any suggestions?
+ so noone an idea about my hdmi issue?

@@ -1,0 +1,3 @@
+  hi, i'm trying to revive an old install on a laptop... It was working a week ago, it has issues with the bios battery so I get frequent complaints of mismatching timestamps (not now though). It boots right into recovery console and when I do a startx in there, I get mktemp: failed to create file via template '/tmp/serverauth.XXXXXXXXXXXXXX': read-only file system so it seems to me that i'm looking at a permission issue, however I don't know how to
+ resolve it.. any tips?
+ k, my issue was resolved with a fsck... /tmp had a timestamp from october this year and system time was only april this year

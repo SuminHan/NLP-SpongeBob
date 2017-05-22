@@ -1,0 +1,4 @@
+ jockey is reporting that my video driver is activated but not currently in use (nvidia v 173) is there a way to get my drivers working properly?
+ jockey is reporting that my video driver is activated but not currently in use (nvidia v 173) is there a way to get my drivers working properly?
+ Dr_Willis: ive rebooted several times even removed the driver and re activated it
+ the proprietary driver jockey suggests isnt working for me (activated but not currently in use) is there any alternatives i can try or suggestions to get it working properly?

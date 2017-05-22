@@ -1,0 +1,6 @@
+ how do I install gnome3 ? I have the official PPA added, and some websites mention installing gnome3-desktop or gnome-desktop3. Neither is showing up in synaptic
+ chazwoza: Yes, go to adminstration-> Login screen
+ Jordan_U: I understand that. Nevertheless.. how do I install it ?
+ jetole: actually gnome3 upgrade isn't reversible. But 11.04 doesn't upgrade your gnome 2 go gnome3 by default. Gnome3 can be installed only by adding PPA
+ jetole, was just clarifying that we *can* revert from unity to gnome-2 as folks have mentioned - which is what a lot of us have done first thing after upgrading. Both unity and gnome2 are installed. However, if we upgrade that gnome2 to gnome3, then unity is broken, plus gnome3 cannot be easily moved back to gnome2. (This is for your as well as other's benefit, as I had the same confusion couple of days back)
+ personally the worst thing that unity did was remove the properly working gnome-panel with some broken stuff, and moreover, super-space (which was my gnome-do shortcut) was broken.

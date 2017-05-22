@@ -1,0 +1,7 @@
+ Request for help: I just upgraded to 11.04 on my Dell Inspiron 1720. It says it doesn't see any network devices. I have the latest broadcom driver installed(99% sure) and it won't detect any wireless networks or even the ethernet cable. Please help?
+ Any thoughts on my lack of networking..?
+ OK, I guess I'll leave since I'm getting ignored...
+ Thanks for the response. " Request for help: I just upgraded to 11.04 on my Dell Inspiron 1720. It says it doesn't see any network devices. I have the latest broadcom driver installed(99% sure) and it won't detect any wireless networks or even the ethernet cable. Please help?"
+ !broadcom
+ Where I'm confused is that everything was working fine before the upgrade. Also, because ethernet isn't working I can't apt-get/use package managers. Is there a way that I can just de-upgrade? Everything was working fine...
+ Annoying that it was a recommending upgrade, then. Is there a way to safely go backwards?

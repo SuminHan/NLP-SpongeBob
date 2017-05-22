@@ -1,0 +1,1 @@
+ ok. i am trying to override policykit so that i can install updates without having to type my password but it doesn't seem to want to give in. What am I doing wrong? http://paste.ubuntu.com/601378/

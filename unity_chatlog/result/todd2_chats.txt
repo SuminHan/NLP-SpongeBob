@@ -1,0 +1,11 @@
+ need some help with wifi problems on Dell Inspiron 1501
+ cheapie: upgraded and now my wifi is turned "off"
+ cheapie: no, try running some code last night to "activate STA", but didn't work
+ cheapie: remind me how pastebin works?  Haven't done it in a long while
+ cheapie: here's my ifconfig http://paste.ubuntu.com/603075/
+ cheapie:  did not return anything
+ cheapie: can't tell you what chip, but it's a Broadcom STA driver for Broadcom 4311
+ edbian:  did that last night... nada
+ cheapie:  here's the lsmod http://paste.ubuntu.com/603076/
+ cheapie:  did the install, still no light on the wifi saying it's on... may have to restart? right?
+ cheapie: out for a restart...

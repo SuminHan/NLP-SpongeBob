@@ -1,0 +1,23 @@
+ hello guys im new to linux and when imean new extremly new.. i installed this ubuntu 11.04 but it cause my laptop brightness too low
+ and cpu over heated
+ is there any solution
+ i have toshiba satellite m500 laptop
+ guys please check out my question here i really need help
+ hello is there any solution
+ what will happen if i install this elemetry OS i guess its same as ubuntu will that make any difference <JoshDreamland>
+ ok
+ i did install nvidia drivers but this cpu is extremly heated i forcefully had turn off <JoshDreamland>
+ yeah <coz_>
+ dont kno.. i guess if ubuntu doesnt work that will not work too
+ no
+ so how do i solve this problem guys i have same problem with all the linux distros not only ubuntu.. i tried openssue fedora ubuntu 10.10 even but same others dont have brighness issue but super hot cpu problem
+ <coz_> i dont know just read it somewhere
+ im not too familiar with linux only starting out but
+ doesnt seem to work for me
+ guess i ahve to go back to same old windows
+ <bittin> :) thakyou
+ no i tried ubuntu 11.04
+ so guys is there any solution or i just have to say good bye to linux .. man this is bad .. i really like to work on opensorce platform but .. kinda frustrating
+ no i havent tried that <JoshDreamland> im new to all that kinda stuff
+ yeah i did ..and they do have same problem but no answer its quietpopular laptop model in ubuntu with problem its toshiba satellite m500
+ some fellow posted a long code and told to recompile kernel or something .. idint understand that one so .. no use for me.. i am totally new and how on earth im gonna recompile kernel

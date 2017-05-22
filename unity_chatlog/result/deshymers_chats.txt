@@ -1,0 +1,4 @@
+ updated to 11.04 and unity isnt on by default, when I run unity --rest in ttyl1 and go back to ttyl7 I see unity over top of the old 10.10 desktop any suggestions?
+ can anybody recommend a hdd cloning tool?
+ Stereocaulon_: kinda hoping for a tool that I can boot into from usb, need to take windows off one hdd and put ubuntu on that one
+ Sidewinder1: I'll have a look thanks

@@ -1,0 +1,42 @@
+ I'm starting to get really pissed off here
+ I am trying to play minecraft, with the .jar provided by the website.  It keeps up and just closing out on me.
+ With NO warning.
+ just BAM and it's no longer running
+ what could be causing this?
+ wwwwwwwwwwwwwwwwwwawiohtqawoht
+ tsaknorris, that wwwwwww is from it just closing itself agaimn
+ tsaknorris, the same way I've been doing it all week, right click and run with openjdk.
+ It ran fine for 5 hours tonight
+ This started happening after I had to restart with the thing still running, because all the titlebars disappeared
+ tsaknorris, i don't start it from command line
+ tsaknorris, it's been running fine on open all week
+ why is it starting this crap NOW?
+ did restarting without closing it out do something?
+ okay, hand on here
+ !sunjava
+ !partner
+ !sunjava
+ !multiverse
+ do I have the right repositories for getting Sun Java?  http://pastebin.com/cwaDmyTX
+ zvacet, done, and doing command, thanies
+ thankies
+ zvacet, which sun-java-* should I install?  sun-javadb-common, sun-javadb-javadoc, sun-javadb-client, sun-javadb-core, sun-java-demo, or sun-javadb-doc?
+ according to that tinyurl in the trigger, sun is not available for 10.10
+ Yes, I have openjdk
+ I'm being told I need sun to continue running minecraft
+ !partner
+ I keep getting zero results for java6
+ how interesting
+ terminal and synaptic both couldn't find it
+ but the link on that page you linked me is getting it installed
+ thankies :D
+ zvacet, appears so
+ zvacet, i'll come back if minecraft keeps closing itself under sunjava
+ it usually closes itself after about 5 minutes
+ so time will tell, zvacet
+ zvacet, did it again
+ zvacet, I'll try wiping and re-installing minecraft
+ Yeah, I told it to launch with sun
+ Yeah, I told it to launch with sun @ zvacet*
+ zvacet, me either
+ I'm trying a fresh install of it

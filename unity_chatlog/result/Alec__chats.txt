@@ -1,0 +1,7 @@
+ hey guys
+ anyone here that i can ask a question?
+ hey, so i have a macbook pro (first generation) or macbook pro 3,1. With the release of ubuntu 11.04 i got interested, and downloaded the 32 bit version. i burned it to a cd using disk utility with no problems, then popped it in and using rEFlt, booted into it. After showing the loading screen for 4=+ minutes, it showed three lines of errors. 1.(initramifs) can not moint /dev/loop0 (lcdrom/casper/filesystem.squashfs 2.udevd [82]: wo
+ [203] unexpectedly returned with status 0x0100 and 3. udevd [82]: worker [203] failed while handling '/devices/virtual/block/loop0'
+ Anyone?
+ hey, so i have a macbook pro (first generation) or macbook pro 3,1. With the release of ubuntu 11.04 i got interested, and downloaded the 32 bit version. i burned it to a cd using disk utility with no problems, then popped it in and using rEFlt, booted into it. After showing the loading screen for 4=+ minutes, it showed three lines of errors. 1.(initramifs) can not moint /dev/loop0 (lcdrom/casper/filesystem.squashfs 2.udevd [82]: wo
+ [203] unexpectedly returned with status 0x0100 and 3. udevd [82]: worker [203] failed while handling '/devices/virtual/block/loop0'

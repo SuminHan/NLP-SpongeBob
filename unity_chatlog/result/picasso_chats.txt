@@ -1,0 +1,1 @@
+ can anyone tell me what version of rubygems comes with the new 11.04? or, tell me how to check that myself (before upgrading of course)

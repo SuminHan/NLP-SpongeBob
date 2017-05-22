@@ -1,0 +1,6 @@
+ What UTC time does natty gets released?
+ vadviktor: Not for me
+ I still see cached version of the page
+ wget gives me 404 for that link. FTP doesn't show the release files either
+ Can anyone give me ftp address to download ubuntu iso?
+ Can anyone give me ftp address to download ubuntu iso?

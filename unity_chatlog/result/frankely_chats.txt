@@ -1,0 +1,6 @@
+ Hello, i want to know how to allow execution of a file which is mounted in a hard drive partition in /media
+ it doesnt work, Captainkrtek
+ nothing
+ what i want is that give the x permission
+ but i have tried that, and when i check the file doest no have it
+ non-extesion file, is the eclipse launcher

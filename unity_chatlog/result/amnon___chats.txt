@@ -1,0 +1,1 @@
+ i have a panasonic nv-mx500 and i can't get it to work! it's identified in USB (dmesg, lsusb) but kino and other programs say they can't identify a camera. help please.

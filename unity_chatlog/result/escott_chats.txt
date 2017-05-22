@@ -1,0 +1,941 @@
+ lucus thats the fsck scans the whole drive takes 2+ minutes
+ jpk, was thinking that maybe resume was trying to load a stale image from the old swap partition
+ jpk, but from what you said it appears that is not happening
+ jpk, did you leave the old swap partition unchanged, you could write a new filesystem on top of it
+ jpk, i don't buy the proposed source of the error you suggested, but if you want to be sure i would make that and ext4 partition
+ mknarr, could be in use on the fs though
+ ie the root
+ reeceb, have you checked the v4l website
+ itguru, why not just update-manager -d
+ reeceb, and you have v4l installed
+ reeceb install synaptic sudo apt-get synaptic, and then use it to install cheese and the v4l2 tools
+ reeceb, also check the v4l website to see if your camera version is supported
+ brisky83, thats a rather exotic configuration, are these ati or nvidia
+ brisky83, crossfire support is not listed as supported http://www.x.org/wiki/RadeonFeature
+ acicula, brisky83  ok. my connection dropped
+ brisky83, i think acicula is right. i don't know if xinerama would work, but you could run two different x servers on different cards
+ tripelb, there is a new font, but you shouldn't have blurry fonts have you tried adjusting your subpixel rendering options
+ reeceb, its /dev/video0 but v4l does lots of nice stuff (like flipping my upside down camera the right way)
+ reeceb, i would recommend using gstreamer to get the stream, or look at the v4l docs there may be bindings for popular languages
+ reeceb, media framework included in gnome. what do you want to do with your camera video? and what language do you want to use?
+ revButl, are you asking for suggested partition layouts or tools to partition
+ revButl, how many disks do you have, how much space, what are your goals/uses for the system, how would you prioritize things like backups vs performance vs flexibility
+ reeceb, see if someone has codesamples for openCV and v4l2 im sure its been done many times
+ au-contrarian, 2.0 hasn't been released yet, but they really liked the features and thought it was stable enough
+ revButl, i would suggest making a smaller partition ~15-20gigs for your operating system and configuring it as raid1 mirrored across the two disks with mdadm
+ revButl, for the rest of the disk i would have raid1 as well, and use that for your larger files, if you outgrow the storage you can either buy more or go into a raid1 degraded mode and free a half-terabyte
+ revButl, and don't forget a bit for swap space
+ revButl, im sure you can get many other opinions
+ !isitout | multipass
+ au-contrarian, those gnu people tend to be a little picky about having all the details right with unimportant stuff like a bootloader ;)
+ revButl, thats not really necessary, its a throwback from the old days of unix sysadmins when each disk was 10megs
+ revButl, 90% of people have 2 (/ and swap) some add a couple more for /home or /boot
+ au-contrarian, its understandable it is a bootloader and all
+ au-contrarian, it could have a version number like latex which is always fun
+ induz, what has changed
+ induz, see if anything is using cpu in gnome-system-monitor
+ KaAtta, what is that desktop widget
+ Ziber, can you click on details anywhere
+ KaAtta, yes the "speedometer" for cpu
+ Ziber, what was the last thing it said it was doing, or is it just a progress bar?
+ KaAtta, cool
+ Ziber, have you already entered your username info? wondering if there is a popup somewhere behind a window
+ Ziber, can you run stuff from the live cd, namely the system monitor and see if anything is happening
+ netmsi, when you install proftpd it should create a user for the app, the restriction bit is part of the proftpd config, there is a gui for proftpd as well
+ Ziber, did you boot the live cd to the desktop environment then start the install or did you just take the first install option
+ netmsi, you could do that but there are various things you have to be aware of like, making sure the user has /dev/null as their shell and some pam stuff, better to use the suggested user
+ netmsi, you can only have one service on a single port
+ netmsi, so proftpd has to run as someone, and various restrictions should be put around that user, which they do by default, so that if someone does intrude into proftpd the damage they can do is minimal
+ netmsi, give me a sec to confirm what i am saying is true ;)
+ netmsi, so there is a distinction between a remote shell ala ssh and an service like http
+ netmsi, when you ssh into a server you have an account running as your user on that server, when you http into a server you are asking an httpd program like apache to do things on your behalf, proftpd can do a bit of both, but the safer thing is to set it up like an httpd server
+ netmsi, so when proftpd gets a connection request it authenticates against a list of usernames which need not be real users of the server (without a account or /home, so the only thing they can do is ftp), and then forks and processes their requests
+ netmsi, if you want a service for people who have accounts on the server already consider ssh and sftp
+ netmsi, its part of the proftpd config haven't done it in some time though
+ netmsi, ftp is discouraged for a lot of reasons, if you can use ssh and sftp thats better
+ reeceb_, np
+ netmsi, virtual users i think
+ Ziber, you still waiting on that install
+ RedLance, if your wife and kids are the only users on the system then put your wife and you in a group say "parents" and chgrp the directory and all contents to "parents"
+ RedLance, then revoke w permission from other
+ netmsi, that would be for anonymous (no password login) so if thats what you want sure
+ netmsi, it may be different. http://www.proftpd.org/docs/howto/VirtualUsers.html
+ netmsi, the key thing is you want them to have the least priviliged access to the system, preferably nobody or guest
+ netmsi, but you don't actually want to put a password on nobody or guest, and then have ftp passing that around in the clear, so I would put a password in the AuthUserFile for "nobody" and then tell them to login with that password and see if you can make that work.
+ netmsi, understandable ftp is screwed up
+ netmsi, if you want it to be pretty you can put a different name on the nobody UID in that AuthUserFile and then they can signin as mrrogers if that makes more sense
+ netmsi, you could probably have a bunch of different aliases all to nobody's UID with their own password
+ netmsi so nobody is 65534, you could have alice:65534\nbob:65534\ncharlie:65534 in your AuthUserFile (if I am understanding what I am reading correctly)
+ ezl, root crontab is in /etc/cron*
+ ezl, user cron files in /var/local/cron?
+ nvidia
+ miiike, since this froze up on battery state have you tried booting while plugged in
+ !isitout
+ its an asus ul*c right. does that have switchable graphics? is it a core i-series
+ hiexpo, i think they spun the 210s into a mobile low power variant, its actually pretty new iirc
+ miiike, you might also see if you have switchable graphics options in the bios and explicitly selecting one
+ ubusammyn150, ubuntu doesn't use drive letters
+ ubusammyn150, sudo apt-get install program-name-goes-here
+ ubusammyn150, brainfuck is a programming language known for being very hard to understand. used more as a challenge for programmers
+ ubusammyn150, you will have to explain more what you mean "reconfigure"
+ !torrent | linuxdemon
+ linuxdemon, we can't really help you install a program you downloaded off a torrent. we don't even know what it is
+ !piracy | linuxdemon
+ jeremymcs, where are you getting this problem
+ ubusammyn150, have you tried virtualbox?
+ ubusammyn150, and how would parallels help you exactly !xy | ubusammyn150
+ lucus, no not really
+ jeremymcs, its probably something in your .bashrc did you mess with that
+ ubusammyn150, sorry confused you with linuxdemon
+ jeremymcs, its something about the terminal client you are using. it is reporting itself as xterm-new instead of xterm, and that is causing problems in the bashrc or somewhere
+ linuxdemon, try virtualbox legal, no torrents and in the apt archive
+ lucus, yeah... except for the random fsck errors when you get more than 15 subvolumes, and the slowness using firefox, and the unrecoverability from errors its great!
+ lucus, for a throwaway system by all means give it a go. but its not realistic for a system you will actually use
+ lucus, im only running it now because im taking a break before school and have lots of spare time if it goes kapute
+ lucus thats the fsck scans the whole drive takes 2+ minutes
+ kaushal, no it is very very beta
+ Guest31762, examine the partition table with gdisk
+ z0mbyk1d, within the last 3 years or so
+ z0mbyk1d, not sure when the /etc entry was introduced
+ z0mbyk1d, you might consider installing etckeeper
+ saml, think you are confusing with gnome3, unity does use compiz
+ DaSinge, please talk to #bash overloaded by 11.04 questions here
+ saml, lspci
+ jubei_, do you have dnsmasq configured (NAT)
+ jubei_, assuming addresses on the eth0 subnet are not valid inet addresses (192.168.* or 10.10.*) you need to use NAT dnsmasq to allow the traffic to get back to them, you could have a route out, but nothing back in
+ jubei_, JuJuBee asked for a pm i think
+ !pastebin | jubei_
+ saml, ccsm
+ victorhugo289, yes and if the installer fails to boot try the alternate
+ jubei_, the tldp may have some good docs
+ hinogi, ntop
+ !ru | [Dmitry]1
+ banished, click on the workspace switcher and drag them
+ Pr070cal, gufw
+ moshe_, no, there is a ppa, but it breaks lots of stuff
+ banished, right click on the title bar and say move to... its still compiz so all the old gnome2 methods should work
+ Pr070cal, have you tried gufw gui
+ chchatzop, ubuntu classic/gnome classic from the gdm login screen
+ hinogi, sorry didn't realize you meant montior MODE
+ Ubuntu_user, need more information
+ flo not really it still gets clocked regularly
+ Ubuntu_user, so grub loads but can't chainload windows? or after a windows boot grub can't load anything
+ Ubuntu_user, you need to better explain your problem i dont understand what you are saying is happening
+ flo system clock is generating signals to dram at X megahertz. don't think dram knows it is empty so it always refreshes
+ ie no change in energy usage with memory usage
+ flo various components can be turned off/spun down. the chip can run slower the harddrives spun down, you may be able to turn off your network card etc, but not ram usage. install powertop it can optimize for battery life
+ Ubuntu_user, win 7 doesn't like being messed with
+ Ubuntu_user, did you shrink win7 and move the start of the partition, or just shrink it and keep the start of the partition where it was
+ while, just reinstall, it should just put the newer grub on top of the old one. if you need to backup your grub.conf do that prior to the install and then you can merge you special config back in
+ Ubuntu_user, i don't have any problems with the config now, but but i did have numerous assorted problems that required multiple restores of win7 and reinstalls of ubuntu
+ Lars_G, pretty much, you can still create one but xorg is mostly autoconfiged these days
+ usr13, all I had was a restore image, not an install disk, it would blow away the entire partition table
+ Lars_G, it shouldn't ignore the file, check your /var/log/Xorg.0.log
+ Lars_G, try reinstalling it
+ usr13, if you restore a backup image the entire disk gets restored
+ Lars_G, the synaptics driver that is
+ Ubuntu_user, what are your win7 reinstall options
+ Ubuntu_user, well there are lots of ways Win7 can get broken. bootloader which might be fixable with the windows 7 rescue disk (you can download that). or Win7 can start thinking that there is some kind of hardware change and get stuck on PnP during boot. and a thousand other things, so I just kept reinstalling Win7 from my backup image on a USB drive until I managed to somehow not break it. took a couple attempts, but I found that wh
+ ile I could safely resize the ntfs partition I could not then move it
+ yxz97, looks like you are trying to run a 64bit program on a 32bit system
+ yxz97, or that you have a 32bit jvm on a 64bit system. what is Azureus
+ yxz97, something is 64bit did you download/install a 64bit version of Azureus or a 64bit JVM
+ Ubuntu_user, grub would install over the mbr and then try to chainload the win7 loader on its partition, but that loader may have hard coded addresses for other components of the windows boot which may have moved during the resize
+ Ubuntu_user, the combination of resize + replacing the windows mbr bootloader could break the win boot requiring either a win7 reinstall or the use of win7 rescue cd to fix the boot process
+ econdudeawesome, uninstall Xorg and all Xlibs should remove everything else. be aware many command line tools have guis and might get pulled in
+ econdudeawesome, you can just Ctrl-Alt-F1
+ Ubuntu_user, doubt it the problem seems to be with win7 get the rescue cd and see if it can fix
+ LAcan, iwconfig won't do it for you
+ iwconfig wlan0 mode Auto
+ Roasted, omgubuntu had something on that recently try googling their site
+ LAcan, Ubuntu_user was having problems booting windows not ubuntu if I understand him correctly
+ maximus_, your fastest setup is raid0 stripped
+ maximus_, you can still strip up to the common size and have the rest for swap or large files (not that I recommend stripping)
+ DexterLB, and you have installed all the fglrx drivers
+ neckoox, dns only tells where the server is nothing about ports
+ maximus_, mdadm documentation
+ DexterLB, is the x1200 super old?
+ maximus_, feel free to pm if you have mdadm questions
+ maximus_, /msg
+ econdudeawesome, do you mean the colors of the prompt  ($PS1 in .bashrc) or the background colors (right click on terminal and manage the profiles)
+ econdudeawesome, then you need to edit your .bashrc
+ LAcan, Ubuntu_user_'s problem seems to be internal to Win7. grub is chainloading and win7 boot process is busted (happens from time to time when you resize ntfs)
+ Ubuntu_user_, oooh thats different you mean you can boot Win7 but then you have no bootloader afterwards?
+ econdudeawesome, google for bash color prompt
+ Ubuntu_user_, you have two disks yes? windows on sda and ubuntu on sdb. did you know where grub was installed? sda or sdb?
+ econdudeawesome, unless you want a non-black framebuffer background... and I have no idea how that is done
+ Ubuntu_user_, you mean you have 1 drive and two partitions
+ H4VK1, unclear what you mean. gksudo doesn't work?
+ !help | NOC
+ The-Kernel_, ehhhh not really. if they are adjacent you could boot the live cd and shrink/move/grow partitions as needed
+ The-Kernel_, but its really time-consuming
+ NOC, install smtp-server
+ GuataPeluda, no, do a reinstall
+ Ubuntu_user_, give the windows rescue cd a try
+ echo2, please watch the language
+ echo2, make sure you have installed any available guest additions
+ mang0, broadcom often takes some post install config best to work from ethernet, can you describe your mounting problem better
+ H4VK1, what are you trying to accomplish?
+ Ubuntu_user_, huh? do you mean wubi. are you trying to install from within a virtual machine?
+ H4VK1, gksudo will run as root, gksu -u username will ask for that users username
+ H4VK1, if you have a shell for the other user you may need to fiddle with xauth to make stuff work, but gksu* will take care of that for you
+ marel, sudo -
+ marel, sudo -i sorry
+ ScottR3, su won't work for most people as out of the box there is no root password
+ ScottR3, np
+ marel, rm -rf foldernmae
+ marel, be very careful before doing something like that as root
+ TheXero, if you mean you have an ssd and a hdd I would put / on the ssd to improve boot and put /home on the hdd
+ econdudeawesome, there is a bash profile in /etc which would be a global option
+ TheXero, yes
+ econdudeawesome, is the color prompt actually what you want? or are you trying to change background colors
+ econdudeawesome, thats going to be something with the framebuffer not bash
+ econdudeawesome, dunno google for linux framebuffer set color and see what you get
+ marel, a python program probably doesn't have a configure/make. just look for a .py to run
+ mang0, its very strange that it can't find the disks. when you boot the livecd and run gparted does it not see your disks?
+ mang0, can you tell us a bit more about your hardware or pastebin the output from lspci
+ dcweyh, works for everyone no "I tried to install a 64bit version on a 32bit machine"
+ ojii, guessing you would have to switch your apt sources, update and then run a normal download packages, and then revert to the old apt sources and update again
+ ex0a, no standard for that. ~/bin is sensible though
+ ex0a, unless you want it for everyone in which case /opt
+ graingert, some of the newer versions might, but i think it is safer to have an ext4 /boot
+ graingert, btrfs on / is not something i would recommend. its a painful experience
+ mang0, i need more details, like actual chipsets.
+ mang0, feel free to /msg me
+ mang0, sure
+ PhoenixSTF, yes
+ gib0t, alacarte
+ PhoenixSTF, i've heard about assorted dropbox/nautilus issues, but don't use it myself. if this is post upgrade I would remove dropbox, reinstall nautilius and then reinstall dropbox
+ harpal, grub2 autofinds kernels should just be able to drop it in /boot
+ PhoenixSTF, shrug sorry
+ harpal, i think it is grub-mkconfig
+ someone235, if none of the exceptions apply to you can you please pastebin the contents of /var/log/dist-upgrade/
+ NOC, you need to test if your smtp server is working, and then test if your php code is working
+ NOC, try #ubuntu-server
+ someone235, well the log of the problem is somewhere in there. if you can look through those files to identify any problems
+ Guest31762, mac uses gpt not dos partition types. it shouldn't be giving you that error but gdisk can verify the gpt partition type
+ Planet_EN, iwconfig eth0 mode Auto
+ Planet_EN, is eth0 ethernet or wireless
+ Planet_EN, is it wired or wireless
+ mikebot, do you mean wubi?
+ mikebot, wubi is a bit hairy. it creates a file on the ntfs (windows filesystem) and then somehow boots ubuntu with a loopback into that file. most people prefer using a virtual machine, or a straight install to the hard disk
+ mikebot, i would suggest using virtualbox and running ubuntu as guest, or repartitioning
+ mikebot, but you can always try wubi see what happens
+ mikebot, free virtualmachine app from oracle/sn
+ sun
+ mikebot, well it is a virtual machine so yes
+ econdudeawesome, is it fbset?
+ econdudeawesome, dragging out some old old memories here
+ Planet_EN, im uncertain what eth0 is... is eth0 a port on the side of your computer where you plug a wire, or is it a wireless connection
+ econdudeawesome, it certainly is plymouth, but plymouth just modifies the framebuffer, you need to switch it back i think you can do stuff like that with fbset. you might check if there are gentoo docs on this
+ _Neytiri_, shopt -s histappend and ...
+ export PROMPT_COMMAND='history -a'
+ _Neytiri_, if that was what you meant
+ _Neytiri_, as distinct from history?
+ _Neytiri_, i don't know what you mean. you want to log all commands entered in bash? those are already stored in the users history if it is for personal use. or is for an audit/security
+ OvidiuZeicu, take ownership? you shouldn't need to just mount the partitions and copy the data
+ OvidiuZeicu, then sudo your copy command
+ OvidiuZeicu, and make sure to use the switch to preserve permissions
+ OvidiuZeicu, cp -aR
+ roasted_, ubuntu only
+ econdudeawesome, fbset may not be the right program but there is bound to be something similar. you could also check if plymouth is a script in which case it would call out to the background setting program. check the gentoo docs they had a period when everyone was configuring framebuffer backgrounds
+ ssav, ssh as root is not encouraged, you can always ssh as normal user then sudo and do whatever you want
+ ssav, yank the drive, mount on another system, sudo/chroot/passwd
+ stefg, sudo -i is preferred
+ Stameni, see if hotmail support pop or imap
+ Stameni, then figure out what their pop or imap server is and then fill those details into evo
+ ssav, if you know the root password you should be able to su
+ ssav, if you cant su because your pam prevents it, and you cant get another login that will allow you to su you are hosed
+ stefg, gzip </dev/sda4 > foo.gz works fine for me in sudo -i
+ stefg, there are differences in things like environment variables for sure
+ cordoval_, have you run fsck on the drives?
+ cordoval_, in livecd fsck the drives, you could try and get into a chroot environment and resume the upgrade (assuming its non-bootable and there is no corruption
+ cordoval_, but it may be easier to just reinstall
+ cordoval_, before doing a bunch of dpkg stuff run fsck /dev/sda? on your partitions from the livecd
+ cordoval_, then decide... is it a better use of your time to backup data and reinstall from scratch, or try to continue an upgrade of a potentially hosed system
+ cordoval_, how far can you get in the boot? can you get to command line?
+ cordoval_, better press M
+ cordoval_, or get a livecd
+ cordoval_, thats a busybox terminal
+ cordoval_, you need to fsck /dev/sda?
+ cordoval_, yeah a corrupt / is going to be a problem... get an install cd
+ cordoval_, and it would be /dev/sda# for whatever your root partition is
+ cordoval_, yep.
+ cordoval_, yeah thats fine to fix the disk
+ laumonier, grep lm /proc/cpuinfo to see if you have 64bit
+ ror, no its not
+ cordoval_, who is ror?
+ cordoval_, you can still boot and run the fsck.
+ cordoval_, step 1 is going to be fsck. step 2 is to decide between (a) backing up data, downloading disk and reinstalling or (b) trying to boot and resuming the install from console. i would suggest (a)
+ jiltdil, its not just about ram, there are also more registers and sse extensions in 64bit
+ cordoval_, ask about (b) AFTER you do the fsck please
+ cordoval_, and (b) is substantially harder and may not result in a working system
+ jiltdil, the wikipedia page on AMD64 is pretty informative. most developers are going 64bit, but some software (adobe flash) works a little better in 32bit
+ yes and do it for all your partitions
+ cordoval_, you may need to sudo
+ cordoval_, you may want it to automatically fix any errors it finds in which case fsck -p
+ cordoval_, good practice to see your errors first before you start correcting them, but yes
+ cordoval_, that way you know that if it reports lots of errors on /usr/lib/libglib or some such that your libglib is hosed
+ sebsebseb, for what?
+ Eduard, have heard from some that it breaks unity
+ Eduard, ok sorry
+ cordoval_, please keep your comments to information not "rats!" we have lots of traffic on here
+ cordoval_, depends on how things are configured, i understand you are frustrated but the channel is not the appropriate place we have 1800 people on it, and multiple conversations
+ !help | varunvyas
+ cordoval_, cat /proc/partitions will tell you all partitions, where / vs /boot vs /home might be is something you will have to remember
+ varunvyas, does it say why is aborts?
+ cordoval_, well fsck sda1, sda2, and sda5 (although 5 is probably a swap partition), do you remember how you configured your partitions
+ timjk, rdesktop for windows style, various vnc clients, and ssh -X for the traditional unix approach
+ !best | timjk
+ !vnc | timjk
+ cordoval_, could be an extended partition, check gparted and see what it says it is
+ binoy, you need to forward the ssh port in your router
+ binoy, then you cant do it
+ binoy, thats not entirely true, you would have to have someone on the target machine start a connection to the outside though, so for all intents and purposes its not possible
+ cordoval_, and can you confirm with gparted that sda1 was a large ext4 and that sda2 was extended with sda5 the logical inside which was swap
+ cordoval_, ok now you have to decide, your options are the easy route of backing up your important data and reinstalling from scratch, or the challenging/may not work/may seem to work but secretly be broken method or trying to resume the install
+ cordoval_, you could try. if you need to do a backup and don't have an external drive you can resize the sda1 partition and add a partition after it for your backup
+ Johan2, and you added the public key to .ssh/authorized_keys on the target machine
+ Johan2, sorry meant rimo0
+ LAcan, do you have a wlan0
+ LAcan, not sure... could be a driver issue
+ LAcan, you could see if there is a service that manages the network. you could even restart the network service, or unload/reload the modules
+ sburjan`, finally you can try unity --replace
+ damiano__, check your /var/log as well perhaps it is closing immediately because of misconfiguration
+ cordoval_, all that stuff is in /home
+ !slow | pancho
+ rimo0, you need to put your pub key in the auth_keys file on the target machine, and enable auth_keys login in sshd_config on target machine
+ rimo0, it may also be that your local keyring is asking for the password to your keyring
+ sburjan`, huh?
+ rimo0, properly configured you can use ssh -i key.pub and not have to worry about passwords
+ rimo0, so the server has a private key which it can use to authenticate any client who has the matching public key
+ sburjan`, you don't have a panel anywhere?
+ rimo0, because ssh key is thousands of characters, passphrase is 8
+ sburjan`, did you get a message about your graphics hardware not being powerful enough (this is 11.04 right?
+ sburjan`, confused... now you are at the login screen?
+ sirgad, it is possible... not that i know how
+ Elssha, no
+ destinydriven, they are supposed to appear in the panel on top, some are a little finicky
+ destinydriven, there is plugin for firefox check synaptic for unity firefox something
+ destinydriven, its like unity integration or some such
+ jdahm, that seems normal
+ destinydriven, is it openoffice? its usually one of those two. sometimes it also gets confused if i alt-tab too much
+ jdahm, yeah they are logical devices so that seems normal
+ jdahm, the installer may not be familiar with them
+ destinydriven, you download apatana from outside
+ jdahm, you could install in degraded mode and then fix it up after, but thats not the best approach
+ destinydriven, don't know if that would make a difference because it is outside apt
+ jdahm, ie disable mdadm, install to /dev/sda# and then rebuild afterwards
+ destinydriven, the real question is how to get unity to NOT take over the menu
+ jdahm, see if you can mount md0 and md1, maybe once they are mounted the installer will play along
+ jdahm, you might also try getting the mdadm.conf setup in your install environment see if that helps
+ Elssha, ccsm
+ michaelschmid, unless you can identify the library that was installing when it crashed
+ michaelschmid, try force reinstall of naut, but its more likely a library issue
+ Psychobudgie, and i've been thinking that was a graphical artifact
+ !help | nandinux
+ OchoZero9, gparted will allow you to resize/move
+ OchoZero9, as with any partition changes make backups
+ Psychobudgie, hard to say i feel like im over the hump and its starting to all seem normal. perhaps the workspace switcher not closing when you click on a workspace
+ Leo, will any rsa key work? could you generate with gpg or ssh
+ OchoZero9, you could uninstall stuff you don't need or remove stuff like old kernels 18gb is high but if you installed a lot of stuff
+ michaelschmid, apt-get --reinstall install nautilus
+ Leo, yeah i don't know ipsec or why that would hang
+ Leo, if its a really big key it might require a lot of randomness, and if the server is misconfigured in some way it may not be accepting enough sources of entropy
+ Leo, cat /proc/sys/kernel/random/entropy_avail
+ werever, good you?
+ Leo, lol now you have to figure out what units that is
+ werever, shouldn't be. its not the best day to do it... the servers are being hammered
+ jo-erlend, +1 is closed now
+ !final | escott
+ werever, if you add its package archive to your list of apt archives you should be able to use it
+ Leo, that seems pretty low check your entropy sources
+ Leo, I have 600
+ Leo, and now i have like 100 :)
+ Monotoko, thought WoW had a linux client
+ Leo, no but typing into an ssh shell may not do anything for entropy because it doesn't generate any kernel traffic (beyond the NIC) and the NIC might be invalidated because it is outside accessible and potentially hostile
+ Leo, see if you can generate disk io
+ Leo, http://bredsaal.dk/improving-randomness-and-entropy-in-ubuntu-9-10
+ arrrghhh, gpt will avoid that limit
+ jnlsnl_, php -i
+ OchoZero9, /usr/bin for binaries /usr/share for resources /usr/lib for you get the ide
+ the67pc, gnome-screensaver-control -lock
+ Monotoko, flightgear
+ sam555, syslog should say
+ LAcan, swapoff and then grow, but not advisable if you run out of memory
+ LAcan, it could
+ Leo, excellent mine seems to drop too i'm not sure what could be using entropy you could lsof /dev/random
+ LAcan, also without swap you can't suspend/resume
+ LAcan, any grown of a mounted partition must happen offlien
+ jnlsnl_, you may have permission problems with that
+ dotblank, unless ssh changes ownership of the file. he could add a host as root and find it broken for jnlsnl_
+ BajK, we have xrandr, but nvidia doesn't support it fully
+ nerdshell, cant
+ cordoval_, locate havlet returns nothing for me. no idea what that is
+ cordoval_, i don't know what havlet is. never heard of that program, its not on my system anywhere
+ cordoval_, hal i know what that is... not sure what evt is googling
+ cordoval_, hal events manager
+ cordoval_, sounds like a plan, and avoid hot plugging during the install
+ cordoval_, seems to be common and hal is deprecated so i doubt this is getting lots of attention. if you have any usb devices plugged in i would remove them
+ acicula, talk to arand or myself before going btrfs on /
+ cordoval_, sure? whatever version you want to install the halevt was on 10.10?
+ jdahm, you will need to have a valid mdadm.conf on the system, you could copy it or rebuild it post install, copying may be easier
+ cordoval_, its up to you what version you want to run
+ cordoval_, the halevt happened when you tried a fresh install of 10.10 during install, or post install during upgrade to natty?
+ cordoval_, i would wait a few days until things settle down and try again
+ cordoval_, unless you enjoy installing
+ Kyle__, start the program then right click on it and pin it
+ jdahm, grub should be configured to point at sda1 not md1, and should boot degraded then once the kernel is up and md modules loaded it should bring up sdb1
+ jdahm, you were doing raid1 right?
+ jdahm, thats the way i've always done it. should be fine
+ jdahm, that should be fine as long as the md stuff is in the initrd
+ jdahm, ever taken apart an initrd before?
+ jdahm, if you want you could do that. copy the initrd off and gunzip it. then mount it loopback as ext2
+ jdahm, you will see a base prelim filesystem in it. it needs your mdadm.conf and the mdadm kernel modules
+ jdahm, you think grub-install didn't work?
+ jdahm, try rerunning grub-install from a chroot environment
+ jdahm, you will need to bind mount /dev to your chroot
+ jdahm, had the feeling you had done this before
+ jdahm, ok don't know if you saw this: https://help.ubuntu.com/10.04/serverguide/C/advanced-installation.html
+ jdahm, shouldn't that be sda3 or 5 or something
+ jdahm, i lied thats right
+ jdahm, unfortunately there are like NO DOCS for grub2 so i dont know what error 16 is
+ jdahm, really how can you tell?
+ jdahm, does it show menu and do the stage 1.0 1.5 nonsense, cause they got right of that with grub2
+ jdahm, the font size can vary in grub2 depending upon config, but you are actually getting to a menu?
+ jdahm, do you think you might have a grub1 install on sdb's mbr?
+ thanos, what happened
+ jdahm, sure do grub-install on all the mbrs
+ thanos, can't mount from livecd
+ thanos, the live cd might not like your btrfs if it is a few versions behind in kernel from your last booted kernel, but ext4 shouldn't be a problem
+ thanos, what does it say when you: sudo mkdir /mnt/ext4; sudo mount /dev/sda? /mnt/ext4;
+ jdahm, the old grub is now called grub-pc or grub-legacy
+ jdahm, ie grub2
+ thanos, huh? how did you get that from a terminal command, open a terminal and type: sudo mkdir /mnt/ext4; sudo mount /dev/sda1 /mnt/ext4;
+ thanos, adjust sda1 if the name is something else
+ zatan, ehhh usually just create a new user with the desired name and move files
+ zatan, you could try just renaming your $HOME after creating a user but it could get messy
+ thanos, why are you sending me fdisk output?
+ thanos, evidently what happens when you do sudo mount /dev/sda1 /mnt/ext4
+ thanos, please mount | pastebinit
+ thanos its mounted fine, /dev/sda1 on / type ext4 (rw,errors=remount-ro,commit=0) /dev/sda3 on /media/22c795f0-2bb4-4730-9f46-bd422497a4be type btrfs (rw,nosuid,nodev,uhelper=udisks)
+ jdahm, no grub 1 is grub-pc
+ jdahm, sorry im wrong
+ jdahm, grub-pc is grub2 and the old grub1 is grub
+ thanos, well sda3 is mounted on /media/22c...
+ thanos, for sda6 you just need to define your mountpoint and mountit
+ thanos, with sudo mount /dev/sda6 /mnt/mountpoint-of-your-choosing
+ thanos, are you expecting a window to just pop-up
+ cassio, should be accessible in ccsm
+ thanos, you need to mkdir that mountpoint first
+ zombie__, libreoffice open office is dead
+ ninjai, because you aren't getting a login shell
+ ninjafish, man ssh | grep login  If command is specified, it is executed on the remote host instead of a login shell.
+ ninjafish, meant for ninjai
+ ninjai, instead of ssh "ls $MYVARIABLE" do ssh "/bin/bash --login \"ls $MYVARIABLE\""
+ phoenixsampras, you cant
+ jdahm, excellent
+ jdahm, so it was a stray mbr?
+ jdahm, well now you have plenty of backup mbrs if sda goes out
+ jdahm, thats a lot of ram
+ mmjunaid, thats correct
+ mmjunaid, thats the old 10.10 syntax though, it is changed slightly in 11.04
+ thebigroflz, no if you want to tinker you could try and get a usb key to do your decrypting, but then you would have to take lots of stuff out of the encrypted partition http://blog.dustinkirkland.com/2009/02/how-encrypted-home-ecryptfs-works.html
+ KNUBBIG, depends on what kinds of mods you made
+ KNUBBIG, i would just diff the two and take the parts you want
+ KNUBBIG, i think the biggest difference is that you can say sda instead of hd0
+ JaymesKeller, have you loaded the correct modules for your raid controller
+ mordof, su to user with uid 1000
+ mordof, or root
+ mordof, 1000 is by default the first non-root user on the system
+ JaymesKeller, its "soft-raid" you can read lots of cursing about that online
+ !final | kavurt its been pretty quiet on release day
+ Ziber, its part of alsa
+ Ziber, is this the same problem from 2 days ago?
+ JaymesKeller, is mdarray part of mdadm or dmraid (they are different)
+ erik333, in unity you don't thats the whole idea :)
+ JaymesKeller, dmarray would be part of dmraid not mdadm. i'm not familiar with device-mapper
+ JaymesKeller, see man dmarray i don't know it
+ JaymesKeller, and if it follows standard terminology you would assemble it and then mount a device /dev/dmarray1 or some such
+ conical, you have put sudo in front of the command
+ conical, then gksudo
+ conical, add them to /etc/fstab
+ conical, otherwise you have to get a daemon like gnome-disk-utility to handle hotplug events
+ tharsis, events to what? an x client?
+ tharsis, xsendkeys
+ tharsis, you don't have root?
+ tharsis, well lineakd has all the stuff you need xsendkeys/xevtest. what happens when you cat into the keyboard device? maybe you can create a fake keyboard device that pipes text through it. you could also try
+ tharsis, http://www.doctort.org/adam/nerd-notes/x11-fake-keypress-event.html
+ Thriky, more simply you could use nohup
+ !help | Mehrab_ NyvenZA
+ NyvenZA, nvidia/ati or intel? have you tried an external usb keyboard/have one available
+ gwallace42, at what point in the boot
+ SoftTimur, there is no http:// in front of about:config, and you should get a warning where you have to say "I'll be careful"
+ gwallace42, does it drop you to a busybox shell?
+ gwallace42, so you have the busybox shell (M manual recovery open)
+ gwallace42, and do you know what the / mountpoint is?
+ rather what the drive is
+ gwallace42, (a) is there a /dev/sda1 (b) what are the contents of /proc/partitions (c) can you fsck /dev/sda1
+ econdudeawesome, ubuntu classic from the gdm login screen (after putting your name in)
+ usr13, he is in his initrd
+ maximus_, don't use suspend myself
+ usr13, do you know how the initrd transfers into the true root? is it just a bind mount?
+ gwallace42, sda2 is an extended partition with a single logical (sda5 for swap) inside it. blockcount 1 is normal
+ gwallace42, can you check the output of mount to confirm sda1 not mounted
+ usr13, he is stuck in initrd because drive was not ready
+ gwallace42, sounds like a race in your boot with initrd wanting to mount the rootfs and the pci not being fully initialized. we probably need to put a delay in for your hardware
+ gwallace42, confirm that you can mount the sda1 partition with mkdir /mnt/rootfs; mount /dev/sda1 /mnt/rootfs
+ gwallace42, sda or sda1?
+ gwallace42, can you ls the contents of /home then? do you see your home folder
+ gwallace42, hmmm well thats weird
+ gwallace42, yeah you don't need to do that. i thought sda1 wasn't getting mounted
+ gwallace42, mount -o remount,rw / and see what it says
+ gwallace42, if you can remount you could try sudo init 5 to see if you can get to a gui
+ gwallace42, you don't even need the sudo
+ gwallace42, i wonder if the device could have been mounted in between the error message and the time it took us to start running commands in the busybox shell
+ gwallace42, have you ever waited to see if the error will disappear on its own?
+ !ccsm | nodie
+ gwallace42, init 5 didnt do any good?
+ gwallace42, im just curious if you can resume the boot from this point or if it is completely borked
+ gwallace42, ok
+ gwallace42, is udevd --daemon running
+ gwallace42, well the drive seems fine so you should be able to copy the system image around (if you don't mind moving multi gig files around)
+ gwallace42, and i've been told that there is an install option for presevering /home
+ preserving
+ gwallace42, my suspicious is that the boot is going too fast there seems to be nothing wrong with the drive
+ gwallace42, if it were me I would see if there is some what to slow down the boot process. i know you could do it by gunziping the initrd, and adding a sleep somewhere between when udev starts and the remount happens
+ gwallace42, there may be a better way though
+ gwallace42, goodluck
+ gwallace42, the initrd process isn't that bad, just annoying, you just unzip, loop mount the file, make your changes and then mkinitrd and replace
+ Geekydude4, ctrl-c or q
+ Geekydude4, just the program you are using to view
+ conical, your router will usually want to be a dns, but you might be able to turn it off
+ conical, rather i mean dhcp
+ exad, it would be in your bios
+ exad, i thought optimus did something weird running the nvidia controls through the intel card. but check the forums and see
+ jnovek, /etc/gdm/custom.conf
+ BKTech86, have you reinstalled grub?
+ BKTech86, do you know what win 7 did?
+ BKTech86, sounds like you don't have a bootloader in the mbr
+ BKTech86, you would need to boot the livecd, chroot into the ubuntu system, then run grub-install /dev/sda
+ BKTech86, yeah best not to trust the script
+ BKTech86, when you get to the live cd open a terminal
+ BKTech86, then do the following: sudo mkdir /mnt/ubuntu; sudo mount /dev/sda# /mnt/ubuntu (# should be your ubuntu root partition); sudo mount /dev/sda# /mnt/ubuntu/boot (if you have a boot partition); sudo mount --bind /dev /mnt/ubuntu/dev; sudo chroot /mnt/ubuntu; sudo grub-install /dev/sda1
+ BKTech86, yes
+ BKTech86, then skip that command
+ BKTech86, sorry sudo grub-install /dev/sda (no number)
+ BKTech86, :) hmmm you could try grub-install --recheck /dev/sda maybe that will silence the warning
+ BKTech86, we didn't bind mount the /proc
+ BKTech86, in another terminal execute sudo mount --bind /proc /mnt/ubuntu/proc
+ BKTech86, that should silence the warnings
+ Blue1, yes restoring the mbr
+ BKTech86, yes try after that bind mount
+ Blue1, seems to be a lot of broken grubs after this upgrade
+ BKTech86, cross your fingers and reboot?
+ Blue1, i feel like this is one of those things people will just want to be walked through
+ BKTech86, but you can mount /dev/sda5 fine
+ Blue1, I know just a comment on the psychology of the situation... not booting freaks people out
+ BKTech86, have you run an fsck on it?
+ its a well chosen command name :) if anyone says your filesystem is fsck'ed you know what they mean
+ BKTech86, although yours sounds fine which is what is so confusing
+ BKTech86, probably just a gui for it. how is your system partitioned
+ BKTech86, bios could mess things up but the bios shouldn't mess with the bootloader loading
+ BKTech86, and swap as /dev/sda4 or /dev/sda6 or so
+ BKTech86, yeah sounds normal
+ BKTech86, so you don't get anything from grub. its like it never starts
+ BKTech86, shouldn't matter but you could toggle the bootable flag on some partitions (namely 1 and 5
+ BKTech86, fdisk /dev/sda
+ BKTech86, i think bootable flag is "a" and then "w" to write the changes (don't touch anything else though)
+ BKTech86, the bootable flag shouldn't matter to grub, but it cant hurt
+ BKTech86, yeah but the bios starts grub, it shouldn't even touch the partitions so it really shouldn't matter
+ BKTech86, thats what we just did, putting grub in the mbr
+ BKTech86, mbr is the first 512 bytes of the disk, not on the mbr
+ not in the bios
+ bios starts the mbr, mbr scans partition table, looks for the /boot partition, then starts running os. so bios is out of the picture as soon as grub starts
+ BKTech86, don't know i generally don't use the gui
+ BKTech86, fdisk /dev/sda "a" is the bootable flag "w" to write changes
+ BKTech86, what is your hardware?
+ BKTech86, just wondering if there was anything exotic sounds there isnt
+ BKTech86, and its only the one disk right
+ BKTech86, its a toggle
+ BKTech86, so when you reboot it just blinks at you?
+ BKTech86, so its working now?
+ im getting really confused by all these grub boot failures. seems if you fiddle with the partition table things start to magically work. anyone else noticed that?
+ hhjjff, you can get the android emulator
+ BKTech86, bioses can do weird things... although it shouldn't be doing that
+ hhjjff, but its a developer tool not a "I want to use this as a real app" tool
+ jprobe, doubt there are any seeds
+ keithclark, or `which mame`
+ keithclark, it won't have an extension it will just be called mame
+ keithclark, or have mame in the name
+ uhuhuh, have you deleted your .wine directory
+ Laggg1, sudo mkdir /mnt/ubuntu; sudo mount /dev/sda# /mnt/ubuntu; sudo mount /dev/sda# /mnt/ubuntu/boot (if you have a /boot partition); sudo chroot /mnt/ubuntu; sudo grub-install /dev/sda
+ Laggg1, sorry left out two... after mount onto /mnt/ubuntu but before chroot mount --bind /dev /mnt/ubuntu/dev and the same for /proc
+ Laggg1, make the mountpoint, mount the partition (you've done that) bind mount /dev with sudo mount --bind /dev /mnt/ubuntu/dev and /proc sudo mount --bind /proc /mnt/ubuntu/proc then chroot
+ Laggg1, you have to adjust that to where you mounted your ubuntu system (check by running mount)
+ jorgp, not without guest addiytions
+ Laggg1, can you pastebin the output of mount and the output of ls /mnt/blah where blah is what the folder where you mounted your ubuntu system
+ Laggg1, yes you mount the ubuntu system, chroot into it, and then install grub to the mbr of the disk
+ kpoman, if it doesn't come back on logout login try unity --replace
+ kpoman, try compiz &
+ Laggg, ok so you got grub to load, but its not giving you a menu
+ Laggg, well you can do a minimal boot as set root (hd1,#) linux /boot/vmlinuz-??? root=/dev/sdb#
+ Laggg, initrd /boot/initrd.img????; boot
+ Laggg, thats 4 commands total
+ Laggg, you can use ls to fill in the details on the version numbers
+ Laggg, since you have two drives there is always the possibility that you are booting a grub on the wrong mbr
+ Laggg, so I always recommend installing grub to both mbrs
+ Laggg, which you could do from either a chroot or if you can get a boot from the rescue prompt
+ BKTech86, mount -o remount,rw /dev/blah
+ BKTech86, but i dont think hfs is writable
+ Laggg, glad to here
+ lduros, /etc/grub/custom.conf
+ lduros, remove it
+ lduros, you may need to restart the gdm service
+ JoFo, hit the unity icon and type in keyboard. is it one of those
+ JoFo, top left of the screen
+ necreo, glxinfo will tell you what glx driver you are using
+ Sledge, did compiz/unity crash. you could try restarting from a terminal if you can access one
+ Sledge, have you tried logging out and starting a new session?
+ Sledge, or nuke the .compiz/config folder
+ rather .config/compiz
+ multi_io, probably in ccsm
+ kopeG, could you hotplug a usb keyboard?
+ multi_io, don't know then. its not designed to be as configurable as gnome2
+ d3tour, what program are you using to record?
+ Froq, xchat
+ a2c4n9e1, are you being a NAT? most people are
+ a2c4n9e1, if your ip address is 192.168.X.X you can't be ping from anyone outside your network
+ stravant, have you tried alsamixer?
+ !help | alone08
+ a2c4n9e1, you can check your iptables, but also check the router config to make sure that net B has a route to net A
+ alone08, install gcc look at man gcc
+ a2c4n9e1, its tough to say without knowing more details
+ a2c4n9e1, it is possible to configure to not respond to ping, so check iptables and flush any rules if they exist
+ a2c4n9e1, but are you sure the router isn't acting as a NAT?
+ Wardje, think it is just "ssh"
+ Wardje, mean herol3oy
+ a2c4n9e1, then flush your iptables
+ a2c4n9e1, from the command line sudo iptables --list to show tables sudo iptables --flush
+ a2c4n9e1, and if you have another computer on the same subnet as the ubuntu try to ping from it to verify that the ubuntu system responds to pings
+ a2c4n9e1, if it does then your problem is in your router/routes on the other network
+ AlecTaylor, have you tried xrandr on the guest?
+ akashm1990, reinstall/etc-keeper/btrfs snapshots there is no single comand
+ akashm1990, if you've broken something let us know and we can try to fix it
+ TuffPoo, thats wine warning you to chmod +x the windows executables you trust
+ herol3oy, there is an ssh-server but the only "service" would be the sshd not the client. agreed it seems a little weird name for the service
+ TuffPoo, i believe that should make wine shut up
+ herol3oy, sshd is the ssh daemon (runs in the background providing a server to connect to), ssh is the client allows you to connect to other servers
+ akashm1990, grub is pretty much automatic these days. are you concerned about some other os?
+ herol3oy, well they are both openssh but one is the client only, the other is the server only so install openssh-server and then start the ssh service
+ TuffPoo, is there a #wine channel?
+ akashm1990, a reinstall would reinstall grub, but i never did anything special to get win 7 to boot
+ akashm1990, if you had a lot of trouble in the past you might have trouble with a reinstall
+ akashm1990, i don't see any reason to expect anything different this time. but you can always install grub from chroot its not that bad (I've walked a half-dozen people throught it the last few days)
+ akashm1990, it will just overwrite the existing mbr during the install
+ akashm1990, just don't do it the hour before you need your computer for XYA
+ aussa, in the makefile look for the OSGXmltokenizer target, look up until you see a line with gcc -c and try to change that
+ KNUBBIG, you have to have a login shell i think it is ssh -i
+ KNUBBIG, if you just ssh john@host "command x" then command x is run but not as a login shell. ie profile, bashrc, etc are ignored
+ leoechevarria, glxgears is very deceptive always look at glxinfo
+ leoechevarria, run glxinfo (mesa can easily handle glxgears these days)
+ leoechevarria, the vendor and render version strings
+ mine say OpenGL renderer string: Mesa DRI Intel(R) Ironlake Mobile GEM 20100330 DEVELOPMENT yours should say something about NVIDIA
+ leoechevarria, i didnt catch all that was happening. unity 3d won't come up?
+ SeanInSeattle, if you start it you may be able to pin the icon to the panel
+ leoechevarria, and have you tried manually starting compiz
+ leoechevarria, what nvidia card is it?
+ GarryFre, jump lists? popups from the panel?
+ leoechevarria, you could pastebin the glxinfo output, but i'm not really sure what to look for
+ Pascalcmoi, what about a kernel that used to work
+ tortoise, thats a pretty old ppa you may want to purge it with ppa-purge (its for lucid lynx)
+ Pascalcmoi, well you could remove the newer kernel and continue to boot the older one. if it is spontanteously rebooting like that thought, I don't know how to trace the issue, except to start building your own kernel
+ tortoise, is there a reason you don't want to use ubuntu firefox
+ tortoise, no a ppa is for testing software or for things that are configured differently from stock ubuntu
+ Rehan, remove the options psmouse line from /etc/modprobe.d/psmouseconf. and sudo rmmod psmouse
+ tortoise, yes
+ tortoise, you will want to look at ppa-purge then use synaptic to install firefox
+ !ppa-purge | tortoise
+ tortoise, sudo apt-get ppa-purge. just look over what you plan to do first, because in the meantime you wont have a browser
+ GarryFre, it should be white font on black background. have you looked at the theme?
+ akharris, the wikipedia page explains the differences between 64 and 32 bit architectures. you can see if you have 64 bit by looking for "lm" in the flags section of your /proc/cpuinfo
+ tortoise, are you running lucid?
+ akharris, http://en.wikipedia.org/wiki/X86-64
+ tortoise, ok well then it makes some sense to have a ppa if you want firefox 4, otherwise you are stuck with 3.2? but the mozillateam hasn't released any packages or has changed names. maybe someone else has packaged firefox 4 for lucid
+ mastaofdisasta, what laptop is this?
+ !help | sly
+ GarryFre, ubuntu has some additions for firefox including a theme package. you might reinstall those/check that they are enabled
+ sly, if you have a brand new laptop with intel processors hda_analyzer.py from the alsa group can be helpful
+ akharris, first check alsamixer command line that nothing is muted
+ tortoise, yeah the old version of firefox is fine
+ tortoise, you have to purge the ppa which involves uninstalling firefox, and removing the ppa from your apt-sources, and then reinstall firefox
+ tortoise, the ppa-purge script merely automates the removal and makes sure that nothing else installed by that ppa
+ aussa, it should generate an executable you can run (and shouldn't finish with lots of errors)
+ newb_, the gnome3-ppa tends to break unity (or so i have heard)
+ tortoise, there should be only one firefox listed in synaptic after you remove the mozillateam ppa
+ uberfrau, is that the correct place to put the plugin? (i have no idea), you might check on #gnome?
+ sly, i only know my trick for intel hda devices
+ aussa, you have to scroll through the errors and find the first one
+ klingan, locate
+ kad_, you can sorta delete stuff from gnome-activity-journal but that feature is a few months out
+ klingan, `locate filename` to search the filesystem
+ Fragy, do you have two disks
+ kad_, yeah its a bit buggy. i saw one a blog posting from one of the zeitgeist developers on gnome blog and he had mockups of zeitgeist history clearing and blacklisting
+ Fragy, one change from 10.10 to 11.04 was in the grub.conf to change `set root(hd0,msdos1)` to `set root(sda,msdos1)` it could be your grub.conf didn't get updated, but your mbr did and grub is warning about the syntax change
+ kad_, for now at least
+ mah454, probably a cupsd issue, but i don't know for sure
+ glycan, you need a shebang #!/usr/bin/python in line one, you need to chmod +x and you need to add to path (skip this and do ./)
+ glycan, cd /path/to/app; ./appname.py
+ glycan, alternately modify .bashrc to have this: export PATH="$PATH:/path/to/app"
+ glycan, #! is shebang
+ glycan, do `which python` in terminal
+ dury, it doesn't work if you just follow the instructions substituting pendrive for cd?
+ Abbas-uB, its a really busy few days as well with all the new users and upgrades
+ dury, i know but the pendrive should have the cd image, does it get stuck and not let you continue?
+ dury, its stuck in the install gui right? at what point does it get stuck
+ tayyabali, /join #gnome
+ Krishnandu, most upgrades are done off the web not from iso, but you could add the iso to your apt-sources and then try to upgrade
+ dury, so its taken all your config info/partitioned folders and then gets stuck
+ Krishnandu, if you put the disk in and then go to synaptic -> preferences -> software sources you should be able to add a volume
+ dury, i've only ever done cd installs, so im not familiar with the usb method. the only thing I could think to do would be to edit /etc/apt/sources.list to point to the repo on your usb keychain
+ alessio_alex, if you dont like unity use the classic interface from the gdm login screen (after you type in your username)
+ alessio_alex, logout and on your next login choose classic from the dropdown at the bottom of the login screen
+ Omega, his sources list is pointing to a non-existent cd. so he can't install the software on the usb. i'm not sure if the usb image is wonky or what
+ soc, an export import or settings from the evo menu would be preferred
+ soc, you could try, but i would back it up first
+ alessio_alex, you logout. type your name in. on the bottom where it says session type you pick the classic type
+ alessio_alex, you have to logout and login again. sounds like you need to disable auto login from gdmconfig
+ soc, im not really clear on what it is doing that you don't want happening
+ soc, evo is going to create what evo needs to create. to try what you want you would need to close evo. delete the folders. place your data. start evo
+ Walex2, probably in /etc/udev/rules.d
+ gdea73, can you confirm it is msdos and not gpt partitioned?
+ gdea73, its actually the partitioning scheme. is windows on the same disk?
+ Krishnandu, it seems some bioses dislike allowing grub access to partitions not marked with the bootable flag so have him set the bootable flag on his ubuntu and windows partitions
+ gdea73, the bootloader goes onto mbr /dev/sda not /dev/sda1
+ Krishnandu, use fdisk to set the bootable flag on the windows and ubuntu /boot partition (/ if he doesn't have /boot). there are lots of other details that we would need to know like how many disks he has, i've seen people have problems when they have multiple disks and only install grub on one of the mbr's
+ gdea73, you probably don't need to reformat, just use the livecd to chroot in and install grub to the mbr
+ Krishnandu, so add the boot flag to the /boot partition
+ Krishnandu, sudo fdisk /dev/sda then "a" "number of partition" "w"
+ Krishnandu, the number of the partition you want to set bootable
+ glycan, ifconfig
+ Krishnandu, "a" it will ask the partition number "9" and then you write the changes with "w"
+ glycan, install ccsm. and you just wanted the inet addr
+ HelloWorld321, hopefully better than dropbox, yes, talk with your lawyer
+ sakuramboo, check your glxinfo
+ sakuramboo, does it look right for your hardware. its possible to install things that can break glx
+ Dedego, install build-essentials and gcc
+ Dedego, it sure seems to think you dont have gcc installed so confirm that it is there
+ Dedego, and it is in your path? `which gcc` returns /usr/bin/gcc?
+ Dedego, sounds like a problem with that configure script
+ Dedego, no idea, you can always try
+ tansell-laptop, is bc05 your mac address or that of the router
+ tansell-laptop, sounds like you need to specify a wep or wpa2 password
+ Dedego, build-essential is a meta package removing it won't do much
+ bmfx1, sensors and sensors-detect
+ Krishnandu, sounds like the grub-install wasn't done correctly or something is confusing grub.if he wants to get on the channel in the next 30 minutes ill still be eating lunch so having him pm me
+ Sub_Zero, its likely a new intel laptop
+ Sub_Zero, you developers don't know the board configuration, and don't know what pins to disable when you plugin the headphone. you can manually disable pins with hda_analyzer.py from alsa
+ dougl, you could also have your router reserve the ip for that particular mac address, which may be easier
+ dougl, depends on your router and its firmware
+ dougl, go to http://192.168.1.1 (assuming that is your router) and see if there is an option to reserve the ip by mac address
+ dougl, the stock firmware from linksys isn't always the most configurable. you could see if tomato supports your device if you don't mind flashing new firmware
+ !md5 | zach_
+ dougl, if you cant find it try "tomato firmware"
+ dougl, well if you go the router approach you technically wouldn't be static, you would be dynamic but the router would keep giving the same numeric ip lease (which is why that would be easier if your router supports i)
+ dougl, try http://www.dslreports.com/forum/r20956187-WRT54GS-wDDWRT-Force-IP-to-MAC
+ user82, history
+ billybob, check your glxinfo to see what renderer you have
+ billybob, what video card is this?
+ billybob, if thats really old it may not be powerful enough for compositing, but ati's are reasonably well supported
+ skullboy, doubt you can, its not the most configurable thing
+ chrome_, it is in 11.04
+ chrome_, lsb_release -a in the terminal
+ chrome_, first check the website to see if you want 11.04 there are big differences, but if you want to go ahead start upgrade-manager
+ chrome_, drop into #ubuntu-offtopic and ask peoples opinions or just hang around and listen, some hate it others love it
+ rgb247, its always fun to see what happens when the shell tries to delete itself
+ chrome_, yes sorry
+ chrome_, PLEASE look at the release notes on unity and natty narwhal, we get lots of people coming in and complaining about how much they hate it
+ chrome_, or how it broke stuff
+ chrome_, if you are on 10.04 yes you have to upgrade to 10.10 first
+ chrome_, if you don't want to upgrade you could see if there is a lucid mozilla ppa
+ xskydevilx, you won't be able to access ext4 from windows, if you want to share files between the two you need to create a third partition (ntfs) just for sharing
+ eigba, mostly
+ sarthor, you are inside the initrd. you need to fsck your root filesystem first
+ sarthor, that may be easier from a live cd
+ sarthor, the best thing may be to boot the live cd then chroot into the system and resume the upgrade
+ sarthor, you could try remounting it mount -o remount,rw /
+ sarthor, but im not sure how resumable the install is in runlevel1
+ patrunjel, you will have to reinstall grub
+ patrunjel, simple is a relative term... all you do is boot the livecd, bind mount the special filesystems, chroot and run grub-install
+ sarthor, i guess run with it, see where it goes
+ !grub | patrunjel
+ Emylbus, if you have a 32bit application you want to use, if you dont want to take advantage of 64bit features in your processor
+ Emylbus, thats not to say you can't run 32bit applications, but they may run better in a 32bit os
+ dynoboyz, ouch you need to rescue with windows, but you are looking at restore from backup as the most likely result here
+ !es | miarroba
+ Calif, i think you just said your main options there
+ Calif, usually you just send a request to their servers and they update the dns entry, doubt you even need a client for that
+ Calif, https://help.ubuntu.com/community/DynamicDNS
+ _Neytiri_, a symlink would be easier
+ _Neytiri_, but you should just be able to pass the -d option to useradd
+ Inphernal, have you held any packages in apt
+ Inphernal, try dpkg --get-selections
+ Inphernal, you are interested in the ones that don't say install
+ !classic | killaz
+ Inphernal,  pipe it to grep -v install
+ Inphernal, dpkg --get-selections | grep -v install
+ bluenote, have you tried running the post-it application?
+ bluenote, there are dozens of stickynote applications if you could figure out which one...
+ !classic | bluenote
+ bluenote, see if you can find it there
+ Inphernal, i don't know but we eliminated that one possibility :)
+ bluenote, just saying switch over and figure out the app name then come back to unity
+ Inphernal, afraid not
+ bluenote, thats ok i wasnt too clear
+ bluenote, see if it is tomboy
+ brian_, usalabs i think it is possible to chain load the ext4 partitions but you have to install grub onto the partition not the mbr which is flaky
+ yepitsme19, no and there wont be until 11.10
+ yepitsme19, unfortunately... unity uses some gnome2 stuff in a way that is very hard to reconcile with the gnome3 until unity is moved up to gtk3
+ yepitsme19, you could try the ppa but it reportedly breaks unity
+ mitoni, no
+ pindropper, bash likes spaces in tests, i think that is the source of your problem, you may also try #bash
+ dusf, the only legal way to run osx is on mac hardware
+ killaz__, if you want to discuss ways around the eula feel free to do so anywhere but on this channel
+ ikonia, do you know what the next step for Inphernal is we confirmed he has nothing held, but i'm unsure why we would be getting resolve errors?
+ damicita, click pull out from the panel, then drag up or down
+ damicita, i mean do it to the panel. its like a drag and drop, but you have to pull out to center a bit
+ damicita, you might look for a youtube video, its hard to explain, you want to pull the icon towards the center of the screen and then without releasing it bring it back down
+ damicita, the icon should come out of the panel and be replaced by a cursor
+ damicita, there are some that won't move namely the last 4
+ Oday, mv directory/* newdirectory/
+ xeodox, if you register mydomain.com
+ vessago, chmod -w filename
+ natanielcz, http://paste.ubuntu.com/602011/
+ Doom_-_, chmod 777
+ natanielcz, http://paste.ubuntu.com/602012/ for unity session
+ Ziber, you mean alt-tab?
+ ocx, i think you need to edit /etc/apt/sources.list
+ urlicht, yes copy the files from /var/cached/apt/archive to save the downloading
+ malik_, i think so try #bash if you have concerns
+ Xgates, hard to answer... what 32bit apps are you concerned about
+ Xgates, it basically comes down to flash and there are more issues with flash and compiz than with flash and 64bit it would seem
+ kneaux, nvidia or ati
+ kneaux, what does xrandr say about your allowed geometries
+ kneaux, could very well be the source of trouble. xorg is getting better and detecting more automatically but that means it has more opportunities to detect it incorrectly
+ kneaux, i would try and set it through xrandr, but if you cant you could force your modelines into xorg.conf
+ paranoidphreak, what is /etc/exports NFS?
+ kneaux, so its guessing at bad modes from the display can you force a good mode with xrandr?
+ Dpena, is this inside a virtual machine or is this dual boot
+ sycko, have you tried plugging into different usb ports
+ sycko, after the keyboard stops responding is it still listed in lsusb or was it removed
+ !samba | chipmenk
+ paranoidphreak, i dont know what that file is for
+ sycko, you seem to have covered the bases... sounds like a usb isue
+ kneaux, when you turn off mirror screens any change in what xrandr reports
+ sycko, you could try booting the older kernel if you still have it as an option
+ paranoidphreak, is that samba? or NFS?
+ paranoidphreak, and you have matching uid's from server to client?
+ paranoidphreak, NFS requires that you have the same set of users on both systems.
+ paranoidphreak, and then it just uses the same permission model
+ sycko, well the keyboard would be usbhid, but i wouldnt remove that because it would also be the mouse
+ sycko, the webcam should have its own module or maybe some generic v4lusb module
+ paranoidphreak, https://help.ubuntu.com/community/SettingUpNFSHowTo#User%20Permissions
+ acicula, intel_hda reports itself as all kinds of stuff it is snd_hda_intell
+ acicula, yes
+ Greensky, try apt-cdrom
+ acicula, mine is 00:1b.0 Audio device: Intel Corporation 5 Series/3400 Series Chipset High Definition Audio (rev 06) but its Conextant in alsa
+ zeleftikam, what sound problems are you having? no audio at all
+ zeleftikam, you could try fiddling with sound card internal config using hda_analyzer from alsa
+ paul, searching contents grep
+ tixo5, libreoffice
+ acicula, zeleftikam that just applies some guesses about layout
+ snd_hda_intel is pretty generic, lots of hardware has it, but each is configured slightly differently. the option provides some initial setup. so if you have it definitely use it/check most recent alsa. if you dont have it use hda_analyer to figure out the layout and forward to alsa people
+ acicula, reporting that hda_analyzer works? it does, but its bloody confusing at first
+ acicula, it took me 2 months to get the hang of it (i wasn't trying that hard) and by then my board was fixed
+ ie someone had sent the layout in to alsa and it got pulled in from upstream
+ nartkcin, no
+ acicula, yes you can do that, if the board is known
+ acicula, and the abundance of new configurations. all new intel laptops have intel_hda, but they all have the headphones connected to a different port it seems
+ acicula, zeleftikam check this first http://www.kernel.org/doc/Documentation/sound/alsa/HD-Audio-Models.txt
+ acicula, zeleftikam but i dont see the ALC888B listed so... you could try it as an alc880, but you may have to tweak it with hda_analyzer
+ zeleftikam, those are the board/chip combos that the alsa developers have seen and developed working configs for. i'm saying i dont see yours on there, so you may have to pick something close and work from there
+ acicula, for a lot of hda problems you can direct people to http://www.alsa-project.org/main/index.php/Help_To_Debug_Intel_HDA
+ pfifo, http://www.cyberciti.biz/tips/setting-processor-affinity-certain-task-or-process.html
+ Froq, the only reason to use chameleon over grub is to run osx which we dont do because that would be illegal sorry
+ !ot | biston
+ biston, not trying to shoot you down just saying that sounds more like an n900 question, you will be lucky to find an answer on this channel
+ !info sqlite
+ !VirtualBox | p896gbm
+ PaidSupport, also check /sys/class/backlight to see if it is recognized at kernel level
+ PaidSupport, well thats the real source of the trouble, can you boot the old kernel
+ ocx, you would have to reparent the process, i don't think that is possible, you would have to have started it in something like screen
+ PaidSupport, the fact that there is nothing in /sys/class/backlight means you will never get the backlight through userspace, i would try force installing the old kernel
+ then you can see if there is maybe a module in lsmod on the old kernel not in the new kernel and going from there
+ PaidSupport, i would download the .deb of the kernel from 10.10 and installing it directly
+ PaidSupport, if you wanted to drop down to 10.10
+ but it may be easier to just install the kernel
+ PaidSupport, you had intel graphics?
+ PaidSupport, having intel graphics makes things easier
+ Gnea, he did a fresh install so he doesn't have those anymore
+ PaidSupport, 32bit or 64bit
+ PaidSupport, no but you have to get the right kernel im trying to find a package for you
+ does anyone know where the actual ubuntu .debs are mirrored
+ jenkinSear, is the kernel-ppa going to be the same as what was released with 10.10, and do you know what else might need to be grabbed with the kernel?
+ PaidSupport, try downloading this: http://kernel.ubuntu.com/~kernel-ppa/mainline/v2.6.36-rc8-maverick/linux-image-2.6.36-020636rc8-generic_2.6.36-020636rc8.201010150908_amd64.deb
+ jenkinSear, except we are planning to force install it...
+ well if you just apt-get install linux-image.*.deb that will install it
+ hopefully
+ :)
+ arand, im not sure, ive not actually forced down a kernel before
+ he has intel graphics so that takes care of one potential problem
+ arand, is kernel-ppa a different kernel than what is shipped?
+ just want to try forcing his natty kernel back to maverick to see if his backlight comes back
+ PaidSupport, if you are still there then lets download something different :)
+ PaidSupport, there is a kernel ppa team that provides a mainline kernel (no patches) and we should try that but using the natty version so we need three things apparently im reading here https://wiki.ubuntu.com/KernelTeam
+ arand, Jordan_U would you recommend just adding the kernel-ppa as a ppa?
+ PaidSupport, then lets delete the previous download and download these instead
+ http://kernel.ubuntu.com/~kernel-ppa/mainline/v2.6.39-rc4-natty/linux-image-2.6.39-020639rc4-generic_2.6.39-020639rc4.201104191410_amd64.deb
+ http://kernel.ubuntu.com/~kernel-ppa/mainline/v2.6.39-rc4-natty/linux-headers-2.6.39-020639rc4-generic_2.6.39-020639rc4.201104191410_amd64.deb
+ http://kernel.ubuntu.com/~kernel-ppa/mainline/v2.6.39-rc4-natty/linux-headers-2.6.39-020639rc4_2.6.39-020639rc4.201104191410_all.deb
+ and then you can dpkg -i them
+ PaidSupport, yes (but with sudo)
+ PaidSupport, when that is done try grep 2.6.39 /boot/grub/grub.cfg and see if the kernel is listed there. if not we need to run grub-mkconfig
+ diglett, man route
+ Stameni, you can't alt-tab to it
+ Stameni, i know but can you alt-tab
+ PaidSupport, yes no success?
+ PaidSupport, well at least we know its not correct in the most recent upstream kernel
+ PaidSupport, you could try any of these upstream kernels http://kernel.ubuntu.com/~kernel-ppa/mainline/
+ PaidSupport, the same process, download the debs, install them, maybe run grub-mkconfig
+ PaidSupport, im trying to find the debs from maverick, you could get them off the cd perhaps, but im not sure how the mirrors store stuff
+ PaidSupport, since you know those work I would try them next
+ its going to be 2.6.37 right?
+ i dont remember
+ ok 35 then
+ PaidSupport, i think this is the most recent http://packages.ubuntu.com/maverick-updates/linux-image-2.6.35-28-generic
+ PaidSupport, and you will want the matching headers
+ PaidSupport, and of course make sure to select the kernel from the boot menu
+ timClicks, awk '{ print $1 }'
+ timClicks, you can always remember because awk has a beginning middle and end code blocks that need to be in curly braces
+ jukebox-zero, the encrypted filesystem is loop mounted back on top of /home/username
+ jukebox-zero, so it may duplicate your du count, but its not double the disk usage
+ PaidSupport, still there?
+ PaidSupport, i think you could skip the header file... just make sure to install it if this works
+ PaidSupport, some things may not work correctly without the headers but you should know immediately (as soon as the kernel gets booted) if it detects the backlight
+ PaidSupport, and the header files are not architecture specific so there is only one file (no amd64 vs i386)
+ nikos719, is plymouth running? (the graphical boot)
+ nikos719, can you boot into recovery mode
+ nikos719, it would help if you disabled the boot splash to identify the problem
+ nikos719, read https://help.ubuntu.com/community/Grub2#Editing%20Menus%20During%20Boot in particular you want to set nosplash instead of splash
+ !grub | WindowNumOne
+ mr_orange, read https://help.ubuntu.com/community/Grub2#Editing%20Menus%20During%20Boot in particular you want to set nosplash instead of splash
+ mr_orange, that should give us a bit more information
+ PaidSupport, how about now?
+ PaidSupport, excellent
+ PaidSupport, you'll want to track down the patch that turns on your backlight by trying a few kernels and finding what ones work and then talking to the kernel team
+ otherwise you are stuck on the old kernel forever
+ PaidSupport, without the headers some applications won't be able to be installed correctly
+ PaidSupport, #ubuntu-kernel also https://wiki.ubuntu.com/Kernel, but you will want to narrow things down to be able to say "this particular kernel works, this one doesn't, this is my hardware" as best you can
+ PaidSupport, you've done it enough you see how its not that bad, just a bit of downloading and testing. also please update your launchpad bug (i think someone said that was yours)
+ !classic | aphexcoil
+ PaidSupport, im done for the night so goodnight and goodluck

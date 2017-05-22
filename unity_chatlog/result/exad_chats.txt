@@ -1,0 +1,17 @@
+ Hello everone
+ I am thinking about putting ubuntu 11.04 on my alienware m11x r2
+ but I have a question
+ My laptop has optimus graphics switching technology
+ is there any way I can disable one of the cards or something since linux doesn't support optimus yet?
+ Can I disable any of the video cards though?
+ its not in my bios
+ it's managed by software
+ its an nvidia card
+ vivid: I just dont want my 335gt running 247 and heating up my system
+ but it will use the 335gt by default? will it never use the Intel HD graphics?
+ ok I guess Ill give it a shot then
+ vivid have you tried gaming with wine at all?
+ I see
+ Well I will give it a shot then
+ you've been most informative thank you
+ bbl

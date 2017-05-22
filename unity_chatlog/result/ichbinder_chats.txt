@@ -1,0 +1,3 @@
+ Hey there. When I start Skype from a link as an application it crashes after a few seconds. When I start it from a terminal or as application in terminal, it works smoothly. Any idea what could be the problem?
+ nope, I start it not as root. Normal priviliges.
+ so, nobody has an idea why skype works when it's started from terminal but not as an application?

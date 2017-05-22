@@ -1,0 +1,2 @@
+ Wubi doesnt seem to be updating my boot.ini on windows xp. is xp no longer supported?
+ thats correct. it didnt modify it

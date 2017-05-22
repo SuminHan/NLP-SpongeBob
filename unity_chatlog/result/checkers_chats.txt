@@ -1,0 +1,4 @@
+ hi, virtualbox seamless mode doesn't display properly with the new ubuntu UI. Has anyone else run into this and found a solution?
+ izinucs: i am running dual monitors
+ izinucs: I have done that. I mean my 2 monitor seamless was working in 10.10, but after the upgrade one display is missing in seamless and the other is incorrectly placed on the screen
+ izinucs: from virtualbox themselves

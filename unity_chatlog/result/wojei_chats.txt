@@ -1,0 +1,12 @@
+ Hello everyone, I have some questions related to updating from 10.10 to 11.04. Who could help me with that?
+ why fresh install?
+ DestroiTe: why fresh install?
+ My issue is described here https://answers.launchpad.net/ubuntu/+question/155284   Essentially, I cannot even get it to upgrade
+ DestroiTe: If I do go for a fresh install, is it possible to transfer all the settings over (quota, user accounts, etc...)?
+ deadpulse: sadly I did not create a separate partition for /home directory. Besides home, could any of the configuration files be transfered
+ deadpulse: it sound really painful to get everything configured again. I guess I will just stick with 10.10 till 11.10 :)
+ I cannot remember all the things, I had grub password, grub boot menu edited, quota was set up to each user
+ deadpulse: I cannot remember all the things, I had grub password, grub boot menu edited, quota was set up to each user
+ deadpulse: can I copy over /etc/shadow /etc/group ... too?
+ deadpulse, so every user will have to set a new password?
+ deadpulse: thanks

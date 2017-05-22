@@ -1,0 +1,10 @@
+ what about the energy consumption of memory? say, running latexila uses only 5,7 MB, the same docs in gedit take 47,5 MB, however. is there a difference in the energy software "consumes"?
+ escott, what's clocking?
+ shetlandpony, clocking
+ ?,
+ ! clock
+ ! clocking
+ !clock
+ escott, i think i understand. so energy saving is a little difficult with the pc turned on, isn't it? (except for the screen, perhaps)
+ !powertop
+ escott, thank you! that's a point to start from. just browsed a bit through ubuntusers.de on those energy-saving hints.

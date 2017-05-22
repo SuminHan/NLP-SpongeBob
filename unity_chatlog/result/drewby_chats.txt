@@ -1,0 +1,8 @@
+ I use Gnome in Ubuntu 9.10.  From the "Places" menu, if I click on any folder it opens rhythm box (Music Player) instead of a folder.
+ How can I get it to open the file browser with that folder instead of rhythmbox?
+ BlouBlou: in the places menu if I click a folder it opens rhythmbox rather than nautilus
+ really bizarre
+ OH CRA! I don't use 9.10.  I use 10.10
+ sorry I don't know why I said that
+ anybody know why clicking a folder bookmark would initiate rhythmbox instead of nautilus?
+ Stew_822: thanks for the guess.  It doesn't look like folders have open_with menus though

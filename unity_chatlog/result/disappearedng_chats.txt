@@ -1,0 +1,3 @@
+ whats the best tool to do mock ups on ubuntu (other than gimp)
+ I am using a new wireless driver on my macbookpro but then I am seeing massive packet loss: 29 packets transmitted, 8 received, +21 errors, 72% packet loss, time 28040ms
+ rtt min/avg/max/mdev = 72.704/96.187/132.188/25.590 ms How should I go about fixing it

@@ -1,0 +1,4 @@
+ Can somebody help me, Ubuntu won't boot properly.
+ When I choose Ubuntu from the boot menu, it says error and then I get some type of GRUB command prompt.
+ I am on 10.10.
+ Does anybody know how to fix Ubuntu??

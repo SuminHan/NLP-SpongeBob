@@ -1,0 +1,56 @@
+ I have Ubuntu installed on an exteral HDD since 10.04 I've upgraded to 10.10 when it came out and ran the upgrade to 11.04 yesterday. It stopped listening to my wireless KB/mouse (logitech) near the end of the upgrade but rebooted itself. I then tried to boot into 11.04 and I press enter to boot the defualt Kernel it looks like it's booting but my external shuts off before it can (seemingly) do anything. I can'r see the bootsplas
+ step21: USB2.0
+ hihihi100: about 1hr 30mins but I used the alternative install CD to upgrade and ethernet
+ hihihi100: no
+ step21: I know it's Ubuntu shutting it off becuase the lights are on all through the boot untill I 4 seconds after I press the kernel then it goes a blank screen with a blinking cursor and my ext-HDD shutrs off
+ hihihi100: no
+ hihihi100: download the alternative CD iso burn it and put it in your running system
+ hihihi100: run upgradefromcdrom that is on the CD if it doesn't start automatically
+ Datz: use the alternative CD uppgrade
+ step21: I turned self shutdown off. But what settings do you want me to check?
+ step21: I know GRUB is using UUID to boot the drive or at least it was in 10.10
+ step21: will do
+ step21: yeah. Here's how I get to GRUB BTW: boot computer NTLDR>pick "Ubuntu Linux" and GRUB4DOS boots boot.img on the ext4 partition on my external HDD GRUB on Ubuntu appears and lets me pick what to do.
+ step21: so look for what in my grub.conf?
+ step21: ok so the root should be the ext4 partition on my external HDD. (which should be hd1,1 or if GRUB2 starts from 1 then hd2,2)
+ step21: I'll log back into IRC from a Live CD and tell you what I find.
+ who was just helping me?
+ I think it was set21 but he isn't here anymore
+ step21: yeah
+ step21: ok everything checks out
+ it does se root= and set=root tho
+ set root=*
+ thye both point to the right drive bu one does it using uuid (set=root) one does it like sdb,msdos2 (set root=)
+ they*
+ step21: I'll paste bin my menuentry
+ step21: no not yet. Here's the paste: http://pastebin.com/sRuzSt0K
+ step21: I don't know what I'm lookig for in syslog
+ here: http://pastebin.com/pJWStJQT if you need more then I can paste it too
+ also grub4dos is loading (hd1,1)/boot/grub/core.img
+ expedion: I can
+ I found something
+ step21: near the top of this: http://pastebin.com/y4kPnqWP
+ step21: I need to eat breakfast I'll stay logged in but PM me anything you need to tell me
+ step21: back
+ step21: any Idea if I can do anything?
+ step21: btw sdb1 is an NTFS partition
+ step21: sdb is ntfs 445gb partition with sdb2 a 20gb ext3 partition
+ sdb1 is ntfs*
+ step21: will look
+ step21: yes
+ says it mounted on  various lines
+ I think this file has some really old boots in it though
+ step21: says it mounted on  various lines
+ step21:  no just mounted with order data mode barriars not enabled and using internal journal
+ step21: any text I should search for specifically?
+ step21: nothing I can see besides that one from before about  Apr 29 17:46:28 adam-Ubuntu 83haiku: debug: Stage 1 bootloader not found: exiting
+ step: http://pastebin.com/sC4FzuRc
+ step21: http://pastebin.com/sC4FzuRc nothing about no access
+ step21: and those are the only instenses of file not found
+ step21: want me to try to boot to Ubuntu now so I know when the boot process actually starts?
+ ok
+ brb
+ step21: I need to go
+ step21: I'll PM you my email address email me
+ how can I get gnome-shell to be default shell in 11.04?
+ Jordan_U: so should switch to something else then?

@@ -1,0 +1,65 @@
+ ScreenIssues, you may be better off using the alternate install disk.
+ That's a text based installer, it could be that the live disk does not fully support the backlight control on your computer.
+ mnoyce, you aren't alone
+ greyhatsalafi, Agreed, there is just a total lack of reconfigurability
+ jubei1, go ahead.
+ greyhatsalafi, I would use crunchbang, but i write software for an office FULL of ubuntu machines
+ in fact 2 offices.
+ LTSP, the works.
+ greyhatsalafi, yeah, i love the way it is going- I just think they might have landed it a bit /too/ early.
+ Ruuuumb0, You can install it, but it breaks Unity
+ Witchsong, install compiz config settings manager
+ I have had to switch to the IFL mirrors
+ ipo, what is happening?
+ If you open Synaptic package manager, go to repositories in the menu, and then where it says United Kingdom, or wherever, click change, then click other. Then click "select best server" and it will choose the fastest one available.
+ Always works when a new release comes out.
+ sundjinnkari, gnome 3 breaks unity, I don't know of a way to restore what happens afterwards.
+ Samo502, what is the problem?
+ Samo502, that's a new one. Have you done a fresh install of Ubuntu or is it an upgrade?
+ Ahmuck, it gets installed with Unity
+ if you had an NVIDIA driver (proprietary) and installed 11.04, you wont be able to boot. You have to SSH into your machine, wget the nvidia driver and reboot.
+ vivid you can't.
+ vivid, compiz config settings manager has some basic options
+ vivid, tell me about it.
+ vivid, sudo apt-get install compizconfig-settings-manager
+ then search for Unity on the left hand side
+ you can only change things like hiding and key combinations though
+ vivid, you can't do that
+ vivid, I saw it in a "Oh they obviously haven't finished it yet" light.
+ which begs the question, why give it to users as the default then??
+ vivid, tip... in the login screen options, change boot to Ubuntu Classic :)
+ johnathan, I think you can use apt-get -f install (or am I completely wrong?)
+ truepurple, unlikely, its just your desktop can't load. You have to ssh into your machine and install the graphics driver in text mode.
+ johnathan, Solution seems to be detailed in this thread: http://ubuntuforums.org/showthread.php?t=1327907
+ truepurple, its remote shell (like remote desktop but it gives you a terminal.) sadly, if you don't know what that is, its likely to not be installed, and thus your install could be hosed.
+ truepurple, In fact there is one option
+ you could put grub into Single User Mode, remove the nvidia driver and see what happens
+ truepurple, http://www.cyberciti.biz/faq/grub-boot-into-single-user-mode/
+ Yes, actually.
+ truepurple, worth a try
+ truepurple, accept that message, that's fine.
+ It should get you into a GUI
+ wait
+ truepurple, i would recommend installing the latest nvidia driver from the guides on the Ubuntu wiki
+ https://help.ubuntu.com/community/BinaryDriverHowto/Nvidia
+ ctrl+alt+del
+ I am here
+ use up and down keys, truepurple
+ truepurple, sorry, assumed you were on NV
+ truepurple, the same guide is available for ATI
+ ipo, sorry, right. It seems there is either a problem with the machine or the disk if it is not loading past that point
+ I would recommend trying to burn another disk (or running the disk check from the pre-boot menu on the disk)
+ truepurple, certainly so.
+ The problem you are experiencing, truepurple, is the display server cannot load on your card because of an updated kernel.
+ ipo, other than burning another disk, and trying a USB boot. I am unsure. How much RAM does the machine in question have?
+ truepurple, see pm
+ Hello, how do I load the PAE kernel on my machine?
+ is it as simple as installing it?
+ apparently not in natty, thegoodcushion
+ thank you Dr_Willis
+ It was the default in 10.
+ gnome-system-monitor or free -m
+ thegoodcushion, means the PAE kernel is not loaded.
+ It should be installed by default, it's odd.
+ I am on 24gb ram
+ Hello, I have a serious problem with an Ubuntu web server. A permission was changed somewhere, and the resulting problem is that no matter how much I chown files and update permissions- apache2 still says forbidden.

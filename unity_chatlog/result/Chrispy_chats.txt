@@ -1,0 +1,4 @@
+ Anyone here know much about Ubuntu 11.04 ?
+ I am currently having problems with SLOW AS HELL Ati Drivers, Both Opensource, AND Ati Drivers, on Ubuntu 11.04 Natty. Has anyone else had this problem ?
+ Ubuntu 11.04 Slow Graphics Performance PRoblems. Anyone had same issue ??
+ Namely with ATI Drivers

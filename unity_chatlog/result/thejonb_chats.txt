@@ -1,0 +1,16 @@
+ anybody else having trouble connecting to repos in maverick?
+ :velcroshooz  that's what i figured.  tried installing 11.04 last night and hated it, so now i'm setting up 10.10 again.  can't install any software because i can't connect to repos ha
+ so someone suggested i change servers.  not sure how to do that.
+ i'm having trouble connecting to repos in maverick because of traffic i guess.  can anybody tell me how to change servers?
+ stall:  i didn't find it to be slower.  it's just different.  if Unity slows you down, you can always do Unity 2-D or log in under the Ubuntu classic desktop
+ stall:  you'll have to install it manually.  i don't know off hand how to do that, but a simple search on ubuntu forums should point you in the right direction
+ ubuntuforums.org
+ linuxtech: tell me about it.  i've been trying to install something via ppa for the last hour and i can't connect
+ i'm getting a 404 not found when trying to connect to the nautilus elementary ppa.  is it down?
+ Pici: figured.  thanks.
+ i'm getting a 404 not found error on a few of my maverick repositories.  Are some of the repositories offline because of traffic?
+ what concerns me is that the repositories that are returning 404 errors are the main maverick sources and main 1386 packages repos
+ ohsix: ok cool.  guess i'll keep trying back periodically
+ thanks
+ i just bought a 6 button mouse with tilt and i can't get the buttons on the side of the mouse or the tilt to work at all. how do i activate those buttons?
+ how can i get ubuntu 10.10 to recognize the buttons on the side of my mouse?

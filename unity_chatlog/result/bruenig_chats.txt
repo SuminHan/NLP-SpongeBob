@@ -1,0 +1,3 @@
+ chaospsyX: uname!
+ ctrl+c
+ !

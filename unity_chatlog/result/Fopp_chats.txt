@@ -1,0 +1,3 @@
+ Hi guys, Im trying to update to 11.04, but when I click upgrade in update manager, I get told "Could not download release notes Please check your internet connection." An suggestions, guys? thanks!
+ Hi guys, Im trying to update to 11.04, but when I click upgrade in update manager, I get told "Could not download release notes Please check your internet connection." An suggestions, guys? thanks!
+ flipp: well, the internet is fine, hence im here. Its probably the former, since its release day and all. thanks.

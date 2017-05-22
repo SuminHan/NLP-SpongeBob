@@ -1,0 +1,3 @@
+ thor ...how much memory you have?
+ did you run the test programs...benchmark stuff?
+ <--had problems with Ubuntu 11.03....wireless install craps out

@@ -1,0 +1,7 @@
+ Hi
+ which graphics card would work best with Ubuntu 11.04?
+ I remember hearing bad things about ATI cards, is it still relevant?
+ Dr_Willis I was thinking about buying a laptop with Intel GMA 4500M
+ Dr_Willis what's wrong with Intel cards?
+ Dr_Willis I don't need power, I just would like it to work out of the box
+ scotty^: but nvidia cards would require third-party drivers

@@ -1,0 +1,30 @@
+ well
+ how to know which OS I am using exactly ?
+ uname -a doesn't tell me really :P
+ it's not ubuntu, so says command not found
+ not sure where to ask, well will move on to #linux then :)
+ thanks anyway
+ -bash: lsb_release: command not found
+ lsb_release and uname are the first things I try :)
+ cat /etc/issue Dr_Willis|2 :)
+ centos 5.5
+ how do you empty a file from the terminal ?
+ no just clear content
+ $ > filename worked, but not sure why/how :/
+ hi there
+ I got ubuntu
+ on my pc
+ and my team mate can access
+ so
+ say if my team mate is accessing it, can I know that he is accessing it at that point of time ?
+ qin: ?
+ hmmm
+ what permission do you generally need over a dir and a file to change it's permissions ?
+ what permission do you generally need over a dir and a file to change it's permissions ?
+ I am sure I have read that before :) woll re-read, thanks
+ hmm
+ what about a file ?
+ hehe, yeah
+ aah, I see
+ thanks, there we go :)
+ HOLA

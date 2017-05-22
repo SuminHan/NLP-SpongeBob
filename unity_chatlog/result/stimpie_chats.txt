@@ -1,0 +1,20 @@
+ sinistrad: log out and try using the 'classic' sesion
+ sinistrad: probably not
+ dasfefg: gnome2, xfce, kde, e17
+ mgj: its an option in compiz-settings-manager
+ mgj: to be more precise its at 'general options'-> 'Desktop size'
+ somebody knows a util to unzip a zlib file?
+ gnuskool: system settings -> appearance
+ xsinick_laptop: that must be awful then ;-)
+ gnuskool: It does  take the color belonging to the theme?
+ <special> + D
+ Sik: places X on tty7
+ Sik: exactly
+ virtualbox is good but not better then vmware
+ Jessica175:  I tried vmware on a beta, it ran fine. Just stick to vmware if you like it
+ eekTheCat: https://gist.github.com/953393
+ Technoviking:  depends on the bug,   but cups is a good guess
+ Defusal_: modify PS1 in bashrc, see http://www.thegeekstuff.com/2008/09/bash-shell-ps1-10-examples-to-make-your-linux-prompt-like-angelina-jolie/
+ researcher123: no, unless you have a backup to restore
+ insanity99: the gnome applets are not supported anymore. they are replaced with indicators. Maybe some sensors indicators is created, maybe not
+ insanity99: google? or http://askubuntu.com/questions/30334/list-of-application-indicators

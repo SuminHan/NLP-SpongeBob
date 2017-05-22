@@ -1,0 +1,3 @@
+ I tried dd the iso image to an usb but that did not work, I am in a different distro and would like to install ubuntu on a seperate partition using USB stick, any suggestions?
+ exit()
+ quit()

@@ -1,0 +1,58 @@
+ hello, i upgraded from maverick to natty , everything was done gr8, after reboot i couldnt boot in, i got a shell window login
+ any1 ?
+ i upgraded from maverick to natty , everything was done gr8, after reboot i couldnt boot in, i got a shell window login
+ and i got the same error after a fresh installation for 11.04
+ i dont get gui
+ oldos2er yes i did
+ it says i should install xinist pkg
+ intel oldos2er
+ oldos2er i will and get back to u if it works
+ yea sure i will
+ brb
+ im having trouble installing natty
+ After installation of natty i get into a shell login, no GUI
+ any1 can answer ?
+ gmachine_24 goes straight to grub
+ i choose the kernel
+ i login to tty
+ startx fails with an error of not installed pkg of xinit
+ never had this error since ubuntu 7
+ gmachine_24 it gives the loading screen of pkgs
+ then it gives an error of no turbo driver or something
+ and i login to tty
+ i gues tthe boot screen
+ containing the running rpocesses
+ ok gmachine_24
+ ah
+ that's the perfect error
+ gmachine_24: plymouth command failed
+ disconnected from plymouth
+ >>> mountall
+ any1 hada problem after installing 11.04 ?
+ argh
+ i cant get my GUI
+ this is another error with intel
+ ActionParsnip yup :) the tty
+ ActionParsnip it will fix the P{lymouth error ?
+ let's try
+ ActionParsnip: unknow boot option 'nomodeset'
+ ActionParsnip lucid fix problem will solve natty's ?
+ ActionParsnip i read the site, this is not my error
+ my error is : i login to tty no GUI
+ erro: mountall: Disconnected from Plymouth
+ mountall: Disconnected from Plymouth <<< any idea ?
+ ohsix i used ubuntu since v.7
+ never had this error
+ on the same laptop
+ ive never been disappointed with linux till this day
+ ActionParsnip i mean ubuntu ! wt' sthis error regarding plymouth
+ never had it!
+ ActionParsnip how can i get rid of it ?
+ ActionParsnip i booted in text mode, i want GUI
+ ActionParsnip u mean via: startx ?
+ ActionParsnip nothing is loading
+ :/
+ that's the point
+ ActionParsnip me see wait
+ ActionParsnip: mountall: Disconnected from Plymouth
+ ActionParsnip fsk succeeding nothing more

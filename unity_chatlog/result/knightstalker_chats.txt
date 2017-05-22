@@ -1,0 +1,2 @@
+ Hello,I've tried to install gnome shell on 11.04(Yeah,I know that was experimental),and now when I try to login the monitor will go black for a second and then I am back to login page(Well,I tried removing gnome-shell),I could however,use recovery mode to startx into root's KDE
+ however,the same method doesn't work for my regular user and KDE will not load

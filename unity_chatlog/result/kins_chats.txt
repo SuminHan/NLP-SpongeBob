@@ -1,0 +1,3 @@
+ is ubuntu 11.04 worth updateing too
+ can anyone help me mount an external cd/dvd drive
+ why does lucid not even read my external cd/dvd drive

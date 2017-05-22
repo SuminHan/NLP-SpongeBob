@@ -1,0 +1,1 @@
+ hi, i used parted magic live cd (pmagic-6.0.iso) and tried to grow my ext4 home partition, getting this error "Resize2fs doesn't currently support the combination of flex_bg and !resize_inode." what can i do to resize my ext4?

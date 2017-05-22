@@ -1,0 +1,4 @@
+ Hello, can you explain me what's that Unity?
+ Ok, thank you, is that some Gnome modification or the completely new environment
+ thank you guys, So the next puzzle solved  ;D
+ hi, is there any way to force terminal not to close after running program in python, started by activator?

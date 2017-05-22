@@ -1,0 +1,1 @@
+ is it still possible to get a synaptic touchpad's SHMConfig accessible to apps?

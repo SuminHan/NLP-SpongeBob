@@ -1,0 +1,30 @@
+ !unity
+ So unity is a shell for gnome, so what is the underlying/default WM in 11.04?
+ david8732, rats.  There is a reason why I ask.  B/c currently I have a multi-monitor using an nvidia card, due to current limitations I had to forgo compiz in order to get it working (as confirmed with the boys in #nvidia; it has to do with TwinView unable to support the rotation of individual screens)
+ david8732, so, is there a way for me to (a) disable unity (b) choose a different WM for unity (i.e. will unity work if compiz is not the chosen wm)
+ hiexpo, gtx295, but I don't think it makes a difference
+ Ziber: are you saying Unity will work with compiz disabled?
+ Ziber,  I am downloading natty narwhal now, and if it's going to be a pain in the *, then I guess I'll go with status quo
+ w/with/& the/
+ just one simple question, will unity work properly w/o compiz?  (Or can I have a convenient way of disabling unity after install)?
+ Jordan_U, what is a "BIOS boot partition"?
+ Jordan_U thanks, b/c I've never worked with GPT, I've always stick to the good ol MSDOS partition table
+ Jordan_U I was having a little connection difficulty earlier.  Did you get see my question ? :-)
+ Jordan_U may I ask for your permission to pm it to you b/c last time I typed it, the bot kicked me.  (I think the spambot has gotten too sensitive lately, really heh)
+ okay, I'll do just that :-)
+ Man, spam must be getting out of hands lately.  I tried to pastebin something simple on paste.debian.net and it's asking me to 'do this,  do that'
+ Jordan_U, http://paste.debian.net/?show=115718;lines=0
+ Jordan_U it's a lil follow-up question.
+ Jordan_U in grub legacy, I was given the impression that when 'root (hdX, Y)' it installs the '/boot/' stuff into the filesystem on the partition.  So, when you say that "it only ever actually wrote to areas outside any filesystem", I would think that "area outside of the fs" would be an area in the beginning of the partition, before the fs starts?
+ Jordan_U Is my latter assumption somewhat closer to reality?
+ Jordan_U: okay.  it would answer what I had in mind if you could explain where grub legacy puts the stuff when the user specifies 'root (hdX, Y)'
+ Jordan_U just the gist of it, to keep it short :-)
+ Jordan_U: that would mean grub legacy needs to know how to read the from the filesystem on (hdX, Y)
+ Jordan_U: that way, once grub legacy verifies that the stage files exists on 'Y', then it can identify the real location of where on the disk to read after it finish reading the first 440 bytes of the mbr.
+ is it a normal behaviour to experience choppiness in flash video playback using the 64-bit Adobe Flash Player for linux?
+ xangua: and I do mean *choppy
+ xangua: I am referring to the "Square" release, if you know which version of adobe player for linux I am talking about
+ damon: square is in which repo?
+ square: restricted?
+ damon, restricted?
+ is add-apt-repository new?  I've always had to edit the source.list myself

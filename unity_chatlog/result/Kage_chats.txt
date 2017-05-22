@@ -1,0 +1,16 @@
+ 11.04 coming out today?
+ woah who!  Break out the hookers and blow!
+ ok, I am having major issues with Natty on this new laptop of mine.  Its a HP-G42, anyone know of issues with this model?
+ I guess Ill wait and see if it does anything <.<
+ maybe a first boot issue?
+ When I boot natty I get a blank screen, I think I have ruled out a X server issue, but maybe not
+ I am having a issue, after the boot splash screen, I get a blank screen.  I can not move to a vertiral console (ctrl + alt + fX).  I have tested ubuntu and kubuntu, with both 64 and 32 bit archs.  This happens both with the live cd and  after install from alternate disks.
+ I can get knoppix to boot, anyone wanna tell me where I should start looking for the issue?
+ !tx
+ is there a channel ubuntu kernel issues?
+ I get a "tx refused but queue active" crash
+ what file determines which modules get loaded?
+ I am having issues loading the kernel module "mac8021" during boot
+ its cauing a crash I think
+ I am having issues loading the kernel module "mac8021" during boot... I get a error in syslog then what seems to be a crash...
+ I get a system kernel crash when I try to load the brcm80211 module

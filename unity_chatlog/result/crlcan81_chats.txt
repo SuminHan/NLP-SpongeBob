@@ -1,0 +1,92 @@
+ I slept through most of the downloading.
+ three or so hours.
+ the installing only took like.. is taking, maybe two hours or so, so ya, about five hours total.
+ sometimes 15 with 'powerboost' as they call it, but that doesn't apply to this.
+ 2 or 3 is my up if I remember right.
+ honestly I know one thing that doesn't work too well on 11.04, at least not for me. Alltray.
+ I already altered the necessary configuration in unity's desktop setup for everything to be visible in the notification tray that needs be
+ luckily for me I still have cairo dock as well.
+ how does one go about customizing the menu buttons, the close program, minimize, maximize ones? I don't like em on  the left, or those style buttons.
+ most of those ones, I really didn't need.
+ I don't know if I missed it but did someone mention how to alter those three buttons in natty, or is there a way?
+ sakuramboo: I use cairo dock as a secondary panel setup, lets me do that.
+ That was my original 'panel' replacement, in gnome enviroment, and it still works in unity.
+ ... that's what cairodock does
+ it uses the OLD style menu
+ with genre seperation
+ I've got .. 133 at least.
+ including emulators
+ As far as I know, no, but I've not used it as long as others. Just started about 4 or so hours ago, if that.
+ I already knew that something like this was coming with unity, so I kept cairo the way I liked and kept the conf files for that and grub.
+ Most of the packages that didn't come with the upgrade haven't been an issue with me, yet, sakuramboo
+ sakuramboo So far my only major complaint with unity is it's integration with desktop wall on compiz, I prefer desktop cube. Plus some of the upgrading didn't let me install debs from link, aka downloading a deb and having it open in software center. It keeps saying the listed file doesn't exist in repositories.
+ Does anyone know how to alter the unity menu to split up the applications more like the old style? Or how to move the buttons for minimize/maximize/close program to the right again?
+ sakuramboo: I tried to, but when I did it said unity needed them, you sure you want to do that?
+ Does anyone who has more unity experience then sakuramboo and I know for sure if it's safe to switch from desktop wall to desktop cube if unity says it needs it, on compiz?
+ it does death..
+ deathknight: It's just setup differently then you expect.
+ every time I try to install simple-ccsm it says I don't have the necessary dependencies..
+ I will admit I know one thing that makes almost no sense to me, on the media player front for Ubuntu. As a music player/movie player, I've yet to see VLC be beat. plus it uses so little of my system the only thing I seen take this little is mpd based, and that cuts out your audio for any other program.
+ chadi: I was wondering something along those lines as well. I want to alter where they're located on mine.
+ chadi Where is that? I forgot about gconf.
+ found it
+ chadi: gconf-editor?
+ crap..
+ chadi: My normal windows are fine, it's the maximized one I want to alter.
+ Somehow I hit a command in xchat IRC client which made it go 'fullscreen' where there's no top bar/menu, unless I go to another program. What is the keyboard command for that?
+ log out
+ badbandit: log out then select ubuntu classic
+ I agree freeman, they had their reasons for it.
+ on multimedia system selector, is it better to autodetect, alsa, or pulseaudio?
+ xust: I have the same problem too, different drivers, but they're not in use either.
+ xust: gts 250
+ freeman yes they have the system tray, it's just limited. you can alter it to work as standard.
+ That's what I was asking pythonpup, which one is stable/best quality?
+ also have another odd issue with the audio seperate from that..
+ well at least I figured out part of the audio issue I'm having.
+ it's a USB gaming keyboard with audio input/output jacks on one side, and usb on the other.
+ you gotta do _ if you want space
+ any idea how to get pulseaudio to recognize pnp aka headphones from a usb keyboard after logging out and logging back in?
+ Every time I log out and log back in it causes the autodetect to stop recognizing the headphone jack on my keyboard as able to support audio.
+ So whatever the issue with my headphones it's not directly related to my sound layer system.
+ Does anyone have experience with headphones not working properly after a log out?
+ eiriksvin a lot of us are having that issue too.
+ I'm in unity right now, just because I've gotten used to the setup.
+ I have a GTS 250 too so it's not a ram issue.
+ if you haven't really gotten a chance to look at the unity setup, you may want to before you do.
+ ahh, loading the interface no, but moving windows around.. compiz is laggy.
+ Well moving my windows around is.
+ I don't use wobbly windows.
+ it's snapping windows that's lagging it.
+ I just disabled snapping and enabled wobbly, it's running a lot smoother.
+ awesome..
+ it works.
+ I'm curious as to unity working with desktop cube.
+ I do drAg
+ IF you have used unity and desktop cube
+ so it's possible to disable desktop wall and still use unity fine?
+ What all besides enabling unity after compiz disables it, logging back out and back in do I have to do to get desktop cube working normally drAg
+ It won't let me use the controls it used to.
+ itsTOREN: you using unity 2d, ubuntu, or ubuntu classic?
+ weird.. you should be able to get a 3d effect then. That's using unity
+ is the third party driver enabled for your graphics card?
+ ..ok really weird.
+ I'll just deal with wall..
+ When you're available drAg, do you have any experience with g110 usb keyboards and pnp audio using headphones on 11.04? It did it on 10.04 through to this too.
+ Have you ever had the sound preferences crash when logging out back in when using headphones on a usb keyboard's headphone jack?
+ Every time I log out and log back in for something the pnp audio doesn't work, drAg, sorry to keep pestering.
+ what's fluxbox like?
+ what did you upgrade from/to the first time?
+ you're a masochist.
+ I used to.
+ hey I use whatever ubuntu has installed.
+ kaushal: how so? on login it's either Ubuntu, or Ubuntu classic
+ recovery console :P
+ drAg stop, you're being a unbelievable dooouuuuu$$^
+ has anyone ever had an issue logging out and logging back in with headphones on a usb keyboard not being recognized? I've had that since 10.04, b ut only had this keyboard since 10.04
+ god so many choices in shells
+ xfce or lxde?
+ I'm having odd issues with flash embedded video/audio players, outside of youtube. Though part of those are using html5 so don't know if any of the ones I've watched WERE using flash player.
+ On sites like beemp3 and crooksandliars, when using their players I have the player's components disappear and all I see is the player background, as well as some of the video if I open up any controls over it. Sometimes that happens on videos directly, spots that are blocky showing the background, instead of a low quality pixel o the image.
+ Found out the issue I was having is a firefox problem, not sure if it is flash itself, or simply certain sites since the 11.04 upgrade.
+ ok that was annoying..

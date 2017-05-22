@@ -1,0 +1,6 @@
+ when i use -X in ssh actually what happen then?
+ no answer?
+ romno0x: ..
+ how can i install my ssh server?
+ hypetech: and what does exactly -X do when I use it in SSH command line?
+ hypetech: what does it do X11 forwarding? i mean what is it?

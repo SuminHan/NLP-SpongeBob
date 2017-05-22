@@ -1,0 +1,8 @@
+ Is it just me or does Unity look terribly huge and bulky, I also have no clue what apps I have cause there is complete list of them :(
+ Logout and select gnome classic
+ ayrton
+ Wasn't Chrome/ium supposed to replace firefox in this update?
+ Anyway to shrink the gigantic size of this obtuse launcher?
+ Ha! seems like it would work.
+ carl-m: Thanks, I'll look into that
+ Jordan_U Go to your power off button and at the bottom of that menu click system settings -> preferred applications

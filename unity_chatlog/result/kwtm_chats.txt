@@ -1,0 +1,68 @@
+ strigoi66: That's not a good idea.  Who knows whether a web site is malicious?
+ HyperShock: I will leave it to you to check strigoi66's web site.
+ Armageddon: apt-get --download-only install  <pkgname>
+ Armageddon: man apt-get
+ Armageddon: Yes, -d is short for --download-only, but if I say "-d" then they'll say "what does -d stand for?"
+ Armageddon: It assumes that you will manually install, so it will still tell you how much space it takes when you manually install.
+ hedele: You need to mount the volume on your live session.  From a terminal, you'd type a command *similar to* (don't quote me exactly) "sudo mount /dev/sda2 /path/to/mount/point" or something similar.  Or there may be a way to do it with GUI, but I am not familiar with that.
+ hedele: Come to think of it, there may be a more user-friendly way to do it, but I'm just letting you know that it is possible.
+ relik: What does "ls *.mpg" do on your system, and what do you expect it to do?
+ relik: Ahh, I see your line from above.  Almost missed it.
+ relik: Okay, you should not type  "ls - "
+ relik: However, if one of your files is named "- something.mpg", then   ls *.mpg   will turn into   ls -   something.mpg  which will generate that error.
+ relik: Type this instead:    find -name '*.mpg'     (don't forget those single quotes) and see if you have any funny filenames.
+ relik: For example, if someone decided to name a file "- This is such a great movie -".mpg  then you will have problems if you do not know enough about bash.
+ relik: Well, you start with that find command I told you about.  What result did you get?
+ relik: <sigh> I know it works.  What does it say?  Are there any filenames that start with "-" or some other unexpected character?
+ relik: Okay, please try   ls ./*.mpg    which is actually the correct way to list it.
+ relik: Another way is   ls -- *mpg   for those who don't like the  ./*mpg
+ relik: By the way, this is expected behaviour in bash.  While the novice may not expect it, it hardly counts as a bug.  Quite a number of things in bash would break if this were not the behaviour.
+ relik: If it really bothers you, you can rename the files.  So you could say    mv "- this movie has a weird name -.mpg"  "Name_without_weird_characters.mpg"
+ relik: Now you know that ls * is wrong. :)
+ dark-matter: There is a way to do it, but you have to have planned it beforehand in the way you set up your hard drive.  I used it for upgrading from 8.04 to 10.04 and I'm glad I did it.
+ dark-matter: Next time, partition your hard drive into 2 small system drives and 1 big data drive.  Have the old operating system on one system drive, and the new one on the other system drive.  They would share the same data drive.  Then you could dual boot into old or new version.
+ daniel_: If your  home  directory and the root directory are on the same drive, it would be hard.  Consider getting an extra hard drive, either internally to store your home directory, or externally as a backup (thus no "100 backup disks") and then back up /home and you can reinstall the older system.
+ Ubuntu should really make it a default to be able to dual boot into either of two versions of the OS.  These upgrades can really screw you over.
+ Random832: I think it should, by default, partition into 2 system drives (each 5-10GB in size, say) and the remainder is a data drive where /home  is mounted.  By default at least put /home on a separate partition so the system can be wiped without wiping home.  Install the newest linux into the system drive with the oldest linux.  When it comes time to upgrade, preserve the current version of the OS and install into the other
+ system drive.
+ Random832: They could make it an option.  Whether something is "ridiculous" would depend on the opinion of the user, not you.
+ ActionParsnip: Interesting ... sounds like a more conservative option.  I guess it's not avaialble with Ubuntu (I don't know; I'm sticking with 10.04).
+ ActionParsnip: That's what I do.  But I see enough hair-pulling after an update that I wonder if they should automate it.
+ MohammadAG: I'm not sure you count.  Your N900 could flip over dead on its back with its six legs and antennae splayed out, and you could press some 7-key combination and say, "Yeah, I got it working again, no sweat."
+ MohammadAG: Me, I've got my history of upgrade problems to contend with.  (Even now my 10.04 has broken things that my 8.04 didn't have, like errors in Kmail, 30-second freezes in the KDE file dialog, no fullscreen BZflag, etc. etc.)
+ MohammadAG: You really DO live on the edge, don't you?  I can see how you get seamless upgrades.  I do the opposite.  Burn an install DVD (never upgraded) and carve out a new partition from the old.
+ Crazy1: It is a regex that describes a pattern to look for in text.  It means:  a word (meaning consecutive letters or numbers), followed by some whitespace (space, tabs, etc.), followed by that same word
+ Crazy1: So, if your text contained   "This is a frog frog." then the "frog frog" part would match.
+ Crazy1: If your text contained "This is a bullfrog frog" then it would not match because it takes the entire bullfrog word.
+ Crazy1: If you "tried 123 123" then you already know that this is a regular expression.
+ Crazy1: In that case, you should ask at #regex or ##regex.
+ Crazy1: It is not related to ubuntu.
+ [snake]: Do you want to consider downgrading to 10.04?  (Long-Term Support edition).
+ [snake]: Maybe, but 10.10 is not supported for as long.  It's up to you.  I have only been using LTS editions (upgraded from 8.04 to 10.04).
+ [snake]: If there is something that you need in 10.10 that's not in 10.04, then by all means.  In general I (and many others) do not feel the need to upgrade just because a new version has come out.
+ [snake]: I actually promote dual-booting into "newest" and "second-newest" versions, but if someone's computer is already set up not to dual-boot this, it's a bit of hassle to set it up.
+ [snake]: But it is *really* robust, and you simply use Newest and then easily switch to Second-Newest if need be.
+ [snake]: Anyway, just something to think about.  Watch out for 11.10. :)
+ koperino: I bet you're using 10.04 and it's looking for the next LTS edition, 12.04, right?
+ rhin0: I see  linux-headers-2.6.35-23  as a possible package on my 10.04 (which I haven't installed, but still, it's there)
+ rhin0: Disagree with coun: stay with 10.04 unless you need to.  (Whether you need to is up to you, but if linux 2.6.35 is there for 10.04, just stay with it)
+ rhin0: Okay.
+ Brandano: Does that count as odd?
+ Brandano: ?? I spend a lot of time on the command line, but I don't tweak the OS.  You mean, then, that you'd expect the command line to be for tweaking the OS?  I see.  I just use vim and ssh a lot.
+ Brandano: Installing stuff is tweaking the OS?  Compiling stuff is tweaking the OS?  Wait ... um.... actually, never mind.  My, what lovely weather we're having!
+ Brandano: ? I use PuTTY, too, when I have to use Windows.  Not sure what's different between the two except I can't script the Windows version.  I haven't felt that Ubuntu does not have a friendly environment, but then I don't work a lot with their libraries.
+ phed: In what way is it better than putty?  I just started at a new work environment and all they run is Windows.  I just went with PuTTy which was easy to find through the corporate firewall and install onto some directory.
+ Brandano: ?  Not sure what you mean.  You mean you can just invoke it with "ssh" instead of "ssh myserver.mydomain.com -p <portnum> -l <login> -v"?  Black terminal background just depends on your terminal, I guess --I always had a black terminal background, wasn't aware that it didn't come that way in Ubuntu.  Must've set it way back when I was using 6.06.
+ phed: Oh, I found your message!  Please prefix my nick when you talk to me, or else I'll think it's someone else talking to someone else.  Ok, will check out mremote but since I just need a text interface, and I've already got PuTTy installed at work, I'll just stick with it.
+ phed: Does it have a vnc client?  Or just allows tunnelling by a vnc client which I have to install myself.
+ Brandano: Wait, 1) PuTTy is available for Linux?  and 2) someone actually finds it useful?
+ Brandano: I wasn't aware of that.
+ Brandano: Wow, you're right, putty is available! :)  Whaddaya know.
+ Brandano: I don't want to use a GUI because then I can't ssh in to a computer and then use PuTTy.  (From outside of home I ssh into a gateway computer and then ssh from there into another computer.)
+ phed: Ok.  Will keep that in mind!  I use screen so I don't use the multiple sessions that much.  Main criteria I use for WIndows is: how easily can I find, download, and install it in a restrictive corporate environment? :)
+ Brandano: Right, but do you know how much bandwidth that takes up? :?
+ Brandano: Oh, I see.  I thought you meant tunnel VNC through the SSH port so I can use putty on the remote computer.  No, the gateway computer has scripts for me to ssh into the satellite computers, so I just leave it.  It's a lot handier running the gateway computer than the client computer at work anyway, since the gateway is set up the way I like.
+ phed: Sounds good.  WIll check it out.  Thanks for the tip!
+ phed: Waitaminnit!  It's cheating!  When I use mRemote, one of the prerequisites (besides needing to install Microsoft .NET Framework 2.0 on my work computer) is PuTTy!   So why wouldn't I just use PuTTy?
+ phed: I was all set to say, "This is great!  It can do SCP as well, and PuTTy can't, meaning I have to install WinSCP also."
+ phed: Okay.  Anyway, thanks for letting me know about it.

@@ -1,0 +1,2 @@
+ how do I tell a specific package to not update when doing apt-get upgrade
+ bastidrazor: thanks

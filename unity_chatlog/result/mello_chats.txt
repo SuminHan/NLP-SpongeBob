@@ -1,0 +1,52 @@
+ Hi, I cannot boot natty from my USB; i get a mounting problem: http://pastebin.com/JvF0fTRa
+ Hi, I cannot boot natty from my USB; i get a mounting problem: http://pastebin.com/JvF0fTRa
+ scialen: did you boot from USB too or is it a CD?
+ Veloce06: unetbootin
+ Veloce06: I'm going to format it again...
+ Veloce06: I will try now.. gparted is rnning
+ Veloce06: my unetbootin is running :) let's see..
+ How do I install xfce 4.8 on natty? I already installed a shitload of apps before finding out that unity just doesn't run at all for me
+ jiohdi, if xfce works.. can i also remove all gnome shizzle?
+ jiohdi: i guess it's safe to remove gnome-shell? I tried installing it, but not much luck either
+ is there a way to reset all gnome settings? I accidently did something wrong (disabled too many compiz effects) and now unity wont start
+ coz_ unity won't start.
+ typhoon: thanks
+ coz_ no xfce. I installed both xfce and gnome shell
+ coz_ yes probably. compositing didn't work with my graphics driver (ATI), so i accidently disabled it
+ coz_ hmm.. fair point. It rather seems that unity breaks gnome shell
+ lmao
+ coz_ give me 5 minutes
+ is it recommended to throw away unity & install gnome-shell? Or does it not work optimal on natty?
+ rofl
+ Logan_ that would just give me gnome 2, with gnome-shell I mean gnome 3
+ ubottu thanks
+ taglass: I agree to some degree.. except that I can still do my work in gnome3, whilst unity is making that impossible.
+ taglass: if i want to be productive i'd better just get another distro..
+ ZykoticK9: i wouldn't choose debian as a desktop env
+ lgp171188 what should i choose if im sick of gnome2 atm (its getting boring) & i don't want kde? (or give me one good reason for kde)
+ Logan_ this would be achieved just with apt-get install xfce4? But im not sure if this installs the last version 4.8
+ lgp171188 let me google lxde
+ lgp171188: thanks. i might install xfce for now and tweak it.. i just want something that is not counterproductive
+ Scarra3 install ati driver on your own risk! it depends on your computer..
+ Scarra3 on my pc when using ATI driver, compositing doesn't work anymore, which is a key feature used in unity compiz
+ Scarra3 in other words: it might be that your compiz is screwed
+ Scarra3: I have ATI mobility Radeon HD 3650; I would recommend just trying. Go back if something feels sloppy for you
+ Grimdin: good to know; i thought this problem only existed with ATI
+ joako: get a torrent program like vuze, transmission µtorrent, and download it.
+ Grimdin: i don't have a clue.. i had this problem before, not just on natty. I think it is a driver related problem
+ Braiam: I am suggesting it because he might be on windows, and that program is easier
+ Braiam: hence why it was my last suggestion.
+ joako: you weren't expecting from canonical here were you? I'm just trying to help.
+ joako: that was not really in your description; from what you said it sounded like you didn't know what torrents are..
+ joako http://www.ubuntu.com/download/ubuntu/alternative-download#bt
+ Hi, i'm using my music library that is on my NTSF partition. In rhythmbox it loads all songs, in any other musicplayer it doesn't, anyone got an idea?
+ Hi, i'm using my music library that is on my NTSF partition. In rhythmbox it loads all songs, in any other musicplayer it doesn't, anyone got an idea?
+ hi, I try to load my music library into clementine from an NTFS partition, though roughly half of the songs are not being imported.. But they are visible in rhythmbox
+ ohsix that's what im trying. Weird thing is, that i think clementine is not the only player having issues with it.
+ ohsix i should try.. but i'm pretty sure I reimported my library several times in rhythmbox.
+ ohsix im now copying them, and i'll import in both clementine & rhythmbox
+ ohsix: thanks for the tip, but i just reinstalled maverick ;)
+ ohsix: thanks for the tip but i just reinstalled :)
+ ohsix: I tried importing my library in rhythmbox clementine and exaile
+ ohsix: rhythmbox=3772, clementine=2650,exaile=around 2300
+ ohsix: i already thought of that: there are some flac and ogg in there, but not up to 1K

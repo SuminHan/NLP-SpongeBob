@@ -1,0 +1,12 @@
+ Please, help me to upgrade distro from lucid
+ I have ubuntu based distro
+ Update manager from gnome just don't show new releases
+ ah
+ I checked to show only lts releases
+ Is it possible?
+ yeah, thanks
+ Strange, that it needs special actions in command line
+ failed to upgrade to 10.10 :( i found topic, where it is discussed. Imho, it would be nice to allow to resolve problems , e.g., via synaptic (it it allowes).
+ Just tried update-initramfs -u -k all, and got line: "grep: /boot/config-2.6.32-26-generic: No such file or directory". Usually i remove old kernels, for now i have 2.6.32-31 for generic and preempt. Of course, initramfs file is created. I removed item in /lib/modules, but it is helpless. I have nothing installed with version 2.6.32-26*
+ Can't find help in web search
+ sipior: it just seems, that something gone wrong for that version. I would like to find source. As for me it is not blocking thing

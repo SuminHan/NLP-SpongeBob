@@ -1,0 +1,5 @@
+ network not available,previously the wire network was working and i had problems with wireless.now neither is working
+ is there a "windows restore"equivalent in ubuntu 10.10?
+ bazhang: yes
+ bazhang: what is the commanf please?
+ bazhang: is it active by default?

@@ -1,0 +1,2 @@
+ i can't upgrade to 11.04 using the update manger whenever i click on upgrade it shows me an error "failed to download release note, check your internet connection" how can i fix this
+ isn't it unity-qt?

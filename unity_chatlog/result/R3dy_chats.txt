@@ -1,0 +1,23 @@
+ Trying to install JTR with 64bit support on 11.04 and getting an error on openssl/sha.h "file not found"
+ can't seam to figure out what libary I need to install
+ coz_: thx
+ I was missing libssl-dev
+ I was searching for openssl and that's why I didn't find it
+ with apt-cache
+ It did
+ thank y ou
+ does ubuntu use some special file other then /etc/profile
+ I'm trying to add directory to the PATH and it's not working
+ ikonia: two lines
+ PATH=$PATH:/home/username/bin
+ export PATH
+ I have executable scripts in that directory
+ but Iam not able to run them
+ genii-around: thanks
+ that helped
+ do I need to run that everry time I reboot
+ cause I thought after I killed my terminal and started a new one it would autmatically re-read the profile
+ gotcah sweet
+ thanks all!
+ anyone experiance any wacky USB issues in 11.04?
+ Just asking because I'm having issuse connecting mobile devices via usb

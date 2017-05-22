@@ -1,0 +1,1 @@
+ Has anyone noticed how mouse clicks sometimes don't register in 11.04?

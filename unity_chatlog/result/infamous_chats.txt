@@ -1,0 +1,8 @@
+ good morning/afternoon all
+ ask away ajin
+ so apt-get upgrade will upgrade the current os server 10.4 to 11.?? but what would one use to upgrade from server to desktop?
+ thank you knick trying now
+ ok knick the do returns no new releases found even with the --mode=desktop argument added any ideas
+ ubuntu 10.04.1 LTS
+ lucid
+ im going to try something thanks

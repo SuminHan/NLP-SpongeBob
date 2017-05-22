@@ -1,0 +1,6 @@
+ Did someone make a change to APT recently without passing it through quality control review or something? My mother did what she says was a "partial upgrade" a couple of days ago and found her Digikam missing (She's using Lubuntu with KDE bits) and now, when I try to re-install it, it refuses because things like kdebase-runtime aren't going to be installed rather than just pulling them in like it should.
+ Someone needs to write an IRC daemon which can implement "Too many nicks. You're kickbanned." BEFORE passing the message on to everyone.
+ Does anyone know of a way to ask apt-get for a list of which repo each broken package is coming from?
+ Aha! A website suggested trying with aptitude instead and it gave me an answer.
+ When aptitude suggested the same solution as apt-get and I picked "no", it then suggested downgrading half of KDE from maverick-security to maverick so the other half (from maverick) would accept it.
+ How do I change the framebuffer resolution on 11.04? It's giving me "Frequency out of range" on a 1440x900 widescreen and that makes fixing X11 troublesome when it breaks.

@@ -1,0 +1,1 @@
+ i get a strange bug, during boot my keyboard led is turning off and nothing will happen,if i press the power button the keyboard led will turn on and the bott continue

@@ -1,0 +1,4 @@
+ for the 1st time as I login, its 1720 users, ubuntu rockin' at peak today
+ well, why the Firefox in Ubuntu suddenly is with so low quality image rendering :? :/
+ how to make pidgin the default msging application in ubuntu LTS
+ the empathy simply sucks in IRC

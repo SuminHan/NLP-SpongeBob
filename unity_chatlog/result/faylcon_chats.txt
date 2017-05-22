@@ -1,0 +1,1 @@
+ just insalled 11.04 and it doesn't support my wireless card: BCM4318, 10.10 on another partition works just fine.

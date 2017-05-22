@@ -1,0 +1,917 @@
+ gerrin:  the xrandr tool perhaps. it may depend on your video chipset. My BIOS settings on my laptop also have such a setting.
+ varunvyas:  servers are taking a heavy load right now.
+ Live cd - just loaded the gnome classic desktop here. :() No Unity. heh.
+ Proberly due to my vdieo card not having 3d support perhaps.
+ dimkin:  sounds like you are uyo to date.
+ dimkin:  ive often insgtalled the beta. then updated the day befor release.. then dont update till a week after its released.. servers are to overloaded for that week
+ jiltdil:  no idea.
+ jiltdil:  i noticed the addational drivers tool. does not list anything for theis Nvidia Gefoirce 6150 I got.
+ !reset-panel
+ !resetpanel
+ I wonder if that works in 11.04 - proberly does
+ thien:  what filesystem is the partition?
+ !resetpanel | BlouBlou
+ BlouBlou:  try alt-f2 and  run gnome-panel
+ thien:  mount it. and chmod/chown the mountpoint (which will actually be chown/moding the root of the filesystem)
+ Witchsong_:  check some of the blog sites like OMGubuntu for  Unity tips and tricks perhaps.
+ thien:  do what? this channel is going by so fast my history buffer is gone.
+ BlouBlou:  run gnome-panel  via the apt-f2 feature perhaps.. or try that resetpanels factoid commands.
+ thien:  you dont.. You change permissions on the FILESYSTEM on the partition.
+ thien:  mount it. and chmod/chown the mountpoint (which will actually be chown/moding the root of the filesystem)
+ !permissions | thien
+ DarkStar1:  i dont think samba will auto do that.
+ damiano__:  try the service command perhaops? perhaps you need a sudo in there also..
+ damiano__:  check its logs -  check its configs to be sure it is logging. :)
+ johnjaylward:  basicaslly those applets got removed..  :) theres alternative indicator-applets youmay want to check out.
+ johnjaylward:  the OMGubuntu blog site has a list of them.
+ BlouBlou:  try 'metacity --replace'
+ I wonder if theres a FAQ url for tweaking unity in ways they dont want you to.... yet.
+ heedlu:  you install various indicator-applets. the old applets domnt work
+ bbl
+ Vardan:  check the ccsm unity plugin
+ m|kael:  they break each other i hear.
+ tesdsfsfdfds:  claddic gnome desktop is there..
+ classic :)
+ Soothsayer:  try killall nautilus, then rerun nautilus
+ http://www.omgubuntu.co.uk/2011/04/become-a-natty-power-user-in-no-time-using-this-unit-keyboard-shortcuts-wallpaper/
+ heh. thats handy...
+ coz_:  misssnamed file perhaps.
+ Vardan:  install what?
+ Vardan:  its not installed by default..
+ !ccsm
+ Glacia:  ssh ip.of.device.number
+ Glacia:  thats about all there is to it. :)
+ toggles:  ccsm has some settings in the unity plugin.
+ Glacia:  check the device. or scan your network with nmap or other tools.
+ !ccsm
+ Glacia:  you need a ssh server on the phone.  and theres tools for android to show the phones ip#.
+ KNUBBIG:  /exec  - check the irssi docs for mor einfo  on it.
+ !find mirrorselect
+ using the launcher - guide i just saw ---> http://omgubuntu.co.uk/natty/#launcher
+ Glacia:  thats the normal ssh way yes.
+ Glacia:  you need ssh client installed  :) but thats a default on ubuntu systems
+ Glacia:  and the phone needs a ssh server installed.
+ janjiss:  quick and dirty way. run it from /etc/rc.local
+ Glacia:  i  use some android specific irc clients.
+ janjiss:  no.. edit rc.local add it near the end.
+ jw_:  servers are getting a heavy load.
+ Soothsayer:  i was during beta. not tried it this week
+ mikebot:  ive seen that on Other brand PCs also.
+ shaneo_:  use the ppa-purge command to remove it prehaps.. and reinstall ubuntu-desktop
+ olefowdie:  you can do a full normal install to a flash drive - if its big enough
+ lars-eirik:  when you enter your user name. No menus at the bottom of the gdm screen?
+ Soothsayer:  normal classic gnome lets me do that. but ive not tried Unity on my dual monitor setup. You coul dinstall a dock like docky or awn, or others
+ Soothsayer:  most docks have that setting.
+ Soothsayer:  since it auto hidea. i dont see much reason to get rid of it.
+ Soothsayer:  try them all out.
+ Glacia:  you need a ssh server on whatever you are connecting TO...  ubuntu comes with a ssh CLIENT..
+ !ssh | Glacia
+ inflex:  i just had that happen to my usb mouse on the live cd.
+ Al-Bawi:  servers are hitting heavy load. and are not stable.
+ nmvictor:  demand a refund.
+ Lubuntu uses openbox - a window manager. Not a window decorator.
+ jatt:  every non LTS basically fits that.
+ TER0RR:  i use 64bit on 64bit systems.
+ soyo:  that feature has been  there for ages..  just not  the default settings.
+ soyo:  i hate it and always disable it.
+ Unity2d seems to work decent for my low end cards
+ sect114:  could be servers are overloaded.
+ Thriky:  good idea to use screen when doiung that sort of task
+ Thriky:  of course if screen gets updated... and is killed..
+ Thriky:  ive seen people get locked out of systems doing that yes. :)
+ bbl
+ gsp2009:  ive heard that dual screen + unity can be quirky
+ http://www.omgubuntu.co.uk/2011/04/become-a-natty-power-user-in-no-time-using-this-unit-keyboard-shortcuts-wallpaper/   Worth checking out for unity beginners
+ v_v:  install the unity2d package perhaps.
+ v_v:  or install the proper 3d drivers for the laptop
+ lgp171188:  perhaps theres some plugins it needs installed.
+ lgp171188:  and disk space.
+ NyvenZA:  you could edit the .dmrc file I guess.. but im not sure what belongs in there for classic desktop
+ rpk:  i just alt-tab a lot.
+ rpk:  the omgubuntu blog site has a wallpaper- keyboard shortcuts thing.  may be in there.
+ rpk:  if you have 3 terminals  open and 1 icon. and click on that icon it should do a layout of all 3.
+ shane4ubuntu1:  the ombubuntu blog site has a wallpaper image listing the shortcuts
+ shane4ubuntu1:  look closely.. the scroll bar sort of auto-hide in a lot of apps now
+ shane4ubuntu1:  if full screened. they are proberly locked. you would need to un-max them  Perhaps a compiz keybinding coulkd do it without unmaxing them first
+ shane4ubuntu1:  i dont use pidgin. so no idea. :) could be a bug.
+ !classic
+ sounds like we need a new faq factoid. :)
+ DasEi:  heh.. never noticed that.. looking now.
+ bbl
+ jaymeskeller:  i noticed some of my USB  devices not working/seen untill i unplug/plug them back in. :(
+ charlie_:  i think thats handled by the xubuntus file manager.   But it may be an all or nothing 'show icons of not' setting.  theres #xubuntu you can ask
+ Asad2005:  the icontray thing i think has basically been removed.. i dont think alltray would work at all
+ wad under the power button at top right.. for some reason
+ Im still not sure of the logic of putting that menu item under the Power button..
+ maximm:  i keep hearing it has issues..
+ Nyromith:  it seems Lubuntu just 11.04 got released also. It works niocely on netbooks as well.
+ aperson:  bash is expanding the variables once vs twice i think
+ !fonts
+ Ahmuck:  under the 'power button' theres a menu item
+ Ahmuck:  dont ask me why they put it there.
+ Goliath:  http://www.omgubuntu.co.uk/2011/04/10-things-to-do-after-installing-ubuntu-11-04/
+ ceo:  or do from command line 'wine /path/to/installer.exe'
+ yuskhanzab:  not seen/heard of a way to unlock it.. yet.
+ Goliath:  with the package manager tools.
+ Goliath:  or sudo apt-get update, sudo apt-get upgrade
+ acidflash:  check   the services /etc/init/WHATEVER.conf file and edit it perhaps.
+ MnCC:  gnome classic is on the login/gdm screen as an option
+ Ahmuck:  install ccsm and check out the unity plugin.
+ Ahmuck:  not seen that option
+ remlabm:  yes i saw the torrents of it.. not sure how it differs from the desktop ed. now.
+ anyone else notice theres a netbook and desktop torrent files. or are they the same iso now?
+ Pici:  so its Not supposed to be there i take it?
+ Goliath:  servers are massivbly loaded right now.. so any errors may be due to them being down/slow
+ Ahmuck:  not really any way to customize it. that ive seen
+ Ahmuck:  i imagine there will be articals on doing it in a few days
+ Goliath:  you mean make your own repository?
+ shaneo:  xchat scripts would be loaded by xchat i imagine.  You may want to check the xchat homepage/docs. and #xchat
+ Goliath:  they are all experiencing high load.
+ Ahmuck:  you mean the left side panel?
+ Ahmuck:  not seen a way to hide those yet either.
+ NyvenZA:   i just install the unity2d package and select it at the GDM screen
+ Goliath:  http://www.omgubuntu.co.uk/2011/04/10-things-to-do-after-installing-ubuntu-11-04/  has a link to do that.. no need to type anything. its 'ubuntu-restricted-extras' package i belive.
+ NyvenZA:  unity-2d  :)
+ logical name for a change
+ try apt-cache search unity
+ or the TAB completion feature. heh
+ NyvenZA:  your .dmrc file perhaps. No idea what it should be.
+ anyone else noticed some weirdness in the 'Applications lens' (in the left side bar the mag glass with the +)  Its Got 'apps availiable for download' and for some reason its showing 'xubuntu-restricted-extras' whats the logic behind showing me that :)
+ A_J:  you cant upgrade from 32bit to 64
+ bp0:  you can mount ISO files if you need to get to their contents..  what are youy trying to do with cdemu?
+ akashm1990:  eitehr one shoudl work. tar.gz you can install inyour users home dir.
+ robin0800:  he has no login/gdm dont work. :() if you are using unity-2d you could tell him whats in your .dmrc file.
+ ubuntu_user:  the installer can resize existing partitions to make a new one  you can install too. Unles syou have a really weird drive layout
+ ubuntu_user:  ubuntu installs to a partition.  it needs to resize what you got. to make a new partition. that can take quite a bit of time  - depending on yoru system.
+ ubuntu_user:  you could use windows to resize your windows partitions tomake some 'unallocated' space and tell ubuntu to install to the unalocated space
+ Vustom:  yes it is down here.
+ Vustom:  i tried it abouit 5 min ago.. got timeouts
+ mikebeecham:  i dont think you do. you could play with the CCSM settings on the general tab
+ A_J:  yes.
+ flametai1:  check th GDM login screen. see if theres a unity/gnome-classic items
+ flametai1:  ubutu is unity.. classic is old gnome
+ necreo:  right cliock  on the title - use the menu items
+ flametai1:  you need your 3d drivers for your video card
+ flametai1:  unity uses compiz.. unity-2d does not.
+ nyquist333:  some compiz settings can break unity it seems.
+ complaining about unity is not worth the hassle. :)
+ middle:  yes it will.
+ nyquist333:  thers only one set of compiz settings.. so yes. one would affect the other I think.
+ nyquist333:  if you dont want it.. select the classic desktop
+ Oday:  i always have to google for scp examples.  its somthing liek scp user@host:/home/username otheruser@otherhost:/path/to/go
+ Aer:  i think grub gets updated automatically after you remove them.
+ _Neytiri_:  proberly not. they could always just delete the .history file.
+ _Neytiri_:  theres a limit to that size of the file. they could just write till its hit its limit i guess.. I dont see the point in this task really...
+ Desqwewehyhg:  at boot time.. (no X needed>?) or when a usewr logs in?
+ Desqwewehyhg:  for a single user. theres the Autorun directory in .config  (I think thats where its at now)
+ !autorun
+ !autostart
+ Theres a system wide autostart dir also i belive.
+ tase:  due to the way Openoffice was being handled by Sun (and the company that now owns sun)
+ Factoid is out of dat4e now it seems. :)
+ !fixgrub | badraven
+ badraven:  install windows to whatever free partions you have ready for it. reinstall grub loader.
+ badraven:  you can make a rescue-grub booting flash drive. to make that 2nd task a littl easier.
+ badraven:  thats how i do it. each os has its own HD.
+ badraven:  making sure windows does NOT write to the wrong MBR may be the problem. You could just Unplug the linux HD.
+ plummerb:  there seems to be known issues on unity and 2+ monitors.
+ badraven:  if you Unplug the linux hd.. then you just install windows normally. No special stuff needed.
+ AndroUser:  i think you have heard wrong. WINE lets you run MANY windows apps.. as for android apps.  we...
+ AndroUser:  theres proberly some ways to  do it. in an emulator or somthing.
+ Phalanx1234:  you are not trying to fsck a mounted filesystem are you?
+ Phalanx1234:  you may want to try checking it from a live cd.
+ Phalanx1234:  check output of mount command - be double sure its not mounted..  could be theres some confion in the config files.
+ Phalanx1234:  i seem to recall some bug report  about a topic similer to this. but  that was a few days ago.
+ tomatto_:  be sure you got the proper 3d drvers working on the first one.. as for the second..  tried reinstalling grub from a live cd?
+ kkal:  if you have home on its own partition. you can keep it untouched.
+ raw_recruit:   Medibuntu is just a repository.  Use the package manager to remove whatever packages you installed from it.
+ kkal:  i keep my /home/ on its own hard drive. :)
+ saju_m:  clarify what you mean. You can select classic (old style) desktop or unity.(ubuntu) at the GDM login screen
+ You can always enable the unity-2d for virtual machines.
+ PresuntoRJ:  never noticed.
+ saju_m:  on the LOGIN screen theres a menu at the bottom after you enter your user name
+ bI would think most unity settings are in gconf, or where compiz keepos theirs..
+ Curly_Q:  if you can handle  not shareing the current visible desktop. theres dozens of vnc servers out there.
+ Curly_Q:  i normally only use the more normal vnc servers. Ones that dont share the current visible desktop. such as tightvnc, or vnc4server, i think theres otheres out there also. Theres also FreeNX that serves a similer purpose.
+ poipoi:  i bet it would be dog slow.
+ Curly_Q:  it all depoends on how you are going to be using the remote desktop
+ PW-toXic:  X auto configures for the most part. make a xorg.conf if you want one
+ Curly_Q:  you will want to block the vnc ports via a firewall or router. in case anyone tries to scan you and get in
+ PW-toXic:  you need to get the Vbox guest addations installed I imagine.
+ Curly_Q:  vnc is not safe to use over the wild and dirty internet.
+ Curly_Q:  if you have to use it over the internet. use ssh tunels.
+ Curly_Q:  freenx works much better over the internet, and is mor esecure.. but harder to setup.
+ Curly_Q:  i dont use x11vnc. so no idea.  I dont use vnc the way x11vnc works.
+ Curly_Q:  it all depends on how you want to use the tool.
+ kurtul:  emachines makes a lot of machines...
+ kurtul:  a 1 gb ram box. should work.
+ Cursarion:  unetbootin can do some sort of live-install to a hard drive using the iso file. but i dont reccomend it.
+ Cursarion:  you could do that to one partition.. then boot it. and do a normal install to a differnt partition i guess.
+ Cursarion:  or you could some how set up grub2 to boot the iso file.
+ Cursarion:  grub2 can boot an ISO file - if you set it up right.
+ sl33k_:  they should work ok.
+ sl33k_:  i only use vbox.
+ jaidotsh:  differnt chipsets by broadcom have differnt degrees of support and possible issues.
+ !vbox
+ sl33k_:  go read the vbox manual at its homepage also
+ Cursarion:  you could also use vbox or vmware and mount a 'real' hard disk partition and isntall to that..
+ Tongpow:  install compiz package perhaps? then try install/running ccsm.
+ Cursarion:  you could partiton the 2nd hd. to a little partition, use unetbootin - do a live install to the partiton from the iso file. boot that  partiton. then do a normal install to the rest of the HD. perhaps.
+ Mahjongg:  menu item whenb you click on the power button at top right
+ sandhu:  perhaps its asking for the sudo password to mount them
+ trailoryo:  the omgubuntu blog site has a cheatsheet wallpaper that shows the keybindings.. askubuntu web site also has a list
+ budo:  they have #puppylinux i belive.
+ budo:  its not ubuntu. so its OT for here.
+ budo:  they got forums also
+ budo:  ive basically given up on Puppylinux. except for very very low end machines and special cases
+ Tuplad:  whats your video chipset?
+ Tuplad:  downloaded from what site? I use the drivers included in the repositories.. not any from nvidia.com
+ Tuplad:  no idea on those. I just use the ones from the repos.
+ that FF4 factouid needs updated a little bit. :)
+ BKTech86:  edit the /etc/grub.d/40_custom file - is one way.
+ nerdshell:  it wont auto-upgrade i belive. and it wont install for everyone on the system,
+ !info global-menu
+ nerdshell:  use teh PPA method.. forget the tar.gz
+ BKTech86:  sda = hd1 i think. sda2 = 2 I think.. grub2 starts ONE at 1,, and the other at 0 (whioch i always forget which way)
+ nerdshell:  its NOT the source.. its a precompiled binary.
+ nerdshell:  extract it and run firefox fgrom the direcyory it makes.. if you want to.
+ nerdshell:  you are better off using the PPA
+ ajin:  its not what people are used to. and it  makes them change their 'work flow'
+ nerdshell:  in that dir. You run the proper binary. you dont 'install' it..  you run it from that Directory
+ ajin:  and the fact unity basically refuses to run on my systmes untill i install the proper nvidia drivers.. is really annoying
+ nerdshell:  you can install it system wide.. and it will update...
+ redunndancy:  select classic desktop at the GDM login for the old gnome.
+ nerdshell:  for all users..
+ nerdshell:  in 11.04 they do i belive..
+ !info firefox
+ !pae
+ ive heard that the pae kernel is a bit slower then an actual 64bit kernel however.. (i never use pae)
+ nerdshell:  if its in your users home.. it wont be for all users.
+ nerdshell:  its best to use the Repositories or PPA's
+ !bugs | cousin_mario
+ medfly:  wine  has its own configs where you can tell it to look for a 'fake' cd.
+ nerdshell:   it would take some work - nomrlly such things go to /opt/
+ nerdshell:  PPA's use debs . they are a expansion of the normal reposoptury system,
+ ajaytripi:  means little to me. You did check the iso image befor and after burning?
+ ajaytripi:  you mean it worked on a differnt machine?
+ Hmm.. pulse audio uses alsa. its a layer above alsa. so exactly what did you insrtall quibbler?
+ medfly:  you can copy all files from the iso to your wine's c: and install them from there. but that wont help disk copy protection
+ medfly:  no-cd fix's may be needed
+ Barridus:  ive seen applets and commands to do it.. but never needed to.
+ aLky:  its a work in progress.
+ jw_ the mbr of the disk you plan on booting. ie: sda  if you only have 1 hd.
+ Barridus:  thats correct. I use unity2d on some of my machines
+ unity2d does not use compiz. I think it also uses the QT libs. (not sure where i read that at)
+ jw_:  no idea on raid.
+ aLky:  no idea. Perhaps never by default..
+ aLky:  the blog/discussions  basically they will stick with Unity for the time being. unity does run on top of gnome. Its an alternative shell to the gnome3 shell.
+ raven_:  theres exif tools in the repos. you may nbeed to write a script  for the task.
+ !info apache2
+ Abhijit:  its a meta package. so it will be the size of whatever it needs to pull in. which will depend on what you allready have installed.
+ Abhijit:  the .deb would be pointless. all the deb does is 'depend' on other packages.. you would need all the packagves it depends on as well. or else you download them when you install the deb.
+ raven_:  apt-cache search exif      theres several of them i recall seeing. I rarely use them
+ !aptoncd | Abhijit
+ Abhijit:  if you are on the same lan. You can set up an apt-cacher-ng server to cach all the packagfes for the whole lan. and save download time/ussage
+ !9.04
+ Abhijit:  download them again. if they are gone.. they are gone.
+ ph88:  clarify that. Im not sure a proxy does that sort of task..
+ Tuplad:  whats your video chipset?
+ http://askubuntu.com/questions/38449/unity-desktop-does-not-load-it-switches-to-classic-mode
+ Tuplad:  the drivers from the repos dont work? You could try the answers given here --> ^^^
+ Tuplad:  you are upgradeing? or what exactly? theres Unity-2d you could use I guess
+ oneliner:  unity seem to have some issues with multi monitor support. sounds like its just crashing on you
+ Tuplad:  unity is installed by default.. and it needs the 3d drivers..
+ aLky:  teamviewer exists for ubuntu/linux
+ oneliner:  personally - im testing out Lubuntu  for the time being.
+ lopyshok:  try alt-tab to see if it pops up?
+ BBL
+ !fisn | bulk12
+ !fishing | bulk12
+ raven_:  perhaps this can do that.. (it seems to do the reverse from its description) --> renrot - Rename and rotate files according to EXIF tags
+ raven_:  also pyrenamer is a bulk rname tool. it comes up when i search for exif, it may have some features
+ raven_:  if you can find a command to change the tags from the command line. You could write a script to read the file name, and parse the name and set the exif info. I dont see any exif writeing tools in my quick looking at the package manager.
+ raven_:  theres patch - that may do it.. it seems to do a lot.
+ raven_:  you make a script that does somthing for each file. and have the script parse the filename and extract the date.
+ !info patch
+ !info phatch
+ pHatch :)
+ warp_:  eww..  that could be bad.
+ oneliner_:  sudo service gdm restart
+ Nighthwk:  the file manager can do ftp
+ ibeekman:  ive seen it more full in here. :)
+ Jonii2:  make sure yu got the proper video drivers installed.
+ Jonii2:  ive also had issues with some usb things not working Untill i unplug/pluyg them back in
+ Jonii2:  use the console and check.
+ Jonii2:  you could unplug/lug the usb things at the login screen and they may start working
+ ibeekman:  make backups first.
+ Sledge:  why not use the flash package?
+ KM0201:  I want one in plaid!
+ !aptoncd | coder2
+ pr3d4t0r:  dapper? i think its time to upgrade.  sounds like HW issues to me also.
+ coder2:  clarify what you want to do exactly
+ pr3d4t0r:  given how easy it is to swap out a NIC. :)  in the time to trouble shoot. you could have it done 10 times.
+ pr3d4t0r:  somthing seems logically wrong. :) Your Home is in San Franscido.. but you dont live at home? :)
+ coder2:  i would suggest a clean install and you dont backup your package files to 11.04 you reinstall the ones you have installed.
+ !clone | coder2
+ pr3d4t0r:  you can if you elable the archive servers. I forget the names of them. BUt that old an install.. i would do a clean install
+ pr3d4t0r:  you enable the right repos and you can still upgrade i think. but i dont recall how
+ !eol
+ pr3d4t0r:  given that a upgrade will take forever... and may fail.
+ pr3d4t0r:  i would keep /home/ and do a clean install
+ pr3d4t0r:  get 3 :)
+ pr3d4t0r:  moar is better. :)
+ Hotmedal:  some extra plugins used by Unity i imagine. Cube can break unity i think. Or so i notices on the askubuntu web site
+ http://askubuntu.com/questions/38432/how-to-get-compiz-cube-effect-to-work
+ askubuntu - is going to be so handy. :)
+ the normal desktop cd  is for laptops and netbooks and desktop machines.
+ the alt-cd is for problem machines, low ram, or other special cases
+ uninspired:  unity has issues with dual monitors it seems. Ive not tried that part yet.
+ uninspired:  i do recall some months back when i was messing with Global menu. there being some settings for it.. somewhere.
+ but really. i dont care for global many. :)  so did not reserach it much.
+ uninspired:  you could reorder your mionitors i guess.
+ Unity - 'warning men at work' :)
+ uninspired:   I think the panel stuff apears on the primary monitor. at least thats what my nvidia-settings tool calls it.
+ uninspired:  perhaps check --> http://askubuntu.com/search?q=dual+monitor
+ ricardo:  i get better battery life under windows on my laptop. but only if i enable its extreme 'eco' mode feature. which  slows it down so much its barely useable. :)
+ MattAAron:  if the pc can fit them all in.  and they are nvidia - just use the nvidia settings tool.
+ MattAAron:  you will need a big desk. :)
+ ikonia:  ive used it with 3 monitors.  Not lately but about a year ago i did.
+ ikonia:  one card was onboard. other was an 8800gtsxxx  i just ran it that way for a few days . so dont recall.
+ ikonia:  i do think compiz was working with it. I recall the cube effect being very very weird.
+ MnCC:  it would be chipsets supported by X/Ubuntu.
+ ikonia:  it may not have had 3d. i rarely use that stuff. I just wanted wide scrren. I also had issues where it would work.. but when i rebooted. it wold break. untill i reran nvidia-settings and restarted X.
+ MnCC:  you dont have the drivers installed for 3d support - is the #1 answer to that question
+ GuyCanada:  hdmi video or are you refering to audio?
+ !info unity-2d
+ MnCC:  run the addational-drivers tool and see what it says.
+ ikonia:  I cant even test. I had to pull out my 8800 to plug in a usb-3 card. :) and now the pc is now a lot quieter heh.
+ MnCC:  what is yoru video chipset?
+ russjr08:  that guide may be a little outof date with the new releases.
+ GuyCanada:  changeing displays on the fly. Hmm. once on my laptop - i had to enable the monitor using the monitors setting tool. and I recall needing to be plugged into the external when i powered up. Or else it would be a little flakey
+ MnCC:  Most intel drivers are allready included. You may want to check the forums for that exact chipset - to see if theres some known bugs going on.
+ thiebaude:  i use 64bit on all my machines that can do 64bit. :) 5 out of 6.
+ MnCC:  thers the askubuntu web site now also
+ thiebaude:  i got one box cacheing the apt packages for the rest of the lan. so i save space/time by doing all 64 when i can.
+ GuyCanada:  You did try running the nvidia-settings tool?
+ thiebaude:  ive never really noticed it using any more. In theory it does.
+ !eclipse
+ GuyCanada:  Hmm. sounds like the drive is not seeing it at all. that may be the core of the whole problem.
+ Kevin147:  theres some indicator-applets out there that do the weather. saw one mentioned at the omgubuntu blog site.
+ mrchak:  you can access your old ubuntu install.  and copy stuff elsewhere.
+ mrchak:  it dosent show up in the places menu? You could try mounting it by hand.
+ snowrichard:  i get a similer error. 'out of range' - i disabled the plymouth splash, and made grub use a normal text interface.
+ snowrichard:  i use the quiet nosplash  option. in /etc/default/grub  and theres a setting commented to enable the text/simple grub menu also.
+ GuyCanada:  the driver is proberly not letting it do it.  OR you need to do that fn-f8 THEN run the nvidia-settings tool. and it may see it.
+ GuyCanada:  perhpas the laptop is turning it Off. so the driver is not seeing it to let you configure it.
+ GuyCanada:   interesting. Not try the nvidia-settings tool?
+ now try....
+ jasonmchristos:  sudo service gdm restart would kill/restart gnome
+ GuyCanada:  theres also the command to try 'nvidia-xconfig'  theres an -A option (i think) that tells it to make an xorg.conf to enable all monitors. Its been ages since ive had to use it, you may want to check its --help output.
+ _Neytiri_:  Big No. :)
+ snowrichard:  great.. err.. wjhat mesage? :)
+ I just got a 'teacher badge' on the askubuntu web site. heh.
+ ph88:  you mean a crossover cable? does it get an ip#?
+ snowrichard:  I have the attention span of a newt.  :)
+ ph88:  i may have to chase after the grandkids at a moments notice. so i often run off unexpectedly.
+ ph88:  if you are using a crossover cable. You mauy need to install a dhcp server, or set up the NAS with a static ip.
+ ph88:  a dns server is not installed by default. so  Nope it wont. :) i always set up my NAS's and so forth with static ip's in the .200 range. so i can tell them from my other machines
+ Mathuin:  there is no Netbook ISO.
+ Mathuin:  that link is a mistake.
+ Mathuin:  thats what i hear. theres no x86 netbook edition any more. desktop ed. covers both.
+ Mathuin:  it should. test with a usb flash live setup perhaps>?
+ Mathuin:  i never upgrade. :)
+ Sledge:  the omgubuntu blog site has a wallpaper-cheat sheet of all the shortcut keys.
+ I normally fullscreen all my apps and alt-tab all day long. :) so not much differance for me..
+ GuyCanada:  'sudo service gdm restart' should kill and restart X.
+ pcrii:  it says that i think when you just installed it. but not yet rebooted.
+ glaceon_:  install ssh server on one,, install ssh client on others.. ssh to the ip of the server..
+ glaceon_:  so if you had another pc on the lan. you could 'ssh the.ip.of.your.server' and hafe a shell on the server.
+ theres some movehome factoid i recall
+ !movehome
+ Edd:  i saw that on some OTHER disrto then ubuntu once. you are having this issue in 11.04 ?
+ cabbagemoonlight:  a ssh tunnle is the normal way to secure it.
+ !vnc | cabbagemoonlight
+ Soothsayer:  you could make a proper .desktop file for it. there should be 1000's of .desktop files for other apps to use as an example
+ !ccsm
+ crystal-cola:  hold down alt, click, move it around  is another way
+ ezro:  system wide? or user specific?
+  /usr/share/themes/
+ or /home/username/.themes
+ notlistening:  I thought it was a 'per window' or 'entire desktop' setting.
+ notlistening:  some compiz settings/plugins can break unity. so be carefull with them :)
+ notlistening:  eyecandy and a few other looks.
+ notlistening:  the keybindings will also be differnt so some of the things using compiz wont be there.
+ Ady^:  move what icons where?
+ Ady^:  click, hold a moment or 2. and then you can drag them around on the side panel.
+ omidp:  it should.
+ Ady^:  the menus for vlc show up here when i move to the top panel.
+ Ady^:  they just dont appear untill i move to the panel.
+ Ultimate_Chaos:  theres the askubuntu web site that is getting a lot of focus ritght now.
+ Ultimate_Chaos:  ive not even noticed your actual question/problem in here.
+ Ultimate_Chaos:  as a test. I would try making a new user. see if the slowness also affects them.
+ nmaxchat:  theres some reposuitories for installing it, ive seen.
+ !dropbox
+ nmaxchat:  I think theres a guide at the OMGubuntu blog site.
+ nmaxchat:  i do recall there being some issue with dropbox needing a delay to launch to work properly. I must of read abouit that at the omgubuntu site.
+ Ultimate_Chaos:  if the New account works.. and the old is slow.. then that points to some user config setting in their home.  You could clean out all the old settings i guess.
+ Ultimate_Chaos:  you could move all your varios .DIRS to some extra dir and then log out/back in. that will reset everything back to defaults. but you will loose your old settings for everything.
+ Ultimate_Chaos:  you could copy them one by one back from the backup dir untill youi fiigure out what one is the issue.
+ nmaxchat:  some info about dropbox -> http://www.webupd8.org/2011/04/things-to-tweak-fix-after-installing.html
+ Ultimate_Chaos:  that whole 'try a new user' trick - helps eliminate stuff :)
+ !downgrade
+ nmaxchat:  thats your home dir.. /home/yoruusername   ie:  ~
+ nmaxchat:  your username seems to be nicholas in this case :)
+ nmaxchat:  yes. thats bash basics.. and rember CASE is Imporntant..   Downloads and downloads are 2 differnt dirs/files
+ !terminal | nmaxchat
+ Of course the LTS does not have the latest versions of things like the newer releases do.
+ nmaxchat:  a .deb is normally not a .tar.gz  what is it exactly you have?
+ nmaxchat:  'sudo dpkg -i foo.deb' or 'sudo gdebi foo.deb' is the normal way.
+ zabomber:  you have what chipset? have you installed the proper 3d drivers for it?
+ ajah:  select the classic desktop at the GDM login screen if you want the old 'classic' gnome desktop.
+ zabomber:  vbox manual has details on how to install the guest addations i belive.  then theres the vbox guides at...
+ !vbox
+ ajah:  when you log out.  you enter your user name. then theres a menu at the bottom. select 'classic'
+ zabomber:  whats the actual vbox issue?
+ ajah:  and its not clear what you are asking about. You mean the top panel thats always been in gnome? or the left side panel - thats the new unity launcher thing..
+ ajah:  you really dont tweak unity much at this time.
+ nmaxchat:  dropbox was easy to install. :) one deb. then a tweak script at the webupd8 site.
+ zabomber:  unity needs 3d driovers.  it does not live vbox or vmware muich. try the unity-2d package.
+ nmaxchat:  get deb here -> https://www.dropbox.com/downloading?os=lnx
+ nmaxchat:  install it.. get it going..  then run the script from here --> http://www.webupd8.org/2011/03/get-dropbox-appindicator-to-work-in.html
+ gregors:  that will proberly break so many things...
+ nmaxchat:  you downloaded the .deb ?
+ nmaxchat:  when i clicked on the download link. it automatically opened in the software center here. all i had to do was click install. :)
+ nmaxchat:  https://www.dropbox.com/download?dl=packages/nautilus-dropbox_0.6.7_i386.deb
+ I find compiz getting downplayed a good thing. - Im sick of the cube. :)
+ constl:  i keep /home/ on its own partiin. and do clean installs.
+ constl:  upgrades can be problmantic.. depending on what you do with your systems
+ someone just asked how to reset unity (i think) just saw this URL --> http://www.webupd8.org/2011/04/how-to-reset-unity-launcher-icons-or.html
+ ajah:  not sure what you mean. You want the preferances tool? its under a menu item under the power button now.
+ atlef:  you are lucky from what ive seen in here. :)
+ jarek:  i always stick with nvidia. but Unity is having some issues  with nvidia and ati both at this time. it all depends on the details. :(
+ jarek:  in order i perfer -->   Nvidia , Intel, ATI,  (then i stop..)  Avoid SIS
+ jarek:  i perfer nvidia over them. moar power. :) but it depends on your needs.
+ jarek:  if you dont game.. intel is fine.
+ jarek: --> it depends on your needs. and budget. :) You decide whatyou need.
+ jarek: even some intel has had issues in 11.04 from what ive seen in here.
+ jarek:  theres always a chance for some issues. You could take a 11.04 live cd to the store and try it out.
+ dont just avoid SiS.. run away from SiS like it was a...err.. I cant think of anything nasty enough...
+ Ilya:  try -> http://www.webupd8.org/2011/04/how-to-reset-unity-launcher-icons-or.html
+ Ilya:  i just saw the artical and am reading it now..
+ Ilya:  it says how to reset compiz and other things also
+ Ilya:  seems to be 2 commands...
+ gconftool-2 --recursive-unset /apps/compiz-1
+ unity --reset
+ pksadiq:  the bot seems to hate me whenever i try to add factoids. :)
+ scotty^:  worse then the plague :)
+ scotty^:  i have had some issues with  Noveau. But this box does seem to be working with them now.. or else it finally installed the nvidia drivers.
+ scotty^:  oh wait. The nvidia drivers finally worked on this box. :) heh..
+ Simpson_2:  it will become Unity by default - theres the classic gnome desktop still selectable at the LOGIN screen
+ Viking667:  the dfault Unity desktop you mean?
+ Viking667:  could be some compiz settings are fighting with it.
+ gconftool-2 --recursive-unset /apps/compiz-1
+ unity --reset
+ that may not work.. Hmm.
+ blog sites got videos of it. :) left side panel. and top panel.
+ Simpson_2:  they may like i tbetter.. for now theres the classic desktop.
+ jerriy:  i think its not been getting much attention for quiet some time.
+ jerriy:  the whold idea of widgits on the desktop has slowly been fadeing away. screenlets has always been flakey for me. Now it just seems to be dieing off.
+ jerriy:  google has their own widgit stuff. opera does also. there may be some others i dont recall.
+ jerriy:  yes..
+ jodlajodla_:  theres the .gconf* dirs also
+ jodlajodla_:  does it affect a newly made user also? if so - that would point to a system setting, or driver issue.
+ brandonc503:  how are you making the user, and why/how  are you changeing their home?
+ incorrect:  some apps can break/fight with the global menu yes. some apps dont follow the proper standard way of doing things from what i recall.
+ incorrect:  firefox for example has a extension to make it play nice with the gloval menu.
+ ubuntu:  if they are next to each other yes. You may have to move some other partitons around
+ ubuntu:  you can combine them by resizeing One to take up all the space of the other. :)
+ ubuntu:  in your case. resize sda6 to take it up. then shrink it back down.
+ 1mb unallocatged - due to 'round to 1mb boundry'  'common practice' these days
+ adding the 979mb to the sda6 shouldent take much time i woudl think.
+ its shrinking fs's that take up all the time .
+ ubuntu:  that will take some work.. since they are basically at opposite ends of the hard drive
+ Mole:  you could edit your .dmrc file then log out/back in. but you may as well use gdm to change it.
+ Mole:  log out. use gdm menus.
+ i think thers some default-session tool somewhere.. but gdm is the easiest way.
+ Trashi:  you see no menus? they shoudl appar in the top bar when you mouse up there.
+ Mole:  its in your home dir. but really..just log out. enter your user name. and select the session you want in the menus at the bottom. thats the easiest way
+ Trashi:  thats weird. Other apps show a menu up there? or do no menus appear for anything?
+ Mole:  sudo service gdm restart   will force a lot oug and restart gdm.   theres some  .nvidia?? file that has your users settings in there you could rename.
+  /home/willis/.dmrc  is my dmrc. :) its just a text file with a few lines.
+ Mole:  it could be autologin skips it. I never use autologin
+  pastebinit .dmrc
+ http://paste.ubuntu.com/601680/
+ Mole:  alt-f2
+ Mole:  or go to the console - alt-ctrl-f1
+ Mole:  the  .nvidia-settings-rc
+ Mole:  the  .nvidia-settings-rc  file seems to store per-user nvidia settings
+ afeder:  as you were using it? or just now on login?
+ afeder:  could be ou some how defaulted to unity-2d perhaps?
+ afeder:  at the GDM login screen. enter user name. see what session is selected at biottom
+ lehel_:  some teaks -> http://www.webupd8.org/2011/04/things-to-tweak-fix-after-installing.html
+ !dash
+ heh wrong dash factoid
+ Daniel0108:  check with sudo iptables --list to see if thers any rules. I would find it a nifty fireqwall rule that would block irc except for freenode.
+ Guest153289:  sounds like the window decortator is not running.
+ Guest153289:  you are saying thers no title bar or buttons for any windows?
+ Daniel0108:  if thers no rules. then its not your firewall settings on the pc.
+ Herbs:  iptables is iptables.. as far as i know
+ Herbs:  the firewall tools are just front ends to iptables commands as far as  know. The actual iptables and modules are the same.
+ nukem:  becuase thers no root password set by default. root user is locked down.
+ !sudo | nukem
+ root user password - is a rather trivial reason to decide on a disrto.
+ nukem:  ones mentioned above
+ nukem:  you can always set the root users password. but its not reccomended. and in ubuntu - not needed
+ nukem:  I think you need to do more reserch then. Root is not disabled.. its locked down.
+ nukem:  You cant directly login as root. root user is still there. You just use sudo as needed to do root tasks
+ nukem:  you could do it in other disrots i imagine.. i dont bother with other disrtos.
+ Herbs:  if you know what you are doing.. they all should work with sudo
+ nukem:  have a nice day then.. goodby
+ Herbs:  cant say that ive ever had an issue with samba shares.
+ nukem:  i said you dont need to set the paswsword. theres no need to login directly as root.
+ you definatly dont want to logint o X as root.
+ wheres more to sudo then just somthing  to add another layer to get to root. :)
+ Daniel0108:  flush all the firewall rules.. You said there were none allready.
+ Daniel0108:  what other firewalls? i dont see much point in layers of firewalls really :)
+ !firewall
+ Zeit|awy:  that dont work in ubuntu.
+ Zeit|awy:  use sudo -i
+ Daniel0108:  ufw is a front end to iptables. the iptables command would show the rules ufw made.
+ Zeit|awy:  since.. always.. as far as i know.
+ those rules would get reinstalled on reboot Herbs  i belive.
+ using iptables command directly bypassed the normal rule set.
+ flush all your troubles away :)
+ wujie:  demand a refund.
+ I still cant imagine what sort of Firewall rule would block other IRC networks but not freenode. Unless is some port range. or they require IDENTD
+ karthick87:  for the whole drive? or in the users home?
+ wujie:  if you have a support question - please state it.
+ Zeit|awy:  and setting a root password is definatly not needed..
+ Zeit|awy:  and not reccomended or advised or supported by this channel
+ karthick87:  via command line 'du -hs' perhaps.
+ karthick87:  via command line 'du -hs /' perhaps.
+ ubuntu345332:  you can edit the syslinux.cfg files on th pendrive. or hit the space key when it boots and you see the man logo (i think) and hit F6 and enable nomodeset
+ Incarus6:  you should be editing the /etc/default/grub and /etc/grub.d/ files. Not grub.cfg
+ ubuntu345332:  the syslinux configs on the flash are rather complex.. takes me some time to figure out which file to edit.
+ ubuntu345332:  the default syslinux.cfg includes other files. i had to look through them all the other day
+ pao:  ask in the backtrack channekl.
+ Incarus6:  i would have to check the grub2 docs/guides and configs. I disable the fancy grub stuff and enable the old-skool text look in /etc/default/grub
+ Incarus6:  fancy grub menu here set the monitor out of range. :) so i had to change it.
+ stanisav:  thers the pendrivelinux web site that also has tools - if unetbootin fails.. what does the flash drive do when yoy try to boot it?
+ binox:  install vlc, run it from a terminal, try to play dvd. look for error messages in terminal
+ Helsinkiii:  theres the classic gnome desktop you can select at the GDM screen.
+ pdfman:  in the past ive had to plug in a qwired connection the first time , and install the wireless drivers
+ !ff4
+ zach_:  whats your video chipset? what does it stop at?
+ n2i:  filesystem needs fscked.. or your hd is going bad.
+ zach_:  a differnt disrto may be using differnt default video drivers..
+ n2i:  and you are trying to delete things from the cd? or what exactly?
+ zach_:  if you get lubuntu installed. you could then install 'ubuntu-desktop' package to get the normal Ubuntu stuff.
+ zach_:  i think Lubuntu may default to some safer settings.
+ zach_:  thats always possible. its easy to check its md5
+ !md5 | zach_
+ BRB
+ renan:  one way. hook up a wired connection and try the addational-drivers tool and hope it can download them. Thats the easiest way
+ renan:  a lot will depemnd on your exact wireless card and chipset
+ renan:  its possuible thers some bug with the addational-drivers tool
+ billybob:  glxgears is not a very good benchmark.
+ renan:  if you knew qwhat packages to install you could download them I guess. but how you figure out what you need, i dontknow
+ billybob:  tell the channel your video card/chipset and details of the whole problem.
+ alsamixer is a text based/console mixer program.
+ or was that alsa-mixer? i get so confused
+ thien:  make sure your script is executable, and has a proper #!/bin/bash (or whatever is needed) line at the start?
+ Lcawte:  flashikg caps lock/numpad light? thats not a good sign. Does a live cd work in the system?
+ thien:  instead of a launcher you could just make a soft link to it perhaps.
+ thien:  sounds like more security stuff they put in.. sort of annoying.
+ thien:  testing it with differnt extensions now.
+ Lcawte:  if a live cd works. I would suggest backing up your impiorntant stuff and doing a clean install.
+ thien:  testing with script.sh vs script  and so on..  wonder if it does it with more then just bash scripts
+ Lcawte:  its going to be very hard to tell what got messed up and take a lot of time.. and perhaps 40 min to do a reinstall..
+ Lcawte:  the keyboard leds flashing is the kernel not loading, or some major crash going on.
+ Lcawte:  its going to be very hard to tell what needs upgraded now. You could try chrooting into the installed system and reruning the upgrade commands. but i wouldent put much faith in that working.
+ Lcawte:  You should of made backups befor you even started.
+ Lcawte:  You could try live cd and chroot in, and rerun update manager.  but ive no idea if that can work.
+ Lcawte:  not like its really hard to plug in a extranal usb hard drive and copy imporntant files over.. thats about all the backup i do.. or use the UbuntuOne stuff for a few things.
+ graunjalj:  totally depends on what the server is doing. I imagine both will do most of what you need fine.
+ Lcawte:  now you got some tough decisions ahead.
+ USB hd is a latest gadget? heh..
+ Lcawte:  whatever commands the update-manager needed.. i rarely use updates. i do clean installs mostly
+ !upgrade
+ vak:  ive seen that asked by a few other people in here. Not seen a good answer. Perhaps check/ask on the http://askubuntu.com site.
+ I was thinking eclipse had issues with that. because of how it had a lauincher that launxched other scripts.. or somthing liek that. :)
+ vak:  searching tha site now.. not seeing an answer.  You may want to post the question.
+ GeorgeJ:  demand a refund.
+ Hard drives - i find - are the weakest part of the hardware  these days.   They seem to get worse every year.. but they are getting much more denser and compelx i guess.. and cheaper.
+ vak:  it does work with otehr apps? just not Eclipse?
+ c4pt:  on the login screen. i thought ther ewas a 'classic' and 'classic without effects' (or was it with effects?)  You do have the proper 3d drivers installed?
+ ramshot:  it would be a setting in the CCSM tool.
+ !ccsm
+ vak:  So you may want to post a eclipse specifc question. I think its how eclipse sets up its env. and launches thats teh issue.
+ c4pt:  interesting. Im using nvidia drivers from the repos. I had the compiz stuff with no changes needed I think.
+ hamnegga:  i dont need to for my 6150SE in this box..
+ c4pt:  i almost always do clean installs.
+ c4pt:  so these are clean
+ dd214:  start a differnt window manager via editing your .dmrc perhaps. :)
+ c4pt:  i even do clean reinstalls from beta. Just to keep things cleaner.
+ c4pt:  not really. Ive had no issues with the drivers. or compiz here.
+ c4pt:  clarify what you mean by Skewed.
+ janolap1:  some user with sudo rights has accidently deleted some system files?, are you sure of this?
+ actually dosent sudo have some sort of logging feature to show all sudo-ran commands?
+ adzy:  you can ssh into a server and controll it that way. or set up vnc/freenx/other things
+ smartux:  more flexiable and configurable..
+ smartux:  also easier to get lost in. :)
+ adzy:  a ssh server. and know how - of how to use ssh.
+ !ssh | adzy
+ weird that all those plugins are disabled..
+ MagePsycho:  you burn the iso to disk properly. and it will be bootable.
+ !burn
+ milen8204:  any error messages?
+ MagePsycho:  it sould work in most machines.. the cd is also a 'live cd' you can test befor you install
+ milen8204:  thats the generic 'it failed' message
+ milen8204:  could be a bad/currupted filesystem also. fsck it perhaps.
+ milen8204:  try without the -t also.
+ wang_:   You mean the left side launcher bar?
+ pseubodot:  grub  has a 'text' option that does just that.
+ pseubodot:  edit /etc/default/grub and replace splash quiet with 'text'
+ wang_:  ahh you want the global menu to always be shown. Not notced a way to do that yet...
+ wang_:  the webupd8 blog site had a list of tips and tweaks - it may be in there
+ pseubodot:  'text'  option is not the same as revovery mode,. and you always hacve to run update-gruvb after editing the configs
+ wang_:  check   http://www.webupd8.org/2011/03/disable-appmenu-global-menu-in-ubuntu.html
+ pseubodot:  if grub  menu is hidden. you tap the shift key to make it show up
+ !appdb
+ varunthacker:  i do sudo apt-get install lubuntu-desktop here. :) but i noticed the lxdm login m,anager has issues.. and use gdm instead
+ varunthacker:  depends on how you are connected.. wirerd or wireless..
+ varunthacker:  theres various commands you use. I dont use them enough to rember them.
+ varunthacker:  iwconfig and a few iw*  i recall.
+ tasslehoff:  i dont think so.
+ Ubuntu dosent really use runlevels any more. the 'text' option shoud get to a TExt only login.
+ sine_:  yes. or you could just apt-get install it..
+ ShockDoc:  you did run update-grub? if its still not working. could be grub is installing to the wrong place. and you are using an old grub.
+ sine_:  you can install packatges on a live-desktopp session.. they will get lost after reboot ofcourse :)
+ ShockDoc:  it could be from an old er install, or differnt update-grub. ive had grub installed on 3+ hd;s befor.. that caused issues one day for me..
+ ShockDoc:  you could also cut/paste a kernel entry from the /boot/grub.cfg to /etc/grub.d/40_custom and make it have the text option only.
+ envygeeks:  I do 'full' normal installs to my usbs :)
+ ShockDoc:  if you are ediing /etc/default/grub nd the changes are not takeing effect. then somthing very weird is going on.
+ ShockDoc:  that would not be affecting grub.   some options in grub can fix the plymouth/nvidia issues that often are a problem
+ Guest54461:  perhaps pick a real nick. and  rephrase the question.
+ ShockDoc:  you could try 'sudo dpkg-reconfigure grub-pc' and see where grub is isntalling to.. make sure its the same hd you are booting.
+ ShockDoc:  save it. rerun 'sudo update-grub'  then check the /boot/grub.cfg to see if the options tool affect.
+ !lvm
+ ShockDoc:  grub.cfg has the changes in it?
+ myrmidette:  what tool are you using to put it on an usb?
+ ShockDoc:  so.. if you reboot and the grub menu does not show those changes.. well that would point to your grub some how using some other configs.. which would be weird.
+ ShockDoc:  i just edit the grub menu on the fly and put in the 'text' option
+ patrunjel:  vlc can play iso files.
+ patrunjel:  err.. of course.
+ patrunjel:  I think it may of been on linux befor i was on windows.
+ patrunjel:  many many years ago
+ trailoryo:  used it for a few hrs over the last few days . no issus
+ W43372:   thers alternative indicator-applets for a lot of the old applets.
+ !fixgrub | xskydevilx
+ W43372:  thats a compiz setting/plugin thats proberly disabled by default
+ super key is used for lots of other things these days :)
+ W43372:  many compiz plugins dont play well with Unity.
+ W43372:  install ccsm and play with them  if you want.
+ !ccsm
+ W43372:  no idea. its not enabled by default..  notice if you hit the windows/super  keys. the launcher gives #'s to the icons.. the  super key has a lot of other things it does under unity.
+ thevor:  has been fo a few days
+ night all
+ pvh_sa:  You mean the left side 'launcher' ?
+ prov:  not that  i have ever seen.
+ pvh_sa:  thats dash (i think) you could make a proper whatever.desktop entry for the program and put it with the other system desktop files.
+ prov:  Never wanted to do it that way. so ive never tried.  Given the varity of setups out there. I doubt if any disrtos do it that way.
+ prov:  you could perhaps remaster your own. but im not sure what rules you would change for the mount options.
+ prov:  go try them and see. theres many of that type out. I never use them.
+ prov:   you could always use a disrto that has no auto-mounting feature/settings at all.
+ GeorgeJ:  you could try the 'nomodeset' option  at boot time. I have to do that for many of my nvidia systems
+ GeorgeJ:  i use nomodeset. untill i get the nvidia drivers installed.
+ danst_:  i think thats a common message. I see some ureadahead messages on several of my machines.
+ danst_:  the text option disablesx the framebuffer and plymouth
+ danst_:  its not 'single user mode'
+ danst_:  at the grub menu, edit the lines, replace quiet splash, with 'text'
+ danst_:  i dont do netboots. so no idea
+ danst_:  its a kernel option, same as quiet splash,
+ danst_: all i do is change 'quiet splash' with 'text'  when i want to.
+ linux_probe: /vmlinuz-2.6.38-8-generic root=UUID=#####  ro   quiet nosplash  >--> replace quiet nosplash with 'text'
+ zappus:  shrinking can take quiet a bit of time. depending on how full and big the filesystem is.
+ zappus:  I find windows resizes ntfs MUCH faster then linux and the ubuntu installer does
+ CoachJ:  i would think it should.
+ but i dont reccomend wubi at all.
+ arsenall_:  doing a normal install.
+ Technium:  whats your video chipset? you may need to enable the 3d drivers
+ KrisDouglas:  it is its own package. yes.. that should do it.
+ !pae
+ thegoodcushion:  its not the default..
+ i think if you install it.. it might become the default. (ive neverr eally tried it)
+ thegoodcushion:  ive heard/seen benchmarks where the PAE kernel can be slower then the non pae kernel in some cases.
+ I use 64bit on all my machines that can do 64bit. :)
+ thegoodcushion:  you may need to reinstall them.  Ive never heard of any PAE/nvidia issues. but i dont use PAE. :)
+ thegoodcushion:  how did you install them last time?
+ thegoodcushion:  odd. It should of fixed them as part of the bootup.
+ I thouight that was the whole point of that DKMS stuff.
+ adamJ:   when in doubt try a 'sudo apt-get update' 'sudo apt-get upgrade' and try reinstalling 'kubuntu-desktop' again.  What package name are you trying to install exactly?
+ nishttal:  whats your video card/chipset?
+ nishttal:  theres some bugs it seems with Unity and the twinview/multi monitor support. :(
+ adamJ:  odd. and you did an apt-get update, and upgrade just a few min ago>
+ nishttal:  what are you running then?
+ adamJ:  Not sure  what else to suggest. perhapas pastebin the error messages for the channel to look at.
+ nishttal:  could be its a deeper bug then just with unity then.  You have ran thenvidia-settings tool. enabled twinview and then restarted the X server?
+ !pastebin | adamJ
+ nishttal:  we had a disscussion here the other day on  nvidia and 3 monitors. :)  but i havent done 3 moniotors in ages.  Sounds like its a twinview+compiz deeper issue. perhaps disable compiz?
+ nishttal:  try alt-f2 'metacity --replace' and check perhaps.
+ adamJ:  you have done a 'sudo apt-get update' recently AND a sudo apt-get upgrade?
+ spacebug-:  i saw a tweak to do that at the webupd8 blog site.
+ [4-tea-2]:  the files-and-folders lense has    file searxch feature it seems.
+ nishttal:  you dident use a & at the end. :)
+ nishttal:  try ctrl-z tjhen the bg command, then exit command.. DONT just hit the terminal close button
+ nishttal:  install fusion-icon  and check it to use metacity. but i think metacity --replace, should be rembered
+ adamJ:  I would have to wonder if your /etc/apt/sources.list is messed up. or somthing is missing to not show those packages.
+ nishttal:  no idea. there may be some tweak.
+ zombified:  you run exes in wine. with wine.. :)
+ zombified:  and see  the BT channel :)
+ Blou_Aap:  other t hen some tweaking . you dont configure unity a lot.
+ adamJ:  weirdness. :)
+ mrcreativity:  theres a whitelist/blacklist of what apps can show up as indicator applets.  could be  you need to mess with that list.
+ mrcreativity:  check http://www.webupd8.org/2011/04/things-to-tweak-fix-after-installing.html
+ Vhozard:  theres ways to let various applets show up at the top right.. see that url i posted
+ mudtar:  yes there is - see that url i posted.. :)
+ I find the hidding menus also very ugly
+ Wantign to tweak unity and do some other things that Ubuntu wont let you do by default? ---> :  check http://www.webupd8.org/2011/04/things-to-tweak-fix-after-installing.html
+ I also have found several apps taht dont play nicely with the global menu. theuy just dont have any menus at all.
+ mudtar:  i found it an issue with many of the simpiler programs that came with my lubuntu desktip install also.
+ plus it just looks sort of Ugly half the time with the title getting overwritten by the menu text  in many cases.
+ jw_:  i imagione we will be getting a steady flow of patches over the next few months. :)
+ !controls
+ buhman:  ive seen other wms with them on the left over the years. :) not many.. but some
+ buhman:  ive seen them up/down on the side also..
+ buhman:  i recall wmx doing it that way. and some other very minimal wm's
+ buhman:  ive seem WM's with no controls at all. :)
+ bbl
+ i wonder what 'installing gnome again' actually installed...
+ aaron_wayne:  try F6 and F8 ive seen X move around
+ aaron_wayne:  its another console but no login/tty progr is running on it.
+ aaron_wayne:  for whatever reason X moved down 1 #
+ bbl
+ thummper:  you are just doing 'sudo apt-get install wine' ?
+ miceiken: if its a nvidia chipset try the nomodeset option. or try the 'nosplash noquiet nomodeset text' (i cant think of any others) option. :)
+ miceiken:  on my older pc. I had to edit the /etc/default/grub to enable a 640x480 res grub screen. or else i couldent see the grub menu due tio it being  some 'out of range' resoluiton
+ gs:  normal ubuntu and kubuntu should work fine. If you want to minimize resources theres Lubuntu
+ http://www.supergrubdisk.org/wiki/UninstallGRUB  :)
+ XceptN:  try rerunning compiz --replace, perhaps.
+ Might:  you need to some how restore the widnwos bootloader, normally with a windows cd.
+ XceptN:  Hmm. that may be the new name for the window-decorator. :)
+ i have noticed the addational-drivers tool saying i had no extra drivers for some of my systems also.. but then suddendly it says i do.. :)
+ XceptN:  compiz proberly restarts the window decorator as part of its startup.
+ gs:  it was some unofficial ubuntu spinoff that died off.  :)
+ gs:  theres plenty that replaced it..  Most are not worth m,essing with
+ koperino:   the update manager has a setting to go from LTS to LTS only or to the next release. Check that setting perhaps.
+ !upgrade
+ It does seem confuseing how you ahve to enter a name first. for the menu to even show up.
+ Now if they showed it but greyed out. that would make more sence.
+ ttist25:  of course the classic is to be removed in the next releae in 6 mo. :)
+ They said the same thing about KDE when they switched from 3 to 4..  the latest kde4 is quite good however. :)  thats how things are.
+ Im sure unity will get major improvements over the next few months
+ komodo169:  ive been leaning towards lubuntu more and more :) Just works how 'i' work
+ bbl
+ Seven_Six_Two:  i think you may want to use the alternative installer cd  if you arwe wanting to upgrade, not from the internet, but from the cd.
+ I never noticed anything special about debians installer. :)
+ Ive seen so many variants in 'linux os installers' it would take a lot to impress me. :)
+ tushar:  irc has been around since the 1980's also. :)
+ tushar:  i find the other IM clients/methods weird.
+ tushar:  irc? No...
+ Chepoll:  you may want to clarify Wired or wireless, and how its connecting exactly
+ !netinstall
+ ali_:  alt-ctrl-sysreq-k  I belive
+ !dontzap
+ ali_:  it may be alt-ctrl-sysreq-r to reboot. k to kill X..    I for get the ohter magic keys
+ !info snmp
+ http://www.webupd8.org/2011/04/how-to-reset-unity-launcher-icons-or.html
+ and reset other settings..
+ maxagaz:   so state the actual tech support issue.
+ fi8er1:  change it to what? You check at -> http://askubuntu.com/search?q=change+super+key ?
+ JohnFlux:  takes me all of perhaps 40 min.
+ But since my main hobby is doing support here. I like to try things out from 'default' settings for the releases also.
+ AndroiDoughBoy:  I think wubi auto mounts it somewhere. Ive seen that asked befor. but i cant rember where exactly
+ AndroiDoughBoy:  try /host/
+ Oins:  http://www.omgubuntu.co.uk/2011/04/become-a-natty-power-user-in-no-time-using-this-unit-keyboard-shortcuts-wallpaper/
+ learn all the shortcuts :)
+ Oins:  also found -> http://theravingrick.blogspot.com/2011/04/my-effort-at-writing-help-for-unity.html
+ maxagaz:  you mean reset compiz settings back to default? or restart compiz/metacity?
+ maxagaz:  tghat url i gave mentions the command -> gconftool-2 --recursive-unset /apps/compiz-1
+ maxagaz:  it might need 'compiz' instead of compiz-1 for the classic desktop
+ maxagaz:  site says -->  To reset all the Compiz settings (this includes all the plugins settings, etc.) to the default values, ..... at -->  http://www.webupd8.org/2011/04/how-to-reset-unity-launcher-icons-or.html
+ Oins:  yea  they really need some links/docs/guides on the desktop fior unity. its just off-putting how differnt it is
+ REK:  theres the askubuntu web site also now a days yioumay want to try
+ REK:  would depend on the problem i imagine.
+ REK:  sounds like some power saveing issue. is all i can say. I tend to disable all that stuff and just turn off the monitor if im leaving for the day
+ REK:  alternatively - you could try sshing in and see whats going on. perhaps restart the GDM service.
+ devon_hillard:  hiot the tab key over to the yes/no button and hit enter
+ devon_hillard:  if its sjhowing the EULA. hit 'q'to quit it.
+ sine_:  htop,  can most likely do that.
+ devon_hillard:  tjhres some apt-get command, or dpkg-reconfigure that will make it reshow the silly EULA thing
+ !permissions | dr0id
+ dr0id:  a dir would need to be writeable perhaps.
+ dr0id:  and executable.
+ and of course you rarely see somthing wruiteable without it being readable. :)
+ owner can always change permissions.. otherwise they could lock theirselfs out. :)
+ Dark_Star1:  theres some Virtualbox network config setting. that lets the vbox instance show up on the lan as if it was a 'real' machine. getting  an ip on the normal lan range.
+ Dark_Star1:  Or it can be on its own private network.
+ vak:  check  this unity guide >  http://theravingrick.blogspot.com/2011/04/my-effort-at-writing-help-for-unity.html
+ iggyology:  run it from a terminal. look for errors
+ scp = cp
+ with ssh stuff
+ !term
+ nerdshell:  yes it does
+ iggyology:  its 'firefox'  :) logical eh
+ iggyology:  theres also 'firefox --help' if its a user setting issue, you can try the failsafe, or other profiles.
+ iggyology:  you dident run it with gksudo did you?
+ kubu2:  its silly to run it as root.
+ Jenk:  fuse  is a tool to do special kionds of filesystems.
+ Jenk:  like accessing a .zip file as if it was a directory.
+ !sudo |  nerdshell
+ sine_:  so if you start playing a movie or song at login,, will it keep playing?  if it breaks after you are 'quiet' for a while. It could be the sound drivers going into a powerdown/power savceing sleep mode and not wakeing up
+ wireless can do PXE?
+ fredrik_:  http://www.webupd8.org/2011/04/how-to-reset-unity-launcher-icons-or.html
+ iggyology:  reloaded how? and how loaded on flash drive?
+ iggyology:  could be the launcher is doing somtjhing weird. make a new launcher icon for it perhaps
+ zulax:  http://www.webupd8.org/2011/04/how-to-reset-unity-launcher-icons-or.html
+ Griffin_:  You have opened up the pc/dusted it out good? a cpu overheating that easially.. i would think bne a sign of a bigger problem
+ brilldoctor:  i always disable plymouth
+ QuartZo:  i really have no issues with Unity. other then i keep goind DOWN to where my panel use to be to change apps. :)
+ livingdaylight:  theres a winecfg progrfam installed with wine.
+ !wine
+ brilldoctor:  try booting with plymouth tiotally disabled. I have no idea what that script may jhave done.
+ livingdaylight:  use the terminal/search feature of the sidebar.
+ winetricks is differnt then 'winecfg'
+ brilldoctor:  I thought those guides were for getting Plymouth working with nvidia cards.
+ Hmm.. heh cant see ctrl-shift-u doing much of anything  some sort of mode/thing in the terminal
+ brilldoctor_:  most of those scripts/guiides are for the older ubuntu. so they could break all sorts of things in a new release.
+ jmkgreen:  alt-ctrl-f1 through f6 gets to no consoles?
+ brilldoctor_:  maybe easiest fix.
+ brilldoctor_:  unless the script has some undoo feature
+ jmkgreen:  seems like its going to the X 'display' which is alt-ctral-f7 by default but X is not running.
+ jmkgreen:  then how are you seeing a console at all?
+ jmkgreen:  ok in vbox.. :)
+ its not really headless then. just Xless.
+ jmkgreen:  check teh grub options  - seem to recall some 'handoff' option that mentione the console 7, not sure what it really does
+ v3nd3tta``:  linux mint has its own support channels.
+ v3nd3tta``:  sounds like a good reason to NOT use mint then.
+ we cant support every variant here v3nd3tta``  thats the channel rules.
+ delac:  it would need sudo rights perhaps to reforamt a filesystem.
+ html_inprogress:  i find mint rather pointless. but it dosent matter. its not supported here.
+ delac:  let me try it right now
+ delac:  it dident ask for sudo password here when i just started it.
+ html_inprogress:  Huh?  dosent matter. Mint discussion is OT :)
+ besides we all know PenGuy Linux is better. :P
+ asking what OT means is OT? :)
+ LAcan:  you are refering to a wireless network card? or a wired one?
+ miceiken:  text IN the file.. grep command
+ miceiken:  text In a filename. find or locate command.
+ miceiken:  i saw that exact same question asked on the askubuntu site just this week. :)
+ for complex searches grep can use regular expressions also. :) which are uber-cool  :P
+ html_inprogress:  theres some extra compiz plugins in th repos. not installed byd efault.
+ alphamale:  if you set it up with grub2. you could boot the ubuntu ISO file. :)
+ alphamale:  converting the ubuntu syslinux.cfg to lilo.. would be the kind of task.. i would not want to have to do.
+ oh using grub1 - that may be easier..
+ logesh:  sudo adduser billgates  (pick a username)
+ xchat? err.. check the menus..
+ fredrik_:  rc.local is ran as root. You Did put it befor the exit command in rc.local?
+ fredrik_:  try the command from your users login. does it work?
+ fredrik_:  you could add it to your X startup stuff then. Sounds like X may be some how resetting the  thing when it loads.
+ fredrik_:  if you dont want to run it with sudo. you could (not reccomended) set the suid bit on the binary. then it alwyas runs as root even if a user runs it.
+ !startup
+ !startup  | fredrik_
+ read the bots url it gave. :)
+ iggyology:  make a new user. see if they have the same issue.
+ NewPosix:  you got 2  answers.. did you not see them?
+ fredrik_:  no idea.  if that command needs to be ran as root. that may be the issue.
+ fredrik_:  you could try 'gksudo that-fancy-command'   and see if it asks for the root password. and works.
+ fredrik_:  oh yea. rc.local running BEFOR X gets started could be an issue
+ fredrik_:  you may want to have it sleep longer.
+ iggyology:  i wouldent think soo.
+ joelixny:  ive seen collections of 'sed one liners' web sites that have exasmplex of stuff like that.
+ fredrik_:  ive had to do similer delays for other apps in X also. like conky,
+ chrome_:  lsb_release -a
+ Hmm. I just noticed that Chromium and google chrome both start the first time with their 'pick a search engine' dialog window 1/2 way off the screen at the bottom.
+ masterburner:  try alt-f2 and run 'metacity --replace' or 'compiz --replace'
+ masterburner:  try it in a terminal, look for error emssages.. metacity should work on any setup
+ KM0201:  i just found it odd that the window was in a bad spot.
+ KM0201:  and it affected both chromouim browser and google chrome.
+ There are some neat 'unity' tricks these browsers are doing  from what ive seen on the blog sites. :) progress bars in the icon.
+ ablaze:  theres here, theres the forums and theres that askubuntu web site. :)
+ I want to make ubuntu look like my C64 GeOs :)
+ andreaborman:  check out http://www.webupd8.org/2011/04/things-to-tweak-fix-after-installing.html
+ you format a filesystem.. you partion a drive into filesystmes. :)
+ !dev
+ thres some 'Linux Filesystem Hiarchy' guide/site/docs that detail the filesystem layout. I cant rember the factoid for it.
+ ablaze:  try booting using the 'text' option. that will disable plymouth (qwhich is the dott/animation.  when  you see the grub menu , hit 'e' edit the kernel line that has 'quiet splash' to read 'text' and see if you can boot to the console and login.
+ Pici:  :) getting to many factoids for me to rember
+ ablaze:  if recovery mode works. you may want to install irssi, and/or weechat or some other text based irc client, and come in here and try to get help on the issue.
+ ablaze: personally i disable plymouth totally. that way i can see errors that happen. If recovery mode works. you could try the 'startx' command and see if the desktop loads.
+ Lubuntu is getting very very well done.
+ ablaze:   if X does not start up. try 'startx' look for error messages.
+ Is there a grub2-4-dos? only grub2 can boot ISO files.
+ I dont recall seeing puppy having that feature. Unless they moved to grub2 in it.
+ i have several guides on booting iso files with grub2 at http://delicious.com/dr_willis
+ nutsfornatty:  it used tobe just the image at /usr/share/backgrounds/warty-final-ubuntu.png
+ nutsfornatty:  not sure if it still is. :) its proberly some image in that dir
+ nutsfornatty:  i just installed ubuntu-tweak the iother day. and its works on 11.04

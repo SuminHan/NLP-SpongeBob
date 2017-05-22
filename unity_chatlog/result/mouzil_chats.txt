@@ -1,0 +1,3 @@
+ hello
+ which is the reverse command for add-apt-repository?
+ thank you guys

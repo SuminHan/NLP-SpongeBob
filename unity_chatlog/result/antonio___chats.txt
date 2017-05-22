@@ -1,0 +1,6 @@
+  hola buenas tarde me pueden ayudar con airmon-ng cuando trato de ponerlo modo monitor con el siguienete cocando airmon-ng start wlan1 me sale este error
+  @antonio:/home/antonio# airmon-ng start wlan1
+   Found 4 processes that could cause trouble.
+   If airodump-ng, aireplay-ng or airtun-ng stops working after
+   a short period of time, you may want to kill (some of) them!
+   PID Name

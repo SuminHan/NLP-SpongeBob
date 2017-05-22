@@ -1,0 +1,9 @@
+ Hello, anyone know what packages I need to use a dvd?
+ I have dwd+rw-tools
+ I tried to install libdvdcss but it is not there.
+ ahh
+ Package libdvdcss2 is not available, but is referred to by another package.
+ ohsix: Thank you so much.
+ ohsix: Did it add medibuntu?
+ Goodf
+ *Good

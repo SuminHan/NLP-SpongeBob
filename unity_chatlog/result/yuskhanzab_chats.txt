@@ -1,0 +1,64 @@
+ cant wait natty release
+ !party
+ why my downloading upgrade so slow? im just now streaming a video from 1 site, and its more faster then the upgrading ubuntu 11.04. anyone have the same?
+ anyone have the same problem as me?
+ owh, thx for the information mnoyce.
+ its seems like 3 days to upgrade to natty =.=
+ "super key" mean windows key in your keyboard
+ hello all. how to ping ubuntu server using terminal?
+ hello, any oneknow how to ping ubuntu server using terminal command?
+ i dont know, its ubuntu server.. im now upgrading my ubuntu version. and its to slow right now
+ what is ubuntu server address?
+ im uprgading using the upgrade manager
+ this download start last night.. until now not been complete
+ ive been download last night(16 hours now) also not been complete yet =.=
+ it say's about 2 days more to complete
+ is it save if i cancel the upgrading proses?
+ is it safe if i cancel the upgrading proses?
+ freeman_, is it safe to cancel the upgrading proses?
+ no, im upgrade my ubuntu version to naty from maverick
+ the download process to about 2 days to complete
+ 10kb per sec
+ freeman_, im upgrading the ubuntu version to natty
+ freeman_, its not a few minute to complete, it about 2 days.(10kbps)
+ lol, thanks anyway
+ hello all. need help here how to undo the "complete lock panel" in ubuntu after updating to natty?
+ hello all. need help here how to undo the "complete lock panel" in ubuntu after updating to natty?
+ how to undo the "complete panel lock" after update to natty narwhal? can someone help me here
+ before this upgrade, im using ubuntu-tweak to lock and unlock the panel. now after i update the system, its been lock. how can i undo this back? if there a way can someone tell me..?
+ something wrong with my ubuntu, i cant play dota(warcraft) in wine properly because of the keyboard detect something in desktop. ive been configure it and nothing happen. can someone pls help me how to???? when i open the game and press the keyboard key, it detect like something search word(dunno what is it). it appear after i upgrade to natty. pls help me to disable that search word in desktop.
+ im using the classic ubuntu
+ something wrong with my ubuntu, i cant play dota(warcraft) in wine properly because of the keyboard detect something in desktop. ive been configure it and nothing happen. can someone pls help me how to???? when i open the game and press the keyboard key, it detect like something search word(dunno what is it). it appear after i upgrade to natty. pls help me to disable that search word in desktop. im using classic ubuntu right now
+ is there anybody can help me
+ something wrong with my ubuntu, i cant play dota(warcraft) in wine properly because of the keyboard detect something in desktop. ive been configure it and nothing happen. can someone pls help me how to???? when i open the game and press the keyboard key, it detect like something search word(dunno what is it). it appear after i upgrade to natty. pls help me to disable that search word in desktop.
+ i done what is that.. its not a combination key like alt F2
+ when i press any key like a b c d, it comes
+ in desktop
+ it is a bug or what?
+ wait i check
+ mikinanuq, ya, i can type correctly in notepad
+ ok, ill try
+ ok pfifo
+ pfifo, u have the same prob as me?
+ ok
+ reinstall wine?
+ what wine version do you use pfifo
+ im using the development ver 1.3.18
+ pfifo,  im using the development ver 1.3.18
+ ok,
+ ill try
+ downgrade to maerick succesful. ^^
+ hello, i need to use gyachi.. how can i install gyachi via terminal?
+ can someone tell me how to install gyachi via terminal?
+ im using maverick ver,
+ KM0201, im using maverick ver.
+ owh, isee.. thanks ActionParsnip :)
+ yeah, its working.. thx ActionParsnip !!
+ anyone having problem to control mouse after updating wine to version 1.3.19?
+ where to get audacious equalizer preset?
+ until when maverick version will be support?
+ maverick support until when????
+ Pici, is it ok if i use it over april 2012?
+ after*
+ owh, i see..
+ thx for the info Pici

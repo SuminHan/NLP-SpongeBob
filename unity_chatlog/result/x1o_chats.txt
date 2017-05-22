@@ -1,0 +1,2 @@
+ hey, can anyone help me with my flash-buffering problem?
+ i wonder where it comes from, flash only buffers about 1 minute of streaming-videos

@@ -1,0 +1,2 @@
+ Can I make it so that the sidebar in unity dont automatically (never) hide?
+ trism, thanks

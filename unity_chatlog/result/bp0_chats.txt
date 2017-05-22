@@ -1,0 +1,72 @@
+ so if you don't want to go to natty, is it better to go back to 10.04?
+ ok
+ how to get rid of the extra shutdown/logout in the system menu?
+ how to get rid of the extra shutdown/logout in the system menu?
+ how to get rid of the extra shutdown/logout in the system menu?
+ how to get normal scrollbars again?
+ how to get rid of the extra shutdown/logout in the system menu? how to get normal scrollbars again? how to get rid of the very heavy shadow from the foremost window? how to fix the resize handle overlapping?
+ this was a big mistake.
+ will there be cdemu for natty?
+ Dr_Willis, it's not the same
+ how do I remove ubuntu one?
+ you can't roll back but you can backup your /home folder and reinstall 10.04 or 10.01
+ 10.10
+ KXTwo, don't.
+ mrdeb, no.
+ mrdeb, many bugs, and slow
+ rahduke, are you using the nvidia installer or "additional drivers"?
+ amy_, use firefox? there is a firefox extension called flash-aid or something like that, that will get you the best flash support possible
+ dont use the packages
+ amy_, you might also like caffeine, a little applet thing that disables the screensaver while flash video is playing...  https://launchpad.net/caffeine
+ amy_, netinstall is not a very good idea right now, wait a few days maybe... the repos are very slow
+ probably better
+ amy_, but I upgraded with thumbdrive and it still took an hour... had to fetch 30 packages yet, I guess
+ gaceman, update manager will give you a button to press, but you might not want to
+ leftist, brasero?
+ wubi is a bad idea, imo
+ leftist, yes, allowoverride, what?
+ merther, /dev/disk/by-* ?
+ look in there
+ SS_, yes.
+ THE-SE7EN-SINS, yes it seems that way... something is definitely wrong with sound
+ I removed overlay-scrollbar and restarted... but the scrollbars are still the new style
+ what do I have to do to get the back to normal
+ merther... /dev/disk/by-label/
+ Lesterwood, everyone needs help... but that is a bug
+ one of many
+ dont hold your breath
+ curse and wave your arms in the air
+ Lesterwood, thats a bug in ubuntu software center, there is nothing to do
+ Lesterwood, oh you have options? most times I see that windows it is just blank
+ Lesterwood, what pacakage?
+ Lesterwood, what package or file is it asking about? anyway, use the maintainer's version most likely, unless you remember editing that file yourself
+ Lesterwood, no panels or panel applets in unity, they have "indicators" only
+ Lesterwood, thats what they're going for
+ manOwl, are you sure
+ what is the package
+ huh interesting
+ manOwl, I promise.
+ bibinou, apt-get remove overlay-scrollbar liboverlayscrollbar-*
+ bibinou, liboverlay-scrollbar- maybe
+ .gvfs is where fuse mounts
+ s33k, you can't move it while fuse is using it
+ you can't move /home while logged in as a normal user
+ s33k, you need to log in to "recovery mode" and move /home, you can't do it while a user is logged in
+ s33k, safest is recovery mode, you can't let anything be in use in /home
+ argon, there is definitely a performance problem with nvidia drivers in 11.04
+ yes, upgrading is a mistake
+ phonex01, yesterday.
+ is someone making a natty faq? somthing better than those bot factoids, all in one place?
+ that would be handy
+ i remember someone did it with lucid
+ that was great
+ something is messud up with nvidia and 11.04
+ I went back to maverick and my nvidia problem is solved. even though it is the same version of the driver
+ uberfrau, there is a firefox extension called flash-aid that will install the best possible flash setup and clean up a little
+ uberfrau, thats what you should use
+ uberfrau, it killed your sound in flash?
+ uberfrau, what version of flash did it install? (about:plugins)
+ celthunder, its magic and i've had only good results
+ uberfrau, thats the version i've got and no sound probles, I'm on maverick (10.10) Firefox 4, amd64
+ uberfrau, restart pulse, or log in and out, maybe
+ er, out and in

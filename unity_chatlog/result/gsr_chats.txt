@@ -1,0 +1,2 @@
+ im using ubuntu 10.10, wanting to upgrade.  I ran apt-get update && apt-get dist-upgrade, but it says there is nothing to update (and update-manager says im all up to date).  Do I need to do anything else?
+ IdleOne: danke

@@ -1,0 +1,37 @@
+ i have black screen of death, tried nomodeset and installed... but what to do next? i have low resolution (640x480). It's bad=(
+ black screen of death...
+ black screen of death... Who solved this problem on 11.04 with nvidia cards, please help
+ Background wallpaper =) I see only black screen on my screen...
+ black screen is the most difficult problem, only few men have solved it
+ I have a black screen after installed nvidia 270xxx drivers.. What to do?
+ Every release i see only black screen =) What is Ubuntu??
+ Black screen... help
+ Please help motherfuckers=)
+ i am sorry
+ Guys, what to do with black screen, after installed nvidia drivers...
+ rahduke, i have same problem
+ download from nvidia,com
+ rahduke, go to nvidia.com and download drivers
+ rahduke, after press ctrl+alt+f1 type sudo -sh NVIDIAxxxx.run
+ rahduke, oh i see! try sudo /etc/init.d/gdm stop
+ rahduke, after try to install again
+ rahduke, that's a problem... For example i've got black screen after installed newest drivers
+
+ _pg_, have you tried acpi_osi=Linux in grub... it can helps with touchpad i think
+ _pg_, have tou tried this parametr in grub on load?
+ Hi, guys! Have somebody edid.bin file for samsung r560-bs02 or for monitor with native resolution 1650x1050_60? I have a problem when nvidia driver tries to detect EDID information from my LCD monitor. Help!
+ Guys, has somebody EDID.bin file for LCD with native resolution 1650x1050_60?
+ You to find edid.bin find for your monitor
+ Does anybody use linux mint?
+ Does anyone use linux Mint?
+ ActionParsnip, do you always use only ubuntu?
+ Guys, do you like unity?
+ hm...
+ can you explain? why is unity so bad?
+ nvidia drivers cannot detect EDID info from our monitors=( it's a nvidia's bug, or monitor manufactures... i don't know
+ ActionParsnip, for what?
+ i already have xorg.conf in /etc/X11 )
+ yesterday tried compiz and unity crashed
+ gnome don't work too(
+ does anybody know how to control brightness in ubuntu 11.04?
+ i'm impressed by unity)

@@ -1,0 +1,4 @@
+ I tried installing MSTTCOREFONTS and I got a Microsoft EULA. How do I continue? There is no 'Click OK', what do I press? The package manager is blocked at this stage.
+ I tried pressing enter or page down etc...
+ <Dr_Willis> thanks, life saver
+ Dr_Willis: I tried closing the console, but the package manager still kept the locks on

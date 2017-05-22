@@ -1,0 +1,5 @@
+ where did the network places go in unity, like the ssh and samba connect to server bookmarks?
+ unity is working pretty well, but just cant find "places" anymore
+ upgrade worked for me but it took 7hrs, servers very slow
+ tanath: yeah i didnt mind much, watched a stream as it upgraded
+ if only i could find out where the network places bookmarks went

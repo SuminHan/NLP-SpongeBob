@@ -1,0 +1,4 @@
+ ubuntu freezes when I connect to my router....any ideas?
+ ubuntu freezes when I connect to my router....any ideas?
+ ubuntu keeps freezing/crashing...any ideas why????
+ dasy2k1: i did the ramtest and it was fine

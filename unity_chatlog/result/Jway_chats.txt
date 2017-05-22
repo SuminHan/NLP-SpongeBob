@@ -1,0 +1,23 @@
+ after natty upgrade from lucid my network card says "link is not ready" in dmesg... I cannot enable it in any way, suggestions?
+ intel agn4965
+ tried modprobing iwlagn, rfkill, nothing makes the wireless work. Works fine in windows on same computer
+ usr13, intel agn4965
+ usr13, actually it has been a problem since the last dist upgrade, I always had to right click the icon to enable the wireless and then it would connect. Now I have to rfkill to un-gray the "enable wireless" item in the right click menu but clicking it makes no networks show and dmesg still says link is not ready. Tried removing battery, holding power button for 30 seconds and booting up again,
+ same problem. Windows is fine.
+ usr13, thanks I will try
+ brb, reboot
+ usr13, wicd did the trick together with sudo rfkill unblock wifi - thank you so much! must be a bug with natty and iwlagn...
+ is it intentional that when using unity, compiz takes up 9-10% cpu load constantly when doing nothing but having a terminal and chrome open?
+ using intel gma 3100 and ubuntu 11.04 how come xcompmgr -c will not give me shadows on windows?
+ mastaofdisasta, sudo /etc/init.d/networking restart
+ mastaofdisasta, try sudo service networking restart
+ mastaofdisasta, not sure then, sorry. Tried 'start' or 'stop' instead of restart?
+ is there a way to stop cursor blinking in bash shell?
+ guys, need some help. Just ran update manager and upon restarting and using ubuntu classic (not unity) it fails to load the panels and menus in the bottom and top of the screen
+ unity runs fine
+ are there some log files specific to the panels/menus?
+ I assigned caps lock to switch keyboard language and it worked perfect in 10.10, however in clean install 11.04, I am sometimes forces to press caps lock twice or thrice before it switches layout. Why does this happen?
+ when putting full load on the wifi connection (copying a file via wireless) ubuntu 11.04 lags every 200-500 miliseconds
+ after upgrade to 11.04 google chrome opens a tab 500 ms slower than it used to, any suggestions?
+ happens on both ubuntu classic and unity
+ install of 11.04,  google chrome opens a tab 500 ms slower than it used to in 10.10, any suggestions why?

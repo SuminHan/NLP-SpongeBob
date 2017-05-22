@@ -1,0 +1,52 @@
+ !ppa
+ !vbox
+ !ask | adsDSDSFSFSFAEEF
+ PaidSupport: why don't you just ask the kernel people?
+ PaidSupport: gotcha, well Linux by itself is open source, it's free, and the support, particularly for the kernel, is free. there are people who take care of the kernel setup for Ubuntu, and then there are the people who take care of the kernel itself.
+ PaidSupport: unless you're some sort of corporate entity that requires a business-only solution where money is more important to getting a certain job than treating people with respect, then yes, perhaps paying conanical would be a better way to approach the situation.
+ PaidSupport: okay, then I would most certainly NOT recommend that you attempt to pay for support, but rather to take the time to listen to the help that people have to give, and hopefully take your own turn to try things out. If they break, they break, that's all part of the learning process.... and so is fixing those problems. :)
+ PaidSupport: of course, it's extremely beneficial to explain your situation clearly so that people have a better idea of how to help.
+ PaidSupport: Awesome, then let's begin!  What kind of laptop is it and what version of Ubuntuare you on?
+ PaidSupport: I haven't tried 11.04 yet, but I'm willing to bet that there's something going on with it in the ACPI/Power Management settings... have you checked those?
+ rcmaehl: do you mean fnfxd?
+ PaidSupport: out of curiosity, is your name David?
+ PaidSupport: then this must be you: https://answers.launchpad.net/ubuntu/+source/acpi/+question/154675
+ PaidSupport: yeah, I'm seeing that...hrm...
+ PaidSupport: I'm sure you still can, but keep in mind that doing so on a brand new release is not always the wisest decision... I'm still using 10.04, if that tells you anything
+ PaidSupport: I think escott maybe onto something there... do you still have the old kernels from the 10.10 install laying around?
+ ocx: what's a 'pop connector'? please be specific.
+ PaidSupport: No offense, but I think unity is pure crap. ;) but, we'll see what we can do to get it working right... it seems to be less of a unity issue than it does an X configuration issue
+ PaidSupport: there's an easy way to check for the older kernel... when you reboot, bring up the grub menu before it boots the system and see how many are in the list
+ escott: ah okay, thought maybe he migrated.... it's about dinnertime :)
+ nukem: yes
+ nukem: sure it was, yes to both
+ nukem: you can install ubuntu from a cd or a dvd, therefore it's both.
+ !compiz
+ nukem: it's about 4.3 gigs
+ kingofswords: cheers
+ nukem: putting it on a CD
+ !mirror
+ nukem: the difference is, of course, that there are less programs on 1 cd than there are on 1 dvd
+ !netboot | FutileFreedom
+ WhitePelican: okay, but have you verified that cheese it NOT running when you try to launch skype?
+ kingofswords: then logout/login
+ WhitePelican: what error do you get from skype, exactly? are you expecting it to auto-detect the camera?
+ kingofswords: no, logout, then login again
+ WhitePelican: then check skype settings. where did you install skype from?
+ WhitePelican: good answer (about medibuntu)
+ WhitePelican: right, medibuntu becomes part of the repo
+ sweb, acicula: netbook remix is a bit more than just a different gui, it's got some special modules for the kernel built to handle the hardware properly
+ escott, PaidSupport: don't you mean dpkg -i?
+ acicula: good point, but using remix on an actual netbook may mean the difference between the system working out-of-the-box and not having everything working
+ kingofswords: okay
+ acicula: no idea, it'd be a silly move if they did
+ acicula: which wouldn't be surprising, they did go all-in with unity
+ acicula, Jordan_U: on the download page, I'm seeing ubuntu-11.04-netbook-i386.iso.torrent
+ acicula, Jordan_U: http://www.ubuntu.com/download/ubuntu/alternative-download
+ Chilaquiles: there's no concrete answer to that
+ toad__: never had that happen...
+ Cairo|Mac: looks like PAM became foobared... is that a new install?
+ Cairo|Mac: okay, so is this a fresh upgrade from 10.10 to 11.04?
+ acicula: my guess is that the problem isn't with samba, since it got the green light when it started
+ acicula: it's possible
+ !ppa

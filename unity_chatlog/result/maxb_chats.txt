@@ -1,0 +1,3 @@
+ Does anyone know how to make nautilus not launch on inserting a USB stick? (natty)
+ mosez: I wish there was a nice way to do it. I've ended up building myself a fairly complex shell script: http://paste.ubuntu.com/603267/
+ Jordan_U: mkdir?

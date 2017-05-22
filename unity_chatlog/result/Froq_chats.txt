@@ -1,0 +1,80 @@
+ HELLO!!! I am new here.
+ can silvermoon handle netlfix yet?
+ can Silvermoon handle netflix yet?
+ TheHackOps: I tried it 2 months ago & no luck.  didn't know if anythign has changed.  that is what is keeping me form going linux only in house
+ TheHackOps: my geeky side.  I like linux
+ does anyone know of an IRC client that I can transfer over SSH with the x11 command so I have the interface & all?
+ escott: THANKS
+ rgr: ssh -X
+ this channel moves WAY to fast for me...
+ What language are kernels written in?
+ O... where can I get the source code for the kernel ubuntu uses?
+ rgr: no way!  is there a specific site it is @?
+ alone08: thanks
+ carandraug: THANKS
+ schnuffle: not running ubuntu @ the moment, so...
+ thanks guys!
+ man, these IRC channels are the greatest thing EVER
+ How do I update my desktop to the newest ubuntu via terminal?
+ sudo apt-get upgrade?
+ how can i check to see if my wireless card has N capabilities via terminal?
+ ohsix: thanks
+ So I downloaded the most recent linux kernel and it is taking my computer 10+ minutes to unpack the dang thing...
+ ohsix: must be... but it is only 75MB.... that isn't very big. lol... but I guess it is too.
+ rgr: I went to the ubuntu repos and got it from there.
+ rgr: I have been playing around with learning C++ and making in grounds into it, and figured I would love to look @ the structure of teh linux C kernel
+ rgr: I went to the ubuntu repos via web browswer
+ rgr: so what tools are you making mention of?  I am very interested
+ ohsix: o man, you are so smart, talking over my head! :)
+ rgr: Good to know, I just wanted to look @ some large scale stuff, and I didn't realize teh number of files associated with a kernel! WOW
+ ohsix: yeah!  that is what i wnated! could have had it 30 minutes ago if I could just better articulate my desires, huh?  thanks
+ ohsix: right on!
+ so i downloaded a stupid dock program to make my ubuntu look "nifty" but now I want to scratch it, however, I don't know the name of it. What can I do?
+ MrMist1: what does that ouput tell me?
+ MrMist1: none of those are the name.
+ gmachine_24: I was curious to what you were making mention of cock for.  THANKS
+ gmachine_24: it is...
+ gmachine_24: avant window manager
+ gmachine_24: I just performed "apt-get remove avant-window-nagivator
+ will that remove all teh dependences too?
+ so I got a question, what is the write speed that a CD can impliment?
+ naveed: do you just use 'sudo apt-get install xchat'?
+ naveed: thz!!!
+ naveed: what? I dont' understand what you jsut said?
+ naveed: oo got ya!  it is available for you to get help on anything quickly.  You can often log onto here to discuss your problem.  IRC is rooted in that in the beginning of ubuntu days, a lot of collaboration occurred in IRC channels, though that is not as necessary anymore with GIT, etc.
+ naveed: I appreciate IRC because it is a chat room that is specific to a topic, and I can get deeper into the community quicker.  I learn so much by reading about a persons questions, and then watching what other members respond with (how they help)
+ naveed: maybe join the ubuntu-beginner channel also if you are new to ubuntu.
+ naveed: lots of new questions on there also
+ under unity, where do I get to turn on screen sharing?
+ naveed: got ya!  haha, I am new.  and you using xchat
+ naveed: ?
+ hi
+ what driver will allow windows7 to read/write ext4?
+ what driver will allow windows7 to read/write ext4?
+ ThinkT510: o!  Perfect, thanks
+ cba123: sorry.
+ http://www.linuxnov.com/ext4-vs-ext3-vs-ntfs-comparison-file-systems/
+ Can someone tell me why EXT4 has a smaller max volume size?
+ so you mean that EXT4 can handle a file that is 16TB in size...  what file would EVER come close to that size?
+ bite-android: /
+ set is as "forward slash"
+ bite-android: it is the root of the drive, as it the very beginning of the partition/ drive and that is how the kernel will mount it.  The only time you would want to use /var, etc. is if you are going to place those directories in different partitions.
+ bite-android: make sense or not?
+ calamari: how do you use a file as swap space?
+ calamari: thz
+ usalabs: oo... so would that make sense to why I cannot SSH into my machine?
+ usalabs: alright, thanks!
+ what socket should I go with to connect an i5 processor?
+ so have any of you ever used the chameleon bootloader associated with OSx86?
+ so have any of you ever used the chameleon bootloader associated with OSx86?
+ is there a reason why screen sharing (VNC) doesn't work on 11.04
+ ?  mine never seems to work, when I connect, I just get a black screen....
+ what application launcher do you guys recommend?
+ so i install gnome-do, but it won't let me change the keyboard combo to bring up away from "space"
+ so now when I type anything, my space bar bring gnome-do up to the forground... crappy!
+ mnassif, how long does it freeze?  have you let it sit there for a while
+ ?
+ o wow... well do you have an internet connection on the machine?  also, did you perform a CD check before coming on here (it is an option when you first laod up the CD)
+ mnassif, yes to both or one or the other?
+ mnassif, o that would make a difference, can you check the pendrive?  I have no idea on that since I have never used one... sorry, well i gotta take off sir anyways.  Peace
+ mnassif, idk if you can or not...

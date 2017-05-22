@@ -1,0 +1,3 @@
+ it is not letting me upgrade because it is finding some files that i installed elsewhere than ubuntu's repository, is there a way to find out what they are so i can remove them for force an install over them.
+ nit-wit - nope
+ when i am using compiz, it only lets me select 1 desktop - anybody ever have that problem?

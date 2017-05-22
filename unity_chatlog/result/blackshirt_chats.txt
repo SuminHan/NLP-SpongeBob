@@ -1,0 +1,4 @@
+ hello
+ how to check if  we have sucessfully upgraded ubuntu system ??
+ histo: i know, i mean how to see our new system version
+ histo: thanks

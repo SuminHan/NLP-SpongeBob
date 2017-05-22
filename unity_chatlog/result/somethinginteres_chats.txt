@@ -1,0 +1,21 @@
+ DexterLB: rundown of what you've tried?
+ Roasted_: wouldn't it display on the display set as primary?
+ Roasted_: perhaps you should lodge a bug report.. seems like that'd affect many people
+ Roasted_: there's a new version of unity out that hasn't landed, that changes a number of things e.g. "Home Folder" to "File Manager". Maybe it is fixed in there
+ Roasted_: I had hoped it would be out by now, I am sure it will come in regular updates at -some- time. Not sure when
+ Roasted_: the latest version that's landed in user updates is 3.8.10 but 3.8.12 is up on Launchpad. Hopefully it'll be available soon
+ John_Gate: Usually natty should tell you about extra drivers. Try running "additional drivers" yourself
+ John_Gate: use the dash to search for "additional drivers" and run that and see how it goes
+ [diablo]: try uninstalling the package "overlay-scrollbars"
+ [diablo]: sorry "overlay-scrollbar"
+ John_Gate: it would appear you're out of luck, try joining the channel #ati to ask for help
+ mang0: what do you mean by "won't install"?
+ burg: Right click on network manager click "edit connections"
+ burg: should be able to set it up from there
+ Hedgehog456: not sure, here in AU the package information doesn't seem to be updating
+ friend complaining that Unity is slow, how can use Unity 2D to make it faster?
+ Vhozard: dmesg from terminal?
+ linux !lang-it
+ linux: Ubottu !it
+ Skei: do you have the hardware to run it?
+ Skei: hmm you should post in  #ayanta as well

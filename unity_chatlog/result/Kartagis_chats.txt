@@ -1,0 +1,11 @@
+ is it possible to chroot ssh except root?
+ because otherwise I can't log in as root
+ Blue1: this is a VPS
+ when I edit /etc/ssh/sshd_config to read ChrootDirectory %h and restart ssh, users can't log in. why?
+ unity?
+ Osmodivs: what is it? apparently I don't have the hardware tu run it
+ ask?
+ !unity
+ Osmodivs: I just upgraded to natty and when I rebooted, I got a message saying I don't have the hardware tu run unity
+ bikcmp: uid 0 and gid 127 can't write to that directory
+ bikcmp: you may want to ask in #postfix or #ubuntu-server

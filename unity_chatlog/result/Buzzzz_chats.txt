@@ -1,0 +1,1 @@
+ since we are talking dual screen do anyone know how to make flash appear on the preferred screen in an dual screen setup?

@@ -1,0 +1,3 @@
+ d3tour: you could use smth like istanbul or recordmydesktop
+ escott: gnoem-shell
+ d3tour: yes. I don't know how to modify the GStreamer Pipeline that is used to create that webm video. Dunno even if it's easily possible. It should be by writing a plugin thuogh.

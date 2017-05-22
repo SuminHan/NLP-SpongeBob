@@ -1,0 +1,28 @@
+ Looks like ppa.launchpad.net is what is dead. If I exclude that from my sources, I can proceed with the rest normally
+ Just upgraded to 11.04 - I've switched to ubuntu classic, but the menu that used to be under 'Appearance' to choose the visual effects level has disappeared.. Where has it ogne?
+ Under additional drivers, it says the nvidia driver is activated but not in use.... If I run glxgears, it runs awfully and not smooth at all.. Sounds like I need to switch something over to be accelerated
+ I'm running ubuntu classic, but still get those new off-window scrollbars - is there a way to disable them?
+ Something is borked with my video card-- Normal display is fine, but if I open up a movie file, everything has a blue tint. The additional drivers window says the nvidia driver is 'activated but not currently in use'
+ Can anyone help?
+ FunnyLookinHat, Have done, and I've tried both current- and 173
+ Ta, I'll check the link out, its an nVidia 8800 GT
+ ActionParsnip, I have now, I'll have a try with -recommended
+ thx
+ I wasn't searching for blue hue, I was searching for something else
+ Did the trick, thanks, no more blue hue :)
+ Is there an easy way to see if hardware acceleration is actually working? My original issue was that the additional drivers window says the nvidia driver is activated but not in use...  Things seem a little sluggish :)
+ glxinfo | grep rendering == direct rendering: Yes, so I guess to some extent its working
+ Bah, Bombono just gave me corrupted data.. Can anyone recommend a decent dvd burner for ubuntu?
+ (Don't want all the KDE stuff thats prereq for k3b)
+ Got a warning about corrupt data this time, and it wont open on any machines.. Perhaps I should reduce the burn speed manually
+ gmachine_24, Galvatron, thanks
+ gmachine_24, Bombono popped it up after the burn was meant to be complete
+ gmachine_24, Bombono DVD from the repo
+ Yeah, I liked K3B in the past, but don't fancy KDE dependency hell.. I'd normally use CLI, but was kinda in a rush, so click and go was more what I was after!
+ Doing it in DeVeDe now, at a reduced rate, we'll see what happens :) Thanks for the help
+ cabbagemoonlight, it works pretty well as it comes
+ for basic use
+ cabbagemoonlight, http://www.google.com/search?client=ubuntu&channel=fs&q=set+up+ubuntu+ssh+server&ie=utf-8&oe=utf-8&gl=uk
+ :)
+ I used the second one on the list when I set up I think
+ Right, DVD burned successfully with the ubuntu built in disc creator, time to try it out :)

@@ -1,0 +1,114 @@
+ I take it the torrents will be faster if I want to completly reinstall..?
+ IncognitoMan...how are you trying to connect...via command line?
+ torrent download is fast :D
+ ActionParsnip...I usually seed for a few weeks when I've downloaded :)
+ I swear I've never seen this channel so busy
+ ActionParsnip...any idea how I seed it from this computer when I install natty?
+ ActionParsnip...that's what I was thinking, thanks :)
+ I don't think it shows a release notification
+ just a lot of packages
+ it did when I was testing 10.10
+ cholo, go to "Help" then "About"
+ and see if it says anything about Beta
+ guys: "If you have been keeping up-to-date via the update manager, you automatically have the latest version, the Release Candidate. To do it via the command line, just enter"
+ http://ubuntuforums.org/showthread.php?t=574326
+ bkerensa, it will be
+ do they have torrent repos..?
+ damn :(
+ Ubuntu_user...XP and Ubuntu, whats up?
+ Ubuntu_user..full install
+ Ubuntu_user...I have done some Ubuntu/Win 7 installs...what's the issue? If you install Win7 first, then shrink the parition from the live CD and install from there it's usually okay (Windows 7 may need a disk check)
+ nick87720z: http://ubuntuforums.org/showthread.php?t=1140198
+ you need to change it so it will show "normal" releases
+ pigdad...what do you mean by "nothing happened"?
+ pigdad...can you move around the menu beforehand?
+ if so go to "check CD"
+ or whatever it says
+ pigdad...so you get as far as X opening?
+ pigdad...you should be able to check the logs to see what went wrong
+ usr13...you will need to reinstall GRUB
+ because Windows will use its bootloader
+ but not Ubuntu itself
+ ....I need some disks >.< this always happens on release day
+ trying to work out if I like this unity thing...but we're running with full speed and stability at the moment CaneToad
+ ccsm?
+ how come its now LibreOffice...?
+ I assume thats openoffice?
+ CaneToad, I see...I've been out of the game a while!!
+ can anyone tell me where the settings are...?
+ compizconfig-settings-manager
+ michaelschmid, sounds like a reinstall job
+ michaelschmid, I mean reinstall your operating system clean
+ michaelschmid, you could try uninstalling ubuntu-desktop and reinstalling it...that would likely purge a lot, but it is more likely to break things than fix
+ DASSSAD, it's out
+ DASSSAD, there isn't an 11.04 LTS
+ guys...if I upgrade my motherboard and CPU will ubuntu still play nicely...?
+ or will I need to reinstall?
+ awesome
+ I do have Windows too...will that need a reinstall?
+ >.<
+ this is one of those times I wish I didn't need to rely on Windows
+ is there anything like World Of Warcraft native to Linux?
+ escott..nope, they dropped it years ago
+ acicula, I know, it doesn't run well in Wine
+ that;s why I need Windows
+ acicula, it should have...it runs just very very slowly for me
+ acicula, yeah...graphics drivers
+ acicula, ASUS 5750 or something I think
+ 1GB cache memory
+ cost me about £60 last year
+ acicula, it's perfect in Windows...runs like a beast
+ its just it seems to have a problem with Wine
+ acicula, I'l try again...it has been a year since I tried
+ Starminn, may just need an upgrade for my mobo and CPU...they are lacking behind a lil bit these days
+ acicula, dual core, 2.6Ghz intel 775
+ galamar, its out
+ macross, I don't mind it tbh
+ TheRedOctober, I was just about too...
+ Wickedspawn, is that the one in the repo?
+ Wickedspawn, then yeah I am
+ Wickedspawn, ahhh I don't use that feature
+ sorry
+ WoW test 1! :P
+ ...where does FF download to??
+ nutsfornatty, usr13 .... it wasn't there, it was in my tmp folder
+ nutsfornatty, thank you...have done
+ any flight sims for Linux you guys know of?
+ excellent
+ does anyone know how I would get my music from my iPhone onto the natty installation?
+ BUGabundo, it'll be back in a week or two
+ does anyone know how I would get my music from my iPhone in Linux? :S
+ hmmm -goes and googles it a lil more-
+ ...does anyone know how to get multiple terminals..?!
+ in natty
+ ohsix...skype was showing up in my systray fine?
+ ohsix, I see...as a developer do I need to get things whitelisted in order to make them appear in the system tray now..?
+ fermisan, very slim chance but do back up
+ fermisan, it isn't beta
+ fermisan, nope it was released today
+ fermisan, it all depends...I personally like unity, others despise it
+ fermisan, yes
+ fermisan, just choose "ubuntu classic" when you log in
+ zetheroo...just use the super key
+ TerryBook, the WIndows key
+ zetheroo, it brings up a menu which you can seatch from
+ joepa, how come?
+ api1996, it should do
+ joepa...that should work...is it a new install or did you update? and zetheroo, I like to use my mouse as little as possible, find it slows me down
+ joepa, sounds like a permissions issue to me...not quite sure which file it will be though
+ joepa, try to make a new account and see if it does the same
+ zetheroo, you should be used to it within a few days :P
+ crazed]psyc, I believe so
+ entity, reboot in single-user mode
+ entity, hold on I have a command that will let you have write access again
+ entity, do you only have one hard drive?
+ entity, run fdisk -l
+ on the manual recovery
+ see what it says
+ entity,  if you need to edit the fstab to be correct, all you need to do is boot from liveCD and edit it
+ TerryBook, what's pissing you off?
+ the UI?
+ TerryBook, did you upgrade or reinstall?
+ TerryBook, that could be the issue...first thing I'd do is create a new account
+ Slimcea_boy, you'll need to be patient...they'll reopen in a week or two
+ urm...whos Vera?

@@ -1,0 +1,1 @@
+ So I reinstalled LAMP on the office ubuntu server due to a php issue, but now after using tasksel php5 is not working at all. I don't have libapache2-mod-php5, libapache2-mod-php5filter, php5-cfgi, php5-fpm. any ideas?

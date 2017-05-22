@@ -1,0 +1,4 @@
+ Can I recover my ubuntu by selecting the upgrade installation in tke live cd install?
+ hello
+ what do you mean by broken?
+ a failed upgrade on ubuntu

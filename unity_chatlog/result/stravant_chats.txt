@@ -1,0 +1,55 @@
+ cordoval_: Did you find any solutions?
+ I have a problem with mounting USB drives. Ubuntu always used to automatically mount USB sticks when I plugged them in, but it suddenly isn't anymore. I have already checked the /automount-stuff key in gconfig and it is set to true. How should I proceed now to figure out what's wrong?
+ These other things also stopped working around the same time (maybe at the same time?): My deskop is stuck automatically setting "keep desktop organized by name" when I log in. Also, Nautilus is all of a sudden taking forever to open large folders, when it was virtually instant before.
+ cordoval_: Did you find any solutions?
+ I upgraded and in the new UI none of my windows have menus. Like, the menu underneath the window title in the window frame, what's that menu called? I'm looking for a solution but I don't know what it's called.
+ I updated to 11.04 and the "File" menu at the top of the screen right now is black-text on black background (as well as the time indicator and the Ubuntu one menu), so I can't see it, is anyone else having this problem?
+ After updating to 11.04 all of the text for application file menus at the top of the screen, as well as the date/time indicator is the exact same color as the background, so I can't see it, does anyone have this problem or know how to fix it?
+ It's one of the standard themes
+ Where do I go to change the theme again, I can't fin it now
+ I have a dual screen setup and always use chrome on the left screen, with the unity desktop there's an extra panel at the top of the left screen wasting vertical space, which chrome never uses. It there likely no solution to this?
+ With the update my sound seems to have broken. It's not *broken*, it works perfectly fine, however it refuses to unmute, it will play for a second and go right back to being muted. Has anyone else had this problem?
+ My sound is "stuck" muted after the update. It *is* working, but it re-mutes itself after a second of playing every time I unmute it. How can I fix this? All I can find are bugs for this which are supposedly already fixed.
+ Yes
+ ohsix: http://pastebin.com/rXdqJxVT
+ That's when muted by the way, I can't get a copy of it when unmuted because it only plays for a fraction of a second
+ What's the exact command with pacmd?
+ I don't seem to be getting and output that would be useful
+ Just "welcome to pulseaudio"
+ ohsix: http://pastebin.com/udmgUD2V
+ Sorry for the delay, needed to pipe it to a file since it didn't fit in the console
+ Okay, does it need a command line option for verbosity or something?
+ ohsix: http://pastebin.com/mGX7Z2PD That's the output that comes up when I unmute it and it remutes
+ ohsix: That looks more useful: http://pastebin.com/ABW4t2kE
+ ohsix: That's the whole mute-remute cycle
+ I don't know, I would assume I only have one, I don't even have the indicator applets running, I tried removing them to see if they were the problem
+ ohsix: What would I be looking for in terms of multiple volume controls?
+ ohsix: (In terms of process names?)
+ ohsix: "gvfs-afc-volume-monitor", "gvf-gdu-volume-monitor", "gnome-volume-control" were open
+ ohsix: Or at least that's what I found with ps -A grep "vol" / "sound"
+ ohsix: I have like, 20 tabs open so I'm sure there's several things using sound references
+ ohsix: Would it help to only have one open?
+ scorch_: Alt + F2, about:config, then in experimental there's a size setting
+ scorch_: Does Alt+F2 bring up the "run command thing"?
+ scorch_: about about:config brings up CompizConfig?
+ scorch_: try sudo apt-get install compizconfig-settings-manager
+ scorch_: Then try about:config again
+ scorch_: Sorry, figured your were taking about the ones in the menu since I had the same problem
+ ohsix: So is there anything you can do with this: http://pastebin.com/TWwN9n8t paulsdio -vvv output for the muting?
+ ohsix: So it is the volume control muting it?
+ ohsix: Is there any way I can unmute it via the command line without havingt he volume control running?
+ ohsix: Is it possible to use amixer to set the muted state in a similar way to the GUI sound control? I looked up how to mute stuff from the command line but everything points to using "amixer sset "Master" toggle", however it appears I have no "Master" in amixer, just: http://pastebin.com/rMKUaexL
+ Is there any other volume control applet I can get than gnome-volume-control? Gnome-volume control is instantly re-muting itself when I try to unmute it. I now have reason to believe it's a bug in gnome-volume-control, since I tried it again this morning and it work one time... until I close gnome-volume control and it went back to being muted and now I can't make it work again.
+ ohsix: Do you remember the sound problem from yesterday? This morning I was playing with it and it worked for some reason, but broke again when I closed gnome-volume control. Would I be right in assuming that almost certainly means it's a bug in gnome-volume control?
+ ohsix: Is there any other volume control I can use to see?
+ ohsix: My system has always booted with the sound muted, even without gvc, so I need some way to unmute it, I assume
+ ohsix: Last time I had these sort of problems just uninstalling pulseaudio from the system entirely fixed them. Now that won't work anymore, is there anything special I would have to do to make it work?
+ ohsix: I know, but by fixed I mean that it let me hear sound
+ ohsix: Since there doesn't seem to _be_ any solution
+ ohsix: I did look into it more. It is indeed not gnome volume control, playing sound from _any_ program causes the sound to become muted until I unmute it in gnome volume control. The it doesn't actually instantly mute if there isn't any program playing sound, it only goes to being muted one a program tries to play sound. I would suspect it's some ugly internal thing?
+ ohsix: What? I don't have any sound card, it's the the integrated sound on the motherboard.
+ ohsix: http://pastebin.com/mRdwEj8K , http://pastebin.com/mRdwEj8K
+ ohsix: Another little point which may be useful. If I play a youtube vid for example, if I pause it, and then try to unmute using gvc, I have to click about 30 times before it will finally stay unmuted, as though there's some buffer it's going through and it takes 30 clicks to get through it.
+ ohsix: Could you point me to where the bug is listed?
+ ohsix: Thanks for the help, maybe that'll get me somewhere
+ ohsix: Yea, it's definitely that bug, plugging my headphones into the back panel (Thank god they have an unusually long lead), makes it work fine. I'll post my case to it

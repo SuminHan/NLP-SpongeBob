@@ -1,0 +1,44 @@
+ thauriswulfa: unity comes only when u installed it
+ thauriswulfa: u look on the panel whether it shows any circuit board symbol
+ thauriswulfa: click if it there and install the driver
+ thauriswulfa: unity needs display driver to be installed
+ thauriswulfa: go to system and look in preferences
+ thauriswulfa: then additional drivers and click and run
+ thauriswulfa: I dont know about error no5
+ thauriswulfa: usually when installed Ubuntu log in in to gnome desktop
+ thauriswulfa: after u installed u can select it on each login page.Select ur usename and password and before u press login select the preferred desktop from the bottom panel
+ thauriswulfa: thats what I said on live cd it log in to only gnome desktop and needs display drivers supporting 2d or 3d
+ anybody here know that Ubuntu 11.04 miss vpn service
+ ohsix: I installed openvpn and restart the system but it says vpn service failed to start on the moment I click the vpn connection.Even it does not try to connect
+ ohsix: the same way I did in 10.10 but it was working there
+ ASDF: can u log in to it?
+ ASDF: then u can copy whatever in ur hard disk
+ ASDF: on upgrade the documents r not deleted and u can take it back on running a live cd
+ ASDF: so u do run a live cd and save the documents before u do any further test
+ cannot save inside live cs but in a separate hdd
+ ASDF:cannot save inside live cd but in a separate hdd
+ ASDF: a restore of upgrade is not possible I think
+ sebastian: it is possible
+ sebastian: u got it from Pythonpup
+ sebastian: go to the system and select login screen
+ ASDF: ur statement is not correct
+ ASDF: on immediate upgrade after a release makes the problem
+ ASDF: pls stop
+ ASDF: people r not getting so angry when they buy a windows cd for many $ and fails
+ thegoodcushion: every new system is a headache on start up but get ok after we experience it
+ thegoodcushion: still u can add the PPA for gnome 3 in ubuntu
+ many people here waits to get their answer for their doubt.so pls fill here ur debate
+ many people here waits to get their answer for their doubt.so pls dont fill here ur debate
+ ramin; do a fresh install rather try for an upgrade
+ freeman: u said it
+ ohsix:I agree u
+ pls help me to connect VPN. I did as I was doing in 10.10 but here it not working but says VPN service failed to start
+ pls help me to connect VPN. I did as I was doing in 10.10 but here it not working but says VPN service failed to start
+ what service I need to install to get it.I did openvpn as in 10.10
+ -genuser: this is not a place to make windows slogan.Pls leave this place for Ubuntu lovers
+ alokar: https://launchpad.net/~ubuntu-mozilla-daily/+archive/ppa
+ linuxuz3r: http://linux.softpedia.com/
+ any video converter to suggest to make mp4 for Nokia E71
+ pennnn: u can select ubuntu cliassic from login window
+ any video converter  to make mp4 for Nokia E71
+ pennnn: dont worry, u can still install gnome by PPA

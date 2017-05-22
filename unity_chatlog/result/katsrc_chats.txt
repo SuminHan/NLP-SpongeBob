@@ -1,0 +1,15 @@
+ hey, can someone recommend me a good PPA for GIMP 2.7.2?
+ hey, can someone recommend me a good PPA for GIMP 2.7.2?
+ hey everyone
+ i'm trying out the Nouveau drivers but can't seem to set a correct resolution
+ it's only using 1024x768
+ Logan_: thanks
+ trying to compile and getting this error: "configure: error: C compiler cannot create executables" anyone have an idea what it could be?
+ hey all
+ do i have to specify: export CFLAGS=“-march=native” in order to get 64bit builds?
+ or is there a configuration some where that already does that?
+ why do we need firefox globalmenu?
+ every time i build GIMP i get a segfault when i try to launch it , anyone know what could be causing this?
+ botcity: compile it from source
+ botcity: even the PPA's cause segfault
+ i'm using Matt Walker's PPA: https://launchpad.net/~matthaeus123/+archive/mrw-gimp-svn

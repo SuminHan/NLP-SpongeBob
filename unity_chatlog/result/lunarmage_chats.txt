@@ -1,0 +1,3 @@
+ hello
+ My sounds stopped working with the new release
+ help me get my sound back to my speakers?

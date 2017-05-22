@@ -1,0 +1,4 @@
+ hi
+ i'm using unity and i'm curious if i can remove the workspace switcher
+ either by deleting a file, un-installing *something*, gconf or...?
+ i've disabled the expo plugin in ccsm but the icon remains in the launcher

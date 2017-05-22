@@ -1,0 +1,36 @@
+ yes, upgrades never go well
+ tell me an old hag, but clean install stuff people, do not upgrade stuff, that _NEVER_ goes well
+ celthunder, just stay here a few more days and see the amount of people asking things like "I upgraded and now stuff that used to work dont work anymore", it has already started
+ oh well, good luck people, fixing all your upgrading problems, see ya later
+ hello, what can i use to stream to an icecast2 server whitout having to use JACK?
+ oh... wait... darkice is working D:
+ so a lot of people is having problems whit the nvidia thing then
+ nope
+ you have to activate compsition itsmegb
+ you have to activate compsition itsTOREN
+ sheldon, all the people is having problems whit nvidia drivers, check the forums
+ !talk to me
+ >sudo jockey-gtk
+ glacia, there are vga emulators native
+ glacia, try gnuboy
+ that too
+ welcome to bloat
+ ruge gdesklets
+ crohakon, how are you reading the cd on the netbook?
+ there might be your problem, try to make a booteable pendrive
+ crohakon, then i guess you already knew this http://wintoflash.com/home/en/
+ then i recomend you download some other torrent on the internets and try burning it, remember not  to burn the iso into the cd but to burn the image itself
+ im pretty sure it is crohakon
+ crohakon, http://www.webupd8.org/2009/04/4-ways-to-create-bootable-live-usb.html
+ chronicle_, http://www.webupd8.org/2009/04/4-ways-to-create-bootable-live-usb.html
+ wait no
+ chronicle_, http://en.wikipedia.org/wiki/DansGuardian
+ RealOp, do a clean install
+ iggyology, icon?
+ iggyology, you left clic it go to propierties and edit the string
+ right right, iggyology just get the contextual menu
+ oh, launcher, you are using unity rite, sorry iggyology i never used it
+ iggyology, you are using ubuntu 11.04? if yes it comes whit the new unity interface, you can use the standard old interface loging out and choosing "classic desktop" at the log in menu
+ iggyology, thanks
+ interesting iggyology, but i dont really use unity, and being a xubuntu fan i think i never will :D
+ iggyology, very probably, its quite fast, but i thing lubuntu is the fastest of *buntu family

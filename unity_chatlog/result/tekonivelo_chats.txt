@@ -1,0 +1,3 @@
+ my Gwibber has been refusing to open for about a week now (Natty 11.04)
+ the Unity lens does display new posts by friends, though, so the Gwibber-service is working properly
+ i didn't find a bug on Gwibber launchpad about this

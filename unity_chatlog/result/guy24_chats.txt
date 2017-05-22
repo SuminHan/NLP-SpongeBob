@@ -1,0 +1,8 @@
+ hello
+ my computers went of in the middle of a ubuntu distro upgrade
+ im trying to read my encrypted hard drive
+ sudo cryptsetup luksOpen /media/sda1 crypt1
+ Cannot open device /media/sda1 for read-only access.
+ sudo cryptsetup luksOpen /media/sda1 crypt1
+ Cannot open device /media/sda1 for read-only access.
+ does anybody has a clue ?

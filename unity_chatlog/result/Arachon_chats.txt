@@ -1,0 +1,21 @@
+ I was wondering in which folder an smb share is mounted, I can't find it in /media
+ I was wondering in which folder an smb share is mounted, I can't find it in /media
+ MrToad: #ubuntu-offtopic
+ I think
+ Wait..
+ "And Freenode staff"?
+ I have a lot of hidden directories in my home folder, that carry the name of some installed programs (e.x. ".xchat" ".armagetronad"), would I be correct in assuming that these folders contain config data for said programs?
+ carl-m: Right, so, essentially, if I want to back up my savegames, this would be the place?
+ I realize this will vary between programs, but generally
+ I restored my home folder from backup after installing Natty, and now Unity is bugged, the panel is invisible (apart from a slightly transparent border) and the dock is completely missing
+ Aaanyone?
+ I restored my home folder from backup after installing Natty, and now Unity is bugged, the panel is invisible (apart from a slightly transparent border) and the dock is completely missing
+ mysterious: Nope, worked perfectly
+ mysteriousdarren: So there's something in my home folder doing it... Probably a config file that's hung around since 10.10
+ You can install Gnome 3
+ It's gonna break Unity, but you can still use Gnome
+ mysteriousdarren: The thing is, I can log into a guest account perfectly alright.
+ mysteriousdarren: Well, it's the same system... I just choose "Guest session" from the shutdown menu, and bam, unity's working
+ mysteriousdarren: so there's something in my home folder that came with me from Maverick
+ mysteriousdarren: Well that's just it... Lots of things hidden, .gconf, .compiz etc, that I'm not sure what it does
+ I guess I could load up natty in a virtual machine on my desktop, and compare the home folders

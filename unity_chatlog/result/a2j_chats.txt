@@ -1,0 +1,2 @@
+ hi
+ trying to compress folder on samba share, getting "No such file or directory" error. any ideas?

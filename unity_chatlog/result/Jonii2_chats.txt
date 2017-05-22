@@ -1,0 +1,80 @@
+ hey, I'm using ubuntu studio and I just updated to 11.04.  Now when i boot up, it tells me me hardware isn't up to date enough to use unity, witch is a joke in itself.  Then, it makes sure i don't have a mouse and i can't use the keyboard to get past the error message.  As soon as i boot, it gives me an error message with no way to get out of it.  can anybody help me or is my comp foobared...
+ ...yet again?
+ Dr_Willis: well the drivers were installed fine just before i upgraded.... now it doesn't matter as i can't get in
+ Dr_Willis: how am i supposed to do that? it never gives me a chance to boot to the console
+ Dr_Willis: ok, i'll do that. what do i type in to fix it though? I'm new to linux
+ Dr_Willis: alright i'll try that be back in a few
+ hey thanks so much Dr_Willis I got in to ubuntu now.
+ but still, i don't get why it thinks i can't use unity
+ I have the nvidia drivers for my graphics card... and i could run unity without a problem, but ubuntu once again has decided that its smarter than me. any help?
+ bc81, I'm probably going to end up reinstalling
+ Why is ubuntu telling me that my hardware isn't good enough to use unity, even when i have great specs and graphics drivers installed?p
+ I know i can run it, but ubuntu has decided its smarter than me yet again
+ Why won't linux let me use unity? its telling me my hardware isn't good enough when its sooooo more than good enough.
+ arand: yep, i just reinstalled them
+ arand: ima restart here and see if it helps.... brb
+ ok so i reinstalled my graphics drivers and now ubuntu isn't even giving me errors OR a choice, it just sends me to ubuntu classic. I REALLY WANT UNITY lol
+ arand_: I reinstalled drivers but it won't even let me try unity now, it just sends me straight to classic :(
+ DosAmp: I have an NVIDIA GTS 250 with the drivers on my computer.  I can run any game i choose with max settings, so hardware isn't an issue. I'll try logging out and back in, but last time i check, Ubuntu (unity) wasn't even on the list
+ DosAmp: just as i thought, ubuntu refused to give the option of booting to unity
+ DosAmp:  Ubuntu, Ubuntu (classic) ubuntu safe mode, theres a lot of options but not unity
+ PalinBachman2012: lol not in this case, its sending me back to the old style if i pick just ubuntu
+ unless unity looks EXACTLY like old ubuntu without compiz
+ PalinBachman2012: I'll try that i guess
+ PalinBachman2012: how do i enable unity from the compiz settings?
+ PalinBachman2012: I know but i can't find unity on here'
+ PalinBachman2012: and when i search it comes back with nothing
+ PalinBachman2012: yep i installed that and i can't find unity, but i know i upgraded.... the first time i booted it told me my hardware wasn't good enough to run unity and wouldn't let me close the error box...
+ PalinBachman2012: hang on.... i found it in ubuntu software center so i'm installing it through there
+ PalinBachman2012: I have the Nvidia GTS 250 1GB and yes, restricted drivers shows up, works, and i have the drivers and the nvidia control panel.  games work great, but this doesn't.
+ PalinBachman2012: hang on
+ PalinBachman2012: I SEE IT!!!!!!!!!!!!!!!!!!!!!!! lol
+ PalinBachman2012: thanks dude, your the only person so far who hasn't told me to fix everything by opening the console, im gonna relog and see if it works now
+ PalinBachman2012: thanks so much... unity works, almost. 2 issues, and one might not be an issue. First, ITS BLINDINGLY WHITE!!!! where can i go to change it back to my old theme?
+ PalinBachman2012: tensorpudding: yeah thats what i thought... but i'm really confused cause i can't find my appearance settings
+ ok well the bar at the top is still white, and so is chatzilla... but it has a dark theme :(
+ and i can't move the appearance window around
+ WOW ok so my theme only half works, most thinks are a terrible shade of grayish white. and if i unmaximize windows, i can't move them
+ tensorpudding: sure hang on
+ ok well i'm uploding the picture but its gonna look funny cause i have to screens
+ tensorpudding: do you have teamviewer? my picture doesn't want to upload lol
+ oh i think it worked
+ http://img171.imageshack.us/i/badcolors.png/
+ thats what my desktop looks like, its weird though because i have 2 monitors
+ tensorpudding: alright i'll try that
+ tensorpudding: ok well its better, but the menu bars have black text on a black bar and i can't change it, and i still can't move windows by draging their bar. is there a new way to do it now?
+ tensorpudding: no nothing happens
+ tensorpudding: the buttons work but even if i right click > move it won'd move the windows
+ PalinBachman2012: -.-
+ tensorpudding: nope
+ hey, ok so i disabled my other monitor and STILL i have black text on a black menu bar and STILL i can't move any windows
+ PalinBachman2012: yes
+ PalinBachman2012:  ok so its just this theme that is broken, other themes work ok, but still i can't move windows
+ PalinBachman2012: ugh
+ PalinBachman2012: I upgraded
+ tensorpudding: Well i'm using the Ubuntu studio theme but i can switch to other ones and the text looks ok, but nothing fixes my frozen windows
+ tensorpudding: nope that did nothing
+ tensorpudding: alt doesn't do anything at all
+ tensorpudding: yep the mouse works, it works the same with/without alt
+ tensorpudding: linux is soooo confusing
+ PalinBachman2012: i suppose that was a bad idea, to upgrade
+ tensorpudding: ok, relogging
+ tensorpudding: hmm?
+ tensorpudding: i just got back lol
+ tensorpudding: well i did your command and it didn't fix anything, but my configurations weren't changed much from default
+ tensorpudding: but when i made a new account it works fine
+ tensorpudding: maybe i typed in your command wrong or something
+ :( oh well i guess i'll just make a new account thats NOT named testing :D and use that, as long as it works
+ tensorpudding: ok i'll try that, how do i delete  them?
+ PalinBachman2012: I can move my windows on a new user account, and my theme looks.... terribly designed but thats not your guyses fault
+ tensorpudding: ok, i did that, ima relog
+ ok
+ tensorpudding: ok i'll get rid of that one to
+ tensorpudding: what about gconfd?
+ tensorpudding: alright thanks, relogging
+ tensorpudding: your my new best friend ever! you fixed it!
+ tensorpudding: still, terrible black on black menu bar but thats studio's fault not yours
+ tensorpudding: omg epic sadface
+ tensorpudding: to get the unity bar to pop out i have to put my mouse at the left side of my left screen, and it pops up on the left side of my right screen :(
+ tensorpudding: maybe not, i think i can swap my screens so my main is on the left and secondary is on the right, then it won't be bad
+ tensorpudding: thanks dude, your awesome, and you actually told me to use the filemanager instead of some super long terminal command. :D alright i need to go bask in the new Unity awesomeness, see you later

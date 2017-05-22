@@ -1,0 +1,1 @@
+ I've added my user to a group, but my shell doesn't know about it for some reason. is it possible to get a shell with the correct permissions without completely logging out of gnome first?

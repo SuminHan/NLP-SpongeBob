@@ -1,0 +1,3 @@
+ hey, my buddy's home folders (documents downloads pictures etc) have vanished mysteriously... any known bugs that'd do that or a log i could check for malicious intent?
+ hey, my buddy's home folders (documents downloads pictures etc) have vanished mysteriously... any known bugs that'd do that or a log i could check for malicious intent?
+ opening sound prefrences has a major issue with speech something on my machine... i get a bunch of randomly opening and erroring terminals complaining about python something something. any idea how to make sound prefrences work again?

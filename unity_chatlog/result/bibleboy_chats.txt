@@ -1,0 +1,42 @@
+ hello
+ is there any way to install ubuntu on my windows xp pc without partitioning my hard drive but without internet
+ thanks:-D
+ will ubuntu run on 512 mb
+ wait what do you mean smae directory
+ i have a win 7 pc with internet but want to install it on my old win xp along with xp
+ ok ill try that
+ my iso cd has wubi on it do i need internet for that or can i just use that
+ do  need internet to install wubi from my ubuntu cd i made from the iso
+ it has wubi on it
+ because i dont feel like having to start my live cd in persistent mode every time
+ my ubuntu cd has a wubi installer on it. do i need internet to use it
+ i can switch workspaces fine
+ well you may have had a problem installing ubuntu or its a bug. I am using the live cd
+ can i install ubuntu using the wubi on my cd i made from the iso file off the site.
+ idk i am new to ubuntu 11.04 i have only used 10.10
+ could some1 answer me
+ yes u must
+ hmm let me think xsinick
+ for the live cd try just burning the ubutnu iso to a cd. thats the way i made my live cd im running right now
+ Can I install Ubuntu from the Wubi on my Ubuntu installation cd without using internet.
+ i know doent it feel like that. I want gnome back instead of unity.
+ can i do that from the livecd cause` thats what i use. I dont have natty installed anywhere
+ hmm try reinstalling ubuntu kaie. u may have 2 start using 11.04
+ um make an installation cd and repartition from the installer
+ youll lose everything though
+ probably not.
+ U may have gotten one of the RARE linux viruses
+ I need this ? answered now. can i install wubi from the wubi on my ubuntu 11.04 installation cd without an internet connection.
+ :)
+ i dont want to lose windows
+ I want to do wubi so i can get rid of it easy
+ ive used wubi before so i want to use it again
+ ive done it before no problem
+ I use an uninstaller program to uninstall
+ what windows did you use
+ well i had one problem
+ i didnt have enough space on my HD
+ but that was it
+ nothing other
+ so i guess ill just try
+ see ya

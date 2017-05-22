@@ -1,0 +1,2 @@
+ does anyone know how i can make ubuntu classic the default in GDM login?
+ stefg: nope it doesnt seem to

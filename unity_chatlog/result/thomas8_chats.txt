@@ -1,0 +1,3 @@
+ jiltdil: search for Flash in about:plugins of your browser
+ bin_bash: true, it is very buggy I think
+ Black_Phantom: you'll need 4 Go at least I think

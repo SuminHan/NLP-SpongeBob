@@ -1,0 +1,18 @@
+ does any one know anything about knockd and ufw for multiple services?
+ can anyone help me with ufw rules please?
+ @mknarr thanks, but I have a rather more complicated setup, multiple daemons  multiple ports with different publishing rules required
+ @mknarr just need a nudge
+ @acicula I need ssh, ssl email ports and smtp, and web 80 available to internet + internal lan. I also need mysql ports only available on internal
+ @acicula I'm being a noob. I just open the lot don't I and NAT the rest through my router...
+ mello: try changing your session to gnome and setting the defaults in ccsm from there
+ rcmaehl: you can, just configure compiz
+ rcmaehl: can you be a bit more specific then? what are you trying to achieve?
+ rcmaehl, you are going to have to read the manual I'm afraid. You can start by maybe using KDE if you want a "start menu" and a taskbar at the bottom. Or you could move the panels around
+ rcmaehl: assuming you have gnome classic?
+ rcmaehl: Your day is getting better and better lol. I would roll back to 10.04. I'm not upgrading for a while yet because unity is *cough* unstable :-)
+ no unity is like mac
+ linux is just the kernel
+ skulltip: I was correcting you, not comparing the 2
+ samsagax: This is linux not windows :-)
+ osmodivs: I know, I still have to hack in some 2d sis drivers for my old laptop. Seems I have had a sense of humour failure or something
+ night guys. Good luck with Natty

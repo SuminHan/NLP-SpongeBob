@@ -1,0 +1,5 @@
+ I need to create a bootable CD from a windows XP sp3 ISO in order to reinstall XP on a netbook. I can't seem to burn a bootable copy of the CD using the ISO from MSDN. I am trying to burn the CD via Ubuntu using the built in cd burning software. Any ideas on what I am doing wrong?
+ I need to create a bootable CD from a windows XP sp3 ISO in order to reinstall XP on a netbook. I can't seem to burn a bootable copy of the CD using the ISO from MSDN. I am trying to burn the CD via Ubuntu using the built in cd burning software. Any ideas on what I am doing wrong? Please note that this is a legal copy as the owner of the netbook has a valid key. The owner is blind, and I am trying to help her out. Anyone?
+ Souperman, a portable external cd drive
+ Souperman, I tried that as well. The portable CD drive is not the issue. I was able to use other versions (newer) just fine, but the netbook has only 1 gb and the software she uses is for XP (though, sure it would work in newer versions)
+ Souperman, no, I did not. It is a zip file, is this a windows program?

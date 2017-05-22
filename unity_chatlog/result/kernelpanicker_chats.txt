@@ -1,0 +1,2 @@
+ I need to burn a dmg to a DVD to rescue my friend's Apple (using my linux machine).  How do I burn it in a way that the apple will boot from?  I'm assuming if I just burn the file, it won't be bootable, as the result will be a DVD containing a dmg file, and not what an apple would burn FROM a dmg.
+ Anyone know how to burn a dmg of a live DVD to DVD so it'll be bootable?

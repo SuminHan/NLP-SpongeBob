@@ -1,0 +1,27 @@
+ What's the best way to write a BootCD of Ubuntu in Ubuntu?
+ acicula,  Alright- I was just wondering if you needed another application to make it bootable like the Windows ImgBurn/MagicISO etc
+ Thanks though
+ Yo - I'm currently having an issue when booting into my Ubuntu 11.04 USB - The screen just goes all fuzzy like static but still static.
+  I'm currently having an issue when booting into my Ubuntu 11.04 USB - The screen just goes all fuzzy like static but still static.
+ DonDraper,  - Reinstall!
+ Well it depends if you've ran it as root :P
+ Glycan - If you want to delete the contents of a folder you do the rm -f but you do it like for example "rm -f /home/user/folder"
+ I've a question here on the upgrade for some reason Ubuntu wont install from my BOOT USB it goes all static on my screen, apt-get dist-upgrade wont upgrade it, running the updater with my Boot USB fails from multiple attempts from multiple downloads.
+ So what else is the best way to upgrade from the Beta of the Ubuntu 11.04 to the latest?
+ ikonia,  - I've already done that will run it again though
+ That command
+ The dist upgrade
+ And updating my apt
+ jrib sorry :P
+ I know I'm not upgraded to
+ Woops
+ 0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+ http://pastebin.com/T8ZQSWJ6
+ jrib - Yes, sorry I'm here
+ Yes I did two seconds will re-link it to you.
+ jrib,  - http://pastebin.com/T8ZQSWJ6
+ That's the thing I know I'm not upto date
+ If I plug my BootUSB into my laptop and run Update-Manager it tells me there is an update and trys to install it from the USB.
+ But for some reason it chucks errors at me, I cannot install from the USB as the screen turns like static you get from a TV but it doesn't move.
+ jrib - Can I pm you I can't read while everyone else is chatting and logging in/out of IRC
+ Alright, that gives 500s on everything can pastebin it for you if you like.

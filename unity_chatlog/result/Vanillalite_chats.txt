@@ -1,0 +1,1 @@
+ Can anyone else get chrome/ium to stay as the default browser or is this a known bug?

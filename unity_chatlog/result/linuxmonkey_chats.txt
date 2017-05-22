@@ -1,0 +1,7 @@
+ !party
+ !party
+ were would i find the md5 hash to make sure a cd i downloaded is authentic
+ botcity,  no i found it anyways. i downloaded it off newsgroups and just wanted to check the checksum
+ greenlantern, when you login select ubutu classic on the bottom
+ greenlantern,  just select ubuntu classic on the login screen....it will stay default unless you change it again
+ Steela,  what do you mean by "I can not get back firefox the way it was at all"

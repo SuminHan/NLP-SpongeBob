@@ -1,0 +1,5 @@
+ hey guys I'm trying to install ubuntu but my processor overheats so I'm trying wubi but when it I still get the problem. is there a way to scale cpu frequency for the duration of the install
+ hey guys I'm trying to install ubuntu but my processor overheats so I'm trying wubi but when it I still get the problem. is there a way to scale cpu frequency for the duration of the install
+ hey guys I'm trying to install ubuntu but my processor overheats so I'm trying wubi but when it I still get the problem. is there a way to scale cpu frequency for the duration of the install
+ I have sir and its really difficult to install as it shuts down
+ its an old laptop but is there a way around it?

@@ -1,0 +1,26 @@
+ natty has been released yay :D
+ does anyone else have an ATI Raden HD 5850?
+ im using ubuntu classic because this unity suddenly stops hiding itself etc.
+ hi all. how do i install sun java on 11.4?
+ jatt: is it adviced to use the sun java insted of the open jdk?
+ jatt: hm ok thx
+ ok thanks for all your help ;D
+ hi all. how can i put a java application into my launcher somewhere?
+ jetole: log out and then select ubuntu classic in gdm on the bottom
+ and then log back in
+ jetole: np ;D
+ jetole: ;)
+ jetole: ;)
+ vultraz: https://help.ubuntu.com/community/ReportingBugs
+ how do i set the default program used for .torrent files?= it uses ktorrent because i installed kubuntu-desktop but i want it to use transmission ...
+ ohsix: yes i want to set the default program used as i said ...
+ ohsix: i dont want to have to first browse to the .torrent file and then rightclick
+ ohsix: i want to open it right from my browser
+ ohsix: no u didnt
+ ohsix: nm
+ ohsix: sorry u were right i didnt read correctly
+ ohsix: thanks for oyur help
+ how do i open a java program from within the gnome taskbar or shortcut bar ... i would like to add it but dont know how
+ wait i think i got it
+ red2kic: yes i did that thanks
+ !gnome3

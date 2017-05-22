@@ -1,0 +1,22 @@
+ hi
+ I have 11.04 on my Macbook Air 11inch
+ everything works fine
+ except the sound.
+ The sound doesn't work at all
+ :/
+ Help!
+ It's as if Pulseaudio just doesn't see my sound input and output devices
+ yet runnning alsamixer returns the right device.
+ Uhhh Hello?
+ Urgh
+ Sound Not working
+ :/
+ urgh
+ HAlp
+ Sound isn't working
+ :/
+ helphelphelphelphelp
+ bitplane: How would I go about making my sound output and input work on 11.04?
+ bitplane: It really, really doesn't seem to be working
+ bitplane: I'm on a Macbook Air 3,1 if that makes a difference
+ bitplane: I've, uhhh, tried that already.

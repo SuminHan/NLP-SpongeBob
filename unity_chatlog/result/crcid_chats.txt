@@ -1,0 +1,2 @@
+ Hola
+ si actualizo a la nueva version , se pierden los datos de 10.10

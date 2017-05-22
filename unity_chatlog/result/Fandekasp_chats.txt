@@ -1,0 +1,2 @@
+ hi
+ I tried to configure the 3d desktop for ubuntu 11.04, and it broke some display settings. and now ... after restarting, everything is hidden, i can't see any menu bar any more.  the only thing I see is the background image ... and I can do ctrl+alt+mouse to switch between empty desktops ... Do you know what should I do to put back the previous settings ? I can open a shell with ctrl+alt+f1

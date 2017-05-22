@@ -1,0 +1,5 @@
+ Hello ubuntu chat
+ This is the 3rd time I've installed ubuntu, and maybe the 10th time i've tried installing the fglrx drivers from th ati website and I get the same error every time; X11: extension GLX not found;
+ Im using Ubuntu 11; Trying to install FGLRX; I get the same problem everytime; X11: GLX extension not found
+ cache_sureplush: sounds like the bootloader didnt install probperly or your boot partition isnt set
+ Anybody have a link to installing FGLRX on fresh install NAtty

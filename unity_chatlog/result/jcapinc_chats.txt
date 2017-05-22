@@ -1,0 +1,16 @@
+ I just upgraded to 11.04 and it uninstalled my proprietary video drivers and now they cannot be found in additional drivers.  I cannot enable compositing now when I could before.  dell insperon 6400 : any suggestions?
+ I just upgraded to 11.04 and it uninstalled my proprietary video drivers and now they cannot be found in additional drivers.  I cannot enable compositing now when I could before.  dell insperon 6400 : any suggestions?
+ ATI x1400 256mb Radeon
+ I am trying to install the ATI binary driver from the software manager
+ ATI Mobility Radeon X1300 proprietary drivers were uninstalled when I upgraded to 11.04 and they are not in jocky and I cannot compozit now.  why is this happening?
+ ATI Mobility Radeon X1300 proprietary drivers were uninstalled when I upgraded to 11.04 and they are not in jocky and I cannot compozit now.  why is this happening?
+ I just installed 11.04, I have ATI Mobility Radeon X1300, which is in ubuntu wiki's list of supported cards, and jocky is not showing me proprietary drivers
+ and I cannot compozite when I could in 10.10
+ how do I get X11 to use FGLRX and not ATI's free drivers?
+ I should not have updated
+ another terrible release
+ you dont want to go to natty
+ wait for the next lts
+ yea I dont get why ubuntu is ditching gnome3
+ ubuntu 11.04 broke my compiz support baddly
+ should not have upgraded

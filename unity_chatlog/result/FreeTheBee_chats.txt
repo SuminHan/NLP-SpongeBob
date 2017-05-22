@@ -1,0 +1,12 @@
+ Hi, does anyone know if texlive is part of the default install in natty?
+ Withong_ a bit more sober than banshee but mopidy works natively
+ it's based on mpd (music player deamon)
+ is it possible to get rid of the 'apps available for download' items in the unity apps menu?
+ check some close by mirrors
+ I grabbed an iso this afternoon and just upgraded my system tonight, both downloads were really fast
+ I wonder what the thought was about putting a tablet/netbook gui in a desktop os
+ is there any configuration possible besides the stuff in the ccsm unity plugin?
+ like the size of the dash
+ akashm1990 I have it installed
+ haven't played more than a little bit
+ sure

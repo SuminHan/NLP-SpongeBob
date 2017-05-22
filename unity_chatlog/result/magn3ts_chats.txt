@@ -1,0 +1,14 @@
+ wait wait wait, UGR is gnome 3?
+ Don
+ Don't they realize 11.10 will come with gnom3?
+ UGR is a gnome 3 ubuntu variant... 11.10 will come with Gnome 3 available as well, so what's the point of UGR?
+ bazhang, ^
+ so what exactly is the point of UGR??
+ Ubuntu Gnome Remix
+ It was in reaction to unity.
+ ?
+ http://ugr.teampr0xy.net/
+ bazhang, I understand.
+ I'm asking for speculation as to why they're making their own distro.
+ :/ hmpf.
+ Does anyone have GNOME 3 working in Natty? Every time I try to install it, it blows up and wrecks all my DEs.

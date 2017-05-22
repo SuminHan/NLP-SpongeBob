@@ -1,0 +1,11 @@
+ After a fresh install my headphones worked fine (auto switched to proper output) but when I restart my headphones are not recognized anymore (I did another fresh install without changing a single thing, just restarting and it still happened), any help?
+ After a fresh install my headphones worked fine (auto switched to proper output) but when I restart my headphones are not recognized anymore (I did another fresh install without changing a single thing, just restarting and it still happened), any help?
+ Can someone help me get my headphones working? They were working before I restarted
+ LjL: ok, ill try
+ eamon: thx, trying alasamixer first hold on
+ eamon: there is no master thing, only PCM (which was not muted)
+ eamon: Headphon
+ pattysmath: what do you mean, "what is an rss program" or what is a good client to use?
+ pattysmatty: don't rule out Google Reader
+ my front panel audio connection is not working after I restarted, any help please?
+ can anyone please help me with my audio problem?

@@ -1,0 +1,24 @@
+ hello
+ I have a netbook with an internal ssd hdd and an sd card, winxp is on the hdd while ubuntu + grub are on the sd card
+ the sd card is set to boot first, so when I turn the netbook on with the sd card inserted, I get grub
+ if I boot the netbook w/o the sd card, winxp boots (no grub)
+ now I want to remove grub from the sd card; how do I go about doing that?
+ knock knock
+ a guy looking for help about removing grub :P
+ haqzor7: "a site"?
+ sweet
+ so first of all; it's done from linux I guess, not from windows?
+ ok thx
+ hello
+ I have updated from 10.10 to 11.04 and now I have a problem with grub
+ I need to choose a different default OS in the grub menu
+ in 10.10, I had solved with a nifty app called startup-manager
+ now it is still installed, but does not work anymore
+ can you help?
+ user82: thanks; there is surely a commandline way, but I do prefer the gui
+ re
+ ok it kinda worked, but now I'd like to understand why StartUp-Manager does not work anymore, why it hasn't been uninstalled during the upgrade, and why I can't seem to be able to sudo apt-get remove it
+ it might be my setup, but on my eeepc, ubuntu has become slower and less usable with every new version... :(
+ with v9, it outperformed winxp; now it takes 3 times as much to boot, for example
+ curiosity killed performance on my netbook ;)
+ so, can anyone shed some light for me on startup-manager?

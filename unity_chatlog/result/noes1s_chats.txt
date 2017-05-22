@@ -1,0 +1,7 @@
+ Hello, any guru here knows where the nm-applet stores/saves the networks? (I want to delete that file every time i reboot to stop autoconnects)
+ rumpe1 thanks for reading my lines, well, i was doing it using the GUI, but i would like to do it from command line, or editing the file. I use a lot of networks everyday and my list keeps increasing bigger and bigger on every city i visit, its a pain to manually edit 50+ networks while you travel
+ rumpe1 thanks, ill do a bit of research for it
+ Where are network-manager networks saved?
+ Im doing a script, can someone do "ls .gconf/system/networking/connections/*" and tell me the output?
+ What is the file/script used every time that i connect to a network?
+ How can i run a script when i connect to a wifi?

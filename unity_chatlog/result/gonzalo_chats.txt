@@ -1,0 +1,23 @@
+ Hello, I am trying to install a program called ROOT. I did: ./configure and it says: libX11 MUST be installed. I ran the command: sudo apt-get install libx11-dev and it said it is already installed. What is wrong here? Thank you.
+ Help, please!
+ Help me, please :)
+ Can somebody help me with a linux question?
+ I asked it
+ before
+ I'll copy
+ Hello, I am trying to install a program called ROOT. I did: ./configure and it says: libX11 MUST be installed. I ran the command: sudo apt-get install libx11-dev and it said it is already installed. What is wrong here? Thank you.
+ ROOT is a program developed by a Physics laboratory: CERN. http://root.cern.ch
+ I installed ROOT successfully on Ubuntu 10.10 a couple of weeks ago
+ Hello, I am trying to install a program called ROOT. I did: ./configure and it says: libX11 MUST be installed. I ran the command: sudo apt-get install libx11-dev and it said it is already installed. What is wrong here? Thank you.
+ Silentmyst: Yes
+ laterallink: I was doing it without sudo, I'll try with sudo now
+ laterallink: I tried "sudo ./configure" but it gives me the same message: "libX11 MUST be installed"
+ HyperShock: I work in the Faculty of Physics of the Catholic University of Chile, and we work with data from the LHC particle accelerator. I need ROOT to process that data
+ HyperShock: ok, I'll install that
+ HyperShock: E: Unable to locate package build-essentials
+ HyperShock: the official page of the ROOT software is at root.cern.ch
+ HyperShock: build-essential is already the newest version. (thanks for your help, by the way)
+ HyperShock: Is there any way to make the configure file recognize my libX11 package?
+ HyperShock: 11.04
+ HyperShock: How do I PM you?
+ Thank you, Ubuntu Community, and thanks to HyperShock!

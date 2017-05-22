@@ -1,0 +1,12 @@
+ anyone have luck with xcompmgr and fluxbox?
+ im trying to get a dock that requires transparency
+ no im running fluxbox
+ ill run xcompmgr and then my dock but no transparency, just a black bar
+ ubuntu
+ yes
+ anyone running fluxbox with a dock like awn or cairo-dock
+ unity is stupid
+ simple and minimalistic easy to config
+ biffsharp : can u get the device into monitor mode?
+ airodump --channel 7
+ or what ever channel

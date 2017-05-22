@@ -1,0 +1,6 @@
+ Hello. Am I blind or that Unity bar is completly uncustomable? E.g. I want to add also folders there, edit width etc...
+ removing gnome applets such as weather, notification area... sux :(
+ sebsebseb: thanks... yeah, that sux :/
+ I miss the notification area the most! How can I easily see what am I playing in Rhythmbox, if my Dropbox is synced or everything else is happening? For this I must go back to Ubuntu Classic
+ hypetech: thanks man!
+ I have a folder ~/Desktop/TV Serials/Himym - when i try to search "TV Serials" it finds the folder. When I search "Himym" it finds nothing. Does this happen to you?

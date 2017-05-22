@@ -1,0 +1,9 @@
+ I having trouble with my wacom tablet in 11.04, I can't work it out, seems all pressure sensitivity is gone, apart from slighting on and completely ON.. i've tried uninstalling all drivers that i can find in synaptic, restarting, etc.. is there some problem I not know about?
+ does anyone on 11.04 have Wacom tablet working correctly?
+ oky it seems people who having installed fresh 11.04 rather than upgrading from 10.10 are not experiencing problems with tablet sensitivity and such, anyone know where I might start to fix the problems I'm having without a full re-install?
+ Halzen, new kernel arrived today via synaptic, it hasn't cured problem
+ Halzen, thanks, but I dont fancy having to go throught the thing of also compiling kernel modules for video card and such ideally
+ Halzen, it must be something to do with X configuration though, to be honest, perhaps I can just kinda reset everything
+ Halzen, perhaps I will try that, you've given me idea to have a go with first though, and that is to try removing video card drivers, reset X and start over with that
+ Halzen, cheers. I bookmark your link for sure
+ see you on the other side

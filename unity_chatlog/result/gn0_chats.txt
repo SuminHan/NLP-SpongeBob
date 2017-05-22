@@ -1,0 +1,3 @@
+ Hi
+ I'am going to purchase a Dell Inspiron 15R with a Sandy-Bridge based Intel Core i5 2410M. After reading some bad news about Intel Sandy-Bridge and Linux, I had noticed that Ubuntu 11.04 Beta2 supports Sandy-Bridge, so, here's the real question. Does Ubuntu 11.04 stable support 3d graphics with Sandy-Bridge or at least VAAPI acceleration with mplayer or similar?
+ ohsix: Thanks for your help, I didn't thinked about looking for support information in vaapi repos.

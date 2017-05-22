@@ -1,0 +1,8 @@
+ ubuntu seems to get slower and slower with every release
+ anyone installed uubuntu in windows
+ i always found audio to be really poor in all lunux distros. don't understand why
+ 5.1 does not work. sound scratchy when adjusting audo
+ just not the same
+ ubuntu 11.04 does not install broadcom drivers
+ is there anything that i can do to make things faster? things load so slow
+ ubuntu seems to be getting slower and slower with every release

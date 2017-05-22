@@ -1,0 +1,3 @@
+ Hi! How can i make my server to start up on boot? I have nginx wich is located in /opt/nginx/sbin/nginx
+ Dr_Willis: I need to 'ln' it?
+ Ok, thanx

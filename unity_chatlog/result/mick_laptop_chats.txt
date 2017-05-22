@@ -1,0 +1,18 @@
+ anyone know how to tell casper to start an app on start?
+ i tried a few things like an entry in .xsessionrc in /etc/skel
+ so far nothing :(
+ MaRk-I: i'm working on a remixed cd
+ so i'm dealing w/ casper directly
+ what does "source" do? (no manpage), I know it doesn't execute a file... but something like that?
+ hi, does anyone know why I can't autologin? I have it set to login w/o a password under my username, and under login preferences - there is a checkbox "automatically login as..." but my user isn't in the dropdown and it is grayed out. any ideas?
+ herc_: ubuntu.com
+ herc_: what do you mean?
+ herc_: how do i make it not wait? -- btw i'll try that in a bit (to just wait)
+ ashmew2: playing w/ the bot or did you misunderstand something
+ anyone know of a mirror for 11.04 server for i386?
+ seems like it is down for all mirrors :(
+ http://ftp.utexas.edu/ubuntu-iso/CDs//natty/ubuntu-11.04-server-i386.iso
+ example ^^^
+ hi everyone, I installed ubuntu on an Acer laptop and everything was going just fine (for a few days) - now it is acting funny (started w/ X not really working like it should etc.). Now i get "No init found" and a busybox prompt
+ when i try to reinstall (w/ a cd or usb) I can't get passed that prompt
+ i took out the hdd - truying again

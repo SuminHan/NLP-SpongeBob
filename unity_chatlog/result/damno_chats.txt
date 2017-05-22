@@ -1,0 +1,5 @@
+ i cant set eth1 as default for ntop
+ damiano: hi
+ damiano: tell
+ I cant set eth1 as default for ntop
+ I cant set eth1 as default for ntop. any help?

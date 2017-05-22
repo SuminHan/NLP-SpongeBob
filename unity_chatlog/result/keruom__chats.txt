@@ -1,0 +1,6 @@
+ hi, I a but confused with linux-backports-modules-compat-wireless packages. I need to have at least 2.6.37-2.6.32-31-generic, where the 2.6.37 is important
+ but i want to have automatic updates working, so I would like to install 'linux-backports-modules-compat-wireless-2.6.38-lucid-generic' as the package desription suggests...
+ but there seems to be no such package on lucid
+ Blue1: thx, but the problem is somehow different :-) I am missing the linux-backports-modules-compat-wireless-2.6.38-lucid-generic package in lucid
+ linuxuz3r: yes
+ linuxuz3r: eeeh, sorry :-)

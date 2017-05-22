@@ -1,0 +1,13 @@
+ this the best channel to deal with a server upgraded to natty which won't now go beyond a grub prompt?
+ hm
+ I've managed to rescue a broken grub menu after upgrading to natty
+ however I have no console now
+ just a cursor
+ I can ssh in
+ nothing seems "hung"
+ Dr_Willis: interesting
+ Dr_Willis: only after hitting alt+f1 do I get a console
+ usr13: isn't tty1 supposed to come up by default these days?
+ Dr_Willis: this is a headless virtual machine - no X
+ I'm looking at a vmware console
+ Dr_Willis: just had to rescue it having upgraded from 10.10. This really is not going well

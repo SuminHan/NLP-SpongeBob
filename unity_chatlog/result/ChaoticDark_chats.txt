@@ -1,0 +1,2 @@
+ hey, tryin to run Wubi to install alongside Win7, get the popup "There is no disk in the drive. Please insert a disk into drive \Device\Harddisk1\DR1." with the title "pyrun.exe - No Disk".
+ hey, tryin to run Wubi to install alongside Win7, immediately get the popup "There is no disk in the drive. Please insert a disk into drive \Device\Harddisk1\DR1." with the title "pyrun.exe - No Disk".

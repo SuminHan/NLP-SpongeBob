@@ -1,0 +1,15 @@
+ for unicef
+ I tried booking this band, but for some absolutely bonkers reason, they're not within my budget range: http://www.youtube.com/watch?v=oHg5SJYRHA0
+ I mispasted IdleOne.
+ It's true though. I'm part of a ngo that's organising a music festival in my local town...
+ for unicef
+ At least till the release of 11.04 later this day, it uses gnome :P
+ I've had some issues while installing natty 64bit.
+ When the installation process comes about to install GRUB, it fails.
+ It simply states that it cannot install it.
+ I must add that I tried installing it on a RAID 0
+ I switched back to 10.10 [4-tea-2]
+ and then upgraded that one to 11.04.
+ it's all fine and dandy now, [4-tea-2].
+ is there a good tool to modify grub for ubuntu?
+ Well, that's the kind I hope to avoid :P

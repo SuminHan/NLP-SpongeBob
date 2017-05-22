@@ -1,0 +1,2 @@
+ Hello #ubuntu, wondering where a good place to go for support on the bundled remote desktop application in 10.10
+ Hi

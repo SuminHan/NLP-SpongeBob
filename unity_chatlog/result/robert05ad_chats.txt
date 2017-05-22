@@ -1,0 +1,40 @@
+ You can install 11.04 fresh
+ iwconfig is like ifconfig but for wireless I believe
+ iwconfig wlan0 will tell you the status of wlan0
+ what problem you have with wired?
+ ah ok
+ pooltable, check ubuntu's website, they have resellers
+ when you type iwconfig wlan0 what do you get?
+ running in vmware? ?
+ oh oh Lin, I know that answer... but not off the top of my head lol it's a mount option but i forget
+ I just removed my ubuntu from my VM machine so I cant help to remember it lol
+ waiting on 11.04
+ none are released yet
+ right lin
+ shoot regretting removing it now..
+ try man mount
+ yeah Dibs
+ few hours yet
+ when 10 came out we were all sitting in here until like 2 am lol, (central time)
+ lol dibs
+ hey Lin, did you try mount -t nfs option?
+ instead of -t nfs4
+ Hello Devil999
+ lol
+ Where you at Actionparrship so I can get it too lol
+ 16gb?
+ you can get a 32 gig usb drive lol
+ oh ok
+ I just bought the vertex 2 160, looove it
+ should have waited on the vertex 3 lol
+ not yet basso
+ KaAtta, I have no idea what that even is lol
+ ati is notoriously bad for linux support.
+ those wont sli brisky
+ You can install 11.04 fresh
+ 2mbps isnt bad http download
+ weeMbps
+ I hate stupid people
+ I'm still a noob but i think it's "vm" to edit it
+ something like - vm /etc/apt/sources.list
+ yeah vim sorry

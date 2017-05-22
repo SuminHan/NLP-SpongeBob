@@ -1,0 +1,1 @@
+ hello is it possible to add a song to loved list at last.fm with Exaile music player? according to this https://bugs.launchpad.net/exaile/+bug/739264 there seem to be a plugin to do that, but i can't find it anywhere :(

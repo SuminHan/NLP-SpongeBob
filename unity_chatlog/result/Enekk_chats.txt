@@ -1,0 +1,26 @@
+ Hello everyone, I hate to bother, but I was hoping someone could tell me if there was a way to reduce/disable the active window shadows in 11.04.
+ (I already tried the Compiz window decorations plugin in ccsm)
+ Sorry I might have missed if someone answered my question, I hit the wrong thing and killed chat (derp)
+ @Name141: Yes, check out https://wiki.ubuntu.com/LiveUsbPendrivePersistent#Installing%20Ubuntu%20on%20USB%20drive%20using%20Windows
+ Name141: You might want to download the 64 bit alternative iso, maybe it is a weird driver issue?
+ Name141: Is your machine in fact not 64 bit?
+ Name141: Well, google tells me that the the E2160 is 64bit, I'd guess the other is as well
+ Name141: but it sounds like you hit a graphical issue if you just got a black screen.  Try the alternative isos
+ Name141: That is why I think drivers, maybe graphics, it has a fully graphical install environment
+ Anyone out there know how to remove the active window drop shadows in 11.40 on classic mode?
+ bobbyd: Check out Ubuntu Tweak (google for it) I think it'll do that (not sure if it will for Unity)
+ Name141: Yeah, it installes the iso to your flash drive and then you can boot off of that
+ bobbyd: oh, sorry then mate
+ bobbyd: I think it might be hard because of the unity menu thing - it literally occupies the space that a right sided control would
+ Name141: You don't really need much, the thing is that it will partition the free space and you can always save to that.  Maybe set it to 1 or 2 gigs
+ Bobbyd: I left unity for classic too, not worth the pain
+ name141: that's more than enough
+ bobbyd: true, give it a release cycle or two
+ name141: it does because it is making a 2000 meg container, give it time
+ Name141: I tend to install from the USBs, if this fails you really should try the alternative ISO when your cap is up as it has a non graphical installer
+ Name141: Understood.
+ Name141: You might also want to go download The Ultimate Boot CD and run some burn in tests on your hardware, but that will need to be made a CD
+ Name141: Yeah, sorry about that, the whole making space thing takes for freaking ever
+ Name141: Likely not, I've seen it take upwards of 10 minutes before
+ Name141: I am going to have to run now.  Anything else I can answer before I do?
+ Name141: Well, I hope not.  Good luck and remember, if you really want to test your new hardware go download the Ultimate Boot CD and run some of the testing tools on there.  I always do it with new hardware.

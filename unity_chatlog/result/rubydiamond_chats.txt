@@ -1,0 +1,8 @@
+ Guys what should be the 'gateway' and 'dns-nameservers' in /etc/network/interfaces .. if there is none
+ mbeierl: from where can I read it
+ mbeierl: I have a linode slic
+ :)
+ mbeierl: dhcp
+ Guys I had installed ufw.. now I removed it .. but config files for it are still sitting in my Ubuntu
+ how to remove those config files too
+ I tried autoremove and purge

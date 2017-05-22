@@ -1,0 +1,1 @@
+ ok, i downloaded 11.04  installed it, no errors that I saw and when it started to boot for the first time, as soon as it goes past Grub loader  ubuntu hangs at a black screen with blinking cursor,   what could be wrong

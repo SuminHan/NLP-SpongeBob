@@ -1,0 +1,9 @@
+ Can someone help me upgrade, i am getting Error authenticating tzdata and tzdata-java
+ from amd64 10.10 to 11.04
+ Can someone help me upgrade, i am getting Error authenticating tzdata and tzdata-java
+ alltray firefox doesnot show atray icon in natty. Any idea?
+ alltray firefox doesnot show atray icon in natty. Any idea?
+ alltray doesnot work with firefox in natty any help ?
+ Dr_Willis: but it is already working with other apps i tried it with calculator app ok
+ i am in classic not unity
+ i am getting WARNING **: Liferea seems to be running already under unity but i dont see it visible i tried alt-tab not in the list

@@ -1,0 +1,4 @@
+ OS X also, just use su -
+ nukem: su - ; whoami -->root
+ since when?
+ Dr_Willis: no, it works, but after you set the root passwd once

@@ -1,0 +1,10 @@
+ Secure trilevel encrypted Com/chat server
+ > ssh -2Cc blowfish-cbc -p 20622 -l user magizian2.dyndns.org
+ Password is freeaccess     /join #new      make an account
+ Secure trilevel encrypted Com/chat server
+ > ssh -2Cc blowfish-cbc -p 20622 -l user magizian2.dyndns.org
+ > or
+ > ssh -2Cc blowfish-cbc -p 20622 -l user magizian.dyndns.org
+ Password is freeaccess     /join #new      make an account
+ Secure login Windoze Magizia HyperTurbo OS Zx86/64v2 FREE ACCESS public beta server
+ > ssh -2Cc blowfish-cbc -p 20022 -l user magizian2.dyndns.org

@@ -1,0 +1,27 @@
+ Hello, can anyone tell me what has happened to my comp? My keyboard does not work in Terminal except for the enter button
+ can anyone tell me why my keyboard stopped working in terminal
+ it works otherwise
+ can anyone help me?
+ yes
+ everything else except terminal
+ whats a kb?
+ oh
+ its not pluggable
+ laptop
+ i tried a new profile and looked at the preferences but it didnt seem to be anythingin there
+ i just upgraded to natty narwhal
+ maybe that has something to do with it
+ the terminal was working
+ hmm
+ i got up to the point where it wants you to input your password to get your encrypted key to store
+ and it stopped working
+ yes the terminal was working
+ now I am at the point where it wants to randomly generate a key
+ so I clicked run action now
+ it pulls up the terminal
+ and suddenly only enter works
+ no i will restart
+ restart terminal?
+ yea i did that
+ but i will restart the computer if this it what you are thinking
+ oh ok

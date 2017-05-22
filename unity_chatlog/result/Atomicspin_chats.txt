@@ -1,0 +1,9 @@
+ Does anyone know of an issue where the backlight on a laptop screen won't come on?
+ Is there a fix?
+ drAg:  I don't see that option in there.
+ drAg:  There's nothing referring to it.
+ msg drAg Still don't see it in Power Management.  On Natty btw.
+ That's what I get for using BitchX
+ taglass:  Can you send the link one more time?  lost it.
+ Wireless was working fine in 10.10, now it's not in 11.04
+ I have the STA drivers installed.

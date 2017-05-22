@@ -1,0 +1,4 @@
+ I have a mac powerbook model 5,2 (17" intel) that I am trying to boot using an Ubunt (11.0.1) live cd but when I select run from cd it just displays an undeline blinking cursor
+ is there anything special required to boot a mac powerbook from ubunto 11.0.1 live  cd?
+ which is?
+ as I already wrote. when I try I get an underline blinking cursor

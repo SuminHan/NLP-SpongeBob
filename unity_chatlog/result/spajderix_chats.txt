@@ -1,0 +1,2 @@
+ hi
+ i installed unity-2d, uninstalled it after 10 minutes of using, and now in unity-3d i have no window decoration, does anyone know how to make it right?

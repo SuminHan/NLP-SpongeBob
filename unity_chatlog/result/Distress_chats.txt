@@ -1,0 +1,5 @@
+ Hello, im having major issues with the sound input on my fresh ubuntu 11.04 install. The sound is really distorted, and when i make test recordings the audio gets randomly looped on the track.
+ Anyone else having issues with audio input in 11.04?
+ crap
+ Why is my firefox plugin container using 470 mb of memory? I only have adblock plus installed atm
+ ah, that explains it

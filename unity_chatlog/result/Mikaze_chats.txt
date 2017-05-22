@@ -1,0 +1,3 @@
+ Long as I can `echo "speakup_soft start=1" >> /etc/modules` and reboot and  thenhave  accessible access to the text console, I'll be happy with Ubuntu.
+ I wanna switch from Debian to Ubuntu, and mostly use the text console.  If Ubuntu doesn't have the 2.6.38 kernel with speakup available, I'll be fine.
+ I wanna switch from Debian to Ubuntu, and mostly use the text console.  If Ubuntu doesn't have the 2.6.38 kernel with speakup available, I'll be fine.

@@ -1,0 +1,5 @@
+ Hey guys. How can i install python 2.7 in ubuntu 10.10 ?
+ Is there some ppa i can use? (have looked but not found)
+ Halzen: damn, thats unfortunate
+ Hey guys. On my ubuntu 11.04 server, when i add a ppa, via add-apt-repository, apt-get doenst use it. Or, not fully anyways. As you can see here: https://gist.github.com/952345 I add the repository and update, but its not on the list over loaded repos. I did a strace that shows it actually does "see" the repo: http://paste.ubuntu.com/602496/
+ I have asked in #ubuntu-server. No answers. Can you guys help me?

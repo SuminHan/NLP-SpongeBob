@@ -1,0 +1,6 @@
+ hi
+ i need to run a couple of lines on terminal, at the start of Ubuntu ? How do i do that?
+ Dr_Willis: it is for fixing the resolution
+ xrandr --addmode ... and other
+ but it is needed for all users
+ Dr_Willis: maybe with a script on etc/init/ ????

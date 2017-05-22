@@ -1,0 +1,6 @@
+ PeterMaffay-> a good way to cakup you whole system is with clonezilla here:  http://clonezilla.org/
+ backup
+ I've just done a fresh install of ubuntu 11.04 and I have no sound - I got sound working in 10.10 by uninstalling pulseaudio and installing alsa -does anyone know what I can do to try and get pulseaudio working in 11.04
+ after a fresh install of 11.04, i installed vlc,pigin, xchat ,thunderbird,skype, however from the start I had no sound
+ it is unmuted
+ Dr_Willis-> i installed the Gnome Alsa Mixer and played around with that and it solved the problem. Thank you for the tip

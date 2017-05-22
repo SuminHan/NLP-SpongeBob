@@ -1,0 +1,7 @@
+ Is there a decent sticky-notes desktop widget for unity?
+ I don't like Tomboy
+ something like knotes
+ jbicha does knotes work for unity?
+ jbicha Tomboy doesn't let me "stick" notes to the desktop, is there anything for unity that can?
+ ok
+ jbicha knotes seems to work

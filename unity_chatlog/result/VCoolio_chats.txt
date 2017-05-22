@@ -1,0 +1,19 @@
+ mkanat: put gksudo in front of the command
+ tasslehoff: you mean unicode symbols? try ctrl+shift+u then the code, enter
+ tasslehoff: I have those on my keyboard; see if you can assign keys to provide those using xmodmap
+ tasslehoff: at least you now know you need 3rd level for those keys; set another key for that
+ htcrwn148: depends if you have /home or whatever date on a separate partition; if not, it'll be wiped out
+ Thanatos: sudo service gdm stop
+ DarsVaeda: not sure if it's the same on ubuntu, but take a look at this https://bbs.archlinux.org/viewtopic.php?id=114790
+ terry: you can only skip versions from one lts to another; in this case, you have to update one by one or fresh install
+ terry: so he didn't skip but updated version twice; he can go on or fresh install; I'd do the latter but it depends on backup facilities and if he has data on a separate partition
+ terry: he went from 8.04 to 8.10 to 9.04 instead of skipping to 10.04 directly
+ terry: so now he can upgrade to 9.10 and then 10.04, or fresh install the version he wants
+ terry: it's not bad, it's not necessarily broken, it just takes a lot more time this way :)
+ djcoin: if you need to, use 'sudo -i'
+ AgresiV: there was a 4.8 release for xfce which is the desktop environment in xubuntu; it's certainly not in 10.10, maybe 11.04, if it is, upgrade is worth it
+ lastoflast: "need help in me menu" isn't much to debug
+ !details
+ codex84: only if you're worried to pass on viruses in mail attachments
+ lastoflast: more details on your problem: what do you want to achieve, what's the problem, is there error output, what did you try to solve
+ MoleMan: localhost:9091/transmission/web or try dpkg -L transmission-daemon; maybe /usr/share/transmission/web

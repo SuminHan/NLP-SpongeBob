@@ -1,0 +1,36 @@
+ Hello everyone, I need some help with keyboard mapping and manually altering what keys do.
+ minarge: ae you talking to me?
+ Anyone here familiar with openbox and keyboard apping?
+ Angelic: what wireless card do you have
+ Angelic: wow thats some serious hardware, wht model
+ Angelic: get the hardware id
+ robin0800: cisco aironet is serious hardware, not a consumer/end user wireless solution
+ robin0800: i gathered that, but someone with that kind of hardware should at least know what they are doing with it lol
+ Angelic: what does dmesg | grep wi say
+ Angelic: what does dmesg | grep wl say?
+ can anyone help me with modifying my keyboard map?
+ fogobogo: unfortunately yes :(
+ ngc604: airo is a professional networking solution, it isnt a standard belkin wireless thing you can pick up at wal-mart for $30
+ Angelic: what about dmesg | grep wi
+ fogobogo: my issue isnt as simple as you might think, ive got a CR 48 and would like to have some of the keys do different things
+ fogobogo: do you know what a CR48 is?
+ fogobogo: more like a browser in a box in its standard configuration
+ fogobogo: i flashed a new bios and installed crunchbang, the crunchbang channel is dead (whats new), and the solution should be similar in both ubuntu and #!
+ fogobogo: looking it up now, how flexible is obkeys?
+ Angelic: intel chipset
+ fogobogo: whats with the hostility? you hurting my feelings :( i might cry
+ fogobogo: ;D
+ fogobogo: will i have to learn vi just to show you up? :P
+ fogobogo: bout time someone with some stones showed up on this chat. congratulations, youve made my day
+ psusi: haha amen
+ psusi: hax
+ Mark_Shuttlecock: who says im using aboontoo?
+ Mark_Shuttlecock: doesnt mean i use it
+ Mark_Shuttlecock: im just not terribly familiar with openbox is all, i been using crunchbang as of late. ive got an arch box with gnome which i hardly ever use
+ fogobogo: :D greetings fine sir
+ fogobogo: we could so totally start a flame war, but lets not
+ bull9408: lspci = ls pci = lst pci
+ bull9408: list pci*
+ bull9408: i always liked bash, it makes more sense to me :D
+ mtelesha: gdm***
+ tensorpudding: what language? :/

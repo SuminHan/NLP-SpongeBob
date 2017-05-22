@@ -1,0 +1,5 @@
+ i am trying to copy data from a home folder (suse os) how can i properly take ownership and copy data to new external drive??
+ <JoshDreamland>logout and choose gnome old
+ classic
+ i am trying to copy data from a home folder (suse os) how can i properly take ownership and copy data to new external drive??
+ i am trying to copy data from a home folder (suse os) how can i properly take ownership and copy data to new external drive??

@@ -1,0 +1,17 @@
+ can someone help me calibrate my controller with dead zones using jscal?
+ rahduke, youre tellin me!
+ rahduke, i have calibrated a hundred times over, but i cant figure out the dead zones. and it keeps messing with my trackpad so i need to unplug in cause the input goes crazy
+ html_inprogress, install samba
+ rahduke, thats why i want to map some deadzones
+ trueman, ?
+ rahduke, yes
+ rahduke, you can map deadzones, i just cant figure it out
+ trueman, i dont think were on the same page sir
+ rahduke, then map them larger? i mean thats the whole point of deadzones
+ amy_, server, minimial
+ rahduke, so i will map them huge lol it doesnt matter once i can map some deadzones ill figure it out from there
+ hes not on board
+ im looking for the lightest music player/manager than can still mount and let me add songs to my iPhone. Can someone recommend one?
+ zus, sudo update-grub
+ i think
+ anyone know of a good alac decoder

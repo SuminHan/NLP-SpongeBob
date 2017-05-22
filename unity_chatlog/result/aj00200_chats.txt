@@ -1,0 +1,51 @@
+ I am having probelms with the windows not being resizable (particularly Firefox). Does someone know how to fix this?
+ I am having probelms with some windows not being resizable (particularly Firefox and the terminal). Does someone know how to fix this?
+ FLeiXiuS: do they need to be re-enabled with compilz?
+ FLeiXiuS: ouch. I'm sorry, but I don't know how to fix it. Maybe use this as an opportunity to learn to use keyboard shortcuts for everything
+ 9/w 56
+ Mac_Weber: I'm not sure, but you could always make a copy just in case
+ Mac_Weber: I don't know. I figured you knew which files you needed to save.
+ Karen_m: I guess Unity is just a matter of personal preference. If you like it, you keep it, but you can always switch back to Gnome, even on 11.04
+ Are there any customizations which can be applied to the launcher such as size or having them "tilt" backwards at the top and bottom?
+ Cream2011: your message got cut off at "my netbook is t"
+ Cream2011: does the "try" feature work on the Live CD?
+ coolkid25: does it give some type of error code that you could look up?
+ coolkid25: if you restart to you get an error code again? This is key to debugging it
+ coolkid25: hmm, I'm not sure where to go from here if you don't have an error code. You may have to reinstall
+ coolkid25: sorry, I am not familiar with the terminal. Maybe try using a live CD to copy your files to an external source or even Ubuntu One if you have enough space on it and then restore them after a resinstall
+ relik: you might want to check that your files are not called *.MPG (note the case) or *.mpeg
+ It appears that Unity just has some problems with a dual-screen setup
+ KNUBBIG: it may have been that I have my screen setup as being above my laptop screen
+ KNUBBIG: ok. Maybe I'll try putting it to the right. I could get used to it after a while
+ cardamon: I can help you get a terminal up if you don't have a menu bar, but otherwise, I won't be much help
+ Blake_: it helps if you state your question
+ cardamon: ok. Have you tried safemode or whatever it's called in Linux. I think it is called recovery mode or failsafe or something like that
+ Rockj: does "incremental backup" mean that it will store the changes not the whole file?
+ ohsix: ok, thanks
+ cardamon: if you log out and switch to "failsafe gnome" at the bottom (you are still on 10.04/10.10 right?), does it work?
+ cardamon: ok. Are you using Unity or Gnome?
+ cardamon: ok. Unity is default. You might want to try logging out and when you are logging in, select Gnome or failsafe or fallback or something like that at the bottom of the screen after you click your user name
+ sarasota_mac: yes, I updated
+ sarasota_mac: do you mean the window effects?
+ sarasota_mac: are you talking about the window effects?
+ cardamon: yes, try Ubuntu Classic (No Effects). This should be Gnome
+ sarasota_mac: please keep your question/explanation on one line so it doesn't get mixed in with other questions
+ cardamon: great! I had a similar problem on an older computer with the Unity beta. I haven't updated to Natty there yet so it may be your graphics card not supporting 3d acceleration.
+ cardamon: you may have to isntall Unity 2D to get it to work if your graphics card does not support 3D hardware acceleration
+ sarasota_mac: I think it might not work in the regular mode because your graphics card does not support 3D hardware acceleration, but I am not sure.
+ plummerb: the main issue is that some people end up using Ubuntu Classic (Gnome) rather than the new display (Unity)
+ plummerb: no. I'm saying that this new interface doesn't work for some people and they have to revert to the older one
+ poipoi: surely you have more ram than that unless this is an extremely old computer
+ sl33k_: personally, I like qemu
+ colalindu: I think you will need to run that as a root user (sudo python26 setup.py build)
+ ThisNameisCool: I think you will need to run that as a root user (sudo python26 setup.py build)
+ matsimon: no, he is installing a python module, I think
+ ThisNameisCool: are you using 11.04?
+ ThisNameisCool: did you try putting sudo in front of the command like I suggested?
+ bazhang: ah
+ ThisNameisCool: sorry, but CentOS is totaly different in some regards, particularly Python matters. I don't know much about it on CentOS.
+ ThisNameisCool: each distro has some differences. You would be better off asking in a CentOS channel or a general Linux channel where someone who understands these differences better can help you. #ubuntu is specfically for Ubuntu help.
+ HaHas anyone else had a problem with LibreOffice Writer being unstable?
+ Has anyone else had a problem with LibreOffice Writer being unstable? Possibly with OpenJDK? I'm wondering if it is my setup or an overall problem.
+ I have 2 things I need help with. 1) My system has been extremely unstable after the 11.04 update including 6 crashes in about 5 hours today (where the screen freezes and the caps lock light blinks). 2) After restarting after my latest crash, the latest kernel image (It crashed somewhere during the install, I restarted and completed the install without errors) causes my screen to blink during startup and not boot completely. An
+ I have 2 things I need help with. First, my system has been rather unstable after the 11.04 update and crashes (screen freeze with a blinking Caps Lock light). Any ideas on how to troubble shoot that or file a bug report>

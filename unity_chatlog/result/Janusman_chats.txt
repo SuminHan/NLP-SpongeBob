@@ -1,0 +1,19 @@
+ Can I update a WUBI 10.10 into 11.04?
+ Belinrahs, thanks =)
+ Belinrahs, didn't see anything mentioning WUBI there though.. but I guess it'll work (backing up first) =)
+ Belinrahs, awesome. Thanks
+ mirrors?
+ so if I already have the alternate ISO image, how long should I expect for an upgrade to take?
+ julian__, just ask =)
+ julian__, I think you should get the compiz manager
+ julian__, look at "Install Compiz Config Settings Manager" under http://www.techdrivein.com/2011/04/12-things-i-did-after-installing-new.html
+ anyone using dual monitors have any issues with 11.04? asking before I upgrade.
+ Just upgraded from 10.10 to 11.04 (I'm on WUBI) however, uname -r says I'm still using an older kernel... how do I use the new one?
+ (also, on boot time the boot menu didn't show the new kernel)
+ larstorben: you mean, instead of upgrading I should reinstall everything? =)
+ ActionParsnip: yes, in fact it was there before running sudo update-grub, it's there after. I'll reboot and see if it shows.
+ thanks
+ ActionParsnip: I'm finding I have to manually edit /boot/grub/grub.cfg to have the new kernel in the boot menu... hoping that works (again; I'm using wubi)
+ anyone have problems with the "Dim others" compiz plugin? Mine just quits working sporadically
+ is there a way to tell ubuntu to always set the CPU speed to max?
+ LAcan: what? I did it in under a minute =)

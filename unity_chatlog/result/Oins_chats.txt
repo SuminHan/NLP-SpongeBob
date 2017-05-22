@@ -1,0 +1,10 @@
+ After the upgrade to 11.04, I miss my tray icons. Some tools (e.g. Pidgin) only works with tray icon. If the program is closed, how can i bring it in front again without the tray icon feature ?
+ I use Ubuntu 11.04. After closing truecrypt, the program goes to background. How can i bring it in front again? Starting it again dops out the message "program already running". At 10.04, it was able to get it back with the tray icon. But how at 11.04?
+ Kann mir jemand sagen, wie ich bei zwei Moitoren einen als Default (für das Unity Panel) ändern kann.
+ Pici: ah sry, got wrong channel ;)
+ How can I make one of my two monitors as default, especially for the unity panel, that it is on the right (main) one
+ How can I start a program twice from the unity panel? If a program already runs and i klick it again at the unity panel, the window come to foreground. But I like to get a new, second window.
+ zniavre: ah nice, thank you!
+ Dr_Willis: thanks
+ Dr_Willis: this helps me a lot. Thank you !
+ Dr_Willis: yes, but after a few days of using it, i don't wanna miss the new, nice features :)

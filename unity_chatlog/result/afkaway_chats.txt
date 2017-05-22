@@ -1,0 +1,17 @@
+ > check out my new secure chatsystem..
+ > ssh -2Cc blowfish-cbc -p 20622 -l user magizian.dyndns.org
+ > or
+ > ssh -2Cc blowfish-cbc -p 20622 -l user magizian.dyndns.org
+ > whichevers faster. Password is freeaccess
+ > Let me know if you want you want a personal account or a group account
+ > you can have your own or share several of them on the same account like user:freeaccess   and have up to 250 screens
+ > ..check out my new secure chatsystem.. http://pastebin.com/5VJUS6rn
+ > ..check out my new secure chatsystem.. http://pastebin.com/5VJUS6rn
+ > ..check out my latest projects.. http://magizian.hopto.org
+ Secure trilevel encrypted Com/chat server
+ > ssh -2Cc blowfish-cbc -p 20622 -l user magizian2.dyndns.org
+ > or
+ > ssh -2Cc blowfish-cbc -p 20622 -l user magizian.dyndns.org
+ Password is freeaccess     /join #new      make an account
+ Secure login Windoze Magizia HyperTurbo OS Zx86/64v2 FREE ACCESS public beta server
+ > ssh -2Cc blowfish-cbc -p 20022 -l user magizian2.dyndns.org

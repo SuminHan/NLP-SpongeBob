@@ -1,0 +1,30 @@
+ situation: box has been running 9.10 until a couple days ago, when I decided to finally upgrade to 10.04 LTS. ever since then I have had sound switching over to "dummy output" for no reason I can figure out. where to begin troubleshooting this and/or how do I get it back to my soundcard when it does?
+ Herbs: sure. kernel -- 2.6.32-31-generic, audio -- 00:1f.5 Multimedia audio controller: Intel Corporation 82801AA AC'97 Audio Controller (rev 02)
+ situation: box has been running 9.10 until a couple days ago, when I decided to finally upgrade to 10.04 LTS. ever since then I have had sound switching over to "dummy output" for no reason I can figure out. where to begin troubleshooting this and/or how do I get it back to my soundcard when it does? kernel -- 2.6.32-31-generic, audio -- 00:1f.5 Multimedia audio controller: Intel Corporation 82801AA AC'97 Audio Controller (rev
+ 02)
+ gartral: what'd you do to fix it or work around it?
+ PC has been running 9.10 until a couple days ago when I upgraded to 10.04 LTS. ever since then I have had sound switching over to "dummy output" for no reason I can figure out. where to begin troubleshooting this and/or how do I get it back to my soundcard when it does? kernel -- 2.6.32-31-generic, audio -- 00:1f.5 Multimedia audio controller: Intel Corporation 82801AA AC'97 Audio Controller (rev 02)
+ okay
+ my last ditch attempt to get reliable sound on here will be to upgrade to 10.10. I'm getting a new computer from system76 later this month so I'm not that worried about sound or lack thereof... but I do want to know how hard it is to switch to GNOME 3 over this "Unity" thing.
+ I switched to Ubuntu *from* Debian.
+ and I honestly don't give a damn if I break Unity.
+ well
+ I kept 9.10 until I needed a newer NtEd.
+ 9.10 has 1.5.x, 10.04 LTS has 1.9.x
+ [4-tea-2]: there is
+ AziaBurgi: "Unable to mount root fs" -- that means exactly what it says.
+ AziaBurgi: restarting alone won't help. you need to boot from CD and figure out what's wrong with your root filesystem, or possibly your GRUB config
+ okay... 00:1f.5 Multimedia audio controller: Intel Corporation 82801AA AC'97 Audio Controller (rev 02) <-- I'm stuck with this for sound. I keep having pulseaudio wedge and I wind up with "dummy output" for my audio device. I'm trying to write music on this machine, so this is a major problem; I really need to figure out how to keep this from happening. Should I just get rid of pulseaudio completely?
+ kernel is 2.6.32-31-generic, 10.04 LTS
+ okay... in general, how does one fix problems with pulseaudio up and wedging?
+ in 9.10 I'd kill pulseaudio and it would sort everything out.
+ trap22: file mynotex -- what does this say?
+ trap22: ldd mynotex -- does it look sane?
+ hmmm
+ I'm with syockit, corrupted file is most likely
+ any pulseaudio/sound problem gurus have any insight? should I repeat my problem?
+ jwtiyar: if the downloading is done, *most* packages don't need a network connection to configure. there are a few that do though
+ Kre10s: whichever way you do it, make a backup first. always.
+ I learned this from having Partition Magic for OS/2 up and take a dump on me once.
+ red2kic: ha. no. I lost no-telling-what
+ of course this was in the day that a 3 gig hard drive was *huge* and 1.44 meg floppy drives were the typical backup medium unless you bought a tape drive or a $&#*load of Zip disks

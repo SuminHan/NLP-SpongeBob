@@ -1,0 +1,3 @@
+ I have heard that I can install Ubuntu 10.04 LTS on an old AMD 1300MHz, 384Mb RAM and 20Gb HDD and then install a smaller desktop manager or something.  The installation is running and is at 63%.  HOw would I uninstall Gnome and get a smaller desktop running?
+ I installed Ubuntu 10.04 LTS on an AMD Duron 1300MHz, 384Mb RAM and 20Gb HDD.  I am intending to change to Xubuntu desktop.  but on the first reboot after installing it stop booting and gives me this... http://pastebin.ubuntu.com/601832/   Any ideas please?
+ I installed Ubuntu 10.04 LTS on an AMD Duron 1300MHz, 384Mb RAM and 20Gb HDD.  I am intending to change to Xubuntu desktop.  but on the first reboot after installing it stop booting and gives me this... http://pastebin.ubuntu.com/601832/   Any ideas please?

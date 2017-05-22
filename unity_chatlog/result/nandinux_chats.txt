@@ -1,0 +1,8 @@
+ hello someone can listen me about a problem installing natty on raid 0 ?
+ i have a notebook with 10.10 installed and work ok
+ now i try to install 11.04 and not work
+ i think the problem is the raid
+ sameone can help me ?
+ someone can help me? problem with raid on 11.04
+ why in a notebook with raid-0 perfectly run 10.10 i can't install 11.04
+ bye bye

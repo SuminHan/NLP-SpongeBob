@@ -1,0 +1,1 @@
+ hi all, I installed samba on natty and it wants 'the administrative password'.. it doesn't like mine and I don't know the root one.  What can I do?

@@ -1,0 +1,1 @@
+ is there a replacement for cryptkeeper for natty? I can't get my icon to show up o nthe bar when I run it.

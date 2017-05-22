@@ -1,0 +1,18 @@
+ guys, I installed Ubuntu 10.10
+ err
+ 11.4
+ And it refuses to boot right
+ Unity won't work right, that is
+ It refuses to start
+ zvacet: I tried Ubuntu Classic, not working right either
+ zvacet: I tried that, it didn't work either
+ zvacet, it's not a fresh install
+ I upgraded
+ zvacet: I upgraded ubuntu to 11.4, then when I tried to log in the login window just disappeared, then I tried again with ubuntu classic selected
+ After that, I tried safe mode
+ It worked
+ Then, I tried unity again, and it kinda worked. No menu bar though
+ zvacet: brb, imma try classic again
+ zvacet: okay, classic works now
+ that was odd
+ yay! the chat's dead

@@ -1,0 +1,4 @@
+ question about ubuntu: how do you know which ubuntu you have (what is the parallel of cat /etc/redhat-release of linux)
+ I mean of fedora
+ ?
+ anybody?

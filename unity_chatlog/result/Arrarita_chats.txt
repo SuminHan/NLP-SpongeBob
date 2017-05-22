@@ -1,0 +1,10 @@
+ hello
+ hello, is there someone who can help me?
+ on my laptop, I upgraded the new version, 11.04
+ it won't boot up, and I have tried to re install using the cd, and it still won't work, I don't know what to do?
+ I see the background first, and then it goes black and nothing
+ I tried to reinstall the last version using the cd, and that won't boot either
+ I can't even get to the grub
+ hello
+ is there another way to get help, I cannot follow this?
+ thank you, I will try that

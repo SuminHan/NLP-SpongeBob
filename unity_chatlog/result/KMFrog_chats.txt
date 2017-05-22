@@ -1,0 +1,3 @@
+ unity not working in virtualbox?
+ dugger5688 i'm running vbox 4.0.6, i'll try updating guest addons
+ dugger5688 updating guest additions did the trick, thanks :]

@@ -1,0 +1,1 @@
+ How do I tell for certain which graphics driver my laptop with ubu ntu 10.10 installed is running on. It should be openchrome but I suspect it is running on fbdev

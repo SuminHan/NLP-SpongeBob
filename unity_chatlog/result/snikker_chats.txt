@@ -1,0 +1,9 @@
+ hi, i've got a problem with ethernet in natty, the lan cable is connected and the led on the switch turn on/off without keep a connection (under windows fine). Any hints?
+ hi, i've got a problem with ethernet in natty, the lan cable is connected and the led on the switch turn on/off without keep a connection (under windows fine). Any hints?
+ genewitch: i've already do it without success
+ genewitch: nothing to do
+ genewitch: doesn't work
+ my usb 3.0 port doesn't work in ubuntu, how can i fix this?
+ xorg.conf was removed in natty? i must increase dpi with a custum value...
+ d-snake: ah ok... but why is was removed?
+ d-snake: ok, thank you

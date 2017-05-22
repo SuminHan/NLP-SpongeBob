@@ -1,0 +1,16 @@
+ hey, anyone had problems with instability with a kernel? Whenever I have my stable overclocks on (4.2 ghz on a core i7) my computer crashes despite windows working just fine with hours of prime95...
+ 2.6.32-28 was the only truly stable kernel, any of the new ones crash
+ which log should I look under for that?
+ tensorpudding: I'm having trouble finding any errors in the log
+ tensorpudding: it is a kernel panic then
+ tensorpudding, but it isn't giving me a clear error
+ tensorpudding, no it works just fine without an overclock
+ chipzzz the older kernels worked, after the 2.6.32 kernels, they stopped working.
+ tensorpudding how can I turn on dump core, so I can get a clear error message?
+ tensorpudding, ok thanks, I can just look it up of course. Now that I know it ISN't dumping the core.
+ tensorpudding no I haven't, I'm actually not sure what that is. I'll install that.
+ tensorpudding ok. I've tried to turn of acpi and turn on hpet thinking it might have been a problem related to those.
+ yeah.
+ tensorpudding there was nothing that I could find related to the crash in there.
+ tensorpudding same with that, nothing that really stood out.
+ tensorpudding every time it crashes, it's a solid lock-up. the keyboard flashes, and it reboots in 30 seconds. I can only assume that's a kernel panic. sometimes If it crashes when booting, it'll show some of the error messages, but none of them seem related to the crash, just more stuff which looks like normal boot kernel log messages.

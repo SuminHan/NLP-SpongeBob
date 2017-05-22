@@ -1,0 +1,3 @@
+ hi
+ it's about 3 years I don't use IRC for help lol :)
+ anyway I've just installed 11.04 and on my geforce go 7400 the only driver working seems nouveau (it worked with unity on previous beta installation). the problem is that compiz doesn't start at login now (fresh installation)...any hint?

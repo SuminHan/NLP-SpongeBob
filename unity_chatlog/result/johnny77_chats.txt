@@ -1,0 +1,5 @@
+ I'm having major issues with 11.04. If I log into Ubuntu, I get only a background, no panels. If I log into Ubuntu Classic, it appears that a Window Manager is not loaded. Any ideas?
+ Does anyone know why unity would not load in 11.04? I upgraded, but only get a background when I log into Ubuntu.
+ After installing 11.04, when I log into Ubuntu, all I get is a background image. I think Unity is not loading.
+ ActionParsnip: I know alt+f2 does not work. Have not tried ctrl+alt+t, but would assume it does not work as well.
+ ActionParsnip: I know alt+f2 does not work. Have not tried ctrl+alt+t, but would assume it does not work as well.

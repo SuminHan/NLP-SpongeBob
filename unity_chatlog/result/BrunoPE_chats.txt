@@ -1,0 +1,2 @@
+ sdollins, broadcom not but atheros yes
+ sdollins, wait

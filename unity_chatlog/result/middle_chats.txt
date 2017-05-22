@@ -1,0 +1,14 @@
+ HELP: When i boot into Ubuntu it hangs on: 'Begin: Running /scripts/init-bottom .. done.'. I was previously suffering Black screen issues so i uninstalled Ati's proprietry driver and now after re installing it, it is hanging not even reaching the black screen stage. Thanks
+ Oh yeah and if i upgrade will it insall unity?
+ ah maybe i shan't upgrade then
+ nit-wit: No im trying to boot in safe mode and it just hangs at the afformentioned command. there is occasionally other stuff after it like [4.7993847] firewire etc... but no it won't progress
+ I am thinking of booting intoa live disc and re-uninstalling the drivers
+ PROBLEM: Was suffering a black screen on boot > Uninstalled Ati Drivers > Rebooted > Re-Installed Ati Drivers > Rebooted > System hangs at 'Begin: RUnning /scripts/init-bottom ... done.'
+ I am goign to have to go to the forums to get an answer to this aren't i XD
+ Hmm wierd... rebooted twice and it works : S
+ and now i reboot and nada.....
+ turn your speakers on
+ press the button
+ Is there anyone here who is an expert on teh Ubuntu boot procedure?
+ nvm i googl-fe'd it
+ i fixed it some how btw.. thanks for beign there

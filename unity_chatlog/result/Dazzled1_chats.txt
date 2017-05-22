@@ -1,0 +1,23 @@
+ Does anyone know of a way to get information about the current system without being sudo?
+ HDD Serial, MOBO id
+ jaredquinn: something to identify a machine with
+ jrib: thanks, it complained I should be sudo, but it showed the info :)
+ anyone knows where I could ask a question about the Google Chrome PDF plugin (I'm using Ubuntu)
+ dang it, not enough space left for NN :(
+ does anyone knows how I can find out what I can/cannot move from my local "File System" ?
+ as the Updater complains about a lack of space, but I have swaths available on my other partitions
+ (NTFS, though)
+ hmm, I'm under the impression that Natty boots significantly slower then 10.10
+ also when shutting down, seems to take afes
+ LetsGo67: using TwinView or Seperate X?
+ coz_: laptop, 10.10 was lightning fast
+ coz_: true
+ my login screen shows fine on dual monitors, but when  I enter my name and pass, the left screen seems to have trouble to render
+ but when I click something/touch a key, the anomaly dissappears
+ coz_: ah ok, yeah I'm on Natty
+ coz_: yeah, I'm still trying to get used to it :)
+ coz_: ah, I see
+ coz_: yeah, think I might consider switching back as well
+ coz_: ah, yeah, that's what I meant :p
+ maxagaz: PrntScrn works fine here
+ the only feeling I have about Unity atm is that it's form over function

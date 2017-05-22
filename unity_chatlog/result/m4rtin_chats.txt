@@ -1,0 +1,10 @@
+ OchoZero9: go to synaptic -> settings -> repositories. Select "Other" from the dropdown, then press "select best source"
+ Hi all, got a non-booting system that needs a dpkg --configure -a. Doing so gives an IO error: /sbin/ldconfig.real cannot lstat /usr/lib/libkdeinit4_khelpcenter.so
+ any idea how I can recover, please!
+ anybody, please?
+ LjL: it dumps to what looks like an initramfs error (with kernel output lines) on normal boot
+ LjL: I've got a recovery prompt off a live CD and have chrooted into the old env
+ LjL: the file it is looking for is not there, looking like an aborted apt-get upgrade was run
+ LjL: I can get a recovery shell and mount the HDD, yes
+ LjL: the IO error is just referring to file not found, I believe
+ LjL: ok, will do, but the file doesn't exist, so it can't read it....

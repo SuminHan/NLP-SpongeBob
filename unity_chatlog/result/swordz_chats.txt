@@ -1,0 +1,6 @@
+ jatt, So basically, I can't use my second screen?
+ I don't believe that
+ jatt, I want the bar on the left
+ I just want Ubuntu to pick the other screen
+ That's a lower level than Unity
+ It's X that's getting this wrong, not Unity (imo)

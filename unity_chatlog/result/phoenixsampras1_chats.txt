@@ -1,0 +1,9 @@
+ help i get an error
+ HELP W: GPG error: http://archive.canonical.com natty Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 40976EAF437D05B5
+ ActionParsnip: W: GPG error: http://extras.ubuntu.com natty Release: The following signatures were invalid: BADSIG 16126D3A3E5C1192 Ubuntu Extras Archive Automatic Signing Key <ftpmaster@ubuntu.com>
+ ActionParsnip: after i did your command, i did apt-get update, and got that error
+ ActionParsnip: W: GPG error: http://extras.ubuntu.com natty Release: The following signatures were invalid: BADSIG 16126D3A3E5C1192 Ubuntu Extras Archive Automatic Signing Key <ftpmaster@ubuntu.com>
+ still getting the same error
+ ActionParsnip: http://paste.ubuntu.com/602295/
+ ActionParsnip:  http://paste.ubuntu.com/602298/
+ ActionParsnip: same error :(

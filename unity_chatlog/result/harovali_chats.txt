@@ -1,0 +1,7 @@
+ hi , i'm trying to set up a wireless modem, and I put all the configuration in NetworkManager . However, the option to connect to the network it should enable, does not appear in left-clicking in the doble arrow menu. ANy hint ?
+ hi , i'm trying to set up a wireless modem, and I put all the configuration in NetworkManager . However, the option to connect to the network it should enable, does not appear in left-clicking in the doble arrow menu. ANy hint ?
+ hi , i'm trying to set up a wireless modem, and I put all the configuration in NetworkManager . However, the option to connect to the network it should enable, does not appear in left-clicking in the doble arrow menu. ANy hint ?
+ hi , where do I set the default console font ?
+ in ubuntu 11.04
+ hi, how can I tell ubuntu bot to update the clock over the network time protocol ? (because I'd like to set the time manually for a while)
+ i mean not to update , not bot

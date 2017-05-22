@@ -1,0 +1,9 @@
+ how long does it take for the installation of natty  to finnish
+ mine is stuck at  saving installed packages
+ the progress bar isn't moving :(, how do I check if my cd is allright?
+ how do you the md5sum of a burned install cd, i'm having problems installing natty
+ so https://help.ubuntu.com/community/HowToMD5SUM is wrong? im confus o_O
+ how do i go into text mode?
+ do you use a "/data" partition? how big, what filesystem type? how do you use it?
+ how do I enable text mode in an ubuntu-11.04-desktop-amd64 cd installer, i need to test the cd's integrity
+ how do i enable text mode in a graphical natty amd64 installer, i need to check the cd's integrity

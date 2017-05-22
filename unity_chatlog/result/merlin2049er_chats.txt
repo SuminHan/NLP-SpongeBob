@@ -1,0 +1,20 @@
+ hey, just upgraded to narty
+ is there a driver for nvidia
+ nvidia driver for 11.04?
+ 470
+ gtx470
+ k
+ does it work well
+  sudo apt-get Install nvidia-current doesn't work for me?
+ how do i install that
+ hey,  i upgraded to 11.04, but it deleted my google gadgets
+ is that available for 11.04?
+ it's safe but you'll loose some packages
+ ie google gadgets
+ and you'll have to get your own video driver
+ can i get some gadgets for my desktop in 11.04?
+ my virtual box and vuze stopped working in 11.04
+ ok, now it seems to work
+ before it said something about a com error
+ ok, i got them both running. maybe i had not enough space on my boot drive
+ are there any gadgets for the desktop for 11.04?

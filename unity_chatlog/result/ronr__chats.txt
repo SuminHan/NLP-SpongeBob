@@ -1,0 +1,38 @@
+ how can I check how many cpus and memory I have using shell?
+ Halzen: in terminal?
+ Halzen: it's a server, yes? only got ssh to it.
+ Halzen: doesn't seem to have gnome installed.
+ Halzen: I have a Gnome shell? when did I say I have a Gnome shell? :)
+ Halzen: no idea what kind of shell :)
+ Halzen: right, thanks! I forgot the commands.
+ Halzen: I blame myself. I wasn't clear enough.
+ Halzen: free -m gives me 492 total. don't remember what that maens.
+ Halzen: that's.... pathetic.
+ Halzen: thanks :)
+ Halzen: how do I know how many cores the cpu has? if it prints out only one cpu it means only one core?
+ Halzen: no cores. if I run 'cat /proc/cpuinfo | grep core' it prints out nothing.
+ llutz: meh?
+ llutz: that gave out nothing as well.
+ Halzen: it's a brand new server ;)
+ Halzen: that gave out 1
+ Halzen: the question is where ;)
+ Halzen: http://pastebin.com/yNsLcQYC
+ Halzen: It's a bit weird that it has only 512MB RAM, no?
+ Halzen: neither, I just work here ;) started working here this week. it's a new company too so the server only got here a couple of days ago. trying to see what's what.
+ Halzen: apparently, it's supposed to serve git and redmine. it still feels a bit low on RAM.
+ Halzen: well, I'll ask the guy who ordered the machine. it just seems like a really odd configuration.
+ Halzen:  thanks for all the help :)
+ Halzen: on a different note, I updated my ubuntu box at home from 10.11 to 11.04 and suddenly xbmc videos are choppy. any idea why? :p
+ Halzen: I've heard that recommendation before, but it seems a bit odd, imho. an OS upgrade shouldn't be a problem. A fresh install feels like much more trouble.
+ usr13: same video player as the previous version, not streaming video. could be the video driver, but I'd expect the update to either keep it or update it.
+ Halzen: right, but wouldn't I need to reinstall all my software?
+ Halzen: I'll check it out... but that's why I don't like the idea of a fresh install. Don't want to mess anything up...
+ edbian: that feels like staying back in time :)
+ Halzen: imho, stability is overrated. one of the reasons I use Firefox Nightly rather than stable/beta/aurora :p
+ usr13: well, I don't know where to begin in fixing the issue
+ Halzen: well, I installed ubuntu on the box just because... I installed ubuntu on the box. I have no real preference either way on the distro there. it's just a media center.
+ Halzen: right. just needed something that can use the ION board I have, and that's it basically.
+ ff3? why use ff3?
+ it's like saying you want to use netscape 4.
+ that makes no sense.
+ anyways, thanks for the help guys! have a good one!

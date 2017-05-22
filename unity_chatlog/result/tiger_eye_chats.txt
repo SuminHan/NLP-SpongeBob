@@ -1,0 +1,6 @@
+ what is the grub2 badram equivalent to grub legacy memmap?  I recently did a clean install of Natty (was Lucid), and it now uses grub2.
+ DosAmp, I tried that.  it didn't like "memmap" as a kernel parameter.
+ I used "memmap=0x10000$0x13c140000" in the kernel command in grub legacy.  same command in grub2 doesn't work. (for some reason, the ram in that address range--and only that address range--doesn't behave well)
+ I noticed /etc/default/grub has a "GRUB_BADRAM" line, but the documentation I found on it wasn't at all clear for me
+ does anybody use "memmap" or "badram" in grub2?  I'm trying to understand how these work in grub2, but without much luck
+ aha!  the dollar sign in "memmap" command in grub2 needs to be escaped twice in /etc/default/grub, such as GRUB_CMDLINE_LINUX='memmap=0x10000\$0x13c140000' or GRUB_CMDLINE_LINUX="memmap=0x10000\\\$0x13c140000".  Not very clear from the documentation.  I think it's working now, so peace out!

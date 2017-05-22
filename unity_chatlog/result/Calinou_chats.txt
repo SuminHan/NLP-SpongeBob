@@ -1,0 +1,6 @@
+ a-saint: it's a personal choice, but i like uget
+ wget isn't a download manager
+ it's a downloader from terminal
+ you can't pause the downloads/etc
+ >.<
+ sorry, i'm a linux noob

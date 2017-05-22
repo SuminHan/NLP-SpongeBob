@@ -1,0 +1,9 @@
+ how do I stop the shell from flashing when I'm press tab for filename-completion and there are alternative spellings?
+ How do I stop ubuntu trigger seizures in people?
+ I would like to have Ubuntu stop triggering a seizure on anyone who comes within viewing range -_-
+ KM0201: then what?
+ partial filename + tab = seizure-triggering blink
+ I wish to disable the seizure-triggering link
+ *blink
+ KM0201: I'm serious here, bash is giving me a headache and making me temporarily blind whenever I tab for file completion
+ sipior: I have... it's still blinking

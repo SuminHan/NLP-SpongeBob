@@ -1,0 +1,13 @@
+ hi
+ flash kills X after a recent upgrade. I suspect only in combo with nvidia-185. anybody else have this, possibly a remedy?
+ hi
+ I set up 10.10 with encrypted home - basically for testing. now I need that box to auto-login a user and so that contradicts. question: how do I permanently decrypt that home?
+ (or *can* I have enc. home and auto-login? tho it's bogus)
+ envygeeks: thanks!
+ hi
+ 10.10, noone logged in yet. Music Play Daemon. want to connect, client wont play, mpd log: "pulseaudio: cannot connect"
+ when I log in I can connect. why? how do I make it use pulse when noone is logged in at the desktop?
+ jeffrey_: have oyu installed the build-essential package?
+ jeffrey_: that installs all basic packages needed for compilign stuff. seems in your case the kernel headers are not installed
+ jeffrey_: :| don't know then, sry.
+ BlaDe^: define fuzzy

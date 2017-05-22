@@ -1,0 +1,4 @@
+ hi...
+ I have a question, after reading the feed for a few minutes... does everybody like Unity, or what?
+ Regarding Unity vs Gnome, what I really miss is the fact that I use to customize my bars, add little apps to them, locate them where I wanted, change the size, width, color, font, etc
+ while unity seems to be very rigid

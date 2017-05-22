@@ -1,0 +1,23 @@
+ does anyone use vim and has just installed 11.04?  I don't have syntax highlighting and I was wondering if anyone has/had a similar issue, or or fixed this?
+ virgilivs: no that's not what happened
+ virgilivs: I still have my vimrc file
+ virgilivs: no because even manually :syn on fails
+ taglass: I know, but I have both installed
+ taglass: there is no vim-full in 11.04 which I find interesting
+ virgilivs: I'm just going to build the latest vim from git, why not
+ sakuramboo: I like unity quite a lot from the little I've used it
+ virgilivs: have you done a fsck.<file-system>? yet?
+ virgilivs: what do you get with 'apt-get dist-upgrade'?
+ virgilivs: what's in your /var/log/apt/history.log?
+ virgilivs: but /var/log/apt/ the folder does exist for you?
+ virgilivs: so look at previous logs and find the one that does
+ virgilivs: termlog's are right protected so you'll have to use sudo to grep those
+ virgilivs: ok, but sometimes it's a good exercise to try and get the machine back up again
+ virgilivs: but time doesn't always permit
+ virgilivs: you can always reinstall everything using apt
+ dpkg --get-selections > MyPackages
+ virgilivs: and then use that list to reinstall everything
+ yes use aptitude if you're more comfortable with it
+ virgilivs: ya I did also :)
+ cool
+ FHtrain: install full ubuntu and then we'll talk, jk

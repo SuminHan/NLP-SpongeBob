@@ -1,0 +1,10 @@
+ daniel2k: i'm looking for some clue... this is what i was also looking for for quite some time
+ daniel2k: i know exactly how you feel :)
+ daniel2k: yop, but those guys are expensive ;) did you try conspy?
+ daniel2k: if you need just to watch the session and not capturing the control, you can use "cat /dev/vcsX", where X is the actual terminal number. and you'll need root privileges of course :)
+ Doom_-_: how did you get into that state :)? did you do the upgrade?
+ Doom_-_: i presume you've already tried to reinstall the flash and mozilla... that's where i'd start. and -this might sound like a words of noob :) - i'd probably try to do a fresh install
+ Doom_-_: definitely it is probably not the best way around this. but i have to agree with you on this one - the loop. i don't know what might cause this.. because i didn't do the upgrade
+ macs: apache is not serving you well :)?
+ macs: i heard about webfsd. however you probably can't expect miracles :) what kind of content do you need to have on your page?
+ macs: http://en.wikipedia.org/wiki/Comparison_of_web_server_software - i guess all the GPL tagged might be of use ;)

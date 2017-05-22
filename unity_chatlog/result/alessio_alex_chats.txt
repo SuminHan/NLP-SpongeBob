@@ -1,0 +1,17 @@
+ Hello
+ I've hidden my bottom panels, but now I don't know how to set "always show"
+ Help?
+ Hello, I've just updated to Ubuntu 11.04 from 10.10. My top & bottom panels disappeared. What do I do?
+ escott so how exactly do I achieve this?
+ where do I select the classic option?
+ ok
+ thanks, I'll try that
+ escott I've just restarted my Ubuntu, I see no such "switch to classical" option
+ I also locked the screen and logged in again and no such option also
+ I don't select the use
+ I just have one user
+ I don't login when starting Ubuntu
+ I don't see any session option also .. when I try to login after screen lock
+ Jeesus
+ ok
+ thanks...

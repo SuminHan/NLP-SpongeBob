@@ -1,0 +1,9 @@
+ hello i am trying to setup a home gateway/router, i am running ubuntu 10.04 server, i have 2 NICs eth1  dials PPPoE to mweb, and eth0 goes to a switch. I have setup DHCP on eth0 to dish out IPs to clients plugged into the switch.from the server i can ping out to internet locations, and i can also ping clients on the switch, from clients i can ping the server, however, from the clients i cant
+ ping internet locations, ie i can't get past the gateway. what do i need to setup on the gateway/router server to allow clients to get outside?
+ escott: i have read up on many tutorials about what i need to set in, and none seem to work. I want to now backtrack a little and do some reading on networking and how it all works: could you point me in the right direction? ie. read up about "dnsmasq" - read about "ip masquesrading" - read up about "routing table"
+ JuJuBee, i did that but it didnt allow the clients to get past the gateway
+ escott: i have a network map with ip's on and such in jpg, could you suggest a place to upload and then u can see?
+ JuJuBee, i changed it there and then did sysctl -p to restart it
+ JuJuBee/Escott: I am so lost with all of this - i dont know how all the different parts (packetforwarding/dnsmasq/iptables/route -n) work together to produce the result, i have no understanding and am blindly entering commands and hoping they work, I want to understand, any books/links/resources you have in this regard would be amazing!! map of network : http://imagebin.org/150608
+ yeah i been reading tldp but they mostly out of date, and they are howto style - just tell you what to do no explaining what it does ... :(
+ i think i need a basic-advanced networking type book

@@ -1,0 +1,9 @@
+ I want to install windows 7 (for moms :) ), but I would like to keep grub as the bootloader, is it possible to change the crappy bootloader from the_crappy_os_I_will_not_write ? :)
+ I don't want to know how, i just want to know if I can or can't :)
+ escott, is this thing simple to do? :)
+ escott, thanks :)
+ guys, I have to mount some movies in .iso format, can someone please tell me what application should I use? :) (something equivalent to Daemon tools on windows)
+ spyhermit, I mean, I don't just want to mount the .iso, because then I would have Audio_TS and Video_TS (or something similar), I would want to autoplay the image :)
+ Dr_Willis, spyhermit vlc is on linux too? wow :) Nice, thanks guys
+ Hi guys, i hate the new Ubuntu and I want my 10.10 back (completely remove 11.04), cand someone please help me out? :)
+ Pici, ActionParsnip this is the only solution?... :-<

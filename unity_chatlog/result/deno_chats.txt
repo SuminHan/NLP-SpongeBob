@@ -1,0 +1,2 @@
+ hi there
+ guys do you know a package better than the default one for gnome to take multiple screenshots?

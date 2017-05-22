@@ -1,0 +1,38 @@
+ zachgretzinger, yes
+ zachgretzinger, yes, but it is a bit involved and a jar and a deb isn't nearly similar things, so you can't do a straight off conversion
+ zachgretzinger, http://www.debian.org/doc/maint-guide/
+ zachgretzinger, bear in mind that you'll probably have to do more things than to just put your .jar in a debian package
+ zachgretzinger, the jars are pretty easy, doing debs are a bit more involved :D
+ zamN, are you trying to build the compiler from scratch instead of installing the packages?
+ !gcc
+ zamba, yes, you might want to install automake too
+ zamba, sorry, mistabbed
+ zamN, yes, you might want to install automake too
+ p896gbm, I find that it works nicely to run ubuntu in virtualbox
+ kapu: yes :D
+ kapu: try -C <target>
+ kapu: success?
+ kapu: use / to search :D
+ kapu: also, you might have more luck with "info tar"
+ kapu: tar -C targetdir -xf sourcefile
+ kapu: add flags as needed, for example j or z and or v
+ kapu: why are you having the path there twice?
+ kapu: 'tar -zxvf file.tar.gz  -C ./path/to/file/wanted_file'
+ kapu: oh, I didn't realise you're trying to extract only one file from the archive
+ kapu: so what is not working with the command you pasted?
+ kapu: I'd also try to prepend -C
+ kapu: that unfortunately looks correct to me
+ kapu: and by nested, you mean that tar is preserving the whole path to the file?
+ kapu: it expects the dir to exist, look into using --strip-components <numberofdirstostrip>
+ kapu: I'm just googling really
+ !ask | sburwood1
+ RavenHursT: cp -r <src> <target>?
+ RavenHursT: seeing your last statement
+ RavenHursT: cp -r .??* * <target>
+ RavenHursT: it wasn't clear that you didn't want to copy the first directory
+ RavenHursT: lmtt?
+ RavenHursT: you can, and the last one is always the target
+ RavenHursT: the ?? in .??* are important, without them you'll end up having .. in the list of files to copy, and things will go poorly
+ RavenHursT: happy to help :D
+ Diverdude: https://launchpad.net/glipper might be something for you then
+ Diverdude: I can't say I've tried it myself :D

@@ -1,0 +1,1 @@
+ is it ok that in natty libgcrypt.so is in /lib/{arch} and libcrypt.la is in /usr/lib/{arch} ?

@@ -1,0 +1,14 @@
+ hey guys if i run apt-get upgrade will i do the sames as the upgrade in  system ---> Admistration --> update manager ---> upgrade?
+ becuz its more fun in terminal
+ then wat should i do?
+ @Pythonpup how can i do the same action as update manager in terminal?
+ python dats doenst  work it just shows the updates not upgrades im searching thru google
+ apt-get dist-upgrade only shows the updates try to run
+ @PythonPup the speed thru terminal is much faster than  update manager
+ i have another question , its about ubuntu studio
+ my friend installed it  and there was no internet connection
+ there was no network manager
+ well do u c the network applet in panel? there was no nm-applet in panel
+ i change my server to the closest server does the programs are diffrent  than the previous server ? more complete or less complete?
+ i wat is the server differences?
+ hey guys how can i solve this problem? You must have GTK+ 2.10.0 or newer development headers installed to compile

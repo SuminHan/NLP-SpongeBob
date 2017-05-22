@@ -1,0 +1,7 @@
+ morning users, I am trying to get the extra animations to work with 11.04, ie burn, explode, etc.. and anytime I enable the extra animations plugin the launcher no longer works. Is this a known issue or is it me?
+ morning users, I am trying to get the extra animations to work with 11.04, ie burn, explode, etc.. and anytime I enable the extra animations plugin the launcher no longer works. Is this a known issue or is it me?
+ I am trying to get the extra animations to work with 11.04, ie burn, explode, etc.. and anytime I enable the extra animations plugin the launcher no longer works. Is this a known issue or is there a way to get them enabled without crashing Unity?
+ I am trying to get the extra animations to work with 11.04, ie burn, explode, etc.. and anytime I enable the animations add-on plugin the launcher stops working. Is this a known issue or is there a way to get them enabled without crashing Unity?
+ guess I'm being ignored..
+ I am trying to get the extra animations to work with 11.04, ie burn, explode, etc.. and anytime I enable the animations add-on plugin the launcher stops working. Is this a known issue or is there a way to get them enabled without crashing Unity?
+ I've seen some videos where people have this enabled with unity, just curious.

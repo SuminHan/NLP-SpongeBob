@@ -1,0 +1,5 @@
+ Will 11.04 beta2 be upgradable to the official release?
+ thanks
+ yeah, considering a clean install...
+ i am going to install the daily built (26 April). cannot see them adding too much more release
+ I am convinced that it is available here now: http://releases.ubuntu.com/natty/

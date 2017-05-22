@@ -1,0 +1,19 @@
+ Ubuntu 10.10 is telling me EVERY 5 MINUTES to update to Natsy!
+ How do I tell it shut up? :)
+ Hi all
+ If I want to update a package, what is needed exactly?
+ sorry I mean, a package in ubuntu is quite old.  I want to make a newer version of the package, and get that into ubuntu
+ pfarrell_: I get that error too, and came to ask the same thing :)
+ pfarrell_: yes
+ Riddell: are the GB servers down?
+ Skei: I'm currently trying just "do-release-upgrade"  and that seems to work
+ pfarrell_: read Skei's reply?
+ Skei: where is that option to select the fastest server?
+ After upgrading to 11.04, I find that the kernel crashes about once a day
+ is this a known problem?
+ coz_: who on earth reinstalls from fresh every 6 months?
+ coz_: seems like a huge waste of time
+ coz_: I've also noticed that my wireless connection is much weaker.  I don't know if it's related to the crashes
+ coz_: thanks for replying
+ ablaze: not so easy :-/
+ ablaze: if you do "iwconfig", do you see your device?

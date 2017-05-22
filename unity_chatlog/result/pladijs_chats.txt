@@ -1,0 +1,1 @@
+ Running ubuntu 11.04. My system automatically logs into xfce on VT7. I'd like to automatically open a session on VT8 in parallel. What config files should i look at?

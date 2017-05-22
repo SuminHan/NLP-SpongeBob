@@ -1,0 +1,19 @@
+ Hi, 11.04 is out on the website, any idea how long it will take before do-release-upgrade picks it up?
+ Hi, I have 2 q's. I upgraded a 10.10 server edition to 11.04, ever since /var/log/messages is empty, is that normal? Restarting rsyslogd also doesn't make entries appear (syslog etc. are being logged to)
+ secondly, I notice my md sets get a rebuild signal (probably for scrubbing). Has anyone any idea how that gets started? Don't see much in the crontabs except a scan to check if they haven't been degraded and no settings concerning it in mdadm.conf either
+ Herbs: it's been 4 days
+ Joker_99: depends on the support room, or well, mostly the active people in it
+ Herbs: vcftpd is running, (no clue why... I never added it to start automatically) but it isn't reachable (firewalled :D)
+ bullgard4: that seems rather impossible, unless your clock is inaccurate
+ #gentoo is usually fine, most people newer to the internet seem to prefer forums tho', I've been using irc since 1995 :)
+ Herbs: err yes :) it's firewalled too as stated you won't be able to reach anything anyways
+ Herbs: it's running a java application. it should have filled messages at boot tho', it didn't. it does get rotated
+ no rsyslogd should write the logs, normally hits on the firewall (which is everything except 2 ports from 2 specific IPs) get logged in messages too, this no longer happens either (and dmesg is *filled* with firewall hits)
+ hmm /etc/rsyslog.d/50-default.conf contains no references to /var/log/messages whatsoever, only 2 other files in there ... 20-ufw.conf and postfix.conf (no number?), none of these define /var/log/messages, has it been deprecated or am I lacking config files?
+ can someone on 11.04 (64 bit) server send me their (pref unmodified / default) contents of /etc/rsyslog.d?
+ opinions differ on it. basically drivers / hardware can live perfectly in virtual address space. Windows 'steals' the last piece of the memory because of shitty drivers that don't handle it well. That said, some chipset won't present the entire 4G to the OS (say my laptop for example) and thus the OS can not see the full 4G no matter what
+ opinions on pae differ as well, some say it costs up to 10% performance
+ proxy avoidance software? To avoid what? If I make a transparent proxy for example you won't be able to avoid it if you're on my network
+ KrisDouglas: 24? what do you do? They call me insane for have 12G in my workstation
+ OerHeks: just how old are you with a nick like that?
+ giro: wouldn't it be easier to just ask what you actually need to know? Nobody is going to answer such generic q's

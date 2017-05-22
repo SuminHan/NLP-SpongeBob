@@ -1,0 +1,2 @@
+ haha same here
+ is there a way to show the text during boot? (natty beta 2.. for now :))

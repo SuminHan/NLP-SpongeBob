@@ -1,0 +1,7 @@
+ Hello, how can I save everything that is currently in my RAM?
+ Is there a way to save the data that is currently on my RAM?
+ Well, a friend forgot to save a paper that is due tomorrow.
+ amorton: Thanks
+ He was using a program called pages for the mac, since both linux and ubuntu are unix-based I thought you guys would be more helpful than a mac chat.
+ Still, I would like to know how to save the data on the ram, is there a way to do that on ubuntu?
+ Does folding@home wortk on 11.04?

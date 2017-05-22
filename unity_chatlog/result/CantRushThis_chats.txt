@@ -1,0 +1,2 @@
+ hey - I've got a minor issue with my 11.04 installation: The default battery charge indicator is not displaying remaining charge time on my Compaq Presario CQ56
+ I remember reading somewhere that it's an issue with the 10.10 / 11.04 battery management system and that it should work with 10.04

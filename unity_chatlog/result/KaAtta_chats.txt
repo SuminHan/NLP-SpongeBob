@@ -1,0 +1,69 @@
+ hiexpo, sebsebseb ty both
+ i need a little help setting up conky. I understand how to create a .conkyrc config file. but i downloaded a setup that is in LUA format and it tells me to put it in ~/.conky (but i dont see a .conky file in my home file)
+ hiexpo, hte conky setup i downloaded is in lua format, and it wants me to place it in the .conky directory. which is supposed to be in my user folder, but im not seeing it
+ hiexpo, ActionParsnip here is the link with the file i downloaded and the instructions http://www.techdrivein.com/2011/02/6-awesome-conky-configs-that-just-works.html
+ ActionParsnip, i linked the URL i was going off of, could u take a look and see if u can understand what it wants form me?
+ hiexpo, i have enabled hidden folders already
+ hiexpo, ActionParsnip qin i figured it out guys, i had to create a folder and paste the lua into it
+ there was no previous folder, i had to create the directory. its working now :D
+ hiexpo, i was googling "conky configs" with a time filter of hte last year, and i saw that setup that was pretty
+ hiexpo, so i wanted
+ hiexpo, nice, but thats a bit too complicated for my girlfriend lol
+ hiexpo, nice, ill link u what im going with once im done customizing it
+ hiexpo, didnt forget about u, i got terminal running a package update, taking a few minutes before i can load up my new conky config
+ hiexpo, ok bud, here is the setup i went with http://i55.tinypic.com/4oo5j.png
+ escott which? the guages?
+ hiexpo, no, using gnome, 10.10
+ escott, that is conky, i just installed it and configured it using a setup i found online
+ induz in terminal: ps aux
+ the bar im using is cairo-dock
+ im still trying to figure out how to get composite to work on my LDXE setup, been trying for days
+ cant get any help in lubuntu channel
+ hiexpo, the screentshot is gnome, i ALSO have another machine running lubuntu, but i cant get composite to work on it
+ hiexpo, the screenshot is gnome, 10.10, all i have done is changed background, added the dock, added conky, and removed bottom panel
+ that is it lol
+ i didnt
+ hiexpo, i really wanna try 11.04 but i cant get the beta to boot for me if my life depended on it
+ ive used 10.10 more then anything and to be honest, right now im loving it. im pretty new to linux and im having a fairly easy time figuring it out
+ hiexpo,  i really wish my othe rmachine was capable of running 10.10
+ question is, will it run smoothly on my other machine?
+ my other machine has issues running 10.10 but runs lubuntu 10.10 just fine
+ hiexpo, what does LTS stand for?
+ hiexpo, sebsebseb ty both
+ ok so i have been trying for 5 days to get help in #lubuntu with setting up a composite manager
+ so my question is, what kind of performance difference will i see between 10.04, 10.10, and 11.04
+ i know that 10.10 is a bit laggy @ times on this machine
+ lubuntu runs very well, but i am tired of not being able to get any help w/ setting it up
+ so i was hoping 10.04 would run smoother on this hardware
+ what kinds of things can i do to make 10.10 run better on lesser hardware?
+ nutsfornatty, ive used gimp and photoshop, i prefer gimp by alot, ii just dont like a few bugs ive run into that have cost me 8 hrs of work
+ ive tried xubuntu, and lubuntu, and had high hopes for lubuntu but lxde seems to be lacking too much that im used to with ubuntu
+ Andre_Gondim, im on lubuntu now, i have been sitting in #lubuntu for 5 days asking for help getting a composite manager running (google is no help at all)
+ nutsfornatty, the biggest issue i have with gimp, is on really large projects, the 'undo history' gets so long tthat it will freeze and crash in windows
+ nutsfornatty, i havent really used it in linux yet
+ andrew_46, i cant find a composite manager that works properly for things like an app dock, and conky
+ andrew_46, google doesnt show much of anything that i have found, and nothing that i found helpful @ all about what compositte manager i should even be looking for
+ andrew_46, specs: http://www.netbooktech.com/asus-eee-pc-701sd/
+ histo, i searched the synaptic package manager for cairo-compmgr and didnt find it @ all
+ andrew_46, yea, its a 800x480 resolution, ubuntu installer window doesnt even support that. bottom of the screen is cut off
+ have a nub question, reading instructions on google telling me to edit "etc/apt/sources.list"
+ where is that directory?
+ yea, thats what i just asked... but telling me /ext/apt/sources.list means absolutely nothing to me
+ im trying to add debian source to my sources to get a LXDE compatible composite manager
+ ty ymer for answering something i could understand
+ what do i need to do to edit that? i may be wrong but ymer, your instructions appear to just show me the contents of the file
+ harvi i type that and get "command not found"
+ harvi, i appear to not have gedit, i am apt-get installing it
+ harvi, the last hint got it, tyvm, exactly what i needed
+ tsimpson, dont feed trolls :D
+ ymer im having a bit of an issue w/ the package im after apparently not exsisting
+ kinda annoying
+ ciaro-compmgr
+ i have been trying to get a composite manager for lubuntu for about a week
+ im getting an error: W: GPG error: http://download.tuxfamily.org sid Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY CBF6E0B8483170E9
+ y does it have to be so bloody hard to get a composite manager on lxde?!?!?!?
+ omfg im about to scream... im so close to just giving up on this
+ velcroshooz i am not a linux buff, but after installing a dock and conky, which i desperately want to be running on this machine... im told i need something called a 'composite manager' so that there are not large black boxes around the apts
+ velcroshooz, i thought that there was something preventing compiz from working in lxde? or can you help me get it going?
+ velcroshooz, unfortunately ubuntu wont run on this machine, but lubuntu runs very very smoothly
+ velcroshooz, i think i can handle it. gnome runs decently on this machine till i try to do too much at once, i think running compiz from lubuntu will work out fine

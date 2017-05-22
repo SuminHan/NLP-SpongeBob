@@ -1,0 +1,37 @@
+ is there a configuration backup for compiz after upgrade?
+ ActionParsnip: I had my configured Compiz and with the upgrade Ubuntu basically trashed all the configuration I had
+ I am not on Unity
+ ActionParsnip: the thing is, I didn't do any, and with any other configuration file it always asked me if I'm okay with changes being made...
+ great
+ and now I get segfault on emerald, toio
+ too*
+ ActionParsnip: so, where can I change current window decorator options?
+ ActionParsnip: LAcan: okay, but ccsm doesn't give me themes, and desktop preferences give me just preloaded themes with no configuration options
+ LAcan: nope, integrated Intel
+ LAcan: I just want to customize my window decorator, everything else I am setting already in ccsm, I cannot change window decorator theme via ccsm
+ LAcan: yes, it does, but my point is, I don't want to "choose", I want to do my own
+ LAcan: is it in the repo?
+ ActionParsnip: okay, now that I disabled metacity, it looks better
+ ActionParsnip: but still doesn't give me any way to customize it
+ ActionParsnip: that's the level of configuration I'm looking for: http://imgur.com/O4HGK
+ ActionParsnip: and that brings me to my first sentence: emerald gives me segfault
+ ActionParsnip: $ emerald --replace
+ Segmentation fault
+ ActionParsnip: so, no effectr
+ hello, guys
+ I have a problem: My screen freezes but I can move my mouse. I can still interact with the desktop, but I cannot see any changes I make (ie. after clicking, etc.) I am running GNOME on Natty (not running Unity)
+ so, how do I refresh the display to make it work again?
+ without killing X
+ I have a problem: My screen freezes but I can move my mouse. I can still interact with the desktop, but I cannot see any changes I make (ie. after clicking, etc.) I am running GNOME on Natty (not running Unity). How can I refresh the display again without killing X?
+ I have a problem: My screen freezes but I can move my mouse. I can still interact with the desktop, but I cannot see any changes I make (ie. after clicking, etc.) I am running GNOME on Natty (not running Unity). How can I refresh the display again without killing X? *bump*
+ I have a problem: My screen freezes but I can move my mouse. I can still interact with the desktop, but I cannot see any changes I make (ie. after clicking, etc.) I am running GNOME on Natty (not running Unity). How can I refresh the display again without killing X? *bump*
+ ladelai: didn't do anything :(
+ ladelai: what was it you wanted to do?
+ ladelai: aah
+ ladelai: nope, that shouldn't be a problem, as then I should be able to go to another workspace and use it properly, right?
+ ladelai: which doesn't work
+ ladelai: also, right now I am in tty on irssi, if I go to X's (alt+f7), I can see the screen not refreshed (can see irssi) and I can move the cursor
+ ladelai: any idea?
+ ladelai: I've already tried auto-configuration by plugging in another monitor, that only refreshed the screen to black space with a cursor
+ meh, I just killed my X
+ thanks for nothing

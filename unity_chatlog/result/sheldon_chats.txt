@@ -1,0 +1,5 @@
+ could someone tell me how to get a menu on my secondary Xscreen? after I upgraded to 11.04 it went away, and now there is only a couple icons on that screen
+ anyone know what is up with Dual monitors on Nvidia drivers, on  11.04? My dual monitors have not worked correctly since the upgrade
+ I spent some time on forums earlier today, but wasn't able to find any posts about this problem
+ anyone have a link to something official?
+ multitasking

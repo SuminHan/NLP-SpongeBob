@@ -1,0 +1,12 @@
+ Hello all.
+ Ubuntu noob here.  I have installed xp/v/7 on a box and then i installed ubuntu with /boot, /swap, root and /home.  I am /now/ trying to install Kubuntu and would like to have it use the first boot, swap and home partitions.  Is this doable/practical?
+ jrib: The box is a demo system.
+ jrib: is the theme for ubuntu used with ubuntu's desktop manager (excuse my lack of terminology)?
+ jrib:  It needs to look identical to cust. systems.
+ jrib: customers have ubuntu and so I am learning it.
+ jrib: can you answer my q about partitions?
+ mbeierl: I know to use a different / :)  but I am asking if overwriting boot, swap and home is acceptable.?
+ mbeierl: I understand.  I will share the home and swap partitions and recreate the others.
+ jrib:  Thanks for the help.
+ mbeierl:  Thanks for the help.
+ mbeierl: But then I couldn't get my kicks off of sda10.  Thanks :)  ttyl

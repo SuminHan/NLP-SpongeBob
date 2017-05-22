@@ -1,0 +1,6 @@
+ hello where could i get some help for openoffice?
+ bazhang: i figured that much thx :)
+ bazhang: is that .. active channel? there are folks there but nobody writes anything
+ Chepoll: this is kind of general help, if nobody answers, nobody knows
+ ali_: ctrl-alt-f1 to change to terminal (ctrl-alt-f7 to change back to graphics mode)..when you are in terminal ctrl-alt-delete works :D
+ bromium: stop looking at that porn

@@ -1,0 +1,19 @@
+ Greetings all , i downloaded the torrent alternate i386 file , i dont have cd's , can i still upgrade from this file i have
+ guys any1 ,  i downloaded the torrent alternate i386 file , i dont have cd's , can i still upgrade from this file i have
+ ChogyDan, how?!
+ dasy2k1, but my internet is slow
+ ChogyDan, thanks i didnt read it carefuly before :D about wasting cd's :D
+ stbain1, i upgraded it online , and then canceled about 1/4 of the way
+ stbain1, if it bricked like u say , atleast can i boot my windows7 , and do it from their later ?
+ ChogyDan, :< now u pulling my socks , should i upgrade or not lol , i wanted gnome3 but i heard its unstabled at this point , and Gnome4 will be the future of Gnome and not 3
+ dasy2k1, ChogyDan , stbain1 , and all whos helping , Thanks all =) and i know for a fact , i trust mysystem more with linux then using a mac os x when i have no idea what is running in the background
+ the upgrade process without network dont work somehow , it keeps retrying to connect to internet then it says failed to fetch and restores and closes when following this link https://help.ubuntu.com/community/NattyUpgrades  ( im upgrading using alternate cd without wasting a cd , just mounted through terminal and used the run command to execute the upgrade dialog box )
+ looks like i have to go buy a cd LOL
+ yes
+ yi
+ yi`zhi, i have downloaded the alternate i386 ubuntu 11.04 from torrent and it downloads fast 1500kb/s
+ but the problem is yi`zhi  is that u wont be able to upgrade somehow !!! :S theirs some kind of bug, the only way is to make a cd , i tried emulating a cd and mounting it then running but doesnt work
+ yi`zhi, maybe if i used an application rather then terminal might work , let me test :D
+ NotTooDumb3, their are third party softwares that does it
+ Captainkrtek, i have natty still didnt upgrade and yes hp printer installed working fine / network and USB both does
+ Captainkrtek, sure

@@ -1,0 +1,10 @@
+ hello i have only ubuntu installed on my system so when my system boots it doesn't shows the grub screen and i just want to go into recovery mode,so please tell me how can i do that ?
+ tanath:11.04
+ hey what's the solution of that problem
+ can anyone please tell me
+ hello i have only ubuntu installed on my system so when my system boots it doesn't shows the grub screen and i just want to go into recovery mode,so please tell me how can i do that ?
+ i am using 11.04
+ tanath:i am sorry but that time i am disconnected can you please tell me again
+ tanath:but with the use of startup manager app we can work only if the ubuntu is running but one of my system is not able to boot ubuntu due to broken package,so when i boot my system only blank screen comes so i need to step into recovery mode from their
+ tanath:ok thanks dude
+ anyways congratulation to ubuntu team and community for the awesome release 11.04

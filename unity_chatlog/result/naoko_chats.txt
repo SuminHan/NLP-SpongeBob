@@ -1,0 +1,6 @@
+ hey guys
+ I installed xChat, and I noticed once it's minimized, you can't access it anylonger from any window
+ coz_: clicking that just opens up a new process
+ coz_: nevermind, russjr08's thing works
+ rgr: Oh, alright.
+ There we go, thank you guys.

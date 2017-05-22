@@ -1,0 +1,1 @@
+ I wanna install a package in offline mode, so I need the list of dependencies, but I can,t create it on my own pc because the package list is not updated. is there anyone who installed 11.04 here to help me with that

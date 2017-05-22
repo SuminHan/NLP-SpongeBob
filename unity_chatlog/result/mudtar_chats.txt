@@ -1,0 +1,7 @@
+ Right now, in Ubuntu 11.04 (with Unity), I have to hover over the top menu bar before the menu options appear, overlaying the title. Is there a way to get them to be there all the time, without my mouse hover?
+ Ah, I missed it Dr_Willis. Can you link me once more?
+ Thanks, Dr_Willis. :)
+ Dr_Willis, I find that's true with Chromium. :\
+ Firefox plays quite nicely, but not Chrome. I'll get around to fixing it someday, but for now I'll use Firefox because of it.
+ Dr_Willis, I don't want to uninstall Global Menu completely. I just want to make it so that it's set the menu never hides. So that I don't have to bring my cursor up there before the menu shows up. Do you know how to do that?
+ Right now the window title shows constantly, and the menu doesn't come up until my cursor's there.

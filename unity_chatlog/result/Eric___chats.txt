@@ -1,0 +1,6 @@
+ ubuntu 10.10 wireless  adaptor not ready firmware missing.have now connected to the net with wir adaptor,how do I get the firmware please?
+ Celthunder_ intel mini adaptor
+ ineed something like device manager in windows
+ is there a add new hardware in ubuntu 10.10 to automatically find anad install hw?
+ cwlthunder_i am new to ubuntu,trying to get the wireless card going.don/t know where to start
+ celthunder sudo bcm43xx-fwcutter -w /lib/firmware ~/Desktop/wl_apsta.o returns command not recognised

@@ -1,0 +1,2 @@
+ hi guys I really love the new Ubuntu 'dock' but I would like to have it 1) at the bottom of the screen 2) never disappearing. I want a proper dock. How can I achieve this?
+ nijabo: thanks

@@ -1,0 +1,18 @@
+ Anyone else has a problem with xhci_hcd timeout and mouse / keyboard stop working with the natty kernel?
+ aravinda: tried rebooting?
+ aravinda: could be a pulse audio issue hanging in another session
+ aravinda: pulseaudio running?
+ aravinda: press "alt F2"
+ aravinda: and type: pulseaudio &
+ aravinda: after that, retry opening the sound stuff
+ aravinda: try "alt F2" and afterwards: pulseaudio -d
+ aravinda: if this does not work, killing pulseaudio and restarting would be an idea.
+ aravinda: run the command: pulseaudio -k
+ aravinda: afterwards pulseaudio -d
+ and retry
+ Monotoko: it will
+ Monotoko: you do not have to reinstall, it is not windows :-)
+ aravinda: does not work, or does it?
+ aravinda: sorry, no idea from here - did it ever work bevore?
+ aravinda: is skype currently running? could block your sound device
+ aravinda: nskype does not change any system settings concerning audio

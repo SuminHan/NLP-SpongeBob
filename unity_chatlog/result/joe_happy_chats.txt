@@ -1,0 +1,1 @@
+ hey so i play world of warcfraft in ubuntu, but sice i upgraded it to 11.04 its been kind of acting up , like whenever i click on an icon in game the camera just goes flying around and ends up pointing up and stays there

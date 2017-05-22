@@ -1,0 +1,2 @@
+ I have a laptop with 2.0Ghz AMD and 1GB RAM, would you guys recommend me Ubuntu 11.04 for the laptop? I heard it slower than previous versions of Ubuntu
+ thejonb About the 2D option, do I need to download Unity 2D manually after I install Ubuntu 11.04, or it is there by default?

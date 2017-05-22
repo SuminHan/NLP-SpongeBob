@@ -1,0 +1,7 @@
+ Hi. I'm trying to install Ubuntu 11.04 amd64 along Windows 7 Ult. 64. The Wubi installer finishes without errors but when rebooting there are no changes to the system and W7 boots up as normally. No traces of Ubuntu on the boot menu nor in the boot selector inside the W7 control panel. Anyone know what the fix is?
+ edbian: Hi, sure
+ edbian: I was going to do the normal install but I wasn't sure it would screw up Windows somehow (or that Windows would screw itself up in the process, which seems to be what it does best)
+ edbian: Do you know if there is any VM that will allow me to run the installer virtualized in Windows, and install to a real hard disk partition?
+ edbian, Halzen: I'm fresh out of USB sticks and CD-Rs, that's why I was looking for a way to keep it all "inside" the computer :)
+ Halzen, edbian: Thanks for your time and help.
+ laters all

@@ -1,0 +1,1 @@
+ after upgrading to 11 (server) my vm will not boot kernel 2.6.38 just dumps me into initramfs prompt, will boot 2.6.35 however with seemingy identical params any ideas?

@@ -1,0 +1,35 @@
+ Elssha, it's Ubuntu's new shell
+ jbwiv, it's a notification
+ jbwiv, tells you that something has occurred somewhere. Doesn't actually tell you what occurred just that something has, somewhere, at some point
+ jbwiv, you see what I did there
+ escott, someone posted it as a bug earlier
+ escott, We should have a bet on what actual feature of unity will be the next one to be incorrectly indentified as a bug
+ srsbiz, 11.10 is the next lts
+ yi`zhi, you can't as far as I'm aware
+ mbrochh, I'm having trouble enjoying it full stop
+ webtrickster, there is a guide on the official forums to adding the gnome 3 ppa if you wish to
+ webtrickster, however be aware if you proceed with gnome 3 you cannot roll back to unity or gnome 2
+ webtrickster, goto the forums and do a search for 'gnome 3 ppa'
+ webtrickster, if you are struggling to use the forums you really shouldn't consider moving to gnome 3
+ webtrickster, not at the moment although suse has it in its repositories
+ shaneo_, you will have to reinstall
+ shaneo_, you know that whole warning about not being able to roll back changes made when you enable the ppa, they weren't joking
+ mordof, I had the same issue yesterday with xchat
+ mordof, icon dissapears and can only open it with alt-tab. Report it as a bug
+ mordof, Only fix I found was to restart unity
+ mordof : https://help.ubuntu.com/community/ReportingBugs
+ mordof : read that, it's pretty straight forward
+ mordof, I just logged out and back in
+ mordof, https://bugs.launchpad.net/ubuntu/+source/xchat-gnome/+bug/772524
+ mordof, does that sound familiar?
+ lehel_, you can't
+ Halt, make sure there are no spaces between the channels i.e. should be #ubuntu,#ubuntu-uk
+ xs3ns3, login to ubuntu classic if you wish to go back to gnome 2 desktop
+ xs3ns3, logout then log back in and double check that ubuntu classic is selected otherwise it will throw you into 2d unity as I am aware
+ jack123 : if you wish to go back to single windows boot, boot from your windows cd and choose to boot into dos recovery and type fixmbr, that should do the trick
+ daxroc, unity is a shell for gnome 2, gnome-shell is a shell for gnome 3
+ xs3ns3, no problem
+ xs3ns3, they don't exactly make it obvious
+ daxroc, it's nothing like gnome-shell
+ daxroc, I'm using gnome 3 and gnome-shell from the ppa here
+ daxroc, imo, and this is my opinion, unity isn't fit to lace gnome 3's rather lovely shoes

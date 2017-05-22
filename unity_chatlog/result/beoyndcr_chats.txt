@@ -1,0 +1,35 @@
+ hello
+ I just installed 11.04.... is there a reason why it takes 2 mins and 5 seconds to boot? I never had any problems with 10.10
+ Yhea i but going from 20 sec boot to 2 min boot is alot of bloat
+ yes just for 11.04
+ i just timed it twice
+ in a row
+ what can i do to show what it is doing?
+ pfifo it sits at a redish screen is there a way to show what modules are loading during the entire boot process
+ f4
+ ?
+ pfifo f4
+ ok
+ thanks pfifo
+ Ill be back in a few
+ hum
+ now why whould it take that long two times in a row but the third time it boots under 20 seconds....
+ any ways thanks guys
+ also right before i just did the last reboot everything way laggy
+ now its smooth
+ what are the thoughts on the unity?
+ my cuz just went back to 10.10
+ mikinanuq I am trying hard to like it
+ mikinanuq: Wow thanks did not know they made use of the super key.
+ Why is it called the super key it should be called the gimp key
+ i think i just hate the bar being on the left side of the screen I use to hate when people would set their windows task bar to the left and this is what that reminds me of
+ has any one tried gnome 3 yet?
+ I am really really trying to like unity but I think unless big changes are made it might fail
+ spikebike I know I just hope it comes together I really want to like this
+ spikebike i think my biggest thing is trying to keep track of running windows
+ Spikebike, yes but it kinda gets in the way when you have 1 app running then 3 instances of term running and all the terms come up at once things get mixed up
+ spikebike but i guess its just still young they will probably have things worked out by 11.10
+ All i have to say is unity looks and works alot better than stock gnome shell
+ I hate mac
+ but the new ipad isnot bad
+ I dont think they have launcher yet

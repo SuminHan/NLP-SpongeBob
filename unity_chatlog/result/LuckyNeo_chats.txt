@@ -1,0 +1,3 @@
+ What steps should I take to update to Ubuntu 11.10 beta 2?
+ Oh I'm sorry
+ I got some problems with after installing 11.04. I think, updates should solve it. What is better to get newer updates, backports or proposed?

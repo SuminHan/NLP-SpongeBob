@@ -1,0 +1,20 @@
+ ehm... i used the prerelease for a while with unity-2d in lack of a working graphical driver. now i got one working. so i started to use unity-3d. but the 2d menu bar overlayed the 3d. actually two bars loaded. so i uninstalled all unity-2d packages and reinstalled unity-3d. but i am not able to get i loaded from the login screen.... help?
+ unity will not load at login... how to fix? it starts fine from terminal
+ narwhaller: probably a driverproblem if you have a clean install
+ narwhaller: if there is more than one proprietary driver in the list try another one
+ anyone able to help out with unity not loading? drivers is ok. but standard session does not load unity after uninstalling unity-2d
+ is there a unity guru here?
+ i uninstalled unity-2d and reinstalled standard unity. now it will not load from login. only from terminal
+ nope
+ funny no one in the ayatana channel did not suggest that?
+ hyptech: seems like it might work. will do a reboot soon
+ hyptech: now it just says: Setting Update "run_key" in terminal. should i just wait?
+ hyptech: ok, thanks :)
+ hyptech: http://pastebin.com/nnLvZYSi
+ hypetech: http://pastebin.com/nnLvZYSi
+ computer freezed. hardbooted and then ran reset in recovery mode resulting this outpu
+ t
+ hypetech: computer freezed. hardbooted and then ran reset in recovery mode resulting this output
+ yes but i only get classic look
+ hypetech: yes but i only get classic look
+ hypetech: no problem. thank you anyway :)

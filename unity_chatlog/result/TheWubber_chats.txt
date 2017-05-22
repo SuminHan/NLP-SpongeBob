@@ -1,0 +1,4 @@
+ where are VLC settings stored?
+ can't find them in /home
+ jrib: thanks
+ zhjawe: download the packages from a computer that has internet and transfer them onto the machine

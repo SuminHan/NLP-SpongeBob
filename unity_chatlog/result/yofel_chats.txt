@@ -1,0 +1,10 @@
+ vibhav: no, 12.04 will
+ pumeust: the 'flashplugin-installer' provides the flash player
+ zetheroo: point is that complaining *here* will change absolutely nothing, either raise your point to the ayatana team or remote participate on the ubuntu developer summit
+ sfdsafdsafdsa: that's something for #ubuntu-offtopic
+ !final | Galerien
+ jdahm: that's not the case usually, at least for me upgrades have always worked fine
+ jdahm: *if* update-manager messed up the upgrade, please file bugs about that, it shouldn't happen
+ jdahm: missing GPG keys will only get you warnings, not errors, so that shouldn't mess up anything. Well, it will give you an occasional warning, true
+ pylix: nope, 12 months from now https://wiki.ubuntu.com/Releases
+ bashelina: that's plenty

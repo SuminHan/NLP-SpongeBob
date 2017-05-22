@@ -1,0 +1,13 @@
+ Hi... hmm, trying to fix my settings for my xorg.conf, tell me... if I use modeline ... do I remove all other monitor info? Or just paste it above? The problem is my refresh rate is low and its killing my eyes.. Ubuntu doesnt pick up my refresh rate but I know this monitor can do 80hz ?
+ Noone know how to modify xorg then?  please really need help getting my refresh rate working, this is killing my eyes
+ Barnabas, I have a Sahara monitor, lol.. Can't find it.. However I have the modeline info... but just not sure how to define it in xorg.conf if I remove all other monitor arguments it wont work, if I put it on the first line it still doesn't work... if I specify 1024X760_80 it defeaults back to 50hz refresh rate
+ Barnabas, just not sure how to decode the modeline to horizotal and vertical
+ Barnabas, tx
+ erm, finding quite a few bugs with this new ubuntu... if I minamize things, where does it 'go'
+ Also most apps don't know how to install in the new 'launcher'
+ ok guys honestly this new ubuntu layout is screwed... anyway i can go back to the old layout... I can't find jack shit this way, things just 'dissapere'
+ phoque_uni, how can I go back to the old look
+ phoque_uni, nothing works, stuff just dissaperes
+ tx
+ Are you guys enjoying this new look and feel, because i kind of think its the most buggy piece of software I have seen in some time.
+ thegoodcushion, i'm natty and the default launcher it uses...

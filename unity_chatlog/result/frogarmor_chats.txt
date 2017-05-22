@@ -1,0 +1,3 @@
+ Hi. I'm trying to open some old text files from 1993 in Gedit. It's complaining about character encoding and not displaying anything.
+ i remember opening this file on windows just fine..
+ ActionParsnip: Thanks I'll look for that.

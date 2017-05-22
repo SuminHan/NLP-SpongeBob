@@ -1,0 +1,7 @@
+ Do any music players manage playlists on iPod's yet?
+ jubei_: may  I pm you?
+ jubei_: you need to tell your server to do ip forwarding... change the 0 in /proc/sys/net/ipv4/ip_forward to a 1
+ jubei_: also did you change the value in /etc/sysctl.conf ?
+ jubei_: ok, what about iptables?
+ jubei_: do you have firewall rules preventing?
+ jubei_: see my pm

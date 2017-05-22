@@ -1,0 +1,3 @@
+ Hi, echo '1z' |grep --color '[A-Z]'
+ 1z
+ why z is selected?

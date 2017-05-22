@@ -1,0 +1,4 @@
+ How would one go about running both FF3.6 and FF4 ?
+ On 11.04
+ syockit: So grab from mozilla site, extract to /opt or what not and use new profile ?
+ syockit: thanks

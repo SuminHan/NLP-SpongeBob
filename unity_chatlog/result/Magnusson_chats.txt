@@ -1,0 +1,10 @@
+ can someone help me figure out what i need to do to fix make[2]: *** No rule to make target `/usr/lib/libX11.so', needed by `lib/liboxygentransparentstyle.so.4.6.0'.  Stop.?
+ heroprimeremix: cd /home/
+ heroprimeremix: cd /home/(username) sorry
+ tuxy_: did you select "advanced" or something to that effect?
+ isn't there a command to cd back to your last working directory?
+ nah i'm not looking to move 1 level up, i could be nuts but i think i remember years ago being able to for example  cd /etc/X11, then cd /mnt/cdrom, then use another command to get back to cd /etc/X11 (just an example off the top of head)
+ Blue1>oh ya? cool thanks :)
+ testing my client settings, could someone mention my name in channel in 5 secs?
+ thanks trailoryo :)
+ hmm no sound

@@ -1,0 +1,2 @@
+ in /etc/modprobe.d/alsa-base, is it the same what to use: "-" or "_" in module name (e.g. "options snd-hda-intel model=dell-m81")?
+ hi all, in /etc/modprobe.d/alsa-base, is it the same what to use: "-" or "_" in module name (e.g. "options snd-hda-intel model=dell-m81")?

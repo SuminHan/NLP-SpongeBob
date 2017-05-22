@@ -1,0 +1,4 @@
+ Hi everyone !
+ I would like to convert my computer to a RAID-0 system, is i t possible just to add another HDD and adapt to it or do I have to reformat everything and reinstall ubuntu from zero ?
+ scotty^, I know about this, this only is for testing and learning purposes
+ scotty^, This computer does not support more than 2HDDs, can't try anything else than RAID-0/1

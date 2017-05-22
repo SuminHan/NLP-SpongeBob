@@ -1,0 +1,101 @@
+ natty is released?
+ how hard is it to revert back to the 10.10 gnome?
+ sagaci, okay, i haven't done the upgrade yet.
+ sagaci, thanks though, i wanted to know before I did it.
+ nonix4, yeah this is just netbook unity
+ nonix4, which you can turn off when logging in
+ wow my harddrive is making a scary noise from this update
+ i hope it's not the end
+ mah454, what is wrong with it
+ mikebot, it installs in windows LIKE a program, but runs separately like an OS. No partitioning involved.
+ mikebot, correct
+ mikebot, no problem
+ mah454, sure
+ mah454, just use an image hosting site like imgur.com
+ oh dear god why did i choose to upgrade now. the repos are so backed up...
+ mikebot, are you trying to run one inside the other? or run the separately?
+ escott, he might not know what a VM is, this is his first time installing an dualboot os
+ phoenixsampras, just click the upgrade button in software upgrades
+ mikebot, make a virtual partition (is that what it's called? i forget)
+ you make it the same exact way
+ mikebot, you make it the same exact way in a partition manager
+ mah454, i gotta run, send it to compdoc or josephnexus
+ mikebot, as far as I know. you can create them with any real partition manager
+ mikebot, i gotta run, sorry
+ oh man the upgrade is going so slow.  Is it just because everyone is connected?
+ upon update to 11.04 i can't get desktop cube working. every time i try to start it, it breaks the gnome window manager
+ I'm in 11.04 with unity off, and when i try to start desktop cube from compiz, my window manager dies and nothing works.
+ ohsix, haven't solved the problem?
+ ohsix, how do i at least restart the wm?
+ robin0800, classic always used to use compiz...
+ ohsix, nope... still nothing.
+ Flynsarmy, I'm using classic, so unity should be off... hopefully
+ Flynsarmy, i don't even have cube turned on, i just can't get my wm to re-appear
+ well F. how do i get compiz working in unity? right now it just disappears everything.
+ so how do i get my wobbly windows back?
+ whenever i enable composite my desktop breaks
+ actually no
+ its just not wobbling.
+ Jon4248, i check the box, enable opengl and composite, but nothing happen.s
+ ohsix, how do i do that?
+ ohsix, it's making me turn on composite and opengl
+ Jon4248, GTX 460 768MB
+ ohsix, i just upgraded today, everything was working an hour ago :p I have a GTX460 so i'm sure my card will support it
+ ymasory, it seems to make everything lose focus in my experience, and then you have to log out to restart x so you can start metacity again
+ ohsix, Jon4248  proprietary nvidia driver? I 've been using that
+ ohsix, Jon4248 it says "active but not in use"
+ ohsix, what is nouveau?
+ ohsix, i don't think so, it's disabled in synaptic
+ ohsix, although when i click on monitor in system it doesn't force me to use the nvidia applet, which is suspicious, but i was playing portal 2 in wine a few minutes ago
+ mordof, yes just install the skidrow crack and run it with padsp wine portal2.exe from the directory
+ ohsix, it's cracked because drm breaks wine, not because i dont own it. i bought it.
+ ohsix, it's actually the recommended fix on winehq
+ mordof, obviously no co-op with that setup, also if you choose to go that route, you'll also have to do winetricks glsl-disable in your portal folder with the exe in it, and it runs super smooth
+ mordof, agree'd but I don't have time to play the co-op until summer, so i've got some time to work the bugs out :p
+ mordof, haha sure, you might not even need the aforementioned illegal fix in 11.04, check winehq
+ ohsix, what happened to the tab in appearence prefs that allowed you to turn on wobbly windows and such?
+ ohsix, i had it in 10.10 :p
+ ohsix, does using gnome classic disable compiz?
+ grrr...
+ i got wobbly windows working, but desktop cube still kills my theme, and whenever i restart classic gnome, my desktop setup is 2x2 instead of 4x1
+ well dont ask me how, but somehow i got desktop cube working now.
+ why do menu-items look so ugly when i right-click on them?
+ wtf happened to the minimize to desktop applet for gnome?
+ nvm. i'm stupid.
+ lol KM0201
+ xsinick, it's been released officially for a day, relax
+ what key is KP5 in compiz?
+ nvm. it's the keypad
+ wow resizing windows the "normal" way with compiz doesn't seem to be working right.
+ does anyone know how to make 'normal' window  size in compiz not suck
+ window resize 'normal' sucks... how do i fix it?
+ tanath, if you're not using classic probably
+ tanath, you can choose "classic gnome" when you log in and it looks just like 10.04
+ tanath, or 10.10 even
+ tanath navigate to ~/Desktop either in the terminal or nautilus
+ tanath, i'm not sure, I don't really like unity all that much. It probably has some kind of stacks on the dock though that you could throw them into (I really dont know)
+ tanath, let me check
+ tanath, nope 2.31
+ tanath, nope 2.32.1 **
+ tanath, you can install it from the repos though, i believe
+ tanath, but it doesn't work with unity AFAIK
+ tanath, you might find it worthwhile to wait then...
+ tanath, I've been spending the last few hours fixing compiz, lol.
+ jubei, I have compiz working. are you in classic or unity?
+ jubei, does it say "activated but not in use" or is the little circle red?
+ jubei, activated but not in use? that means it's working. but if the light is red, it's not working. I don't know how to solve the not-working problem myself, but i'm sure somebody here has some ideas
+ jubei, thats how mine looks, and compiz is working for me.
+ jubei, install ccsm
+ jubei, sory compiz-config-settings-manager
+ jubei, i was wrong again compizconfig-settings-manager sorry xD
+ jubei, no problem, unfortunately i gotta run :( plenty of other people here to help though!
+ i'm thinking about trying debian or arch
+ ACameron, you're not _supposed_ to get errors :p
+ tommylommykins, seems that way
+ tommylommykins, I tried using it with unity and it broke unity until I restarted... I tried using it without unity ("classic desktop") and it works much better
+ thegoodcushion, are you asking if they're going to remove it?
+ thegoodcushion, just use "classic gnome" when you log in
+ thegoodcushion, honestly, if it disappears I would switch distros, on the other hand it's very easy to install gnome
+ uabn93, of course, if you update it internally
+ why is classic gnome so ugly when i right click on things?
+ Cporter, try installing 10.10 and then upgrading from within the OS?

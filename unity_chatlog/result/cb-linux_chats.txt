@@ -1,0 +1,16 @@
+ Hello
+ having trouble with gnome3
+ when strating your session choose from a lista on the botom af the screen Ubuntu Clasic instead of just Ubuntu
+ question, I did some updates and now my gnome shell tryes to open files and directories with Archive manager
+ how can I fix
+ hroi: when you select the user one will appear below
+ no problem
+ me
+ got gnome 3 and i cant open my directories
+ txs to drAg for helping me
+ one more thing not much of a problem justa  doubt
+ anybody knows if i can have compiz work in gnomoe shell
+ how can i set the number of workspaces in gnome 3
+ taglass i ment in order to have the compix cube working
+ i guess the compiz cube does not work in gnome shell
+ txs taglass

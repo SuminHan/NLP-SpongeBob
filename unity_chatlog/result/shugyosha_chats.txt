@@ -1,0 +1,6 @@
+ hello
+ hy , I have issues with playing video in full screen with all players ( Totem ,vlc, mplayer) since a go from 10.09 to 11.04, the images makes lines like it can't refresh fast enough
+ can enyone help me ?
+ Rehan > I tried to explain
+ hy , I have issues with playing video in full screen with all players ( Totem ,vlc, mplayer) since a go from 10.09 to 11.04, the images makes lines like it can't refresh fast enough
+ for you Rehan

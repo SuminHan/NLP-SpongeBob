@@ -1,0 +1,2 @@
+ Question: Can the Sidebar in Natty be resized instead of taking up the whole left side of screen? However I did resize the icons and such as i have found that
+ compiz does not play well in natty on some things

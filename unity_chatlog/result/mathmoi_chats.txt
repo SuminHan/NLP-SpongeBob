@@ -1,0 +1,3 @@
+ Hi, Can I make a minimal install of ubuntu with the regular CD or do I need to use the server CD?
+ Logan_: Thanks
+ Hi, what should I do if lsusb simply hang (I can't even use C-c to kill it)?

@@ -1,0 +1,4 @@
+ vsftpd
+ vsftpd is what ubuntu recomends in the server guide, i used it before, config is not too bad. never used proftpd
+ Does anyone know where to find the list of patches in the ubuntu kernel. (not the one big diff)
+ https://help.ubuntu.com/10.10/serverguide/C/ftp-server.html

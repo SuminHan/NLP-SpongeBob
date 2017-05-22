@@ -1,0 +1,15 @@
+ Any idea how many hours we have until they release 11.04?
+ Well, where I am located, it's 5:35 in the afternoon on the 28th
+ I live in Korea
+ I made the mistake of installing Ubuntu Studio on my desktop.  It's buggy.  But I am waiting for 11.04 instead of installing the normal 10.10
+ JR0cket1:  I have 11.04 on one of my sticks.  If I install stuff on it, and then install it on my HD, will it also install the added software?
+ Isn't ironing out the thorns what the beta versions are for?
+ mythri:  Knoppix is a great live CD for fixing problems like that
+ Some people have an irrational aversion to change.  And some people have an irrational fascination with change.  I remember a job interview where I asked them why they wanted to use technology X.  Their answer was the only reason they wanted to use X was because it was new
+ Yeah, I don't recommend linux if your primary purpose for using your computer is gaming
+ I forgot if someone answered this, but if I put 11.04 on my flash stick, then later install other programs.  Will those other programs get installed if later on I decide to use that stick to install Ubuntu on my hard drive?
+ guest345345:  I am all for having the choice to use proprietary drivers.
+ Rehan:  Depends on whether or not your boot partition is seperate from the main 10.10 partition.   If not, then your formatting will overwrite it and your grub2 will be screwed
+ Incarus6:  Yeah, but a liveCd doesn't have the option of modifying what's on it usually
+ dreinull_:  Yes it is
+ According to this site  http://releases.ubuntu.com/  the date stamp for 11.04 is 28-Apr-2011 09:11

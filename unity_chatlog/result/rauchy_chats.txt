@@ -1,0 +1,4 @@
+ Hey guys. If I've been running 11.04 beta, and ran 'apt-get upgrade', am I actually running the release?
+ gartral: thanks. but I didn't get any "Newer version of Ubuntu" notification, which I'm used to from previous releases.
+ gartral: ok, off I go to enjoy my new 11.04 :-D
+ gartral: thanks

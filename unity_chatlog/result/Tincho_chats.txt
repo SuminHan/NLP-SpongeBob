@@ -1,0 +1,1 @@
+ Hi. I am looking for help with an 3d accel. issue. Using natty, ati radeon RS690M, already tried disabling KMS, the X edgers, etc, with no improvements. My glxinfo says I am using the hardware renderer, but nothing that uses 3d works, unless I disable the KMS or force software rendering. Anybody can throw me a rope?

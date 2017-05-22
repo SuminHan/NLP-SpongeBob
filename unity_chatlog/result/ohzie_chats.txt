@@ -1,0 +1,5 @@
+ gedas: We don't troubleshoot sandwiches. :(
+ gedas: We don't troubleshoot sandwiches. :(
+ Dominater: vsftp uses your system's users by default, I believe.
+ Hey guys
+ I have a friend who lost his password, and I had him put a 1 on his initrd line in grub, to boot into single user mode, and it booted him to his username instead of to root. What is the current way to do what I am trying to help him do? :(

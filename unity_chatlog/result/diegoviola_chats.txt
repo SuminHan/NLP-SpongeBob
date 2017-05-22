@@ -1,0 +1,5 @@
+ hi
+ Does Ubuntu 11.04 now use Wayland instead of X?
+ gogeta: when it will use Wayland please?
+ gogeta: nice! :D
+ gogeta: fingers crossed

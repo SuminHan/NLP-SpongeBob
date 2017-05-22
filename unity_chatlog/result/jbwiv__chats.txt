@@ -1,0 +1,13 @@
+ guys, on Unity, I have the little blue triangle thingy up at the top left indicating some sort of notification, but I can't find what's triggering it. Does this thing log anywhere?
+ guys, on Unity, I have the little blue triangle thingy up at the top left indicating some sort of notification, but I can't find what's triggering it. Does this thing log anywhere?
+ botcity, and look for what?
+ botcity, also, oddly, /var/log/messages is empty on my machine. weird
+ botcity, no, it was an upgrade
+ botcity, does /var/log/messages being empty indiciate an issue?
+ guys, after upgrading to narwhal, nothing is being written to /var/log/messages. Is this expected or is something going on?
+ guys, after upgrading to narwhal, nothing is being written to /var/log/messages. Is this expected or is something going on?
+ lcb: ok, thanks
+ Guys, I've verified that on all four machines that I upgraded from 10.10 to 11.10, /var/log/messages is no longer being written to. It's just empty. Any ideas what could cause this?
+ trism, interesting. so where do messages which would have gone to /var/log/messages now go?
+ trism, do they now go to /var/log/syslog?
+ trism, ok, thank you!

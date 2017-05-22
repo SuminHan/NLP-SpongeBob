@@ -1,0 +1,5 @@
+ hi ubuntu-usr
+ aguitel, In ubuntu 11.04 or upstream?
+ aguitel, its 3.3 AFAIK
+ aguitel, the PPA version is 3.3
+ sammy, better ask in #upstart

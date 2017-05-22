@@ -1,0 +1,3 @@
+ for a 2yo toshiba laptop with 4gb of ram, would it be better to go with 32bit or 64bit ubuntu?  Does 64bit have more driver or application issues?
+ alright, was concerned about driver problems with the older laptop.  installing for my 60yo father, so trying to make it as painless as possible
+ thanks vooze and sipior

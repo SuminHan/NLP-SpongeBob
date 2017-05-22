@@ -1,0 +1,4 @@
+ W:Failed to fetch bzip2:/var/lib/apt/lists/partial/archive.ubuntu.com_ubuntu_dists_natty_universe_source_Sources  Hash Sum mismatch
+ , W:Failed to fetch bzip2:/var/lib/apt/lists/partial/archive.ubuntu.com_ubuntu_dists_natty_universe_binary-i386_Packages  Hash Sum mismatch
+ , W:Failed to fetch bzip2:/var/lib/apt/lists/partial/archive.ubuntu.com_ubuntu_dists_natty-proposed_universe_binary-i386_Packages  Hash Sum mismatch
+ , E:Some index files failed to download. They have been ignored, or old ones used instead.

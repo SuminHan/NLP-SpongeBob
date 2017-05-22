@@ -1,0 +1,15 @@
+ what is the best gui backup tool for ubuntu?
+ Will ppa sources conflict with system upgrade?
+ ohsix: how do i purge them?
+ ohsix: what if i don't remember those names?
+ is there a way to purge every ppa source?
+ i think a reinstall would be faster than an upgrade.
+ i remember there is a backup tool often compared with rsync, having a name that also starts with r, but i've forgotten it.
+ could anyone remind me?
+ ohsix: thanks. that's it.
+ ohsix: why do you like it so much?
+ Please have a look at this: http://paste.pound-python.org/show/5906/
+  is there any problem with the swap partition?
+ is it possible to run ubuntu or xubuntu withou gdm?
+  every time i open a file in midnight commander (inside xterm), i.e. reading a pdf file with evince, the application would feedback some info into xterm, and clobber the mc interface. Has anyone ever exprienced this?
+ Very annoying. Otherwise i might make mc my main file manager.

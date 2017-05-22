@@ -1,0 +1,5 @@
+ Anyone here having an issue with the Natty upgrade?
+ I'm getting an error during upgrade ...
+ Failed to fetch http://ie.archive.ubuntu.com/ubuntu/pool/universe/p/plymouth/plymouth-x11_0.8.2-2ubuntu23_amd64.deb 404  Not Found [IP: 193.1.193.69 80]
+ Failed to fetch http://ie.archive.ubuntu.com/ubuntu/pool/universe/s/system-config-printer/hal-cups-utils_1.3.1+20110222-0ubuntu16.2_all.deb 404  Not Found [IP: 193.1.193.69 80]
+ Failed to fetch http://ie.archive.ubuntu.com/ubuntu/pool/universe/q/qt4-x11/libqt4-webkit_4.7.2-0ubuntu6.1_amd64.deb 404  Not Found [IP: 193.1.193.69 80]

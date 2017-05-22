@@ -1,0 +1,13 @@
+ hi all
+ just upgraded to ubuntu 11.04 on my desktop and now after i choose the os in Grub there is a blank screen and no disk activity...
+ please help me
+ yes,seems so, but i have clue after reading few google results,
+ I have NVidia card and when i press the auto set button on the monitor, it say set a lower resolution
+ K
+ KU
+ KNUBBIG,  sebsebseb , any ideas please ??
+ hmmm, let me check if this is the case
+ sebsebseb, fdisk -l shows that the sda6 is the linux partition and pressing e on the boot menu item shows like this, set root='(hd0,msdos6)' is that ok ?
+ i would have done a clean install already but i have many programs installed and dont have to do all the reinstallation, i have to finish projec work.
+ and the worst is that my wife also uses the same pc with a mulitseat and now she also cant work :(
+ can i somehow specify the device resolution at kerrnel boot line ? when i press the e key?

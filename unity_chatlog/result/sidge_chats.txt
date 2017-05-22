@@ -1,0 +1,16 @@
+ hello all, my google-fu has failed me...how do i make dvd-roms automaont to a set mount point like they used ie /media/cdrom0
+ jordan, have you turned off desktop effects under appearance?
+ this is chaos, i need a better chat client, back in a bit
+ Juest thats normal, those processes have nothing to do
+ I have my chat working better now.  how do i get whatever part of ubuntu that automounts to put the mountpoint where i want it?
+ netbook, have you tried the sound prefferences dialog?
+ could maybe try alsamixer
+ its a terminal app, i think its installed be default
+ if not, it can be installed and then run from the terminal
+ odd that it wasnt allready installed
+ netbook, it should work to type alsamixer in the terminal, which is under accessories
+ netbook you just installed the gui version which might work too, but ive not used it
+ I have a lot of questions about fglrx configuration, where might be a good place to ask?
+ siik, there might be a faster  way, but you can edit /ect/default/grub after booting a live cd
+ netbook, im glad i managed to solve yout troublers :)  I have sound problems i never manage to toally beat it seems
+ anyone ever set up fglrx/grub/kernel terminlas to the same resolution? is it possible/worth doing at 1080p

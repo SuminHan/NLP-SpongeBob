@@ -1,0 +1,2 @@
+ hey I'm having a problem on ubuntu 11.04 gdm login: "There is a problem with the configuration server. (/usr/lib/libgconf2-4/gconf-sanity-check-2 exited with status 256"
+ hey I'm having a problem on ubuntu 11.04 gdm login: "There is a problem with the configuration server. (/usr/lib/libgconf2-4/gconf-sanity-check-2 exited with status 256"

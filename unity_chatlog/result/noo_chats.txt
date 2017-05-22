@@ -1,0 +1,2 @@
+ hello I was wondering what exactly is saved in the locatedb, because I know that programs like these application quick launchers use them to find the commands. I tried to write such a thingy for fun using /usr/bin and /usr/sbin as my sources for applications, but somehow there are quiet a lot of things that are not really needed to be found by this kind of an application and that aren't found by common ones.Do they search in different places o
+ r do they just filter in a proper way?

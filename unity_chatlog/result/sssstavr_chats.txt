@@ -1,0 +1,3 @@
+ Soothsayer just select it once and it will then stay as default
+ Soothsayer: have you tried system -> administration -> login in screen ?
+ matt[vic[: i use xchat too..it's pretty good and lightweight

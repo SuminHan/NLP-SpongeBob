@@ -1,0 +1,24 @@
+ oussama: It CHanges ROOT to the directory you specify
+ oussama: When you chroot to for instance /mnt  and you do chroot /mnt   then it's new root path is /mnt/ and looks for all system binaries in /m,nt/bin as example.
+ */mnt/bin
+ Ubuntu_user: Are you making your sh programs +x ?
+ Ubuntu_user: Do they have the #!/bin/bash     shebang as first line?
+ Ubuntu_user: ( or /bin/sh or other shell as you like )
+ Ubuntu_user: If it is java, and not shell script, are you running the program as like:/usr/bin/java ./local-java-appname
+ Ubuntu_user: So, you downloaded some source file for netbeans? Why not instead: sudo apt-cache update &&  sudo apt-get install netbeans                            ?
+ Ubuntu_user: the first command there should be sudo apt-get update and not apt-cache, apologies
+ Ubuntu_user: Mostly. Is 4:30 or so AM
+ Ubuntu_user: Anyhow, perhaps to: sudo chmod +x <netbeans-filename.sh>
+ Ubuntu_user: Then to: sudo /bin/sh ./<netbeans-filename.sh>     when you are in the directory that file sits
+ roasted: Do you know the driver name the card uses?
+ roasted: https://help.ubuntu.com/community/ReportingBugs using ubuntu-bugs, likely for package network-manager
+ roasted: This is why, if you you know the drivername you can look up what package it is in on packages.ubuntu.com and then file the bug against that
+ R3dy: After you add the path are you doing: source /etc/profile      ?
+ R3dy: No, only when you add something to the /etc/profile or so on after being booted
+ koperino: What says result of: grep Prompt /etc/update-manager/release-upgrades
+ !pastebin
+ MnCC: Tell the WAP not to b roadcast it's SSID?
+ gedO: sudo chown $(whoami):$(whoami) .ICEauthority
+ gedO: ctrl-alt-F1 should bring you to console login on tty1, where you should be able to do this, then to alt-F7 back to gdm and restart it
+ jrib: Ah, thanks
+ NewPosix: cat /etc/issue

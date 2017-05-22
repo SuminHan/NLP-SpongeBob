@@ -1,0 +1,2 @@
+ i have many rows in ms excel/oo worksheet containing numbers like 03004210000 , 030042510000 and so on. i can manullay scroll them and make a list of 03004210000 to 03004219999 (ten thousand each) but its very hard to do it for all. is there an automatic way?
+ i have many rows in ms excel/oo worksheet containing numbers like 03004210000 , 030042510000 and so on. i can manullay scroll them and make a list of 03004210000 to 03004219999 (ten thousand each) but its very hard to do it for all. is there an automatic way?

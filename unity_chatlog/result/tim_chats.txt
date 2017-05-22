@@ -1,0 +1,4 @@
+ grub2 doesn't boot windows7. however, he recognizes the partition and adds it to the menu. when i try to boot it, nothing but a cursor appears. what's wrong?
+ Having trouble upgrading to Ubuntu 11.04.  How can I resolve error "Failed to fetch http://..." Something wicked happened resolving 'archive.canonical.com:http' (-5 No address associated with hostname)?
+ Having trouble upgrading to Ubuntu 11.04.  How can I resolve error "Failed to fetch http://..." Something wicked happened resolving 'archive.canonical.com:http' (-5 No address associated with hostname)?
+ No one willing or able to help?

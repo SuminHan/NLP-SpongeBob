@@ -1,0 +1,1 @@
+ the xubuntu 10.10 cd does not detect my mouse when running under kvm. I get a cursor but it does not move.

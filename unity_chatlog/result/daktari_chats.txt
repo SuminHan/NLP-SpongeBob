@@ -1,0 +1,1 @@
+ hi, does anybody know a way of making mutter and fglrx work together :(

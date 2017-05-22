@@ -1,0 +1,4 @@
+ Hi folks, I'm adding a ppa (yavdr) but apt is not picking it up it seems (apt-cache policy vdr) only shows the one from universe .. any ideas why ?
+ running 64bit Natty, can I force a ppa to install its 32bit packages ?
+ bazhang: except when the ppa doesn't offer the packages I need in 64bits
+ bazhang: 64bit natty, should be able to run 32bit apps too eh?

@@ -1,0 +1,11 @@
+ I can't see the b43 drivers in additional drivers. I installed fwcutter, and the firmware-b43-lpphy-installer just like I did in Ubuntu 10.10. I got it working then. Any ideas?
+ Does anyone know why B43 is not showing up in Additional Drivers? I can only see STA.
+ oshix: What script?
+ oshix: Jockey offered the driver in 10.10 and I got it up and running then
+ oshix I see some files and directories but theres no scripts
+ oshix: I remember something saying cant find firmware ucode 15 or something to that effect. I read that that meant the driver's installed but not the firmware. b43-fwcutter -l
+ oshix says: b43		wl_apsta.o		478.104		FW15
+ oshix: Np thanks for your help :)
+ oshix: Found out STA is doing what I want it to do now. Idk why it does now and didn't in 10.10/ :)
+ notlistening I tried Gnome3 and It was cool but not what I'd use everyday but I LOVE Unity :P
+ I can't get my Dell 1397 wireless card to work with Wireshark. I can't find anything on the net about it. Anyone know if there is a way to get it to work?

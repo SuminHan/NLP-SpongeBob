@@ -1,0 +1,10 @@
+ cdubya: Honestly at this point seeing how bad (imo) Unity is, I'd just switch to another WM and use some other dock app; I know that there's others out there.
+ cdubya: Because it was the Ubuntu developers that made it. Personally, I don't see the point -- the Gnome developers have been trying to do more or less the same with Gnome 3, but instead of cooperating, the Ubuntu devs chose to go their own way.
+ cdubya: If you want to go old school, try FVWM. If you want modern but light, use LXDE or Xfce. If you want lots of features, try KDE. Btw, you can get Xubuntu or Kubuntu's desktops by doing "sudo apt-get install kubuntu-desktop" or "xubuntu-desktop"
+ cdubya: I haven't used LXDE, so I can't say what it's like, but I hear it's very light on memory
+ cdubya: I answered your question
+ cdubya: Xubuntu and Kubuntu are just Ubuntu with different window managers; doing sudo apt-get kubuntu will just install KDE
+ Anope: I don't know anything about Wubi if that's what you're trying to ask about
+ cdubya: I wouldn't say it's no more, but the window manager component of it is kinda messed up (that is, all the other parts like the file, power, and session managers are fine)
+ cdubya: I use FVWM with parts of Gnome, but I wouldn't advise trying it unless you're willing to spend a very long time editing configs to get it just how you like it (there's no visual configuration). I would very much suggest doing "sudo apt-get install xubuntu-desktop"
+ cdubya: Or sudo apt-get install kubuntu-desktop

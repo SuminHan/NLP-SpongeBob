@@ -1,0 +1,117 @@
+ i mean.. it is a simple dist-upgrade
+ isnt 10.10 stable?
+ actually released?
+ i mean.. it is a simple dist-upgrade
+ uhm
+ arnauddebordeaux: might help if you said what the problem was
+ and i just finished installing 10.10 server :) go figure
+ Zavior: upgrading the dist is easy enough
+ personally i would rather wait a month or so before i instealled 11.04
+ let them iron out theones they missed first :)
+ but at least all you have to do is change your apt-sources and do a dist update and you're done
+ i just updated my lenny box to squeeze ... was amazingly simple
+ guest345345: well. i am sure there is something messed up somewhere ;)
+ unity?
+ i use kubuntu for my desktops ;) if unity has something to do with xorg well.. i honestly only have my ubuntu fileserver
+ which is awesome ... sure feels good to no longer be using oi
+ http://lwn.net/Articles/387763/
+ that's unity?
+ looks like gnome with a giant menu on the left :)
+ oh
+ well.. let me look for a different screen shot
+ Incarus6: that can not be real haha
+ heh. sorry but i still believe kde has them all beat ;) but to each their own
+ guest345345: i don't have a problem with kde ;) i think it's great
+ Incarus6: looks the same except they used a darker theme?
+ i was honestly never a big fan of gnome
+ i would rather use kde or fluxbox over gnome.. something about it never felt right
+ no 3D? :)
+ is it 1990? heh
+ Incarus6: i haven't used enlightenment in a LONG time.. but it was ok.. i didn't like its dock too much and it took too long to tweak.. plus isn't it gtk ? :)
+ something about most gtk things .. they make me feel like i am using motif
+ like no matter how much work they do on it gtk always seems to remind of me windows 3.1
+ is e17 qt or something?
+ i'm sure glad kde decided to stick with the qt route. they have done a great job of it
+ intel? really?
+ haha.. that is a very fair point
+ guest345345: get a new artigo ;) it has hdmi out
+ i am a huge fan of the little boxes
+ guest345345: yeah but the artigo stuff is half the size of an internal optical drive
+ uses the via pico itx stuff
+ i have an older 1GHz one that i use as my local shell box/dns etc
+ heh
+ me too... but my fileserver is a beast.. it consumes power and spits it out
+ with its 10 hard drives and its 2 opteron 285s
+ i actually want to upgrade the cpus but it is hard finding faster cpus for socket 940 nowadays
+ how much power does a fast i7 use maxed out?
+ Wattage: 92.6W
+ that is a 2.8GHz single core athens cpu for my mboard
+ 92W! wow
+ hello
+ hm. found some cpus for my ubuntu server for $50
+ 2.6 dual core opterons.. awesome
+ i have 2 dual core 1.8 265s now :)
+ that should be a good bump
+ uhm... is zfs built into the 11.04 install?
+ arand: hopefully some day
+ anyways... bbl.. when the 11.04 hype dies down
+ :)
+ in order to upgrade to 11.04 server do i just change the name from maverick to natty ?
+ for apt?
+ guntbert: do you have a link that explains the instructions?
+ thanks
+ guntbert: thank you so much.
+ looks like those ubuntu servers are getting a little beat up right now
+ vanguard: i'm getting 40K/s ;)
+ 24.3kB/s
+ awesome... feel like i'm on v.90
+ ohsix: heh. it's ok. i'm in no big rush. ;) i have to wait for a lot of stuff to finish anyways
+ ohsix: software properties? in apt?
+ ohsix: i'm using ubuntu server
+ ohsix: i honestly think on release day i would be hard pressed to find one that wasn't slow
+ but thank you for the help. i will just wait it out.. i don't want to use the one broken mirror.
+ know this might sounds like a bad one but.. in order to change the name of a grp all i do is edit /etc/group and rename the group?
+ is there some way that i can make it so if an nfs goes down that users would be redirected to a secondary home ?
+ i want to use an nfs for home but if it goes down i want users to be redirected to a local directory for their home (one that can be synced with the nfs with cron or something)
+ hm
+ i can't seem to find any information on this :( does anybody know how i can set up a user acct where it will use an nfs as its default home but if the nfs is down it can fall back on a local directory?
+ ohsix: you can change those settings in fstab
+ the timeout and retrans
+ i want it to fall back to a different directory if the nfs hits its retrans mark
+ i don't even know if that is possible tho. i've been looking on google but don't see anything that relates
+ ohsix: i don't understand. it is a pretty straightforward question. if i have user home directories on an nfs and the nfs hits its time/retrans limits is there a way to get the server to fallback to a local directory
+ ohsix: i was just going to set up a cron script to sync the directories every 6 hours or so
+ and being that it will be a fallback home dir and not the actual home dir...i think a fallback would be better.. especially considering size constraints.. i want the fallback dir to just maintain a small amount of information in order to get a user logged in instead of being hung at logging in
+ maybe even display a different motd explaining what is wrong.. but config files would be good to keep in teh fallback driectory
+ ohsix: that is a start
+ at the least i want the fallback dir to keep their config files from their nfs home dir
+ like .alpine .ssh etc
+ something that can get them on the system without having it hang and possibly change the motd explaining what is wrong
+ the actual home dirs will be much larger than .files
+ and dirs
+ but thanks for the help. i will continue looking
+ ohsix: yes
+ i don't want the login to ever stop due to the nfs being down
+ Jordan_U: they can still access other servers from the box... but if their home dir goes down i want them to be able to still be able to login to  a... trying to think of a proper word
+ contingency directory?
+ ohsix: but there are greater options having a fallback directory
+ say they DO write files there.. once the nfs is back up they login and can copy them over themselves
+ ohsix: that is what i am trying to avoid
+ ohsix: isn't time always linear?
+ :)
+ i thought ntpd fixed linear problems
+ ok. but you are digging too deep into possible problems.. is there a way to do it or not? :)
+ a simple fallback directory is all i need
+ i can figure out the problems that come along as i go alone and refine how it works
+ alone/along
+ anybody know where i can find ubuntu documentation on setting up coda?
+ DasEi: tried. dont see much
+ i was hoping for a wiki
+ httpd?
+ for coda? :)
+ i guess coda would be a good fs to use for httpd
+ ok thx
+ can someone tell me why my console is so incredibly slow? X is fine but when i swap over to a console or when it boots i can literally see the screen drawing itself
+ weird
+ i have a decent video card.. nv240
+ but when i use a console it is horrible

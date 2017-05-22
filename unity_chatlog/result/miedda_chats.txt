@@ -1,0 +1,2 @@
+ im running 11.04 and would like to connect to my wireless network when the machine boots so i dont have to login
+ needlez: im using the machine as a server so i dont want to have to login

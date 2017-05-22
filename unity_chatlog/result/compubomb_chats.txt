@@ -1,0 +1,6 @@
+ is it worth me upgrading to 11.04?.. my system right now on 10.10 is pretty stable, no issues what so ever.
+ I'm just wondering what the major benefits are.
+ MrHatter: i'm just wondering what the major benefits are.
+ MrHatter: i have a default install on my pc, so no other partitions other than linux
+ LjL: yah, that is what i was thinking, other than it would be nice to get open office 3.0
+ anyways..

@@ -1,0 +1,83 @@
+ cordoval_, logout of what ?
+ cordoval_, a sesson in a terminal, or a graphical session ?
+ codoval alt-F2
+ cordoval then type gksudo shutdown -h now
+ sorry cordoval_
+ correct thing to logout should be:
+ cordoval_, alt-f2 in the ensuing window type gksudo restart gdm
+ cordoval_, all you need to do is go to the classic desktop
+ at the login screen after entering your username when you get the request for the password..
+ cordoval_, at the bottom of the screen you get the option to select your session
+ he want out of unity not reinstall
+ go to System->Administration->Users and Groups
+ maco he needs to disable autologin first
+ he is not the first person to hate unity
+ he doesn't understand he can press esc to stop autologin
+ they are off drinking champagne
+ that's unity not natty, antty also contains classic
+ natty
+ and not question-mark us
+ I have some friends who have been  in tokalau and they are still living in the 27th
+ system name is usually the suffix
+ madhu first you need to be owner of ubuntu.com
+ hi madhu
+ theGreatDane, type the command lastlog and you find out ayecee
+ cordoval_, odds are you did not uninstall unity all you would need to do is logout and at login you select unity again
+ madhu, you want to keep a database or simply have the current computer resolve the names correctly ?
+ madhu, yes to which question
+ madhu, you need a local dns-server
+ madhu, or bind
+ madhu, but you have a small amount of suffixes you should simple create a hosts file and distribute..
+ How 1337 can a public broadcaster be..
+ in the netherlands today the one o'clock news is exactly at 13:37
+ just upgraded to natty, made me Seasick.
+ switched back to regular gnome
+ logi01, check if your sound card works correctly by playing some music in single user mode
+ or maintenance mode
+ logi01, safe mode in the grub menu
+ logi01, at boot depress both the shift and the alt keys so that you get the grub menu..
+ I am unable to activate bluetooth on 2 laptops..
+ at least on one of the two laptops it took several attempts before bluetooth could be activated
+ since upgrade to natty It's difficult to activate bluetooth on 2 laptops..
+ arnab, tried ctrl-alt-f1
+ if you are having problems enabling bluetooth, just use the init script..
+ sudo /etc/init.d/bluetooth restart
+ I have to go afk sorry logi01
+ bluethanks Blue1
+ how do I disable application restart upon crash ?
+ I have a problem with an application constantly restarting.
+ I started mythtv frontend, but since the backend is of a different version the frontend ends with an errorlevel 251, and ubuntu keeps on wanting to restart the mythtv-frontend
+ omid-o, when you installed ubuntu you got extra partitions on the drive, then the partition numbers change, so you need to modify the SUsE  fstab to use UUID instead of /dev/sd??
+ how to stop an application on natty from restarting each time it gets killed
+ omid-o, you said the suse installation did not boot anymore ?
+ omid-o, win7 uses exact partition numbers, ubuntu is more flexible and uses UUID, however suse might still be using exact partitions instead of UUID.
+ coz_, does save session work during a session or only at login of a session ?
+ coz_, I have not closed the session..
+ coz_, this is during a session
+ coz_, the mythtv closes because the backend is still an old version, however the os restarts is stating that mythtv crashed with errorlevel 251..
+ omid-o, no you do not need to reinstall
+ omid-o, all you need to do is edit the /etc/fstab file of suse and change the partions to the correct ones
+ rafi, when you click on the button use the mouse wheel to change the brightness
+ rafi, click on the button and roll the mouse wheel you will see how the bar changes
+ rafi, are you using a laptop ?
+ omid-o, then know is the time to start trying to get things done.
+ so rafi do you have nvidia driver installed ?
+ ActionParsnip, upon upgrade to natty al third party software disabled so he is not using nvidia
+ ActionParsnip, it is restricted ...
+ ok sorry ActionParsnip
+ rafi, go to the page people are giving you and check it out..
+ we are all new to something in here rafi that's why we try and try and investigate untill we have a clue
+ how many people in here want to "sudo aptitude purge unity" ????
+ unity is really beginng to bug me in a irky way..
+ xangua, that is totally ontopic for ubuntu..
+ well how do I purge unity out of natty without uninstalling the whole ubuntu package.. or how can I modify unity to suit my own way..
+ that is ubuntu-desktop
+ so if I uninstall ubuntu-desktop I should be abole to safely purge unity without par default uninstalling all other ubuntu-desktop packages ?
+ how do I get visual effects back in apearance preferences, you see I would like the old extra effects.. also I would like to know how I can save a session..
+ you see it is a real pain in the ass to start all browsers all chat programs all terminal sessions along with p2p sharing programs each time..
+ takes half an hour of my time..
+ Stereocaulon, you can allways install the oracle sun version by enabling restricted/non-free software
+ Stereocaulon, the ubuntu software center should install it..
+ Stereocaulon,  just type jdk into the search of ubuntu software center
+ can anyone tell em how to enable adding and removing plugins from the unity panels ?
+ Stereocaulon, simply edit the source and remove the checks for jdk version

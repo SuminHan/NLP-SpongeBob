@@ -1,0 +1,1 @@
+ nerdshell: http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard#Directory_structure

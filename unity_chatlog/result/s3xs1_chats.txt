@@ -1,0 +1,1 @@
+ hi! I'm new to ubuntu/linux, and I'm trying to install RTAI-LAB, by following the instructions from rtai-ubuntugutsy-matlab.txt, but it gives me an error since the start (mesalib) and I'm stucked :D help!

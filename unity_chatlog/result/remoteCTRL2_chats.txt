@@ -1,0 +1,22 @@
+ hi guys!
+ i have just installed natty on a dell latitude d820 with an nvidia G72M [GeForce Go 7400] (rev a1) adapter, unfortunately i don't get a working driver here, always says driver activated but not in use...?
+ where has the desktop effex dialog from appearance gone?
+ hello? desktop effects? any ideas where they went, please?
+ Pici: could you please tell me where the desktop evects vanished to?
+ -v+f
+ Pici: where are the settings? there is nothing in appearance anymore
+ Giles: erm... that didnt work so well... ubuntu tried to fire up unity which just froze my dektop...?
+ Giles: well that could have to do with the fact that nvidia just doesn't work...
+ Giles: in this device that i am currently attempting to fix there is an nvidia card, yes... VGA compatible controller: nVidia Corporation G72M [GeForce Go 7400] (rev a1)
+ Giles: whut??? :D
+ Giles: jockey-gtk does NOT report on it's own that it found drivers like it usually does, but when i fire up jockey manually it says it has the 173 and the current [recommended] one, both of which produce the same output, ie. driver is activated but currently not in use
+ Giles: although lsmod | grep nvidia say that it IS in use
+ Pici: still, if your desktop effex do work you need to be able to en and disable them somewhere... do you happen to know where? because it is not in the appearance dialog anymore...?
+ giles
+ Giles: so did i just a minute ago, i could also use lshw but i doubt that that will help me any further...
+ gosh...
+ well 2-3 upgrade went well reecntla now its a total mess once again... rrrrrrrrrrrrr
+ Giles: i couldnt tell; i haven't seen it yet :D
+ Giles: well apparently not even the channel geniouses do currently know how to ...
+ zepherin: i feel you dude...
+ Giles: one thing i do know for sure: i will NOT migrate my two institutes to natty, two computers, twice total havoc... this really s..........!!

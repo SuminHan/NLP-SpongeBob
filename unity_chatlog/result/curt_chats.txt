@@ -1,0 +1,17 @@
+ hey all! I'm needing to transfer files from a 9.04 installation (ext3) to 10.10 (ext4) but the systems is telling me that my 9.04 system does not support ext4 - what can I do to make this happen?
+ What do I have to do to transfer files from an ext3 files system to an ext4 file system - my 9.04 installation tells me that it does not support ext4
+ YEah I've installed Meerket but need to move files to that install from 9.04
+ I'm trying to move a ton of mp3, ogg, flac, etc files to my new Meerkat install (ext4) but 9.03 (ext3) won't let me
+ jrib: yes but I'm planning on wiping that drive for Natty, right now I just want to back up the files on the Meerkat install - I have never upgraded since Warty, always a clean install -
+ jrib: are you saying there is no way to back up to ext4 file system
+ jrib: are you talking about an upgrade?
+ jrib: ok... I was thinking maybe something like tune2fs (or whatever it;s called might help out... no?
+ jrib: OK ... I was thinking maybe something like tune2fs might help... no?
+ jrib: thanks, I'll give it a shot... unless... if I boot to the new Meerkat, might I be able to move those files from the 9.04, rather than the other way ;round (which didn't work)
+ Cool! that would definitely be the easiest then... thanks!!
+ One more thing... I've read over the years that upgrades from one release to the next Ubuntu release has caused problems - is this an ongoing thing?
+ jrib: always makes me a bit too nervous to attempt - I'll have to get another 2TB drive and make an exact copy before trying it... just to be safe
+ ashmew2: any advice on what the upgrade might depend on... personal experience, or hearsay?
+ jrib: ahh.. obvious but I hadn't thought of that
+ Ashmew2: jrib: good advice thanks to both of you.
+ happy release day!

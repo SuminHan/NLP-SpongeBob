@@ -1,0 +1,4 @@
+ Hey guys, I have just upgraded to 11.04 (switched to gnome 3 from unity but other than that a pretty basic install) and I am playing around with the screen recording for the first time. Can someone point me in the right direction for saving the recordings in a fileformat other than .webm?
+ escott: I am just using whatever comes with it.
+ muelli: So just use a different app?
+ Alright. Thank you all for your help!

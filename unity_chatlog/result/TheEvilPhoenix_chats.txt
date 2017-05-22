@@ -1,0 +1,1 @@
+ hey all, i'm stuck at an initramfs screen, with an error where it can't find /sbin/init in the system on boot.  It booted fine last night.  I also can't load up the LiveUSB.  Any suggestions on fixing?

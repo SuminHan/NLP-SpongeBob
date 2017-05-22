@@ -1,0 +1,8 @@
+ Hi,  I just isntalled natty on a dual monitor desktop, I was able to have multiple desktops before i installed the hardware drivers, now the monitors option just says unknown and cant detect monitors. Now both screens are mirrored and at low resolution. Any idea how to fix this. I even tried configuring the monitors through amd catalyst control center but no luck. Any ideas? thanks
+ I have a dual monitor setup on natty, which was working fine before i installed the hardware drivers, now ubuntu wont detect the monitors and everythign is mirrored on both screen with low resolutions. I have tried changing the options in catalyst, but no luck. any ideas?
+ hey guys, i finally got my dual monitor display working but now i can't login after restart! i know i am putting in the right password but it just keep coming back to the log in screen!
+ this is a new installation of 11.04
+ I can't log in after restarting ubuntu 11.04. It just keeps coming back to the login screen. any ideas?
+ Hi, I can log in to ubuntu 11.04 through recovery console, but when I just try to log into ubuntu, it just keeps kicking me back to the login screen. please help.
+ Hi, I can't log in to ubuntu 11.04. It just keeps kicking me back to the log in screen. But I can log in under recovery console. Please help.
+ Hi, anyone know how i can uninstall ati catalyst drivers via command line. after installation I am not able to log in to the gui, and i believe the drivers are what is causing the problem.

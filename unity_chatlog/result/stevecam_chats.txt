@@ -1,0 +1,10 @@
+ my desktop keeps on reloading and is in an unusable state, is this a common prob, ive ran the upgrade to 11.04 and im using gnome
+ via the update screen
+ no cd
+ nvidia, and it was 10.10 to 11.04
+ coz_, im unable to do that, i will have to do it through CLI
+ mbroeker, why de.ubuntu?
+ is that just a mirror location?
+ mbroeker, ok thanks
+ armor-64, place a thick piece of stickytape over the left hand side of the screen?
+ vivid, i thought that it was gnome-terminal

@@ -1,0 +1,23 @@
+ Camer0n,  just open the case and look at the network card.
+ or just look at the card
+ should have make and model
+ i see.
+ Realtek RTL8187SE Wireless LAN ** - that is the wireless card
+ Realtek RTL8102E (Onboard) is the lan card
+ its the regular ethernet card.
+ not for wireless.
+ the one you plug the cable into
+ the ethernet cable
+ Lillymon,  look into lubuntu for that system with 512mb.
+ its a lightweight alternative.
+ honestly, i tried running ubuntu 11.04 on my p4 3.0g 1.2g of ram, and it ran TERRIBLE
+ lubuntu runs like a deram.
+ jibadeeha,  maybe.
+ Simkin,  Yeah,  it was bearable but still slow.
+ jibadeeha,  integrated intel chipset, cant think of the exact model off hand
+ jibadeeha,  it ran terrible though. Even with classic mode withno effects!
+ but, lubuntu has saved me. I love it.
+ Ubuntu was 90% of the time using 100% cpu
+ test
+ .
+ what graphics card?

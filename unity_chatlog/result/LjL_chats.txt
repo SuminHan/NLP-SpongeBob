@@ -1,0 +1,361 @@
+ genupulas: you'd have to encrypt them, i don't think it's entirely trivial
+ vibhav: yes
+ genupulas: i can't point you to a specific document because help.ubuntu.com has a few of them and i honestly don't know which ones are currently recommended. try skimming through the stuff at http://www.google.com/search?q=encrypt+partitions+site:help.ubuntu.com
+ !info gimp
+ Psydoll: uhm. please pastebin your /etc/apt/sources
+ Psydoll: uhm. please pastebin your /etc/apt/sources.list
+ william2: use gksudo gedit instead
+ william2: do you currently have a graphical desktop, or not?
+ william2: then gedit won't work. use "sudo nano" instead, it's quite easy to use as an editor
+ zfk: join #ubuntu-ops if you wish to be unmuted
+ Psydoll: i don't know, what is?
+ !caps | Psydoll
+ !netsplit
+ perlsyntax: no
+ jdahm: that's not the reason
+ sam-_-: i believe it wasn't stable in time for the freeze, or something
+ jdahm: we do...
+ jdahm: well... we push it on IRC, at least.
+ jdahm: i recommend using !metalink myself
+ !metalink > jdahm    (jdahm, see the private message from ubottu)
+ Lars_G: because Natty is out, so the channel has been closed
+ ohsix: please only call !ops if there is a serious reason
+ skulltip: irssi is a popular one
+ the67pc: do you have a support question for us?
+ the67pc: what do you mean a private eye? it sounds like something that might be better discussed in #ubuntu-offtopic, but i'm not sure
+ the67pc: to do what, crack passwords?
+ the67pc: ubuntu has that by default, it locks after a while
+ the67pc: please try to keep your sentences on one line, it's busy here
+ ejv: quite
+ !info flightgear | Monotoko
+ uhm the67pc, i understand now, but i should warn you that this kind of "face recognition" software is really not  very secure. a good password is better.
+ k_89: not normally, but a backup is still a good idea. also, please don't SHOUT
+ acicula: yes?
+ !ot | slakar
+ bashelina, mind the attitude. people here are volunteers.
+ bashelina: then you'll certainly see how there are 1800 users here today, everyone wants their question answered, and nobody wants to be subjected to stuff they don't want to see. as to your question, i haven't used Natty yet, but with previous versions i could certainly pick a different language than my locale.
+ bashelina: an idea, why don't you try simply removing the packages for the scandinavian language ubuntu wants to use?
+ bashelina: there is probably a better way, mind.
+ bashelina: oh well install first, then worry about that later
+ bashelina: if you haven't installed yet, then i think you'll find that after installation is done, you will have no big trouble setting a language different from your locale
+ bashelina: well again i don't know, haven't used Natty... certainly the old installer inquired about the keyboard layout separately
+ vanguard: that the mirrors are probably slow right now, for one thing
+ please keep it ontopic, the person has left anyway
+ !metalink | OchoZero9
+ OchoZero9: oh wait you want to upgrade... then forget metalink
+ W43372: well, it certainly doesn't help that it's release day.
+ nerdshell: downgrading is not supported, no
+ !info unetbootin | W43372 why download it from the website when it's in the repos?
+ Sexygurl2furl: that's subjective.
+ Sexygurl2furl: https://blueprints.launchpad.net/ubuntu/natty
+ Sexygurl2furl: yes
+ Sexygurl2furl: because that's normal for every new release, really
+ Sexygurl2furl: just look at the amount of traffic in this channel. it's not always like this.
+ Sexygurl2furl: no, it's released, but that doesn't stop it from still being rough around the edge for a few people.
+ !slow | Kyle__
+ ohsix, [dlp]: i do suggest that you move this to #ubuntu-offtopic at this time
+ Kyle__: i don't know then
+ please, #ubuntu-offtopic
+ !cn | bully
+ Incarus6: quite sure
+ it wasn't japanese
+ Marsha||[a]: that's what the channel is for, yes
+ Bully: 请到华人#ubuntu-cn
+ jpohl: probably part of the "admin" group by default, but i think there is also a separate group for those who are able to shutdown if desired
+ jpohl: or not... maybe it's really just a GDM thing
+ Tobbi|Ubuntu: try chown -R yourusername:yourusername director_where_the_source_resites/
+ !ftpd | section5
+ section5: this channel doesn't support illegal activities
+ section5: even if you're doing it to your own website, it's still offtopic here. try #ubuntu-offtopic but please make very clear what you want to do, or people will tell you it's illegal
+ Incarus6: ops are watching
+ feisar: perhaps "ntpdate" is installed? not sure
+ feisar: /etc/default/ntpdate
+ Pici: at least in Hardy ;)
+ m4rtin: have you checked your HDD physical state? do you have smartmontools installed?
+ wolf__: i have no idea, but you should check the logs after it hangs. "dmgs" and "cat /var/log/kern.log" and the likes.
+ wolf__: "dmesg", even.
+ m4rtin: so when running from CD everything works correctly?
+ m4rtin: yeah but the "I/O error" is what worries me
+ m4rtin: well i don't know, but for me a file not found error never was given as an I/O error, while I/O error has always meant there was something wrong reading the actual disk. so i still suggest you install smartmontools in the live CD and give the HDD a check.
+ pumeust: the user crontab, or the global crontab?
+ m4rtin: that file is in this package: http://packages.ubuntu.com/natty/khelpcenter4 so you can always install this in the live CD, and then copy the file over to your HD.
+ pumeust: what did you type to edit it
+ pumeust: right, what command
+ pumeust: "crontab -e" will let you edit the user's crontab, yes
+ pumeust: Ctrl+X
+ Soothsayer: sort of. the first user created gets put in the "admin" group, which means it can use "sudo"
+ cousin_mario: hi
+ cousin_mario: i have an old Nvidia card, FX5200... it's done its work, but saying i'm "happy" might be excessive, i guess i'll be happy when we have free drivers that work fine
+ Soothsayer: no, "sudo -i"
+ Soothsayer: but most of the time just use "sudo command", it's better
+ cousin_mario: ah, i'm afraid i haven't used natty :) i'm still on Hardy :P
+ jrib: send me the !eol again when i'm actually asking for some support :P
+ !offtopic
+ !support | Arrarita
+ RRU_Sciguy: /join #ubuntu-offtopic
+ BlouBlou: can't do that from the gui, and i'm not going to type all these addresses manually
+ cool-RR: i don't think Unity can work in virtual machines, because of lack of 3D support (although VMWare possibly has some?)
+ cool-RR: well, i don't know, but it might not be enough. last time i tried Unity, my FX5200 card wasn't enough to support it
+ kkal: 2-3 seconds doesn't seem like a lot...
+ !language | hihihi100
+ sandhu: cinelerra, avidemux, stopmotion, blender, lives, openmovieeditor, jahshaka, openshot  —  GNOME: pitivi, kino  —  KDE: kdenlive  —  console: gopchop, avidemux-cli
+ !info gnome-voice-control | marlen_jon
+ marlen_jon: i am not sure
+ bulk12: please don't
+ rgr: three people in the last five minutes have questioned the way you offer help, don't you think maybe they could have a point? :\
+ !backtrack | Kratos
+ pattysmatty: i don't work for Ubuntu
+ pattysmatty: i'll stay with chromium-browser myself, because they're pretty much equivalent and i'm not eager to use something proprietary when there's the same thing available as open source. also, one of the main things that Chrome adds is automatic updates from Google, but those are useless in Ubuntu since it gets updated by the package manager
+ !ot
+ cfc_{Pawpad}: if you want to do it entirely from CLI, "sudo apt-get update; sudo apt-get dist-upgrade"
+ !unr | necreo
+ necreo: uhm i don't think Unity 2D is included yet... it will default to the 3D version. it works on some? most? all? netbooks...
+ !info unity-2d | necreo, well it's there
+ necreo: i have no idea how "ready" it is, but it's there. you can also choose Classical login from the login screen
+ !br | miranda_
+ miranda_: ^
+ Froq: no. use "sudo apt-get autoremove" to remove unneeded dependencies
+ ActionParsnip: why shouldn't they have asked?
+ !ot
+ ActionParsnip: or they can ask a quick question that has a very quick answer.
+ !ot | rgr, ohsix, please, the merits of Chromium are outside of the scope here
+ Chromium is in Universe, Firefox is in Main, for the record. Firefox is more supported than Chrome.
+ *ium.
+ reprapperMC: no
+ ActionParsnip: no
+ ActionParsnip: stuff in Main is supported by Canonical, stuff in Universe is supported by the community.
+ ActionParsnip: they're nevertheless not "equally supported", sorry. but we can continue this on #ubuntu-offtopic
+ ActionParsnip: yes, that's correct as far as this channel goes
+ ActionParsnip: what? i said this channel DOES provide the same support for Chromium as for Firefox
+ ohsix: Universe is a bounded set
+ ohsix: ok
+ ActionParsnip, rgr, ohsix: would you join -ops for a minute, i'd like to talk about this without bothering the people here any further
+ !it | pabloice
+ rgr: offtopic is offtopic, please don't discourage people from telling others where the appropriate place to discuss something is.
+ !best | tuxz
+ BladeFreak: uhm, it will get installed automatically when you install a package that depends on it
+ tuxz: and i have to tell you that unfortunately opinion polls are not allowed in this 1730-people channel. try #ubuntu-offtopic
+ tuxz: no, still offtopic
+ tuxz: ontopic for here is Ubuntu technical support. opinion polls don't fall under technical support.
+ BladeFreak: ah, then you need the -dev packages. hold on while i find the name
+ !info libqt4-dev | BladeFreak
+ cabbagemoonlight: uhm, what is there to set up?
+ cabbagemoonlight: ah, i guess it is a bit, if you want to work with keys. not too familiar with that, but anyway remember you need to set most of that in the *client*, i think...
+ cabbagemoonlight: https://help.ubuntu.com/10.10/serverguide/C/openssh-server.html
+ _Mr_Proper_: that's not very useful
+ logi01: it probably will be deactivated if you select a Classical login
+ kroimpa: shouldn't it be: ufw allow proto tcp from 192.168.1.0/24 to any port 139
+ viper474: err, you will want to ask that in ##c++ ##java or whichever language you're using :P
+ drhydralisk: try starting "alsamixer" and seeing if there is a headphones slider
+ pattysmatty: also, gpodder, yarssr, firefox-sage, canto, xpn  —  GNOME: liferea, straw, evolution-rss  —  GNUstep: rssreader.app  —  KDE: knode, akregator  —  console: snownews, newsbeuter, rsstail, olive, nrss
+ crystal-cola: try hitting Alt+F3
+ Guest46633: yeah these days there is u. "sudo ufw allow port 22" or something should free your ssh
+ rgr: it's also deprecated
+ rgr, arrrghhh: heard them saying that in -ops. searching logs.
+ rgr: ah well it's been at version 1.0.3 for forever, apparently
+ Guest46633: i think it does
+ rgr: well, the community docs only really say "Note: Although Firstarter is fully functional, active development ended in 2005 with version 1.0.3. For an overview of alternative applications, see Firewall.", so perhaps deprecated is a strong word
+ ohsix: now i think that was gratuitous. i haven't seen ActionParsnip talking to you in a while. at this point i'm sick and tired of seeing you three bickering. a mute is going to come next, so all three of you, really, please behave and have a little tolerance for each other
+ Ultimate_Chaos: please don't spam. you've already done something like that the last time you joined. say things ONCE.
+ Ultimate_Chaos: you're currently muted, i'll unmute you when you acknowledge this.
+ sdegutis: because he asked for helps like 5 times in a row
+ adzy: just include their nickname
+ !tab > adzy    (adzy, see the private message from ubottu)
+ adzy: yep
+ compubomb: different interface for starters, which you might or might not like... honestly if youre 10.10 is fine and you don't need new software, why upgrade.
+ good morning. i have installed Natty using btrfs as /, but GRUB is refusing to work ('press any key to reboot'), and i am a bit at a loss on how to fix it, considering that when i mount my btrfs root, there is a @/ directory containing the actual root, plus a @home/ directory, and i have no clue what that is about
+ jrib dear, remember i gave you a cookie! tell me why grub broke when i installed natty on btrfs =)
+ jrib: :((
+ !br | pao
+ jooiiee: if you kept it updated (the automatic updater does that), you're running final
+ !final > jooiiee    (jooiiee, see the private message from ubottu)
+ bullethead: better to just ask your question. however, it's not really supported, it's known to break things.
+ bullethead: it seems to be gnome-desktop3
+ pao: escribe /join #ubuntu-br o /join #ubuntu-pt
+ !ot | phix
+ phix: yes, *that* is a support question. unfortunately, i don't know the answer (im not using natty), but i don't think it's very configurable in the first place... not sure
+ !backtrack | pao
+ kjxl9: i don't think you'd need specifically one for Xubuntu. i don't know which ones there are around, but i think "apt-cache search playstation" and "apt-cache search psx" will show you some
+ daniel3: you can't without compiling it or installing an old .deb, and neither of those is a good idea
+ uhm... does apt-cache in natty not search inside package descriptions by default anymore?
+ klingan: find / -name blah
+ !screen > BitOperator
+ OY1R: what's the question?
+ OY1R: not sure about persistant. you can certainly use netbootin to make a live USB image... but persistant i have my doubts
+ unetbootin*
+ OY1R: although you could always start the live CD in a virtual machine using vbox or something, and do a standard install onto USB from there. i don't see why that shouldn't work
+ OY1R: ah, actually the ubottu link seems to say that with usb-creator-gtk (which is available in Hardy), you can choose an arbitrary ISO to install from. so that may work.
+ !tab | klingan
+ iiprotocolii: do you have build-essential installed?
+ iiprotocolii: i dunno :\
+ !caps
+ a-saint: my bot says The BESTEST download manager is aria2, because 2 people (67%) said so! Follow in order, kget (1 votes, 33%), jigdo, gwget, slimrat, wmget, fatrat, d4x, slimrat-nox, tucan, multiget, uget
+ nbf: what are you even talking about, what are the love handles?
+ nbf: 1) control your language 2) it's not useful or helpful to just whine about the badness of the release. ask for specific advice instead, and if you just have to complain, do it in #ubuntu-offtopic - thanks
+ nsahoo: the keyword is "indicator", that's what they're called now instead of applets. but there isn't many of them yet. but there is weather
+ !info indicator-weather | nsahoo
+ nsahoo: probably Python libraries
+ !away > ugisozols_away    (ugisozols_away, see the private message from ubottu)
+ sarthor: ... why is that important?
+ sarthor: it seems a silly distinction to make to me, but anyway try asking in #ubuntu-offtopic, it's a bit out of place here
+ mastaofdisasta: sudoing everything is an awful idea, and you should normally use "sudo -i" not "sudo su", as the latter is redundant and doesn't set up the environment correctly
+ mastaofdisasta: probably not, i wasn't really following, just caught the sudo references
+ victorhugo289: it depends on the video card
+ victorhugo289: 128MB sounds like it's probably an old card
+ victorhugo289: i have a card with 512MB, and it's still too old to be supported for Unity, so ;)
+ victorhugo289: well you can install unity-2d
+ !info unity-2d | victorhugo289
+ binox: is there a reason why to use the PPA? is it more recent than the version included in the repos?
+ binox, if ubottu says it's in Main, then it's there, and by Canonical ;)
+ kyubutsu: ah i thought we were talking about Natty though
+ binox: i see
+ kyubutsu: uh, check again... maybe you need to sudo apt-get update? seriously, if the bot says it's there, it's quite definitely there
+ xteejx: echo $LD_LIBRARY_PATH
+ aauthor: i rebooted, and magically that problem got fixed
+ xteejx: for me either. i guess it's empty? to add stuff to it (but only temporarily), export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:new_entry"
+ aauthor: no doubt it's also +rw for tom?
+ naryfa, i believe that depends on the program you're using. but i can give you a command line to see if the driver is actually capable of that, a moment
+ naryfa: type "arecord -f dat -r 192000 -D hw:0,0 -d 5 test.wav" and see if it gives you any warning
+ jdl: what kind of trouble
+ naryfa: then it works with 192000 just fine, nothing to set up
+ naryfa: ah right i forgot about the 24 bit part... but i don't think that specific command allows recording at 24 bit, so i don't know how you could check (perhaps install Audacity and try recording there)
+ aauthor: i have no clue, however there is a forum thread which suggests also checking the permissions for /home/tom itself... seems unlikely, but
+ xteejx: the "rename" program may help
+ xteejx: it doesn't get any quicker than "rename", but it depends on what exactly you want to do.
+ Deihmos: it is slow *because* it needs hardware acceleration ;)
+ Deihmos: yes there is, but how well it works depends on your card
+ Deihmos: if you find it unacceptably slow, you can try installing the package "unity-2d" which will get rid of the graphical effects but be faster
+ !it | wishper
+ wishper: what are you trying to tell us? this channel is english-only
+ wishper: #ubuntu-it
+ Toph: on Natty with Unity, or previous version?
+ !resetpanels | Toph
+ Omega: they are already watching and have warned them
+ abadadon: uh, no
+ abadadon: there are about 30000 packages, last time i checked anyway, in the ubuntu repositories. there's no way a CD could contain them all.
+ abadadon: let me see if i can tell you how many GB is it
+ ikonia: only?
+ abadadon: ikonia says it's smaller though... i'm not sure
+ paul: grep will work, but if you want to know which *files* contain those words, then you want a combination of find and grep
+ ikonia, abadadon: i must be doing something wrong. i listed the (compressed) package size for all packages in my apt-cache, and the total is short of 5gb =)
+ nukem: not really. a CD is offered, and a DVD is also offered.
+ fredrik_: /join #ubuntu-se
+ cxo: try --config cc
+ !info gcc
+ !info gcc-4.3
+ cxo: i'm afraid gcc-4.3 is just not available in Natty
+ !alternate | purvesh
+ cxo: what did you install, exactly? the package "gcc-4.3" does not exist
+ cxo: did you add a PPA or something?
+ purvesh: what do you mean?
+ cxo: output of "apt-cache policy gcc-4.3" please
+ purvesh: the end result is the same, at least if you select "Ubuntu Desktop" on the alternate cd
+ purvesh: you might also want to consider using the "minimal" cd, which is only about 10 or 20 megs and downloads everything from the internet while installing
+ purvesh: basically yes, which means the installer is also different
+ cxo: so you have it installed but it's not available, weird. maybe it was available in the CD you installed, did you install a beta ISO or the final? anyway does the command "gcc-4.3" work?
+ purvesh: yes
+ cxo: --config cc doesn't really work for me either, i think you will just have to export CC=gcc-4.3 when compiling things
+ welcome
+ !mountiso | numbah1hax0r
+ ilea: this is the Ubuntu channel
+ numbah1hax0r: you type sudo mount -o loop filename.iso /mnt/whatever
+ ItzDippieDoo: type tar xf filename.tar.gz to extract it
+ ilea: well we can't really help you with other distros here, sorry
+ numbah1hax0r: seems easy to me
+ !info gmountiso | numbah1hax0r
+ ItzDippieDoo: it matters because a .tar.gz file is simply a compressed archive (like ZIP files). what you do with it entirely depends on what's in it
+ Halzen: they also have their own support channels, and they're not official derivatives. we support official Ubuntu here
+ Halzen: we have no idea what they *may* contain or how they may actually work
+ ilea: yes, in ##linux, not here. here it's about Ubuntu
+ Halzen: as a matter of fact custom kernels aren't really supported.
+ anyway it's the channel rules, no use arguing them really. if you really want to, #ubuntu-ops
+ numbah1hax0r: alt+f2 and type "gmountiso"
+ Morten_: bot says "The BESTEST newsreader is pan, because 2 people (67%) said so! Follow in order, thunderbird (1 votes, 33%), nn, trn, knews, slrn, tin, knode, cone, newsx" #ubuntu-bots
+ Lxndr: you can use the old, "classic", login
+ Lxndr: yes
+ !classic > Lxndr    (Lxndr, see the private message from ubottu)
+ numbah1hax0r: use gmountiso then
+ numbah1hax0r: *sigh* i told you how. hit alt+f2 and then type "gmountiso"
+ numbah1hax0r: it's probably also in the Applications menu somewhere
+ numbah1hax0r: let me see
+ numbah1hax0r: wait, i think we forgot the step where you'd install it :P
+ numbah1hax0r: open a terminal, and type "sudo apt-get install gmountiso" (or alternatively, get it from Synaptic if you prefer the GUI)
+ numbah1hax0r: but it's easy to do it from the terminal really, just type the above verbatim
+ dp: no
+ numbah1hax0r: then get it from Synaptic, but i can't help you there.
+ numbah1hax0r: i don't use Synaptic, i don't even use GNOME
+ !synaptic | numbah1hax0r
+ numbah1hax0r: probably, but i'm not sure the software center has everything. try.
+ trollboy: it comes up at the bottom after you click on your login name, before the password.
+ nothing to lose trying an upgrade, at any rate (as long as you have stuff backed up anyway)
+ Halzen: what does sss314 have to lose by trying an upgrade, though?
+ sss314: if it works, i don't see why you'd need to reinstall. if it doesn't, no harm done with a backup.
+ Halzen: by dist-upgrade you don't mean actual sudo apt-get dist-upgrade, surely?
+ !pastebin | bahar
+ Halzen: it's not really. upgrade manager does additional checks and disables some repositories during the upgrade, i believe.
+ sss314: note that the new version comes with a new interface called Unity, which is however not available when testing from the live CD
+ sine_: why does it have to be an ftp?
+ sine_: you can resume on http just fine
+ tgm4883: you are determined to break your upgrade?
+ tgm4883: there's a hacked solution here: http://ubuntuforums.org/archive/index.php/t-763925.html
+ area51pilot: sudo start gdm
+ !ua | Nrogas
+ uhm
+ !ru | Nrogas
+ everybody back on the topic train! chooo chooo
+ peto_: silly question maybe, but what *is* there to show? isn't everything empty with Unity?
+ heh
+ !bugs | xcyclist
+ Cam: was obviously a typo.
+ !attitude > cam    (cam, see the private message from ubottu)
+ Cam: this is the norm to use the bot in this channel. if you don't like it, leave.
+ Cam: and it's NOT the norm to bash people for making a simple typo. pick a better nickname.
+ UserX7: command "sort"
+ Arphetic: do you have a support question? this channel is not for rants, no matter how disappointed you may be, sorry
+ Arphetic: i don't know, i think the old "tray" is being phased out, but anyway keep in mind you can still use classic GNOME (for now at least) if you prefer
+ cached: not very recently. you might have been redirected there due to join throttling, though.
+ Cerdabr: #winehq
+ yes
+ alessandrodio: erm?
+ !it | alessandrodio
+ alessandrodio: stop it
+ guntbert: anytime
+ !info php5 | A-KO^
+ A-KO^: you're right, there is 5.3.5. maybe you put it on hold for some reason and forgot?
+ A-KO^: tell me the output of dpkg -l php5 please
+ TheBritishEditor: that's a recipe for trouble :\
+ A-KO^: err, i needed the first two letters at the beginning of the line
+ eiriksvin: it's possible, but it will break Unity and quite possibly other things, and it's unsupported
+ Alec_: just ask it
+ chaospsyX: uname -a
+ !ru | vadim_
+ !register | evoain
+ evoain: oh wait you don't mean on freenode?
+ h4x0rs: don't keep repeating so often please
+ sabri_icone: ce salon est seulement pour problemes techniques avec Ubuntu, #ubuntu-offtopic pour autres choses
+ sabri_icone: http://lpi.org/eng/certification/the_lpic_program/lpic_1/exam_101_sample_questions
+ !info youtube-dl | haseeb
+ !es | antonio__
+ Somelauw: thought it was enabled by default
+ Somelauw: i know i've used alt+sysrq+k (don't try this everyone unless you want to kill x), and it worked
+ i tried it under 11.04 though
+ MnCC: if you need to copy stuff outside of your home folder that often, you're Doing It Wrong©
+ MnCC: yes? but even if i didn't, i'd keep them somewhere i have permissions to, obviously
+ MnCC: and if you're worried about upgrades (or for that matter, if you aren't), you use a separate partition for /home
+ MnCC: well it's easier to do it during install than after, to be honest. you need gparted and a bit of console tinkering. shrink your / partition, make space for a /home partition, format it, copy everything from your old /home there, add the new /home to fstab, reboot, see if it works, if it works reboot into single user mode, delete stuff from old /home, done
+ MnCC: i know unfortunately it's a bit involved if you do it after installing.
+ MnCC: uhm, usually it's the whole /home that's put on a separate partition, not just a single user's directory inside /home.
+ MnCC: so you might as well keep the one user you have now, you just need to know how to deal with single user mode in case things go wrong
+ MnCC: that's another option
+ MnCC: well, the only option if you need to resize the root partition to make space, really
+ dd214_: yes. X is horrible.
+ dd214_: well i don't know, i admit that even though it irks me, i have no particular necessity for secure locking. but, have you seen whether it also happens if you lock the computer manually before leaving it?
+ MoleMan: rtorrent
+ !info rtorrent maverick | MoleMan
+ st2011: this one
+ st2011: what program?
+ st2011: that's like the most gratuitous use of the pastebin ever...
+ st2011: ok so what's the problem installing the Android SDK?
+ st2011: to my knowledge, you only need to extract it somewhere. "tar xf filename.tar.gz" in a terminal will do it.
+ !it | Sophiie
+ MnCC: did it? :)

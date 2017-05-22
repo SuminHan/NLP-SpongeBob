@@ -1,0 +1,8 @@
+ Boy those servers are getting hammered today.
+ All of my window decorations are gone in ubuntu 11.04 classic display.  This means no minimize / maximize, etc..,etc
+ aj00200, I've gone through and replaced the display manager with compiz/metacity...notta.
+ aj00200, allow m e to rephrase, I have decorations but they dont do anything.
+ aj00200, thats how i've been surviving the past 2 days.. getting old ;-P
+ FunnyLookinHat, \t
+ FunnyLookinHat, or use cut/awk.
+ functor, You cant really grep for a 'tab' but you can grep for pattern matches.  Or use awk/cut to separate the data.

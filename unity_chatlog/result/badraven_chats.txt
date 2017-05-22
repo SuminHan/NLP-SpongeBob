@@ -1,0 +1,6 @@
+ Hello
+ Can someone direct me to info about installing Windows along side ubuntu after unbuntu is installed?
+ I was hoping it wasn't going to be like that.
+ What about booting from a second hard drive that is set up as the boot drive.  Then I would choose what drive to boot from.
+ Thanks Dr willins,  where can I get some info that covers that?
+ Ok, thank you.

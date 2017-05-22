@@ -1,0 +1,6 @@
+ Hi there. Does anyone know where I have to file a dependancy problem for natty?
+ rizzuh: no you don't
+ bencc: yes, followed this instructions: http://www.webupd8.org/2010/12/how-to-test-ubuntu-1104-with-unity-in.html
+ bencc: you said you installed the guest addidtions? they dont work with unity yet
+ bencc: I did use the oracle version of VB, not the OSE version
+ bencc: sorry, can't help you further

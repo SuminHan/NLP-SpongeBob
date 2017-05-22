@@ -1,0 +1,28 @@
+ Is it possible to use Landscape as a normal (non-commercial) user ?
+ how can I view boot messages ?
+ the one that you see on startup, step2
+ how can I scroll in it from within terminal?
+ thanks
+ how can I add vga=xxx to grub ?
+ <--- used to editing /boot/grub/menu.lst
+ :P
+ is Landscape commercial ?
+ anything like it thats free ?
+ Whats this? "Fast TSC calibration failed"
+ I just install Ubuntu 11.04 and have a question
+ How can I make my 23"the default monitor ?
+ celthunder, I configured it via ATI catalyst suite
+ on windows it could set the 23" screen the default (instead of the tiny 15" laptop screen)
+ I already tried going to Monitors and selecting the 23" as default
+ It asks me to log out, which I do
+ which has no effect
+ I really like Unity, but I can't get it working right with multi-monitor
+ Is there a way to use Unity without compiz ??
+ so is it possible to use Unity without compiz ?
+ oh :(
+ Axlin, thanks I will try that
+ Hi, is there any torrent client for Ubuntu that can skip hash checking and can add multiple torrents at a time ?
+ Hi, is there any torrent client for Ubuntu that can skip hash checking and can add multiple torrents at a time ?
+ hmm, how can I add things to ma ubuntu panel?
+ so there is no way to add applets to the Ubuntu panel ??
+ thanks Dr_Willis

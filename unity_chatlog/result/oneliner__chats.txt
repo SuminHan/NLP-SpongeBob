@@ -1,0 +1,7 @@
+ swel! thing thing is totally surrealistic
+ i would like to try to get to a proper visual configuration for a multi monitor display, i think the first thing is ; compiz complains there is already a window manager running for the display set "0.0" i wonder: how can i know which manager that is?
+ how to reconfigure window manager?
+ from terminal :)
+ puckipedia:  failed to replace with & param, param not recognized
+ how can i restart xorg from command line?
+ Dr_Willis: cheers

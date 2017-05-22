@@ -1,0 +1,17 @@
+ Hi, I just installed ubuntu server and I'm trying to get it to recognize my network cards (wireless or wired) and having no luck.  Any suggestions?  The only interface listed under ifconfig is lo.  I see the ethernet card under lspci
+ bU1137Pr00f: it shows up in lscpci.. what can I do?
+ DasEi: it says ignoring unknown interface eth0=eth0.  Ignoring unknown interface inet=inet.  Ignoring unknown interface dhcp=dhcp
+ bU1137Pr00f: net-setup command not found
+ DasEi: ignoring unknown interface wlan0=wlan0.
+ Ignoring unknown interface eth1=eth1
+ ok
+ DasEi: 02:05.0 Ethernet controller: Realtek Semiconductor Co., Ltd RTL-8139/8139c/8139C+ (rev 10)
+ DasEi: nope.  Nothing else
+ DasEi: network related that is
+ DasEi: running the install again and it sees both
+ DasEi: yes
+ DasEi: the installer found it and seemed to connect.  Guess I'll see if it works this time. It's a fast install on this computer and I just did a clean install
+ DasEi: if this doesn't work, I'll try that.   I figured no harm since it's a new install anyways.
+ DasEi: yes. got a pm from somebody suggesting that would fix it.  already at 90%.
+ DasEi: done to the wood?   I appreciate your help, and I will follow what you said again if this doesn't work.   I was just surprised the installer could see and connect and so it seemed like a problem might have occurred during install.   This seemed safest
+ hi all, I'm trying to figure out why my cpu is at 100% for the last hour.  Xorg is using 44% and vino server is using 25% and I don't know why
