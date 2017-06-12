@@ -1,5 +1,0 @@
- Hello, I need help. I would rename file (637-texte.png --> 637.png) but how ?
- Halzen, There are a lot of file :/ about 248.
- There are a lot of file : 637-texte.png, 6898-look.png, 875458-nick.png, etc..... so I would a dynamic command or script for rename all file.
- I will like use sed but it's difficult...
- Thanks you llutz

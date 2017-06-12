@@ -1,4 +1,0 @@
- hello
- I tried installing 11.04 with Wubi on my Toshiba satellite but all I get when I reboot is a blank screen after choosing Ubuntu in Grub. Where can I get some help regarding this issue?
- anybody have an idea about my problem?
- guys, where can I get help with Wubi?

@@ -1,9 +1,0 @@
- I'm trying to disable monitor hotplug polling..but even with sudo, I'm getting permission denied....
- the command I'm trying is 'echo 0 > /sys/module/drm_kms_helper/parameters/poll' ... even with sudo in front, permission denied
- ActionParsnip, ok, obviously they're expecting people visiting launchpad to be slightly more linux savvy that I am at present :)
- trism, thanks :)
- I'm having fun with the dmesg bug....the one where your entire dmesg output is a bunch of errors
- is Gnome 3 even an option in Natty, or does that need to be installed manually from source?
- I'm going to spend a little more time playing with the current setup, but Natty feels like Ive gone to a completely new operating system
- my big issue right now is that, on my desktop with an external monitor, dmesg output is total garbage.....
- I run dmesg | more, and all I get is screen after screen of error messages

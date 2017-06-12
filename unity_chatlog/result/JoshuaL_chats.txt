@@ -1,1 +1,0 @@
- asmogator, https://help.ubuntu.com/community/DynamicDNS

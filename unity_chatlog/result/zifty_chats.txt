@@ -1,4 +1,0 @@
- i installed postfix but i cannot send/receive email, my postconf: http://pastebin.com/LKYgFJsv my error: http://pastebin.com/FKhCpYhK can someone please help?
- please?
- ???
- arquebus: cause i get death threats from them

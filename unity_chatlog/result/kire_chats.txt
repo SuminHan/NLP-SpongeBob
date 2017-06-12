@@ -1,2 +1,0 @@
- hm, it seems the behaviour of the compiz window picker (scale module) changed, I can't close windows with middle mouse button anymore?
- when using the window picker from compiz scale, I can't close windows with middle mouse button anymore since natty, is there any way to enable this again?

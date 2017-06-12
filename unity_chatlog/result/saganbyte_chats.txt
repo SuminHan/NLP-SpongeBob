@@ -1,3 +1,0 @@
- hi
- i m getting an error: Error opening terminal: unknown. while accessing a file via nano using sudo nano default
- what could be wrong?

@@ -1,3 +1,0 @@
- whoops
- join #python
- whoops

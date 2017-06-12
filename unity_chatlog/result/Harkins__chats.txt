@@ -1,1 +1,0 @@
- I was installing Natty last night with update-manager, it crashed 90% of the way through the 'install' step. Machine unbootable. I'm creating a Live CD now, could anyone suggest recovery steps to inspect and reinstall packages? I don't know how to do that, don't want to wipe and start over.

@@ -1,4 +1,0 @@
- screen on laptop is busted, is there anyway to turn it off and set external port as primary monitor from terminal
- is there any way to kill output to built in laptop monitor and make the secondary screen output primary in terminal
- laptop screen busted can only see half of screen, is there anyway to shut off the screen and make external vga port primary monitor from terminal
- Dr_Willis, how do i run that xrandr, and im running and ati radeon 1200x with amd turion tl60 processor if that helps

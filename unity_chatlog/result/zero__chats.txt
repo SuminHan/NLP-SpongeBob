@@ -1,1 +1,0 @@
- If I wana run perl script as service . how to do it ? I mean I have a vps which runs ubuntu server and I want to run a perl script without stoping even tho I exit from the terminal session

@@ -1,6 +1,0 @@
- XerYus: do you want to mount ntfs partition automaticaly on boot?
- andrygraybeal_: unity loads on my hp netbook (intel card) but not on my desktop too (nvidia card)
- andygraybeal_ probably not, nvidia should be better but maybe it has something to do with the live system
- andygraybeal_ u probably get a nice 3d desktop with unity once you install
- brad_ for my wireless work i needed to install the aditional drivers
- is there a way in nautilus to assign Libraries like in windows 7 ???

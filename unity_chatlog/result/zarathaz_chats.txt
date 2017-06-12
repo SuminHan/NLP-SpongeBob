@@ -1,3 +1,0 @@
- Anyone know why my C++ code won't compile (just hello world program) I type g++ test.cpp -o test into the terminal, then ./test.cpp and I get errors.."using: command not found" .. but there aren't any in the source
- tried ./test.cpp, same thing
- thanks profundo, got it working!

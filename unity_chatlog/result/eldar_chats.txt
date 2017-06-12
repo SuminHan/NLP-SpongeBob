@@ -1,2 +1,0 @@
- hi! I've just updated to Natty, but hit a nasty bug with wifi connection being extremly slow, https://bugs.launchpad.net/ubuntu/+source/linux/+bug/721449
- is there any workaround for this bug?

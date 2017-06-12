@@ -1,1 +1,0 @@
- Anyone know if nvidia 96 driver is ok for Natty?

@@ -1,2 +1,0 @@
- What does the 'd' stand for in /etc/init.d and conf.d?
- llutz, thanks.

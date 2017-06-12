@@ -1,1 +1,0 @@
- Trying to apt-get phppgadmin and want to run it on adiffernt webserver, but when I try to "apt-get install phppgadmin" it tells that it willeven download apache. I don't wat to download pache

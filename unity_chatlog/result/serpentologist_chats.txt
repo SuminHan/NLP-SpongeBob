@@ -1,1 +1,0 @@
- Hi, i have the following problem: i burned xubuntu image to disk and successfully booted from it. But when i tried to install the system i got error because some files could not be read. So here the question: is there a way to configure installer in such a way that it downloads packages from the server, not from the disk?

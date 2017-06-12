@@ -1,5 +1,0 @@
- guys, if i upgrade to 11.04, will it brake my classic gnome?
- cablop, thx
- timrc, thx, i know, but is this classic mode the same that gnome in 10.10?
- cablop, thx a lot -)
- guys, is there repository for classic gnome in 11.04? or is classic desktop entry from gdm menu the same that classic gnome? or it's just fallback?

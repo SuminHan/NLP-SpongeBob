@@ -1,1 +1,0 @@
- Anyone know how to add global menu support for celtx?

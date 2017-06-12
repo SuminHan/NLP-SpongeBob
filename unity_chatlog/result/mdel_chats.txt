@@ -1,6 +1,0 @@
- pr3d4t0r: memtest+
- pr3d4t0r: boot to grub and select it
- drAg: really dude
- really
- what a fucking nboob
- yes thats right. nboob

@@ -1,6 +1,0 @@
- After upgrading to 11.04 (64-bit) the samba crashes randomly when writing to fileshares (cannot ssh to the machine, desktop freezes, machine doesn't respond to ping's ..) is this common or just me?
- should I just reinstall from scratch and re-configure everything? =P
- that helped last time (10.10), seems the upgrades consistently fail for me (why upgrade if everything works.. i should stop doing that..)
- or, should I switch to NFS? ;---o
- could the smb.conf be a problem? I retained the old one.. when I do /etc/init.d/samba restart it complains about settings that the "new" samba daemon doesn't understand!?
- AG: I probably go that way, too

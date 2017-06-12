@@ -1,2 +1,0 @@
- could someone please help me to resolve this issue: (iscsiadm: iscsid is not running. Could not start it up automatically using the startup command in /etc/iscsi/iscsid.start. Please check that the file exists or that your init scripts have started iscsid)
- how can i reinstall iscsi-initiator-utils package on Citrix XenServer 5.6?

@@ -1,3 +1,0 @@
- What will happen to lost of bug in 11.04 ? will only be fixed with 11.10 ?
- What will happen to all the bug in 11.04 ? will only be fixed with 11.10 ?
- see lot of open issue affecting me... wonder if I need just to stick to 10.10 until november

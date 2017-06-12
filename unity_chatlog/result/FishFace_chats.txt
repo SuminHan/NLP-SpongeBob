@@ -1,4 +1,0 @@
- GarryFre: Just wondering since I had the same problem, how video memory do you have?
- GarryFre: OK. Thanks. Mine was much lower
- uberfrau: uberfrau Just a guess. Did you do it as root?
- uberfrau: Cant help you much on that. If you are root and you do the make , make install blah blah, and it doesn't work, then something is broken. Good luck on that.

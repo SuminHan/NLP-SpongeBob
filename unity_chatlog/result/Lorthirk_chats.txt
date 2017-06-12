@@ -1,3 +1,0 @@
- good morning... fresh installation of natty, but microphone not working anymore. was ok with 10.10. how to fix?
- hello guys, i'm having problems. from time to time, window contents are not refreshed (i.e. scrolling inside a page or clicking on a link, and so on). this happens in various apps. I'm running natty with latest fglrx. what can I do?
- hello, i'm having a strange problem: since this morning, using fglrx and gnome classic on natty, the content of the windows doesn't update until i resize or minimize the window itself. what can i do?

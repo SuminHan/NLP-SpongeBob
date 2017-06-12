@@ -1,1 +1,0 @@
- Hi, i need help with grub on 11.04, any takers?

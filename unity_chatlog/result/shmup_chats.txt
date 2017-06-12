@@ -1,3 +1,0 @@
- someone helped me with this a while ago and i completely forget what i did. just set up lamp & phpmyadmin. when i try accessing localhost/phpmyadmin, it downloads a file.
- i cannot remember the fix ;x
- er this wasnt an ubuntu question heh sorry

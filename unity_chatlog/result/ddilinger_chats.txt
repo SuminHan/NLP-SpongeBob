@@ -1,9 +1,0 @@
- I'm trying to install ubuntu on a laptop with an Atheros 9287 network card using the natty netboot image.  It appears that the ath9k wireless driver is not included on this disk.  I know i can adjust the provided initrd.gz to contain the right module, but is there an easier way?
- vessago: purely guessing, add an r
- Jordan_U: unless i go buy a blank cd
- Jordan_U: changing initrd is easier than going to the store :P
- Jordan_U: its currently a blank drive, and i would then have to own a usb drive, another trip to the store
- Jordan_U: halfway there already:)  decompressed initrd, copying the drivers into palce
- ikonia: not sure if its what your looking for, but dpkg --get-selections can be used to find the currently installed package list
- anyone familiar with configuring wireless through a console?  specifically i'm using wpa_cli, wpa_supplicant is running, but after adding a network to wpa_cli, setting the ssid, and setting the network passphrase, all i can get is 'pre-shared key may be invalid'.  Key is verified working from my phone
- anyone familiar with configuring wireless through a console?  specifically i'm using wpa_cli, wpa_supplicant is running, but after adding a network to wpa_cli, setting the ssid, and setting the network passphrase, all i can get is 'pre-shared key may be invalid'.  Key is verified working from my phone

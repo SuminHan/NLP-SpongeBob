@@ -1,4 +1,0 @@
- and they take forever
- just do a sudo mv -r /* /dev/null and install from disk
- anyone know of a good multithreaded download manager that integrates with firefox and supports batch downloads?
- thanks all, will check it out

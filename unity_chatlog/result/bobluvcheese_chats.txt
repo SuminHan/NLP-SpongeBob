@@ -1,7 +1,0 @@
- Hello i am having problems with installing a printer driver, I go to Canon website, download correct driver for ubuntu open it with the software centre install it and it says that the software package failed to install
- I have tried add printer and it does not have my printer in the database
- 11.04 Canon MP140
- the driver is called cnj filter common
- ActionParsnip:Yes I have downloaded the linux driver but the software centre says failed to install when I try to install
- Hello i am having problems with installing a printer driver, I go to Canon website, download correct driver for ubuntu open it with the software centre install it and it says that the software package failed to install
- Hello i am having problems with installing a printer driver, I go to Canon website, download correct driver for ubuntu open it with the software centre install it and it says that the software package failed to install

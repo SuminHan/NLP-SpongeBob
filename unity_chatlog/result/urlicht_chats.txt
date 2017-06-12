@@ -1,2 +1,0 @@
- I have two ubuntu machines on my home network. Is there a way to dist-upgrade one and then copy the new packages from that one to the other machine?
- escott: sweet, thanks!

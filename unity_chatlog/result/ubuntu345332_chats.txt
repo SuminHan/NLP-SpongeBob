@@ -1,4 +1,0 @@
- is it possibile to force the nomodeset on a ubuntu 11.04 pendrive live?
- (as default)
- Dr_Willis, thx i know with the f6, but i give a look to the syslinux.cfg thx
- Dr_Willis, thx :(((((

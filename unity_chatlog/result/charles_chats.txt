@@ -1,5 +1,0 @@
- how do you fix the places menu when it decides to use something else other nautilus for the opening of the folders?
- I understand it has something to do with the mime type assocations, where is this fixed at? for the places menu in gnome?
- MK``, thank you
- MK``, sorry, seems my file manager is somehow linked to libreoffice, also, there doesn't seem to be a remember this action
- MK``, yeah, that's what i thought, it is strange. this is 11.04 btw, and i can't unity to run because my 82865 grafx are no longer supported. working on getting a new vid card to solve that problem there. so i'm using the ubuntu class (no features) option

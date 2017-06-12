@@ -1,4 +1,0 @@
- can someone upgrade to 11.04 from 10.10, i'm having the pkgProblemResolve issue
- hmm...any solutions that are not so drastic though?
- mikinanuq, i started the upgrade but it keeps failign
- mikinanuq, that's true

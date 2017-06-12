@@ -1,7 +1,0 @@
- hey im running ubuntu 10.10 and i want to know this before i upgrade: i have graphics and wireless drivers installed. will i lose them when i upgrade?
- i did atpa8a
- i can help you
- i have graphics and wireless drivers installed. will i lose them when i upgrade from 10.10 to 11.04?
- nvidia graphics controller and broadcom wireless drivers
- darn
- where can i go for hardware related questions?

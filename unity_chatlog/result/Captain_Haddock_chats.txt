@@ -1,6 +1,0 @@
- Hi, I need  some help with rsync: how do I set it to only copy new files/directories? i.e., the opposite of the --existing option.
- thanks stefg
- stefg: --update also updates older files. I only want missing files/directories to be copied.
- stefg: I'm here after doing that :)
- " -u, --update                update only (don't overwrite newer files)"
- stefg: What I want is the opposite of --existing.. nothing in the man pages seem to hint at anything for it.

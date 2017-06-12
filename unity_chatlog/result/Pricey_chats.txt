@@ -1,8 +1,0 @@
- I have an AR2413 and just upgraded to Natty. Everything goes fine for a certian amount of time before the card stops working. Nothing'll bring it back except rebooting into the old kernel. Does anyone have any ideas?
- brous-kee: Yes
- stefg: But it works fine for say 30 minutes before dying
- stefg: ath/ath5k
- stefg: looks like i'm not the only one.. various reports on forums infact
- brous-kee: the card works for a while
- stefg: will try
- stefg: but not something i want to keep trying

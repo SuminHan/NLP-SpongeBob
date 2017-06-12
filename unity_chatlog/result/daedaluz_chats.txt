@@ -1,5 +1,0 @@
- !jaunty
- !feisty
- !eol
- !maveric
- any drawbacks in installing xubuntu-desktop instead of xfce?

@@ -1,9 +1,0 @@
- nice work with 11.04, When I first started 11.04 I got an error saying Unity didn't work, and fallback to gnome. I've since then installed graphics drivers etc, and now when I reboot I get gnome all the time. Is there something I have to do to force it to use Unity again?
- zvacet: I am using "Ubuntu" as my session, but it gives me gnome anyway... Maybe I have somethign wrong wtih my graphics driver (sorry bad spelling)
- zvacet: ubuntu.
- zvacet: iirc, there was some command I could type to see if glx or something was enabled... I'll google and see if I can figure it out :) thanks for input.
- zvacet: no problem. Thanks.
- zvacet: I think that's for ATI users only.
- zvacet: think I have intel mobile gpu
- zvacet: thanks, I'll try that.
- zvacet: had installed the graphics drivers incorrectly, reinstalled and now Unity works. Cheers!

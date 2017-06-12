@@ -1,5 +1,0 @@
- Wow.  What kind of hardware is required to run Unity?
- mdpatrick: apt-get remove packagename
- arand_ So now that I am installing the nvidia drivers then it should work right?
- nbf:  Sit ups.
- wojei:  Just ask

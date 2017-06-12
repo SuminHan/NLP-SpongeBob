@@ -1,3 +1,0 @@
- hey guys have acer 5742G and everything working just great but the internal mic is not working
- it is detected by aplay
- hey people mount manager corrupted my fstab file. is there anyway I could regenerate the file?

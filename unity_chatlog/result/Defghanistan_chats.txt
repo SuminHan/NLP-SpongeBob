@@ -1,4 +1,0 @@
- Hello, I am looking for any documention for Ubuntu server MPIO. Can anyone point me in the right direction or give me any useful information?
- Pici: Thanks buddy  ;)
- #ubuntu-server
- Pici: haha damnit. TY.

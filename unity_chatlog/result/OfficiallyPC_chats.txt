@@ -1,6 +1,0 @@
- How to convert an .ogv video to .avi?
- Alterno: Did you try update-manager -d
- Alterno: Any luck?
- When I try to upgrade the software-center in Maverick to the daily build PPA throght launchpad I get this in terminal: "The following packages have been kept back:  software-center". How to I upgrade it?
- When I try to upgrade the software-center in Maverick to the daily build through launchpad PPA I get this in terminal: "The following packages have been kept back: software-center". How to I upgrade it?
- Can I get the ratings and reviews in the Software Center in Maverick?

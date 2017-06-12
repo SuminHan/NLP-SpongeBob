@@ -1,1 +1,0 @@
- To whoever tried to help me with Wubi a few days ago: Thanks for your help, we got it working now. Rev 211 fixed the bug, it doesn't download a live image and get a version mismatch anymore. Just saying, figured I should let you guys know.

@@ -1,6 +1,0 @@
- hi dudes, i have  been trying to install opencv on ubuntu 11.04, and there is error saying videodev.h is not found
- instead there is videodev2.h
- how can i make that work
- videodev.h is not there ?
- instead videodev2.h
- opencv is just not installing

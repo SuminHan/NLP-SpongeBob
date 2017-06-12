@@ -1,9 +1,0 @@
- elb0w, you can install the unstable ppa
- !gnome3
- JoseeAntonioR,  maybe with torrent > http://torrent.ubuntu.com:6969/
- trollboy, after logof, first click your name, then the GDM options will appear
- !ru | Selean
- pennnn no they don't. logout, select your name, then language and GDM selection will appear
- blink, logout, and change GDM to classic
- me2 Dr_Willis
- gedO, gnome tweak tool for gnome 3 ? >> https://live.gnome.org/GnomeTweakTool

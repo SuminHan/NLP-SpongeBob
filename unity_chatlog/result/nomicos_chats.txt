@@ -1,2 +1,0 @@
- Hey there. Can someone help me?
- How can I install 11.04 on computer with 10.10 (also I need to minimize 10.10 '/' mount point size)?

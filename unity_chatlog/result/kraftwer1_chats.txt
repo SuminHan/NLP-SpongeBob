@@ -1,1 +1,0 @@
- any experience with bluetooth auto reconnect on 11.04?

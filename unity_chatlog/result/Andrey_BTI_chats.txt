@@ -1,8 +1,0 @@
- Hi! I'm sorry, my English is vary bad. I have a problem: i can't connect to windows network.
- I connect to winnetwork, go to workgroup, connect to server, then press BACK, and i didn't see anything
- not samba - first time i can see server, then a can't
- but a can connect by VONNECT TO SERVER
- And second time i try to connect to winnetwork - i can't see anything, nor a share folders, nor a server list
- I try connect third time and i recieve messages - i can't recieve shared folders. I install ubuntu 11 now, a didn't change anythings
- and server with russian name don't showing correctly, language updates was installed
- !ru

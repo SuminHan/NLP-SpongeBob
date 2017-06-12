@@ -1,3 +1,0 @@
- hi guys i'm having problem with rfkill
- everytime I poweroff my laptop
- it disable the wifi

@@ -1,2 +1,0 @@
- hey all, just updated to 11.04, using "Intel Corporation Mobile 4 Series Chipset Integrated Graphics Controller" and openGL for compiz causes the background not the refresh
- basically drag a window around and you see its trail for a while

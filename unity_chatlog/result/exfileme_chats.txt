@@ -1,7 +1,0 @@
- ugg ubuntu reminds me of windows 95
- i upgraded to the new version and all of a sudden the Nvidia driver don't want to work. Strangely enough, the new update works better on the experimental 3D drivers save for that the icons dont appear in the Launcher bar
- anyone else having problems with 11.04?
- spungo: thanks
- anyone having better luck with the experimental drivers and Unity over Nvidia drivers?
- i like the unity interface, I just wish the icons  would appear and the bar would hide like it's supposed to.
- i couldnt get drivers downloaded from nvidia to install :(

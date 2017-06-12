@@ -1,1 +1,0 @@
- load up a live cd and update-grub?

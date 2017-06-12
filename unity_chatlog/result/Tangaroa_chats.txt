@@ -1,6 +1,0 @@
- ChessTeach: You might need to look into software RAID if you don't have a RAID controller.
- ChessTeach: I don't know. Sorry.
- I want to temporarily switch a wireless pc from dyn to static IP. Killing dhclient also shut down the wireless connection, and something respawned the dhclient process. What is going on behind the scenes, and how do I give my computer a static IP if ifconfig & iwconfig & killall dhclient won't do it?
- mayank: Anything in your dmesg? You might also need to reinstall the firmware
- botcity: thanks
- alien: sounds like a hardware limitation. Reading and writing are different operations

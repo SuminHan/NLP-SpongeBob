@@ -1,6 +1,0 @@
- hallo! i had download alternate cd of Natty, but when try to upgrade, system goes to internet anyway. what can i do?
- somebody can help me with this damned upgrade to natty? i can't upgrade it offline (of course, with alternate-CD)
- anybody can help me?
- izinucs: a can't upgrade to Natty from CD without internet.
- izinucs: i use alternate-cd. but it anyway wants internet. may be something with my config?
- izinucs: thanks!

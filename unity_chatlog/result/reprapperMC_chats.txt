@@ -1,4 +1,0 @@
- Is there a specific channel for wireless issues with Ubuntu?
- ok,...I'm using 11.04 with a TP-link TL-WN727n. I've got it connected and can load web pages. However, the connection is very slow.
- Is there a general problem with Ubuntu 11.04 causing intermittent wireless?
- Using 11.04, but my internet speed through wireless is very slow.

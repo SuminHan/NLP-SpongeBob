@@ -1,4 +1,0 @@
- Is it normal for ubuntu 10.10 to go black after selecting "Try Ubuntu"
- lucas: you mean X or ssh ?
- lucas: if you want to have remoete terminal connection the computer you want to connect must have ssh server running
- lucas: most simply for ssh on the computer you want to take remote connection run apt-get install openssh-server, after it installs do on the computer you use "ssh user@ip.of.your.destination

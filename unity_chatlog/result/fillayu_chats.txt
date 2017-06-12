@@ -1,4 +1,0 @@
- is unity better than gnome
- BlouBlou   how to keep the unity panel always in the front
- BlouBlou  u use what?
- what's the package name of the default firefox? I want to upgrade firefox 4.0.1

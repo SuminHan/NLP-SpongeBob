@@ -1,3 +1,0 @@
- what is the easiest way to tell what version of a package is installed?
- from the command line
- taglass, Thanks!

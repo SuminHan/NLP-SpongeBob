@@ -1,5 +1,0 @@
- hi all
- i am trying to install ubuntu 11.04, but gparted doesn't see my partitions in hdd
- what can fix it out?
- heh
- ok

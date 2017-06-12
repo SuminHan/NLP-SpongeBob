@@ -1,2 +1,0 @@
- Hi everyone, I am here to find help with my NVIDIA GT330M, I installed the latest driver (270.46) now the X does not work
- i already tried that, the same thing happened with Ubuntu 10.10

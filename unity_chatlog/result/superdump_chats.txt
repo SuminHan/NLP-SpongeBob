@@ -1,1 +1,0 @@
- is there some way, perhaps involving a separate terminal with the alternate installer, to reuse an existing encrypted lvm partition layout, formatting only some partitions and merely mounting and reusing others?

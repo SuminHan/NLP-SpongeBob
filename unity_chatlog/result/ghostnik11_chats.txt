@@ -1,8 +1,0 @@
- hi wanted to know what peoples thoughts on ubuntu 11.04 and how they would rate it compared to 10.10 which i am currently on, don't know if i should update yet?
- iceroot: yeah but i updated from 9.1 to 10.04 to 10.10 using the upgrade manager
- iceroot: worked well with no problems
- stefg: okay will make note of that, thanks, i will just make a backup of my files, but it will be hard to backup like the programs and stuff
- iceroot: no i wanted to find out if 11.04 was better than 10.10, i mean i thought the new version of ubuntu the better it is
- iceroot: okay you got me thinking i should just stay with 10.10 which runs fantastic on my ibm thinkpad t60
- iceroot: i know i will just test 11.04 through virtualbox and see if its really as good, then will do back up and then do install
- okay thanks for info, have websites for backup computer

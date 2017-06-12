@@ -1,1 +1,0 @@
- i have an issue trying to enable wireless on my Lenovo B560.  Each time I Fn-F5, my Ubuntu 11.04 hung.

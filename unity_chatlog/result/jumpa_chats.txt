@@ -1,1 +1,0 @@
- Hello. I've just updated to ubuntu 11.04. But the menus of firefox and thunderbird aren't displayed in the indicator-appmenu. I think it's related to the bug https://bugs.launchpad.net/ubuntu/natty/+source/firefox/+bug/637827, which has been marked as fixed. Neither removing thunderbird-globalmenu nor reinstalling it helped. Any hint?

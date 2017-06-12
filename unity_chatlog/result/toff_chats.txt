@@ -1,8 +1,0 @@
- Hai
- freeradius : I configured freeradius to mac auth . But having a problem . Even though the client can connect to the server if authenticated . While during the same session when he try to reconnect the server is sending a access-reject. can anybody help me in this?
- What is the cause of  this problem?
- freeradius : I configured freeradius to mac auth . But having a problem . Even though the client can connect to the server if authenticated . While during the same session when he try to reconnect the server is sending a access-reject. can anybody help me in this?
- freeradius : I configured freeradius to mac auth . But having a problem . Even though the client can connect to the server if authenticated . While during the same session when he try to reconnect the server is sending a access-reject. can anybody help me in this?
- bazhang : really urgent bcuz my project it is ?
- bazhang : let me try
- freeradius : I configured freeradius to mac auth . But having a problem . Even though the client can connect to the server if authenticated . While during the same session when he try to reconnect the server is sending a access-reject. can anybody help me in this?

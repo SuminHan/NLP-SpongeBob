@@ -1,4 +1,0 @@
- Hello.  I just upgraded to Natty, and I'm still having the sound issue with pulseaudio and sound from my Hauppauge WinTV PCI card.  Where's the best place to ask for help with that?
- No sound when I'm watching tv
- Currently unity is working flawlessly for me, though it's definitely a bit of a change
- Connor:  I missed it, is the size of text too small, too big, too ..?

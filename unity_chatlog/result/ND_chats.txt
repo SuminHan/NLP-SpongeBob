@@ -1,4 +1,0 @@
- mikebeecham: if u have it in "most frequently used" on the "add application" button in the launcher, try to drag and drop it back to the launcher
- mikebeecham: alt F2 : nautilus
- mikebeecham: maybe bookmarking that folder will be a good workaround
- J;)

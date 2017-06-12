@@ -1,8 +1,0 @@
- has anyone done any performance/battary benchmark for unity? it seems to use compiz, as opposed to mutter
- can i turn off composite without breaking unity?
- anyone else also getting the "no video mode selected" error when booting 11.04 ?
- anyone else also getting the "no video mode selected" error when booting 11.04 ?
- join #backtrack-linux
- join #backtrack
- oops
- very sorry

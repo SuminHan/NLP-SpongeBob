@@ -1,9 +1,0 @@
- hi, in 10.10 i find temp youtube files in chromium in /tmp dir
- now in /home/.cache/chromium/default
- i dont't find anything
- where i can find the video temp file, if you can help me
- BlouBlou, yes but i'm curious to know where it's downloaded a temp file
- BlouBlou, i'm asking, because i look in both, and nothing
- BlouBlou, thanx the same
- how can i search all unconditioned video files in natty?
- how can i search all the files of the same type?

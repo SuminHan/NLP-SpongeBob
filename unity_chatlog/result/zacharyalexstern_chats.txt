@@ -1,3 +1,0 @@
- Is there a keyboard shortcut to maximize windows without taking over the top bar or hiding the dock?
- !unity > zacharyalexstern
- Is there a simple way of creating a Unity 2D session?

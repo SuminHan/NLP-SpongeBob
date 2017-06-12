@@ -1,3 +1,0 @@
- I am having a weird interaction between irssi/gnome-terminal/natty: alt-w, which before upgrading to natty took me to the 12th irssi screen, on gnome terminal selects all text in the terminal, despite alt-w not being listed as a keyboard shortcut either on gnome-terminal or on gnome
- any idea what it can be?
- I am having a weird interaction between irssi/gnome-terminal/natty: alt-w, which before upgrading to natty took me to the 12th irssi screen, on gnome terminal selects all text in the terminal, despite alt-w not being listed as a keyboard shortcut either on gnome-terminal or on gnome. Any idea what it can be and how to fix it?

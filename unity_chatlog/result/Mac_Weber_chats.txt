@@ -1,7 +1,0 @@
- is there any way to install tomcat7 using apt-get?
- I followed this tutorial to install tomcat. However, it is not auto starting at boot. http://www.howtogeek.com/howto/linux/installing-tomcat-6-on-ubuntu
- I'm on ubuntu 10.04. How to fix it?
- z0mbyk1d: just type update-rc.d?
- z0mbyk1d I tried "update-rc.d tomcat start 99 2 3 4 5 S . stop 0 1 6 ." as described in http://ubuntuforums.org/showthread.php?t=1188880&highlight=tomcat+autostart Did not work yet
- I want to switch from apache2 to apache2-mpm-worker. If I do 'apt-get remove apache2' then install apache2-mpm-worker will it keep the old configuration? (such as vhosts)
- aj00200: what folders shall I copy?

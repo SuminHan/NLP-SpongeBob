@@ -1,3 +1,0 @@
- Good morning, I just did an online, inplace upgrade of 10.10 last night to 11.04.  Now, on first boot, I receive an error and it hangs - udevd-work[90]: '/sbin/modprobe -bv pci:v000010DEd000001D7sv00001179sd0000FF31bc03sc00i00' unexpected exit with status 0x0009
- my guess is there's some sort of driver issue due to the modprobe - forgive me, I'm not especially familiar with Linux... advice?
- anyone?  re: modprobe crash above?

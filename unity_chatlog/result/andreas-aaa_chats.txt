@@ -1,3 +1,0 @@
- hi
- i have problem with my ubuntu
- help with grub

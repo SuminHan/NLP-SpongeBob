@@ -1,6 +1,0 @@
- did anyone meet the error with ICEauthority after gnome3 installation on 11.04?
- jack123, unetbootin.
- better with not used usb flash or cd
- jack123, use only new usb flash or cd. or you will get errors constantly.
- or good quality.
- did anyone meet the error with ICEauthority after gnome3 installation on 11.04?

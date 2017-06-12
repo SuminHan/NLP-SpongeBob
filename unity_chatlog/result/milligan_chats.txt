@@ -1,2 +1,0 @@
- I've booted a machine with the ubuntu rescue console. There are two harddrives in the machine. I'm trying to back up one harddrive to the other using dd (dd if=/dev/sda of=/dev/sdb) . It's been sitting there for quite a few hours now. How long should I expect it to take ?
- Just installed 11.04 on a laptop here. When booting the new system, the computer hangs at at the Ubuntu logo, with the dots underneath it. Booting an older kernel will work.

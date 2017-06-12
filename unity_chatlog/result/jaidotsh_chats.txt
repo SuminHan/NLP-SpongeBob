@@ -1,7 +1,0 @@
- nopes
- helo
- helo
- can anybody tell me whether broadcom 802.11 is supported in 11.04?
- bazhang thank u
- ok Dr_Willis thanks for the info. gotta try it out
- bye

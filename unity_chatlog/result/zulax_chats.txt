@@ -1,5 +1,0 @@
- unity broke, after enabling desktop cube, i see no panels, no dock....no shortcuts
- all i have access to is desktop icons!
- Dr_Willis, thanks that was so annoying
- Dr_Willis, i dont think the shortcuts(terminal) is still working
- i reset unity and unity is back, but the keyboard shortcuts dont seem to work

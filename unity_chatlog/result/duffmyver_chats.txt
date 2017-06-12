@@ -1,3 +1,0 @@
- anyone have any ideas how to fix either the brightness keys or my intermittent wifi problems on a samsung n150, running netbook edition? i have wifi working, but it'll only work sometimes - have to keep  rebooting my machine until it works
- i'm a real linux noob...
- anyone have any ideas about the wifi on a samsung n150?

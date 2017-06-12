@@ -1,3 +1,0 @@
- hi. Im on a 64 bit machine right now and id like to compile my c program in a 32 bit mode. how can i do that
- Thanks in advance.
- aah the -m32 argument

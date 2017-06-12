@@ -1,1 +1,0 @@
- anyone know the 411 on getting compiz to work again in 11.4 i uninstalled unity, the visual effects tab is gone from appearance preference

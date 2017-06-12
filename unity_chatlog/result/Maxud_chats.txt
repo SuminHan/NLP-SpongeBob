@@ -1,8 +1,0 @@
- Hello I am force installing 32 bit driver for printer on 64 bit system, and I get many dependence errors, what I need to install
- Hello I am force installing 32 bit driver for printer on 64 bit system, and I get many dependence errors, what I need to install
- hi, how to pen USB drive throw the terminal?
- well I dont have any of graphic enviroment
- how to open USB throw the terminal
- xyz is name of drive?
- i think there is no such folder :(
- well i am on fresh compiled Gentoo

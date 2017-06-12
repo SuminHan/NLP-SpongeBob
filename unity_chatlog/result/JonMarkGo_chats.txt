@@ -1,1 +1,0 @@
- Hi all, I was upgrading to 11.04 and it asked me to reboot to complete the update. I rebooted and now I get "Kernel panic - Unable to mount root fs"

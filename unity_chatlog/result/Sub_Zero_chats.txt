@@ -1,3 +1,0 @@
- On our laptop that runs Ubuntu when you plug headphones in the sound automatically stops coming through the speakers and just comes through the headphones.
- But on my Desktop computer with Ubuntu it does not do this. It continues to come through BOTH speakers and headphones
- Dang

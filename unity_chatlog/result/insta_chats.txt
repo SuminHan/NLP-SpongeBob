@@ -1,4 +1,0 @@
- hey guys i'm having a problem with 11.04 -- i just finished the upgrade from 10.10, no i have no touchpad on my laptop in either unity or classic, ideas?
- what are you talking about, to enable the touchpad?  what button?
- more updates: after plugging in a usb mouse, i can happily use my cursor. my touchpad doesn't show up in System -> Preferences -> Pointing Devices
- JoshDreamland: am i to believe then that this was not ready to go gold :(

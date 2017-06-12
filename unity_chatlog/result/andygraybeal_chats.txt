@@ -1,1 +1,0 @@
- in general, after i've installed ubuntu, how do i make it so that xwindows is gone and i just have the console?

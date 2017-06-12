@@ -1,5 +1,0 @@
- sl1ck: exactly what I was about to ask
- sl1ck: okay, the ISO is from yesterday, is that the final release version then?
- who do I tell about problems with the ubuntu.com website? "How can it be free?" on the new home page 404s
- mmmm Unity
- someone is raping the ubuntu repo servers... oh wait

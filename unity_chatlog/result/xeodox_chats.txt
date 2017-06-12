@@ -1,5 +1,0 @@
- hey guys... can a server hostname (/etc/hostname) be "mail.mydomain.com "?
- great, tanks
- hey guys I just set up a fresh ubuntu 10 server and installed telnet. How come when I do "telnet localhost smtp" or "telnet localhost 25", I get "Connection refused"?
- How do I stop dovecot? I did "service dovecot stop" , and it returns stop: Unknown instance:
- .  But it's still in "ps aux"

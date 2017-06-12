@@ -1,1 +1,0 @@
- Hi! While installing Natty final, custom partitioning, the box for setting the mount point only gives options and it is NOT possible to set custom mount points. Confirmed? Quite annoying... How to rename "/dos" after install? [http://ubuntuforums.org/showthread.php?p=10752998]

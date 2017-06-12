@@ -1,9 +1,0 @@
- anybody here noticed the system bell in natty doesn't seem to work? or know if there's a bug i should be looking at or a setting i'm missing?
- girls on the internet? pffft.
- maco: what'd i do?
- maco: i'm being ironic. i'm aware. it is just my reaction to play into it when people bring up the whole girls-on-the-internet thing. when people meet me IRL, it gets that much funnier.
- thomashc: it looks like there's a lithuanian keyboard variant for US keyboards
- thomashc: i dunno then
- i have no audible system bell in natty. any ideas, anyone?
- Daekdroom: mount
- lemme ask this. does anybody else running natty under unity have an audible system bell?

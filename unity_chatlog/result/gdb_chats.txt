@@ -1,1 +1,0 @@
- I've not tried lxde, but xfce is very gnome2-like if that's the experience you're looking for.

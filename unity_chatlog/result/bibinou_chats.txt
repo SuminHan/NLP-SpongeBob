@@ -1,9 +1,0 @@
- hi
- I updated to natty yesterday
- how can I get the old scrollbars back ?
- bp0 : thank you !
- groundup: look at /var/log/dpkg.log
- groundup: there should be an error at the end of the file
- groundup: do you have any talking about ngnix ?
- groundup: see, there is a lot of "status not-installed nginx-common <none>"
- groundup: seems like you use a ppa, try to contact the ppa maintener

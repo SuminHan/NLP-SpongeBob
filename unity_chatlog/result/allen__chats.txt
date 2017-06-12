@@ -1,2 +1,0 @@
- Hi;  I have installed Wine and as I have in the past, would like to intsall a Windows program using a cdrom. I'm getting an error when I try to change the permissions for the exe files....I moved the exe file to the desktop and was able to change the permission to executable but the Wine program loader will not load it properly....I was able to run the cdrom using Wine in the past....do I use some commands to solve this problem?...Than
- ks

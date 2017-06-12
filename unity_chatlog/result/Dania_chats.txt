@@ -1,7 +1,0 @@
- hey guys, i was upgrading to ubuntu 11.04 from 10.10 and the screen frozen during the update, so i restarted the pc and now i'm getting the black screen with: Kernel panic - not syncing: VFS: Unable to mount root fs on unknown-block(0,0)
- Rehan can you help me in my problem mentioned above ^^
- hey guys, i was upgrading to ubuntu 11.04 from 10.10 and the screen frozen during the update, so i restarted the pc and now i'm getting the black screen with: Kernel panic - not syncing: VFS: Unable to mount root fs on unknown-block(0,0) , any ideas?
- Guyt s I had electricity cut during upgrade to 11.04 and now on boot i'm getting Kernel panic - not syncing: VFS: Unable to mount root fs on unknown-block(0,0)
- Guys I had electricity cut during upgrade to 11.04 and now on boot i'm getting Kernel panic - not syncing: VFS: Unable to mount root fs on unknown-block(0,0)
- trijntje,  ya how should i diagnose it?
- trijntje no but can log to hard drive via console

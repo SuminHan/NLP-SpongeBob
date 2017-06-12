@@ -1,3 +1,0 @@
- Hi. I cannot seem to be able to configure my HP trackpoint (touchstyk?) in 11.04. Changing mouse speed doesn't affect it, and I cannot seem to configure it correctly in my xorg settings. Any ideas?
- ForceDestroyer, Barnabas: unity relies on compiz, so I doubt there's a way to do it. You could replace it by replaceing unity with gnome.
- disable it*

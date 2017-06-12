@@ -1,8 +1,0 @@
- try fluxbox
- enlightment 17 is pretty good, but it haves cuople bugs
- GeorgeJ:  use pendrive
- Dr_Willis:   what do you recomend?
- nishttal:  build your own, or install from ppa
- xc: yes
- if you want plasma desktop, go in synaptik, write kde desktop
- rx007: no

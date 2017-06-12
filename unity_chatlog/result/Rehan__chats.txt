@@ -1,3 +1,0 @@
- anytime I fill out the information in the About Me section in ubuntu and hit close, it never saves anything. Why is that?
- anytime I fill out the information in the About Me section in ubuntu and hit close, it never saves anything. Why is that?
- does anyone else have this problem? https://bugs.launchpad.net/ubuntu/+source/gnome-control-center/+bug/752452

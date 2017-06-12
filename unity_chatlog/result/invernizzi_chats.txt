@@ -1,9 +1,0 @@
- MethedMan, no, you cannot send emails anonymously throgh Gmail, unless you create a separate account. Maybe they look anonymous to you, but they are not. Disclamer: I work in computer security
- MethedMan, no, tor just protects your ip. The thing is, the email still carries meta information about the sender. the correct tool for the job is "mixmaster"
- it's in the repos
- MethedMan, mixmaster strips metadata from emails and forwards the email from server to server to delay it and make it untraceable
- MethedMan, just launch it, it's pretty self explanatory. keep in mind that the delay between sending and receipt can be of hours. the purpose is to avoid to leak even the time of sending
- MethedMan,  tell me which options are there
- local
- herbs: spammers use botnets to send emails, not remailers. Trust me, this is not the system to send spam. Again, I work exaclty on malware and spam
- MethedMan, seen

@@ -1,3 +1,0 @@
- hi, I'm running 11.04 on a amd based hp laptop and it works fine, but then freezes when left unattended. it seems like the fan is on but it might be the power management, any suggestions?
- anyone else have problems with an amd laptop when screensaver comes on sometimes it freezes, fan stays on?
- Hi, I have an HP laptop AMD and since I installed 11.04 it seems to overheat and freeze, any suggestions? I don't even know how to find out what is making it freeze

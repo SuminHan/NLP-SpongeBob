@@ -1,5 +1,0 @@
- is there a way to set a keyboard shortcut for the workspace switcher in ubuntu 11.04?
- is there a way i can change it to something else?
- thanks i had been looking for that for 30 minutes
- FCUK112 They all say none
- fcuk112 They all say none

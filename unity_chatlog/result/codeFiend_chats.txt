@@ -1,5 +1,0 @@
- hi all
- i'm having problems installing from usb image
- ubuntu 11.04 onto an exopc tablet
- it never even hits the installer, just hangs there with 'CPU1 is not responding' message
- anyone see that error before? any tips on where to look for help?

@@ -1,3 +1,0 @@
- Okay, this is ridiculous! I upgraded not so long ago, and my monitor just started saying last night "Input Range Out of Range" "Change setting to 1600x900 - 60Hz" but like, if I put it on that then it says that error, if its lower then it works, but its all blury and looks like crap
- Input signal out of range*
- Anyone have any suggestions?

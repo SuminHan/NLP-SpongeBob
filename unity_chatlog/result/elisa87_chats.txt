@@ -1,2 +1,0 @@
- how can I run matlab2011 in ubuntu?
- when I write the sudo /etc/init.d/gdm stop command can I run other commands in the black window which apears?

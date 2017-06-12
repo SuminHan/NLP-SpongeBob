@@ -1,2 +1,0 @@
- can someone help me with this usb sound device
- hello, my usb device doesn't sound on xubuntu, but worked on regular ubunt

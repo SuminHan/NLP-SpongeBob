@@ -1,3 +1,0 @@
- i am releaseing this app for ubuntu plz check my code and give me advice?
- i am releaseing this app for ubuntu plz check my code and give me advice? http://paste.ubuntu.com/602019/
- jibadeeha, i want to create a deb for  it or a ppa is there some sort of article explain how

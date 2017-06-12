@@ -1,8 +1,0 @@
- hi there, has anyone had issues with a laptop's built-in keyboard and mouse on X after upgrading to natty?
- is there a way to revert to the previous (pre-natty) x server?
- DJones: ubottu: no, no.. I'm using kubuntu, but the built-in keyboard and mouse don't work on X
- I have a usb mouse so I can drop to the console to debug the issues
- but no usb keyboard..
- DJones: thanx anyway.. I think it's an issue with X in general, more than kubuntu itself, though. I tried installing gdm and running X manually and get the same problems no keyboard/mouse recognized
- I was trying to manually edit xorg.conf, but apparently ubuntu's x config is quite different from other distros
- in general, is there a way to revert the xorg package without having to uninstall it (and with it all things that depend on X)

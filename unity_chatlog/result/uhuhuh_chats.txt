@@ -1,8 +1,0 @@
- hello. How to configure 11.04's application panel?
- Hello, how can I configure my application panel? I want to delete some items from it.
- Hello, I installed a windows software with wine. But after I remove it, some icons still left in my system application menu of unity panel. How can I delete them? I'm using 11.04 now. Thanks
- Juest: What do you mean? irc channel #ubuntu+1?
- Oh, thanks. But I still want to know how to solve my problem. Could someone give me some suggestions? Many thanks.
- bazhang: unity
- carandraug: Yes, I delete it from the main menu in the preferences. But it still in unity panel.
- carandraug: Let me try. Thank you.

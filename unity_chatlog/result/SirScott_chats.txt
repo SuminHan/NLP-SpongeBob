@@ -1,9 +1,0 @@
- My bluetooth device was recognized in with the 10.10 live CD, yet after installing, it's not recognized.  Not even sure what it is in the lspci output..
- Buddhacz: http://pastebin.com/5ZLKttMS
- hcitool dev is empty
- Buddhacz: what's my best bet, re-run the live CD, grab the output from there and come back here?
- Buddhacz: don't honestly know.  brand new laptop i'm trying to get running
- Buddhacz: lsusb has a few things listed, but nothing jumps out as being bluetooth
- Buddhacz: http://pastebin.com/M1Baz0Qf
- Buddhacz: i'll fire up the liveCD and get the output there.  bbiab
- Buddhacz: and of course, it's going to make a liar out of me as now when i'm running the liveCD, still no BT devices are found.

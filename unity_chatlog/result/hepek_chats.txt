@@ -1,1 +1,0 @@
- did anybody break wireless (AR928X Atheros) when dist-upgrading from 10.10

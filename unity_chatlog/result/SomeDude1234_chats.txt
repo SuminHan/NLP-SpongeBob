@@ -1,3 +1,0 @@
- Anyone else having wireless accesspoint-connection issues with WPA after the upgrade to ubuntu 11.10? I can see the ESSID's around but cannot connect to my WPA/PSK encrypted AP
- Help: I cannot connect to my Wlan AP (WPA/PSK encrypted) any longer since 11.10 (formerly 10.10). Networkmanager just after a certain timeout of connection trial stops. It worked in 10.10.
- Since ubuntu 11.10 I have errors when I plug my USB wlan adapter and cannot connect to any of the access points (but they show up in the network-manger). Please see the dmesg output: http://pastebin.com/etdZ8Awn

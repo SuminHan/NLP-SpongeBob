@@ -1,1 +1,0 @@
- so, the intel wireless N bug that affected maverick and claims to be fixed is not fixed

@@ -1,3 +1,0 @@
- hi....how to mount a rar file in ubuntu 10.10...anyother alternative than rar2fs ?
- but I can mount tar files
- hi...i have home on another partition....i want to move it from there to another harddisk partition....what should i do.....home and installation partitions are different....help please

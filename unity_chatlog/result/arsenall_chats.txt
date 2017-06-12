@@ -1,7 +1,0 @@
- trueman: you have problems with mint?
- trueman: no
- trueman: i prefer gnome-shell, but it always crashes
- it doesnt work normaly
- in natty
- i think it's problem with nvidia drivers
- my english knowledge is not very good, Sorry

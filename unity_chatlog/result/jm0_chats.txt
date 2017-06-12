@@ -1,3 +1,0 @@
- can anyone help me i have royally messed up my system
- KNUBBIG: well I deleted my linux partitions, and then merged the space with my c: drive. Now when i boot i dont get any GRUB menu but goes straight to grub rescue..........but i got it to load a windows recovery disk ill see what i can do
- KNUBBIG: well I deleted my linux partitions, and then merged the space with my c: drive. Now when i boot i dont get any GRUB menu but goes straight to grub rescue..........but i got it to load a windows recovery disk ill see what i can do

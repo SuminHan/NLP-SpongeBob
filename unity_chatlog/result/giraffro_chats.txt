@@ -1,1 +1,0 @@
- Heh, I've upgraded to 11.04 but I can't get the Super / Win key working on Compiz. It just shows up as Multi_key. I've tried changing the keyboard options for Win key behaviour but to no avail, but binding Caps Lock with Super does work. Any help? I'm using a Logitech MK520 keyboard.

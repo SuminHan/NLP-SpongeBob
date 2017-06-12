@@ -1,3 +1,0 @@
- Hi there. Does anyone here use Phatch on ubuntu ?
- LetsGo67: yes you can, you can use XDMPC for instance
- Hi there. Who knows how to make the drag n drop of attached files working in ubuntu thunderbird ?

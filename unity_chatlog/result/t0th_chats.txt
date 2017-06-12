@@ -1,5 +1,0 @@
- hi
- i have a cronjob
- * * * * * wget http://www.test.com/ > file
- why i have file file.1 file.2
- any?

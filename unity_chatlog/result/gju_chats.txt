@@ -1,1 +1,0 @@
- hey guys, is it possible to change the email reader for the notification area applet to something else (e.g. thunderbird) instead of evolution?

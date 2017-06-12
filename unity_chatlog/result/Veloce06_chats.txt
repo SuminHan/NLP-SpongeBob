@@ -1,7 +1,0 @@
- mello: how did you create the USB stilck
- stick
- Make sure the usb stick is fat32, mine was having problems because it was fat16.
- when I reformatted to fat32 and did unetbootin again it worked fine
- mello: I just got mine working as we speak
- I have a backup from clonezilla of my previous machine. I'm trying to mount the .img file on loopback after restoring it using partclone, but I keep getting a can't read superblock. dmesg | tail shows XFS: last sector read failed. Any ideas?
- I'm trying to mount a backup .img file getting the error /dev/loop0: can't read superblock. This is from a clonezilla backup of an XFS partition. What is this error telling me? Google didn't give me anything either.

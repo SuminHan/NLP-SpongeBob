@@ -1,4 +1,0 @@
- is there any advantage in runnin a classic ubuntu on 11.04 as opposed to 10.10?
- i mean... i upgraded to natty but only noticed themeing issues so far
- elegant gnome won't stick on a standard ubuntu session
- thank you bazhang

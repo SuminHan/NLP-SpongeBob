@@ -1,1 +1,0 @@
- can anyone tell me if its possible to configure how fast the mouse scroll wheel scrolls through anything?

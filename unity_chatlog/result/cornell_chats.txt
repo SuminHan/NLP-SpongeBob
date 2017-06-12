@@ -1,2 +1,0 @@
- Hi...  I'm using chromium with ubuntu and of a sudden it seems every page has a banner complaining that adobe flash is out of date.  I'd've thought that the update manager would take care of that.  Anybody else experience this?
- Thanks all, TTFN

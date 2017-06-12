@@ -1,5 +1,0 @@
- !ot
- mkquist: use nvidia-settings
- mkquist: you need to "gksudo nvidia-settings" for some settings to stick tho... I cant recall exactly which
- gaurav_help: What do you mean trace? mtr is a nice tool for traceroute
- !register | mithran

@@ -1,3 +1,0 @@
- is it possible to change the owner of a file in /var/www/ for non-admin users to access? I tried sudo chown username -R path but that didn't work
- phoque_uni, I had a directory in /var/www/ I was trying to give access to a non-admin user and the command displayed nothing like it worked
- How would I permanently disable the synatpics touchpad on my laptop?

@@ -1,4 +1,0 @@
- my internet on this machine is fine but unable to share or browse network i get could not display "network:/// nautilus cannot handle net work connections
- kndeaux do you havecorrect linux drivers for that video..
- what is good local network file sharing program? windows adn linux boxes
- what is samba 24?

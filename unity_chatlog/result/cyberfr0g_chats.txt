@@ -1,1 +1,0 @@
- ok, so with unity, is there a way to save the status of your desktop? to make it persistant between reboots.

@@ -1,8 +1,0 @@
- rcconf allow more peers to be connected
- rcconf it might be torrent spesific properties too
- oh wow why is my latency so high in this server
- rcconf what did you do to fix it?
- does 11.4 includes gnome 3?
- thanks
- <Incarus6> is it possible to get it though?
- <Incarus6> thank you very much for your time sir.

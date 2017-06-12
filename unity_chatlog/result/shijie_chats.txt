@@ -1,6 +1,0 @@
- hello, I installed codeblocks,but it doesn't work
- it throwed "sh XXX permission denied " error upon compiling
- can anybody help me?great appriciated
- but before I upgraded to 11.04, codeblocks works well.
- any body know about codeblocks compilation errors?thanks
- ok,thanks.

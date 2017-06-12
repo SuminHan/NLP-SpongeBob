@@ -1,8 +1,0 @@
- Is it possible to upgrade from 32bit to 64bit?
- sebsebseb: okay, could I copy the home folder?
- What is the command to list all my devices? (not partitions)
- Erf_Neerg: I mean like sda and hda etc
- Erf_Neerg: I am trying to recover a drive with ddrescue and need to make sure I can see it first
- i am inside the program parted and i can't get back to prompt with ctrl+c or q, any ideas?
- Is there a GUI way to unmount a device (not a partition)? If not what is the command to unmount a device?
- I grabbed gnu ddrescue from the package manager yesterday, it was v 1.11 however the latest version is 1.14, what would be the best way to upgrade to 1.14,, manually or can I use apt-get or the package manager?

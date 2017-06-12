@@ -1,5 +1,0 @@
- Hi all
- Is it normal for the new Ubuntu 11.04 to take a long time to install on my USB stick?
- coz_, is really slower than a CD?
- coz_, that's weird. :/
- coz_, I see.

@@ -1,4 +1,0 @@
- 11.04 available for download yet?
- is cpu scaling working correctly in 11.04 x64?
- my cpu scaling is not working. sudo modprobe -v powersave, for example, says "FATAL: Module powersave not found."
- cpu is running at top speed constantly.

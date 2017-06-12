@@ -1,3 +1,0 @@
- hi
- hi can Anyone give me a hint how to convert a file fron "utf 8 with BOM" to  "uft 8 with BOM" ?
- em to utf8 "without bom" Sorry

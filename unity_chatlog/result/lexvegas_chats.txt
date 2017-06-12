@@ -1,1 +1,0 @@
- is there any difference in reliability between installing from the liveCD or using unetbootin and a USB drive?

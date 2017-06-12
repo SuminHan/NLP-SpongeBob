@@ -1,2 +1,0 @@
- Hello! I'd like to add my IPv6 Tunnel from HE with this command: "ifconfig sit0 inet6 tunnel ::216.66.84.46", and I get as answer only: "SIOCSIFDSTADDR: Kein Hauptspeicher für den Puffer verfügbar"
- I'd like to add my IPv6 Tunnel from HE with this command: "ifconfig sit0 inet6 tunnel ::216.66.84.46", and I get as answer only: "SIOCSIFDSTADDR: Kein Hauptspeicher für den Puffer verfügbar" - Ubuntu 11.04. Thank you!

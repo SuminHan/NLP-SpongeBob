@@ -1,1 +1,0 @@
- people i am having 64 bit ubuntu 10.x version, how can i make sure that this os can run 32 bit applications ? i want to install eclipse and android sdk in my system to work

@@ -1,4 +1,0 @@
- when I boot into ubuntu classic, all my window borders are gone... how do I fix this?
- when I boot into ubuntu classic, all my window borders are gone... how do I fix this?
- Dr_willis: already tried both, doesn't help... not even after a reboot
- Dr_willis: I think I found a fix... brb

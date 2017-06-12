@@ -1,4 +1,0 @@
- i cannot make a usb startup disk in 11.04, i get Checksums do not match.  Retry?, and md5 hash of the iso file is correct
- xangua: will try now
- hi, cannot make usb startup disk, tried unetbootin, it made a disk, but cannot start live ubuntu
- Dr_Willis: i don' remember the exact message, but it's something like cannot mount dev/loop0

@@ -1,6 +1,0 @@
- hi! first of all: congrats on the new ubuntu, seems like a great release!
- only have one problem though: i have an hp mini 210 and although all problems i had to conquer on 10.10 have been solved, one remains: the touchpad gives a lot of problems when for example wanting to select things
- it's very jumpy. have been looking for solutions again but honestly ive tried so many things from synaptics that im pretty confused :)
- hi guys
- i love the unity interface
- anyone know when work starts on 11.10

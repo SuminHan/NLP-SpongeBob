@@ -1,6 +1,0 @@
- hello; anyone have issues when upgrading it allows me to login but errors and locks up
- can I revert back from 11.04?
- comdoc: I upgraded and now I get to the login; able to login but after that getting erros about Natalus
- comdoc: doesn't go anyfurther after that
- what about mouse not even working ><
- prob so

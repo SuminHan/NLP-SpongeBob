@@ -1,8 +1,0 @@
- Hi there, how to install the wireless proprietary drivers? ubuntu 11.4, any help greatly appreciated!
- Thanks!
- Dr_Willis: I did that, but its not showing anything. However the same procedure worked on ubuntu 10.10
- Dr_Willis: is there another way?
- hum... Thanks...
- Dr_Willis: Dell Wireless 1370 WLAN Mini-PCI Card
- Dr_Willis: now how to download and instal?
- Dr_Willis: would you know that?

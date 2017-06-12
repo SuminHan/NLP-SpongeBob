@@ -1,3 +1,0 @@
- herol3oy, it doesn't matter. if you upgrade over the network, you'll get the latest packages, which might not be the case if you use the cdrom.
- noob25, acpi -t
- noob25, its a seperate tool

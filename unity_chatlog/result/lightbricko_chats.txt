@@ -1,8 +1,0 @@
- Does the flash plugin in 11.04 use the gpu when watching movies (youtube etc.)?
- lvh: I don't know for sure, but if it's a GRUB issue, check here how to get GRUB info with bootscript and then fix it: http://ubuntuforums.org/showthread.php?t=1705279
- How do I check if my flash player is GPU accelerated (as it should be)? The issue is that flash (youtube) videos don't run smoothly, however the laptop i ~5 years old. I run 11.04.
- dmartinng: I haven't tried it from USB, but with the 11.04 liveCD (run from CD) I got unity as expected.
- dmartinng: Are you using 11.04?
- dmartinng: strange. I didn't have that issue so I can't help, other than confirming it worked for me (with CD)
- dmartinng: Yes it seems like zikalify had the answer for you :)
- Anyone knows if sugarsync or dropbox works well in Ubuntu?

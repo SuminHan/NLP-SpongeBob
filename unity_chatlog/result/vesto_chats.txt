@@ -1,3 +1,0 @@
- hello, i upgraded from maverick to natty and now grub says "error: file not found"  ive tried to repair grub with the livecd i have but it doesnt seem to be working... can anyone help?
- jatt: no, mbr of sda
- do i need a natty livecd to repair grub2 for natty?  doesnt seem to work following the ubuntu wiki page on grub2 using a lucid livecd

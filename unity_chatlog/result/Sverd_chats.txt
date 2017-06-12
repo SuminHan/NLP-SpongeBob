@@ -1,2 +1,0 @@
- Help Requested: Running ubuntu 11.04 x64, nvidia gfx adapter. Flash Videos in fullscreen freezes the computer. I have tried chromium and firefox. I have tried flash player 10.2 64 and 32 bit. I have tried enabeling/disabeling hardware acceleration.
- Help Requested: Running ubuntu 11.04 x64, nvidia gfx adapter. Flash Videos in fullscreen freezes the computer. I have tried chromium and firefox. I have tried flash player 10.2 64 and 32 bit. I have tried enabeling/disabeling hardware acceleration.

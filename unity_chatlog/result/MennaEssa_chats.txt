@@ -1,1 +1,0 @@
- Guys my friends laptop went off during the upgrade to 11.4 , ofcourse it's no longer working it gives this :init: playmouth main process (61) killed by SEGV signal any idea if we can solve this or she has el reinstall ?

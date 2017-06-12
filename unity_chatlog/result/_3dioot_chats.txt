@@ -1,9 +1,0 @@
- can i ask for some help in here?
- i am new to ubuntu :)
- we all need help with something probably ^_^
- haha
- anyway i have a wacom.. and i cant fix the proportions
- i have a dual monitor setup
- I have installed Ubuntu 11.04 - the Natty Narwhal | I have a dual monitor setup | I use wacom tablet | currently its stretched over my two monitors so the proportions are completely screwed | this needs to be fixed cause i cannot work this way
- is that better?
- nobody is willing to lend me a hand with setting up my wacom tablet under ubuntu?

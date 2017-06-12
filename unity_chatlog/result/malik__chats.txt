@@ -1,3 +1,0 @@
- hi
- i want a linux command inside a bash script to be run in background. How to do this ? is it sufficient to put an & at the end ?
- i want a linux command inside a bash script to be run in background. How to do this ? is it sufficient to put an & at the end ?

@@ -1,4 +1,0 @@
- Hey. I just installed ubuntu 11.04, and I'm trying this Unity thing.. There's a neat search bar, but it doesn't find anything useful.. Can I make it index my drive? (Searcning for 'Makefile' yields nothing, when I'm actually right now looking at a Makefile in my terminal..)
- Hey, can I get some help with the Unity search?
- .. And can I add applets to the top unity bar? I need the CPU frequency applet
- Guys.. The search feature in unity.. Is there any information on it? How can I make it index my files?

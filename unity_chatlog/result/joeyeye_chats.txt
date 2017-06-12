@@ -1,4 +1,0 @@
- openbees, and you expected what ? It's a beta - it has defects...
- Jordan_U, because it's released doesn't make it good. It was beta last week ... it's still the same
- openbees, so it's a stable unstable release
- openbees, agree. In general the OS is fine, the Unity UI is not ready for prime time. Stick with the "classic" as a desktop UI.

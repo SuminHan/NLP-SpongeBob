@@ -1,1 +1,0 @@
- I just upgraded to Natty.  How do you clear "Recent" which appears when you click on "Files & Folders" launcher button?

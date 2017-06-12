@@ -1,1 +1,0 @@
- i'm having trouble installing 11.04.  during the install it's saying that it cannot install a bootloader, so no grub installed.  I even tried installing it manually but the drive will not boot.  Anyone else experiencing this?

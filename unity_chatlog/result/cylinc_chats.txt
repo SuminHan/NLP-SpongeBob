@@ -1,2 +1,0 @@
- Hello, is the ubuntu-11.04-desktop-i386.iso can be directly used to make a live usb, just dd if=iso of=/dev/sdb ?
- I failed to boot from USB just execute "dd if=ubuntu-11.04-desktop-i386.iso of=/dev/sdb bs=8M",which /dev/sdb1 has been set bootable with fat16 fs

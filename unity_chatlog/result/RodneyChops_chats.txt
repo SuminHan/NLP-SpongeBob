@@ -1,1 +1,0 @@
- Hi, just started using Ubuntu, I added an extra HD, its showing up fine, but its a mountable ejectable drive... I want it so apps can use it and what not. No programs can see it..

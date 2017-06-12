@@ -1,6 +1,0 @@
- hey! I have a laptop with et2 file systems... is there any way to upgrade them without loosing data?
- *ext2
- bazhang, yup!\
- no way to change partition from ext2 to ext4 without loosing data?
- can I rersize the partition, make a new one, move the data, delete the previous, and resize the new one to full size?
- thanks all!

@@ -1,2 +1,0 @@
- is there a way to install gnome3 without breaking unity?
- is there no option to add shortcuts on the desktop from unity?

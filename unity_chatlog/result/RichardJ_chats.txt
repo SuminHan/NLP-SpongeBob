@@ -1,5 +1,0 @@
- why has installing gnome3 (on 11.04) given me a horrible theme?
- hypetech: I know, but it's just weird that the theme for gnome-wm has been replaced
- If I install a proprietary driver for my graphics card (ATI/AMD FGLRX) and that results in not being able to boot, what could I then do about it?
- is there a simple way to remove a restricted driver via the rootsheel?
- rootshell*

@@ -1,7 +1,0 @@
- Guys, I just upgraded to 11.04 and the wireless stopped working. Can somebody please help me with this?
- The "enable wireless" option is dithered, how can i get it enabled
- Can somebody please help me with my wireless network issue?
- It's not recognizing the networks after I upgraded to ubuntu 11.04
- ok so I have got the "enable wireless" enabled by downloading backports
- however it's still not able to search the wireless network
- iwconfig shows this http://paste.ubuntu.com/600919/

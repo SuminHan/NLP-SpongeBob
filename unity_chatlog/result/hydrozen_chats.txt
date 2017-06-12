@@ -1,2 +1,0 @@
- Hi there. My super key does not seem to be working on 11.04 on my Lenovo thinkpad. Any ideas how I can figure out why it seems to do nothing (although the cursor blinks when I press it).
- Any ideas if i might have remapped it a while ago and dont remember it? if so, in which file would that be

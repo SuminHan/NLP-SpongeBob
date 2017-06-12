@@ -1,1 +1,0 @@
- does anybody know of good documentation to setup outgoing mail with postfix on ubuntu 10.04 LTS?

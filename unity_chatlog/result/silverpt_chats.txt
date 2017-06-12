@@ -1,2 +1,0 @@
- Hello all. I'm having trouble instaling 11.04 on a Acer Aspire Laptop. As soon as ubunto CD boots the display backlight turns off. any clue?
- Hello all. I'm having trouble instaling 11.04 on a Acer Aspire Laptop. As soon as ubunto CD boots the display backlight turns off. any clue?

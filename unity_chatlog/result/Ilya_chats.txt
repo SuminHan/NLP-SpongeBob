@@ -1,2 +1,0 @@
- Hi. I need help - tried to enable desktop cube in compiz and it disabled unity plugin - now I cannot launch preferences again, cannot see any menus etc. - how to do I re-enable unity? I can switch to text window (aft+F1) but I cannot launch compiz settings editor from there
- @Dr_Willis thanks

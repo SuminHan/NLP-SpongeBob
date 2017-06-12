@@ -1,3 +1,0 @@
- Is everyone satisfied with Unity?
- I have still some troubles with using multiple monitors, but its fine
- w30: :(

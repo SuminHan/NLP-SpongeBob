@@ -1,7 +1,0 @@
- So, any word on a hack that'll let us change applet order in the Unity panel?
- kneaux: Does not exist, more or less.
- Oh, unless you mean the sidebar.
- ohsix: Yeah, so, when do we get a hack that lets us configure the top not-panel?
- ohsix: Well, the order of the applet on the top right, for instance.
- applets^
- kneaux: Click top left, type compiz, it'll show up.

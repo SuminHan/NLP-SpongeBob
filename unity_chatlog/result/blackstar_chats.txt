@@ -1,1 +1,0 @@
- anyone knows how to re-enable missing logs files on natty?

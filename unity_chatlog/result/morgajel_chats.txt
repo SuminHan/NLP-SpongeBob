@@ -1,3 +1,0 @@
- hey guys, noob question- I just upgraded to natty and found out my firepass vpn plugin won't work with firefox 4; what's the easiest way to downgrade back to 3.5/3.6?
- thanks guys, I had to pull ff 3.5+branding+xulrunner1.9.1
- and uninstall 4

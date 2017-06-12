@@ -1,1 +1,0 @@
- hi guys, trying to do a natty upgrade, i get an error unable to fetch binary-i386/packages.bz2 due to hash sum mismatch. Any tips?

@@ -1,8 +1,0 @@
- The 11.04 netbook ISO BitTorrent link on the Ubuntu site doesn't work.  Is there another known good BT link for the netbook ISO?
- Dr_Willis: so the link was an oversight.
- tatzenblogde: I meant "http://releases.ubuntu.com/11.04/ubuntu-11.04-netbook-i386.iso.torrent"
- Dr_Willis: before I do the upgrade, does anyone know if this will work on the Eee?
- Dr_Willis: that'll tell me if the code works, but not if the upgrade works.  I've had upgrade problems in the past with desktop on the Eee, specifically windows that were too big for the screen.
- tatzenblogde: did you have any trouble installing?  I only have a 1000, and the windows were too tall for my display to do the install, had to attach ane xternal monitor.
- tatzenblogde: thanks for the good news!  Hopefully mine will be too.  I'll find out soon!
- I'll do that.  Bye!

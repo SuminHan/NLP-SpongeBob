@@ -1,6 +1,0 @@
- anone missing the gtk scrollbars in pidgin in natty?
- or they are really weird scrollbars now?
- it appears 11.04 broke preferred applications for web/email
- can no longer specify a custom program
- Lxndr, login from gdm with "classic"
- anyone aving consistent X lockups (but restartable) with Intel on natty?

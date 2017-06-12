@@ -1,6 +1,0 @@
- hi. i want to emty my file. i use echo "" >> myfile but whis this: i see a empty line in it. i want to delete enter in my file. plz help me.
- Captainkrtek: ok. tnx
- Captainkrtek: no. i dont want to rm in. i want to empty it.
- Captainkrtek: sorry. after dd if=/dev/null of=/var/log/squid/top-urls-7days.log: i have a blank line still.
- i want to have empty file.
- ok

@@ -1,7 +1,0 @@
- Hello, I wanna install ubuntu but retain all data on current D: partrition of windows vista, how hard is that / does ubuntu installer supports it? thanks!
- thanks
- ThinkT510, hm this means i need to use wubi installer or the 'real' full one can do as well? (to install ubuntu but save current Window's D: NTFS partrtition, ubuntu can read NTFS?)
- oh thats lovely
- of course not, i want full install, bye bye to windows, but want my DATA xD
- yea, i have some experience with linux distros, no problem, just wondered about ubuntu installer, im not completely newb
- I totally admire people here dedicating to help fellow newbs, its really noble and mostly ungrateful hard work. but without you ubuntu wouldnt be what it is, good job, have a nice day!

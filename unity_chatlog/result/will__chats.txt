@@ -1,6 +1,0 @@
- anyone know where i can find help on screenlets, looking to change my screenlets units to farenheit not celcius
- trying, dont understand these units though lol
- o well thats all i need then, thanks for the heads up, i just need to estimate a rough closeness to matching *F
- thank
- hey guys. how do i know if i've got nouveau with gallium 3D activiated? i'm hoping for some sort of definite console command, not just 'are you running unity or not?'
- dougl: the easiest way would be using the network manager, if you have a graphical way to access your machine!

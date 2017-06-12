@@ -1,2 +1,0 @@
- receive this error during boot: "unable to find a medium containing a live file system"
- any advice?

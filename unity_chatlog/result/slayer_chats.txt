@@ -1,2 +1,0 @@
- hello all
- does anybody know a good place to get left-handed cursors for KDE 4.2?

@@ -1,3 +1,0 @@
- i am bout to install 11.04, I have 4 Partitions on my previous 10.10 install ine ext 10gb for system ans the rest for home folders, if i chose the erase 10.10 and install 11.04 will it erase my home partition to?
- sorry i meant to say 2 partitions
- if i have a home partition and a system partition what would be the best intsall option not to delete my stuff on 11.04

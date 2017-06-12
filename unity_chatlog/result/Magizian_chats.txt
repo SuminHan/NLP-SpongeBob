@@ -1,5 +1,0 @@
- hello?
- I need a beta tester for my shell..
- I have the first WMHT Zx86/64 beta servers up and running..
- telnet to 173.13.234.122 port 20023 ... don't login at the prompt, just connect, sit back, and I'll give a guided tour..
- then you may explore a bit..

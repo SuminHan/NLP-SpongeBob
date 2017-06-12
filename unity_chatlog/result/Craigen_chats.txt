@@ -1,4 +1,0 @@
- I need some quick help here :) I just updated to 11.04, but when i login i can move for a few secs then everything just freezes. Any ideas? :)
- How do i access grub on bootup?
- I just updated to 11.04, but when i login i can move for a few secs then everything just freezes. Any ideas? :)
- I just updated to 11.04, but when i login i can move for a few secs then everything just freezes. Any ideas? :) Also i can't access to grub by pressing esc :/

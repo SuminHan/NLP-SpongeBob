@@ -1,6 +1,0 @@
- knows somebody a good way to manipulate the nameserver list when i connect a vpn with network manager?
- scenario: no vpn connected, use first 127.0.0.1 ns, if it doesnt know the record use the one from dhcp. if vpn is connected try first 127.0.0.1 and if that doesnt find a record try out the one defined by vpn
- maxb: thx for that, got to take a look at it... i hoped that i'm not the first who needs that and that there are already solutions i cant find
- knows somebody a way to _always_ set 127.0.0.1 as first nameserver to resolv.conf?
- llutz: prepend domain-name-servers 127.0.0.1; works only as long i'm not connecting my vpn connection. after connecting vpn my local ns will be the second ns only...
- llutz: http://pastie.org/1864271 and what exactly?

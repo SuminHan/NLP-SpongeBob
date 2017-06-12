@@ -1,1 +1,0 @@
- Hi - Is simply installing unattended-upgrades on my 10.04 servers enough to get auto updates?  Do I need to change config files?

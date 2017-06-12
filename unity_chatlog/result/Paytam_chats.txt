@@ -1,1 +1,0 @@
- Ive a question about software developing. We are a group of 10 programmers who work on a open source project. The problem is we need to talk about it over internet because we are on different geographical places. Do you know any site  to do it?

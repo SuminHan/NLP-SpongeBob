@@ -1,1 +1,0 @@
- when i boot ubuntu 11.04 install cd on my acer aspire 5334 laptop i am able to see a menu askign to try ubuntu or install ubuntu, no matter which i select i just get a black screen.  anybody know a work around?

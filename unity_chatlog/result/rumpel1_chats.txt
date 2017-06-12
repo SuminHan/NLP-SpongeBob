@@ -1,2 +1,0 @@
- vooze, apt-get upgrade
- researcher123, best way: put it on a usb-stick, boot from it, install from it with formatting /

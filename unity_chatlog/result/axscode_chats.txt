@@ -1,2 +1,0 @@
- ubuntu+1 requires invitation, anyways, guys i cant find  System->Preferences->Sound->System Beep.
- i tried echo -e " \a" seems not working also..

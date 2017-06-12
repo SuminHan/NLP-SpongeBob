@@ -1,9 +1,0 @@
- hi
- hi where can i install a plugin for gedit? ...what is the location?
- txomon, also for kubuntu?
- i want to install this plugin: http://sourceforge.net/projects/gedit-fileset/
- txomon, there is no gnome2 here!
- txomon, there is not gedit in home!
- txomon, what about /usr/lib/gedit-2/plugins ?
- i dont see it
- how can u display hidden files?

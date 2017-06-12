@@ -1,2 +1,0 @@
- Hey guys
- I just installed Ubuntu 11.04 and I'm wondering how to set my DNS servers. I've tried setting servers in /etc/resolv.conf but it doesn't appear to have any effect. Where are DNS server settings stored now?

@@ -1,4 +1,0 @@
- Hello
- Can anyone paste their /usr/share/python-apt/templates/Ubuntu.info for ubuntu 10.10 to pastebin?
- I bumped into this error: https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/364092
- And, it seems like the problem is in /usr/share/python-apt/templates/Ubuntu.info

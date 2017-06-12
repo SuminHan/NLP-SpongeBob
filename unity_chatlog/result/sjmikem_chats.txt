@@ -1,4 +1,0 @@
- Why don't I have update-rc.d on my ubuntu installation?
- ubuntu 13 to be specific
- Flannel: oh duh
- thx

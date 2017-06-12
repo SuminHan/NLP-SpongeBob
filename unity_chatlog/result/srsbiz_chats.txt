@@ -1,4 +1,0 @@
- Hey, is 11.04 released yet? update-notifier doesn't report 11.04 is available, only 10.10. :-/
- Do I have to update to 10.10 frist?
- Pici: is 11.04 LTS btw? I was kind-of confused by teh lack of "LTS" on the download site
- Oh my gawd. Nevermind me. Not upgrading lol.

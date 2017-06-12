@@ -1,2 +1,0 @@
- hi
- if i've changed my ubuntu one password, how do i change it on my desktop? i can't seem to find a way to logout in the preferences.

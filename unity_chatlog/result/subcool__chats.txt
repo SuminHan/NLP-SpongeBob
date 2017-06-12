@@ -1,1 +1,0 @@
- can someone help me with y /usr/bin/x11vnc -forever -rfbport 5900 -rfbauth ~/.vnc/x11vnc.pass -o ~/.vnc/x11vnc.log -loopbg -display :0 creates a loop

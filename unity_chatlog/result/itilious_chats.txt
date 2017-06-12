@@ -1,6 +1,0 @@
- why does ubuntu 11.04 menu controls disappear when i simply run "emerald --replace"?
- i'm doing exactly what i did with 10.04 and with 11.04 the menu controls/title/etc just go away, why?
- is 11.04 ubuntu desktop too "new" for emerald themes/manager to work with it?
- bazhang, is there an alternative?
- why is it that it seems every "upgrade" is usually a downgrade in features with ubuntu?
- less features, less customability, less etc etc etc

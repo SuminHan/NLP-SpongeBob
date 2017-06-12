@@ -1,5 +1,0 @@
- hey guys I was wondering if you can recommend any desktop recorder that works well with 11.04?
- quit just gone
- quit leaveing
- Hi guys, I'm trying to "compile" my manpage with nroff, but because it's a project between my friend and I, we write in danish. The problem is that it does not like char's like æøå
- kneaux: Oh, I didn't know there was no such channel ;) thanks

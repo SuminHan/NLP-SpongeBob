@@ -1,3 +1,0 @@
- hello
- does someone know a dyndns client for ubuntu on command line ?
- THANK YOU :)

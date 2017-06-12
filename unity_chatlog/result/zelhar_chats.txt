@@ -1,3 +1,0 @@
- Hello. I started an upgrade and it is now on the "getting new package" stage. Is it safe to cancel the upgrade because the download speed is too slow and I want to find a better server ?
- I see
- well then I guess I am gonna try this

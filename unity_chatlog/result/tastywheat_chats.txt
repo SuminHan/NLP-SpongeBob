@@ -1,5 +1,0 @@
- Hi, I've recently upgraded to 11.04  - my problem is that the panel images in the theme aren't scaling/rotating properly and I can't seem to figure out where to tell it to do so any suggestions?
- apparently i'm still using gnome-panel in 11.04 because I upgrade?  How do i switch to unity?
- thanks i'll try that
- hmm, that didn't change it...still running gnome-panel and not unity =/
- so am i damned to be ugly UI unless i use plain color or 24pixel panels?

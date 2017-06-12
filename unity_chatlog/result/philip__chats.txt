@@ -1,2 +1,0 @@
- tips on how to debug ubuntu 11.04 install on mac? ubuntu cd starts to load, shows a little man/keyboard (i think) at bottom of screen for a moment, then shows a prompt (to left) and stays
- all tips for installing ubuntu on intel macs welcome, or how to debug a stuck prompt issue during ubuntu cd load

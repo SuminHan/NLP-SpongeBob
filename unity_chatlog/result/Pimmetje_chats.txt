@@ -1,1 +1,0 @@
- Hi all, I am having a question about dualscreen & Displayport on intel hd graphics, i have dualboot (11.04) on windows both screens work fine. On ubuntu one screen has all colors messed (more green & red). I used PowerStrip to get the settings for xrand but no luck. Maybe anyone here can help me?

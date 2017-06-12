@@ -1,9 +1,0 @@
- howdy
- i just installed libapache2-mod-suphp on 10.04LTS server, removed the symlinks at /etc/apache2/mods-enabled/php5.conf and php5.load, created two for suphp.conf and suphp.load, and edited them to add support in userdirs. but i see that there's a section that turns off SuPHP for /usr/share ...which means my phpmyadmin installation doesn't work. but enabling php5.conf/load doesn't fix it, and...
- ...it breaks the suphp stuff. can anybody explain to me how this is supposed to work?
- also, in /etc/suphp/suphp.conf i have docroot=/var/www:${HOME}/public_html ...but the userdirs don't work unless i also put check_vhost_docroot=false ...shouldn't that :${HOME}/public_html bit make the userdirs work?
- Lovre: if it's a real hardware raid, ubuntu will just see it as a single scsi disk. if it's fakeraid, hilarity ensues...
- Lovre: you know what chipset etc. it is?
- Lovre: i mean, obviously you have to have a driver for the chipset, regardless of whether it's raid. but that's not an issue. the question is whether it's one of these "fakeraid" controllers that rely on their fancy (windows) driver to use the CPU/memory to make raid happen. that's wholly different from a real hardware card, which does all the raid stuff on its own and just presents the os...
- ...with one volume
- Lovre: if you have a fakeraid controller you might as well just use Linux software raid instead. but if you have a hardware controller you can just set it up however you want and linux will just see the volumes automagically

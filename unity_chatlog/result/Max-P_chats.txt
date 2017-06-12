@@ -1,1 +1,0 @@
- Hi, does anyone know how to grow a partition directly in the partition table? A resize on my ext4 partition failed, the superblock says a size, but the partition is a block smaller in the MBR. Ideas? Thanks

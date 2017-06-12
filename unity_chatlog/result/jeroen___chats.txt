@@ -1,3 +1,0 @@
- hi
- hi i upgraded my ubuntu to 11.04 but now i can ownley see my background
- has anyone got a clue why my menu's stoped working in ubuntu 11.04

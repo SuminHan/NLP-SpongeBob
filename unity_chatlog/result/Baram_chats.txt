@@ -1,4 +1,0 @@
- I just updated (10.04 64bit) after being gone for a while (175 updates) and I know a new version of both firefox and chrome were in there, now I cannot type Korean in either (but can in all other programs)
- I just updated (10.04 64bit) after being gone for a while (175 updates) and I know a new version of both firefox and chrome were in there, now I cannot type Korean in either (but can in all other programs)
- so... can anyone help me figure out why after an update both firefox and chrome refused to allow me to type in Korea?
- I just updated (10.04 64bit) after being gone for a while (175 updates) and I know a new version of both firefox and chrome were in there, now I cannot type Korean in either (but can in all other programs)

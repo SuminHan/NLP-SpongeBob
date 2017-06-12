@@ -1,3 +1,0 @@
- josefrichter: may be your virtual HDD size is too small for that
- does anyone know if this will work for dual boot disks?  http://e4rat.sourceforge.net/
- does anyone know if this will work for dual boot disks?  http://e4rat.sourceforge.net/

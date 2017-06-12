@@ -1,4 +1,0 @@
- hi. i cannot download the latest release. link i get appears to be broken
- http://mirror-cybernet.lums.edu.pk/pub/ubuntu-releases//natty/ubuntu-11.04-desktop-amd64.iso
- is there any other mirror i can try?
- can anyone give me a working link to download 64bit 11.04 ? the only link i get from my location is broken..

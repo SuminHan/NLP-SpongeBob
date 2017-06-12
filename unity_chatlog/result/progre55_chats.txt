@@ -1,7 +1,0 @@
- hi guys. just upgraded to natty, but cannot install the flashplugin. getting this "flashplugin-installer depends on nspluginwrapper (>= 0.9.91.4-2ubuntu1); however: Package nspluginwrapper is not configured yet." any suggestions please?
- hey guys. A friend has installed ubuntu using the windows installed (wubi, or what was that) and now I'm about to install him natty from a disc. But I dont see the ubuntu partition. How do I delete/uninstall/remove the previous installation?
- installer*
- maco: so how do I remove it?
- maco: oh I see, so is that okay if I just delete it?
- swell
- maco: thanks

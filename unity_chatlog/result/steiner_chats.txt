@@ -1,1 +1,0 @@
- how can i run nethack falconseye with out wine?

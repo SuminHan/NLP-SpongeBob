@@ -1,3 +1,0 @@
- i have ati5650 and after installing the driver i cant run unity
- [snake] u should change it from the keybord settings from prefrences
- ATI 5650 card , after installation if the driver still cant function the catalyst utility

@@ -1,5 +1,0 @@
- Hi! How can I limit network traffic for an interface for all processess? Some CLI app would be the best. :)
- sine_: and lspci, lsusb, lshw
- jMCg: it's called unity and you can still switch to the classic way of using it. Just choose it in login screen. ;)
- jMCg: ok, do you see the title bar on windows?
- jMCg: maybe window manager/decorator screwed something up. Try compiz --replace or metacity --replace.

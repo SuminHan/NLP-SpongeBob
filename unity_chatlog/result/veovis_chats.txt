@@ -1,2 +1,0 @@
- In 11.04, when you click on the sound icon in the system tray, and you see album art and song info, as well as controls, is there a way to add ratings, say, under the controls?
- In 11.04, when you click on the sound icon in the system tray, and you see album art and song info, as well as controls, is there a way to add ratings, say, under the controls?

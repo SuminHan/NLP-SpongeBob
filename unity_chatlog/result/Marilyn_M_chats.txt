@@ -1,4 +1,0 @@
- hi all
- I need help with configuration of two monitors - I have newest Ubuntu and NVIDIA GPU (drivers installed) - I have to monitors, they are wirking, but... second monitor is in, lets say, horizontal mode, is there an option in setting to turn it 90 degrees?
- *vertical I meant
- In TwinView, can I rotate only one monitor by 90 degrees?

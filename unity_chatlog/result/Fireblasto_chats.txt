@@ -1,7 +1,0 @@
- Hi, I've recently upgraded to ubuntu 11.04 on my netbook, and I am liking the new user interface, especially on my smaller screen. However, is there any way of changing the panel's position at the top to the bottom?
- Hi, I've recently upgraded to ubuntu 11.04 on my netbook, and I am liking the new user interface, especially on my smaller screen. However, is there any way of changing the panel's position at the top to the bottom?
- LAcan, I've tried the original method of how you would sort the panel positions, but when I right click the panel, there is no menu popping up. I'm using the new unity interface.
- cheapie, well that just sucks then, I'm really digging the new interface but certain aspects are really letting me down.
- cheapie, yeah, hopefully it will be made better!
- doc-saintly, the normal keys used are the up and down arrows? Just like windows.
- doc-saintly :) If you are using a IRC client though, the up and down arrows actually select the lines that you already posted. Additionally, you can use the page up and page down keys for greater distances

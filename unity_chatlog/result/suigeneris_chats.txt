@@ -1,9 +1,0 @@
- hellp
- hello*
- I've upgraded to natty, and I'm getting grub rescue> now. one guid on the web says to sudo grub after booting off live cd, but I've got no such command
- guide*
- help?
- I've upgraded to natty, and I'm getting grub rescue> now. one guide on the web says to sudo grub after booting off live cd, but I've got no such command
- I've upgraded to natty, and I'm getting grub rescue> now. one guide on the web says to sudo grub after booting off live cd, but I've got no such command
- Jordan_U: sorry, just saw it
- !grub2

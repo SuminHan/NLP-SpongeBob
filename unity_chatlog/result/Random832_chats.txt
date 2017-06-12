@@ -1,8 +1,0 @@
- kwtm: how do you propose it should manage that?
- you know...
- it would be interesting to have a distribution designed to live in a chroot
- kwtm: that would be a ridiculous waste of space
- although...
- why hasn't anyone (or has anyone) made a variable-size filesystem
- you could implement it with sparse files, or simply with aggressive defragmentation
- [er, the former in a loopback device on top of a traditional filesystem, obviously]

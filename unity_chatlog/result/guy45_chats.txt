@@ -1,4 +1,0 @@
- is there anyway i can find out the type of encryption i used when i installed ubuntu?
- Device /dev/sda1 is not a valid LUKS device.
- how can i know what kind of encryption my partition has?
- how can i find out the type of encryption my hd has ?

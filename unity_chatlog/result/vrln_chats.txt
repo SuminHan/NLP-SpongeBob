@@ -1,6 +1,0 @@
- how can I install KDE on Ubuntu 11.04? the old kde-desktop meta package seems to be removed now
- aeon-ltd, thanks! I was browsing with software center and it turns out the package is not shown there - worked fine with apt-cache show kde-desktop
- one last question though, if I install the kde-desktop meta-package, will it override the current boot and start animations/login manager?
- at least when I tried the beta it replaced all those
- how can I add a gdm session? GDM in Natty does not do anything even if I add a new file to /usr/share/xsessions
- I have a .desktop file there, but nothing happens

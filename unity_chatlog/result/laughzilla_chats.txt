@@ -1,7 +1,0 @@
- anyone using ubuntu 11.x ?
- sudipta - i just upgraded to it yesterday and i can't seem to mount my data drive (separate physical drive from my os drive).
- sudipta - my data drive is not partitioned, according to Disk Utility
- sudipta - is it possible to create a partition on a disk that already has data on it, without losing that data?
- sudipta - so i thought. that's frustrating.  how come ubuntu 11.x can't mount an unpartitioned disk, but ubuntu 10.10 could?
- sudipta - yes i checked /etc/fstab and sure enough my data drive is not listed in there.
- sudipta yes i figured that ... now i am looking for example syntax of what i should put.

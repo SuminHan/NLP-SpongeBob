@@ -1,7 +1,0 @@
- great... I let ubuntu upgrade, and now bluetooth is nuts. The bluetooth icon says it's enabled, but when I click on preferences, it says it's disabled, and there's a large button "turn bluetooth on" that does nothing. The computer makes some kind of high-pitched noise too. :/
- Trouble is, I'm still fairly new to linux/ubuntu/all of this, so the mouse not working is a problem
- Is there some way to disable common ACPI power saving features for ethernet and bluetooth?
- When I start a program that should have a GUI, and no window appears... what change to 11.4 might cause this? I started it with a shell script, just ./bin/64/program in there... it's now running but invisible -_-
- Okay, I have no idea what I'm doing and a work-critical machine is pretty much failing, is there a clean way to downgrade, aka revert the update to 11.4?
- Does anyone here know whether I can "disable Compiz desktop effects" in ubuntu, and what that means?
- Barridus: apparently I would also like to disable compiz, although I don't even know what it is. Someone told me this might be a workaround for certain windows disappearing

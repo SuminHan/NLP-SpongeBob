@@ -1,6 +1,0 @@
- uhh crap
- I think I might have deleted my trash
- like, the trash "folder" itself
- I did "sudo rm -r /home/userID/.local/share/Trash/"
- >_<
- ello?

@@ -1,5 +1,0 @@
- Hi, does anybody know how to change output frequency in Ubuntu? My card is capable of 24bit 192kHz but I don't know where to set this
- LjL: ok
- LjL: Recording WAVE 'test.wav' : Signed 16 bit Little Endian, Rate 192000 Hz, Stereo
- LjL: but only on 16 bit, no?
- LjL: ok, thanks for that info, be well good man (or woman lol)

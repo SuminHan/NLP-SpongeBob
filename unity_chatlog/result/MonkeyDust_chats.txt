@@ -1,5 +1,0 @@
- hi, in gnome, i used Alltray, to put apps in the systray -- is this possible in unity and how? hints & tips?
- junco: you're free to use gnome (Ubuntu Classic)
- junco: you're not the only person who dislikes Unity, I don't like it either, so I don't use it
- !hi
- guys, about ubuntu cloud, how can i delete files without deleting them from my hard disk?

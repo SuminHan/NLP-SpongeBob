@@ -1,4 +1,0 @@
- Upgraded from 10.04 to 10.10, 2 display machine, about 2 days after upgarde i log into machine and 2nd display retains the login screen wallpaper with no menu bars. I can move the mouse into that screen but cant do anything (right click doesnt work either)
- other profiles can see the 2nd screen fine
- starZ right click and add more rows
- 2nd display wont work properly on one of my login accounts, where should i start looking?

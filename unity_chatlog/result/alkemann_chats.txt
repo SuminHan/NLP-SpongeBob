@@ -1,9 +1,0 @@
- this new integrated launcher in natty. is there a known problem where it is laggy? after typing a character, it freezes for a few seconds before responding
- ultrax: as in remove everything?
- BlouBlou: you must be talking about something completely different
- i have an updated beta of natty, is there any difference in reinstalling the release?
- does anyone have any tips to fix the new natty search/launcher when it is very laggy (at start, after first character, it takes noticibly long to show first results)
- https://bugs.launchpad.net/ubuntu/+source/php5/+bug/774452   - is this fix available?
- BOBBY_: su means super user and do means to do. sudo means do as super user
- how do i get something when pecl doesnt work on natty?
- how do i get the recent pecl fix?

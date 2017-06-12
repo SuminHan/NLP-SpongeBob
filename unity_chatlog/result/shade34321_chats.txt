@@ -1,1 +1,0 @@
- Hey! After upgrading to 11.04 last night my wireless doesn't seem to be working/reconized.

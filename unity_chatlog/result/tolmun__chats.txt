@@ -1,5 +1,0 @@
- gstreamer-properties
- Its make webcam work gstreamer-properties
- Howto correctly setup 256 colors inside screen termina?
- firefox 4 is not listed after sudo add-apt-repository ppa:mozillateam/firefox-stable
- funny with ascii-art aquarium =)

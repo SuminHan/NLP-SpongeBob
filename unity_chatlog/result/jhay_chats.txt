@@ -1,3 +1,0 @@
- Anyone else who sees their Global Menu/Status Menu freeze every once in a while?
- Like right now, I can't access the Banshee, Calendar, etc it's frozen
- Anyone else experiencing the Applications menu freezing up every once in a while?

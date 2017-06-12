@@ -1,2 +1,0 @@
- Hey all
- I'm having a problem starting up eclipse in ubuntu 10.04. It worked fine for months until yesterday. Today when i launch it i get this window http://img863.imageshack.us/img863/2776/screenshotuvb.png . I will also not get any additional info when i try to launch it from terminal. I already tried reinstalling it but ... well.. it's ubuntu.. not windows :P Can anyone tell me how could i possibly solve this issue please ?

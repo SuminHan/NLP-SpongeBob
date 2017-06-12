@@ -1,4 +1,0 @@
- Hey @ll
- what's the recommended way to install TOR + proxy (privoxy, for example) on ubuntu 11.04?
- I found several ways, but those dated back to 2006 etc. ...
- ah ok, thank you very much

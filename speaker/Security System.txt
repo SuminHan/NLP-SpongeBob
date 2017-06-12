@@ -1,4 +1,0 @@
-System Activated.
-No threat detected.
-Threat detected.
-Threat detected. Code red! Code red!

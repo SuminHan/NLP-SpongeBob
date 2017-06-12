@@ -1,9 +1,0 @@
- sexygurl2furl: did it ever work?
- anyone installed ubuntu on emachines netbook with 1bm ram?
- PresuntoRJ: yes
- PresuntoRJ: i think memory should be ok. but would wireless work out of the box?
- PresuntoRJ: 160gb
- PresuntoRJ: not yet. but it's a friend's computer. i'll wipe windows and put ubuntu. i don't want to be embarrassed if let's say wifi won't work.
- http://pastebin.ca/2052500 this computer's wireless doesn't work. is it something fixable?
- my wireless doesn't work...
- if nobody in kubuntu room answers, can i ask my kubuntu questions here?

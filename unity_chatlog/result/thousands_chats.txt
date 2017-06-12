@@ -1,5 +1,0 @@
- I'm trying to use webcamstudio in ubuntu 11.04. It worked find in 10.10 and 10.04. But I can't get it working in 11.04. I think this might be important "Exception in thread "main" java.lang.UnsatisfiedLinkError: Unable to load library 'glib-2.0': libglib-2.0.so: cannot open shared object file: No such file or directory". Does anyone have any ideas?
- nope keithtoo. That didn't help. I still get the same message =(
- Err, I don't think so. So I just did an install of it, but it says it's already installed. Like it said the first thing was already installed. And webcamstudio still gives the same message and refuses to start
- I'm not great at this, so i'm not 100% sure if you mean this. But I found libglib-2.0.so.0 in /lib64/x86_64-linux-gnu  and also in /lib32  but they're both links to libglib-2.0.so.0.2800.6
- =\ well thanks for trying to help. I guess I'll have to ask elsewhere

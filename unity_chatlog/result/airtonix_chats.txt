@@ -1,6 +1,0 @@
- I'm looking for a terminal like tilda that lets me split the window like terminator does.
- !ask | nomicos
- etc
- :>
- !troll | Ady^
- hoho

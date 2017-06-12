@@ -1,2 +1,0 @@
- *nix
- irc.whatnet.org

@@ -1,1 +1,0 @@
- hello, is there a way to disable gpg checks for apt-get?

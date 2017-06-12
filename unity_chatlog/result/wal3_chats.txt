@@ -1,2 +1,0 @@
- where is the difference between: initrd.img-2.6.38-8-generic-pae and without pae?
- ThinkT510: ah ok. but the pae version does not boot thus i have 4gb

@@ -1,2 +1,0 @@
- teamviewer also requires you to be able to see the display you plan to connect to
- was not aware of that, or i guess i was under the impression that was a "premium" service

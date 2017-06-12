@@ -1,7 +1,0 @@
- I want to make a launcher on OpenSUSE (I know, but nobody will help me on their channel), I want to make a launcher that will launch a jar application (Minecraft to be specific) and I made the launcher browsed for the jar file and made it, but when a double click on it, it does nothing O_O Can anyone please help?
- xangua, I know I fact I am just experimenting with different distros right now, I have always used Ubuntu, but 11.04 seemed to slow my computer down greatly :(
- When I upgraded to 11.04 my computer was slowed down quite a bit compared to when I used 10.10. Is there any fix for this?
- passthru, both of them :(
- passthru, my specs are nothing to look at though
- passthru, actually I think I might know why I had problems with it, was it because when the install was downloading and I had to skip some files? My internet went down
- passthru, not sure if you know but on the Ubuntu home page the image shows when the thing in the top right corner is clicked, on my install the little thing covered up the whole screen, but on the picture it is minimized

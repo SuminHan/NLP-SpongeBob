@@ -1,8 +1,0 @@
- is it possible to share a DVD burner over the network, so it can be used directly from a netbook without one?
- both using ubuntu
- is it possible to share a DVD burner over the network, so it can be used directly from a netbook without one?
- anyone know of a way to do this (http://www.paragon-software.com/business/net-burner/) in linux?
- Ivan96485, why would you want to?
- Ivan96485, if he closed the software he was using its gone
- I dont think any of those work if you have never saved the doc, am i wrong?
- well, then Ivan96485 that would be his best bet

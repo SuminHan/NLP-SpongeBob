@@ -1,4 +1,0 @@
- hello everyone
- i have a quick question. I installed ubuntu desktop edition on my laptop and am curious if its worth it to switch it to the netbook edition
- i have desktop edition installed on my laptop. Are there significant difference between netbook edition and desktop edition that it would be worth it for me to change over?
- is there another ubuntu help channel??

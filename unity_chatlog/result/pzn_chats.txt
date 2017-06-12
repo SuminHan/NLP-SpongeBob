@@ -1,3 +1,0 @@
- when will finish the support for server-10.04lts security updates?
- upgraded from 10.10 to 11.04. how can I use old gnome interface/taskbar? any configuration option?
- eoke, riktking: now using gnome again :-) thanks

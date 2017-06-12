@@ -1,7 +1,0 @@
- #ubuntu
- help
- :help
- thanks umex
- JOIN #ubuntu
- USERLIST
- userlist

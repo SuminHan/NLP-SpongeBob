@@ -1,2 +1,0 @@
- can someone help me with my AWK syntax?  dpkg -l |  awk print $1
- escott, perfect thanks

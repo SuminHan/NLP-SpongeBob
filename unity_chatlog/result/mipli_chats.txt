@@ -1,1 +1,0 @@
- i am having some trouble with a new install of 11.04. For some reason the system switches to an old metactiy like theme after I have been logged in for a minute or two. Anyone know what might cause this, or where I can start debugging the problem?

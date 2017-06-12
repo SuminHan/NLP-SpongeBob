@@ -1,9 +1,0 @@
- okay I have some kind of wireless issue. I cannot optain an ip from my router if I use wicd. if I use the network-manager no wireless networks show up. iwlist lists the wireless networks nonetheless.
- and wicd does too
- is there away to see the communication between my wlan card and the router?
- then I'd need network connection first I guess
- well ntop only works with established network connection but I don't get there with my wlan thats why I need a monitor that showes me why I don't get a connection
- anyone else having problems with broadcom wireless and ubuntu 11.04?
- well there aren't many updates on release day :P
- I did but there aren't any updates
- I have the STA drivers enabled riktking

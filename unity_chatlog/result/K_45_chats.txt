@@ -1,7 +1,0 @@
- horse_play - by tomorrow
- horse_play - timezone differences and the serves need to be updated
- @ DirtyDawg, eventually
- @ smv - legacy needs to go
- Zaviour - http://ubuntuforums.org/showthread.php?t=1588547
- @ phoque_uni - Switch to Debian
- @ phoque_uni - nothing like a stable netinst

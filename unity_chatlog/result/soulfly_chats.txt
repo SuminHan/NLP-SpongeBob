@@ -1,2 +1,0 @@
- how do i upgrade from beta 2 ?
- I"m trying to update from beta 2 with update manager but says no updates

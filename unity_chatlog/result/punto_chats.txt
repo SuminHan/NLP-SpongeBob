@@ -1,1 +1,0 @@
- hi.. I'm mounting a remote nfs export, but the files on the remote machine belong to uuid 501 and I want to modify them with uuid 1000. can I remap the uuid when I mount? (am I expected to have the same /etc/passwd on both machies?)

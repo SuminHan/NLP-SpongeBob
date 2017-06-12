@@ -1,1 +1,0 @@
- deadkeys got enabled after natty upgrade, how do I disable it?

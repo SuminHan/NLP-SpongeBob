@@ -1,1 +1,0 @@
- hi guys, does anyone know how to increase drive size by decreasing another dirve's size?

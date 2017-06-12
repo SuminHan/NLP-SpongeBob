@@ -1,1 +1,0 @@
- i just installed a clean version of 11.04 on my laptop, when i boot the system a black screen comes up and the cursor blinks, nothing else happens. is there some crap i can hack in /boot/grub/grub.cfg?

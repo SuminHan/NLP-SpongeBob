@@ -1,4 +1,0 @@
- is there anyway to create a tmp file that resides in memory only?
- is there anyway to create a tmp file that resides in memory only? without having to have a tmpfs mounted somewhere
- ActionParsnip: /tmp isn't required to be mounted as tmpfs though
- ActionParsnip: yes, i know that.  I would like to create a memory resident file that isn't in a tmpfs mount

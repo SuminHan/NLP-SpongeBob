@@ -1,3 +1,0 @@
- Is there a bug with 11.04/Unity/Nvidia 270 with using a second monitor as a separate x screen?
- Twinview works but the other fails
- easiest way to restart x?

@@ -1,2 +1,0 @@
- please help... need wifi drivers for acer aspire 5000 on ubuntu 11.04 look at http://paste.ubuntu.com/600975
- Hello, how do I get wireless drivers for natty on acer aspire 5000 laptop I have tried the following: http://paste.ubuntu.com/600975

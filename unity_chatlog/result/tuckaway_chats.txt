@@ -1,6 +1,0 @@
- hi everyone... can anyone suggest a walkthrough or guide to help take necessary steps to secure my ubuntu install.  Just want to make sure I am making my install the most secure I can make it..
- Histo -> yes just the default install.. i have been running ubuntu for about 18 months now and i need to learn how to secure my desktop
- just want to make sure i am not leaving anything open on the machine by default.... file sharing, ssh, things of that nature...
- alright maybe i am looking to much into this...
- just 2 years into linux and learning
-  thanks smw

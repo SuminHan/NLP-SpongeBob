@@ -1,2 +1,0 @@
- What command line tool can I use for expanding my main boot partition?
- k thanks

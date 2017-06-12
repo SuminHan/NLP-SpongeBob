@@ -1,2 +1,0 @@
- Hey, if you had ubuntu 11.04 beta, do you have to do any upgrades for the official release of ubuntu 11.04?
- Okay, thanks. Is there a way to check for a "beta" label in the OS somewhere to see if I'm still marked as beta?

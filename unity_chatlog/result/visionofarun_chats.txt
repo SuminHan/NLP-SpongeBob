@@ -1,6 +1,0 @@
- Hi, I am trying to build 32 bit C++ app on my 64 Ubuntu. I get the following error
- /usr/bin/ld: skipping incompatible /usr/lib/gcc/x86_64-linux-gnu/4.4.5/libstdc++.so when searching for -lstdc++
- Anyone?
- Hello, can someone please help me in building a sample 32 bit c++ app on 64 bit Unbuntu?
- had to install g++multilib package
- thanks to apt-cache

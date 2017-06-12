@@ -1,2 +1,0 @@
- !update
- Is b2 the same as "stable" ?

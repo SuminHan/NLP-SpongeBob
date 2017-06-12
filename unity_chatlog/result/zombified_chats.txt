@@ -1,3 +1,0 @@
- hello all
- anyone here know how to install .exe files on backtrack4?
- lol ok

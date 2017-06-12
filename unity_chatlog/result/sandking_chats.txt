@@ -1,2 +1,0 @@
- hi
- am i the only one that thinks Unity slows down netbooks (or low resource machines)?

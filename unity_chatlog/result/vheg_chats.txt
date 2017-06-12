@@ -1,2 +1,0 @@
- good evening - can i get help here? My system dosn't have a boot menue after update to 11.04
- no one that can help me? If i boot my system, the screen shows: "out of screen" ??

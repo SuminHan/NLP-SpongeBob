@@ -1,8 +1,0 @@
- lol
- ManDay: iso can be found on http://releases.ubuntu.com/natty/ . but Im still waiting for official announcement.
- kaatta, if you have gedit you can try "sudo gedit /etc/apt/sources.list"
- guest345345: oh..damn. sry youre right gksudo
- kaatta, "gksudo gedit /etc/apt/sources.list" should work, sry my bad. you must run it in terminal. press CTRL+ALT+T and type that command there. gedit will open, you edit that file and save changes. than you can close terminal and gedit
- karlo: yes, but still nothing...
- kaatta: np
- Hey guys do you know if unity 2D will be avaible in 11.04 ?

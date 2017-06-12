@@ -1,3 +1,0 @@
- hi all, I'm having a power issue. i've got ubuntu installed on an Asus G71X, and everytime I unplug it, ubuntu locks up. It works fine under windows so i'm guessing it's not a hardware issue. Any ideas for what I should try?
- Hi all, I have a quick network question, I've got a wireless connection that I use for internet and an ethernet connection that I have connected to another router for an ftp server. Problem is, i can only connect to one at a time because all my traffic gets defaulted to the ethernet connection, which doesn't lead anywhere. Is there a way to bind certain applications to a specific network connection?
- thanks for the help guys, networks been kinda spotty, have any idea on a good guide for manually setting the network preferences?

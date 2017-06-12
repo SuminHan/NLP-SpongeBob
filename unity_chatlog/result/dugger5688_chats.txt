@@ -1,3 +1,0 @@
- KMFrog: Update to Vbox 4.x (from the oracle .deb) and install virtualbox-ose-X11 (inside the guest OS)
- KMFrog: Glad to hear it, have fun!
- more people need to go the cd-upgrade route. :-( running package updates is painful right now.

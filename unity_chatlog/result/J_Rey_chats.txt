@@ -1,9 +1,0 @@
- *sigh*
- so I found https://help.ubuntu.com/10.10/installation-guide/i386/graphical.html but its not too helpful
- I'm trying to install 10.10 from LiveCD but after clicking Install Ubuntu I get an unrecoverable error
- it opens a desktop session then after that
- so would it be recommended to install from CLI or try the Graphical Installer again?
- sushemsu: if its binary then likely no where you'd have to download & install later
- kopeG: see https://help.ubuntu.com/11.04/installation-guide/index.html
- ok blah blah blah
- I'll figure it another day

@@ -1,8 +1,0 @@
- hello
- hi damno
- i have a strange problem...
- i'm tring to stop php-fpm with /etc/init.d/php5-fpm stop
- but i always see the processes doing ps aux
- could someone help me?
- hey guys, i'm using lighttpd and i have many IP address on my server. How could i set an ip address for a website? (virtual hosting)
- ?

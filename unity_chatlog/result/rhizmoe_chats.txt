@@ -1,8 +1,0 @@
- is there a way to sync the file tree to the current file in gedit?
- "show me where this is"
- koshie: of course it can. that's what the md5 is for
- is there an xterm replacement that uses tabs? screen is kind of a pain for local stuff.
- ok, gnome-terminal has tabs. silly me.
- i'm still a bit flabbergasted that traceroute isn't installed by default
- jasonmchristos: it's basic symmetric
- jasonmchristos: http://en.wikipedia.org/wiki/ZIP_%28file_format%29#Strong_encryption_controversy

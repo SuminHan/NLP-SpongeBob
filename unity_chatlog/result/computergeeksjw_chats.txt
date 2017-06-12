@@ -1,9 +1,0 @@
- Just installed ubuntu and booted up fine. I selected the option to install the proprietary driver and selected the new driver (instead of the installed but inactivated driver). After rebooting, the system locks up after login. I can move the cursor but can't click on anything.
- It's an nvdiia card
- Diosjoe: Nvidia
- Anyone else?
- Is there a way to boot up and log in without activating the driver? Is that recovery mode?
- Is there a way to temporarily disable loading of graphics drivers?
- ActionParsnip: how do I add that?
- ActionParsnip: what was the boot option again?
- ActionParsnip: what was the boot option you suggested about module blacklist

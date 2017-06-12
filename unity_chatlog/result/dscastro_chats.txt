@@ -1,3 +1,0 @@
- hi..
- trying do upgrade to 11 i'm getting errors
- Dr_Willis|2, errors about packages

@@ -1,7 +1,0 @@
- hi,
- just a question: when i install ubuntu using windos installer it tells me it wants to install on c: where 210 GB are free. is ubuntu going to create new partition(s) or will it erase c:?
- tjiggi_fo: you mean something like a truecrypt-container?
- tjiggi_fo: nvm, thanks so far :)
- tjiggi_fo: alright. but now i started the installation already
- can i simply quit it?
- tjiggi_fo: i did. thanks for your help, i'll partition now on my own

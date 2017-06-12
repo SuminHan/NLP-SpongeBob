@@ -1,8 +1,0 @@
- I have just installed xmame and gmameui and upon starting it is asking where the mame executables are.  I have no idea where to find them!
- [thor], My problem is I have no idea what the 'mame executable' will be named. What extension?
- [thor], ok, it only brought up an icon file and a file called gmameui.desktop.  Somehow I don't think these are executables
- Ok, another tact....is there an irc channel for gmameui?
- bazhang, thanks, searched and none found.
- Ok, one last try.  Does anyone know how to setup gmameui in Ubuntu?
- what is the irc channel for ubuntu just general discussion?
- I found it, thanks

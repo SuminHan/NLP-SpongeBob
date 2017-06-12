@@ -1,8 +1,0 @@
- isarl, I see the same message in the additional drivers under the system menu
- isarl, none - but you aren't the only one
- isarl, I was going to try removing it, and adding it again
- I upgraded to 11.4 and now my wireless doesn't work on my laptop
- why would my wireless stop working after an upgrade to 11.4?
- halzun, ugh. wish I knew better and waited :(
- Halzen, may I ask why its better to do a fresh install instead of an upgrade?
- halzen, and if its bad to do an upgrade, why did ubuntu prompt me to do one?

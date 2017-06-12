@@ -1,6 +1,0 @@
- ubusammyn150 https://help.ubuntu.com/community/EnablingPAE
- greetings, I have a 10.04 server (headless, no sound card) running web, mail and pbx - I can't get mp3 audio playback to work via the pbx and left wondering:   Do I need a sound card?  Or am I missing something?
- ubusamyn150 thx   and rofl looler
- rww_ doesn't that just mean Stop Trolling Freenet Ubuntu ?
- Freenode rather
- ubusammyn150 https://help.ubuntu.com/community/EnablingPAE

@@ -1,2 +1,0 @@
- hi there, I got a bash snippet running a python script that got stuck<
- the bash script is in the 'do_wait' state after an ethernet shutdown. How could I resume it ?

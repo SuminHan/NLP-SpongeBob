@@ -1,1 +1,0 @@
- Hello every one! I have some Compiz issues related to a (big) memory usage. Anyone had this problem?

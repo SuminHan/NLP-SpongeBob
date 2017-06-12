@@ -1,6 +1,0 @@
- hi, im using totem at the moment and when i try to play a video, it plays but with a message please install codec. Im using feisty atm. any help?
- bazhang: any other alternative if i still use fesity?
- *feisty
- djr013: last of hard disk space :(
- djr013: i tried install the Gstreamer plugin but doesnt help too
- http://linux.about.com/od/ubuntu_doc/a/ubudg6t2.htm

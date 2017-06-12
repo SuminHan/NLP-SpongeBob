@@ -1,5 +1,0 @@
- so what do I do if I have a program that needs the system tray like jupiter?
- does anyone know why when I middle click in firefox4 2-3 tabs come up?
- hi
- anyone having this middle click repeat problem?
- my keyboard doesnt have a windows key. Is it possible to rebind the windows key to another key?

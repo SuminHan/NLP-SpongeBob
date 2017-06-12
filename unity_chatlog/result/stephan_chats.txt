@@ -1,2 +1,0 @@
- hey, i got a question. I removed and installed evolution. Now is my entry in the message applet for all email actions deleted. How can I add this entry again? In Unity, 11.04.
- AG_Scott: This works, thank you very much :)

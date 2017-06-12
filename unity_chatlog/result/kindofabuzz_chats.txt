@@ -1,1 +1,0 @@
- ok knocked myself, the only user, out of the admin group, how can i add myself back when i'm no longer in the sudoers?

@@ -1,4 +1,0 @@
- miceiken: what do you wnat to do with the second drive
- miceiken: do you plan on using it with ubuntu and if so how
- miceiken: "merging" is possible but complicated.  You would have to use LVM or a newer filesystem like btrfs.  If is probably simpleist to format it, and mount it as something like /media/storage
- miceiken: easy way is to use gparted

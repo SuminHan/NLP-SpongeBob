@@ -1,2 +1,0 @@
- On a fresh install of 11.04, Empathy disconnects from Windows Live every hour or so when inactive. Anyone have any idea why that would happen?
- Anyone had issues with Empathy disconnecting from Windows Live Messenger every hour or so?

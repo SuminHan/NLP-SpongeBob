@@ -1,5 +1,0 @@
- syockit, which version of rhythmbox?
- trap22, i use 2.90.1
- trap22, http://www.ubuntuupdates.org/packages/show/305974
- trap22, base is 0.13.3
- trap22, yes, like i said

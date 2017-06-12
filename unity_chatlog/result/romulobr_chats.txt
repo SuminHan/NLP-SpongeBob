@@ -1,5 +1,0 @@
- hi, I was just now upgrading to 11.04 but the installer crashed and there was a message telling me the system may have become unusable... is there something I should do? To prevent the system from not working anymore or anything. I confess I 'm a little bit scared right now.
- I work with java zachgretzinger
- ia there a way to "resume" installation? or something I should do...
- zachgretzinger,  I don't think so man... a jar is nothing but a zip file with a special xml file inside, I don't know what deb's are, but I think they are more than just that.
- wish me luck... i will try to restart the system

@@ -1,4 +1,0 @@
- I'm getting an error when trying to install openssl in karmic
- Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/o/openssl/openssl_0.9.8g-16ubuntu3.1_amd64.deb  404  Not Found [IP: 91.189.92.166 80]
- here's the whole error output: http://pastie.org/1850658
- nm, just needed to do an apt-get update...

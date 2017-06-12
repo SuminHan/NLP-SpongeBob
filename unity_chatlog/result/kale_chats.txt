@@ -1,2 +1,0 @@
- i have circular dependencies, how do i solve those?
- i am running lucid and want to do a dist upgrade

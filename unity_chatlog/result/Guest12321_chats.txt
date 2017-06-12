@@ -1,3 +1,0 @@
- Hey, major problem. I think my upgrade to 11.04 was interrupted, and now ubuntu won't mount any of my file systems (says "disk drive for / is not ready, press S to skip, etc). A good sign however is that I can still see all my files from a liveUSB, so I know they still exist. Can anyone help me?
- HyperShock: Well, I waited a while, but nothing happened. I might wait longer and see
- HyperShock: How long did you wait before it worked?

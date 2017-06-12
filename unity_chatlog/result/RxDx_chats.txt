@@ -1,9 +1,0 @@
- is there any "netspeed" indicator for Unity?
- cheapie, an applet like net-speed for gnome2
- that shows the network speed on the top
- cheapie, thanks
- is there any applet (like net-speed for gnome2) that shows me my network speed for Unity?
- Captainkrtek, ill try, thanks
- Captainkrtek, speedometer doesnt integrate with Unity =/
- Captainkrtek, np :) but do u know some that does?
- Captainkrtek, i did.. thanks anyway :)

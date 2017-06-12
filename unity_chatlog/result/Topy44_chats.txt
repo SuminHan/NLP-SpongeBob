@@ -1,3 +1,0 @@
- hi, how can i turn off flow control for a serial port for wine? the software i am using in wine doesnt have settings for it
- ok, never mind my flow control problem from before... i have a windows app that uses the serial port which works fine on windows, but in wine it can send but not receive data. sending data works, and other windows apps in wine (like putty for example) work fine too.
- minicom on the same serial port at the same time recieves the data fine, but it somehow never reaches the windows app in wine

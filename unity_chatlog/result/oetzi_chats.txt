@@ -1,5 +1,0 @@
- hi guys
- since yesterday I have problems with gdm login screen, first I thought my keyboard crashed but then i noticed that I have to press each key for 1 or 2 seconds to make them work
- after login everythings ok again
- using 11.04
- wolfreak thank you I will try this

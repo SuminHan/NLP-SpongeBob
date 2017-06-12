@@ -1,2 +1,0 @@
- when i boot up from the live cd and choose "try ubuntu" it just sits there and does nothing, is that a problem with my pc?
- when i boot up from the live cd and choose "try ubuntu" it just sits there and does nothing. any ideas?

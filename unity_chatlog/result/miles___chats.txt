@@ -1,8 +1,0 @@
- So far, most of Natty has been pretty awesome. I've got only one problem now, and I wonder if it's a common one at this point: apt has been very slow.
- Alright, I thought so. Thanks.
- Hm. Even after testing for the best mirror for my location, I'm only getting 20kbps.
- ZykoticK9: I was kinda afraid of that. That's fine though. Can't wait for things to clear up.
- Hello, I'm currently using the New Wave theme in Unity and the top panel has a black text on a black background, unreadable. How to fix this?
- marenostrum, what do you mean by "customize more"?
- marenostrum, that was a nice idea, however it doesn't seem to work either (and the theme has all its default colors)
- marenostrum, Natty, kept my /home partition from 10.04

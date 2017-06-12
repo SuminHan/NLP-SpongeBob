@@ -1,2 +1,0 @@
- CHAOS!
- i can still boot into 10 using grub after installing 11 i assume..?

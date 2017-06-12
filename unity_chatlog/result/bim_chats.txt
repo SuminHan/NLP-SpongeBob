@@ -1,2 +1,0 @@
- hi
- yeah, apt-get -y dist-upgrade is great ;)

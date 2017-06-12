@@ -1,3 +1,0 @@
- Hello, I'm attempting to PXE boot an Ubuntu Live CD (PXE + NFS).  With the boot option "silent" removed, I can see the boot process halt as soon as ALSA is being loaded.
- Has anyone PXE booted an Ubuntu live CD and averted problems with NetworkManager?  https://wiki.ubuntu.com/LiveCDNetboot
- Hello, I'm attempting to PXE boot live CDs for Ubuntu-based distros.  I have PXE (DHCP+TFTP) and NFS working.  Problem arises as NetworkManager changes the interface and disconnects the NFS share (client).  I have not yet been able to get a Fedora live CD to boot as well.

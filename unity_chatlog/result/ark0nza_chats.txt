@@ -1,8 +1,0 @@
- with 11.04, has anyone had issues with wine application windows disappearing when you try resize / move them?
- numbah1hax0r: checkout playonlinux too
- numbah1hax0r:  I use playonlinux to run Steam... HL2, Team Fortress 2, Fallout 3 etc
- numbah1hax0r: Google it mate, or search the software center... basically a collection of preconfigured wine setups for games
- numbah1hax0r: Even got adobe CS54 working on it, np :)
- numbah1hax0r: CS4 even
- is anyone successfully running Unity less zeitgeist?
- codingenesis: Canonical has some home-based international job openings for software engineers... Think its for working on ubuntu

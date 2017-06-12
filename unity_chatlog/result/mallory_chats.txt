@@ -1,1 +1,0 @@
- lucas: ssh username@remotehost

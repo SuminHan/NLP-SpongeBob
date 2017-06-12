@@ -1,1 +1,0 @@
- kalleth2, sudo less /var/log/auth.log

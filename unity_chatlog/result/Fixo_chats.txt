@@ -1,2 +1,0 @@
- on ubuntu 11.04 running on live CD we don't have Unity desktop ??? only GNOME ?
- thanks

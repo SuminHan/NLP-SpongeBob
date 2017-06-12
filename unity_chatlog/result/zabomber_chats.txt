@@ -1,8 +1,0 @@
- hey guys. know this has probably come up alot since unity release... but i have ubuntu 11 installed in Virtual Box..
- unity wont load. comes up with "hardware not availble to run unity" error
- Dr_Willis: im running virtual box on a mac book pro... should i be installing a special a virtual box driver for it?
- Dr_Willis: i've installed the vBox additions... no luck...
- ill check out the help
- ta
- Dr_Willis: well.. the thing is. it came up once and disappeared and now it only loads ubuntu classic even if i select Ubuntu at login...
- will do . thanks

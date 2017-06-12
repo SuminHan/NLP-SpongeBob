@@ -1,5 +1,0 @@
- sigh just restarted my machine after upgrading to 11.04 and the sound has stopped working
- card is detected and volumes are set on alsa, but nadda comes out
- nice, i forced played a wav file with aplay a few times and now my sound is working again...
- dunno how that works but hooray
- jpg: im not running with an install but id assume you change your default session when you log in?

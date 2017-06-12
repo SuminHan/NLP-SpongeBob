@@ -1,1 +1,0 @@
- HI Guys, I get strange outbound connections from unison-gtk, e.g. to 209.85.149.102 (google). Its firestarter displaying me these connections. Can somebody explain what happens?

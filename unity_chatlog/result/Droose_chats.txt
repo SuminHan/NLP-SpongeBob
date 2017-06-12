@@ -1,4 +1,0 @@
- Hello everyone
- I have a question regarding the new unity desktop if someone could provide some help. I really appreciate it
- I want to revert to the old desktop style. I am not a fan of this new launcher system
- @jrib thankyou

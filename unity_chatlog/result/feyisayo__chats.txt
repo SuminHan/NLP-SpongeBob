@@ -1,1 +1,0 @@
- Hey everyone, I running natty and have get installed on it. But I cannot get the kget window to display. Any ideas?

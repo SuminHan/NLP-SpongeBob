@@ -1,2 +1,0 @@
- hi
- is there any gui tool to manage daemons, because bum and ckhconfig don't work with upstart

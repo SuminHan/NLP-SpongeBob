@@ -1,7 +1,0 @@
- ubuntu 11.04 shotwell does nothing when selected to open?
- does anyone know how to get shotwell working in 11.04, does nothing when trying to open
- anyone familier with shotwell
- ubuntu 11.04 shotwell help please
- is there another place i can get help for ubuntu 11.04?
- i am having an issue with trying to start shotwell, does absolutely nothing when trying to open it,
- i need help with shotwell in ubuntu 11.04

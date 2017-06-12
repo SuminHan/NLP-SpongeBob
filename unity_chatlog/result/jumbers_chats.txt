@@ -1,3 +1,0 @@
- Is there a way to point do-release-upgrade at an ISO file? I downloaded the ISO like 14 hours ago before it was on all the mirrors
- hypetech: Well this is on a remote server that I don't have physical access to
- hypetech: Nope, dedicated box. I assume I could just mount the ISO right?

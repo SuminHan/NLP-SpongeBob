@@ -1,6 +1,0 @@
- I am experiencing issues playing DVDs. I installed the plugin, and the video slightly works, but the image doesn't look good and the audio skips. How do I fix this?
- uberfrau: Yes
- uberfrau: I think it may be the hardware
- uberfrau: should I try to clean the lense?
- uberfrau: the video didn't work no matter which movie or OS
- yes

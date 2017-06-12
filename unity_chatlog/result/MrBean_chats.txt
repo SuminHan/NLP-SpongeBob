@@ -1,7 +1,0 @@
- tjiggi_fo: thanks
- Hi all, is it safe to use the gui frontend to APT (synaptic?) and CLI APT mixed?
- tjiggi_fo: thanks
- Hi, the remote desktop option hangs often when I do ubuntu to ubuntu connection, since lucid I think, is it a known bug? the remote vnc crashes.
- unc0nn3ct3d no, I'll try that thanks.
- Hi all, how much disk space do I need to upgrade fom 10.10 to 11.04? with 3GB I couldn't.
- ok thank you, I'll download the iso and reburn it. bye.

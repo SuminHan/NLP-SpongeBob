@@ -1,3 +1,0 @@
- I am running Ubuntu Maverick and I'm about to upgrade to 11.04. When I installed 10.10, I decided to set up a separate partition for my /home directory. Will this present any problems during installation?
- I am running Ubuntu Maverick and I'm about to upgrade to 11.04. When I  installed 10.10, I decided to set up a separate partition for my /home  directory. Will Ubuntu automatically detect my separate /home partition  and use it in Natty?
- thank you tensorpudding, although you didn't highlight me correctly. Thanks for the help.

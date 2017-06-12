@@ -1,2 +1,0 @@
- Is there a program that assembles docs and manpages into a simple gui?
- Is there a quick way to make the XFCE4.8 menu similar to the fluxbox menu, in terms of the multiple sublevels

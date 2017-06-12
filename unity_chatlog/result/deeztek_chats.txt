@@ -1,3 +1,0 @@
- hello all, having an issue with ubuntu 11.04. I just installed it on a dell inspiron 1520 which previously had ubuntu 10.10 and worked fine. Unfortunately, with 11.04 I cannot get the wifi to work. I have ensured that the propritary drivers are loaded and active but still no wifi
- RaveHurst having the same exact issue with a dell inspiron
- problem with wifi 11.04 dell inspriton. Worked fine with 10.04

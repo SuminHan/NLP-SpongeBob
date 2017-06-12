@@ -1,5 +1,0 @@
- my ClamTk is stating that my Antivirus engine is outdated... does anyone know how i can update it?
- would you give me the url for the clamav ppa  please?
- alright will do thanks
- found it
- thanks

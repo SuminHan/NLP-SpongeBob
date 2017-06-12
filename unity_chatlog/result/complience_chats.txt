@@ -1,4 +1,0 @@
- hello
- can the cp command create new folder directories?
- eg: cp file /home/newfolder/
- is that possible?|

@@ -1,2 +1,0 @@
- Hi all. Is there a command to basically purge my system of changes I've made since the fresh install...essentially setting it back to a vanilla state?
- So is apt purge-ppa not a command...because it's not registering as one for me o_O

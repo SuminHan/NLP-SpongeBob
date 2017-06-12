@@ -1,5 +1,0 @@
- Looking for some assistance.  Just installed Ubuntu 11.04 32-bit version.  No errors.  When I restarted I was presented with the Grub2 shell.  Rebooted with the install CD and dropped to a shell on the root partition just installed on.  Removed grub-pc and grub-common.  Then installed grub-pc and grub-common.  Installed Grub without errors.  Rebooted and am still getting the Grub2 shell.  Anyone can help as to why it's not bo
- m0ksha: No I have not I will do that now and report back
- m0ksha: I do not have raid setup.  Just IDE
- Single drive and only ubuntu on it
- m0ksha: This is what the Results are: => Grub 2 is installed in the MBR of /dev/sda and looks on the same drive in      partition #1 for (,msdos1)/boot/grub.

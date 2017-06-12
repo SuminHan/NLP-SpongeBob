@@ -1,6 +1,0 @@
- is there a fix for using an external monitor in 11.04 with nvidia?
- lcb: thanks
- lcb: i tried the monitor config in the default desktop (unity i guess?)
- lcb: i dont use dual i really only use the one monitor, but its on a laptop
- lcb: classic it is (= thanks again for your help
- lcb: ill give it  a shot

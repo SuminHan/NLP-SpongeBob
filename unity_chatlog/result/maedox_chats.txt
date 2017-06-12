@@ -1,4 +1,0 @@
- sighhhh: log out, click you username if applicable, select Ubuntu Classic on the menu and then log in.
- pennnn: Log in with Ubuntu Classic as the session then....
- pennnn: this is ubuntu not ubuntu+1
- pennnn: Adding the Gnome PPA shouldn't be a problem if that's what you're asking

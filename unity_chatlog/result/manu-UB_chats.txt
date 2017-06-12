@@ -1,2 +1,0 @@
- Does anyone knows how to install a correct driver for ubuntu on a fujitsu siemens laptop ?
- anyone could help me with my graphic driver problem?

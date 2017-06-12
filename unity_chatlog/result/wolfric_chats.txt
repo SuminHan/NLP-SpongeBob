@@ -1,3 +1,0 @@
- is there anyway to get drives plugged in to be mouted by root automatically? (like usb sticks, portable hard drives) without using the uuid
- anyone see osama is dead
- celthunder: you may not.

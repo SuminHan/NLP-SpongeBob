@@ -1,5 +1,0 @@
- can someone tell me how to make the ubuntu unity launcher stop hiding when i have a program open?
- botcity: that only has 2 options neither of which stop it from hiding
- can someone tell me why fatrat won't show up in the top-right corner of my screen now? ktorrent does, transmission does, but fatrat won't do it.
- hey can someone tell me how to change the color of the text in the unity top panel in 11.04
- @killer_: you need to install compizconfig-system-manager

@@ -1,2 +1,0 @@
- hi, im trying to print in landscape, but the document is always printed in portrait
- can anyone suggest what could be causing this?

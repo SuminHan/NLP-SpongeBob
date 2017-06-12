@@ -1,3 +1,0 @@
- Ubuntu, why can I no longer specify a custom program to use as my HTTP link handler in preferred programs?
- GNU IceCat doesn't appear on the list
- nanomad: "/usr/bin/www-browser -> /etc/alternatives/www-browser"

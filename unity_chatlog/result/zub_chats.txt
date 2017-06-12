@@ -1,1 +1,0 @@
- Hi. I just upgraded to 11.04 and I see gnome-terminal now defaults to 80x22 geometry. Why is that? I can override it in settings, but I wonder where does the 80x22 come from?

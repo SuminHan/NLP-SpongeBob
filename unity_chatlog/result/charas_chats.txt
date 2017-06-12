@@ -1,6 +1,0 @@
- Congratulations Ubuntu. I am totally digging 11.04
- can anyone tell why "Ctrl + Alt + Numpad 7" shortcut might not work on my system?
- jrib: It should place my window at top left corner of screen but it's not working. I disabled all the compiz shortcuts so not to override.
- jrib: Yes, shortcut for placing windows
- in Unity
- thanks anyway, man

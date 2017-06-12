@@ -1,9 +1,0 @@
- When does 11.04 go live?
- When does Ubuntu 11.04 go live?
- Ugh, this wait is killing me
- It's not out now.
- I just looked at the site.
- There's only betas in the ftp.
- I feel a great disturbance in the Force, as if millions of Ubuntu repositories suddenly cried out in terror, and were suddenly silenced."
- http://releases.ubuntu.com/11.04/ubuntu-11.04-desktop-amd64.iso
- Installing 11.04 on my Alienware m15x. Great setup process!

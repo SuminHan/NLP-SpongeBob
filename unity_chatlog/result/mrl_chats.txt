@@ -1,1 +1,0 @@
- Hi, I'm having an issue since upgrading to 11.04, my startup screen is 'Out of Range'. Wouldn't be an issue, except something is hanging during bootup, and I can't see what it is.... Is there a way to change to change the resolution in a config file etc (can use a live usb ok).

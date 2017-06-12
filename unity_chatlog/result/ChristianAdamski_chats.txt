@@ -1,2 +1,0 @@
- Hi, 11.04 Gnome2: Nautilus is opening my ftp-Bookmarks with Firefox, despite me changing the url-handler to nautilus and rebooting?
- Hi, gnome-open ftp://test opens in FF4, ignoring url-handlers. Help!??

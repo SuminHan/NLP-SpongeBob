@@ -1,2 +1,0 @@
- hey iam using ubuntu server 10.10 and need some assistance on troubleshooting my mail server it has suddenly stopped sending and recieving mail
- thanks

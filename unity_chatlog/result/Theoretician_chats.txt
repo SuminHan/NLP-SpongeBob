@@ -1,3 +1,0 @@
- Is Ubuntu 11.04 stable enough to run?
- Are there any downsides to upgrading?
- eiriksvin the new gui is bad? why?

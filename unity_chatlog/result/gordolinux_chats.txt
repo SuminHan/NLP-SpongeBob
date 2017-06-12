@@ -1,2 +1,0 @@
- is it possible to configure a per workspace spread mode in ubuntu?
- i don't like seeing all my windows at once.

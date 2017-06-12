@@ -1,1 +1,0 @@
- How can I force new application to open in an _empty_ workspace, instead of stacking in one?

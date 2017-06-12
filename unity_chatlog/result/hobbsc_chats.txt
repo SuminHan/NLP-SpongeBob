@@ -1,2 +1,0 @@
- anyone have trouble with icons not showing up in the launcher?  neither gvim nor tasque have icons when i open them
- can someone point me to documentation on installing sun-java under 11.04?

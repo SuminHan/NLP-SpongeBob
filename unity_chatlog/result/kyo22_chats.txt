@@ -1,4 +1,0 @@
- guys, I'm upgrading my ubuntu to 11.04 and it's asking the keyboard model
- how do I discover that?
- it wants to know if it is dell, mac, vaio, etc
- crazy stuff

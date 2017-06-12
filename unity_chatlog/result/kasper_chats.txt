@@ -1,4 +1,0 @@
- I want to add Evernote and URT to the Unity menu. Somehow I dont see how to do it :( can anyone help ?
- Is there some admin for the Unity menu ?
- did anyone have trouble adding shourtcuts to the Unity menu ?
- is there a cahnnel for Unity ?

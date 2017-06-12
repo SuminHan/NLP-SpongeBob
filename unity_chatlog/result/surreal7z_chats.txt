@@ -1,2 +1,0 @@
- is there any problem with Emerald on ubuntu 11.04 because xubuntu 11.04 has a bug with it.
- is anybody using Emerald in ubuntu 11.04, because in xubuntu 11.04 it doesn't work?

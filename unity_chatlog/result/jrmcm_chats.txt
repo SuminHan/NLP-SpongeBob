@@ -1,1 +1,0 @@
- Is it possible to run gnome and kde side by side choosing which one to use at log in?

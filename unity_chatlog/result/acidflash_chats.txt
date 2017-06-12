@@ -1,6 +1,0 @@
- hello everyone
- i would like to have upstart launch a software called squid LAST in the order of things to launch
- what is the way to do that
- DasEi: it never gets to the line
- Dr_Willis: there is no squid.conf in /etc/init...
- this is what i did, i made a small bash script to check if hte squid.pid exists.. if it doesnt... then start the service.. i added that to crontab and it checks it every minute....

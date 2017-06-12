@@ -1,1 +1,0 @@
- Hi, I just upgraded from Maverick to Natty and want Firefox 3.6 back, mostly because of some incompatible extensions I miss. Any hints how to do this?

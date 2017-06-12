@@ -1,5 +1,0 @@
- one philosophical question. Why packet manager firstly downloads ALL the packets and THEN installs them all. Cannot this be done simultaneously? It could download packets with no dependencies first and then install them while downloading others.
- ActionParsnip, i am 100% sure they have thought about it.
- but i will try apt-fast
- thats why i think those smart guyse thought about it
- ok

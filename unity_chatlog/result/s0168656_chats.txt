@@ -1,6 +1,0 @@
- hi, I just upgraded to ubuntu 11 but my wireless doesn't work anymore.. with ubuntu 10 it worked out of the box, first "lshw -C network" said my wireless was disabled, with "ifconfig wlan0 up" I enabled it (the wireless light on my laptop is also on) but no wireless :(
- anyone an idea what might be wrong?
- or how to downgrade?
- rfkill list all shows "soft blocked" for one wireless lan section
- (its maby a bit strange that there 're 2 wireless lan sections -- because i think there's only one wireless card
- "sudo iwlist wlan0 scan" shows a lot of networks but i can't connect to any of them with the network applet(;

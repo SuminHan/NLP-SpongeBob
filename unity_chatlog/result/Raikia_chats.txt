@@ -1,6 +1,0 @@
- is it smart to upgrade from 10.10 to 11.04 now?  or wait a couple weeks to get stuff ironed out? What are y'alls thoughts
- Starminn: thought so.  sebsebseb: I just got an upgrade notice.  thats why i asked
- sebsebseb: Story of linux :-P
- sebsebseb: thanks
- Uh....ubuntu just logged me out for no reason at all.  While I was working.... Does anyone know why this might happen?
- Uh....ubuntu just logged me out for no reason at all.  While I was working.... Does anyone know why this might happen?

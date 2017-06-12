@@ -1,6 +1,0 @@
- sup
- if I upgrade from 10.10 to 11.04, will I lose any data?
- brous-kee: why do you suggest a fresh install? That will certainly lose my data.
- if I upgrade from 10.10 to 11.04, will I lose any data?
- Jordan_U: why are you recommending that?
- quit

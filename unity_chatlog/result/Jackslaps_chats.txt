@@ -1,5 +1,0 @@
- Yo
- Is anyone here using irssi as an irc client?
- Aight uh... is it possible to change the colors around?
- Or does it rely on the colors I choose for the terminal?
- Alright, thanks

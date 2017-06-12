@@ -1,6 +1,0 @@
- Goliath: sudo apt-get install kubuntu-desktop
- Edd: have you tried 'startx' ?
- Edd: what happens? What video card do you have?
- Edd: try dpkg-reconfigure xserver-xorg-video-intel
- Edd: you'll need to use sudo
- hello

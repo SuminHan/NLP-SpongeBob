@@ -1,1 +1,0 @@
- mknarr: From a terminal: `chgrp -R groupname /dir/name` - prefix with "sudo" if your account can't change the group.

@@ -1,5 +1,0 @@
- Senix - yes, just use the software center and search for 7zip
- Can I upgrade from 11.04 BETA to the final version, or do I have to re-install?
- Thanks!
- quit
- x

@@ -1,7 +1,0 @@
- hi there
- is there a way to setup the youtube plugin for totem to have always the highest quality?
- BlouBlou: thx :/
- genupulas: well, but with the ability to play youtube videos per plugin
- other question, is there a way in empathy to hide chanserv messages?
- hm?
- you mean in a macbook?

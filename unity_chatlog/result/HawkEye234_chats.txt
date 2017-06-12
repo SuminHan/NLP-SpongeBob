@@ -1,3 +1,0 @@
- Hey, how do I access the files on a disc on a ubuntu server?
- What is the path to the disc drive on a ubuntu server?
- How do I copy the files from a disc into my local folder on ubuntu server?

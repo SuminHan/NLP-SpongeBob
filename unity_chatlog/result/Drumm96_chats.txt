@@ -1,9 +1,0 @@
- I was doing a system upgrade, and at about 99% it crashed. Now on normal boot I'm having issues, but I can boot in failsafe mode.
- Galvatron, Thankyou. Got many similar issues tonight?
- Galvatron, I'll try a reboot. Hope it works!
- My dpkg --configure -a produced no output. On reboot, I am still presented with a flashing underline.
- My dpkg --configure -a produced no output. On reboot, I am still presented with a flashing underline.
- Tried update to 1104. System crash at about 99%. I have run apt-get update, apt-get upgrade, apt-get autoremove, dpkg --configure -a. I am unable to boot into normal mode, when I do. I am greeted by a flashing underscore. I am currently in failsafe mode
- jdahm, headaches teach you new things. :)
- jdahm, besides, this is my first issue in years.
- Okay. So this may be a video drivers issue. lsb_release -a says I'm 11.04

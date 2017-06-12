@@ -1,6 +1,0 @@
- java -d classpath name.jar
- hi
- how many hours to ubuntu? :D
- oh I thought there was a countdown
- came to join the party
- java -d classpath name.jar

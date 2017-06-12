@@ -1,4 +1,0 @@
- due to an unfortunate mistake I issued 'unity --replace' while in the classic desktop environment  now I dont have a classic heh, how can I restore the defaults?
- anyone know how to get the default classic login back? I accidentally issued 'unity --replace' in it :(
- spyhermit, hmmmm everything unticks and I have no idea whats needed to replace
- Hi all, recently since upgrading my ubuntu 10.10 to 11.04 (Xserver 1.10.1) I am getting some X crashes and restarts surrounding web browsing (coincidence perhaps) here is a copy of my Xorg.0.log.old from the backtrace: http://pastebin.com/Jyr9WXhp

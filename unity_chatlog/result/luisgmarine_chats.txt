@@ -1,8 +1,0 @@
- Hello anyone here tried installing ubuntu 11.04 on macbook pro 5,3?  I'm getting a blinking cursor and REEFIT doesn't seem to install
- lg158997
- Hello guys.  I have a macbook pro 5,3 that I'm trying to install 11.04 on.  I've read the guide but my system hangs when I select to "Check CD for defects" or install.  I've checked the md5sums of the downloaded .iso file and everything matches ..
- icqn: I have already 5 times.  First time was a the fastest speed, and went all the way down to the slowest speed my computer allows me and same thing ...
- ohsix: :\  you think getting the LTS version might fix it/break it?
- yeah that's what I'm thinking.  I'm going to go give the LTS a try and see what the deal is, then I'll go and report a bug.  I just want to make sure it's not something hardware related.
- icqn: I don't have a USB stick available ... but let me see if I can find one
- Hello anyone here experiencing slow graphics performance with 11.04?  I have a macbook pro with an nvidia GT 9600 and I'm trying to play a simple bubble game and it just lags like crazy.

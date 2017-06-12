@@ -1,9 +1,0 @@
- is ubuntu natty using gnome 3 now?
- is Natty stable enough to install? the last time I had lots of problems with ubuntu-desktop + unity + nvidia
- hypetech: did you upgrade from maverick?
- hypetech: are you happy with what you got in Natty?
- kkal: don't you like unity?
- I guess MAC users like it
- I don't think that I like it, I prefer terminal to unity
- kkal: what have they done to Alt+F2 ? :o
- kkal: that's obscene , jk

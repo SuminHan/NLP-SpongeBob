@@ -1,4 +1,0 @@
- how can I add more workspace in unity?
- good aternoon everyone!
- How do I clear the most recently used program list in unity?
- Can anyone show me how to clear recently used program in the list in unity? like Clear Recently Items in gnome!

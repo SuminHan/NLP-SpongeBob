@@ -1,2 +1,0 @@
- klingan: Right click on the vdi and select roperties.  The icon that you see in the Proprties window is a button. Click on it to customize the icon.
- Also /usr/share/pixmaps/

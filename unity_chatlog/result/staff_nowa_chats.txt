@@ -1,1 +1,0 @@
- hi in ubuntu 10.10 i have nvidia 9300m gs and monitor work with 60ghz, but then update to 11.04 now my nvidia don't detect and get 50ghz, how resolve problem ?

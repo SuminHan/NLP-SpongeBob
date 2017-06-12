@@ -1,1 +1,0 @@
- http://gauravbits575.blogspot.com/2011/04/rename-multiple-files-with-bash-script.html

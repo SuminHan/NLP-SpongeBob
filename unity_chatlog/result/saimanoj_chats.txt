@@ -1,4 +1,0 @@
- any good browser for ubuntu otherthan firefox and chrome?
- opera is there for ubuntu
- i dont know yet
- opera is not in ubuntu repository.

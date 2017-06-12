@@ -1,2 +1,0 @@
- if I write some code in /etc/init.d/networking, sudo service networking start doesn't seem to execute it
- how do you customize upstart scripts?

@@ -1,1 +1,0 @@
- I keep getting the same error message whether I attempt to update by Terminal, synaptic or update manager. the message reads. E: The method driver /usr/lib/apt/methods/htt could not be found. Should I re-install?

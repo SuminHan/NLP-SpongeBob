@@ -1,9 +1,0 @@
- is there any charting tool for ubuntu which read the excel files and chart time..openoffice chart interface is not good as compared to mac office and windows
- hello guys..hows the 11.04....did any one try?
- bazhang ikonia are you using ubuntu for development purpose?
- bazhang ikonia are you using ubuntu for development purpose?
- is there any good charting tool for openoffice calc?
- is it necessary to purge openoffice before installing libre office
- i want to try libre office first and if suits me then i will uninstall openoffice marenostrum:
- yup marenostrum
- marenostrum i have installed Libre Office..its much better than openoffice

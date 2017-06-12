@@ -1,1 +1,0 @@
- Hello, I'm having trouble setting up PuTTY with Ubuntu. I'm trying to get aptitude and 256-color support, but can only get one or the other. Terminal type xterm-256color gives 256-color. Term type linux gives proper lines in aptitude.

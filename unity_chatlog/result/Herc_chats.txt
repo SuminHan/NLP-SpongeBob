@@ -1,1 +1,0 @@
- If I upgrade my Ubuntu right now do I need to modify my symlinks settings in apache?

@@ -1,3 +1,0 @@
- no joh28 i've installed ubuntu over windows and opensuse dual-booted and for me no conflict
- JoH28 i'm not an expert but i can say i've installed ubuntu many times on different configuration and grub ever recognized all operating system on my lapton i never had problem
- you are really welcome joH28 :)

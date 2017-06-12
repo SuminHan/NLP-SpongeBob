@@ -1,2 +1,0 @@
- I am trying to install 11.04 on my Asus G51J laptop.  There are definitely some problems.  The splash screen shows, but afterward my screen is only showing black and white bars.  Anybody know what is going on or how to work around this?
- I am trying to install 11.04 on my Asus G51J laptop.  There are definitely some problems.  The splash screen shows, but afterward my screen is only showing black and white bars.  Anybody know what is going on or how to work around this?  Looks like it may be a driver issue with the nVidia GTS 360M card.

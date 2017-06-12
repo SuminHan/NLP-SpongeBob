@@ -1,2 +1,0 @@
- i have ubuntu 11.04, 64 bit, with gnome, and i can`t see the top menu(under the title bar) for no application anymore - why?
- how can i enable title bar menus in all aplications in ubuntu 11.04 ? because i can`t see it anymore. i have gnome

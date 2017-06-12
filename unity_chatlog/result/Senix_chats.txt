@@ -1,6 +1,0 @@
- is there an install client for 7zip?
- How do I disable and enable desktop effects in Ubuntu 11.04????
- How do i install *.run files?
- ohsix: its a game called "aquaria' that i bought from humble bundle
- i will take tensorpudding's advice and see if double-clicking will install. but ohsix how do i install it from terminal?
- ohsix: sweet thanks

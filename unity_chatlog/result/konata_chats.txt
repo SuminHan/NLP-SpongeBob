@@ -1,3 +1,0 @@
- Hey, I'm trying out the cloud demo online
- Is that time remaining thing there just for looks?
- It hasn't moved or changed since I logged in

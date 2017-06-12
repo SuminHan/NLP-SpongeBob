@@ -1,4 +1,0 @@
- While trying to download ubuntu, the little load-balancer thing sent me to http://linuxfreedom.com/ubuntu-releases//natty/ubuntu-11.04-desktop-amd64.iso
- that mirror needs to be removed
- Captainkrtek: that's not the point; the mirror needs to be removed from the pool
- Captainkrtek: ahh, misread; roger

@@ -1,6 +1,0 @@
- I am of the opinion that grub is evil
- but my experience was painted by the fact that I forgot to give myself root access on the debian install that used it
- The latest ubuntu update just bricked my laptop (I think it ate the filesystem) -- I left it running and when I was back the netbook was very hot and frozen.  Had to manually power off.  Can someone help me recover the filesystem?
- No one knows?
- Disappointing.
- Can someone please send me a PM?  I need help decrypting and recovering data from my /home folder because the ubuntu 11 update bricked my netbook.

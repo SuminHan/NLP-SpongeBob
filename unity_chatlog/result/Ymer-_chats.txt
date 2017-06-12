@@ -1,9 +1,0 @@
- kaatta, in the terminal type vi /etc/apt/sources.list
- kaatta,  no problem
- ah yes, correct
- kaatta, in the terminal type "sudo [vi/nano/vim/pico] /etc/apt/sources.list"
- hi peto_
- kaatta, did u get it to work?
- kaatta, what package?
- kaatta, seems like the package it available, you prolly have to find it and download it somewhere else... (not awesome at this, but doing my best to help :) )
- !backup | mythri

@@ -1,6 +1,0 @@
- giacomo_c do u know what kind of chipset you have?
- giacomo_c I'm having the same issue with bm 44/43 something
- giacomo_c go in terminal and try lspci
- elijah lspci ?
- giacomo_c dunno what else to say sadly
- elijah wooshing over my head

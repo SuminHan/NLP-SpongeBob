@@ -1,3 +1,0 @@
- hi im having issues with package apt-proxy in lucid _and_ natty. unfortunately there is no active apt-proxy irc channel.is somebody willing to help?
- alkemann: just apt-get --purge remove and all problems are gone... ;)
- Halzen: 11.10 will have unity only

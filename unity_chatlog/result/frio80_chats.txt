@@ -1,1 +1,0 @@
- Question.  I always get confused on permissions to use.  I want to create a APache accessible folder in /var/www but I always have to sudo which makes the user/group root.  What is the appropriate method or configuration to do this?

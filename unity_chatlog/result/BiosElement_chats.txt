@@ -1,7 +1,0 @@
- KNUBBIG: I'd say building it from source would be worse. If you install GnomeShell via debs, you can at least then remove it and install unity again.
- IsmAvatar: Check Firefox settings, I suspect that's a firefox thing.
- nsahoo: sudo apt-get install --fix-broken or something along those lines should help.
- Juest: They're waiting for when they're needed. If they're not running, they wouldn't know when they're needed.
- gartral: No?
- greenlantern: http://askubuntu.com/questions/28050/how-do-i-use-use-the-classic-gnome-desktop
- Guest__: Just ask the question. ^_^

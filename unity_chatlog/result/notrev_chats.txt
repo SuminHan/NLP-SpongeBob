@@ -1,1 +1,0 @@
- i'm trying to activate DAAP plugin in Rhythmbox, but it fails. Message: Rhythmbox-WARNING **: /usr/lib/rhythmbox/plugins/daap/libdaap.so: undefined symbol: dacp_share_new . Does anyone know how to fix this?

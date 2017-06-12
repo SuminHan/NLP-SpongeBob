@@ -1,7 +1,0 @@
- heya
- on my eeepc 1005PE the touchpad is disabled on the live install
- Sal9000: try unity-3d
- Sal9000: try unity-2d
- touchpad worked after a reboot
- does grub support btrfs?
- k

@@ -1,1 +1,0 @@
- anyone know why in 10.04 I could be getting the following error when trying to use bibtex: I couldn't open style file IEEETran.bst

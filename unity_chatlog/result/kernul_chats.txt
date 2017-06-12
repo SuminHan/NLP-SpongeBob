@@ -1,9 +1,0 @@
- is there a way to disable my computer from sleeping when i close the lid in 11.04?
- tensorpudding: not blank the screen... do nothing
- tensorpudding: using external display
- tensorpudding: if i set blank screen it blanks the screen... no big deal right? but im using an external display
- tensorpudding: it blanks that screen too...
- tensorpudding: ya i know... it didnt in 10
- and i cant for the life of me get it to stop
- tensorpudding: shoulda stayed with 10 (= i seem to be having all sorts of issues
- tensorpudding: thanks for your help

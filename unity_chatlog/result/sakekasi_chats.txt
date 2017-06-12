@@ -1,5 +1,0 @@
- my banshee sound menu entry has disappeared. how do I get it back?
- my banshee sound menu entry has disappeared. how do I get it back?
- the sound menu integration for banshee is not working in natty.
- I have the sound menu integration plugin installed in banshee and I have the option checked in settings yet there is no banshee entry in my sound menu in natty.
- I have the sound menu integration plugin installed in banshee and I have the option checked in settings yet there is no banshee entry in my sound menu in natty.

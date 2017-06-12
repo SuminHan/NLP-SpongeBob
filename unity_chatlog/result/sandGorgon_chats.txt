@@ -1,3 +1,0 @@
- hmm.. does anybody else have an issue with the home screen of dash - I mean I would have preferred the home screen to have application categories like earlier "Accessories", "Games", etc.
- anybody know how to configure Unity to show installed-programs on the home screen - especially if it is put in categories.
- wow .. phoronix reports that between 8.04 and 11.04 there is almost a 20% increase in power consumption for laptops

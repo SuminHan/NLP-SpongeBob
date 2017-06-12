@@ -1,2 +1,0 @@
- my dist-upgrade is currently "installing the upgrades", and lists "About 15 hours remaining". top/vmstat output here: http://pastebin.com/56Cp9hd1 -- any suggestions?
- the disk does seem very slow most of the time. crappy laptop

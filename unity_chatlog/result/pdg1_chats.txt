@@ -1,9 +1,0 @@
- hello
- i have a dumb question about mounting a file system. I've mounted this drive many times before but i just installed ubuntu server and i can't remember the file system type nor how to properly edit fstab. any help pointing me to a howto/tutorial?
- oh geez... i know what i'm doing wrong :p i forgot the 1 in sdc1
- thanks llutz
- GReeNtooTH : why don't you use something like pastebin
- that 2
- ooohhh
- is there an ubuntu server chan or is this the place for that 2?
- maco thnx

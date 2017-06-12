@@ -1,5 +1,0 @@
- How do I open Nautlius in Unity? Or alternatively, how do I create a new folder in Unity's files and folders browser?
- trism: The home folder icon never existed, probably because I installed Ubuntu Netbook after using Ubuntu Desktop earlier. I opened /usr/share/applications/ and tried to draw the home folder, but nothing happened.
- No, 10.10
- trism: No, 10.10
- trism: Ok, thank you for your help.

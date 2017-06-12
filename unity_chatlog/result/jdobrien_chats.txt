@@ -1,7 +1,0 @@
- Running 11.04 on a system with Nvidia 9600 GT, have "Nvidia accelerated graphics driver"  activated but it not in use, does that mean I am not using Unity 3D?
- kezzawd, I have installed it. but I know it's not using the card since the fan isn't running... although the silence is kind of nice :)
- I'll crank up quake-live or something. That should get em going
- Mrokii, I'll crank up quake-live or something. That should get em going
- Mrokii, did you remove zeitgeist?
- gah! Quakelive game launcher is not compatible with Firefox 4.01
- Mrokii, whoops. That had to be frustrating

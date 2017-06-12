@@ -1,7 +1,0 @@
- im having trouble installing android sdk
- i try following directions but terminal doesnt recognize any comand or directory
- i try following directions but terminal doesnt recognize any comand or directory
- hey i need help and nobody helped me!!!!!!!
- ok
- phunnyguy i am triing to install android SDK and its not working
- guntbert thank you i will be back

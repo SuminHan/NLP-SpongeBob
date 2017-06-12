@@ -1,1 +1,0 @@
- Is there a way to determine what build options were used in an ubuntu package?

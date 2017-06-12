@@ -1,2 +1,0 @@
- hello, just installed was wondering... I remeber that ubuntu can save my last session... where is this again?
- BlouBlou: Oh, really thought that there was a setting that saved windows positions, remembers opens apps, when you log back in again.

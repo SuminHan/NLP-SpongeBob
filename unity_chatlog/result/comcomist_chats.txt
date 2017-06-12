@@ -1,1 +1,0 @@
- i have prob with apt-get upgrade on linux-headers-2.6.35-28-generic, see http://paste.ubuntu.com/598867/ This prob blocks me from any upgrading for the last 2 weeks, can not report bug so i report it here

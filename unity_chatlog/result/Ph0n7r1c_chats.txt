@@ -1,7 +1,0 @@
- its say kde-config not found how can that be i am using gnome
- hi can someone tell me how i can get synaptic manager to start
- ph@Juliana:~$ sudo synaptic
- sh: kde-config: not found
- sh: kde-config: not found
- Segmentation fault
- its say kde-config not found how can that be i am using gnome

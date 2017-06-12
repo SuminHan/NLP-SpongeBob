@@ -1,1 +1,0 @@
- Something happened, and my ipv6 setup broke at home. I'm using Hurricane Electric with freebsd end tunnel here. The tunnel can ping any ipv6 address, and my Ubuntu laptop is getting right ipv6 address, but is unable to ping anything else than link local addresses. Any hints?

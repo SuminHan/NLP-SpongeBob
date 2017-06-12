@@ -1,3 +1,0 @@
- hi
- How can I change the font size in unity's panel on ubuntu 11.05 ? It doesn't change when modifying Fonts (in Appearance).
- biami: ?

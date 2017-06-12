@@ -1,1 +1,0 @@
- i just ran ubuntu 11.04 64-bit live cd on intel celeron 550 (conroe-L) how is this even possible does it really support 64-bit? uname says x86_64

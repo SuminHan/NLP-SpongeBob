@@ -1,3 +1,0 @@
- in unity, open Time & Date, go to the clock tab and check the box "show a clock in menu bar"
- Has anyone else come across File roller issues in 11.04 with CBR files; they open fine, but cannot extract file contents?
- anyone able to offer troubleshooting advice on archive manager (file roller) in regard to CBR files, they open but cannot extract the internal files.  worked fine in 10.10

@@ -1,3 +1,0 @@
- maybe I'm missing something, but how do I reboot/logout with this new unity interface? and is there an easy way to disable unity?
- Jordan_U, thanks, but I think something is broken here, that top right light switch icon doesn't do anything, double click, right click, left click, nothing, and before upgrading I had a system menu with all of this, which I suspect is classic
- kinda wishing I didn't upgrade, this thing is a huge mess, the new kernel doesn't work with my video card, and wireless doesn't seem to work on the old kernel now

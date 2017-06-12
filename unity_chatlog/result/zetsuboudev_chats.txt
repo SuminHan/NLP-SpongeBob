@@ -1,1 +1,0 @@
- Any idea if there is any plan to change the appearance of the corner grab for window resizing in Natty? It overlaps buttons and text buttons, even in the default programs, looking very inconsistent with the rest of the OS. Even in the appearance window, there is distortion where the button is in the theme previews.

@@ -1,3 +1,0 @@
- hey guys i got an issue im getting this when i try to install simcity from disk... "The file '/media/SIMCITY3000/SETUP/ENGLISH/SETUP.EXE' is not marked as executable.  If this was downloaded or copied from an untrusted source, it may be dangerous to run.  For more details, read about the executable bit."
- escott: its a safe exe i know for sure so the command would be "chmod +x /media/SIMCITY3000/SETUP/ENGLISH/SETUP.EXE"
- escott: hmmm i did do the command but its not changing it

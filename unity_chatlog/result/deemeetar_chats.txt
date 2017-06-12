@@ -1,1 +1,0 @@
- hello guys, Is it possible to customize window organisation shortcuts(ctrl+alt+5 for example)? I want to make some of them in my taste(the previously mentioned ctrl+alt+5 i would like to be in centre but also a little smaller in hight.

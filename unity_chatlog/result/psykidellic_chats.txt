@@ -1,1 +1,0 @@
- So I have a server app (written using Python/Twisted) that is loaded up through /etc/init.d. The machine is an OpenVPN client and it seems if I start the app before OpenVPN loads up tun0, all my network communication faolure with: Connection Timed Out. If I restart my server app, it works correctly for the same code/machine.

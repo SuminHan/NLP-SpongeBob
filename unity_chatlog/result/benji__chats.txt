@@ -1,7 +1,0 @@
- "Linux ubuntu-desktop 2.6.31-14-generic #48-Ubuntu SMP Fri Oct 16 14:04:26 UTC 2009 i686 GNU/Linux" is 32 or 64 ?
- Mjiig, I would say so also, is there a better command to know that ?
- Mjiig, nothing, it would be nice to actually see 32 when it is
- but I can live with that
- Mjiig, haha you rick
- rock*
- :)

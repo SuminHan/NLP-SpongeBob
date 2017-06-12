@@ -1,4 +1,0 @@
- I have a second hard drive from OSX as my second drive and everything works but work let me write anything. I have tried alot to get the filepermissions fixed. The last thing is it says ivalid partion table
- kk
- hey all here is the question, I have a OSX Leopard hard drive as my second drive and ubuntu 10.10 see's it great but I cant change the permissions and it says invalid partition table
- ty escott

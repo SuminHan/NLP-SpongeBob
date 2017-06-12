@@ -1,9 +1,0 @@
- So I'm trying to install Natty on a HP Touchsmart tm2 from a usb disk, however it hangs on the ... is it Plymouth? Either way, boot splash. Just stops there.
- dupondje: I've been waiting a few minutes now
- Capslock has no effect, alt+prtscr+S, U, B also has no effect
- dupondje: Are you getting the black screen problem as well?
- dupondje: That is a little odd.
- dupondje: Is this booting from a liv usb or after install?
- s/liv/live/
- dupondje: I'm not getting the black screen on normal boot
- (I also ran an upgrade, from 10.10)

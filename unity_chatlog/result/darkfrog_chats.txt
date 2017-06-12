@@ -1,6 +1,0 @@
- Unity stole my window borders. :p
- I have no controls on any of my windows anymore for resize, close, move, minimize, etc.
- elliot_: Windows Key then type what you want to do
- wow, I guess the unity-window-decorator crashed....restarting it fixed my troubles. :o
- that's a bit disconcerting
- at least that it didn't auto-restart itself

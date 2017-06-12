@@ -1,1 +1,0 @@
- hi all, I just upgraded to Natty Narwal, and I'm having trouble with rxvt.  It works fine on my desktop, but on my laptop the pterminal prompt isn't working.  If I hit delete it doesn't clear the character, it inserts a space

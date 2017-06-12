@@ -1,2 +1,0 @@
- Is there any system-wide dictionary that  I can reinstall? Spellcheck in empathy, firefox and gedit have all failed simultaneously
- If I set crontab to run at a specific time and the computer's off then, will it run the next time I turn the computer on?

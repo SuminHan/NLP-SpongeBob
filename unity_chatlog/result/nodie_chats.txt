@@ -1,6 +1,0 @@
- hi, I've installed 11.04 this morning and I'm using Unity, I suppose that I've activated some type of keybind and now the bar at the left is always on
- I want it to appear and disappear
- how can I do that?
- Aikar, I don't know what I did!
- and I hate it there, it's distracting
- HerCury, what is ccsm ??

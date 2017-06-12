@@ -1,9 +1,0 @@
- Can somebody help me with upgrading? There is a problem
- zizban: i upgraded to the 11.04 beta or whaterver from 10.10, and now when I go to the update manager it says "partial upgrage" but after running that it closes after a couple second
- zizban: why?
- does anybody have experince of upgrading from 11.04 beta to just 11.04?
- does anybody have experince of upgrading from 11.04 beta to just 11.04?
- BlouBlou: When I launch update manager it says partial upgrade, then starts a distro upgrade which soon closes before it updates fully
- BlouBlou: is there some app that can show system info like system distro?
- when
- When I try to install something from the software center, it says download failed

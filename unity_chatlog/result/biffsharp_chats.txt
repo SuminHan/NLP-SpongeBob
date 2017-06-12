@@ -1,6 +1,0 @@
- anyone have RTL8187 wireless chipset?
- i can't figure out how to patch RTL8187 for aircrack
- well yes i can get it to do mon0 and airodump fine but not on a specific channel. its always fixed channel: -1
- yeah it doesnt work
- it will say fixed -1
- yup sure has been alot of probs

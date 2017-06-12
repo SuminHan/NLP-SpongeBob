@@ -1,1 +1,0 @@
- I recently installed 11.4 when the update manager suggested it, I've now noticed the system will hang during a reboot, while it seems to boot just fine if it starts in a powered down state, I'm not really familiar with Linux/Ubuntu, is perhaps anybody familiar with such an issue?

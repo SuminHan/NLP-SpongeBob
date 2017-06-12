@@ -1,9 +1,0 @@
- hi, what is the most lite weight browser available in ubunutu?
- html_inprogress: I tried firefox, its not lite enough.. I just want one with cookies js n flash support no fancy features?
- I want a browser that takes lesser ram and processing thn firefox n chrome.
- html_inprogress: want a browser that takes lesser ram and processing thn firefox n chrome.
- samtate: thanx buddy will check it out.
- ohsix: I don't mind if it loads pages a bit slower, i don't want it to affect other apps am running with it.
- samtate: Can you tell me the name of the browser again please. am using irssi n i don't know how 2 scrol up.
- samtate: thanks :)
- exit

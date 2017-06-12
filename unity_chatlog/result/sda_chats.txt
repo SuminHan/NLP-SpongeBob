@@ -1,3 +1,0 @@
- hi all! Question, with monitor applet i can see read and write disk usage, can I see it with a terminal command? Thanks!
- hi all! Question, with monitor applet i can see read and write disk usage, can I see it with a terminal command? Thanks!
- iceroot, iotop isn't installed! how system monitor can see io use?

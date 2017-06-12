@@ -1,8 +1,0 @@
- with what?
- so i need /sys/bus/pci/devices/0000:00:02.0 to change ownership from root to me.  I used chown but after i restarted the ownership went back to root.  Any ideas on preventing it from going back to root?
- buddhacz i only need it so I can change the brightness to my computer automatically (everything i try but that for the brightness is not working).  Could I change were the file is to say, /home/<user>?
- buddhacz, not even a subdirectory of it?
- jMCg, could you run programs from the terminal still?
- Buddhacz, okay thanks
- So I recently installed lxde (and it appears on ubuntu.com there is no lxde IRC channel) on my computer but I can't connect to the internet (and I can't even connect to lxde.org even on Gnome) I installed Wicd but the internet still wasn't working.  It did work fine on Gnome though.  Any ideas why?
- So I recently installed lxde on my computer but I can't connect to the Internet (and I can't even connect to lxde.org even on Gnome) I installed Wicd but the Internet still wasn't working.  It did work fine on Gnome though.  Anyone know how to fix my problem?

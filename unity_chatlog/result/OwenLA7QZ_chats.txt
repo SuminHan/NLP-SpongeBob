@@ -1,7 +1,0 @@
- Hi. Anyone know how to set Adobe Reader as default app for PDF files? Works OK with double click in filemanager, but Chromium and calibre still open PDF's in Evince.
- stefg already did that
- That's why it works from fileman
- stefg: sudo update-alternatives --config x-pdf-reader (This is Navigatrix, branch of 10.04?)
- stefg, I get: update-alternatives: error: no alternatives for x-pdf-reader.
- stefg, I get: update-alternatives: error: no alternatives for x-pdf-reader.
- stefg. Most stuff for ubuntu works fine (everything in Package Manager), but this one has me stumped.

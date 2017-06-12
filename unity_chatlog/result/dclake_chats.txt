@@ -1,4 +1,0 @@
- I have a weird problem after upgrading to 11.04
- I get an error saying "The disf drive for / is not ready yet or not present"
- "Continue to wait; or Press S to skip mounting or M for manual recovery"
- can any one lep with this?

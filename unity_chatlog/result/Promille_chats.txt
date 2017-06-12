@@ -1,8 +1,0 @@
- Question; Is there reported any problems/bugs/known data loss with upgrading to natty with Update Manager? Would like to know
- Hey. Anyone here updated to Ubuntu Natty(with Update Manager) and encountered any problems like data loss/bugs/etc?
- ok. could you specify the bug please?
- zzecool: kk
- !help | phoenixsampras1
- wow the mirrors for the upgrade seems to be pretty fucked. i'm downloading with 60kb/s on a 15/15mbit fiber cable line
- Why is the update to Natty so extremely slow(100kb/s average). I can theoretically do 1.85mb/s, and I usually max it with the update manager
- oCean: ye, maby. but should be possible to have to options to switch mirrors, so the traffic can be dealt better between the mirrors

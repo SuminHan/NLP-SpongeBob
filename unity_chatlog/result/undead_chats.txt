@@ -1,2 +1,0 @@
- hi everybody
- how do i can paste date and time in logfile,  example "time >> logfile.log"

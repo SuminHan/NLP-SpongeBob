@@ -1,3 +1,0 @@
- Hey guys is there a way when using the cp command to see what the transfer speed is going at or a status on the file being compied?
- hey guys im using rsync to copy data from one raid array to the other. When i run rsync a 2nd time it retransfers all the files. how do i make rsync stop doing that
- im just using the -vr options

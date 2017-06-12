@@ -1,2 +1,0 @@
-  /join #ubuntu-hk
- test

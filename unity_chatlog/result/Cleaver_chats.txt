@@ -1,6 +1,0 @@
- Im trying to install teamspeak3 from a run script, after some text, and this dialog comes up promting me to press end, how do i do that? Enter doesnt work, end doesnt, e doesnt. Ect. What do I do?
- Client, and yes
- Its just me not being able to get any further
- Simple matter of me not knowing what to press :|
- File called TeamSpeak3-Client-linux_amd64-3.0.0-beta36.run
- thanks :)

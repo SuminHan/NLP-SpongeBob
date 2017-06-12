@@ -1,5 +1,0 @@
- Is anyone else having trouble with enabling unity?
- hypetech: It should, but I had to install proprietary drivers, so it booted into default gnome, and now it won't switch to unity. when I run 'unity' in the terminal, the computer freezes
- OverTheHillAndFa: Alright, thanks for the advice!
- Okay, I reinstalled, a different graphics driver, checked 'ubuntu' at log in, and I'm still not getting unity. None of the compiz effects are working either. Is there any simple way to activate unity?
- Hey guys, Is there any way to test to see If my current graphics driver supports unity

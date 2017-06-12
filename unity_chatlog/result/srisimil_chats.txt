@@ -1,6 +1,0 @@
- I just installed Ubuntu 11.04 by upgrading from 10.04, installation went fine. But now I can't boot into my windows xp partition.
- can someone please help me?
- raju: did that. Actually I already had a dual boot system. Even now I can see my windows option on the grub screen. But when i select it it just goes blank
- raju: can you elaborate on that plz
- asdfsdggre: just ask your question. someone will answer
- raju:yes

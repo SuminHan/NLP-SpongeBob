@@ -1,7 +1,0 @@
- hi, i don't see the sudo group in the "user sttings" -> advanced -> "user priviledge" window
- how should i add a sudo priviledge to a user ?
- shcherbak, <user> is not in the sudoers file.  This incident will be reported.
- shcherbak, groups -> adm dialout cdrom plugdev lpadmin sambashare
- when i log at root from a user terminal and i want to start a graphical app (as root so) is ther something to do ? because i get errors : ...connection->initialization_error == NULL...
- as*
- i installed xchat on ubuntu 11.4 with unity but now i can't get it back from the dock because it goes in the inexisting system tray

@@ -1,2 +1,0 @@
- Is there a way to change the time it takes for the unity dock to appear when I touch the left side of the screen? That second is just a bit too long for me. Upper left corner is better, but it's annoying to go there every time.
- HyperShock, yeah. that's a good idea. thanks! But is there a setting somewhere to change the delay manually?

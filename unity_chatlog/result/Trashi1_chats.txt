@@ -1,2 +1,0 @@
- whats the easiest way to add a shortcut to the new unity sidebar?
- histo: doesnt work

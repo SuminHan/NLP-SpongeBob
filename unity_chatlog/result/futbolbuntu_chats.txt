@@ -1,5 +1,0 @@
- hi. ubuntu software center closes when i open it. how would i run it from command line so i can see what's wrong with it
- IOError: [Errno 2] No such file or directory: '/usr/share/app-install/desktop/software-center.menu'
- any ideas?
- damn i can't use ubuntu tweak either.
- Hi. Can someone help me? I can not run Ubuntu Software Center. When I run it from the terminal this is the output: http://pastebin.com/raw.php?i=9mFUcVU2

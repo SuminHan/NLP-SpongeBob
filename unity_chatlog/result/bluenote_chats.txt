@@ -1,8 +1,0 @@
- Good evening, all!
- After updating to 11.04, I have a number of problems. One of them, however, is quite urgent: How can I find my old POST-ITs, which have been on my gnome desktop?
- can't find the application "post it"
- neither via terminal nor application finder
- escott: The default one which was readily installed in the old desktop
- ubottu: Thanks fot the hint. But: I like the new desktop. I WANT to use it ... why should I switch back?
- i see, sorry, was a bit slow
- thanks, I'll get back to you later

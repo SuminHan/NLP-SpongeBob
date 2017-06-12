@@ -1,3 +1,0 @@
- sorry Dr_Willis and coz_ got disconnected, but gtk command did nothing
- other example is that i cannot move windows, alt-mouse1 does nothing either
- welp, i guess i'll just reinstall then, hopefully compiz and the window decorator will feel better on the other side

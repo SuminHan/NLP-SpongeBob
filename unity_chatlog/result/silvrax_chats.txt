@@ -1,6 +1,0 @@
- i just upgraded to 11.04, now when I hoover some buttons/menus etc and a tooltip appears, my mouse cursor itself actally dissappears, which i find very annoying. Does anyone know what is wrong there? (i'm using gnome, not unity)
- as soon as a tooltip is displayes, my mouse cursos dissapers, is that normal?
- Cale: tnx.. any clue why it may happen?
- Cale: no compiz...
- Cale: yeah, thats what google told me too, but its not installed
- Cale: i think unclutter hides the cursor after some timeout, mine only goes away when i tooltip is displayed...

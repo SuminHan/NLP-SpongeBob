@@ -1,1 +1,0 @@
- where can I ask about a PPA not building? https://launchpad.net/~ubuntu-mozilla-daily/+archive/ppa

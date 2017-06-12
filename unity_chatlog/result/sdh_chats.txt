@@ -1,1 +1,0 @@
- i think the "-d" in "do-release-upgrade -d" can be removed now from the instructions at https://wiki.ubuntu.com/NattyNarwhal/TechnicalOverview

@@ -1,4 +1,0 @@
- hello, I can't see the volume icon in my ubuntu 11.04 with gnome 2.x.... how to restore that icon?
- I can't see the volume icon at top in my ubuntu 11.04 with gnome 2.x.... how to restore that icon?
- how to upgrade to gnome3?
- I cant open the addressbok, I get this error: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._e_2ddata_2dbook_2derror.Code100: Cannot open book: Could not create DesktopcouchSession object

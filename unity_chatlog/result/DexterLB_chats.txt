@@ -1,7 +1,0 @@
- hello. I have been given a laptop with radeon x1200, and I have to get 3D accel working in the next 3 hours, or I won't get paid :D
- I've tried so many things, and I've almost given up hope
- fglrx doesn't seem to work with that chip, nothing in ubuntu's hardware driver suggestions and envy isn't available on maverick
- neckoox, escott: I tried installing all the fglrx packages, it says no supported hardware
- escott: yup
- Pici: does it have 3D?
- Pici: hmm, compiz here says No GL

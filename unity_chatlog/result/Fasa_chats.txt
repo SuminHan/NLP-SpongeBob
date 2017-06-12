@@ -1,4 +1,0 @@
- hello all
- can anyone help with PtokaX server on Ubuntu
- does any know how install PtokaX and Dixbot  on ubuntu
- does any know how install PtokaX and Dixbot  on ubuntu

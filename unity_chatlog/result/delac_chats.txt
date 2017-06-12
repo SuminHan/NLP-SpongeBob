@@ -1,5 +1,0 @@
- since when has Startup Disk Creator started to ask password for erasing the usb stick? I'm fairly sure this was not happening a few weeks ago...
- can anyone confirm that it is normal behaviour for Startup Disk Creator to ask for password?
- Dr_Willis: since when? This is the first time ever I experience this.
- Dr_Willis: well that is what I expected
- can anyone confirm that something happened (got updated) to Startup Disk Creator and it now always asks for password? Seems to affect both Maveric abd Natty.

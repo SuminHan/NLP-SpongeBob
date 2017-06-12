@@ -1,5 +1,0 @@
- hello!
- hello!
- will unity work on live cd with my nvidia 9500gt?
- Incarus6: with nouveau? cool
- Incarus6: because i need to try unity before ill install it

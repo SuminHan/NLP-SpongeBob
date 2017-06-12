@@ -1,9 +1,0 @@
- tried to install 11.04, but the installer crapped out towards the end of the install, though if left me with an almost complete 11.04 installation. one problem I'm can't seem to do anything with apt. running apt-get install <whatever> gives me: http://pastie.org/1844991 ideas?
- anyone know how to fix this issue with apt? http://paste.ubuntu.com/600462/
- ayecee: that runs for a bit, then hangs, then gives me the same error
- usr13: it's an 11.04 install, though like I mentioned earlier the installer crashed towards the end, but it left me with an almost complete install - I'm trying to see if I can fill in the holes
- usr13: apt-get update is still giving me the error
- usr13: yes, after moving around the status files apt-get update is still giving me the error
- usr13: seems hopeful. rm-ing the list files from /var/lib/apt/lists and then apt-get update seems to fix it for that list, but lots of lists seem to have issues. running through all of them...
- is there a way to have the unity side bar come up instantly when I move my mouse to the right of the screen (ie not having the 1-2 second delay)
- left*

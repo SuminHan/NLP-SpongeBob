@@ -1,8 +1,0 @@
- hello, I have just upgraded to natty. I have no wireless. Is this the best place to ask for help?
- ohsix: broadcom
- ohsix: oh hang on: 02:00.0 Network controller: Realtek Semiconductor Co., Ltd. RTL8192E Wireless LAN Controller (rev 01)
- ohsix: is that broadcom?
- ah (my other laptop is broadcom)
- ohsix: how do i 'try the module backports'?
- ohsix: ok, giving it a go, thanks
- ohsix: ok, so i did apt-get install <that backports package> and rebooted... should I be doing anything else?

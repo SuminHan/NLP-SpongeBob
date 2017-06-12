@@ -1,4 +1,0 @@
- presumably easy question here ~ I have an LCD monitor connected to my laptop via VGA... it's being detected as CRT1 according to xrandr, and it won't allow me to set the proper resolution (1920x1080)... anyone have any pointers for me?
- yes, it was displaying properly at one point, now it's not showing that resolution as an option anymore, and I'm not sure why it disappeared
- _numbers, did you start the mysql daemon?
- so I've determined that both my video card and monitor support the 1920 x 1080 resolution. It appears as though it is an issue with the fact that ubuntu identified my LCD monitor as CRT (presumably due to the VGA connection). Is xorg.conf the most appropriate way to address this?

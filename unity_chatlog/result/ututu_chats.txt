@@ -1,2 +1,0 @@
- tsrk, add them in /etc/default/grub
- tsrk, np

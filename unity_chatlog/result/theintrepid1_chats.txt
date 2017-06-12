@@ -1,2 +1,0 @@
- hi. Im having problems with broadcom wifi after a clean install of 11.04. Any suggestions?
- hi. Im having some problems with wifi after a clean install of 11.04. STA driver takes out wireless networks on the network applet. any ideas?

@@ -1,4 +1,0 @@
- Upgraded my netbook to 11.04 this week and now whenever I use rsync to sync my files over a wireless connection, the connection keeps dropping
- How come the countdown banners http://www.ubuntu.com/community/countdown are either showing 'coming soon' or broken?
- I use KNode
- constl: there are kdenlive, kino, openshot, pitivi for starters

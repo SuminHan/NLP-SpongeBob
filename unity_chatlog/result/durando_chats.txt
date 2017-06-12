@@ -1,9 +1,0 @@
- i just upgraded to ubuntu 11.04 and having trouble figuring out how to connect to my windows shares used to be under places connect to server does anyone know where its located now?
- i tried that sakuramboo
- sakuramboo: that didn't seem to work well
- sakuramboo: trying that but i can't seem to unselect indows
- this new format to ubuntu is going to turn me into a debian user
- rolling arch?
- so guys this unity thing does anyone actually like it? and is there going to be a time when ubuntu classic isn't possible because if there is than i may need to switch distros in the future
- EClaesson: I have attempted to give it a fair shake honestly but all that unity has managed to do for me is use my android tablet more...........
- sipior: thanks for that resource

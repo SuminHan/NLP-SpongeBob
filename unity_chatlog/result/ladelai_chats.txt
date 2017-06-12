@@ -1,4 +1,0 @@
- holek try alt+f9 :>
- no i guess not because its not a fullscreen window app
- you had prob with
- minimize window

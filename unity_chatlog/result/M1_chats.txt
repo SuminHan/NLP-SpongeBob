@@ -1,4 +1,0 @@
- mdpatrick: or you can use the software center
- i_is_broke: take a look at the "Proprietary drivers" under system settings
- Newbee: maybe fresh install?
- Monk: are you using a laptop? maybe you should try searching on the web for your laptop's model and if others have had the same problem

@@ -1,1 +1,0 @@
- What is the terminal command for exiting X to load drivers?

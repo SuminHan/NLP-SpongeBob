@@ -1,2 +1,0 @@
- is it known bug that launcher sometimes "forgets" about running application?
- is it possible to remove unity menu panel on second monitor?

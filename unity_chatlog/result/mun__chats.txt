@@ -1,2 +1,0 @@
- hi
- when i indent a python file using tab, it moves in by quite a few spaces. how do i lower the number of spaces?

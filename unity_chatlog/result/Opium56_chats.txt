@@ -1,5 +1,0 @@
- hey i got a question if anyone can help me figure it out
- Im havig problems with the new ubuntu release, im on a laptop and upon installation the screen goes completely blank, upon login or welcome screen its still blank. What is the problem?
- theres nothing on my screen even after reboot. im on an acer aspire 5736z with an intel GMA 4500MHD ,easy put its an intel onboard graphics card
- theres nothing on my screen even after reboot. im on an acer aspire 5736z with an intel GMA 4500MHD ,easy put its an intel onboard graphics card
- ubuntu 11.04 screen problem

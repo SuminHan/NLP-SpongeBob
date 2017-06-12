@@ -1,8 +1,0 @@
- how can i install gnome 3? (and gnome-shell)? just via ppa?
- bakanub: why didn't they include gnome 3? i thought it's stable
- jdahm: well that's apple and oranges. i didn't say so. i just want to know why they didn't include it.
- LjL: ah. that makes sense
- i can select only unity-2d not unity. what do i have to install to have unity in gdm?
- i can select only unity-2d not unity. what do i have to install to have unity in gdm?
- Omega: how is this related to ubuntu?
- mza: 10.04 or 11.04?

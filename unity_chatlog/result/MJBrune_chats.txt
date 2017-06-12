@@ -1,7 +1,0 @@
- I have a Intel Corporation 82801G (ICH7 Family) sound chipset and I want to know if my mic will work in linux. will it?
- anyone?!
- Logan_: the channel is already unreadable.
- taglass: because the drivers are shit?
- ugh morons
- I have a Intel Corporation 82801G (ICH7 Family) sound chipset and I want to know if my mic will work in xubuntu but its not working right. How can I fix this?
- i cant get my Realteck alc272x to work with the mic, anuone?

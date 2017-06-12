@@ -1,9 +1,0 @@
- hey can someone help me? i upgraded to 11.04 and somewhere in the process of disabling the unity desktop and enabling compiz, i lost all my window borders
- lol josesordo me too
- owner, me too
- arrrghhh, i did, but now my window borders are gone and i dont know how to get them back o.O
- i rebotted and the problem still persists
- arrrghhh, ill try changing themes, brb
- ohsix, i just used the other session, i didnt uninstall it
- ohsix, how do i do that?
- ahhh good call thanks ohsix

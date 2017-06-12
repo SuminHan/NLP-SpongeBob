@@ -1,8 +1,0 @@
- Hello
- Can the ROOT block an user to set "OTHER USERS" PERMISSION ?
- I mean example 770 660
- ALWAYS 0 at the end
- is it possible?
- ??
- umash and chmod works in the same manner?
- *umask

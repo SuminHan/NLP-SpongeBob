@@ -1,9 +1,0 @@
- thanks
- hi! i want apply a patch in my kernel (linux-image-generic-pae-2.6.38.8.22), so what is the better way to do this?
- I'm using a generic-pae kernel and I want apply a patch on him. I will install linux-source and kernel-package but how do I do to active PAE support?
- rww_, but linux-source package hasn't pae enabled
- hum... ok
- thanks
- anyone knows how I find out if my ssd supports TRIM?
- hello guys! I'm using linux-image with generic-pae but I want compile the same kernel with a patch applied. I installed linux-source-2.6.38, copied config-2.6.38-8-generic-pae to .config in linux-source dir and compiled with kernel-package. My problem is that I get kernel panic without patch applied. Anyone knows what is wrong?
- Captainkrtek, thanks! :)

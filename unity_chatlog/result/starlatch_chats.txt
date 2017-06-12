@@ -1,2 +1,0 @@
- Anyone know if we can upgrade from 10.04 to 11.04?
- kichawa: Thanks. I am assuming it does not involve going through 10.10 first.

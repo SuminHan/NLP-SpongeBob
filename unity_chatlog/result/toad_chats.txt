@@ -1,9 +1,0 @@
- why oh why does Ubuntu 10.04 log me off?
- randomly
- it seems different each time
- the amoutn of time that is
- it shows a black screen prior to logging off, that shows some white text, it usually happens to fast and too random for me to really see whats happening
- hrmknu
- rhrmm Knio
- KNUBBIG,
- could it be a result of something  crashing? Where could I look to check?

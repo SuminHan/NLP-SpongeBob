@@ -1,3 +1,0 @@
- is there no 11.04 version for LTS?
- So when is the next LTS release?
- So it is released every 2-years?

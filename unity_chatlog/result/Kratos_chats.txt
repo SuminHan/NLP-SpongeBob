@@ -1,3 +1,0 @@
- hi guys, i have a problem trying to use backtrack is anyone up to help?
- im having problems booting bt4 on usb
- where can i go

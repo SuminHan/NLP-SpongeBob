@@ -1,7 +1,0 @@
- I'm sure this has been answered a hundred times already, but is there anyway to install gnome 3 on 11.04 ? I know it doesn't come with it by default
- HF_acid:  kk ty
- zamba: 12.04
- I had to remove my ppa's
- from my update list
- !ppa brianl
- !ppa | brianl

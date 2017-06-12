@@ -1,3 +1,0 @@
- hi. how can I make a non-root program open port 80 ?
- knick: thanks. and how can I remove that rule, when I want?
- knick:  iptables -t nat -D PREROUTING -p tcp --dport 80 -j REDIRECT --to-port <otherport> ?

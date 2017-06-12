@@ -1,1 +1,0 @@
- hy, how to set the preserve parameter (-p of copy) in nautilus

@@ -1,2 +1,0 @@
- Hi, could someone assist me with a sound issue? I'm able to hear sound through my speakers (rear green out) but not through my headphones (front green out).
- Unfortunately, none of the solutions I have tried seem to work. Switching outputs between speakers/headphones went fine on 10.10, but now I only hear sound through rear green out (I'm on 11.04)

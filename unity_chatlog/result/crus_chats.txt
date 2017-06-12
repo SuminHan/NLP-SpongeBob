@@ -1,5 +1,0 @@
- When i follow the instructions for upgrading from Ubuntu 10.10 to 11.04 im told theres no new releases found :?
- I have an ubuntu server and the normal MOTD text started doubling up.. i removed the /etc/motd file.. how do i regenerate it?
- acicula: excellent! which script would that be?
- acicula: thanks, me too! :D
- acicula: cheers!

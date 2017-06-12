@@ -1,2 +1,0 @@
- hi, i wanted to see if any application on the machine is bright enough to store my password in plaintext (i suspect one which has asked my pass during the startup and that's all), i am trying to do $sudo cat /dev/mem |grep "password"  but i get an error cat: /dev/mem: Operation not permitted what is that?
- sunil, try #debian

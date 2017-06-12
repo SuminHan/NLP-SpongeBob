@@ -1,3 +1,0 @@
- ?
- im looking for a good command line sound processing tool.  something CLI like sox but im looking for a specific feature, very slight audio length expansion/contraction.  basically, i have an audio source that gets 1 second off sync of another one after ~4 hours.  this means i need 3.33 samples out of 48000 removed from the slower source.  does anyone know of a proggy that can help me do that
- ?

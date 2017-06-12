@@ -1,1 +1,0 @@
- I'm getting "Hash Sum mismatch" on Packages.gz when trying to upgrade to 11.04.  Ideas?

@@ -1,6 +1,0 @@
- how do I gain root privilegies so I don't have to type sudo all the time ?
- how do I remove a dir with all contents in it ?
- shane4ubuntu, yeah
- I'm trying to install software that came in a tarball and I've read on forums that first I have to ./configure, however it says no such a file or directory.. What am I doing wrong ?
- usr13, python IDE called pyCharm
- I've upgraded to 11.04, however I don't like the main toolbar being on the left, is there any way to change back to the old toolbar ?

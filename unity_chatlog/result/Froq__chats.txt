@@ -1,9 +1,0 @@
- where can i get the needed driver for the magic touchpad that apple sells?
- where can i get the needed driver for the magic touchpad that apple sells?
- where can i get the needed driver for the magic touchpad that apple sells?
- so what is a good launcher for 11.04?  I want to hit a combo key and bring up a launcher.
- drAg, you saying compiz is a good launcher?
- drAg, how do I install it?  is it just sudo apt-get install compiz?
- how do I remove unity????
- cannonball, I desire to remove Unity completely though.  is there a command I can complete?
- cannonball, thaz

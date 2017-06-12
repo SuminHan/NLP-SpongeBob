@@ -1,2 +1,0 @@
- hello i am having a problem setting a unique mount in 11.04 ubuntu
- why cannot i not name my own point on the installer ?

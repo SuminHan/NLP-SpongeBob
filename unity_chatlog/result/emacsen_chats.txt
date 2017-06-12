@@ -1,1 +1,0 @@
- How come the scrollbar is different in pidgin than in gnome-terminal or firefox?

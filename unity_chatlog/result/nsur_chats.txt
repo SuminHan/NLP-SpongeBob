@@ -1,5 +1,0 @@
- hi all. anybody has tried natty 11.04?
- have you tried natty?
- silentz0r: reboot then hit BIOS (f2/f12/dell) key right away repeatedly until you have the BIOS manager. hope will help
- hi all. i installed 10.10 and it took 10s from BIOS to login page, then i upgrade to 11.04 yesterday. now it takes 110s to get login screen. is 11.04 natty slower??
- disini

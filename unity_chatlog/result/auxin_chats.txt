@@ -1,6 +1,0 @@
- MacGyverNL, excellent, thanks!
- hi is there a way to get apt-get to tell me how many updates are available?
- reves, hmm no that doesnt work, thanks though
- Im looking for something like aptitudes $aptitude search ~U
- but only for apt-get
- MacGyverNL, excellent, thanks!

@@ -1,7 +1,0 @@
- I just upgraded to 11.04 and my X server is hanging on boot "module nvidia not found"
- I've seen a post for blacklisting the nouveau drivers and manually installing the nvidia drivers, but I was hoping to get around that
- If nvidia-current is installed, shouldn't the module "nvidia" be there as well?
- Running 'modprobe nvidia' confirms the module isn't installed.
- If I reinstall nvidia-current, it says the module build is skipped because the kernel source isn't installed
- Is there a package for getting that kernel source so I could build modules?
- Also I don't see any nvidia-current-kernel-source

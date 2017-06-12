@@ -1,1 +1,0 @@
- what happened to the system tray and gnome pannel widgets in 10.4?

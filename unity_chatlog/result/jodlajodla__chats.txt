@@ -1,5 +1,0 @@
- incorrect - i've deleted .compiz and .gnome2 in home folder, but not better -.-"
- i've restarted pc
- i will install ccsm first, because there is refresh rate on 50hz and i have 60hz - maybe is there problem?
- Dr_Willis - that can help to solve problem with mouse lagg?
- Dr_Willis - i've also installed 10.10 and official ATI driver for HD4850, but it was same problem ;) but on win 7 mouse works normally

@@ -1,7 +1,0 @@
- how to solve dependency conflict when two packages need a different version of some other package?
- how to solve dependency conflict when two packages need a different version of some other package?
- dpkg
- gtk
- yes
- from gtk.org
- all packages

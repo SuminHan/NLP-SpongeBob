@@ -1,6 +1,0 @@
- how do i add a mirror so that my downloads go faster? it's taking 20minutes just to download vim
- how do i add a mirror so that my downloads go faster? it's taking 20minutes just to download vim
- how do i change the mirrors for ubuntu? i'm only getting like 20kbps i need a more local server
- Logan_: i don't have a gui yet, my synaptics isn't working
- (synaptics the laptop mouse driver)
- so i can't log in

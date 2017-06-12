@@ -1,2 +1,0 @@
- Hi. I've just upgraded to 11.04. I have a multi-monitor set up. The hardware seems to think my right hand monitor is the primary (it's on VGA, the left hand is on DVI). This is causing problems when I boot with both monitors. The Application bar appears on the left side of the right monitor, which really screws things up, my graphics go on my right monitor, and I don't get any bars to launch programs or even shut down.
- Any ideas how to get it to put the bar in the correct place?

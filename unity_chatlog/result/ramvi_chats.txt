@@ -1,1 +1,0 @@
- What files redirect my traffic? I try to enter some.domain.com, but I'm redirected to my server. I can see it doing a traceroute. I've checked /etc/hosts but it dosn't contain any info about some.domain.com

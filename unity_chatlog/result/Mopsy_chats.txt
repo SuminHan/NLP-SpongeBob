@@ -1,2 +1,0 @@
- i'm havin trouble installing ubu 11, first it always boots into gnome when liveusbing, second i choose to install grub on a partition cuz i'm having truecrypt bootloader in the mbr, i want dualboot, any hints?
- any idea why it boots into gnome?

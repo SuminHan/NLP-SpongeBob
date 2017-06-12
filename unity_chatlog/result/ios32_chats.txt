@@ -1,2 +1,0 @@
- i have a script that i need to have run automatically each time  a cd is inserted or ejected. is there a best practice way to do this?
- does anybody know how to get a program listed in the media handling list in ubuntu with cli

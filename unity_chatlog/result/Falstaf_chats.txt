@@ -1,3 +1,0 @@
- I like gnome ... is there some reason for the change in GUI.
- I just installed Ubuntu 11.04 on my (other) linux machine, but it doesn't seem to be communicating with the monitor.  I am getting a blank screen.
- My 11.04 isn't connecting to the monitor any ideas on how I can fix this.

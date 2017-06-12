@@ -1,5 +1,0 @@
- i was running ubuntu lucid and it kept not coming back after the screen saver came up. this morning i upgraded to natty. it wouldn't come back after the screen saver. i went to a command prompt and rebooted (was there something better i should have done?). now it says no init detected when i boot. ubuntu recovery mode still works, so i can be root. i am pretty novice and am floundering for
- ideas. any suggestion would be appreciated.
- thank you. i knew it should be obvious
- would be
- i mean i was thinking, back up /, but /home does contain what's important

@@ -1,2 +1,0 @@
- I'm trying to make btnx launch upon boot or login. It requires root to run properly, and I tried putting the command in the sudoers file but it doesn't help when I put the command in startup items. With the sudoer entry, I am able to execute the command as normal user without sudo, as btnx -b, or /etc/init.d/btnx start, but not as a startup entry. I checked execute permissions on the rc2.d entry but for some reason it isn't working. If I
- I don't really know how to check the log files to know if something interrupted it

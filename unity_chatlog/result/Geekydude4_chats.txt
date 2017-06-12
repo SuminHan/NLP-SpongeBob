@@ -1,7 +1,0 @@
- If someone could talk to me in person not on the main window I need help (it will take 10sec.)
- If someone could talk to me in person not on the main window I need help (it will take 10sec.)
- If someone could talk to me in person not on the main window I need help (it will take 10sec.)
- If someone could talk to me in person not on the main window I need help (it will take 10sec.)
- Looking at C code in terminal. How do you exit? It says ^X but what does that mean?
- Will that exit all terminal or just that screen?
- Thank you! its ctrl+x

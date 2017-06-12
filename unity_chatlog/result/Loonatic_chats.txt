@@ -1,1 +1,0 @@
- Hi i got a LAMP server and i need to install an actual GUI i can i do this easily ?

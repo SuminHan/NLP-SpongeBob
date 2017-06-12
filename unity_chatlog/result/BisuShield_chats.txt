@@ -1,5 +1,0 @@
- how do I run the output of a string as a command. eg run >> ( history | grep ssh )
- what is the best tool for comparing files
- like a gui for diff
- I am still in the process of learning doctrine.  In zend I used to do $tableObject->fetchAll( "clause" ) what is doctrine's equivallent?
- am i invisible?  is there a doctrine equivallent to zend's fetchall

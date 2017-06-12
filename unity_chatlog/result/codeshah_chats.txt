@@ -1,1 +1,0 @@
- hey guys, I want to add a user to the www-data group - how do I do this? can the user be part of his current group and www-data?

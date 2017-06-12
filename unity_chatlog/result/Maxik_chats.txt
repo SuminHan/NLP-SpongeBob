@@ -1,2 +1,0 @@
- hello, update to 11.04 crashed on my laptop, os isn't working now, how can i fix that?
- i've already tried everything i found on the internet

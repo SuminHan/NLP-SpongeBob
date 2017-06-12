@@ -1,1 +1,0 @@
- It seems ppa.launchpad.net not doing well under the load today.

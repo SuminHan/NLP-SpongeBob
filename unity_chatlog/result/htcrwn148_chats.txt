@@ -1,8 +1,0 @@
- hey guys does anyone know if i upgrade to the ubuntu11.04 would i lose everything on my pc?
- so i should back up everything...
- thanks
- i know this is not a smart question, but to back up everything on my pc... do i just copy all the files to my external HD or is there a function available or how do i do it?
- for backup purpose does the Home/user directory have everything that i have installed (files folders programs?)
- tensorpudding: what about wine programs?
- tensorpudding: but those would be backed up?
- tensorpudding: ill try backing up manually and with simple backup...

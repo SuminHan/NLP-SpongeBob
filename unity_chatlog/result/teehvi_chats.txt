@@ -1,1 +1,0 @@
- hi, updated to 11.04 and firefox 4 doesn't show my bookmarks toolbar. any idea where could i find it?

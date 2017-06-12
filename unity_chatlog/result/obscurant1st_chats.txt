@@ -1,6 +1,0 @@
- apt-get dist-upgrade is it enough for updating my beta natty to the final release?
- ashmew2, do-release-upgrade ?
- so apt-get dist-upgrade is fine?
- and btw is there anyway I can check if its final?
- final release*
- zvacet, thanks

@@ -1,2 +1,0 @@
- is it possible to run a single full screen browser without a window manager?
- sgaap: with just xorg?

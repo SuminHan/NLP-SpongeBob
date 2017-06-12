@@ -1,3 +1,0 @@
- hi all. I can use ping from cmd-line fine but I cannot ping any server using the ubuntu built in Network Tools Ping. It always receives 0 packages. I changed the interface under "Devices" to wlan0 but still, no result
- Ah, it looks as if I have this bug :) https://bugs.launchpad.net/ubuntu/+source/gnome-nettool/+bug/709945
- Can anyone give me a decent network traffic controller (ping and alerts if rtt reaches a certain #ms) with graphic UI preferably? The built in NM in ubuntu 10.10 does not work. Thank you for your appreciation.

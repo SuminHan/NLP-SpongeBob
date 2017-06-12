@@ -1,9 +1,0 @@
- hello
- I cannot upgrade maveric to natty because it says: "An unresolvable problem occurred while calculating the upgrade"
- and it says something about packages und foreign packages. The only foreign packages I now about are the firefox 4 and libre office. How can I find out what to do?
- M1: I would prefere an upgrade, because I want to keep the things I have changed to my system
- coz_: what do you mean with save session?
- I want to keep my system as productiv as it is. But of course I would like some new software
- coz_: Are you talking about M1 s proposal to reinstall the system?
- coz_: No I meant, that I do not want to reinstall the system but upgrade it to keep it the way I configured it.
- coz_: no problem. I was just wondering what you wanted to tell.

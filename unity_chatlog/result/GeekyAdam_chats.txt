@@ -1,7 +1,0 @@
- hey all. friends ubuntu netbook edition wireless card stopped working. physical switch is on, but ifconfig only shows eth0 and lo. where do i start?
- if anyone from ubuntu.com is here, the 11.04 netbook torrent file link is bad (or the torrent file is bad?)
- heres the address: http://releases.ubuntu.com/11.04/ubuntu-11.04-netbook-i386.iso.torrent
- QUESTION: with the 11.04 release (with UNITY as default desktop), is there still a netbook edition? or is desktop with UNITY the same as netbook edition (so netbook edition not necessary now)?
- botcity: thx
- britta_: thx
- TheRedOctober: thx

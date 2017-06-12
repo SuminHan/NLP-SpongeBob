@@ -1,6 +1,0 @@
- i can't get used to unity
- i feel lost when i'm trying to figure out what applications i have open
- i can't get used to unity
- will there always be an "ubuntu-classic"?
- id10t: yeah, i'm just scared it will disappear in future releases
- without the window selector widget, my multimonitor setup gets confusing fast

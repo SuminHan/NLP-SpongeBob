@@ -1,8 +1,0 @@
- help !
- help , after updating the ubuntu 11.4 fresh installation  i get a message while im booting , it says something about it cannot mount crypto fs ?
- !ask
- !ask help , after updating the ubuntu 11.4 fresh installation  i get a message while im booting , it says something about it cannot mount crypto fs ?
- !ask| help , after updating the ubuntu 11.4 fresh installation  i get a message while im booting , it says something about it cannot mount crypto fs ?
- i got strange message on the booting after updating the 11.4 ubuntu
- when i boot it tries to mount a crypto device ? fs ? i dont know . it says press S to stop mounting. it appeared after i updated the ubuntu 11.4 installation
- updated

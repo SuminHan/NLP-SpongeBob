@@ -1,5 +1,0 @@
-  Is there a way to display hard drive activity on my desktop or panel?
- HyperShock, no
- HyperShock, ok, the sys monitor description didn't mention HD activity, thanks.
- when I mouse over a todo item in korganizer the info box displays black text on a black backround, where can I change this?
- when I mouse over a todo item in korganizer the info box displays black text on a black backround, where can I change this?

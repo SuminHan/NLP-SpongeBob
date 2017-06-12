@@ -1,5 +1,0 @@
- what's the story with 11.04?  I heard talk of crashing with betas... is that what people are seeing with the release version?
- Monotoko: is unty just a new default option... like can you use gnome if you want to?
- Monotoko: Libreoffice is a fork of openoffice that isn't under Oracle's control...since they initially apparently weren't willing to play friendly with it
- I'm running 10.10 and I've got a updates that say "Partial Upgrade"... is that something to do with the move o 11.04 ????
- I'm finding an odd change in behaviour after some updates... if I press the CTRL key, when I release it I get circular animated rings appearing where the mouse pointer is, and also I cannot hold down control and select additional files in a file selection dialog...it lets me use shift but not CTRL... any ideas?

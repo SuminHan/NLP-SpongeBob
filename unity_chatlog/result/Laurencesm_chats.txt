@@ -1,2 +1,0 @@
- hello, I wanted to install proprietary video driver for my video card, but ati radeon x1600 is no longer supported by ati. do I need to install other distro (8.04), or just use os driver?
- !ati

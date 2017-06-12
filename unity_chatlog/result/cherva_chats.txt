@@ -1,3 +1,0 @@
- how can I kill a connection to a peer without killing the service or filtering it with iptables and waiting to timeout ?
- ohsix, hunt ?
- llutz, thanks

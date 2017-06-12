@@ -1,8 +1,0 @@
- can I remove the 11.04 sidebar and have it look like the other releases?
- hypetech, jiohdi, thanks! The desktop users don't like change :P
- I clicked "forward" in the "preparing to install ubuntu" screen and it's been just "thinking" for 5 minutes. Should I reboot?
- DGM, hangs where?
- blinking cursor after grub on new 11.04 (installed with alternative usb), what can I do?
- blinking cursor after grub on new 11.04 (installed with alternative usb), what can I do?
- sffreer, i'm an athiest though
- dabbish2, yea lol

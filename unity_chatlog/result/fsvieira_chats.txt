@@ -1,2 +1,0 @@
- hello, I just installed the last ubuntu, and I would like to install a session manager to choose betewn gnome and unity, I installed gnome and gdm but there is no choice in login...how can I solve this ?
- ok I will try

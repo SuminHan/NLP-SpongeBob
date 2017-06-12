@@ -1,6 +1,0 @@
- giday, when i use chmod -R 660 dir  , after chown myuser:myuser -R dir, i can no longer enter the contained dirs with nautilus ? why ?
- i meant, when i use chmod -R 660 dir  , after chown -R myuser:myuser dir, i can no longer enter the contained dirs with nautilus ? why ?
- thien: dir
- thien: i think it can also have other letters eg special files like "network" sockets eg
- thien: but im trying to figure out my own simplish chmod quandry ! see previous msg's
- well was hoping for a quick fix but RL calls. check ya l8r

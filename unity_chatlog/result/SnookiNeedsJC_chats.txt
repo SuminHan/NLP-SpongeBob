@@ -1,3 +1,0 @@
- i've had real slow transfers from Ubuntu 9-10 to flash drives. any ideas to fix?
- need ideas - when I copy files using u 9 or 10 to flash drive it takes forever. any way to speed this up?
- slow flash drive copy has no current fix per http://ubuntuforums.org/showthread.php?t=1487590

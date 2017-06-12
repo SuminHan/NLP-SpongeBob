@@ -1,4 +1,0 @@
- can anyone help? upgrade from 10.10 to 11.04 now just boots to an ubuntu logo and 5 red dots and doesn't go any further? virtualbox 4.0.6 on windows host
- Squall5668: any details on how to do that? is there a key combo or something?
- silly question.. how do i move the new launcher to the right hand side of the screen?
- jatt: that's anonying.. i'm on a dual screen setup with virtualbox on the right.. i can't get the launcher to pop up easily since my mouse moves to the other monitor

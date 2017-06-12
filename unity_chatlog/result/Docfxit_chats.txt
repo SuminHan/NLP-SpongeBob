@@ -1,7 +1,0 @@
- I have been trying to signon to my Ubuntu. It says I have a wrong password. I have booted into recovery mode and tried passwd Docfxit in all lower case it says passwd: unknown user Docfxit in all lower case. How can I get back into my system?
- Could someone please help me signon to my system?
- bazhang That's correct.
- bazhang Docfxit is my user name - It's all in lower case
- bazhang How can I get to accept my password or reset my password?
- bazhang I got into my system with a different user name. I'd like to fix my original user name. When I select System, Administration it doesn't have users as an option.
- When I put use sudo -I -u myusername I get sudo: no passwd entry for myusername How can I fix that?

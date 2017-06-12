@@ -1,3 +1,0 @@
- join #ubuntu-es
- !dedicatoria <nandaram>
- !dedicatoria nandaram

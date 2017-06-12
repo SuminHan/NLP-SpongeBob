@@ -1,6 +1,0 @@
- Does it change anything if I admit that the wife and kids access the samba server with Windows?  I use Ubuntu of course, and the samba server is Ubuntu too.  Are groups still the way to go?
- Ok, I want to give my kids read only access to the Music samba share, but I want my wife and I to have read/write access...how do I set that up, please?
- Ok, thanks everybody!
- Does it change anything if I admit that the wife and kids access the samba server with Windows?  I use Ubuntu of course, and the samba server is Ubuntu too.  Are groups still the way to go?
- Ok, I'm trying to make an .iso image of a bootable dvd, and I'm using dd if=/dev/sr1 of=filename.iso and it keeps giving me an I/O error and copies 16kB...the drive is not mounted.  Any help please?
- Ok...before I upgrade to Ubuntu 11, how can I figure out why 10 crashes my system, when 9 dosen't?

@@ -1,6 +1,0 @@
- hello, I have ubuntu 11.04, upgrade from 10.04, the dialogue here show my NVIDIA display driver is not in use, is this just because I use the "classic no effects" setup, or does it need further investigation:  http://www.pasteall.org/pic/11715
- what to do about this please? screenshot:  http://www.pasteall.org/pic/11715
- engammalsko, when you log in, choose "classic" rather than "unity"
- i need happy giving!
- is this bad? everything seems to work ok, but I sometimes do get glitches with new 11.04:   http://www.pasteall.org/pic/11715
- (graphics)

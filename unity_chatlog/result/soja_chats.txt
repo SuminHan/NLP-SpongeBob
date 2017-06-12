@@ -1,4 +1,0 @@
- when i try to enter in windows from GRUB, the screens turns black and then i come back to GRUB, what's wrong?
- when i try to enter in windows from GRUB, the screens turns black and then i come back to GRUB, what's wrong?
- when i try to enter in windows from GRUB, the screens turns black and then i come back to GRUB, what's wrong?
- can someone help me with grub? http://ubuntuforums.org/showthread.php?p=10735364#post10735364

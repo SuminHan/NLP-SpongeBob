@@ -1,2 +1,0 @@
- hi there how can I query that a given file belongs to which package?
- hi there, is there a log where I can see what commands were executed via ssh mymachine command?

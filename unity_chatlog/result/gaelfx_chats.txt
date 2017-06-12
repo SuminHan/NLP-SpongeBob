@@ -1,8 +1,0 @@
- I'm trying to play a DVD, but it doesn't seem to work and the logs show an error about reading scrambled data without authentication, what can I do to fix it?
- KM0201: yes, I'm aware, but DVDs play fine in VLC and SMPlayer, except for three recently bought DVDs
- hiexpo: nope
- KM0201: what exactly does the libdvdcss thing do?
- ah, yes, the reward for buying a legitimate DVD in China is that you have to break the law to watch it
- they REALLY don't want you to follow the rules here
- hiexpo: National Geographic natury stuff
- could someone tell me where to go to figure out how to block ISP-injected ads? (I know this is not the place for it, I just a need a good place to go)

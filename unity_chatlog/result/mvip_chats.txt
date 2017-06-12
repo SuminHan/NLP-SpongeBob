@@ -1,6 +1,0 @@
- Anyone know when/if "do-release-upgrade" will work from 10.04 to 11.04?
- Right now I'm just getting 'No new release found'
- KNUBBIG: no, 11.04 is a LTS release, isn't it?
- oh, damn =)
- oh, that explains a bit
- ok, then I don't need to update. Thnx guys

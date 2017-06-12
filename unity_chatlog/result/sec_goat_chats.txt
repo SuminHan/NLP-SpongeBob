@@ -1,4 +1,0 @@
- is the a command from terminal to see network activity on ubuntu 10.04
- I am currently using Lubuntu 10.10 if I click upgrade to Ubuntu 11.04 does that change what ever makes Lubuntu more light weight?
- Jasonn: my bad, I did realize there was a difference
- jasonn: i guess thats where I am confused, I really can't tell the difference, except it works better on this POS laptop

@@ -1,5 +1,0 @@
- I'm having problems with my intel 4965 under lucid, it just won't correct to my wireless network, I get "wlan0: authenticate with bc:05:43:a4:af:47" messages
- I've tried playing disabling 802.11n and a few other things but nothing seems to work
- routers
- escott, I have specified it in /etc/network/interfaces
- where does upstart keep the configration information that makes things like "start libvirt" work?

@@ -1,6 +1,0 @@
- i just installed ubuntu 11.04, and i see that nvidia drivers are installed but the additional drivers page says that no proprietary drivers are in use on this system.
- victorhugo289, hi
- "this driver is activated but not currently in use"... how do i make ubuntu use the nvidia driver?
- w30, yeah it shows a green icon. confusingly enough, unity works when ubuntu claims the driver isnt in use (ugh)
- is there like a 3d test i can run to really see if the driver is actually being used?
- w30, idk... it defaulted for me.

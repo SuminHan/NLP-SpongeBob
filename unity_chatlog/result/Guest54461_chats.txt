@@ -1,4 +1,0 @@
- I recently installed ubuntu and lvm, but I do not think lvm was installed correctly, for one the disk manager shows only a swap partition on the second harddrive and the rest of it empty, can someone help me figure out what i did wrong?
- anyone on here know anything about lvm?
- can lvm act as a RAID drive and reduce disk read time?
- Why is everyone ignoring me?

@@ -1,8 +1,0 @@
- Hello.
- The update to 11.04 appears to have made my system unbootable. It tells me the volume for / isn't available yet. (/ is /dev/sda3). It's mounted by UUID in /etc/fstab, but I would expect those UUIDs to not change.
- Now, the confusing part is that it tells me /dev/sde3 is mounted in /, but I don't even *have* a /dev/sde
- I have a /dev/sdd, that's about it.
- The exact error message I'm getting is "The disk drive for / is not ready yet or not present"
- If I tell it to skip, it tells me that for *all* the filesystems.
- The update to 11.04 appears to have made my system unbootable. It tells me the volume for / isn't available yet. Exact error message: "The disk drive for / is not ready yet or not present". (/ is /dev/sda3). It's mounted by UUID in /etc/fstab, but I would expect those UUIDs to not change. Dropping into maintenance console allows me to manually mount the filesystems just fine.
- Hi. I'm on Ubuntu 11.04. I'm running into a particular problem with compiling python2.6/2.7 from source which I can only reproduce on 11.04. I installed build-deps python2.7. When I make, it's giving me the usual Failed to find the necessary bits to build these modules: line, except with sqlite and zlib in it, which I don't understand because I have zlib1g-dev and libsqlite3-dev.

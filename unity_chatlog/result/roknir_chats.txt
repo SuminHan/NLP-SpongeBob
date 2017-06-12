@@ -1,2 +1,0 @@
- wow, even the 11.04 installer is buggy.  =o
- cntb: first ubuntu release in quite some time where i've had to use the text installer to be able to install to a VM.  -_-

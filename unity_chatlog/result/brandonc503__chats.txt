@@ -1,8 +1,0 @@
- hey all
- how would i go about trying to use Dreamweaver on my windows comp, to edit files live on my linux box?
- i want to use dreamweaver to access my server like i use it to access godaddy server i have
- the ftpd is what im looking towards
- sshd huh.. googleing
- i dont have ftp set up on my linux yet
- Seems i need to make a user on my comp and set the home directory.. is there a typical folder i should make as its home direcotry?
- ...for ftping

@@ -1,8 +1,0 @@
- I don't suppose anyone could help me compile this:- https://launchpad.net/messagingmenu-extension
- does anyone know how to compile this? https://launchpad.net/messagingmenu-extension
- !compile
- *SIGH* some developer https://launchpad.net/messagingmenu-extension
- can't compile it
- no guide, nothing
- no precompile extension either
- how are people meant to test the bloody thing?

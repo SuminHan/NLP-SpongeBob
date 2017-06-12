@@ -1,5 +1,0 @@
- hi from russia, people! :)
- 21 C
- <donkeyinspace> try md5sum /dev/cdrom
- <donkeyinspace> sorry. try " head --bytes=`isosize /dev/cdrom` /dev/cdrom | md5sum -b "
- <donkeyinspace> This will be better: dd if=/dev/cdrom | md5sum

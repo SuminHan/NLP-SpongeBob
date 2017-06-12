@@ -1,1 +1,0 @@
- hello, why doesnt gnome shell work when i install in natty, it says error has accured and restarts to logon screen

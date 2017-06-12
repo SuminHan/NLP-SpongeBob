@@ -1,9 +1,0 @@
- Hello, human beings. Is there a way how I can install proprietary Nvidia drivers on the Ubuntu 11.04 live CD?
- roasted: That really is not good.
- roasted: Maybe a log in/log out will be enough?
- roasted: Or a X restart?
- roasted: Well, I'd rather give it a try. Could you hint how to do it? "Additional Drivers" thing won't find them, unfortunately.
- roasted: I currently don't have anything better than you talking out loud, so that will have to do. Thanks.
- !restore grub
- !grub
- cheddars: Of course you can, just go to the System->Administrationn->Install Ubuntu

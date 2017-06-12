@@ -1,1 +1,0 @@
- is there any quick and dirty way of speeding up writes to compactflash media (that is, when the OS is installed to such)?

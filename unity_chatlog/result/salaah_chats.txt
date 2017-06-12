@@ -1,3 +1,0 @@
- i installed kubuntu-desktop, and tried to enable antialiasing, fonts are now messed up in chrome, and firefox. can anone help please
- i'd like help with fonts please
- Captainkrtek: k

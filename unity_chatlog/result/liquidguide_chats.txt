@@ -1,3 +1,0 @@
- Does anyone know on natty in unity how to get applets on the top bar.  Specifically a stock applet or even a standalone program.
- sfdsafdsafdsa, you can pick classic gnome on login at the bottom
- If anyone is having a slow download the torrents are lightning fast

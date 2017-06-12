@@ -1,5 +1,0 @@
- I'm trying to install Tomcat to a Natty VM and I *think* everything is fine so far, but I want to ensure that the JAVA_HOME var "sticks" after reboot. Is this done through the startup.sh?
- Thanks Action. Will do.
- jrib: It was my understanding that it was the Natty version of a startup.
- (startup file, that is.)
- Is xorg.conf in Natty? I can't find it and I need to look at it to see if my VM install has USA as it's default keyboard layout (because every time I reboot, I keep having to reset it to USA).

@@ -1,1 +1,0 @@
- Why is it advisable to not upgrade to latest Ubuntu, but instead do a fresh install?

@@ -1,7 +1,0 @@
- I upgraded to 11.04
- That was a mistake
- Now it's sitting on startup "The disk drive for / is not ready yet or not present"
- ohsix, I'm just dual-booting with windows
- The root of the filesystem?
- ohsix, it was working yestreday and it's not today after the upgrade.  The windows partition works so it's not the HDD
- ohsix, what aare you talking about?

@@ -1,8 +1,0 @@
- When i log in using desktop : ubuntu i only see my desktop, no menus at all
- Hedgehog456: 4GB
- jan_: I already have compiz installed
- Hedgehog456: i even rm -rf .gnome* and .gconf* so it should be clean
- How can I check which package /bin/ls comes from?
- thanks jrib
- jrib: any way I can do that in reverse? Like check all files that comes from the package
- gartral: no, coreutils

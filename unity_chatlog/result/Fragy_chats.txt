@@ -1,3 +1,0 @@
- hi. After upgrading to 11.4 I get: error out of disk on hd0. Press any key.     Why is that? After I press enter it boots up normal.
- <escott>: I have one pyschical disk.
- escott, no. Only sda's in the config file.

@@ -1,5 +1,0 @@
- how to update grub entry in 10.10 it has grub2
- LAcan: I dont need to boot to windows, I need to change kernel and I have compiled new kernel with some patches
- escott: I tried that and then run command update-grub but still entries not updated.
- escott: ok,
- escott: thanks a lot, it worked

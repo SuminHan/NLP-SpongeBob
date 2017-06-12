@@ -1,3 +1,0 @@
- is it possible to change the default ethernet bonding mode in 10.04 server? i am having a lot of problems with the reliability of setting the bonding mode using the interfaces config file
- does anyone know how ubuntu 10.04 handle bonding? i am having a lot of trouble with it
- what is the best way to make ubuntu server use the mose recent kernel? i notice it is using a fairly old one compared with what is in the repos

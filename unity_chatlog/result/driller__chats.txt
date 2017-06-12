@@ -1,3 +1,0 @@
- anyone familiar with vsftpd working against a mysql database?
- how come enav?
- well, mysql database - it reads the users from it (virtual users)

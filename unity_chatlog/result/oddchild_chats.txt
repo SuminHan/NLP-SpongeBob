@@ -1,1 +1,0 @@
- My ubuntu server keeps shutting down at 1AM every night. I cannot find out what started this or how to stop it. When I do a abort on the shutdown it doesnt see any

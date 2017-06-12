@@ -1,5 +1,0 @@
- is there a trick to getting unity to allow you to open a program twice that is docked?
- ah, thanks guys
- will give it a shot
- yep, middle click seems to work, thanks again
- anyone using eyefinity in here? how well does it work?

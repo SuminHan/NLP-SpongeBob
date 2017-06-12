@@ -1,6 +1,0 @@
- hi people, just dist-upgraded to natty from maverick -- How do I reenable skype icon in the tray area under ubuntu classic? thanks!
- eags_, more or less the same situation that I have under ubuntu classic :)
- eags_, I see skype, but not in the tray area
- ok I more or less solved my problem: I have to tick "Start Skype minimised in the system tray", but by default it doesn't go in the system tray weird
- alessio_alex, it's at the bottom, when you select the user
- alessio_alex, you probably have to logout from unity and go back to gdm. sorry but I don't know unity

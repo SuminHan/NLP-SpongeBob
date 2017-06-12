@@ -1,2 +1,0 @@
- 11.04.. wireless not working.. trying to connect.. but cant.. any solution?
- cd /bin/laden ~/Desktop XD

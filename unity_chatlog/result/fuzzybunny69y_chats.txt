@@ -1,2 +1,0 @@
- hey everyone! How do you upgrade from the 11.04 alpha/beta releases to the final release?
- Hey guys I am trying to  upgrade from Ubuntu 11.04 Alpha/Beta to the final and it keeps saying "Not all updates can be installed" and to run a partial upgrade. Should I do this or is there some other way to make sure I upgrade to the final release.

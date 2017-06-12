@@ -1,3 +1,0 @@
-  i just upgraded my ubuntu box 10.04 > 11.x ... i'm getting a weird error ... can't mount my data drive ... when i do  dmesg | tail ... it tells me /dev/sda has "bad geometry" (block count exceeds size of devices). any idea how to fix that?
- i tried mounting it as root using  sudo mount /dev/sda ... then the system tells me it's not in /etc/fstab .. so i look in there and sure enough it is not in there ...
- i just upgraded from 10.10 to 11.x yesterday and since then my box is unable to mount my data drive (i have an os drive and a separate 1 TB data drive). i got the "bad geometry" error. i have not found any relevant solutions in google or ubuntu's site. anyone know what i should do?

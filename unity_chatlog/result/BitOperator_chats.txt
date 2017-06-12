@@ -1,6 +1,0 @@
- man the mirrors are bogged down
- im getting 15.6K
- Yeah, I'll just wait it out. I've already got it installed was just looking to download final release ISO for archive
- Hi, when one is shelled into ubuntu server; how can I launch a process in such a way that it continues to run after I log out ?
- Thanks
- Awsome works good, thanks LjL.

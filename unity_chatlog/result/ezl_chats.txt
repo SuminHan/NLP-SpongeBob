@@ -1,9 +1,0 @@
- where do crontab files live?
- ;;bc,mtgox
- where do crontab files live?
- where can i set the email addresses that apticron emails when updates are necessary?
- i have a bunch of files with no extension and i want to set them to all have the same extension: whats the best way?
- rumpe1: thats where i was heading, but can't quite get it
- $ rename 's/(.*)/$1/'
- oh bugger
- thanks

@@ -1,5 +1,0 @@
- hi there.  any way to get unity to open folders?  I'd like to do something like <windows key> 'home' and have it appear as an icon
- usalabs, but unity is so nice and shiny!  I also love the screen space it frees up.  I used to have all sorts of addons and customisations but it it all looks ok.  ah well.  I mostly use terminal anyway so it's no biggy
- usalabs, yeah seems like it's not finished.  bit of a shame.  really like it though.  I've only just realised that I have two file managers.  nautilus and thunar.  what's with that?
- usalabs, two things for me.  it always gets in the way when I want to go back in firefox.  damn thing's always popping up, so ideally it'd be on the bottom.  secondly (and this is more an issue with gnome than unity) I can't use arrow keys when alt-tabbing: I have to cycle through all the windows if I miss one.  most annoying
- usalabs, nice to chat.  am off now. laters

@@ -1,1 +1,0 @@
- after upgrading to 11.04 chromium fails to start. here's the error http://pastebin.com/whbabZEg I tried reinstalling ttf-mscorefonts-installer but still get this error. Also reinstalled chromium again but didn't help.

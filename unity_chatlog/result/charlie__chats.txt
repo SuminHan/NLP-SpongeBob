@@ -1,5 +1,0 @@
- hi, i have a question about xubuntu, an easy one i guess.
- thx
- i just installes xubuntu 11.04 everything ok but xubuntu automatically mounts my windows volume on my desk
- i dont want xubuntu to put windows volumes on my desk at startup. How can i fix it?
- join #xubuntu

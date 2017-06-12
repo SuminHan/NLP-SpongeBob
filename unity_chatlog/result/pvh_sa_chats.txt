@@ -1,7 +1,0 @@
- hey there, how do i add an item to the menu in ubuntu 11.04 ?
- Dr_Willis: no, the thing which comes up when i hit the 'windows key' - i've got bacula bat installed, but there's no menu item... so i need to manually create one
- hey there, i'm trying to use texmaker with 11.04 and it seems the menus have vanished. the menu bar is there, but no menu items appear when a menu is selected. anyone seen something like this?
- bazhang, nope, it doesn't. menu bar is there, but menus are empty
- bazhang, what's the app panel? i'm looking at the top of the screen
- bazhang, unity
- plouffe, pdftk will do the flipping for you... and here's a suggestion for cropping which might or might not work: http://konrad.familie-kieling.de/computer/34-linux/63-crop-pdfs

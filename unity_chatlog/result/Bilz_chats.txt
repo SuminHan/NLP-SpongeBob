@@ -1,1 +1,0 @@
- hello, im trying to follow this to set up vnc: https://help.ubuntu.com/community/VNC#Guide%20to%20example%20scenarios and I'm currently on a windows machine using putty. I have sshed to my home computer but I don't know how to get the public key which I apparently need to add to a file

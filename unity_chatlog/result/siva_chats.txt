@@ -1,2 +1,0 @@
- helo how to shift close,minimise button of a pgm window to right side?
- on ub11.04

@@ -1,5 +1,0 @@
- Need help with fixing this wireless problem after upgrading to 11.04. I can't view wireless connections using nm-applet, the drivers seem to be installed and the interface is up. Any suggestions?
- nowherefast, nope, what do you mean?
- nowherefast, worked, thanks! What's the problem with nm-applet anyways, any ideas?
- Hello, I am trying to load the uinput module but it's not working. No errror messages are given. Any ideas?
- Guys, anyone managed to enable auth via the fingerprint reader?

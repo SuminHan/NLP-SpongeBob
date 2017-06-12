@@ -1,7 +1,0 @@
- Is there an explanation as to what the mac version ubuntu-11.04-desktop-amd64+mac.iso is?
- I'd like to try Natty on this MacBook but wondering which iso to download.
- red2kic: Yeah I'd presumed so. I was curious where the info is on what that means
- if I try download direct from ubuntu.com I don't get the mac version
- there is also the alternative mac version
- red2kic: where did you get that info?
- red2kic: excellent, thanks!

@@ -1,3 +1,0 @@
- español
- out of range hf 30 70 vf 50 160?
- #ubuntu-es

@@ -1,5 +1,0 @@
- hello i just upgraded to unity and for some reason i can't see my top bar or my left dock thing. the only way i can function unity for now is to login with ubuntu classic. any ideas on how to fix this?
- hello i just upgraded to unity and for some reason i can't see my top bar or my left dock thing. the only way i can function unity for now is to login with ubuntu classic. any ideas on how to fix this?
- hey, i just recently installed 11.04 but for some reason the only way i can navigate in it is if i login with ubuntu classic GUI. When i try to login with unity the top bar and the dock does not show up. any ideas?
- Inacrus6, have you heard any solutions? or heard what the problem might be?
-  Incarus6, alright i'll give it a try and i'll get back to you if it ended up working out or not

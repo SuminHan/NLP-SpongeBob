@@ -1,3 +1,0 @@
- natty is out - is there a reason to not upgrade? how is unity doing? is it playing nicely?
- is unity working fine in vmware workstation?
- i heard it needs 3d acceleration

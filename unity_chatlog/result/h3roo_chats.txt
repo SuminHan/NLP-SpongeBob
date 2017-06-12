@@ -1,1 +1,0 @@
- in term of CHMOD, SUID and SGID what does it meens? >>>>> 7000 >> in need the letters??????

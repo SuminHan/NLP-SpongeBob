@@ -1,2 +1,0 @@
- is it possible to reinstall to a broken system without wiping /home?
- anyone really familiar with grub? Any idea what device.map is supposed to contain if grub whines about not "finding a GRUB drive for /dev/mapper/sda5_crypt"?

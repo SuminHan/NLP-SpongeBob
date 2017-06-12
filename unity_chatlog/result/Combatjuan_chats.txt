@@ -1,4 +1,0 @@
- Oh.  Natty was officially released.  /That's/ why it's so busy in here.
- This might be a dumb question, but what happened to xorg.conf in natty?  Did X get replaced by that zany new fangled thing?
- jatt: I need to adjust some touchpad options that aren't present in the gui.  How do I generate an xorg.conf?
- jatt: Thanks.

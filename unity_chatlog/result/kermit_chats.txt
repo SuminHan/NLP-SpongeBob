@@ -1,2 +1,0 @@
- rgr: i did not install anything really, its just for my grandma
- https://help.ubuntu.com/community/UFW says its off by default, but it really seems like this system has a firewall.. i can IM via skype, but any new inbound connections are ignored, not even refused.  its not behind NAT.

@@ -1,3 +1,0 @@
- I am having trouble with SAMBA after upgrading to 11.04
- same smb.conf file
- I get error messages like: cannot retrieve sahre list form server

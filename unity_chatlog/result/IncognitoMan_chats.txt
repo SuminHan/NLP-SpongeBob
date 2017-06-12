@@ -1,6 +1,0 @@
- http://pastebin.com/1GwpDYip can anyone help me with my dial in problem? it seems to disconnect just as i connect :|
- <Monotoko> IncognitoMan...how are you trying to connect...via command line? --> pretty much
- its my dc pc server setup
- dreamcast -> pc -> eth
- hmm...
- Monotoko: did you get my last message? and if so did you answer it? ( its starting to become hard to catch up lol )

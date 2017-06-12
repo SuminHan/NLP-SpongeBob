@@ -1,5 +1,0 @@
- so, just upgraded to natty on my laptop, and i can't seem to activate nvidia drivers for acceleration anymore...
- apparently, jockey(?) says the drivers are installed, but not activated. but my x log says direct rendering is yes. and nvidia settings says everything is a-ok. glxgears is running, but i can't get unity to load, i just get shunted back to classic 2d
- hm, correction, additional drivers says the nvidia drivers are activated, but not in use... what does that mean?
- and how to "use" them?
- 11.04 so far has been less than stellar ... :(

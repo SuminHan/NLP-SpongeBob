@@ -1,8 +1,0 @@
- why is the 32bit version recomended i currently use a 32bit on a 64bit machine and was hoping to switch to 64bit but the recommended there makes me wonder if i'll then have trouble with lib32 and stuff in order to run 32bit apps any ideas?
- jrib, what about whay velcroshooz said?
- velcroshooz, so won't installing lib32 and stuff solve those issues because i don't want to have to switch back and forth and can you name some?
- jrib, thanks that is a good question do you use 64bit yourself
- jrib, i may still have to download 32bit because i run installations for friends who come with varied machines
- jrib, is there a way to change to 64bit on a 32bit machine maybe a kernel change?
- i mean people get their cds from me jrib
- velcroshooz, jrib then hmmmm i guess this year i'll be selfish and download for just my machine any 32bit guy can't use my cd now

@@ -1,5 +1,0 @@
- renshai ubuntu-beginners
- my computer wont update to 11.04 when i type "sudo apt-get update && sudo apt-get upgrade  && sudo apt-get dist-upgrade"
- tanath how can i update to 11.04 then?
- when i attempt to run the comand it just updates my system and tells me no updates are avaible
- im updating my server over ssh

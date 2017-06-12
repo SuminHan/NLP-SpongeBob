@@ -1,3 +1,0 @@
- Hi is it required to  install ATi/AMD proprietary FGLRX graphics Driver or not if i am able to use unity
- i am able to run 3D games successfully then i hope not required to install ATI driver
- if i install i am not able to use unity it says clearly that i dont have hardware card but i have 215mb on board graphics card available

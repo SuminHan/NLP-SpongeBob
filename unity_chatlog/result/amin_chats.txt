@@ -1,1 +1,0 @@
- hello guy last night I update my ubuntu and install items in update manager about 3mb but today I have about 130mb update  while I was trying to update it it refreshed and become 49kb worth of download update what is wrong?

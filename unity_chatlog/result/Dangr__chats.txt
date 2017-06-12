@@ -1,8 +1,0 @@
- Hey there - I upgraded to 11.04 and have dual monitors - however I can't move a window from one monitor to another
- When I drag the window to the side to move to another monitor it resizes to half the screen size - Windows 7 style
- Unity - sorry should have mentioned that
- MustardCU1, Unity - sorry should have mentioned that
- MustardCU1, crud - yeah so far I dont think I will either :-/
- However I have another issue - my wireless cards download speed is brutally slow - but upload speed is fine
- Any ideas as to why my wireless download is so poor but upload is fine?
- It was working just fine on 10.10

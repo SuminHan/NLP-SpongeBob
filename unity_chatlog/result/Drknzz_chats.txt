@@ -1,2 +1,0 @@
- hi Everyone! How can i temporarily disable 3D acceleration in Ubuntu 11.04? Fusion-icon doesnt seem to be working
- hi Everyone! How can i temporarily disable 3D acceleration in Ubuntu 11.04? Fusion-icon doesnt seem to be working, and i need to disable compiz so flash does work

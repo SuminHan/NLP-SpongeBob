@@ -1,8 +1,0 @@
- can anyone help with upgrading to 11.04? getting a fetch error
- can anyone help with upgrading to 11.04? please
- Thank you, I keep getting a fetch error
- You don't have permission to access /ubuntu/pool/universe/x/xulrunner-2.0/xulrunner-2.0-mozjs_2.0+nobinonly-0ubuntu1_i386.deb on this server.
- meisth0th: did you see the error?
- meisth0th: ok let me ask you this though. I burnt the alternative iso disc too, why is that trying to fetch something from online?
- yes that one
- Flare183: shouldn't it have all the packages?

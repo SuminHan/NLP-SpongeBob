@@ -1,1 +1,0 @@
- zsync from the main mirror didn't work -- are there mirrors that have zsync?

@@ -1,2 +1,0 @@
- hi there
- i installed an ubuntu server 10.04 a few days ago and i'm stocked with an pci express ethernet card with realtek chipset r8168 somebody could help me ?

@@ -1,5 +1,0 @@
- http://www.webupd8.org/2011/04/things-to-tweak-fix-after-installing.html <- the hidden files tutorial was very helpful
- I get warning telling me that I'm not on 11.04 and that my current version is 11.04
- Why doesn't flash work in 11.04?
- pumeust: it will error out
- What's the name of the default theme for 11.04/

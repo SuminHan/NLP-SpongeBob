@@ -1,6 +1,0 @@
- so slight problem, ndiswrapper shows that the driver for my 2wire wiress adapter is all there and present, yet no wlan0 starts up.... iwconfig shows no wireless connections and im lost, any help please?
- ok, so while attempting to install my 2wire wifi adapter, ndiswrapper shows that the driver is install properly yet i do not see a wlan0, also in lsmod is shows that ndiswrapper is not being used, I need some help figuring out this wifi dilemma please
- according to the ubuntu wifi docs it says if there is no wlan0 then the problem persists with the driver not working properly, I am following the ubuntu unleashed wiki
- newubuntu, no need for all caps, even with frustration, possible if they still have it your c2032 battery on the motherboard is dead, replace, reset in bios, and see if fixed
- newubuntu what jrib said
- hmmm, idea, brb

@@ -1,1 +1,0 @@
- erratic unresponsive UI after upgrade.  after upgrade to natty (running beta packages from early this week), mouse cursor moves fine, no apparent load, but occasional (often enough) can't click anything: mouse/keyboard fail do do anything (unity 3d on intel graphics on Dell Inspiron 15).

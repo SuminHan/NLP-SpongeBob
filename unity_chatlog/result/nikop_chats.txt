@@ -1,5 +1,0 @@
- hello, can somebody help me? I updated Xubuntu to the newest version yesterday. Now I cannot find my Multiboot -menu by pressing SHIFT on startup, what i can do?? Do i have my Windows partiotion anymore??
- Younder, How can i access that grub menu?? Before yesterday I got the grub menu by pressing and holding SHIFT on startup, now it doesnt work!! :(
- Younder, and i have Grub version 1.99~rc1-13ubuntu3 installed
- How?
- Younder, how? :)

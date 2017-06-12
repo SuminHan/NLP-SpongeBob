@@ -1,7 +1,0 @@
- Hello
- @angelete2 what kind of error does it return?
- gnome itself is
- but the standard interface is unity in 11.04
- Infact I'm running ubuntu 11.04 with gnome 3 =D
- well I did not like unity as much as I do gnome 3 but nope everything worked out of the box
- #rchavik what's the problem

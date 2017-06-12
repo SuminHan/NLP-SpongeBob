@@ -1,5 +1,0 @@
- Dark_Link: The instructions to add the PPA are here: https://launchpad.net/~ubuntu-x-swat/+archive/x-updates
- Dark_Link: Basically, type: sudo add-apt-repository ppa:ubuntu-x-swat/x-updates
- then: sudo apt-get update
- Dark_Link: What are you trying to do exactly?
- Dark_Link: What version do you have and what version are you trying to get?

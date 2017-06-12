@@ -1,2 +1,0 @@
- I'm experiencing extremely slow download speeds  (both wired and wireless). They're less that 1/4 the speed the same computer gets on Windows, where do I look for help?
- gogeta: Oh ok, thanks for the heads up.

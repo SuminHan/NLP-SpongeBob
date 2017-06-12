@@ -1,4 +1,0 @@
- any issues with broadcom 4311 wifi cards not being detected after updating from Maverick?  Mine is not detected.
- MrStein: check that you are access the Best Server for your area of the world
- yeah but that depends on those servers having a good connnection and the file.  Might also check that the default http server is best for you.
- MrStein: http://blog.hafees.com/linux/ubuntu-change-download-server-and-fix-slow-updates/

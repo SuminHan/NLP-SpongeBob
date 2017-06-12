@@ -1,8 +1,0 @@
- ahoi, how to make the sshd of some of my ubuntu machines use the /etc/{passwd,shadow} from my master machine?
- Guest66097: http://goo.gl/cEF1w
- hi, i just branched a bzr repo from lp which says i should run ./configure, but there is only a configure.ac, what to do?
- uberfrau: what do you mean?
- uberfrau: there is nothing special hidden, just .bzrignore and .bzr
- uberfrau: normally i know how to compile, but i'm not into autoconf
- xD
- .oO(ah running autoconf generates a configure script)

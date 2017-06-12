@@ -1,2 +1,0 @@
- Hello there!
- I'm sure it has been asked a thousand times before, but is there a way to have gnome-panel applets on the new natty panel without reverting to the vanilla gnome setup?

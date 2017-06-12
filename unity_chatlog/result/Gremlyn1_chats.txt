@@ -1,3 +1,0 @@
- multi-monitor question: I have my laptop (on 10.04) with an HDMI->DVI cable plugged in to a second monitor. I have the laptop as display0, I think, as it has the menu/task bars, but programs are opening by default in display1 (the larger, desktop monitor). Anyone know how to alter that behaviour?
- sorry to repeat, but I didn't see an answer: I have my laptop (on 10.04) with an HDMI->DVI cable plugged in to a second monitor. I have the laptop as display0, I think, as it has the menu/task bars, but programs are opening only in display1 (the larger, desktop monitor). Anyone know how to alter that behaviour?
- phibxr: you mean under Preferences > Monitors? I don't see an option for specifying default/primary

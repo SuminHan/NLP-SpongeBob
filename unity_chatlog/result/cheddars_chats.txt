@@ -1,4 +1,0 @@
- ok ubuntu we know your different but more the window buttons back to the right please!
- hello guys. im using the gparted tool in the livecd (cool!) i have made 100 GB free for use in ubuntu. do i restart the computer and then choose install or do i still do it from inside the livecd desktop
- ok cool
- and that will allow me the option to use the unpartitioned space that i have free and leave my windows 7 install in tact, and also put like grub or something so i can dualboot

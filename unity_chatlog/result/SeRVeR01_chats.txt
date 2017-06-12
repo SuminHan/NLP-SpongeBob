@@ -1,4 +1,0 @@
- NerdPatrol, it's out
- hey there, am trying to play game with wine but i got a disturbing thing the game doesn't come in full screen the title bar of ubuntu still there =/ any ideas ?
- hello there , when i play any game under wine  can't get rid of the top title bar any ideas  ? thanks
- hello there what client for yahoo support voice chat ?

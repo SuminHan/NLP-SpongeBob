@@ -1,5 +1,0 @@
- my sound has suddenly became choppy, all of it sounding like a person speaking through a fan, trying to find a way to bring it back to normal without rebooting
- so, "movie player" is the culprit of my audio issues
- after I run it, all the audio on the machine gets choppy and distorted, and I have to reboot to make it normal again
- I am having issues with my audio, in 11.04, audio works fine until I run the "movie player" application, then audio becomes choppy and distorted, until I reboot my machine
- well, its not streaming in general, seems to just be the "movie player" program, Audacious can play audio without breaking it

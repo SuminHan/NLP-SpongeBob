@@ -1,1 +1,0 @@
- Hey guys. I did an update to Natty, now after a login I see the shell for a very short moment and get back to Login screen :(

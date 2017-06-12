@@ -1,1 +1,0 @@
- I upgraded to 11.04, and after reboot my computer doesn't launch Xorg. It shows all the boot messages (though it shouldn't), the last message being "Starting uptime daemon: uptimed"

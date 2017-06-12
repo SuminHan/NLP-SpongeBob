@@ -1,4 +1,0 @@
- KillaloT: if you going to reinstall anyway, I don't think it matters 'how' you stop it
- anyone know how to reconfigure display resolution?  Just had to change to onboard nvidia card as old nvidia add on failed... ubuntu 10.04 at grub screen its fine, but once it loads it only goes to 800x600
- hateball: kinda of obvious... should try that.. ty
- hateball: k

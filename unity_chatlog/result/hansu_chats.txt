@@ -1,1 +1,0 @@
- anyone know how can i read/write in my hdd using LBA method ? any example in asm .. ?!

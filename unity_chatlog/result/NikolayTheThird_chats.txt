@@ -1,1 +1,0 @@
- Why is moving windows around so slow now in 11.04 compared to 10.10?

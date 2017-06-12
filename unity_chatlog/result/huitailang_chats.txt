@@ -1,6 +1,0 @@
- hi
- i wanna compile a package named gbkfonts
- on 11.04, gbkfonts requires /usr/include/freetype/ftxpost.h
- how can i install freetype and freetype-dev ?
- i just installed libfreetype6 and libfreetype6-dev. it does not worked.
- what should i do for install libttf and libttf-dev?

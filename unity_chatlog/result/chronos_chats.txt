@@ -1,2 +1,0 @@
- good night. have someone booted livecd at a notebook with nvidia GTS 360m ? I getting a 'zebra' screen here
- and booting from a usb stick

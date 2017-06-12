@@ -1,9 +1,0 @@
- ubuntu 11.04 upgrade available popped up i am happy with MM 10.10 any suggestions?
- k thks carandraug  and rgoytacaz  avoiding that popup how can i nvoke later?
- that is the LTS
- roknir if true a good point
- thks roknir
- so i will opt for ask later on 11.04 upgrade cu
- when is later ? each restart of computer?
- carandraug:  how did you go back ?have both  on grub menu or how you down graded
- that is repartitioning carandraug  why not have possibility as the small updates kept all in grub?

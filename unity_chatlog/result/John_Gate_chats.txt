@@ -1,6 +1,0 @@
- I just installed natty narhwal on an "old" IBM laptop with 1,86GHz and ATI graphics. In the "Additional Drivers" application it it sais that no proprietary drivers are in use. Are there proprietary drivers that are better than the default ones, and if so, how do I get them?
- somethinginteres: I start "Additional Drivers" but no drivers are displayed in the list..
- somethinginteres: that for that channel, I will join it!
- When buying a new laptop to use with natty narwhal, is it best to chose intel or amd processor? And amd, nvidia or intel graphics? I mean, does ubuntu run better with some cpus/gpus?
- compdoc: I see!
- Is there an application that easily let's you chose and install themes? I use natty narwhal.

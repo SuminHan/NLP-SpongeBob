@@ -1,2 +1,0 @@
- got this error when open cheese One or more needed GStreamer elements are missing: camerabin, can someone help me?
- got this error when open cheese One or more needed GStreamer elements are missing: camerabin, can someone help me?

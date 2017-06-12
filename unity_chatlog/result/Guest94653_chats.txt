@@ -1,1 +1,0 @@
- sorry for bad english, but I'm having problems with the file libgtk-1.2.so.0, someone help me?

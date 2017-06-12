@@ -1,6 +1,0 @@
- i just upgraded to xubuntu/natty and now when i try to shutdown or restart it just takes me back to the login screen
- where does ubuntu set the permissions for who is allowed to shutdown and/or reboot?
- after upgrading to xubuntu natty when i try to shutdown or restart it just takes me back to the login screen
- cache_surplus: i already tried that, trying to shutdown like that way locks up the computer
- how do i change gdm theme/appearance in xubuntu?
- misse-: the very first command on that page gives me "No such file or directory"

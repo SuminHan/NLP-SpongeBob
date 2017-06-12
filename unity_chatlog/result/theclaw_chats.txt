@@ -1,7 +1,0 @@
- hi
- after upgrading to ubuntu 11.04, the gtk+-themes I set in appearance settings don't work anymore. everythings in the default theme
- any idea?
- there seems to be something wrong with my gnome setup. when I log in, "gnome-settings-manager" is there twice, and I get the error in .xsession-errors "You can only run one xsettings manager at a time; exiting" - any idea?
- with a new user, everything works
- my system (upgraded to natty) often hangs while booting (last line shown: "NET: Registered protocol"), and continues after I unplug my usb mouse. is this a known issue?
- I don't have a volume control applet in 11.04 anymore. which package is this?

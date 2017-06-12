@@ -1,4 +1,0 @@
- just fresh-installed 11.04: nouveau are useful for me and I need proprietary drivers from nvidia; blacklisted nouveau module, installed nvidia-current, There is no more "nvidia-xconfig"... Help please
- NVIDIA-XCONFIG help---> just fresh-installed 11.04: nouveau are useful for me and I need proprietary drivers from nvidia; blacklisted nouveau module, installed nvidia-current, There is no more "nvidia-xconfig"... Help please
- NVIDIA-XCONFIG help---> just fresh-installed 11.04: nouveau are useful for me and I need proprietary drivers from nvidia; blacklisted nouveau module, installed nvidia-current, There is no more "nvidia-xconfig"... Help please
- NVIDIA-XCONFIG help---> just fresh-installed 11.04: nouveau are useful for me and I need proprietary drivers from nvidia; blacklisted nouveau module, installed nvidia-current, There is no more "nvidia-xconfig"... Help please

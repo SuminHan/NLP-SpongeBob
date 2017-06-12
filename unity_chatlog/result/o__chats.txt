@@ -1,2 +1,0 @@
- hi , xubuntu 11.04 is not announced in distrowatch. Is it released?
- zak: use dd command

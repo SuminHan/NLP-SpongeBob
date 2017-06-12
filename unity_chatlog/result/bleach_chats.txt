@@ -1,2 +1,0 @@
- hi guys, I'm trying to record from my webcam using vlc. I managed to set up the video capture specifying the name of the device /dev/video1 but I'm not sure which is the name of the audio device, can anyone please help me get it?
- hi guys, I'm trying to record from my webcam using vlc. I managed to set up the video capture specifying the name of the device /dev/video1 but I'm not sure which is the name of the audio device, can anyone please help me get it?

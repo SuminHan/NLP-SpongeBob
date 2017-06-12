@@ -1,1 +1,0 @@
- hi, I met a problem about X frozen, when I want to report a bug by apport-bug, it told me try to find a result here. could anybody tell me how to report a bug to lunchpad.net ?

@@ -1,5 +1,0 @@
- hi. I have the black screen problem when upgrading from 10.10 to 11.04
- I've googled and found some misc solutions
- is there some official solution/fix?
- anyone with 10.10->11.04 black screen problem fix?
- thanks, will take a look

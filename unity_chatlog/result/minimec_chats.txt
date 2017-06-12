@@ -1,9 +1,0 @@
- BlaDe^: after you plugged it try 'dmesg | tail' in a console. That may give you some information.
- BlaDe^: if it is somehow recognized it should give you the /dev/sdX device. Is it possible to have external power for that hdd. Try that too.
- BlaDe^: that is probably your internal harddrive. It may be 'sdb' ...
- BlaDe^: External dardrives should be recognized without problem ... Should be recognized as mass storage device.
- BlaDe^: I would do a complete shutdown, unplug that harddisk, do a clean boot and try again without having other USB devices connected.
- BlaDe^: then again dmesg or dmesg |tail should give you some info aobut the device, after you plugged it.
- Stereocaulon: BlaDe^: That's what I was thinking too... --> power
- BlaDe^: Do you have a powerd USB hub that you could connect between the HDD and the laptop? THat might also help.
- BlaDe^: I would do tests like that. I don't see any reason for that HDD not to work with a standard ubuntu install. It should be recognized as simple 'mass storage device'. Only thing I see is a 'power' problem. In that case dmesg may not see the device. In all other cases, the system should see the device and give you some info with 'dmesg | tail' after you plugged the HDD.

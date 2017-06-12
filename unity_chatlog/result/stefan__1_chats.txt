@@ -1,7 +1,0 @@
- egolost: Start Application --> right click and select, that the application always show up
- egolost: You mean at the unity applications menu?
- echolost: alternativly try to start the app over a terminal
- egolost: otherwise you can start the menu ?reorganization? with a command, which I actually don't know --> if you need the app in the unity menu
- 11.04 is offcial out :)
- galumph: nope, just make a reload. Proxy?
- Downloading and Testing^^

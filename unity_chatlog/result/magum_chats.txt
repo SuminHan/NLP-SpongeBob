@@ -1,8 +1,0 @@
- hi @all
- could somebody please tell me how I can close my gnome session and go to the login screen from the console?
- I am stuck in a gnome session without title or side bar...
- killing the x session... that is an idea
- I'll try it!
- back
- thx for the tips
- ... restart gdm did not work, but killing Xorg was fine

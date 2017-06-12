@@ -1,6 +1,0 @@
- ciao ragazzi! ho un problema con ubuntu 11.04: praticamente non riesco ad attivare gli effetti visivi :( ho una scheda nvidia geforce go 7300 e i driver installati sono quelli proprietari che raccomanda ubuntu. qualcuno può aiutarmi?
- hi, i have this problem: i install ubuntu 11.04 but now the visual effects do not work. I have a video card nvidia geforce go 7300 and drivers that are installed are those that you recommend ubuntu. can you help me?
-  hi, i have this problem: i install ubuntu 11.04 but now the visual effects do not work. I have a video card nvidia geforce go 7300 and drivers that are installed are those that you recommend ubuntu. can you help me?
- hi, i have this problem: i install ubuntu 11.04 but now the visual effects do not work. I have a video card nvidia geforce go 7300 and drivers that are installed are those that you recommend ubuntu. can you help me?
- Ubuntu123, i have same problem
- hi, i have this problem: i install ubuntu 11.04 but now the visual effects do not work. I have a video card nvidia geforce go 7300 and drivers that are installed are those that you recommend ubuntu. can you help me?

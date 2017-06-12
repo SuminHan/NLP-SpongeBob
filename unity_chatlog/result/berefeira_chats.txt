@@ -1,5 +1,0 @@
- unity on netbook, what say you?
- has anyone run apt-get dist-upgrade and had problems?
- updated, no wobbly windows, is this correct?
- anyone have slow ssh and terminal issues?
- anyone elase having terminal issues e.g. slow ssh, screen?

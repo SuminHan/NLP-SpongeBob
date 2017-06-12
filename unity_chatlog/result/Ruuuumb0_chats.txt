@@ -1,9 +1,0 @@
- LALALLAA: Hi
- LALALLAA: english%irc.freenode.com
- ups
- LALALLAA: "ubuntu-11.04-desktop-i386.iso
- vibhav:  ubuntu 11.04 released ?
- Cool !
- Go to upgrade )
- who knows is gnome 3 in ubuntu 11.04 ?
- KrisDouglas: ok

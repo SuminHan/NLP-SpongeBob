@@ -1,1 +1,0 @@
- is ppa:ubuntu-toolchain-r/test the best way to get gcc 4.6 in natty?

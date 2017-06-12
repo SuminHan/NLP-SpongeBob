@@ -1,9 +1,0 @@
- Hello people.
- I had trouble booting up the amd64 10.10 live CD.  Is there a chance it's been updated since I downloaded it some months ago?
- Incarus6: It's a 4 or 5 year old laptop.
- Incarus6: Is there a chance an installation will work better than a live cd somehow?
- spicy: It's the same thing.
- spicy: I'm using amd64 solaris on an intel machine.
- Incarus6: ok.
- spicy: plus, it's politically correct to call the platform amd64 since they invented the platform.
- Incarus6: Haha, ok.

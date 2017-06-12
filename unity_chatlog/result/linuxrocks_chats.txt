@@ -1,7 +1,0 @@
- Hi all, I'm going to upgrade from 10.10 to 11. Has anyone encountered some obvious problems during the upgrade process?
- michaels, which kind of problems?
- michaels, that's not good. What did you do then?
- michaels, which things?
- michaels, thanks, I will postpone the upgrade...
- michaels, yes, this is my "production" machine. Prefer services to be up than running the new, shiny version of Ubuntu
- michales, s/the/than

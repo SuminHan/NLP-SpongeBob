@@ -1,1 +1,0 @@
- shared with samba, but from win, don't have access right, how to use chown cmd to make it work.

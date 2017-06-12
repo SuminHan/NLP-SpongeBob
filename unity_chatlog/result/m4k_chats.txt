@@ -1,9 +1,0 @@
- Can any one help me why this shell script running in loop http://pastebin.com/y9jHX201
- how do I connect with windows pc with its name from ubuntu
- ActionParsnip: actually My  SVN server is on windows machine I'm not able to checkout with pc name, and the network is using DHCP
- I have my SVN server in windows server and the network runs on DHCP how I can checkout with pc name .... ubuntu is not able to connect with PC name
- ActionParsnip, no
- GeorgeJ, i can ping with ip but not machine name
- ActionParsnip, LAN is DHCP so ip changes every day
- can install samba if that works
- ActionParsnip: yes will change it soon I just joined them

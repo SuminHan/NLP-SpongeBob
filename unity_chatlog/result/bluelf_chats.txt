@@ -1,2 +1,0 @@
- hi guys I recently upgraded to 11.04 I am not able to install xbmc is it something to do with latest ubuntu , I cant even find it in synaptic package manager
- coz_ I tried that dint work

@@ -1,5 +1,0 @@
- hi all
- my xserver does not work after 11.04 upgrade. It was alternate install from cd
- my problem is i can not use internet in command line because 3g modem
- join #compiz
- i can not resize windows! moreover i haven't any plugin in ccsm to fix that! it seems it should be under uncategorized item but it's does not exists. what now i should do?

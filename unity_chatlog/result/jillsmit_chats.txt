@@ -1,5 +1,0 @@
- hello
- where can i get manuals about zte ax226 4g modem usage under ubuntu 11.04?
- where can i get manuals about zte ax226 4g modem usage under ubuntu 11.04?
- help me please to configure and enable zte modem in ubuntu 11.04
- how to enable zte wimax device in ubuntu 11.04?

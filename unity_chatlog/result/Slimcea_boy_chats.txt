@@ -1,4 +1,0 @@
- Why is #ubuntu+1 invite-only, and may I please be invited? I would like to ask some questions about the next release.
- Can I use an desktop install iso so my upgrade doesn't have to go to network, or does that only work with the alternate CD?
- ohsix: ok, can you point me at the instructions for doing this, I can't seem to find them :\
- If I want to try gnome3, what PPA should I be installing from?

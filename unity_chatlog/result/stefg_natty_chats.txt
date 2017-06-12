@@ -1,7 +1,0 @@
- Laibsch: the point is to that /after/ lvm reconfiguration, so the new lvm-conf gets into the initramfs
- Robert__: there's #vbox ... if it's ubuntu-host related it might fit in here
- Elladan: instead of getting upset i think you should just accept the fact that you are not in the target audience for unity. I'm p*ssed, too that Canonical picked up the nasty habbit of breaking my setup with every update. Unity is a take-it or leave-it thing, and as things semm, you should rather leave it and pick classic or even emigrate to mint
- Robert__:which version are you running?
- Robert__: i run vbox 4.0.6 PUEL on lucid (with maverick-backport kernel) without issues... does booting from a iso-image (not the physical host drive) not work either?
- h-dee: make sure you have a fresh backup ready to restore in case something breaks or find yourself hating the new UI
- Robert__ so need to explain a little further what doesn't work. You can't get anything to boot inside virtualbox?

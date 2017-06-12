@@ -1,6 +1,0 @@
- i have installed an application (adobe AIR) that is only supported on 32 bit ubuntu. now i've noticed that there is no sound in *.air applications. is there any way I could check if there is some i386 sound library that is missing?
- hello. how could I change the desktop layout in 10.10 to a more "standard" one?
- hello. is there any way to switch to the previous layout of the desktop? this layout in ubuntu 10.10 is just useless
- nothingspecial: i have autologin set on
- ohsix: what if my machine automatically logs in?
- ohsix: sure

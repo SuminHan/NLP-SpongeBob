@@ -1,2 +1,0 @@
- I've already gotten used to having the application menu in the top bar (unity) but I noticed that Emacs does not currently work this way.  Each window has its own menu still.  Are there plans to make this consistent?
- mmond

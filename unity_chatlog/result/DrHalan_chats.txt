@@ -1,1 +1,0 @@
- hey, are there plans to create one unified appmenu für appications that have multiple windows? like empathy e.g.

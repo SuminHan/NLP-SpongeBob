@@ -1,2 +1,0 @@
- is there a way to turn off automatic maximizing in unity when window is dragged toward the top
- is there a way to turn off automatic maximizing in unity when window is dragged toward the top

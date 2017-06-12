@@ -1,1 +1,0 @@
- hi guys! does the official natty installer supports full disk encryption or should i use the alternate installer image?

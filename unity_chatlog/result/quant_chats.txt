@@ -1,9 +1,0 @@
- !question
- eiriksvin, there is a way to install Gnome Shell and Gnome 3 which breaks Unity
- !question | comthre3
- eiriksvin, Classic is Gnome 2
- comthre3, what exact problem are you getting?
- comthre3, do you see it open the torrent file?
- comthre3, check more torrents and check all the setting (maximum and minimum dowload and upload limit etc.)
- eiriksvin, what are you referring to as "classic"?
- !question | Alec_

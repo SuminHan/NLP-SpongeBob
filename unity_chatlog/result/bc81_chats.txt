@@ -1,4 +1,0 @@
- hi.  i need some help unmounting this stubborn nfs share.  it's got nautilus timing out and frozen, doing all kinds of odd things.
- i'm reluctant to upgrade to 11.04...the last 3 times i upgraded through the update manager, i ended up having to reinstall completely.
- does anyone have upgrade success stories?
- ok, thanks for the feedback, folks.  i'll probably just reinstall from cd, to avoid the pitfalls

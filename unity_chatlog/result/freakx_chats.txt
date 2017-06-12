@@ -1,2 +1,0 @@
- hi
- i have radeon hd3200 graphic card, lcd brightness buttons doesnt work, but when i set full brightness on battery and unplug power cable, screen is going 100% bright :D how to set it as default?

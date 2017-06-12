@@ -1,4 +1,0 @@
- i have 2 computer running with ubuntu, have shared some folders -- neither computer can see the other shares when browsing through nautilus. any thoughts?
- Blue1: i'm coming from windows, what's the equivalent of ipconfig to find my IP?
- Blue1: yes they can ping each other
- Blue1: I believe so. I right clicked on the folder, enabled sharing, it installed what I thought was samba to enable it... then later I also tried apt-get install samba4 on both systems

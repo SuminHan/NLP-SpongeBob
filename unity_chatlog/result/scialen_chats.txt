@@ -1,7 +1,0 @@
- howdy! I got a no mount /dev/loop0 problem for 11.04
- I got a problem for 11.04 - can not mount /dev/loop0 to //filesystem.squashfs due to  an I/O error.
- mello: I have the same problem
- CD, then DVD on the CD iso
- I'm now downloading the DVD iso
- but mine was an I/O error
- guys, I'm having trouble installing from CD and DVD - I can not mount /dev/loop0 to //filesystem.squashfs due to an I/O error, can you help?

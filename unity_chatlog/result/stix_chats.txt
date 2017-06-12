@@ -1,5 +1,0 @@
- Hi guys. I just upgraded to 11.04 but I don't like unity. How can I start Gnome again?
- Axlin, I cannot select anything at the bottom of the login-screen as I used to
- usalabs, thanks, that must do it :)
- Hi guys. I want to grep something a match the word "Ring" followed by a whitespace. grep 'Ring\s' is not working. What should I use?
- jrib, thank you it worked :)

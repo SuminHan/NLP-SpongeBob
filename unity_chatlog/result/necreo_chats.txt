@@ -1,8 +1,0 @@
- ho do you pin windows on top now with unity?
- Dr_Willis: doesn't really work nicely with chrome but ok
- thanks
- is there still something like netbook remix for 11.04, or is it just the regular ubuntu?
- ok, so it is default, will it automatically default to the 2D unity interface? or will it try compiz?
- LjL: ok thanks, I would still prefer the 2D version, want to get most out of it
- which is the gnome 2.X interface
- on a seemingly unrelated note: sometimes unity on my laptop is choppy and I got weird shadow artefacts (binary nvidia driver), however I never get the impression my GPU is being used for Unity, how can I check this?

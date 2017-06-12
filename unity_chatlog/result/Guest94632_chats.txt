@@ -1,7 +1,0 @@
- just received the new update and now I have no wireless networking... I have the third party bcm43xx drivers installed but I do not remember what to type to bring up the wireless networking... thought it was something like ifconfig wlan0 up...but not sure
- litropy, it is enabled in the bios... the only change that I made to the system was to upgrade to 11.04... from 10.
- this is on my laptop and the wireless is not coming up when I press the button
- ok
- i will try that
- litropy, i guess i could uninstall and reinstall...
- [the driver]

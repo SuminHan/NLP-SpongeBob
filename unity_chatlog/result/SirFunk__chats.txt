@@ -1,3 +1,0 @@
- hey, so i just snagged this fancy Acer laptop (Dual core intel) from work... trying the ubuntu boot cd on it.. it doesn't recognize the HDD though :( how can i install?
- herbs: don't think so, had windows 7 on it before
- jack123: i don't seen an option for that

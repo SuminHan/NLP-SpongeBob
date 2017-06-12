@@ -1,2 +1,0 @@
- In 10.10 which i ran until about now, dropbox showed an icon in the top right of my screen which showed its status and had a drop down menu. Now in Narval, i don't know how to get it there. In 10.10 the icon automatically appeared when i started dropbox.
- durando, i like Unity. On a first look it was rather annoying. But i'm really starting to like it now

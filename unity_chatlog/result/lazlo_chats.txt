@@ -1,7 +1,0 @@
- After my upgrade to 11.04 my panel is gone, how to fix?
- After my upgrade to 11.04 my panel is gone, how to fix?
- yes
- step21: yes
- step21: yes, i know, but there is no panel at all
- step21: should be possible, but I'm automatically logged in, so can't get to the login screen
- step21: nope

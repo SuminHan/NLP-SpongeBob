@@ -1,2 +1,0 @@
- Anyone here have any idea why the installer front for ubuntu 10.4 and 11.4 just blinks/flashes when i select "install on harddisk) Its a HP DL380g7
- i must add that it is the server only version of the iso

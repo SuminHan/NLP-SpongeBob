@@ -1,5 +1,0 @@
- how do I upgrade to natty from shell?
- I want to increase time before gnome sessiion is locked. How do I change it?
- locked by password
- two applications I need on linux: real player and soapcast
- what packages do I install?

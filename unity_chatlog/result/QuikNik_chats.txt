@@ -1,5 +1,0 @@
- Hey guys, am I not supposed to have a '/boot/grub/menu.lst' file that I can use for updating my grub menu?  I'm trying to get my install of 11.04 to boot the older kernel.. as my system doesn't like the 2.6.38 kernel.  It's listed in previous versions, but I need to change grub to default to it
- any ideas?
- cheapie: D'oh... thanks
- Jordan_U, edbian: Gotcha, thanks
- Jordan_U: Great, thank you!

@@ -1,6 +1,0 @@
- how can i create a new account
- in xchat
- how can i create a freenode in xchat.
- how to create new server in xchat?
- yes
- where i want to type "/j #<channel name>

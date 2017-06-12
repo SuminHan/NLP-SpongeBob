@@ -1,1 +1,0 @@
- This is interesting, probably a bug I'm sure. -- Just upgraded from 10.04 up to 11.04 and I have no sound. I had sound though when upgrading from 10.04 to 10.10. Any ideas?

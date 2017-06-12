@@ -1,7 +1,0 @@
- After installing natty, rebooting, I get a desktop with no panels, and have no ability to bring up the unity dash... has anyone had this issue? advice to start diagnosing it?
- how do i install nvidia drivers for my system while using a live cd?
- hiexpo there's absolutely no way? i uninstalled the nvidia drivers from my system, and on reboot now the screen is all garbeled
- anyone else getting on natty install no panels?
- i'm just getting my desktop, nothing else, and i can't bring up the dash or anything
- cheapie: no, how do I do that?
- cheapie: trying it now

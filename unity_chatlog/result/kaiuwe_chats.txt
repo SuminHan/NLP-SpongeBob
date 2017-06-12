@@ -1,1 +1,0 @@
- hm in natty nvidia-settings always says "cannot open /etc/X11/xorg.conf for writing" thus making my changes (two monitor configuration) vanish on restart

@@ -1,1 +1,0 @@
- I've installed python-gdata but it doesn't seem to be including the calendar module: http://paste2.org/p/1399187

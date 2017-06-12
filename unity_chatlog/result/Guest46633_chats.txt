@@ -1,4 +1,0 @@
- Is there some sort of firewall on by defualt in Ubuntu?  I could ssh in just fine when I set it up, now I've flown away and can't ssh in from anywhere else.  It's directly connected to a cable modem.
- ljl: but i could connect via ssh locally.. does the default fw care about source IP?
- ljl: wow i hope you're wrong.. i set up a system 1500 miles from home and i'm half way accross the country now.
- ohsix: so its all open by default?

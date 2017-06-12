@@ -1,3 +1,0 @@
- im on ubuntu 11.04, im trying to find instances of the currently running apps, coz everytime i try to start skype, it says there is another instance of it running
- shcherbak, any of those GUI?
- how can i rearrange things on the new ubuntu launcher sidebar

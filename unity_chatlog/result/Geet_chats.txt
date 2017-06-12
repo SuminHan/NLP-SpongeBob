@@ -1,9 +1,0 @@
- hello
- can anybody recommend me better linux for laptops
- ?
- no
- just one year old...and I m having issues like less battery backup...heat ...fan noise with ubuntu
- I m using Dell studio 15....and my laptop is having heating problems with ubuntu
- anybody linux expert here?
- I have an issue with ubuntu...on dell...it gets heated can anybody suggest solution or better linux?
- gnome3 vs unity???

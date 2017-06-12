@@ -1,2 +1,0 @@
- Hello.  I've just installed 11.04.  Not very happy with the menu system.  How can I make it act more like a traditional menu?
- Thanks stefg

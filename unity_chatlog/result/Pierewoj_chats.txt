@@ -1,8 +1,0 @@
- Hello, I am kind of new to Ubuntu, I was using my previous ubuntu for programming (had to install some additional libraries like image magick and boost) and after I came back, I installed new Ubuntu 11 and my wifi somehow stopped working. If someone could help me with that, please PM
- let me check it
- its my mothers notebook so... :P
- oshix, do you see my msgs?
- ohsix
- ohsix: It's atheros
- please someone help me with my wireless connection on new ubuntu 11, it doesng work after installing ubuntu 11 (its atheros)
- terry: thanks, hope it will work

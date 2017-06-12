@@ -1,1 +1,0 @@
- Fetching the updates fail because the server http://ubuntu.mirror.cambrium.nl return forbidden 403. Where can i get a other mirror?

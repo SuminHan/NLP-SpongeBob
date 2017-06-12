@@ -1,5 +1,0 @@
- Hmmm. What should I do when kernel panic. Im trying to install 11.04?
- Whats wrong, my Ubuntu 11.04 installation gets stuck to Ubuntu loading screen, tried 2 different cds and from usb stick?
- Brandonc503 umm I should just leave my computer waiting like 1 hour?
- From usb stick I can see the menu and I am now running memtest
- scotty^ cant remember, but comp is brand new HP G62 with 4GB memory

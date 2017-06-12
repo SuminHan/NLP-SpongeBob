@@ -1,3 +1,0 @@
- help, i've stopped apache server using /etc/init.d/apache2 stop , but the server is still standing - when i get onto 127.0.0.1 i still see "It works!" and port 80 is still taken. How can i check what occupies that port ?
- i try netstat -a | grep 80 but i see no apache2 there - in fact i see nothing on that port
- viddy: it shows nothing

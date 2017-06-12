@@ -1,8 +1,0 @@
- test
- madradavid: its "/help"
- madradavid: every command starts with "/"
- test
- robin0800: thx man
- anyone using irssi?
- jaszandre: try lowercase
- anyone knows some good organizer/planer? not devolution

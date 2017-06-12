@@ -1,9 +1,0 @@
- Squall5668, taglass...You've both been tremendously helpful. Thank you.
- Hey guys, new guy here. So deleted a user and now the damned machine keeps trying to log onto the deleted user, and I get stuck on a screen showing nothing but my desktop backgreound. So what am I doing wrong?
- Anyone? C'mon, I need some help here.
- When I turn on the computer, it tries to log directly onto the deleted user
- BrumDart: I clicked the admin tab and went down to the very bottom and clicked "User Groups" or something like that
- Oh?
- taglass: How do I edit the file? It skips and goes straight the the deleted account, and I'm unable to do anything.
- Oh
- Squall5668, taglass...You've both been tremendously helpful. Thank you.

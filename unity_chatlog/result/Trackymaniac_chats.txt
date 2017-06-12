@@ -1,7 +1,0 @@
- Hi
- anyone care to help? I can't pick "Ubuntu Netbook edition" in the windows Wubi installer. The version is 11.04. Anyone have time? thx
- No netbook edition of the 11.04.. or?
- thank you Buddhacz.. hadn't noticed
- Buddhacz the problem is that the 11.04 runs pretty slowly on my netbook..
- which newest version is sans unity?
- ok Buddhacz, good to know. Just to clarify: does the 10.04 LTS download on the ubuntu website allow for me to pick the "netbook edition" from the wubi installer?

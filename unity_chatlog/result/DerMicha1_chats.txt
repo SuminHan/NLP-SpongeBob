@@ -1,3 +1,0 @@
- hay
- ive got a problem with my RS232 Card: the most time I get the error "Control signals read: Input-/Output Error" it makes no difference which programm i use for accessing ttyS1.
- here are the messages from lspci and gtkterm: http://pastebin.com/Nbcv80eh i am using ubuntu 10.4 LTS

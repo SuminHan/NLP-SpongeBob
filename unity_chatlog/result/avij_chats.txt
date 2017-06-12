@@ -1,7 +1,0 @@
- hi, can someone please point me to an Ubuntu mirror that is a) accessible with rsync and b) carries the .iso images and c) is located somewhere in Europe. I'd like to conserve some bandwidth by rsyncing from the beta2 .iso images that I already have.
- hi, can someone please point me to an Ubuntu mirror that is a) accessible with rsync and b) carries the .iso images and c) is located somewhere in Europe. I'd like to conserve some bandwidth by rsyncing from the beta2 .iso images that I already have.
- histo: I wasn't able to find such a server. care to give me an example of a mirror that fulfills all the three conditions I mentioned?
- http://www.ubuntu.com/download/ubuntu/alternative-download links to http://releases.ubuntu.com/11.04/ubuntu-11.04-netbook-i386.iso.torrent , but the latter link gives me a 404. problem?
- Pici: thanks. not that I'd be needing a netbook version, but I just happened to notice that there's a mistake.
- ipv6.torrent.ubuntu.com seems to complain that the "requested download is not authorized for use with this tracker" when downloading the various ubuntu-11.04-*.iso files. could someone please authorize the ubuntu isos to that ipv6 tracker?
- ipv6.torrent.ubuntu.com seems to complain that the "requested download is not authorized for use with this tracker" when downloading the various ubuntu-11.04-*.iso files. could someone please authorize the ubuntu isos to that ipv6 tracker?

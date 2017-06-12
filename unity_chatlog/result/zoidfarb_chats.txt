@@ -1,3 +1,0 @@
- Hey, I'm nterested in switching from Ubuntu to Xubuntu. I've already installed xubuntu-desktop, does anyone know what gnome packages I can remove?
- Or can you give me a link for switching to Xubuntu without doing a full reinstall?
- MK``, removing that meta-package doesn't automatically remove the things it depends on

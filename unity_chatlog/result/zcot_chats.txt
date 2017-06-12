@@ -1,5 +1,0 @@
- hi guys. good place for 10.10 server LAMP/FTP permission problems?
- on home webdevelopment server, I set apache to just use /home/zcot/www/ because i have ftp access there and I don't know any better , but apache is serving 403 forbidden.
- pfifo : can/should i set that directory to be owned by apache user or something? but I still need ftp access.
- pfifo : ok thank you, i will try. (is this a good chan for server stuff?)
- excellent thank you guys.

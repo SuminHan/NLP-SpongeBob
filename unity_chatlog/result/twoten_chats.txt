@@ -1,2 +1,0 @@
- Help! I just upgraded to Natty and I've lost all my window borders and decorations - I have clicked away at ccsm and emerald but it will not come up
- I'm using the Ubuntu Classic Gnoem desktop

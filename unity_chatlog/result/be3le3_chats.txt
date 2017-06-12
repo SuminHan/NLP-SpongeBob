@@ -1,4 +1,0 @@
- I just installed backtrack on a virtualbox vm and I went to install the guest additions for linux it installed fine but when i goto reboot it shows me it loads the guest additions but I can't copy n past from host or even full screen
- any clue to why?
- I just installed backtrack on a virtualbox vm and I went to install the guest additions for linux it installed fine but when i goto reboot it shows me it loads the guest additions but I can't copy n past from host or even full screen
- i could really use the help with this its a bit annoying

@@ -1,5 +1,0 @@
- what generates the system status when you log in via ssh?
- celthunder: no, I am referring to the system status, mounted partitions, number of updates etc.
- celthunder: where?  It is not in /etc/ssh/sshd_config
- thien: xrandr
- thien: xorg.conf does not really do anything anymore

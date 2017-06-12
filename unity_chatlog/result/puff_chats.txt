@@ -1,9 +1,0 @@
- How do you figure out if a CPU is 64-bit?
- I've tried to install ubuntu on this old dell poweredge three times, with two different releases (10.4 LTS and 11) and the altenrate install CD.  Every time, it gets halfway through the install, and the screen freezes.
- bastidrazor: Okay, so it's *not* 64-bit...
- Can anybody help me get ubuntu installed on this machine?
- It keeps freezing halfway through the install.
- Angelic: Usually it does that if the network in question isn't in range.
- madprops: I use emacs.
- I'm typing this in emacs now :-).
- And always remember, "vi vi vi" == 666, ergo vi is clearly The Editor of The Beast.

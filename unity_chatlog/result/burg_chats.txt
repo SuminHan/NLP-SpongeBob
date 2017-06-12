@@ -1,7 +1,0 @@
- hhello. why is 32 bit 11.04 ubuntu recommended? does the 64 bit version have more bugs?
- hhello. why is 32 bit 11.04 ubuntu recommended? does the 64 bit version have more bugs?
- hello. i have ubuntu 11.04 64bit, and network manager (the one from upper bar) sais: wired network: device not managed. how can i make it to manage wired network?
- hello. after i installed gnome-shell in ubuntu 11.04 (for gnome 3), even if i login and select ubuntu classic (with gnome 2), i can`t change the theme for taskbars and click2 menu, but only for window borders
- hello. after i installed gnome-shell in ubuntu 11.04 (for gnome 3), even if i login and select ubuntu classic (with gnome 2), i can`t change the theme for taskbars and click2 menu, but only for window borders
- step21, apt-get remove gnome3-shell didn`t fix the problem
- hello. i have ubuntu 11.04 64bit and every time there are two applications opened that have sound, i hear a load buzz (a lot of parazite sound) - is that a known bug? never had this problem with older versions of ubuntu

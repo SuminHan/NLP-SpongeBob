@@ -1,6 +1,0 @@
- clear
- what happpend?
- sudo problem
- ..
- what are you running?
- linux?

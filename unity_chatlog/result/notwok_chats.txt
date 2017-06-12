@@ -1,1 +1,0 @@
- hey guys. just trying the live cd of the new version.. however clicking "Try Ubuntu" does nothing.. cursor constantly spins. any ideas?

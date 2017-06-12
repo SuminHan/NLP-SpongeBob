@@ -1,6 +1,0 @@
- Anybody here well-versed in GIMP? The chat there seems empty. How do you a PNG specifically in 8-bit format?
- *save
- bullgard4: The package name is just "alsamixer". Open it from the terminal and press F5 to make adjustments.
- Chipzzz: I tried using compression level 8, but the 1000x1000 file size comes up wrong. It should be in the 100-200 Kbyte range, and I'm getting 900+.
- Thanks, guys, I was wondering where the index control levels were! I'll report back to you if it works out!
- It worked, thanks!

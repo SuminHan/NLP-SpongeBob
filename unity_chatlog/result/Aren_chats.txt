@@ -1,3 +1,0 @@
- When I was on ubuntu hardy, I had no problems whatsoever.  Upgrading to 10.10 my wifi card started acting screwy...randomly disconnecting.  Now on 11.04 it barely stays on for more than a minute at a time before cutting out.  My laptop is a gateway T-1625, and I'm not finding anything through google that has helped me so far, and I really don't want to go back down to hardy just to get a solid wireless connection again.  Can someone he
- slow compared to the onboard wifi. :(
- I asked immediately, rather than asking to ask, and it just feels like I'm getting ignored. *shrugs*

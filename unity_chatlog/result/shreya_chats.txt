@@ -1,2 +1,0 @@
- "brilldoctor_ ping"
- _shai ping

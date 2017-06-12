@@ -1,8 +1,0 @@
- hi all
- i got a strange question
- i found the the ubuntu on chip.de
- i tried it with wibu the setup start then i get a error
- somethin linge partition not set ?!
- chewyboy000: is the wubi from ubuntu.com not working ?
- Pici: something about partition not set ! it says i shall try it with the partition tool but how i cant find it ?!
- ok i try to remember ....

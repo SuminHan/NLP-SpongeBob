@@ -1,4 +1,0 @@
- using 11.04. How do i connect to another ubuntu share on my network?
- Soothsayer: click 'File System'
- Soothsayer: on the left panel (if you have it)
- Soothsayer: no the 'super user' is 'root'

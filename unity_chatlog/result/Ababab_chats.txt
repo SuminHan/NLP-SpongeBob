@@ -1,3 +1,0 @@
- Any ideas why I'm having this problem with irssi: when you type a long line and the time changes, the text is split into multiple lines
- Ie. it does this: http://i.min.us/inx6ro.png . It has something to do with the terminal I think
- I was asking earlier this earlier. My irssi is behaving weirdly: http://i.min.us/inx6ro.png It's related to long texts in the input field. The only common thing I've found is my Terminal. Irssi is fine if I connect to the server using eg. PuTTY

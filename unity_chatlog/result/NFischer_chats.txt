@@ -1,8 +1,0 @@
- Hi all! ive a big Problem... i just bought a new LED-Monitor with 1950x1080 resolution.. now ubuntu is not offering that resolution to me.. what can i do?
- I have an ATI-GPU
- Radeon X1950XT to be exact
- there is none to be installed
- just checked
- ActionParsnip, Nope, doesnt
- HI all .. ive a Problem: i cant change Resolution to 1950x1080.. ive an ATI Radeon X1950XT Graphics Card.. Ubuntu Lucid (which im using) does not offer any prop. Drivers.. any suggestions?
- HI all .. ive a Problem: i cant change Resolution to 1950x1080.. ive an ATI Radeon X1950XT Graphics Card.. Ubuntu Lucid (which im using) does not offer any prop. Drivers.. any suggestions?

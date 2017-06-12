@@ -1,6 +1,0 @@
- What is the best way to install Gnome3/Gnome-Shell on 11.04? Is it to start with Kubuntu so as not to get into conflicts with Gnome2/Unity?
- KNUBBIG: Thank you.
- sebsebseb: Hm. Maybe I will wait a few days - 'till the dust settles :)
- sebsebseb: The gnome3-team PPA will not be continuously updated?
- Ok. Seems I need a test computer for Gnome-Shell on 11.04. Can't risk using it as the primary OS currently I guess :)
- Can I easily remove the workspace switcher icon from the Unity launcher?

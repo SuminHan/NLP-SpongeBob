@@ -1,4 +1,0 @@
- Why there is no Unity in 11.04 LiveCD?
- coz_: yes
- coz_: Thanks. Still in 10.10. I 'll upgrade after 2 weeks or so.
- adssdsdads: That's because you 're not used to it yet.

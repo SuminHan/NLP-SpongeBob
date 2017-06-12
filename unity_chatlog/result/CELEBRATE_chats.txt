@@ -1,3 +1,0 @@
- h
- hi
- mirrors: http://www.computerhilfe-forum.com/board75-snowlinux-de-das-neue-projekt/1450-linux-snowlinux-1-cold-gnome-32-bit-released/

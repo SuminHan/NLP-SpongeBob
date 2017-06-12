@@ -1,7 +1,0 @@
- is there anyone who can run grabpackages.py script in 11.04 and send me dependency list of a package please?
- anyone with 2 minutes of time and a 11.04 install? Please!
- vibhav : thanks. i'd be quick. I wanna install a package in offline mode and I need dependency list. would you mind running grabpackages.py and send me the result list?
- vibnav : network-manager-gnome   . nad you can find the script here: http://ubuntuforums.org/showpost.php?p=6924258&postcount=1
- vibhav : network-manager-gnome   . and you can find the script here: http://ubuntuforums.org/showpost.php?p=6924258&postcount=1
- vibhav : sorry to bother again, but have you got my reply?
- vibhav : ok, so I repeat: network-manager-gnome   . and you can find the script here: http://ubuntuforums.org/showpost.php?p=6924258&postcount=1

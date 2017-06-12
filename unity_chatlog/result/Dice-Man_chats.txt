@@ -1,2 +1,0 @@
- hi there
- i'm on ubuntu lucid lynx i want to compile the last rhythmbox version

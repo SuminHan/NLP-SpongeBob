@@ -1,4 +1,0 @@
- Hi. I can't seem to find out what Ubufox actually does to Firefox in Ubuntu... what is it?
- Hey guys, I'm trying to boot into the 10.04 Ubuntu PPC installer on a G5 iMac... it doesn't boot into the disk. :(
- Why won't you start up >:|
- nyquist333: Agreed

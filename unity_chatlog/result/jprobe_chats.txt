@@ -1,2 +1,0 @@
- Hi, all, does anyone know where I can get ahold of an AMD64 Lucid torrent?  It's not on the ubuntu.com website.  =(
- carandraug, I see it now.  I was looking to zsync my 11.04 and was looking in the alt download section and didn't see the amd64 10.04 desktop, but apparently it's a main option on the desktop download page.  Thanks!

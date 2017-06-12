@@ -1,2 +1,0 @@
- hi, is there a manpage or something to change the old ui back on 11.04 instead of this new Unity?
- muttbox: thanks, going to try that when I boot next time, cheers :)

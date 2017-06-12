@@ -1,2 +1,0 @@
- I noticed that the download page for ubuntu shows "32-bit (recommended) in their dropdown.  I've got a 64 bit machine.  Should I still get the 32 bit version?
- jbicha: thanks

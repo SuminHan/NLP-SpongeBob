@@ -1,5 +1,0 @@
- i upgraded to natty today...
- but unity is behaving badly
- very unstable
- my unity crashes every now and then
- gnome works ok

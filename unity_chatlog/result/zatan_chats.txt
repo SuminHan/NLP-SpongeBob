@@ -1,7 +1,0 @@
- Hi, why I cant update to Natty Narhwal throught update-manager-d ?
- hi, how can I change my username on natty?
- ohsix,  antanas@ubu I need to change "antanas"
- ohsix,  ok I will try to add new user , and change home dir permissions
- tahnks ohsix
- hi again, is there anyway to stop automaticaly maximize windows on unity? as at the moment they maximize when i moving them by the nome-panel
- hi, why I cant make chrome default my webrowser on 11.04? Its set default, but than I am trying to website from xchat its oppening with firefox

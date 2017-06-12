@@ -1,5 +1,0 @@
- maximm, make sure you have the correct display driver
- maximm, what card do you use?
- maximm, there is a settings manager for nvidia in apt
- maximm, do you use some kind of desktop composition?
- maximm, maybe you should recheck your xorg configuration or read your messages log for compiz errors

@@ -1,1 +1,0 @@
- ppl i have a problem i was configuring my ati radeon Target, everything was working just fine before that, now my screen is all messed up and freezed im in recovery mode, i tryed to uninstall them and reinstall them and the problem persist , i also tried to "dpkg-reconfigure x-server-xorg"

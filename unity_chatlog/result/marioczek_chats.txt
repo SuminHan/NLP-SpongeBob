@@ -1,6 +1,0 @@
- hello all
- i have some question about root
- i try create a server on ubuntu 11.04
- whe i try create a folder in var/www its write im not have access
- siema wszystkim
- siema

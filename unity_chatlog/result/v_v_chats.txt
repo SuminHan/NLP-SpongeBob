@@ -1,5 +1,0 @@
- i just installed 11.04, and it seems awesome
- :)
- compiz is on
- i tried 11.04 on my box. im considering  replace the debian on my laptop
- when i use the liveCD  to install 11.04, it supports unity. but the installed ubuntu on my laptop doesn't, how to enable unity ?

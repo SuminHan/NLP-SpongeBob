@@ -1,3 +1,0 @@
- Hello. I am having a problem with the Update manager so I decided to update with the Terminal and I received this output: http://paste.ubuntu.com/602518
- xangua: I have.
- xangua It's updating in the Terminal. Wonder why it gave me that output the first time. Thank you.

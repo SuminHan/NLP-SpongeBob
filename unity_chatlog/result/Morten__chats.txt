@@ -1,7 +1,0 @@
- theGreatDane: http://en.wikipedia.org/wiki/Xinetd
- :)
- red2kic, I will take a look at it, thanks :)
- red2kic, ok - I think I will try the ushare first, and then give the other ones a try :) thanks
- Hi, can anyone recommened a newsgroup reader?
- hehe, thanks llutz, sipior and LjL :)
- Hi, how is it possible to share an external storage harddrive on a network? I have tried using nautilus to start the sharing, and I can see the external storage on the network, but cannot access it?

@@ -1,6 +1,0 @@
- will there be an Ubuntu variant with GNOME, just like Kubuntu has KDE?
- seems weird that GNOME is now less officially-supported than XFCE... :/
- taglass: that's not gnome, that's unity
- even before they called it unity, ubuntu was modifying the hell out of gnome upstream
- OchoZero9: ?
- OchoZero9: dude, that was an April Fools joke

@@ -1,5 +1,0 @@
- loseweighttttttt, why are you asking Centos question in #ubuntu?
- loseweighttttttt, no its not
- tomatto_, no
- but you can disable Unity and get hte menus back to their normal place tomatto_
- loseweight, Escape, :, x, return

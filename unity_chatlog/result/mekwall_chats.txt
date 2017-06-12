@@ -1,7 +1,0 @@
- so.... I'm trying to mount an nfs share in userspace (using unfs3), but I get the unknown filesystem errror
- anyone have any experience with ubuntu and unfs3 ?
- top - 16:13:26 up 1074 days,  6:31,  2 users,  load average: 53.07, 52.88, 45.52 ... hrm
- not feeling very well :P
- wtf
- why would top show this high load?
- sar reports: all      0.08      0.00      0.21      0.21      0.00     99.50

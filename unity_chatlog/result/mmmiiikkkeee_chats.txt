@@ -1,1 +1,0 @@
- Hi I created a natty live USB drive from disk creator in maverick.  I get "syslinux 4.01 debian-20100714" after Googleing I read that typing "help<enter>" would let me boot, but does not seem to work.  any ideas?

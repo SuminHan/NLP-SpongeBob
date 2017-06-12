@@ -1,6 +1,0 @@
- How do I get back to an application, in unity, after I minimized it?  It's not showing up in the alt-tab thing, or the panel.
- bU1137Pr00f: Yup, I was testing my theory that a different app disappeared because I minimized it.
- The app is azureus.
- I can still see it in ps.
- bU1137Pr00f: Is it because it's trying to minimize to the... icon tray thing that doesn't exist anymore?
- bU1137Pr00f: Okay, thanks.  I didn't expect to stick with unity as long as I already have....

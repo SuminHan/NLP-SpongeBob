@@ -1,1 +1,0 @@
- Hello, ive upgraded to 11.04 and enjoyed unity but only until i rebooted, now it loads into old design, and if i log out user, im getting alot of gfx glitches,though there is none, if i dont log in (its auto logged in)

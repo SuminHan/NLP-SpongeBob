@@ -1,2 +1,0 @@
- hi, is there any free mysql gui client for ubuntu?
- please tell me any mysql gui client for ubuntu~

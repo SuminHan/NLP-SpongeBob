@@ -1,4 +1,0 @@
- how to upgrade ubuntu from 11.04 beta to  new 11.04 ?
- hello, can anyone tell me how to separate home partition becauze for now i had everythink in one partition
- when it will be possible to upgrade ubuntu to 11.04
- ?

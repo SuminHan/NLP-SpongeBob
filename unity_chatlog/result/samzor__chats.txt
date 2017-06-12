@@ -1,1 +1,0 @@
- I have updated my station from 10.04 to 11.04 and i cant get unity to work and i think it's due to the nvidia drivers anyone have any pointers ?

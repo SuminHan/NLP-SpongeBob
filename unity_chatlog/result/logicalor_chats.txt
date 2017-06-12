@@ -1,6 +1,0 @@
- hi, wondering if there is a way to stop rsync after it transfers a specified amount of data (eg. 5gb)
- ie is there a native switch or would i need to get it to report to a watcher that kills it on a certain condition?
- thanks herbs, typically would as well but with transfer limits imposed by isps becoming ever more prevalent one has to be vigilant
- what is a dr repo?
- oh okay.  something like that.  all good - i'm moderately versed in rsync but its manual can be confusing and documentation isn't always up to speed.  i think i'll throw together some sort of wrapper script to deal with it
- thanks anyway

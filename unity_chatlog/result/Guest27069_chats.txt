@@ -1,7 +1,0 @@
- i recently reinstalled ubuntu and selected lvm during the install, but I noticed that ubuntu barely used my second hard drive and only place a swap partition on it. I was hoping someone could help me figure out if lvm is configured correctly
- ikonia: not sure what you mean
- ikonia: http://pastebin.com/wRQ70sEn
- ikonia: my user name, someone told me not to include those due to a security risk
- sorry, want me to repaste?
- ikonia: any ideas?
- ikonia: you still there?

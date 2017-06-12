@@ -1,9 +1,0 @@
- wow, The new default UI for Ubuntu is terrible
- Who's idea was that?  Did they happen to be a left handed person?
- BlouBlou: yeah I am using the classic
- LjL: No it is a support question, how do can you configure unity?
- LjL: hi btw! *wave*
- vish: yeah I figured that out my self :)
- vish: and the minimise, maximise, close button change locations when you have the window maximised or in windowed mode
- also the default bluetooth manager is a POS.
- Always fails

@@ -1,4 +1,0 @@
- how can I make postfix deliver *any* message for *any* domain to a single local mailbox?
- i want to run a "virtual" open relay, but just on my localhost
- and only while i'm doing development
- i don't want to bother with setting up Cyrus or a VPN

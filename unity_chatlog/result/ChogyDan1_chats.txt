@@ -1,1 +1,0 @@
- mikebeecham: even though I have the same issue as you, glxgears works.  So I think my card is working  *shrug*

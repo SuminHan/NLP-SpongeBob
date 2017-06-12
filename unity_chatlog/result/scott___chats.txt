@@ -1,6 +1,0 @@
- Anybody have issues with getting firefox to play nice with the globalmenu in 11.04?
- I was just wondering why when I install applications from software center, it says "The installation or removal of a software package failed." But when I check, the program was installed anyway.  Is there a setting somewhere I need to tweak to stop that message from appearing?
- I was just wondering why when I install applications from software center, it says "The installation or removal of a software package failed." But when I check, the program was installed anyway.  Is there a setting somewhere I need to tweak to stop that message from appearing?
- ikonia, when I scrolled through the details, I got this " dpkg: error processing grub-pc (--configure):
-  subprocess installed post-installation script returned error exit status 128" I remember when I did an upgrade from Maverick that it said there was an error with grub-pc
- i actually found something when I did an internet search.  I'll go read that first :D

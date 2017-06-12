@@ -1,2 +1,0 @@
- can anyone point me to a howto get get aac support working in gtkpod in natty?
- !aac

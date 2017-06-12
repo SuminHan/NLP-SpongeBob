@@ -1,6 +1,0 @@
- ActionParsnip: hmm, it does seem a tad peppier, but I'm getting horizontal tearing when I move windows around as if 2d acceleration is still not really working
- ActionParsnip: is it possible to turn off compositing?
- ActionParsnip: speaking of that, I don't like the little left-hand osx-esq launcher thing; can I have my gnome taskbar back? :P
- ActionParsnip: the 2d acceleration feels nicer now, but there's no taskbars
- ActionParsnip: in fact, if I were'nt in a terminal right now I'd probably be in a slight amount of trouble (at least probably forcing me to restart x)
- ActionParsnip: ok

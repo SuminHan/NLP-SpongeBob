@@ -1,6 +1,0 @@
- Dear people of #ubuntu: https://help.ubuntu.com/community/MacBookPro5-3/Maverick#Touchpad says that click-and-drag works on my Macbook Pro 5,3. But it doesn't! When I click, hold the button down, and then drag then the mouse cursor does not move.
- Hm, also Ctrl-click doesn't seem to right-click like I expect. Am I wrong about that?
- Ohh... if I click by tapping on the mousepad, then I *can* drag...
- But if I click by clicking the clicky area of the mousepad with one finger and then dragging with the other, then I can't. Hm.
- Hrm, and ppa:jdstrand/ppa doesn't seem to have natty packages. Ugh.
- Wellll... back to Mac OS X for the time being. Thanks for listening, folks. :-)

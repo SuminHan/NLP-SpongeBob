@@ -1,3 +1,0 @@
- newbie question any good easy editors that would allow me to open a apache log file from a ssh client command line?
- newbie question any good easy editors that would allow me to open view an apache log file from a ssh client command line?
- thanks isarl

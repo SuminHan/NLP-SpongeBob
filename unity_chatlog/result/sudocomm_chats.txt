@@ -1,2 +1,0 @@
- this has probably been asked many times already since natty release but has there been a fix found for nvidia video drivers?   additional drivers shows "This driver is activated but not currently in use"
- it does but I cannot get my desktop to go over to my 2nd monitor

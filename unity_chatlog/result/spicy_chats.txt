@@ -1,3 +1,0 @@
- Hello I have a question. I have an Intel machine and I wish to download the new 64bit version of Ubuntu, but when I try to download the 64bit it downloads the AMD version (I have an intel processor not an AMD processor). Where is the Intel 64bit version of Ubuntu?
- So it doesn't matter if I run an AMD 64bit on an Intel machine? Okay then, I'll download AMD 64 bit
- myrkraverk thanks for clearing things up

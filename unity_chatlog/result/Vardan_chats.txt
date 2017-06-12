@@ -1,5 +1,0 @@
- hi all
- people is there any configuration place where can I configure left side bar speed?
- Dr_Willis:  should I install it, or it installing automatically?
- ccsm
- hi all

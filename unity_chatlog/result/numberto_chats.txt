@@ -1,9 +1,0 @@
- My dash in ubuntu is not working - when I type to search for gedit, the circle just spins for couple of seconds and finds nothing
- histo: I installed ubuntu 11.04     3 days agon
- yes
- histo:  it does not find anything
- histo:  neither alt + 2
- shuould I reinstall unity?
- histo:  I really don't know what to do.  I watched the video of new 11.04 and wanted to try it. I really love how it  look but most functions does not work. I wander if there something which didn't install correctly, just don't know how to find out
- My Unity search field does not work. When I type something I just does not find any file nor does it finds any app
- Plus I cannot start launcher by using Alt+F2

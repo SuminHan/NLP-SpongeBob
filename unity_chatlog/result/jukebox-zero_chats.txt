@@ -1,2 +1,0 @@
- So I noticed today that ecryptfs appears to be eating half of my diskspace. Been reading the man pages to see why, and since it's on the fly encryption, it would seem this should not be. In the disk analyzer it appears in the home directory ecryptfs has duplicated my home directory, but it's copy is actually larger than the original. That seems strange. Am I just looking at this wrong?
- escott, that's what I was hoping to hear. Thanks.

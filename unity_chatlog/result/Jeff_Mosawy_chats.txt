@@ -1,8 +1,0 @@
- I need some help. Anyone?
- I have a Dell laptop 1545. My wireless doesn't work. How can I solve the problem, please ?
- Anyone can tell me how can I solve my wireless problem ?
- Ali, which driver should I install for 1545 Dell Laptop ?
- Ali: Yes, I think so.
- Ali_: I'll can install my wireless device there? Are you sure?
- OK. By the way, should I be connected to the internet for install this driver? Because I'm on Windows right now and I don't have internet in Ubuntu because my wireless doesn't work.
- Ali_: Hi again. I did what you said but unfortunately I couldn't get the driver. Becuase it need an internet and I don't have.

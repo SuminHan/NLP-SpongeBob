@@ -1,6 +1,0 @@
- hello, does anybody know whether I can use apt-cacher for ubuntu and debian at the same time?
- is it possible that two packages would have the same name but different concent?
- maco: but the ubuntu ones should have "ubundu"appended if they are different no?
- maco: I mean I know they're different ... the issue is whether they have the same name and are different because in that case they're going to overwrite each other .... if they are named differently then there is no problem
- maco: yeah, filename ... so they can coexist in the same directory, yup?
- maco: thanks

@@ -1,1 +1,0 @@
- hi: when I launch an application eg. firefox from the terminal, the terminal won't let me enter any other commands until i close the application, when I close the application it reads through anything I've written and tries to execute that, I have been messing around trying to learn bash scripts and have broken something

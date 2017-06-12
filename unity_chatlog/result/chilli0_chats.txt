@@ -1,4 +1,0 @@
- Hello, I just upgraded to 11.04 and it's well I guess okay. I however don't like the whole banshee thing. How can I change rhymbox to be the default player again?
- Hello, I just upgraded to 11.04 and it's well I guess okay. I however don't like the whole banshee thing. How can I change rhymbox to be the default player again?
- jibadeeha, Yeah I did. However when I use like my buttons on my keyboards it gives me an error saying no such command banshee. When the keyboard command is set to default music player.
- preyas__, Thank you very much :)

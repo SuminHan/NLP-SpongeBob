@@ -1,3 +1,0 @@
- hi all. i just upgraded to 11.04 on the desktop and i am seeing that whenever i drag a window by the title bar between monitors (i am running dual head with twinview), it always wants to maximize when i release the mounse. how can i turn this behavior off?
- bitplane: work together meaning, that if i have one, i must have the other? (i want dual monitors, but not the behavior that dragging the title bar maximizes it)
- bitplane: ahh, think i found my issue... http://ubuntuforums.org/showthread.php?t=1743309. thank goodness. appreciate your help

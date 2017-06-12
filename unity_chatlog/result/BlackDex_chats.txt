@@ -1,5 +1,0 @@
- i just have installed/upgraded to natty
- And if i close pidgin, it realy closes
- insteated of running on the background
- Braiam: The only thing i can see there is about the systray
- and that isn't available any more

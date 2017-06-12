@@ -1,2 +1,0 @@
- I've got a quick question about the installer for 11.04, 64bit, off of a live USB. The partition editor doesn't seem to be able to set user specified mount points. Am I missing something or was this feature removed?
- Answering my own question: https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/769043 Known bug :-/

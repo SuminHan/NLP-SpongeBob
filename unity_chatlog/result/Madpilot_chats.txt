@@ -1,1 +1,0 @@
- brandonc503_, there is apparently a plugin to allow Windows to read ext3 and ext4; I don't run Windows anymore so I know nothing more than that.

@@ -1,2 +1,0 @@
- test for irc
- ubuntu 11.04

@@ -1,4 +1,0 @@
- I am facing a strange problem with ubuntu, whenever I am entering the password on the login screen its instead of logging in its comming back again and again on password screen. why so?
- Toph: nope on 10.04 lucid
- Toph: any solution?
- I just logged in :( but sometimes it never allows me to login. is there any permanent solution

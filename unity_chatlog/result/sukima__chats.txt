@@ -1,1 +1,0 @@
- Anyone know why after installing an adobe air app that it is removed every time I upgrade?

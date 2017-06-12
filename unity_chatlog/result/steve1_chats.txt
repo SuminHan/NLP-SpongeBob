@@ -1,8 +1,0 @@
- I just upgraded to 11.04 and the new keyboard shortcuts have broken my existing keyboard shortcuts ... is there a way to modify the keyboard shortcuts in 11.04?
- KNUBBIG: is that the only place?  I found those, but they're still not all of them ... like I had used Win+L to lockscreen ... now it does nothing.  actually, now that I think about it, it's all my Win+? shortcuts that are borked.
- KNUBBIG: no luck so far remapping the fields, though I did found in CCSM that I could create custom "commands" that map to CLI commands.  I suppose that'll do.
- I'm running 11.04 and the top (unity?) menubar periodically semi-locks up (the time gets stuck, and a part of some window somehow gets overlayed on it, but it's still responsive to clicks).  Is there a way to force Unity to redraw itself?
- I'm running 11.04 and the top unity menubar periodically semi-locks up (known bug http://preview.tinyurl.com/4xxbhm4).  Does anyone know a way to force Unity to redraw itself?
- buhman: I'm having a hellova time with it too.  I'm hoping it's just growing pains, but it just feels like alpha or beta software released too soon.
- buhman: how are you liking Gnome3?  that's the new one, right?
- buhman: oh, I thought you said you were on 3.  my bad. :)

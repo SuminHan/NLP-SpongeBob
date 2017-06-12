@@ -1,3 +1,0 @@
- hey everyone, i just set up ubuntu on my new lenovo thinkpad and the mouse is going crazy, i jumps all over the screen and I have to restart the laptop to fix it... what the heck can I do to fix this, i'm very new to ubuntu
- is there a specific channel to get support for errors? (specifically with ubuntu)
- hey everyone, i just set up ubuntu on my new lenovo thinkpad and the mouse is going crazy, i jumps all over the screen and I have to restart the laptop to fix it... what the heck can I do to fix this, i'm very new to ubuntu

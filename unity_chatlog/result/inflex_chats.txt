@@ -1,3 +1,0 @@
- just upgraded to 11.04 from 10.10 - keyboard doesn't come up anymore, if you remove the keyboard and plug it back in, it works again (USB).
- Dr_Willis: yes, the mouse did stop once, but it's come back reliably since the last 3 boots
- Dr_Willis: haven't found any google hits on 11.04 usb keyboard failure yet :(

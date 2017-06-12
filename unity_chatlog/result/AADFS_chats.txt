@@ -1,6 +1,0 @@
- Wehn selecting graphics for Nivida drivers, select version 173 version
- Not yest
- Gnome 3 =/= Unity
- Not compatible
- And you cant downgrade to unity after going to GNOME 3
- BYE!

@@ -1,6 +1,0 @@
- if I use apt-get -d install package, that will download the package but not install it right ?
- how do I fetch the packages from the repos without installing them ?
- kwtm, same as apt-get -d install ?
- kwtm, I did man it, but the output was unclear saying it needs
- kwtm, the output still says it needs etc amount of space after installation, so I wanted to make sure
- kwtm, see, now it's clearer :) thanks

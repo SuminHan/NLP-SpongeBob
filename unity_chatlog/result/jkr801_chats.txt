@@ -1,5 +1,0 @@
- anyone know why natty would be giving me a Mountall: disconnected from Plymouth error on a headless box
- totally headless
- yup
- its installed thru vbox
- ya thats fine but it doesnt take me to a login

@@ -1,4 +1,0 @@
- Is there
- A way to reduce the size of the unity file/app search thingy?
- Stefg: thanx i'll look into it
- Whats the difference betn unity2d and classic gnome?

@@ -1,3 +1,0 @@
- I've just upgraded to 11.04 and am now using unity.  How do I set the default screen in a 2-monitor setup? The vertical menu bar is appearing on the left side of the right screen (i.e. in the middle of the two monitors)
- dugger5688: I've noticed that GB mirrors are very slow, but switching to a different geographic location improved things vastly. (for me, I just dropped the geograpy)
- I'm getting segfaults in /var/log/kern.log every time I try to use apt-get or aptitude. Suggestions?

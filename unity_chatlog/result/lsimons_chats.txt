@@ -1,3 +1,0 @@
- Is the sun-java6-jre package available for 11.04?
- Is there an option for global menu so it shows the menus before you mouse over the bar?
- Sledge, working on it :(  I've got phantom bottom bar syndrome

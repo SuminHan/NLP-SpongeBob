@@ -1,3 +1,0 @@
- hmmm need a lil help with drivers for ubuntu
- cannot use my mousepad or my wireless card
- are there drivers developed for the vaio series?

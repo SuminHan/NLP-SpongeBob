@@ -1,2 +1,0 @@
- hi all, i would install "timidity" with suggested packages, but --install-suggests option of apt-get do not seem to work, also -o APT::Install-Suggests=1 do not work
- hi all, i would install "timidity" with suggested packages, but --install-suggests option of apt-get do not seem to work, also -o APT::Install-Suggests=1 do not work

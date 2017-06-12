@@ -1,2 +1,0 @@
- when coding in bash, what if i want to see line 10 of a text file
- normally i open in emacs and do goto-line 10

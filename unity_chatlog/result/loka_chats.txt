@@ -1,2 +1,0 @@
- ubuntu feels so bloated, i installed efxc over gnome yesterday and dident like it so i did sudo apt-get remove xubuntu-desktop, now i have 2 diffrent terminals! how can i remove the "xubuntu-desktop"s terminal?
- guest345345 it is pretty messed up yeah lol

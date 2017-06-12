@@ -1,4 +1,0 @@
- can someone help me with a question about compiz
- is compiz disabled when you install ubuntu with the Wibi installer
- I have an ATI 6970 card and installed the ATI CCC driver, but I don't seem to have Compiz support. Is it still located in the change apperance menu ?
- no, my mb board doesn;t have onboard graphics

@@ -1,4 +1,0 @@
- i think i tried to run unity 2d with compiz because now i have no titlebars on windows and no taskbar. any way to reset unity to default ?
- modify it ? no, how could i modify it. thanks nyvenZA
- ty, i'll try that too
- ty eigba. if unity --reset doesn't work i'll delete those files

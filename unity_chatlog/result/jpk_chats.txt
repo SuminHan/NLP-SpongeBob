@@ -1,7 +1,0 @@
- escott: Ah, I see.  I'll try that, then.
- escott: It's the new one.  The old one is still on the disk, but commented out in /etc/fstab, and isn't listed in swapon -s anymore.
- prakas: `man dd` might help you.
- escott: Ah, I see.  I figure it's something like that.  I just haven't yet been able to find where/how the thing that resumes finds the stuff in swap to verify that it's looking in the right place.
- escott: I guess what I mean is some resume code goes, "let's see if there's an image in the old swap partition... oh, wait, it's not there anymore.  Oh well, just do a normal boot."  Then later on when something looks at the new swap partition, it sees an image in there and goes, "What's this crap?  We're doing a normal boot."  Then clears it out.  Or something.  My biggest enemy, here, is I don't know how resume works yet. :-P
- escott: Yeah, besides unmounting/swapoff'ing it, I left it alone.
- escott: Ah, I see.  I'll try that, then.

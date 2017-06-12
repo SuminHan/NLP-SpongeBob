@@ -1,1 +1,0 @@
- So I booted into my Linux box and was getting a pile of read only file system errors, so I rebooted and now I can only get a busybox terminal... I have a second linux install on the box but it is unable to mount the other file system and fsck isn't working "fsck.ext2: Attempt to read block from filesystem resulted in short read while trying to open /dev/sda2"

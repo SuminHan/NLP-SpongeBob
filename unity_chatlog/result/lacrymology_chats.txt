@@ -1,6 +1,0 @@
- how do I find out what video drivers am I using?
- and how do I change my screen resolution?
- ActionParsnip: driver=nvidia means I'm using the propietary driver, right?
- good, then, how do I change the resolution? when I open System/Preferences/Monitors it complains that "it appears that your graphics driver does not support the necessary extensions to use this tool. Do you want to use your graphics vendor's tool instead?" and if I click 'yes' I don't find anything to change the resolution
- oh wait
- found it

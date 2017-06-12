@@ -1,2 +1,0 @@
- when building from source, and doing autogen.sh is there a way to force, and make it finish, regardless of missing dependancies?
- when building from source, and doing autogen.sh is there a way to force, and make it finish, regardless of missing dependancies?

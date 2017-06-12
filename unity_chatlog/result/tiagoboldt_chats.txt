@@ -1,3 +1,0 @@
- so, I'm having major issues with my wifi module, read in launchpad that fix has been commited to the kernel and will be released on the next update, any idea when will that happen? on natty
- dios_mio, they land on the main server and are synced to the mirrors with the frequency that the admins update them
- dios_mio, that's usually less than a day, probably less than an hour

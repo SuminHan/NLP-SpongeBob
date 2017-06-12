@@ -1,9 +1,0 @@
- In 11.04, where is the xorg.conf file located (I need to apply this fix to my xorg.conf: http://ubuntuforums.org/showthread.php?t=1515079#post9494941)
- daxroc: Is there a sample file I can copy?
- daxroc: All I want to do is apply this fix: http://ubuntuforums.org/showthread.php?t=1515079#post9494941
- daxroc: Could I just add in the line in question?
- TheRedOctober: Not at all
- TheRedOctober: How much RAM do you have?
- TheRedOctober: That
- TheRedOctober: That's a lot of RAM to exhaust
- TheRedOctober: If the problem is too many browser tabs, try browsing with lynx :D

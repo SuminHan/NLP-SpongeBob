@@ -1,7 +1,0 @@
- Hi ! I'm on ubuntu 11.04 Beta (1 or 2) and I want to install the new release, how can I do that ?
- please*
- ok, thanks all, so it seems I'm up to date, but I get the same crash has before (beta) when I boot (I don't know what it is, just that something is crashing and that's it), does someone know how to get rid of that (I can provide you with informations if you tell me how ;) )
- jiohdi: ok, I can't see any mentions of beta or rc, is that it ?
- jiohdi: so, why do I get a crash warning when I boot ? It did that on the beta 1, but I wouldn't expect it to append on the final one.... Or can that be gnome 3 (which works perfectly)
- jiohdi: sit and wait then, ok, thanks !
- I did on the beta

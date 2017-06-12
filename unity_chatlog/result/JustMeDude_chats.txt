@@ -1,2 +1,0 @@
- hi can someone pls help, somehow I corrupted my top bar and the launcher in 11.04, was messing with compiz to get transparency back and now booting into the gui all I have is my wallpaper - thanks
- is there a way to restore the original unity desktop without reinstalling 11.04?

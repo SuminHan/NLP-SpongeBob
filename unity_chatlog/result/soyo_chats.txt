@@ -1,6 +1,0 @@
- So I am in the middle of upgrading to 11.04 (so if I disappear for a few days.. ;) Debconf is asking me if I want to keep the old grub but wouldn't that leave no option for booting into 11.04?
- z0mbyk1d: I am guessing its asking me because it asks about any conf file..
- z0mbyk1d: Should I try the merge.. lol j/k
- IN 11.04 YOU CAN SEE YOUR BACKROUND PICTURE JUST BARELY IN THE TERMINAL!! Sorry for yelling but that is the hotness. Those little penguins are genius.
- Dr_Willis: lol well it is now and I <3 it
- Dr_Willis: But when its super subtle... I didn't even notice until like three weeks later.. I thought it was burnt into the monitor I had to check another blank screen, LOL

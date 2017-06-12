@@ -1,5 +1,0 @@
- sorry quick/dumb question...I'm upgrading to 11.04 from 10.10 and got the question "what do you want to do about modified configuration file grub?"....i dual boot with windows 7 so can i just keep my local version? thanks
- do i have to install package maintainer's version of grub when upgrading to 11.04? will that mess up my win 7 dual boot? thanks
- jrib: sorry i'm not sure how to interpret the differences...http://paste.ubuntu.com/603070/
- jrib: ha okay thanks for your help
- jrib: when i went from 9.10 to 10.04 to 10.10 i royally messed up grub so just a little skiddish this time

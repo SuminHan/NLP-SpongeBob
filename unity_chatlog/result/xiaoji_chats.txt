@@ -1,9 +1,0 @@
- I have a question..why can't I succeed to install the gnome3 at 11.04?IT always  collapse
- Thanks very much.you mean that in recently days,I'd matter not install the gnome3?but unity is not fit my habits
- why?
- can I download a deb package form a website?
- em.. gnome3 deb package
- into the live cd  interface.. you will find a program to upgrade
- wow~,so many people..  i cant glimpse the latest speake
- hello～～～～lieying
- congratulation to you

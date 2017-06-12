@@ -1,2 +1,0 @@
- question: shouldn't the command "lsmod" and "modprobe -l" give the same output for loaded modules?
- question: shouldn't the command "lsmod" and "modprobe -l" give the same output for loaded modules?

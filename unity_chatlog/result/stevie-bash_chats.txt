@@ -1,1 +1,0 @@
- I do add IP addresses via "ip a add" command from a script. Since this isn't reboot safe I wanted to add the "ip a add" command to rc.local. Is this a good way?

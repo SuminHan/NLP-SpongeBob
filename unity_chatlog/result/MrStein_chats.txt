@@ -1,5 +1,0 @@
- apt-get package download with and without apt-p2p is slow. Is there anything that I can do ir just wait until the rush is over?
- ir=or
- pdebruic: with p2p I access tons of servers at same time
- pdebruic: on the other hand it is worth a try. Which tool is for the server speed check?
- Emasarn: 64 bit is for both Intel and AMD (and VIA)

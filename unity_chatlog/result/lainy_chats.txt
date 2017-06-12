@@ -1,4 +1,0 @@
- After upgrading to the latest Ubuntu, I cannot even use nano on rxvt-unicde. I receive the error "Error opening terminal: rxvt-256color.
- After upgrading to the latest Ubuntu, I cannot even use nano on rxvt-unicde. I receive the error "Error opening terminal: rxvt-256color." Does anyone know how I can resolve this issue? I tried reinstalling urxvt but that did not help. Thanks for any help.
- After upgrading to the latest Ubuntu, my Conky's {acpi} no longer displays my CPU temperature. Any clue? Thanks.
- {acpitemp}*

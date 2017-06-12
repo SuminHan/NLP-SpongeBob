@@ -1,3 +1,0 @@
- Hi
- How do i disable screen blanking properly... setting "Option" "DPMS" "no" in xorg.conf did not work.
- llutz, still get screen blanking every five minutes without activity...

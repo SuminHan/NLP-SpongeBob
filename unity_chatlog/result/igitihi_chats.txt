@@ -1,2 +1,0 @@
- hi there! I'm trying to restore my mbr (dual boot with xp). Can anybody help please?
- Is anybody able to help me restore my grub menu? I can't boot into Ubuntu anymore... Please, it's urgent!

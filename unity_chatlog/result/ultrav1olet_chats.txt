@@ -1,2 +1,0 @@
- I want to compile an application from sources and it requires curl devel library and includes, debian has two of them libcurl4-gnutls-dev and libcurl4-openssl-dev
- which one I have to choose?

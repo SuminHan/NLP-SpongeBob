@@ -1,2 +1,0 @@
- I'm having trouble setting the PS1 variable as a non-root user. \u doesn't give the proper output. When I set my variable with PS1='\u\$', I get exactly that as my prompt.
- I'm having trouble setting the PS1 variable as a non-root user. \u doesn't give the proper output. When I set my variable with PS1='\u\$', I get exactly that as my prompt.

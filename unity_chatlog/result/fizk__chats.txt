@@ -1,7 +1,0 @@
- is everyone getting a slow connection, or is it just me?
- upgrading to 11.04
- ScottR3, dam
- shane4ubuntu, my download is about 50% done. If I quit now, do I start from 0% later on?
- hey guys, how do I make lsof show the port number instead of the service name?
- `lsof -i`
- llutz, ty

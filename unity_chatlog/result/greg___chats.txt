@@ -1,2 +1,0 @@
- h
- I'm trying to stream Netflix. Is there a way to do it using Ubuntu 10.04, or should I install a Windows partition. I have a Windows XP disc.

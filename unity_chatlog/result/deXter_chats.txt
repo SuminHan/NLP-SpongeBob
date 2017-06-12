@@ -1,7 +1,0 @@
- Hi all, how can I tell if this ubuntu ISO I downloaded is 32 or 64 bit?
- buzzkill: lubuntu-10.10.iso
- None of this is of any help ... the lubuntu CD doesn't have an md5 listed on that page
- and the file command won't tell if the ISO contains a 64 or 32bit binary..
- kellnola: I did, it just says that it's a bootable ISO.
- kellnola: Well nvm, I just looked inside the iso and all the binaries had a _i386 appended to it
- :)

@@ -1,2 +1,0 @@
- i'm looking for help interpreting this bug report: https://bugs.launchpad.net/ubuntu/+source/indicator-application/+bug/569273
- it looks like lucid is marked as "won't fix", but it's an LTS release, so I'm kind of confused.

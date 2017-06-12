@@ -1,6 +1,0 @@
- Helo friends.
- Hello Friends
- After a dist-upgrade, my video don't use al my screen, how i fix this?
- bazhang, hi
- from 10.10 to 11.04
- bazhang, from 10.10 to 11.04

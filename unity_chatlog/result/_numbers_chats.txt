@@ -1,2 +1,0 @@
- this is a fresh install of ubuntu 10.10 server and apt-get install mysql-server doesn't work. after its installed i run mysql client but get an error that it can't connect to the mysqld.sock. any ideas? has happened a lot to me.
- Nexxy: yes

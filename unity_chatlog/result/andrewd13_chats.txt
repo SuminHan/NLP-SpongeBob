@@ -1,2 +1,0 @@
- how do I get scripts to run on resume?
- /etc/pm/sleep.d and /etc/acpi/resume.d no longer working in natty?

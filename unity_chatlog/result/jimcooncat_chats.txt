@@ -1,2 +1,0 @@
- on default 10.10 I'm doing some automation -- how to I keep Update Manager from popping up? Would rather have just a notification icon.
- I'm with you, gmachine_24

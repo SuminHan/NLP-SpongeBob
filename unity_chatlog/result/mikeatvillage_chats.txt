@@ -1,4 +1,0 @@
- I have dual boot (xubuntu & lubuntu) and want to swap the default in Grub2. I have tried a couple of Grub managers but can't get them to make the change... any recommendations?
- ActionParsnip: I want the 2 OS to be completely separate.
- ActionParsnip: I wasn't actually aware :-)  But, what I've done is what I need for the moment.
- ActionParsnip: re my dual-boot... StartupManager seemed to work after I ran it under _both_ o/s All OK now.

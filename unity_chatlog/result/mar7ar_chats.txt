@@ -1,4 +1,0 @@
- !!!!!!!!!!who could help me i have typed by error apt-get remove libusb* then every thing is broken even lan and cd driver so i couldn`t use internet nor use apt-cdrom as source who could help me !!!!!!!!!!!!!!!!
- hi everybody i`m in such a big problem i have intented to remove a libusb package but instead i have pressed libusb* then all dependant package are removed how can i fix this?/?
- !!!!!!!!!!who could help me i have typed by error apt-get remove libusb* then every thing is broken even lan and cd driver so i couldn`t use internet nor use apt-cdrom as source who could help me !!!!!!!!!!!!!!!!
- hi, does anyone knows how install glge to enable webgl on ubuntu?????????????,

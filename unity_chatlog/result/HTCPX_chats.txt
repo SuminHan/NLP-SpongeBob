@@ -1,4 +1,0 @@
- does anyone know why ubuntu 11.04 installation is downloading updates when I haven't ticked the download update box?
- Should I enable hyperthreading or not?
- does ubuntu support hyperthreading?
- rockj do you know if its worth enabling on a p4 northwind?

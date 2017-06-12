@@ -1,4 +1,0 @@
- mtlife, you could try "sudo dpkg-reconfigure unity"
- mtlife, it sounds like it's the same problem for both gnome and unity then - a window decorator problem
- see you later guys
-  /wave

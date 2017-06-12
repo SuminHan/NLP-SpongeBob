@@ -1,3 +1,0 @@
- hey, i upgraded to 11.04 and now evolution tasks aren't showing up in my calendar applet :( however, a subscribed calendar does show up in the applet
- hey, i upgraded to 11.04 and now evolution tasks aren't showing up in my calendar applet :( however, a subscribed calendar does show up in the applet
- the dates are bolded but clicking on the date doesn't show the list of events for that day

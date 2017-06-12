@@ -1,3 +1,0 @@
- someone knows how to enable the kmix channels and my mic again under lmint 10 kde? (worked under kubuntu 10.04)
- someone knows how to enable the kmix channels and my mic again under lmint 10 kde? (worked under kubuntu 10.04) tried already the alsaconf method, doesn't work.
- Dr_Willis: but there no one responds

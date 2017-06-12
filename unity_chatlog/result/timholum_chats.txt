@@ -1,3 +1,0 @@
- hello, does anyone know of a way to change how the search menu operates in 11.04? I would like it where if I type \\192.168.1.50 it smb connects to 192.168.1.50
- ohsix: yup, it opens firefox to http://smb://192.168.1.50
- ohsix: ya, I am assuming the program to search is written in python, I just have to find where to write a patch

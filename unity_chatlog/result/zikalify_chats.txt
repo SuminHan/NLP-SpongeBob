@@ -1,1 +1,0 @@
- unity 2d must be installed via ppa, if your graphics card isnt installed you will get classic ubuntu, open additional dirvers app and install your graphics card, reboot and pick unity from login screen and done

@@ -1,2 +1,0 @@
- hello
- i also upgraded from 10.10 to 11.04 and now my internet connections is very very slow, can someone help me?

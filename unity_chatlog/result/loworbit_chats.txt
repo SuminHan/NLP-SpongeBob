@@ -1,3 +1,0 @@
- Hi all, is this a good place to ask a question about 11.04?
- Great :)  I have set up ruby on rails for development.  When I start the server via 'rails s' it start fine.  However when i hit Ctrl-C it does not kill the server as expected?
- jla: Not sure.  I do know that on 10.10 I was able to Ctrl-C to kill

@@ -1,2 +1,0 @@
- is wayland supposed to be adopted by ubuntu 11.10?
- anyone knows if wayland is supposed to be adopted by ubuntu 11.10?

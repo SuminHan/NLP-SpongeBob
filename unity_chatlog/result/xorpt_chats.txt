@@ -1,3 +1,0 @@
- Hi there.
- Can someone see on Ubuntu Natty if when you open transmission if shows active in the sidebar?
- Can someone please let me know if transmission is currently showing up as active in the sidebar under Ubuntu 11.04?

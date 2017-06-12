@@ -1,4 +1,0 @@
- hello guys, I've decided to install 11.04 over my opensuse install, keeping my home partition, but ubuntu installer doesn't recognize logical volumes and treats it as a one big partition
- I can't reach my linux partitions from live session too
- how can I do it?
- kwtm: oh thanks didn't know that I should mount it manually, thanks

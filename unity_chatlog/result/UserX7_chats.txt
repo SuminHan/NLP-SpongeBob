@@ -1,7 +1,0 @@
- hi ubuntu 11.04 -- how to check what graphics driver i am using? Additional Drivers program shows i am not using proprietary yet Unity is working fine, which the program claims it won't.
- Sidewinder1: I just want to tell someone what graphics drivers i'm using, that's all
- botcity: any chance I'm using the nouveau drivers? lspci doesn't say
- botcity: ok; so any ideas what the driver is called that i'm using/how to see what's in use?
- how can i 'sort' a text file alphabetically? first letter of each line.
- vanguard: and in emacs? :-)
- sort won't overwrite the contents of a file? e.g. sort foo.txt > foo.txt

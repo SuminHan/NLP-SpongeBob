@@ -1,2 +1,0 @@
- hey guys could i make an irc server? i have a computer that i have acting as a server right now running 10.04
- Hey can I get some help hacking the bios of a Dell latitude 2110 so I change the boot sequence

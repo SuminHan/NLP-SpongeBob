@@ -1,7 +1,0 @@
- !isitout
- when will be available 11.04 ?
- arand, when will be ready xD ?
- arand, but i saw schedule and its written 28th :S
- !isitout
- this kde in natty is getting me sick, the bar is moving like crazy because the notification bar appears at the left or the right by moments. emerald and any other window decorator does not work with compiz. really disgusting
- plasma panel got crazy in natty kde, notification icon is moving in the panel at the left or right !

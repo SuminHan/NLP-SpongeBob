@@ -1,2 +1,0 @@
- hi can someone tell me if /dev/shm is concurrent read/write safe or where to look that up?
- Herbs: but can I write to it from different processes without the memory being corrupted?

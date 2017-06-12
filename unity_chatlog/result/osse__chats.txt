@@ -1,2 +1,0 @@
- Can anyone help me make Ctrl+Shift act as the AltGr button?
- Can anyone help me make Ctrl+Shift act as the AltGr button(i.e. 3rd level chooser)? That particular combo isn't avaiable under the keyboard preferences :(

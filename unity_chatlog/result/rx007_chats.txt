@@ -1,2 +1,0 @@
- hello guys
- does anyone have problems with sound after suspend?

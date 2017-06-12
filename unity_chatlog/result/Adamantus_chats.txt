@@ -1,7 +1,0 @@
- I'm trying to install ubuntu but can't resize my 320gb windows partition. If I click on change during install I just get "Edit partiion" "use as", "mount point", how do I resize?
- there's only change delete revert
- ActionParsnip: 7
- Ubuntu 10.10
- ActionParsnip: So just use windows disc?
- ActionParsnip: Windows is wrecked, says not genuine, I just want to install ubuntu alongside at the moment.
- ActionParsnip: I did try unmount in gparted but not available. Also won't boot due to failed install of Linux Mint, now trying to install Ubuntu instead.

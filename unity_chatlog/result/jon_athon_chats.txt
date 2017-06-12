@@ -1,2 +1,0 @@
- how do I change the startup sound?
- for anyone using XChat, how do I make "Hide Join/Part Messages" the default?

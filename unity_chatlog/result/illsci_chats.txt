@@ -1,4 +1,0 @@
- Is there any solution to the white screen of death following the recent upgrade?
- I wouldn't
- Everytime my screen locks it goes into a white screen and I can't ever get out of it
- Hey is there anyway to fix the white screen of death with the latest upgrade?

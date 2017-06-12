@@ -1,3 +1,0 @@
- Hello
- When trying to insall ubuntu 11.04 it hangs right as I press FORWARD at the first prompt screen
- had do you change the styles?

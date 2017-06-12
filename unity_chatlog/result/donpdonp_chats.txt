@@ -1,7 +1,0 @@
- ive been happy with 10.04 for 18 months and i cant wait to move to 11.04
- s/18/12.
- ayecee: zing! i was thinking it, but you typed it.
- installing mysql-server did not create an /etc/init.d/mysqld file - how should the server be started?
- is there a way to get the CPU monitor applet back in the top bar?
- xangua: how would i set that up?
- zzecool, xangua: thank you!!

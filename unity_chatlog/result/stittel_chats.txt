@@ -1,6 +1,0 @@
- Hi! If I try to install the package "nvidia-96" on 11.04, Synaptic wants to remove the X server. What's going wrong there?
- ohsix: If it can't be made working, why is "nvidia-96" even available as a package? I mean, this is a fresh default installation without any additional repos.
- ohsix: What's the purpose of installing nvidia-96, when I don't have an X server after that? :)
- ohsix: Well, I can understand why it's not supported anymore. But in that case there should be no nvidia-96 package in the repos.
- ohsix: Well, thanks anyways.
- ohsix: It's marked as "highly experimental" and this is for a computer that will go to clueless people in another country without me being available for support. :)

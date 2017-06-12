@@ -1,6 +1,0 @@
- hi! I'm installing Ubuntu 10.10 LTS on a new MSI cx623. it has freedos installed only. at the installation my hard drive is not recognised. I've tried the "pci=nomsi" option that I've found on the net, but it did not work. Could someone help me, please?
- I've change AHCI mode of SATA hard drive to IDE for installation, but this changed the CD driver too. Thus my CD is not recignised. What can I do?
- hi!, I've created a bootable usb drive with usb-creator-gtk that can be booted well, but at install it still searches for cd-rom, and can't find any.
- hi!, I've created a bootable usb drive with usb-creator-gtk that can be booted well, but at install it still searches for cd-rom, and can't find any. The try-usb option did not help.
- hi!, I've created a bootable usb drive with usb-creator-gtk that can be booted well, but at install it still searches for cd-rom, and can't find any. The try-usb option did not help.
- hi! I've just installed ubuntu lucid, but it does not start. I've already reinstalled grub, but I alwas get to the grub prompt. any ideas?

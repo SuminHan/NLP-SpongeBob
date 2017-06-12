@@ -1,3 +1,0 @@
- Is there a command to lock the screen than a keyboard shortcut?
- guntbert: Got it myself.. I was searching a command like <qdbus org.kde.krunner /ScreenSaver org.freedesktop.ScreenSaver.Lock
- > to lock screen

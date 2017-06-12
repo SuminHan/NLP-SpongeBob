@@ -1,6 +1,0 @@
- what do you guys suggest for setting up an ftp server?
- defiantredpill: cool thx
- so not proftpd?
- schnuffle, defiantredpill: proftpd > vsftpd?
- schnuffle: i dont know what it suggests
- ok

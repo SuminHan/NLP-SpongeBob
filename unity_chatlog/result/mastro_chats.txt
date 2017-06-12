@@ -1,6 +1,0 @@
- I am in the process of choosing a laptop for work... I'll install ubuntu on it and I do not want any issue with video, audio, touchpad / whatever.. hibernate and standby should work with no issue. I need at least 4 gb ram, better if more and I want a battery that last for 3 or more hours at least.... any suggestion? (brand / model)
- (i'll use the laptop for development on java environment)
- stefg, lenovo?
- stefg, ah.. Lenovo seems too expensive for my company :/ What about Dell Vostro? I haven't seen one in Ubuntu compatibility list
- stefg, thank you.. i'd like to buy one.. but they say it's too expensive :) will be next time
- how do an NVIDIA Quadro NVS 2100M work with ubuntu? 3d support, tv out, monitor out, hibernation

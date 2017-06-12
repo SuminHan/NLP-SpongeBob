@@ -1,2 +1,0 @@
- Please start Google Chrome as a normal user. If you have previously run Google Chrome as root, you will need to change the ownership of your profile directory.wat shud i do?
-  Please start Google Chrome as a normal user. If you have previously run Google Chrome as root, you will need to change the ownership of your profile directory . Can anybody help me im in bt-4 R2???

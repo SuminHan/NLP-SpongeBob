@@ -1,5 +1,0 @@
- on ubuntu 10.10 i am setting up autofs.
- I was able to properly configure direct
- and Indirect NFS file systems When I try
- CIFS  I can get it to work directly.
- When I tried to get it to work indirectly

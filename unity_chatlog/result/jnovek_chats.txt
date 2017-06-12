@@ -1,3 +1,0 @@
- Hey guys -- my wife just upgraded her machine to 11.04 and Unity flakes out on her.  Is there a config I can hack up to get it to boot classic?  She's configured to auto-login so I can't just switch env. on login for her.
- I have an 11.04 upgrades that auto-logins and has a hosed Unity -- is there a config file I can edit to set it to Gnome2/Classic?
- Thanks, good luck guys.  Lots of (mostly god) surprises in Natty.

@@ -1,5 +1,0 @@
- Depends on your timezone.
- vadviktor: I'm using the beta, seems to work fine
- Manohar: Wait.
- mick_laptop: In bash?
- vadviktor: They've merged netbook remix and desktop, so one assumes so

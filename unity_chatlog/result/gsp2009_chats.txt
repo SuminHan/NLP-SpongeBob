@@ -1,9 +1,0 @@
- good morning folks. Anyone here now running natty, with twinview? is it normal to have the top panel duplicated on both screens?
- Dr_Willis, ok.. thanks.. this is not good news for me..
- NyvenZA, everything else works fine for me it seems. Just a little weird having the panel twice.
- hey there folks. Unity and notifier. Do they play nice? Dropbox, printer, skype. None show up in top panel. Anyone seen this?
- ActionParsnip, deleting .gnome, .gnome2 etc?
- ActionParsnip, nice. Thanks.
- coz_, ssharm200. cool. thanks.
- coz_, ssharm200, ActionParsnip: sweet, I am all fixed up. Thanks again, you made my day alot easier.
- hello everyone. Does anyone know if there are USB drivers for motorola phones for natty?

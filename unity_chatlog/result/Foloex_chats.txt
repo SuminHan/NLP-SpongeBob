@@ -1,2 +1,0 @@
- hello world
- I have an issue with the module r8169 since I installed Natty, dmesg is filled with "r8169 [...] eth0: link up" lines. Is there a known issue and fix for this. I happens on two different computer running both the amd64 desktop version of Ubuntu 11.04.

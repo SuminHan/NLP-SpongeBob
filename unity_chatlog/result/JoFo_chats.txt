@@ -1,4 +1,0 @@
- Hello everybody. I've just updated my Karmic to Natty. The menus have disappeared. How could I add a new keyboard driver? Where's Gnome keyboard manager?
- Help! How can I access to the keyboard manager with Natty?
- escott:  Where is the Unity icon ?
- escott:  That's it. Thanks.

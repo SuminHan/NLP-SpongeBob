@@ -1,5 +1,0 @@
- I got a software center problem...Chromium rating is 102 but it only shows 1....http://i.imgur.com/Nhgpn.png
- ok can someone tell me if this is happening to anyone else? Software Center Shows 0 Rating for Chromium...But when click on more info it shows 121 raqting...
- is there a way i can sort apps as per rating in soft center
- can someone confirm this --> all ratings in software center over 100 are displayed as zero. Check out chromium, firefox and gimp
- icnahed mu pointer to black in natty but it rmains white...how i fix this?

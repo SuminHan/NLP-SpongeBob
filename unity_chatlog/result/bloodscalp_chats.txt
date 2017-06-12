@@ -1,2 +1,0 @@
- Little question. I've recently installed wine and there is a licence agreement of ttf-mscorefonts to accept. The "gui" (it's in a terminal) finishes qith <ok> but I can't find a way to accept it, and finish the install proprely.
- ActionParsnip, omg, thank u, i feel quite stupid

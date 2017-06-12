@@ -1,5 +1,0 @@
- hey folks ; trying to get sun-java6-jre on my ubuntu 10.04 laptop;  ubuntu * Says* its installed; but when i do: LilArooni sudo update-alternatives --config java;;; i dont see anything on sun java
- hey folks doing: LilArooni ~: sudo cat "65" > /proc/sys/net/ipv4/ip_default_ttl  => bash: /proc/sys/net/ipv4/ip_default_ttl: Permission denied
- how do i change the ttl on ubuntu? doing bash: /proc/sys/net/ipv4/ip_default_ttl: Permission denied => Permission denied
- sorry for repeaqt
- how do i change the ttl on ubuntu? doing bash: /proc/sys/net/ipv4/ip_default_ttl: Permission denied => Permission denied

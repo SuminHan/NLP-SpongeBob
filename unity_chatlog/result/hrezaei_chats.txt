@@ -1,5 +1,0 @@
- how to connect anaother desktop
- via remote desktop
- hi people!
- how to control a remote desktop via remote desktop?! I have the remote IP.
- people! I want to use remote desktop! I have the remote IP

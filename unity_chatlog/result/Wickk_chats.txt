@@ -1,5 +1,0 @@
- I upgraded to 11.04 this morning and since when running under unity/gnome2 none of my windows get their window decorations drawn
- ActionParsnip, ATI HD Radeon 4650
- ActionParsnip, I have not I'll do that now
- Ok so I just reinstalled the propietary driver my ATI card and i'm still not getting my window decorations drawn in Unity
- Why aren't my compiz settings saving throughout a reboot?

@@ -1,1 +1,0 @@
- hi all, has anyone experienced this issue in natty, I can't hold ctrl down and left click and selectively select files in nautilus, shft works but not ctrl

@@ -1,5 +1,0 @@
- How do I move the bar?
- What!
- How am I suppsed to use it with synergy and such then?
- Why is unity so poorly configurable?
- Well, one basic option should be switching where the sidebar is.

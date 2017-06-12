@@ -1,2 +1,0 @@
- can I use monodevelop with .NET 4 on Natty ?
- fogobogo, i tryed, I got an error saying that .net 4 inst installed, the roadmap says that its implemented, but ubuntu version doesn't have it

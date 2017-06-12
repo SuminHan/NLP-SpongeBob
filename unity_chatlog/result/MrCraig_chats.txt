@@ -1,7 +1,0 @@
- hello #ubuntu
- what is meant by "There is no application installed for executable files"?
- nmvictor, it's an exe, one I've just compiled and linked - it should run stand-alone.
- I'll ask the compiler guys, maybe it's doing something odd :)
- morning all
- Just got done with a system upgrade, and the new kernel won't  boot - not sure how I go about debugging the problem - any tips?
- I'm going to give unity a go, but I did like the old hierarchical menus, if I want them back is there a convenient way to switch?

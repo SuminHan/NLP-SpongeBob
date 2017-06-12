@@ -1,2 +1,0 @@
- OY1R: How to auto mount partition in natty on bootup. Tried pysdm with no success. I have screenlets w/ shortcuts of folders on desktop that show up unlinked until mounted.
- thnks... no, its a ext4 partition

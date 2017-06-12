@@ -1,2 +1,0 @@
- ok. I just installed 11.04 and I already broke unity. >_< I tried to enable desktop cube through compiz-config. broke some stuff. Tried to reset back to defaults using that, and now I can't seem to get the top/side bars back. I can get windows to come up by using different methods such as creating launchers on my desktop, so I've got chrome and a terminal, but I can't get the top and side bars to show up again
- :(

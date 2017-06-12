@@ -1,7 +1,0 @@
- upgraded to 11.04 and now I get a black screen at boot (under recovery mode I see a bit of scrolling text, then black); ATI Mobility HD3470
- system doesn't appear to respond to any keyboard shortcuts (that I know of)
- michaelschmid, classic view?
- I can't login
- the system locks before I can interact with it
- nope
- michaelschmid, perhaps; may as well salvage the pieces and reinstall if there is no known/easy solution

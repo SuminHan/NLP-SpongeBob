@@ -1,3 +1,0 @@
- I have the same problem with you. Touch pad powered by Synaptics
- I don't think it is the problem of the driver
- The kernel I think

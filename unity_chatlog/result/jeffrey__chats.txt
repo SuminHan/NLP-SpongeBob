@@ -1,4 +1,0 @@
- can anyone help me with a problem I'm having, I just installed Ubuntu and did the standard hello world program and when I type in g++ hello.C -o hello i get fatal error iostream.h no such file
- i tried iostream it gives the same error
- i have installed the build essential
- and i changed the program to iostream

@@ -1,1 +1,0 @@
- hey i just upgraded to ubuntu 11.04 stable, which seems to be working fine except the text in the top pane is barely visible

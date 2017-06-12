@@ -1,1 +1,0 @@
- If I have a current installation with a separate partition for home and do the install that says completely erase Ubuntu will it only erase the root partition? or does that completely format the whole disk?

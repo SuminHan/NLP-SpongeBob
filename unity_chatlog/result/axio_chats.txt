@@ -1,1 +1,0 @@
- how do i put something->name into a c string?

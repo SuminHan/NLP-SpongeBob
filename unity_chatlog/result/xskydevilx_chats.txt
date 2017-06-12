@@ -1,9 +1,0 @@
- I'm trying to dual boot Windows and Ubuntu, and what filesystem should I use for the "/" (root) partition?
- And does anyone know pros and cons of the JFS file system?
- How do I upgrade from Maverick to Natty using the CD?
- How do I restore GRUB2 using the live cd/usb?
- How do I set a manually screen resolution because on my netbook the maximum of 1024x600 isn't showing up?
- ActionParsnip: GMA 950
- ActionParsnip: http://paste.ubuntu.com/602957/
- ActionParsnip: Okay. Do you mind explaining the xorg.conf file editing? I'm a noob in GNU/Linux in general.
- How to I convert a *.ogv file to *.avi ?

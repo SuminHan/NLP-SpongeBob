@@ -1,7 +1,0 @@
- hi ... i have a question... will upgrading my distro via the update manager remove my files in /usr and my installations of apache, django, etc
- jnlsnl_, thats apache running as www-data, but apache tuns php, so, yes
- php runs as www-data
- Will my data be affected by upgrading ubuntu
- JUST ONE QUESTION , WILL I LOSE MY /usr DATA ON UPGRADING UBUNTU TO 11.04
- LjL, thanx, but really needed to know that, and the traffic here is mind-boggling
- hi..... i have a toshiba sattelite and i had to change the grub to make ubuntu work, will i have to do that again after upgrade... in need to do this acpi=copy_dsdt to install ubuntu

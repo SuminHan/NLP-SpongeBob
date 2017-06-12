@@ -1,8 +1,0 @@
- I just upgraded to 11.04.  Now X won't start and my console window is unreadable. I can SSH in from another machine.  /var/log/Xorg.0.log says the NVIDIA module failed to load and no drivers are available.  How do I repair this?
- Flare183: That command executes immediately and doesn't seem to actually do anything. =/
- How do I look at my system's kernel log?
- How do I view my system's kernel log?
- djr013: Err, how do I view my system kernel log if all I have is SSH access and no X?
- How do I view my system kernel log from an SSH shell and/or how can I start Unity from a SSH shell with X-Forwarding?
- ActionParsnip: I don't know the command to run the system log viewer. =/
- ActionParsnip: Thanks!

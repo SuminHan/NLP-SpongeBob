@@ -1,5 +1,0 @@
- Hey everyone, quick question, just did a test swap to ubuntu 11.04 over SSH, but the network performance seems to be very, very slow; namely using SSH, connecting is quick, but when it prompts me for password, it takes a good 15 seconds to respond. Attempting to log in through the physical console results in no delay.
- Anyone know how to fix this?
- I just successfully did a swap to Ubuntu 11.04 Server (from another operating system) over SSH, everything seems to work fine, but since the swap SSH seems to be very sluggish. Could this be due to my network settings being incorrect? I'm not quite sure what everything in this file does (namely the "network" and "broadcast" values). /etc/network/interfaces: http://pastebin.com/Y8irAjdS
- Kevin147: /etc/fstab should show this.
- Kevin147: edit, oops

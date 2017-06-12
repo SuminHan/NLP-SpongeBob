@@ -1,3 +1,0 @@
- hi =) Questions. What is the shortcut to go between workspaces ubuntu 11.04
- ah, very nice thanks!
- how do I make my dock stick so it does not autohide.  There is no "settings" that i can find for it ubuntu 11.04

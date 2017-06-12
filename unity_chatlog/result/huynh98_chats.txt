@@ -1,2 +1,0 @@
- Hi. I have a quick question. Is there any way to improve the predictability search results for alt-f2 for executables. It seems to have gotten worse from 10.10 to 11.04
- predictability of*

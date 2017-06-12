@@ -1,1 +1,0 @@
- how do i get apps running inside xephyr to show a menu bar?

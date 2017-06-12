@@ -1,2 +1,0 @@
- unity seems to insist that i should use the classic theme
- the default theme flashes quickly and changes to the classic variant

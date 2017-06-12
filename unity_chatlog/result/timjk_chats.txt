@@ -1,4 +1,0 @@
- i want to connect via remote desktop to a ubuntu 10.10 machine from my machine running ubuntu 10.10
- which package should i install on my machine ?
- vncviewer does not work
- escott: which vnc client to install ?

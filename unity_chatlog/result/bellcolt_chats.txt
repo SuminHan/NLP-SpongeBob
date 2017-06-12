@@ -1,1 +1,0 @@
- can someone help me restore 11.04?  just upgraded the driver to nvidia-current and gdm does not start during boot

@@ -1,1 +1,0 @@
- good morning all, I'm using 11.04 and IDE Aptana 2. I don't like Aptana and I'm looking for alternative. Any suggestions on something I can access my remote site with?

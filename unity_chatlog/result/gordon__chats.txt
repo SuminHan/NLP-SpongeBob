@@ -1,2 +1,0 @@
- hello,I'm building lfs6.3 in virtual box, and I've got "VFS: Unable to mount root fs via NFS...", my root fs is reiserfs in /dev/sda1. how to do?
- ikonia, thank you

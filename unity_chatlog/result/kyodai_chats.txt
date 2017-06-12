@@ -1,1 +1,0 @@
- How are Mesa 3d development files named in naty ?

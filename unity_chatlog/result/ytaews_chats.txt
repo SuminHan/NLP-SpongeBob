@@ -1,3 +1,0 @@
- I can't get Natty to boot at all, can't even get the live CD to initiate the installer. I go through BIOS POST, get a message about ISOLINUX and then black screen. Is there anything I can do to try and diagnose?
- taglass: Yeah, the MD5 matched. I've spent all day burning new discs, making USBs and then I tried going back to lucid, then upgrading to maverick then to natty. Still get a black screen every time I boot.
- taglass: Alright, thanks for the help, I guess it's back to Maverick for now.

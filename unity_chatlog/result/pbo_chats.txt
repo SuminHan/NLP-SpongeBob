@@ -1,1 +1,0 @@
- Ubuntu classic starts up without any top menu or task bar.. any suggestions? Just upgraded, think there was an update for my intel gfx card

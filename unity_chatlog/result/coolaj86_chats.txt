@@ -1,7 +1,0 @@
- Why does the Ubuntu website look like someone accidentally uploaded a draft version?
- Lots of "Marker1, Marker2" stuff, css styles that have pictures blocking text, etc. It looks terrible.
- Pici: have you tried something webkit?
- Pici: I just hit refresh again and now it looks beautiful. I must have caught it just as it was being updated or had a bad cache of the stylesheet
- pici: spoke too soon, I clicked "what's new" and now I'm seeing the same as before
- but looks fine on my android
- and a few refreshes later it's fine again...

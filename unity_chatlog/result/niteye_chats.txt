@@ -1,7 +1,0 @@
- hello, where can i find apps that use a taskbar icon? when i minimize them i cannot open them anymore (but the process is still there) (for example aMSN)
- in unity
- They only stay there when the application is minimized, when the window is closed but the application is active and acciessible through a taskbar icon like before, then i can't get to them anymore
- many things are wrong since the upgrade grrr lol
- so taskbar icons, where are they now in unity?
- Witchsong: that's a pita :(
- how can i change the global keyboard layout? i tried dpkg-reconfigure console-setup but it doesn't ask me for a keyboard layout

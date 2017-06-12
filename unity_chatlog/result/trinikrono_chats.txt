@@ -1,4 +1,0 @@
- c2tarun: can you drop to terminal run startx
- that should not use gdm
- awesomestman: use apt-get :D
- awesomestman: you can look at http://ubuntuguide.org/ it has a guide on how to install alot of things that you might need

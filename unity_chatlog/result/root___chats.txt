@@ -1,7 +1,0 @@
- lo
- hello
- i need some help
- can any one help me
- dear i am using back track 4
- when m trying to command airmon-ng it shows my wlano
- but when i try to airmon-ng start wlan0 it gives error

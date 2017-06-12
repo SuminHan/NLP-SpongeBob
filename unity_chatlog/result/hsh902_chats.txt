@@ -1,7 +1,0 @@
- how long that uasdthe new release of the ubuntu just came to us?
- how long just the new version of ubuntu is released?
- hey guys, does anyone know how long that we just have the new version of UBUNTU?? (ubuntu 11.4)
- sudo apt-dist upgrade
- Dr_Willis|2: today they just released the new version of 11.4? do u know when exactly?
- is it correct? sudo apt-get dist-upgrade
- ?

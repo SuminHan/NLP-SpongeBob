@@ -1,4 +1,0 @@
- hi, I've update to 11.04 to check advances but I can't see system preferences nor system administration. I realized my graphics card work worst now, the rendering is pretty ugly since sometimes the old rendered is still displayed and dissapear little by little when I open other stuffs... any guide/hint to solve this ?¿ there are some high requirements for new Gnome ?¿
- please name my nick for comments so i can see the highlight, I can't be present at the chat right now since i am on work time
- i repplay myself --> http://www.youtube.com/watch?v=wCrpy3fSGRY
- but i still would like to know if there are higher requirements fro grahpics

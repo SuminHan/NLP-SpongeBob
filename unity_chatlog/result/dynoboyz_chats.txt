@@ -1,9 +1,0 @@
- hi
- hello
- i need help on my partition,  I don't know how to handle files with mode 40755 when using fdisk
- Hello, why my ntfs partition unrecognized?
- yes, use Gparted before
- when im using gparted to resize it, my electricity turn off sudenly
- that mean I lost my data??
- i have try some software
- but still cant

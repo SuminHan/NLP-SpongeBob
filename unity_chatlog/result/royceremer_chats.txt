@@ -1,1 +1,0 @@
- cheddars: partitioning has been built into the ubuntu livecd for some time, you don't have to reboot to install, the changes take effect as soon as you apply them

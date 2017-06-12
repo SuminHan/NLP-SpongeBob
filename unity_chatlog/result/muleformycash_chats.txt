@@ -1,1 +1,0 @@
- Can someone please help me? I'm using libreoffice on gnome3, and after I click print for a document, gnome3 immediately says printing cancelled for that document, and i have no idea why

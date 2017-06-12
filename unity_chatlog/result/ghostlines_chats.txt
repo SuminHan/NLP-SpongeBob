@@ -1,1 +1,0 @@
- hi all, I'm trying to point virt-install to my cdrom drive but -c /cdrom isn't working how should this be done?

@@ -1,9 +1,0 @@
- pen drive is getting disconnect when i put in my system ubuntu 10.10
- how i sniff usb traficc in ubuntu
- bazhang, like usbmon
- how i trace the which my application is connected with net or current activity of application
- how i trace the which my application is connected with net or current activity of application
- i am using eclipse and i am updating my plugins i want 2 know from where eclipse is making connection . like netstat it shows me i want 2 see the details of that
- when i am updating my eclipse plugin it always get terminated at 49 % shows me fetching error
- how do i trace ip address through terminal
- how to create dns database in  ubuntu

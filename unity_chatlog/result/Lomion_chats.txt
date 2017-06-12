@@ -1,2 +1,0 @@
- Hey...I was wondering if anyone has had panel applets crash when using Gnome in Ubuntu 11.04
- If so, does anyone know how to correct it?

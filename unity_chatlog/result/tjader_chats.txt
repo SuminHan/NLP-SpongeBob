@@ -1,4 +1,0 @@
- can I add more than one user using preseeding?
- My numpad is misbehaving: it is sending weird key combinations instead of the expected ones
- It only happens after I log into X, VTs and GDM work fine
- Everything looks fine on gnome-keyboard-properties

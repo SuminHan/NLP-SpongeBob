@@ -1,9 +1,0 @@
- jozefk: what effects?
- FHtrain: I'm a bit confused by hat you mean, but cant you upload them to a file server?
- I think Wubi is a virtua machine, yes?
- FHtrain: control H ?
- glacia: nonsense....my dad is too stupid for windows, but smart enough for linux
- Igor_Elez: do you have a flash drive?
- Igor_Elez: http://ftp.gnome.org/pub/GNOME/sources/NetworkManager/0.8/
- download and install
- !spam | SLruan

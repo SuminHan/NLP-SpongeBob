@@ -1,3 +1,0 @@
- Hello, I'm installing uuntu 11.04. The installation wizard hangs on the keyboard layout. what should i do?
- Hello, I'm installing uuntu 11.04. The installation wizard hangs on the keyboard layout (hour glass + grayed 'back' & 'forward' + "Ready when you are" since 20 minutes). what should i do?
- Hello, I'm installing ubuntu 11.04. The installation wizard hangs on the keyboard layout (hour glass + grayed 'back' & 'forward' + "Ready when you are" since 20 minutes). what should i do?

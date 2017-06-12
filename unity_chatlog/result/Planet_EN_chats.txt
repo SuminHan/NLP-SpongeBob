@@ -1,5 +1,0 @@
- my gnome-network-manager keeps saying ethernet device is not managed? i removed eth0 from the wired interface how do i add it back?
- hello?
- escott: it says: Error for wireless request "Set Mode" (8B06) : SET failed on device eth0 ; Operation not supported.
- escott: wireless is connected
- escott: do I have to disable wireless for that?

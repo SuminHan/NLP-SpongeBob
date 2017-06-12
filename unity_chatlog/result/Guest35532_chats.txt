@@ -1,3 +1,0 @@
- mnb,mnb,
- work lan
- how i instal smeserver

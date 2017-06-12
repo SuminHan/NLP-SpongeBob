@@ -1,9 +1,0 @@
- what do package versions like 3.2.is3.0.1-0ubuntu1?
- how can I make my upstart script wait for my nfs volumes to get mounted?
- cheapie: hmm... sounds like a hack, but OK.
- yeah, that seems to be the only decent documentation on this thing I can find
- I'm troubled that 1) my script is firing when I have a start on (filesystem and started avahi) line and 2) it doesn't respawn until the nfs mounts succeed
- ok, thanks Cheapie
- Loshki: fair enough... but why use rc.local instead of upstart?
- Loshki: don't the same problems exist there?
- in any event, I think I've fixed that problem and am on to forked-daapd quitting for some other reason :(

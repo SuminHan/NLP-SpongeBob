@@ -1,8 +1,0 @@
- hello mr ubuntu
- how long does it take to update from maverick to narwhale?
- how long is the update? 1hour?
- i didnt install that much
- a relative clean ubuntu
- well my hdd speed is 7200 rpm
- and the cpu speed is aprox 300'000 miles per second
- or km/s

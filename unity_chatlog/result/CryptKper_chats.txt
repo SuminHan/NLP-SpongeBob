@@ -1,8 +1,0 @@
- Can someone tell me how to restore the ubuntu software center to its classic look. after my upgrade everything shows up in a single file line.
- Younder, Ubuntu Software Center, unity isnt the issue.
- Younder, please read my entire sentence. IN ubuntu software center, all of the software categories are being displayed in a single line, how do i restore the setting for 'ubuntu software center'
- salomonv, clean install or upgrade?
- salomonv, turn off your nvidia driver, reboot, turn it back on, reboot, should be fine.
- salomonv, good question.
- Does anyone know how to correct software-center from displaying everything in a single column?
- Does anyone know how to correct software-center from displaying everything in a single column?

@@ -1,3 +1,0 @@
- 5 core developers have now just proclaimed that the are refusing to work further on Ubuntu. Something happened here on this #. Is there a way to get a log of what was said?
- oCean Everything that is said on Freenode and this # is logged
- oCean these are not the full logs of what was said. Syn3rgy was a top dog over at kernel.org. Seems some body banned him and took it personal. I need to know what was said.

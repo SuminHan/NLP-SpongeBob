@@ -1,6 +1,0 @@
- Hi.  I cannot boot into Ubuntu (all I see is a black screen forever).  How can I fix this?  I have natty 11.04
- I cannot boot into ubuntu!  I need help.  All I see is a black screen.
- Ubuntu 11.04 installed but I can't boot, all I get is a black screen and that's it.
- @sebsebseb I don't know because I can't boot into ubuntu to find out.
- How do I send people private messages?
- I really want 11.04 to work for me.  Really bad!

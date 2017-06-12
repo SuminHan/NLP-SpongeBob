@@ -1,6 +1,0 @@
- Is there any place other than "Startup Applications" where startup programs could be listed? I have a weather indicator applet installed and I don't want it starting up anymore but it's not listed in "Startup Applications."
- rgr: I've grepped /etc/init.d for it, but I couldn't find it there either.
- ActionParsnip, thanks; however, I'm using Gnome.
- ActionParsnip, Checking there now but not seeing anything :/
- ActionParsnip, thanks I'll check it out.
- ohsix, I'm using Ubuntu classic, thanks for the tip tho.

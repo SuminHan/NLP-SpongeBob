@@ -1,9 +1,0 @@
- Hi all, running 11.1 Beta 2, and see that my nvidia driver is enabled but not in use, how can I enable it?
- ok
- Hi all, before Natty came out officially I was running Beta 2 of it, I should be able to upgrade to the full version right?
- Hi all, I think I changed what my swap partition is, is there an easy way to verify the server is using the new swap partition?
- anyone?
- thanks ayecee
- how can you resize your / partition?
- (to make it bigger)
- can I unmount the / partition while in gnome make the partition bigger, and then mount it again?

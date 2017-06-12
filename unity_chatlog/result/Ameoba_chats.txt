@@ -1,2 +1,0 @@
- is there someone online that can help me with troubleshooting a new install of ubuntu 11.04 and graphics performance?
- html_inprogress: ok if it's a common problem I'll keep an eye on the forums and wait for an update then

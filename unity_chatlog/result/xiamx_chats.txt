@@ -1,3 +1,0 @@
- How to burn a video DVD? I tried Brasero, it only allows me to make a SVCD image
- doesn't single user mode require password too?
- which port other than 443, 80, 21 is not commonly blocked by college gateway?

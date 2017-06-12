@@ -1,1 +1,0 @@
- can anyone running chrome pastebin me their /etc/apt/sources.list.d/google-chrome.list? I lost mine

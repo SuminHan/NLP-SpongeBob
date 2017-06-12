@@ -1,1 +1,0 @@
- why is it that when i installed the nvidia drivers for my laptop i all of a sudden lost twinview?

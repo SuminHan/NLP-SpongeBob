@@ -1,6 +1,0 @@
- Anyone know how to use themes after installing gnome3 shell ... ?
- what should i do there is no "Appearance" option no theme option only one software installed with gnome3 gnome tweak tool now how i am suppose to add themes.
- can anyone tell me why i am unable to write in my file system ?
- PythonPup, not its not .. :P its installed in my hd .
- why i can't paste anything in my system file folder :S
- i want to paste files in /usr/share there is no paste option and when i try to change permission it says u are not the owner to change these permission ? well i am using admin account ?

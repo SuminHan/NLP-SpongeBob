@@ -1,1 +1,0 @@
- What is the preferred method of setting up a desktop terminal server?    I used to use xdmcp, but that seams impossible with ubuntu.  I've read about a vncserver and freenx.  Anyone have an opinion?

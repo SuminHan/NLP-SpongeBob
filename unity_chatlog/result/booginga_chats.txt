@@ -1,5 +1,0 @@
- hey all i haev a question about the calanderserver package. I just installed version 11.04 and im having some python lib issues... I would really like to get this working and prevent my company from buying a mac and wasting money and overall causing me headaches. Is there a version of ubuntu where this package is working without additional configuration? I would also like to avoid installing it from source so i can install updates
- nanuganga: have you checked the permission of that file... not to be weird i just had a bunch of issues with that recentyl
- iceroot: its during start up
- iceroot: first it was missing libs from python web 2 installed that then said that the dav lib could not be found
- iceroot: sorry new to the ubuntu community have been using centos where is the correct place to post something like that

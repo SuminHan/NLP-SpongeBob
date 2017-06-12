@@ -1,6 +1,0 @@
- bnmnb,
- hi
- kill -9 /bin/laden
- hello
- fasdf
- join

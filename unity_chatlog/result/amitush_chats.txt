@@ -1,7 +1,0 @@
- hello
- need help with installing edimax wireless pci card
- is it possible ?
- through command?
- someone here knows how to install edimax pci wireless card?
- cause i cant install it
- i have this card: EW-7711In

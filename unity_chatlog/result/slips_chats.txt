@@ -1,1 +1,0 @@
- anyone knows how I avoid that fsck fails during boot if the hwclock is set back in time?

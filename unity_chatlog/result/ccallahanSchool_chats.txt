@@ -1,4 +1,0 @@
- (10.04.2) If I were to setup a Jailkit on a desktop environment, what programs to I need to whitelist for GNOME, Firefox, OOo, and the Network Share Mounter (On the places menu)?
- Oh, and WiFI
- Yummy Spam ;)
- (10.04.2) If I were to setup a Jailkit on a desktop environment, what programs to I need to whitelist for GNOME, Firefox, OOo, Wi-Fi, and the Network Share Mounter (On the places menu)?

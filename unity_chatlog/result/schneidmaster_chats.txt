@@ -1,8 +1,0 @@
- Hey all, I'm getting a problem with updating my release.  I'd like to upgrade to natty but when I try to check for new updates via the update manager I get this error:
- W:Failed to fetch http://archive.canonical.com/ubuntu/dists/maverick/Release  Unable to find expected entry  (Source/source/Sources in Meta-index file (malformed Release file?)
- , E:Some index files failed to download, they have been ignored, or old ones used instead.
- any ideas?
- Hey, does anyone know how to modify application launchers in natty? (ie, change the command)
- HerCury: not really actually.  I just want to modify the Skype launcher so it executes the command "webcamWrapper.sh skype" instead of "skype" (as this is the script I used to solve my inverted-webcam bug)
- I could make a custom launcher but then I just have two launchers in unity
- I figured it out if anyone cares lol.  Themes&tweaks -> main menu lets you edit launcher commands

@@ -1,4 +1,0 @@
- Anyone know how to check what is running on ports?, chkrootkit says bindshell INFECTED port 15.
- extraclassic, good idea. thanks
- Ok nmap says port 15 open service netstat. why would chkrootkit report INFECTED on port 15?
- How would you kill a process running on a certain port

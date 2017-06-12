@@ -1,6 +1,0 @@
- guys, hi. Installed 11.04. I like it. But, I have very glitchy graphics issues. Nvidia 7300 graphics card (not great, but surely able to run 3D games etc.) On the Nvidia (Reccommended) drivers my desktops loads and shows a desktop (e.g. wallpaper, unity panel, etc.) but nothing happens, funny enough I can interact with the system, it is just now showing it. On the old Nvidia 173 drivers, my system runs OK. But There aren't much effects in unity and not able
-  to do much graphics wise... please help.
- and when I open additional drivers (restricted drivers thingy) It says the Nvidia [recommended] drivers is installed (green light next to it), but beneath it says it is not enabled. Please help
- When I start my computer I get a black screen (way before X starts) that just says "error: parse file not allowed" - I presume it might have something to do with the face that I used my old install partition as my /home. but How do I fix it?
- samzor_ also having issues
- samzorio: no, no one is helping here.

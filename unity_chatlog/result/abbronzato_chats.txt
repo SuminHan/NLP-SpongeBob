@@ -1,5 +1,0 @@
- HELP, i cannot use the latest 11.04: 'udevd-work[98]: '/sbin/modprobe -bv pci: v000010DEd00000398sv00001179sd0000FF31bc03sc00i00' unexpected exit with status 0x0009", i have verified the downloaded md5sum, reburned then verified, looks good but same error: HELP! thx
- hello, in true not, the system runs fine, but i can test it
- ActionParsnip.. really bat the ram test appears but does not starts (if executed from the ubuntu media!!!!!)
- ActionParsnip, thx the memory test appears, but simply does not starts!
- ActionParsnip, i'm running another (fe....) from months without probs on this pc

@@ -1,6 +1,0 @@
- Hi
- where ca n i found the new version md5 file ?
- i have this error before the instal
- unexepected_exit_with_statut_0x0009
- on black screen,
- i try check disk, same thing..

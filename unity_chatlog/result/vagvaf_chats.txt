@@ -1,6 +1,0 @@
- hello people, do u know how can i set universal hot keys?
- hello guys, is there any way to install packages using apt to my /home folder ?
- hello guys, does any1 know in which directory is the ubuntu login sound ?
- thanks aeon-ltd
- aeon-ltd: it's in /usr/share/sounds/ubuntu/stereo/desktop-login.ogg
- guys when i shut down my system, the screen will switch off, but not the cpu and the fan seems to go crazy...any ideas?

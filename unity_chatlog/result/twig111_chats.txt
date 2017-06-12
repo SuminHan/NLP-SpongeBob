@@ -1,6 +1,0 @@
- I need help downloading 11.04. Will someone please look at this output from zsync  http://paste.ubuntu.com/601356/ and tell me what I'm doing wrong? I'm on a limited-bandwidth connection and I can't afford to download the whole image when I already have the beta. Thanks for any help.
- I need help downloading 11.04 using zsync. Can someone look at this output http://paste.ubuntu.com/601356/ and see what I'm doing wrong? Thanks!
- DosAmp: Did you look closely at what I posted? I have the correct url. I'm using the beta2 iso for the seed file. You can see in the output that zsync marks it at 71.2% complete. I believe my syntax is correct. Please explain if I am missing something.
- PalinBachman2012: I don't know if you were replying to me awhile ago on the zsync download issue or not, but here's what's happening now. http://paste.ubuntu.com/601371/
- Does this tell you anything? Is the server just too busy?
- PalinBachman2012: I've tried it probably a dozen times since day before yesterday. Do you know anything I could do to troubleshoot, or do I just have to wait until the traffic subsides on the servers.

@@ -1,9 +1,0 @@
- Is there a way to easily organise the items in the Unity launcher? (I'm using 2D, if that makes a difference)
- nutsfornatty, ah, okay, thank you very much!
- I'm attempting to get Gnome Shell installed on Ubuntu 11.04 by using the gnome3-team/gnome3 PPA, but when I'm "sudo apt-get dist-upgrading" after an update, I keep running into an error with gir1.2-mutter, can anyone point me in the right direction?
- cheapie, http://pastebin.com/pwjiqtP7
- I'm attempting to get Gnome Shell installed on Ubuntu 11.04 by using the gnome3-team/gnome3 PPA, but when I'm "sudo apt-get dist-upgrading" after an update, I keep running into an error with gir1.2-mutter, can anyone point me in the right direction? The error is: http://pastebin.com/pwjiqtP7
- I just installed Gnome Shell via ppa:gnome3-team/gnome3, but when I try to log in to the session, it tells me "Could not update ICEauthority (/home/users/.ICEauthority)" and kicks me out, can anyone help?
- (Running 11.04)
- I just installed Gnome Shell via ppa:gnome3-team/gnome3 on a new installation of 11.04, but when I try to log in to the session, it tells me "Could not update ICEauthority (/home/users/.ICEauthority)" and kicks me out, can anyone help?
- I'm running Gnome Shell in 11.04, but I can't seem to get Gnome Tweak Tool to see my themes that I put in /usr/share/themes, can anyone help?

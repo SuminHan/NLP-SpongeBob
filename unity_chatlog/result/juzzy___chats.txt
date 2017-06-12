@@ -1,2 +1,0 @@
- hey, ive updated to 11.04 - how may I place a my old weather widget dock thing onto the upper bar again??
- there is not context menu

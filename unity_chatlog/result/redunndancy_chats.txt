@@ -1,1 +1,0 @@
- how can i disable the unity side bar?? I just updated my system to ubuntu 11.04 and its now stuck in there

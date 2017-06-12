@@ -1,4 +1,0 @@
- when does 10.10 stop being supported?
- okay thanks
- can you format a drive natively from the terminal?
- why does the terminal have trouble with spaces? for instance, it interprets 'a b.gif' as 'a.gif','b.gif' what can i do to fix this behavior?

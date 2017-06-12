@@ -1,1 +1,0 @@
- i think my gvfs on 10.04 is screwed up ... won't connect to a smb share.  anyone know where to look / what to do?

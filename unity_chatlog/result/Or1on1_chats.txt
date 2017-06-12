@@ -1,8 +1,0 @@
- I just upgraded to 11.04 and I'm getting kernel panic after login on my asus G51
- I'm getting kernel panic on 11.04 64bit after login on ubuntu... does anyone have this problem?
- Captainkrtek, there is nothing on the logs. its a total freezup with the keyboard light blinking...
- Captainkrtek, I can log in using ubuntu safe mode option. I just upgraded, this happened at the first login.
- Captainkrtek, thanks! :)
- Captainkrtek, i think i found a clue for the freezup! :o)))) i think its one of the startup applets/applications
- Captainkrtek, it was the cdemu deamon
- :o)

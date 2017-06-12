@@ -1,9 +1,0 @@
- hi, i have a THE question,... why did ubuntu change gnome to ubiquity?
- will ubuntu stop using gnome? should i use KDE instead???
- will ubuntu stop using gnome? should i use KDE instead??? can i have a response?
- Jordan_U, so all version will come with ubiquity but it will always possible to change t to gnome with all support?
- Jordan_U, ok.. and what are the difference between the new shell and gnome shell?
- Jordan_U, unity don't have a "work bar" on the bottom on the screen... not usable for me!
- Jordan_U, i dislike it...  i want to use ubuntu to work... not for a multimedia table... I think a good point for ubuntu was gnome (simple and performant)...
- Jordan_U, yes.. but if the default is unity... the future development will be done for unity...  i'm afraid to see incompatibilities for gnome
- Jordan_U, thanks for your time.... i hope ubuntu won't disappoint me in the future...

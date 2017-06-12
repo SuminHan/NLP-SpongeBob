@@ -1,5 +1,0 @@
- hi! someone know how to modify application menu in Xubuntu10 like the old menu editor alcarte?
- in other words.. is there in xubuntu10 any kind of menueditor like alcarte?
- nope :D
- i just can modify propriety... not the list
- i'm in xubuntu but noone there answering

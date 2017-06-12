@@ -1,2 +1,0 @@
- how can i install the CalDav integration in evolution on ubuntu 11.04?
- i can't mount my external hdd on the live disc. it seems to be mounted one second and then is the external hdd removed. what can i do to solve this problem?

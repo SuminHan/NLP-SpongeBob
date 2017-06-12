@@ -1,8 +1,0 @@
- how do i change from unity to ubuntu classic (gnome) via the terminal?
- constl: problem is i enabled autologin, its running on my htpc
- Dr_Willis: ok thanks
- Dr_Willis: where do i find the .dmrc-file ?
- Dr_Willis: i cant logout since i have no menus or anything, just an empty desktop. its probably cus i fiddled around with overscan-options (nvidia)..id prefer the .dmrc-solution hehe
- Dr_Willis: hmm i dont have one, what does it look like?
- Dr_Willis: ok. is there a way to bring up a terminal by using keyboard shortcuts? kinda hard to do anything without menus ;)
- Dr_Willis: great, thanks alot!

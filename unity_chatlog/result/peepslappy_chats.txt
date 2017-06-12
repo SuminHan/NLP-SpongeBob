@@ -1,2 +1,0 @@
- what is the default theme in 11.04?  I upgraded from 10.10 and having some issues with very low contrast between font and background, just wanted to see if I was using the right theme
- does anyone know how clock drift settings work?

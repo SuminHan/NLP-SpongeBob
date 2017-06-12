@@ -1,5 +1,0 @@
- hi. Just upgraded to 11.04 (from 10.10). The process was pretty smooth, although Grub2 just exploded (it boot into grub rescue mode)
- thankfully, I've already solved it
- but, of course, a non tech-saavy user will have a hard time if the same happens after she upgrades to 11.04
- so far, it seems to run pretty smooth
- the only "issue" is that changing desktop background image makes the system *really sluggish* during the image transition (fade in/out)

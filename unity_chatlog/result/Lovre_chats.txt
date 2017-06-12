@@ -1,5 +1,0 @@
- hi all
- i have a raid controller, and two disks in RAID 1 field. How can i make sure that my Ubuntu recognizes this configuration?
- yaaar: its a hardware raid, but shouldnt i have a raid driver?
- yaaar: yes...
- yaaar: its a fakeraid... how do i use ubuntu raid with this?

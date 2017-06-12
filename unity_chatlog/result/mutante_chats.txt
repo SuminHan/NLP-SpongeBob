@@ -1,7 +1,0 @@
- where is a "24 GB RAM" limit? i read there may be one for some CPUs? i can see 4 Pcs. of RAM , 8192 MB each with "dmidecode", but cat /proc/meminfo just sees 24 GB , not 32GB. CPU Intel(R) Xeon(R) CPU E5540 quadcore.. on a Dell r710, says it would support a lot more. Linux kernel is 2.6.24-28 64-bit, Ubuntu 8.04.4 LTS
- muneeb: "gzip: stdout: No space left on device
- muneeb: hard disk full ?!
- muneeb: it tries to do something in /boot though
- muneeb: uhmm... make /boot larger ... ehm... using gparted.. from a Live CD
- Whats the way to go to update php-gd ? I need a newer GD, but i dont necessarily need to touch the PHP version itself...
- bromium: iptables -vL should show you counters, like how many packets are actually filtered by the rules.. you can start that, try doing stuff, and watch the counters changing,, so you know if its that or not

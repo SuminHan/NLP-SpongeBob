@@ -1,4 +1,0 @@
- thats not the case if it complains about character encoding
- i guess problem is that it has some weird encoding -- "What Windows terminology calls "ANSI encodings" are usually single-byte ISO-8859 encodings, except for in locales such as Chinese, Japanese and Korean that require double-byte character sets."
- mikebeecham: wow!
- those your works, they are very nice

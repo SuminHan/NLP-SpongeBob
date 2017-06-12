@@ -1,9 +1,0 @@
- tripelb: if you want to do it in a graphical way, just press alt+f2 and enter "gksudo nautilus", then you should have a file manager with admin privileges
- pythoned: i usually use "ultimate boot cd" for this
- RRU_Sciguy: reformatting does leave traces
- pythoned: dd deletes the data securely, if you want to be totally sure use it multiple times, but after one run it should be really hard to get data even for forensics
- pythoned: for added fun, use if=/dev/random :)
- pythoned: if you overwrite the data several times with random data, it should be impossible even for specialists to get data, if i recall correctly, i have read an article that even overwriting once  should be enough
- pythoned: if you use a tool like "boot and nuke" from the ultimate boot cd, you can select different modes which correspond e.g. to security standards of the american department of defense
- Ahmuck: do you want to completely remove it or just use the traditional desktop? if it’s the latter, just chose "traditional gnome desktop" at login
- kate__: try cd Downloads (without /)

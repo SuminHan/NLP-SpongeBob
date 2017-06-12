@@ -1,9 +1,0 @@
- how do i tell maverick boot disc to use video card's dvi and not mobo's crt?
- david8732:  i didn't see anything in the bios that mentioned dvi or crt. might it be worded differently?
- david8732:  thanks
- hehe i'm using the screen reader
- remote desktop viewer doesn't seem to work in natty. i can click around and see the background, but the menus don't pop up and it doesnt' update the screen properly
- calamari: my favourite is konversation
- Artarian:  wait for 11.10 eh :)
- isarl:  what part of the upgrade fails when fresh install is fine?
- cool

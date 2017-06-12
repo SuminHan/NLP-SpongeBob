@@ -1,3 +1,0 @@
- Hi!
- I'm not very familiar with the new upstart manager, but I needed to have a job running after each time mysql is restarted. I've added the script path to /etc/init/mysql.conf on the post-start script part but it didn't work. Any hints?
- I'm not very familiar with the new upstart manager, but I needed to have a job running after each time mysql is restarted. I've added the script path to /etc/init/mysql.conf on the post-start script part but it didn't work. Any hints?

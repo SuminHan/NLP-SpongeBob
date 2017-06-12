@@ -1,1 +1,0 @@
- ChronicSyncope: well trying it in VM complained about missing hw support and did that classic gnome by default; guess login screen will also have option for selecting that.

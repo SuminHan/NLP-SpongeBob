@@ -1,6 +1,0 @@
- warp_, sudo spkg --reconfigure-a
- should work
- *dpkg, sorry
- np :)
- wait no, dpkg --configure-a, not reconfigure
- my mistake

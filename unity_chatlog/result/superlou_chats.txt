@@ -1,1 +1,0 @@
- Has anyone had trouble installing 11.04 AMD64 with nvidia.  Freezes on something about nvidia_current that seems to have been fixed a while back.  I can install "successfully" by telling ubuntu to skip before it gets to that part of configuration, but I'm not sure exactly what gets skipped and if I'll regret that later.

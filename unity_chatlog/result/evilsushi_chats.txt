@@ -1,8 +1,0 @@
- anyone here familiar or is using duplicity for backups? how far has it scaled for you? would you use this in a enterprise environment?
- is there a alternative cd download for ubuntu 11.04?
- does it offer the lvm encryption such as previous alternate installs?
- DeadmanIncJS: #ubuntu-offtopic
- how hard is it going to be to upgrade from 10.10 to 11.04?
- yeah thats not an option
- does 11.04 have a LTS?
- every 2 years

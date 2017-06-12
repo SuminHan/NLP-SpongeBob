@@ -1,9 +1,0 @@
- Anyone know how to find out why KVM bridged utils is not passing ipv4?
- only happened after upgrading to 11.04
- Anyone know how to force ipv4 networking
- and disable ipv6?
- Anyone able to help diagnose a KVM Bridged networking issue? I just upgraded the host to 11.04 and networking fails.
- it seems that the traffic gets to the host, but doesn't route properly.
- Anyone know how to diagnose a network routing issue? I have a KVM host and the guest is not able to contact the network.
- I had the KVm host and guest working before the host was upgraded to 11.04, now something is wrong with routing.
- I already use virtualbox, but against kvm? not a chance for production.

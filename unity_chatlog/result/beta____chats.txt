@@ -1,9 +1,0 @@
- does somebody here has knowledge how to compile a kernel?
- @ubottu, I want to use the latest kernel on 10.04
- because I don't like the new ubuntu 11.04, want to wait till 11.10 comes out..
- it fixes my wireless problems, and also some fixes to my Optimus supported laptop
- Oke, thanks for the help :)
- I will try Ubuntu 11.04, see that gnome2 is still there...
- An other question: I've used emerald as my decoration manager, is it posible to get it working in 11.04?
- hello, can someone help me? I'm having random 'freezes' with Ubuntu 11.04
- Goodnight all

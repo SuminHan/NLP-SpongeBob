@@ -1,8 +1,0 @@
- hi
- can I sudo-apt get dropbearkey some how?
- I've made a huge big mess of all my public/private keys, if I want to start all over, is it safe to just deleve ~/.ssh ?
- Blue1: clever, thank you
- how does rsync identify two files as the same file and skip it on the next sync, I assume it goes by more than just the fiel name?
- Flashtek: this md5 sounds like a goood deal
- what is the general command for searching a whole drive for word/words
- aha, find is what I'm thinking

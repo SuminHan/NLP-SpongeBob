@@ -1,1 +1,0 @@
- Hello all. I'm having troubles instaling 11.04 in a Acer Laptop. The display backlight turns off as soon as ubuntu CD boots, and i can't see nothing. Any clue?

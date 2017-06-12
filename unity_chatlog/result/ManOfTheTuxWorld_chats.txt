@@ -1,2 +1,0 @@
- I just installed kubuntu 11.04 on virtualbox and the guest additions are not worrking
- I just installed kubuntu 11.04 on virtualbox and the guest additions are not worrking

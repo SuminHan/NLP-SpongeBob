@@ -1,2 +1,0 @@
- uhm... yeah. i've just chmod'ed everything to "www-data" user. including "/etc/sudoers". any chance I can "sudo su root" again? i'm currently stuck with user "ubuntu".
- thx, jrib

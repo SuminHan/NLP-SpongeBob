@@ -1,1 +1,0 @@
- I have a lovely samsung netbook, upgraded from 10.10 to 11.04, and the brightness of the LCD is unaffected by changing the brightness. In the live CD of 11.04, this works! Should I try installing from scratch?

@@ -1,6 +1,0 @@
- hey, I'm trying to set my screen refresh rate to 75Hz on Lucid 10.04
- there is no xorg.conf as I found out so I created one with
- Xorg -configure
- it did create it with SubSection "Display" Modes "1920x1080_75"
- it put the .xorg.conf into my home folder, so I copied it as xorg.conf to /etx/X11
- but it doesn't work still, the only options in Monitors=>Refresh rate is 60Hz

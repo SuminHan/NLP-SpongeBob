@@ -1,1 +1,0 @@
- Hello, I installed sensors with sudo apt-get iinstall lm-sensors. After installing I run sudo sensors-detect and after letting it run and telling it yes to all sensor scans the summary says Driver 'via686': * Chip 'VIA VT82c686 Integrated Sensors' (confidence: 9)

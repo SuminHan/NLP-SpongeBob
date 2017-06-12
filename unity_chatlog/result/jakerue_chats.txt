@@ -1,3 +1,0 @@
- I updated from 10.10 to 11.04 yesterday but my graphics card doesn't support Unity.  I got an error message tossing me back into gnome2 yesterday but when I boot I get into gnome and now I cannot seem to access my data folders.  All my browsers give seg faults (except opera) and now in xfce I can operate but cannot access my home folder at all.  Get error Message did not receive a reply (timeout by message bus)
- I tried every single option including ubuntu classic and safe mode but same unresponsive desktop...only xfce lets me do anything
- ok after 10.10 to 11.04 all I get are seg faults from nautilus, firefox, etc.  What are some possible solutions to this?

@@ -1,5 +1,0 @@
- I have a question, using the Live CD, I can run Unity 3D properly, but from my hard drive, it doesn't work, why?
- yakubori, none are available
- yakubori, why would it work from CD but not from an installed version?
- ok
- yakubori, um, 00:02.0 VGA compatible controller: Intel Corporation Mobile 4 Series Chipset Integrated Graphics Controller (rev 07)

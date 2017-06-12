@@ -1,9 +1,0 @@
- OK, made oops on Ubuntu 11.4. I was playing with Compiz_config_manager to see if i could enable the cube.  Now the top of windows have gone, the left bar and super button don't work.
- What do i need to do to get functions back :(
- a
- a
- a
- a
- a
- naike: what have you done?
- naike: not my bag..

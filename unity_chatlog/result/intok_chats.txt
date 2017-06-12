@@ -1,3 +1,0 @@
- Using 10.10 PPC port, need to know anything at all about the gnome implimentation of 11.04 before I try and upgrade, since the PPC port is unofficial there is no livecd to teston
- no, I currently don't have any other machine, no I can't youtube
- CoolCoder what for?

@@ -1,7 +1,0 @@
- Question: Gwibber throws notification messages on the screen with twitter/facebook events. However, when I try to click on these notifications I they fade out. Is there any way for them to become clickable?
- M13up: I know that, I was just wondering if I can click directly when the notification message pops up
- bullgard4: I am just wondering if I can click directly on gwibber's pop up notifications to open the gwibber interface directly.
- bullgard4: every time you put the mouse on top of a gwibber notification it fades out and cannot be clicked.
- Question: is there a GNOME irc client that is better than xchat and similar to kvirc in features?
- ben21: yes
- ben21: xchat is rather primitive

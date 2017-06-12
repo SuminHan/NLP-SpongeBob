@@ -1,7 +1,0 @@
- I'm running 10.10 amd64, and it's not letting me upgrade to 11.04. Anyone able to help?
- ohsix: No, it's says there's a new version, etc. But when I click the upgrade button, it says i'm not connected to the internet.. but obviously I am.
- ohsix, yeah, that was my bad. you still got any idea why it would be saying that?
- ohsix: i could imagine so. i'll try rebooting. thanks for your replies.
- ohsix: do you know if it's possible to upgrade via terminal?
- I've got a problem. When i click the upgrade button it tells me I don't have an active internet connection.. but, obviously, i do.
- ohsix: there's nothing in this directory.

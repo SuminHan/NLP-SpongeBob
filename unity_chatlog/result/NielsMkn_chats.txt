@@ -1,3 +1,0 @@
- hey guys
- I'm installing ubuntu via wubi but its taking a long time at 'creating virtual disk' step
- any idea whats wrong?

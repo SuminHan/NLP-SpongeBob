@@ -1,2 +1,0 @@
- Guys, would unity perform well on old pc (pentium 3, 512mb)?
- Any idea how to install unity on archlinux? Their package at AUR is outdated.

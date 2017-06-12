@@ -1,4 +1,0 @@
- how can I add a custom launcher in Unity (11.04(
- on 11.04 with unity sometimes I loose my window titles - any quick fix to get them back?
- Dr_Willis: thanks - I noticed unity-window-decorator segfaults - restarting it solves
- Dr_Willis: Indeed it is - and compiz --replace works too ..

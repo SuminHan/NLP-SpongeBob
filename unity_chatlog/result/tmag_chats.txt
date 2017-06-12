@@ -1,2 +1,0 @@
- Hi, I'm trying to resize a raid1 partition with mdadm (I am using a live cd for this), but when I do "mdadm -- grow /dev/md0 --size=max", the size is set to 500G, but both disks have a capacity of 1000G. Am I forgetting something here?
- Hi, I'm trying to resize a raid1 partition with mdadm (I am using a live cd for this), but when I do "mdadm -- grow /dev/md0 --size=max", the size is set to 500G, but both disks have a capacity of 1000G. Did I forget something?

@@ -1,6 +1,0 @@
- i have a computer running ubuntu 10.10 on it and it was working fine up until a few days ago when the USB keyboard stopped working however it does work in the BIOS. How can I troubleshoot this?
- dtulchin, desktop
- dtulchin, nothing for months
- dtulchin, yes
- dtulchin, i just switched to tty1 and I see that error messages about USB are being spit out every 10 seconds or so
- dtulchin, looks like it's probably a hardware problem, unfortunately

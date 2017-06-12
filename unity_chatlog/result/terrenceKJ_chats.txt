@@ -1,6 +1,0 @@
- Hi all - Upgraded to Ubuntu 11.04, and banshee doesn play my media files
- Anyway to solve the banshee issue on 11.04
- Banshee - palyer help needed
- Not playing anything on 11.04
- Thanks Cos
- Going to do a fresh Banshee install

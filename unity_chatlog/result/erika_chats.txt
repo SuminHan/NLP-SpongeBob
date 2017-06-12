@@ -1,3 +1,0 @@
- how can I get a list of all packages that I have installed?
- not those that were part of the standard system. is this possible?
- I am using xubuntu. When I log out the login screen says that I am currently logged in, why?

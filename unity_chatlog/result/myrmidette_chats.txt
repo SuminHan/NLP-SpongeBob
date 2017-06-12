@@ -1,7 +1,0 @@
- hello, I'm having trouble burning the 11.04 iso to a usb stick
- Halzen, ubuntu 10.04
- it only gets to the bootloader (syslinux) and then freezes
- Halzen, how do I format?
- Halzen, will rm -rf /media/D286-1AD2/* work too?
- kk
- Halzen, how do I delete all the hidden files?

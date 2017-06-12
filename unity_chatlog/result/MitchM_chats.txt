@@ -1,9 +1,0 @@
- I'm looking to get the latest PHP version of software (including mod_php) for Ubtunu 8.04LTS, can someone recommend a path/action I need to take to do this?
- odinsbane, is that recommended?
- odinsbane, 8.04 is LTS, is it no longer supported?
- odinsbane, 5.3
- What is the "codename" of 8.04LTS ?
- thanks :)
- odinsbane, i'll give it a try thanks
- :)
- odinsbane, yeah - failed, lots of lib* dependecies

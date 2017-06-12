@@ -1,2 +1,0 @@
- hello. Does anyone has a idea why I can't modify files mounted via sshfs since I upgraded to ubuntu 11.04? The filesystems are mounted, I can browse them, open, delete, write files but I can't modify existing files
- Hello, who could help me with my sshfs issues?

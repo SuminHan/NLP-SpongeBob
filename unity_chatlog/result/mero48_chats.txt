@@ -1,1 +1,0 @@
- Hello, I've got message when starting grub: No video mode selected. how can i hide this message ?

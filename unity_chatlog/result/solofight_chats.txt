@@ -1,5 +1,0 @@
- people i wanted a ftp server so installed ftpd using apt-get, now how do i check whether its running or not ?
- /etc/init.d/ does not contain an entry for ftp
- people i wanted a ftp server so installed ftpd using apt-get, now how do i check whether its running or not ?
- help please
- Phil_Shapiro, using samba ?

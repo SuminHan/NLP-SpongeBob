@@ -1,6 +1,0 @@
- hello world
- hello world
- stefg: core dump
- binox: vlc has its own decoders for video/audio, totem needs gstreamer codecs added.
- binox: look for totem and gstreamer in ubuntu software center.  i think there is a connection.
- binox: or you could just install mplayer which handles video nicely.

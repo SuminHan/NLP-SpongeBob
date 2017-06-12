@@ -1,1 +1,0 @@
- hello, anyone has problems with ufw - multicast dropping - after upgrade to natty?

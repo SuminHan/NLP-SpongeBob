@@ -1,3 +1,0 @@
- Hello
- My Apollo printer is not being recognized on the 11.04 version
- My Apollo printer is not being recognized by the cups. 10.10 version is working ok.

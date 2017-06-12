@@ -1,1 +1,0 @@
- Hey guys - 11.04 in nautilus browsing to windows file share I get speeds of 25 megs a sec.  When I mount that same share with cifs or smbfs I only get 4 megs a sec.  Any ideas why nautilus is much faster (fuse ?) that my mount?

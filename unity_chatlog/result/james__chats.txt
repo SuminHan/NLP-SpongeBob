@@ -1,2 +1,0 @@
- hi all
- my touchpad vertical scroll isn't working

@@ -1,6 +1,0 @@
- What does 11.04 use? Gnome 3 or Unity, or is that the same thing?
- hrm
- Im really regretting upgrading to Natty :\. I just cant seem to get anything working right now.
- I use Kubuntu, but I can determine if its KDE or Ubuntu that is causing problems. Im having kernel panics, settings dont work, sketchy networking functions.
- How can I downgrade kernels, the package isnt available in natty.
- happolati, is this on a notebook?

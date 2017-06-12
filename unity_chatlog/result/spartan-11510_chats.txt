@@ -1,6 +1,0 @@
- Hi! I'm sorry for my english but i'm french. I search how to work on Ubuntu source code. I've already searched but i don't found it
- Can you help me please
- Pici, yes but i don't know where i can begin...
- What package?
- Yes
- Thx

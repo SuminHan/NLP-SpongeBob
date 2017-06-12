@@ -1,7 +1,0 @@
- list
- there a CD iso
- about 650 Mo
- Hamza, what machine you are using ?
- Hi, what does chroot do??
- example plz
- ok thank you

@@ -1,4 +1,0 @@
- in unity, how can I turn off the super+<number> shortcuts for starting applications from the side panel?
- escott: it's not in the "keyboard shortcuts" settings.
- is there any video editor that works reliably?
- avidemux produces stuttering sound here when using the resize filter

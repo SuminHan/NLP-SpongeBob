@@ -1,1 +1,0 @@
- 11.04 doesn't see eth0 anymore, anyone have this?

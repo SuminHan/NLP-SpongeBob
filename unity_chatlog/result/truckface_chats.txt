@@ -1,2 +1,0 @@
- i am on ubuntu 10.10 and would now like to run the upgrade to 11.04... i have a hp g62 with ATI gfx-card... are there any reported error which makes an upgrade troublesome to do ?
- i am on ubuntu 10.10 and would now like to run the upgrade to 11.04... i have a hp g62 with ATI gfx-card... are there any reported error which makes an upgrade troublesome to do ?

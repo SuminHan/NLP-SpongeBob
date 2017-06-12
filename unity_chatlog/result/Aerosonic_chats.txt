@@ -1,4 +1,0 @@
- Guys? I know you're not the devs of Ubuntu 11.04, but if you know the devs, tell them to 'not fix what ain't broke' I am getting errors from everywhere
- I get this: *ERROR* atombios stuck on loop for more than 5 seconds. aborting
- Unable to andle kernel NULL pointer dereference
- Unexpected exit with status 0x0009

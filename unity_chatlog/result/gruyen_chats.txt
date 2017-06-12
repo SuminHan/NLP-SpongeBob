@@ -1,2 +1,0 @@
- what is the package name of the installer (for reporting bugs w/ ubuntu-bug)?
- i am getting an error mounting one of my drives - "one or more block devices is holding /dev/sdc1" ...ideas?

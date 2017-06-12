@@ -1,4 +1,0 @@
- Hello, people. I'm really sorry for just barging in here and writing like this. I'm kinda short with time and need a little help. Is there anyone available? Again, sorry for no introduction or anything. Oh, and if I have broken any rule by writing like this, sorry about that, too.
- Well, my dad started updating his Ubuntu 8.10, and he interrupted the update while it was upgrading components, I think. I'm not sure. Now he can't boot up. It just stops at the Ubuntu flash screen with four orange dots underneath it.
- I'm sorry, can you just explain what root recovery is? Do I choose that from that list that appears every time I start up my computer?
- Ok, thanks a lot people! I'll try! :)

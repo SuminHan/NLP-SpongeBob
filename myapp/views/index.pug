@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h2 #{typed}
+  h1 >>> #{result}
+  img(src="images/akinator.png")
+  h2 #{data}
+  form(action="/" method="post")
+    h2 Type Text: 
+      input(type="text" id="myAnchor" name="mytext" style="font-size:25px" size="50")
+      input(type="submit" style="font-size:25px" value="Submit")
+  script.
+    document.getElementById("myAnchor").focus();

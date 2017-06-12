@@ -1,5 +1,0 @@
- Does anyone know if changes were made to the 11.4 release just before the announcement?  I have a pre-release version that has problems with intel video.
- The screen is so broken that I can't get to a terminal.
- BTW, have been running SuSE 11.4 and there are boot problems and video problems with that release that have not been evident with previous versions.
- I'll try that again, but recall the previous attempt failed.  Don't recall what happened, so as mentioned, will retest.
- Am just curious if the same problems with SuSE are evident in Ubuntu.  From the comments scolling by, it may have to do with changes in the kernel.

@@ -1,5 +1,0 @@
- Whats the best way to upgrade to the latest version of ubuntu please? I tried but it says cannot get release notes?
- Im trying to download the upgrade and only downloading at like 70kb/s - is that normal?
- Diosjoe, a good so its not my connection playing up then?
- Diosjoe, ahh ok
- phibxr, how would i go about doing that? shall i cancel this upgrade tool thing then?

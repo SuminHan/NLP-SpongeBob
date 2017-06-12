@@ -1,2 +1,0 @@
- if i had a huge csv file is there a way to split it up into sections?
- thanks taglass !

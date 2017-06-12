@@ -1,1 +1,0 @@
- is there something I can pass at install or to grub that would keep the system from trying to mount my disks when I begin an install?

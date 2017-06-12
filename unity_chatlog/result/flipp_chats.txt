@@ -1,5 +1,0 @@
- Fopp maybe the ubuntu servers are overloaded or you could just check your internet connecntion
- has anybody seen my usb key? hmpf i think i lost it ... hmm i wanted to install ubuntu via usb but i cant find my usb key .... -.-
- mikebot it creates a image file on your btfs partition in windows. then you reboot and can boot ubuntu but all changes you make are stored in this .disk file. if you dont like ubuntu anymore you can just uninstall like a programm
- 64 bit mirror -> http://hoellenecke.de/flipp/tmp/ubuntu-11.04-desktop-amd64.iso
- skabja if you search 64 bit heres a mirror http://hoellenecke.de/flipp/tmp/ubuntu-11.04-desktop-amd64.iso

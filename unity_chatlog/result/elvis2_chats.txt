@@ -1,2 +1,0 @@
- hi all, i just updated to 11.04, how do i change the taskbar in the left, to be on the bottom?
- how do i move my launcher in 11.04?

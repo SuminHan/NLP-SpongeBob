@@ -1,1 +1,0 @@
- i just tried both dvd and cd for kubuntu and they both give a wall of text while booting from the usb stick (after I select start kubuntu). really a wall of text, whitout even new lines between errors. any ideas why?

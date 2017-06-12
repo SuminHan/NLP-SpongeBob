@@ -1,4 +1,0 @@
- is there a way to get proprietary drivers on my toshiba on board graphics to get graphics working all cool liuke
- are there proprietary drivers for on board for my toshiba laptop on my ubuntu 10.10
- umm on board video
-  are there proprietary drivers for on board video for my toshiba laptop on my ubuntu 10.10

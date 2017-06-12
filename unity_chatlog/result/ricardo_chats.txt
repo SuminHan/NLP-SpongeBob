@@ -1,5 +1,0 @@
- hello ubuntuS
- hello, anyone can help-me
- baterry estimation on ubuntu
- This is a bug, right?  The status of the battery is ever:  estimation...
- ikonia: Is possible fix this bug?

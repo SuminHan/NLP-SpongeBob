@@ -1,2 +1,0 @@
- how can i register my icon for use with my application into the system?
- is there a way to save unity session?

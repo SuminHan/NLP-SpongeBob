@@ -1,3 +1,0 @@
- how can i get rid of the new scrollbars on 11.4
- is there a way to disable the fancy new scrollbars in ubuntu 11.4 natty unity UI?  they don't seem2work in eclipse
- trism: thanks, will try that

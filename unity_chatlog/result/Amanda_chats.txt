@@ -1,6 +1,0 @@
- Hello. I'm writing an upgrade guide and do-release-upgrade failed with some errors/asked me to report it as a bug. I can do that, but I was wondering if there are any compelling reasons not to have people mangle sources.list manually and do it the old fashioned way to get around this
- invinciblemutant: Did you have the same problem? :S
- invinciblemutant: See what I said above haha
- invinciblemutant: Nope :(
- arand: Okay so doing it that way isn't going to break 349805 things or anything unless of course someone messes it up? :P
- arand: Awesome, thanks!

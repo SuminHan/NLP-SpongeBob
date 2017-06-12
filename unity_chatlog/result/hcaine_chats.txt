@@ -1,1 +1,0 @@
- Hello. I want to install a global spell checking with 11.04

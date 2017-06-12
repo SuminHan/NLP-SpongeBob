@@ -1,4 +1,0 @@
- can someone help me getting my nVidia 9500 GT card working? I am in 11.04,  the current drivers are loaded but are not being used. Log error is "Failed to initialize the NVIDIA GPU at PCI:1:0:0". In lshw it lists the PCI as "Bus Info: pci@0000:01:00.0"
- dunno if that might be it on the pci addy... if 0000:01:0.0 is pci 0:1:0 or what... any ideas?
- the only way I can get ubuntu 11.04 to boot is into recovery low graphics mode... at least 10.04 would boot.. I am about to give up again...
- if I choose the standard kernel it locks up at the splash screen. Never get to the login screen.

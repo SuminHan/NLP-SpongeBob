@@ -1,2 +1,0 @@
- guys how can i add applications to start up at every boot in gnome 3
- guys how can i add applications to start up at every boot in gnome 3 there doesn't seem to be an option in system setting, is there a  command i can use

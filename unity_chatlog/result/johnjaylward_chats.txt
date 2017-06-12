@@ -1,5 +1,0 @@
- Hi, in Natty is there a way to disable the auto-maximize of the browser upon open when in Unity?
- does anyone know how to add a new widget to the unity top toolbar?
- in 10.10 I used to have a performance monitor widget in the top panel that showed memory/cpu usage as well as temperatures
- it disapeared on upgrade to natty with unity
- thanks McShane , I found that just now

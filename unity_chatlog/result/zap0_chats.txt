@@ -1,8 +1,0 @@
- how do you make it use a different mirror?    im trying to upgrade and it gets 404 on 4 packages
- usr13, ok, found it,  where can i get some alternative mirror addresses?
- usr13, thank you.
- can i get some help upgrading?
- Incarus6, the local mirror has 4 packages missing (404).  how do i make this upgrade/update manager use a different mirror?
- knick, where do i get a list of alternate mirrors?
- is there a UI way to change the data in  /etc/apt/source.list
- Incarus6, i didn't mean a text editor.

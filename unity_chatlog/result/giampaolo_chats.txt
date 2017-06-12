@@ -1,3 +1,0 @@
- after installing 11.04 google-chrome no longer restore last closed session. Any idea?
- am I the only one who just HATES the new gui and switched back to classical them after a couple of hours?
- is there someone who appreciates the new UI?

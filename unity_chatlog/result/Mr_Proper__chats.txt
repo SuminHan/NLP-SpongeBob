@@ -1,3 +1,0 @@
- Is it just me, are all the repository servers struggling since natty came out?
- Lots of timeouts
- velcroshooz: Figured :) Tried a few, found one that seems more reliable, though slower, so I'll try that for a while

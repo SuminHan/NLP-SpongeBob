@@ -1,2 +1,0 @@
- Anybody have any success customizing unity in 11.04? I would like  to move task bar to bottom. Ideas? Help please.
- ccsm. Thank you.

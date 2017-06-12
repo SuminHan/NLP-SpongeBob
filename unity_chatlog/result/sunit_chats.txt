@@ -1,2 +1,0 @@
- I am trying to run the  cron job */10 *  *   *   *   ${installdir}/MagentoCreate/magentocreate.sh > /tmp/magentocreate.log 2>&1
- but I am getting error in log file as opt/backup/execute/02056/MagentoCreate/schedule.sh: 1: */10: not found

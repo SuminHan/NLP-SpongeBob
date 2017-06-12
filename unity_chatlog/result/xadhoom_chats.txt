@@ -1,4 +1,0 @@
- why can the ubuntu installer only use predefined mountpoints?
- BinaryMan, i can not type in text
- BinaryMan, yes but i can only select from a dropbox
- BinaryMan, i can not type /blahblah into it

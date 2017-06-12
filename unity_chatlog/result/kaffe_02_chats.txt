@@ -1,6 +1,0 @@
- Is there a way to chose which desktop the unity launcher appears on?
- is there a way to move the unity launcher from one monitor to another?
- lcb: thanks, one is my laptop the other is a separate monitor and I want it on the monitor not my laptop
- lcb: unity
- lcb: yeah no problem just super+a find monitors and then it was able to detect the displays with out any problems
- lcb: I dont think so, how can I check that?

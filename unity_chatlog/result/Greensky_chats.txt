@@ -1,4 +1,0 @@
- is there a way to dist upgrade and tell it to use packages off the cd you already dowloaded instead of re-downloading them?
- david88732, I was hoping to not actually have to burn the cd, just mount it
- sorry for not clarifying that
- hiexpo, why? dist-upgrades have worked well for me for quite a long time, is something different this time?

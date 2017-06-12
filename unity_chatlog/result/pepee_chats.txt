@@ -1,3 +1,0 @@
- hi. so I had this problem: I couldn't open some websites. by changing the MTU, could make it work for some, but others didn't open..
- so I (hope) think finally I've found the solution: http://serverfault.com/questions/235965/why-would-a-server-not-send-a-syn-ack-packet-in-response-to-a-syn-packet
- there are very strange problems in linux, and one has to guess how to fix them

@@ -1,6 +1,0 @@
- oh man
- that upgrade gimped me bad
- I went from 10.10 with an upgrade -d
- soon as the install finished, all my menu's and bars went away...
- then rebooted
- now I can't even get past grub2

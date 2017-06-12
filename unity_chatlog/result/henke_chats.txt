@@ -1,1 +1,0 @@
- how do I configure (add/remove) indicators in unity? I installed the weather indicator but can't find where to activate it.

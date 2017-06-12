@@ -1,2 +1,0 @@
- damiano__: it's a script, look at it and see what it's doing
- damiano__: also check if something is written to the logs

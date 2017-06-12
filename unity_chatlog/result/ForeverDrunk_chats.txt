@@ -1,2 +1,0 @@
- How come there is no curl php5 package?
- What repo is php5-curl in?

@@ -1,7 +1,0 @@
- Hello guys,
- Guys, i get last Ubuntu (Natty amd64), and i want to install some indicator-applets (like cpufreq) on Unity,
- i found it's possible ((http://www.omgubuntu.co.uk/2011/01/the-omg-guide-to-must-have-indicator-applets/), but just installing don  make them appear  near the clock
- Can anyone help me with indicator-applets?
- bullgard4 i have already asked the question
- bullgard4, i get last Ubuntu (Natty amd64), and i want to install some indicator-applets (like cpufreq) on Unity,
- i needs help with unity on Natty, can anyone help?

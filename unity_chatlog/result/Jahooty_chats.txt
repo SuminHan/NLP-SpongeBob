@@ -1,4 +1,0 @@
- i just upgraded to the latest version of ubuntu.  something or other elephant.  How do i prevent the 'taskbar' from autohiding and can i put it on the bottom of the screen?
- moving a panel/taskbar is now in compiz?
- seems like needless complication
- thanks

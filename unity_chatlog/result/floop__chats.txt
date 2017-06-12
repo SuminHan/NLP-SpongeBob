@@ -1,2 +1,0 @@
- hi all
- nvidia drivers on ion2 not working :( Asus vx6

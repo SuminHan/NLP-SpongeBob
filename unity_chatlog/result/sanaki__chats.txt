@@ -1,8 +1,0 @@
- hi All :)
- I am trying to configure my reliance net connect on ubuntu 10.04 , using wvdial ! I did dmesg but unable to found my usbmodem in the list , please help .
- Stameni: Google it .
- lol :D
- Stameni: You can easily find it there with step by step instructions so !!!!!!!!!!!!!!!!!
- Stameni: ya it saves your mail if you want to .
- I am trying to configure my reliance net connect on ubuntu 10.04 , using wvdial , i configured it using gnome-ppp did dmesg but unable to found my usbmodem in the list , please help . And when i give /dev/ttyUSB0 for modem detection its not able to detect too !
- Stameni:Merci.

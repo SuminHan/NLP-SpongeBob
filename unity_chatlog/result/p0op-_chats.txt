@@ -1,2 +1,0 @@
- Playback of movies from my external USB HD seem to pause or crash every 5-15 mins, a check out of the logs found many repeats of the following message -   usb 1-2: reset high speed USB device using ehci_hcd and address 2 anybody know how I can fix?
- atlef: its externally powered

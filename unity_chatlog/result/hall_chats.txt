@@ -1,1 +1,0 @@
- hi all. i've failed in my attempts to google this: is there a "known problems" page somewhere for unity? it does not work at all on my setup (thinkpad/external monitor)

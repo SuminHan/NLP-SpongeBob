@@ -1,3 +1,0 @@
- stuck in initramfs
- my drive was not unmounted properly
- what should i do tu repair  ubuntu?

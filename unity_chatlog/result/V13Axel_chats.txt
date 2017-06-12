@@ -1,3 +1,0 @@
- I have an odd question. Is there a way to hook onto an already-running program and view it's command-line output?
- Jordan_U: Will that let me view the output of already-running programs on a command-line?
- KNUBBIG: I mean if I start a program using an icon, or let's say I use the & flag after it to drop command-line access, can I regain access to that program's command-line?

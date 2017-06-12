@@ -1,4 +1,0 @@
- i read somewhere that "You can now upgrade to Ubuntu 11.04 using the Live CD" -- can someone tell me how this works?
- botcity: well, i am in interested in the technical side of how a livecd upgrade was implemented.
- botcity: i'm trying to find but i can't :)
- botcity: ty :)

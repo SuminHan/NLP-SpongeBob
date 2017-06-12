@@ -1,2 +1,0 @@
- is there a way to enable desktop effects in Natty when your graphics card isn't supported by Unity. I'm currently using Unity 2D and I really miss my wobbly windows
- mikinanuq: yes

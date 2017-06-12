@@ -1,2 +1,0 @@
- i am getting the idea that unity cannot be customized at all. I really need my 8 virtual windows..not 4...can i change it back to 8 ?
- 15 icons on the right menu bar is nowhere near enough functionality for linux power users. I need more virtual windows, or customize Unity, or Ubuntu 11.04 will be reformatted off my system.

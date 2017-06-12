@@ -1,3 +1,0 @@
- any folks know if there is any software to download that email every time you have an ip change? so in case my laptop ever gets stolen.  or is writing a script the only option?
- DJones, will do. thank you
- DJones, looks good and that will be sufficient. thank you :D

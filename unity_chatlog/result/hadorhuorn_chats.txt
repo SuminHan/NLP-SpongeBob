@@ -1,3 +1,0 @@
- Hi, Since I have two monitors and since I upgraded to natty all my notifications appears on the one on the right so I miis them all. any way to make them appear on both monitor or to follow focus ? thank you.
- Halzen : yeah, I've googling for this problem for an hour or so, and I'm afraid there's nothing I can do :(
- Halzen : Yeah, It works perfectly when launching in classic mode (and always have). Anyway thanks for the advice ;)

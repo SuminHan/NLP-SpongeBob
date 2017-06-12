@@ -1,1 +1,0 @@
- I've got a XenServer 5.5 and have used the 64bit server ISO for ubuntu 10.04 when creating a new VM; however, I find that the server ISO for 11.04 can't be used to boot a new VM on my XenServer

@@ -1,6 +1,0 @@
- is there a way to tell apt, when I'm doing 'apt-get --reinstall install <package>' to reinstall all Deps as well?
- LjL: ok. thanks
- dpkg is complaining that gconf2 could not be configured because a subprocess post-installation script returned exit status 127. how can I find out what script failed?
- is there a way to see *when* a package was installed?
- is there a walkthrough on being able to sync music/videos/photos/etc to your iphone from natty?
- botcity: sadly, the ipod I have doesn't work with rockbox yet, and everything in the iPhone page (from a cursory glance) is based around the suggestion that you're jailbroken

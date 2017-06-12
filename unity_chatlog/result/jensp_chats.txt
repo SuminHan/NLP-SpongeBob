@@ -1,6 +1,0 @@
- hey there, I'm having some trouble with sharing a printer with samba. The printer doesn't turn up in my samba shares, but the other shares do. When I restart samba the printer is there. There seems to be some kind of race condition where samba gets started before cups and doesn'T find the printers
- can I make samba depend on cupsd or something like that?
- oh yeah I'm running 10.10
- maco: thanks, just noted this has already been reported as #494141
- habriel: the redirection ">" happens with your normal right, not with "sudo" priviledges
- habriel: sudo -i and run the command again

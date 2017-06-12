@@ -1,9 +1,0 @@
- bloopletech, maybe ill just wait for 11.04, might be worth it
- hi i have installed ubuntu from a cd that my friend gave me, and am having trouble getting my graphics to look right. I have got pretty much everything the way i want it but the video is messed up looking. here is a list of some commands. http://pastebin.com/EupuENiB
- bloopletech, yes, thats what it is.
- bloopletech, I tried that, but it seems i dont have any driver installed maybe? would there be a program by nvidia if i did?
- bloopletech, yes
- bloopletech, Im sure i have nvidia, but i dont know exactly what i have in this laptop, if that makes any sense lol
- bloopletech, the cd that he gave me was blank, but i think its 9.04. I thought if i installed all the updates it might fix it, but it didnt
- bloopletech, ok. guess it was worth the try cause i learned a few thing but ill just have to do a fresh install of a later distro. thanks for the help though :)
- bloopletech, maybe ill just wait for 11.04, might be worth it

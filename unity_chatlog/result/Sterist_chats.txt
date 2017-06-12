@@ -1,9 +1,0 @@
- anyone have contact with www.psubuntu.com 's moderators?
- has anyone heard if any development on ubuntu for playstation 3 has resumed?
- this is a very low-profile release on the ubuntu website.... you cannot find anything saying 11.04 Released
- is there a command to empty the swap contents back into physical ram?
- quick question, how do you pause Qemu?
- quick question, what's the BEST front-end to Qemu?
- quick question, what's the BEST front-end to Qemu?
- anyone know if there's plans for ubuntu on android phones?
- !hi

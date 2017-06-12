@@ -1,2 +1,0 @@
- why is 32 bit recommended over 64 bit?
- ok thanks

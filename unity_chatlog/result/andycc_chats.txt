@@ -1,2 +1,0 @@
- Soothsayer, I did run it for a while, but reverted to Unity.
- Ultimate_Chaos, I use xchat-gnome and it works pretty well.

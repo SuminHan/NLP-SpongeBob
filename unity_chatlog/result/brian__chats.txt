@@ -1,9 +1,0 @@
- pfifo: wicd worked. Thanks.
- Terry: Wicd worked, thanks
- pfifo: I'm glad you pointed his advice out. I cannot keep up with the traffic here. :)
- ubottu: me too! It saves me from reinstalling and having to figure out the whole rpm thing. :D
- Hey
- Anyone know how to switch from the GRUB bootloader back to the Windows bootloader?
- Well
- I have it installed via wubi
- escott: I want the mbr, not the grub.  I have 2 Ubuntu partitions(I know, I had some issues)  One partition is from the wubi one is from a CD.  I want to get rid of one of them.

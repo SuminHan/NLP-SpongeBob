@@ -1,3 +1,0 @@
- n/m I found it
- I seem to remember a website with deb packages for ubuntu. I tried installing ettercap-ng with the repos, but it errors out every time. I need that deb package or to install from source. Anyone know the name of the site?
- n/m I found it

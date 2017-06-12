@@ -1,6 +1,0 @@
- Anyone know where you can get the netboot media for 11.04 server?
- Good thing I didn't say netbook
- I said netboot
- perfect, thank you
- spungo: there is no "server specific" media right?
- There doesn't appear to be a separate server netboot image?

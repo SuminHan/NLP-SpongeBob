@@ -1,2 +1,0 @@
- Okay for some reason ubuntu won't recognize a certain bootable usb device.  It will mount/unmount others but not this one.  And I can still boot from it so I know the usb hasn't gone bad.  How do I mount it or reformat it?
- test

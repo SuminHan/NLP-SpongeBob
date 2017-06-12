@@ -1,3 +1,0 @@
- 6.04 server
- is python 2.6
- brb

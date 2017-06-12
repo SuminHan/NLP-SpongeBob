@@ -1,2 +1,0 @@
- hi, anyone can tell me how to download lib64qt3 for Ubuntu 10.04?
- hi all, a query: I am following a tutorial to compile a kernel, and tells me I have a requirement lib64qt3-devel, but can not find in ubuntu. Does anyone know which repositories should I aim for to download? or what would the equivalent file gnome desktop?

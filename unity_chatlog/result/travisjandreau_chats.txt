@@ -1,1 +1,0 @@
- How come if I run a graphical application that uses sound, it works, but as soon as i run a console application in the terminal or in the console, there is no sound, I checked alsamixer and the volume is raised so no problem there.

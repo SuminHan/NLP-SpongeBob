@@ -1,4 +1,0 @@
- MSI ATI 5770 HAWK, Core i5 750, 4GB DDR3,Intel DP55WB -- any potential driver issues with Ubuntu?
- rach0: thanks, I had heard there are some issues with ATI cards, thats why I was worried
- rach0: Do I have to do anything special during installation to not install them?
- rach0: Ok.. So I dont need them for games I hope

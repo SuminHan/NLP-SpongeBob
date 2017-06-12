@@ -1,5 +1,0 @@
- so im installing ubuntu, what kind of partitions does it need, a swap (=size of my ram), a root / and anything else?
- if i dont specify a home partition during install it will put it in "/"?
- omg what partition should i select for the bootloader
- Jordan_U, where is the mbr, is it "/dev/sda1 Windows 7 (loader) ?
- ok

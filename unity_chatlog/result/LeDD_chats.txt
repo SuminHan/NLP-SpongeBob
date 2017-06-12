@@ -1,3 +1,0 @@
- hi, im trying to use ndiswrapper to get a PCI wireless card installed on ubuntu. this is the error i get when i try to make install it: http://paste.ubuntu.com/602055/
- Hello, im getting the following errors while trying to install ndiswrapper. I dont not have an internet connection so i had to download ndiswrapper and then bring it over by a usb stick. http://paste.ubuntu.com/602055/
- if the ndiswrapper im using insnt installing when i bring it over to linux by usb is there any other options? i dont have internet working on ubuntu

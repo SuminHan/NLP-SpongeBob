@@ -1,8 +1,0 @@
- I have just upgraded my 10.10 server box to 11.04, but I guess grub installed incorrectly and now i am not getting past the "bash-line editing" cmd grub. I am in a live cd now. help?
- I have just upgraded my 10.10 server box to 11.04, but I guess grub installed incorrectly and now i am not getting past the "bash-line editing" cmd grub. I am in a live cd now. help?
- i hope i am not missing anyone replying to me
- I have just upgraded my 10.10 server box to 11.04, but I guess grub installed incorrectly and now i am not getting past the "bash-line editing" cmd grub. I am in a live cd now, and confused
- Hello. I just did an upgrad from 10.10 server to 11.04, but i screwed up grub/booting in the process. i have LVM on the system. can i get help restoring the boot? i have a live cd on hand.
- anyone?
- coz_, I just did an upgrad from 10.10 server to 11.04, but i screwed up grub/booting in the process. i have LVM on the system. can i get help restoring the boot? i have a live cd on hand.
- coz_: holding on

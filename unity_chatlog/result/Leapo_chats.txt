@@ -1,7 +1,0 @@
- Am I going nuts, or did Ubuntu 11.04 seriously zap my laptop's battery?
- I can't get more than 45 minutes out of 11.04 no matter what I try. 10.x had no trouble getting over 2 hours out of the same battery, and Windows easily goes over 3 hours :-/
- Incarus6: Ah...so it's time to format.
- No sense using the new version if it's going to drain my battery that fast
- Inarus6: Yes, first thing I did was ditch Unity, it's terrible
- Only other time I've seen the battery drain this quickly was when Fedora had some horrible glitch that loaded the video card fully non-stop
- lol

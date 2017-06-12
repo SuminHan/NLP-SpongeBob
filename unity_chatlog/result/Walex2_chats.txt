@@ -1,3 +1,0 @@
- On ULTS10 every time I attach a storage device it gets "captured" by DM/LVM2 following a 'udev' driven event into 'upstart'. This seems to be FAQ, but I could not find clear advice on how to disable this. Please suggest what I can do.
- On ULTS10 every time I attach a storage device it gets "captured" by DM/LVM2 following a 'udev' driven event into 'upstart'. This seems to be FAQ, but I could not find clear advice on how to disable this. Please suggest what I can do.
- escott: thanks, I tried having a look there and it did not seem to help, but I'll try again. I suspect it is something instead to do with the DM kernel module, perhaps.

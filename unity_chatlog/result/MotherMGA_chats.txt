@@ -1,2 +1,0 @@
- So I just upgraded to ubuntu 11.04 and it doesn't do 3d accelleration?
- it says I have the ati drivers running, but everything renders slower and jerkier than 10.10.

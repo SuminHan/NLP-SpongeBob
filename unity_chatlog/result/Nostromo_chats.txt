@@ -1,8 +1,0 @@
- Upgraded from 10.10 to natty, backlight on laptop no longer worked (could only read the screen with a flashlight). Wiped and installed fresh, same problem. No backlight. Anyone have any idea how to fix?
- ohsix: yes.
- ohsix: correct
- ohsix: please tell me there is a solution... /praying
- ohsix: fairly new to this, and have to do it by flashlight. Is there an easy command line thingy to type?
- ohsix: you're my hero
- ohsix: I'll cross my fingers. Would have reported bug already but seems the registration server is overloaded
- ohsix: noted

@@ -1,1 +1,0 @@
- How do you run Terminal in English interface while i am using a locale other than English?

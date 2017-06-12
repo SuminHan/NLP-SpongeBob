@@ -1,3 +1,0 @@
- Hello, are there any easy ways to get a touch screen to work on ubuntu?
- ubuntutryout777: usually sudo /etc/init.d/gdm restart does the trick.
- dsathe: Not really a safe solution, but it can do the trick :P

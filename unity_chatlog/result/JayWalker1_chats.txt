@@ -1,2 +1,0 @@
- hey guys, I'm trying to set up triple monitors in 10.04 (with compiz enabled and using all 3 monitors as one X screen). This isn't possible with xinerama/twinview, anyone know a way that works?
- nobody has any info on 3 monitor setups?

@@ -1,1 +1,0 @@
- I am getting the following error trying to install from a ppa in ec2: "Unable to connect to ppa.launchpad.net:http:"

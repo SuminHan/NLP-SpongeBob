@@ -1,4 +1,0 @@
- hi, i am looking if new ubuntu 11.04 has the support for realtek 8192se, I am currently using 10.04 LTS with matt price PPA to get wifi, but considering the switch...
- can't find info anywhere..
- botcity: I have it already working in 10.04, I need to know if 11.04 has the staging build working or some sort of additional package
- botcity: the PPA the provides me with rtl8192se-dmks is not providing builds for anything else than lucid..

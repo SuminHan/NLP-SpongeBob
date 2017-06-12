@@ -1,1 +1,0 @@
- tuxz: try Fedora 15 (live)

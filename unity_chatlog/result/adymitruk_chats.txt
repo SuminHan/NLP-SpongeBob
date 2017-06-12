@@ -1,3 +1,0 @@
- Stuck on sh:grub> after upgrade to 11.4
- Can any one help?
- drAg: what do I do?

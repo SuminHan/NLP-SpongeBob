@@ -1,2 +1,0 @@
- hi all, I've been a linux user for many years and bitter experience early on taught me to only use NVidia graphics cards. I'd like to know, what is the state of support for the Radeon cards these days? is it still miserable or are they on par with NVidia?
- is anyone using radeon graphics card without hassles these days? (I'm an NVIdia user considering buying a new card, thinking AMD) should I stick to NVidia??

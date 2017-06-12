@@ -1,7 +1,0 @@
- is there a way to save my data entered into IRS PDF forms from Document Viewer?
- brous-kee, I did... I tried save as... but it doesn't save any of the entered data... just the blank form.
- brous-kee, sweet.. that at least seems to work... can't further edit fields... but it's better than nothing.. thanks!
- brous-kee, do you think it would be appropriate to file a bug/feature request? Form 1040 is a pretty long, and being able to work on it parts at a time would be greatly beneficial
- brous-kee, okay =) any recommendations on an open-source pdf editor?
- brous-kee, my appologies, aparently Document Viewer does actually save filled out forms... aparently I saved it to another location and diddn't realize it
- brous-kee, thanks for helping me =) sorry for being an idiot

@@ -1,1 +1,0 @@
- Is somebody have a problem with iPhone tethering on Ubuntu 11.04? Look's like problem with DHCP server.

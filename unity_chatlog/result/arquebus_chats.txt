@@ -1,9 +1,0 @@
- ubuntuguy- r-click on the toolbar and click "add to panel"
- ASDF- if you got that far in the install process, the partition has been formatted, there is no previous ubuntu to go back to
- ASDF- did you have your home directory on its own partition on the previous install?
- carandraug: how do you make the terminal show up gedit? Ive never seen that before
- carandraug: ok, thx
- carandraug: thx
- chrome_: fdisk
- coco3431: #bash
- zifty: why dont you go to #postfix?

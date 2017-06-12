@@ -1,5 +1,0 @@
- my nautilus is not generating thumbnails on gnome 3
- my nautilus is not generating thumbnails on gnome 3
- please help
- try sudo mkdir ~/.local/share/gedit/plugins/
- my nautilus is not generating thumbnails on gnome 3....can someone please help??

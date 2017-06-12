@@ -1,1 +1,0 @@
- Dear All, good Day. Did anyone experienced, that after upgrade to 11.02 the system not halting down? Freezes with dark monitor? but sys.block remains working.\

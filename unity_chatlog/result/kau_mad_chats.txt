@@ -1,3 +1,0 @@
- Hi, does anybody know how to turn on a NVidia optimus GPU?
- I installed NVidia drivers and xserver crashed, had to replace xorg.conf
- Has anyone successfully installed drivers  for an NVidia optimus vga?

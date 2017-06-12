@@ -1,2 +1,0 @@
- hi, I just upgraded from ubuntu 10.10 to 11.04
- having an issue getting unity to start

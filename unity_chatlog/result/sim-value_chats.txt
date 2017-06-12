@@ -1,3 +1,0 @@
- Does unity work w/o 3D accell ?
- bazhang, so a standard install of natty will suceed and not give errors
- bazhang thanks!

@@ -1,1 +1,0 @@
- hi folks... I've just set up 10.04 server and noticed it didn't come with sendmail (php couldn't send mail) so I installed sendmail and set the directive in php.ini to /usr/sbin/sendmail.    mail() returns true but no mail is sent and I can't find any errors... can anyone help?

@@ -1,8 +1,0 @@
- My friend tried to uninstall the binary nvidia driver using hardware drivers, but now he is unable to log in due to blank screen... I have ssh access to his box but am not able to restore to binary nvidia drivers.. have installed the nvidia-current package and runned : " sudo dpkg-reconfigure -phigh xserver-xorg " but still no luck
- xorg.conf shows "nvidia" as the driver enabled... should it be " nv " ?
- coun : he does not have a clue how to do  that :)
- what is the correct driver name in xorg.conf for the binary nvidia driver?  "nvidia" or "nv" ?
- Does anyone have a clue how to restore a box from nouvue-drivers to nvidia-binary  throuh ssh?
- edbian : thanx man, will check it out
- edbian : nvidia-current should be the right driver for me right?
- edbian : I will try and fail until I get it right ;) thx again

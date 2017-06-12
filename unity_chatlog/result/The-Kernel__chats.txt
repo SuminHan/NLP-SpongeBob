@@ -1,4 +1,0 @@
- I ran out of space in "/" is there a safe way to alocate some space from /home to "/"?
- ruan, that won't destroy my data?
- I don't think I need 22 kernels
- hi, is there a way to get iptables to drop ONLY rtpevents? I googled and didn't find anything.

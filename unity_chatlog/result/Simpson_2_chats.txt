@@ -1,6 +1,0 @@
- will upgrading to 11.04 always replace my gnome2 desktop ?
- is there a way to default it back to gnome2 ?
- my parents around 70 won't survive such a dramatic switch so I would like to have the gnome2 as default for them
- BlouBlou, okay, thats all i need to now
- i do presume the old desktop is preserved ?
- okay thx for the answer guys

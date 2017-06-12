@@ -1,4 +1,0 @@
- I'm trying to install QT4 on ubuntu, is there no package for it?
- LjL: I'm trying to compile a build that requires QT4 as a dependency, i tried "sudo apt-get install qt" , but I get a "E: Unable to locate package qt"
- LjL: it's working, thanks for taking the trouble to help :)
- btw, I must say, Ubuntu 11.04 rocks! I'm impressed by the improvements since 9.04... It detected my 3g usb modem and was easy to connect, it was even easier than in windows   :O

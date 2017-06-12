@@ -1,7 +1,0 @@
- hi all, i've just applyed the new ubuntu 11.04 updates, and lost 2 usb ports on sony vaio f series..anyone had the same problem/
- ?
- the usb3 port works, but 2 usb 2.0 on the other side doesn't anymore
- sorry for posting again... anyone lost usb 2.0 on laptop after newest update?
- unity is very good
- but this was a kernel update
- try logout/login

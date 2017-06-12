@@ -1,4 +1,0 @@
- hey everyone, I am stumped on an issue... google isnt my friend today
- when I log into this ubuntu 10.04.2 lts box it says I have a bunch of updates.... but when I run apt-get update or upgrade, it says zero upgraded...
- anyone have any ideas?
- yea, I am in as root

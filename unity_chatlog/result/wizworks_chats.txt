@@ -1,4 +1,0 @@
- Does anyone know how to stop the annoying screen blanking?  I have tried disabling and even removing gnome-screensaver
- Does anyone know how to stop the annoying screen blanking?  I have tried disabling and even removing gnome-screensaver
- eekTheCat: I have a ubuntu 10.4 box running MythTV...   as long as the box is active the screen stays on.  When it becomes idle after a few minutes, the blanking starts.
- eekTheCat:  I'll check that file and see if I find something...   but I disabled acpi too.

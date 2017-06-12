@@ -1,1 +1,0 @@
- How secure is Ubuntu One?  Can you Encrypt it?  Does storing data in cloud computing violate a non-disclosure agreement?

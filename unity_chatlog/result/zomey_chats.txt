@@ -1,3 +1,0 @@
- does anyone know how to deal with an email error 530 on postfix?
- it says stmp server requires authentication but i never set that up?
- no one is in the #postfix channel

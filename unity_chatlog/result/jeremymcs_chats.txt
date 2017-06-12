@@ -1,9 +1,0 @@
- escott: term is set for xterm-new .. and it gets that error
- 'xterm-new': unknown terminal type.
- anyone getting this on 10.10
- escott: whenever i type something, lol
- escott: nope
- clean install, out of box ive gotten this on 2 machines
- escott: term is set for xterm-new .. and it gets that error
- natty is jank
- ugly

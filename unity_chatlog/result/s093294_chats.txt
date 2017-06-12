@@ -1,8 +1,0 @@
- Hello, anyone able to assist getting hdmi enabled, Thinkbad edge. I have the tv set on the hdmi channel and pluged in the cable but cant select the tv as monitor
- How can i check that my hdmi output is configuret, nothing happens when plugging the tv cable in it.
- I cant change display output to hdmi, it dont show up in the monitors settings. Anyone have any idea ?
- anyone who resolved the issue with i915 not detecting hdmi port ?
- Hello, if im in a folder "Project" , and i want to copy the file test.tex into all subfolders and rename it to the {subfolders name}.tex - what command can achive this
- jrib, mind giving me the full command, cant figure it out
- jrib, find . -type d -exec cp test.tex {}/ \;   i dont know how to rename to the subfolder name
- jrib, the command i ran dindt work. guess i will do it manual then

@@ -1,5 +1,0 @@
- Hello all
- Hey guys, is there a stable version of Gnome3 out for 11.04 yet?
- Really?? :(
- escott: That....really sucks:( Thanks for the info though.
- Yea, I have tried. It works for the most part***  And to go back all you gotta do is a PPA purge. I was just hoping it was 100% good to go

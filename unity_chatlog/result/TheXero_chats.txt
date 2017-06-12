@@ -1,7 +1,0 @@
- Anyone know of a good way to partition ubuntu for a 64GB SSD with a 640GB for storage?
- Yeah that's what I meant escott :)
- Logs etc are in /var/log correct?
- I was going to put /tmp on the hard drive, as I only have 6 GB of ram and I host a few vm's as well
- What other partitions should I look at moving to the hard drive?
- So how is 11.04 support with multi monitor then?
- I'm a little hesitant to upgrade from 10.10

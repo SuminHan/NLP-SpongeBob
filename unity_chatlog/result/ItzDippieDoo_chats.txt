@@ -1,6 +1,0 @@
- Could anyone help me with .tar.gz extentions?
- ActionParsnip : Managed to extract it, now what? :)
- ActionParsnip : .tar.gz
- ActionParsnip : Oh, didnt think that mattered. ' mupen64plus-bundle-bin-32-1.99.1.tar.gz '
- ActionParsnip :  Nevermind, found out there was an executeable in it. Sorry for wasting your time :p
- ActionParsnip : My bad, overlooked it ;)

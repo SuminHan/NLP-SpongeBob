@@ -1,6 +1,0 @@
- In 11.04, where is the panel for tray icon?
- I want to relaunch existing xchat window, but I can't. It is disappeared.
- zenocon: tepster: Yes, I did. Maybe xchat window goes to background after closing. so [Alt][Tab] doesn't work..
- tepster: I think it is different b/t minimized and going to background. In previous ubuntu, xchat window went to tray when I closed window.
- tepster: But I can't find tray bar in 11.04..
- tepster, zenocon: It works! Thanks :)

@@ -1,7 +1,0 @@
- test
- I cannot understand why my net is running so slow....taking ages to download even a 1.5meg file
- like 20 minutes
- well I am merely trying to update the cache via the software centre
- thanks, I may have figured out the issue...I plugged in my laptop power....I think ubuntu may have a harsh power managemtn throttle?
- oh, one more question....when I right click on an app in the launcer, it launches the app..I want to get the menu up to remove the app
- my right click seems to do a left click (left click is left click)

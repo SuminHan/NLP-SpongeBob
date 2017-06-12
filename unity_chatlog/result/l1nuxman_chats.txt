@@ -1,3 +1,0 @@
- /etc/init.d/asterisk-1.8 status won't even return command not found or whatever. Why not?
- I have asterisk-1.8 installed
- why am I getting "apache2: bad user name ${APACHE_RUN_USER}" when I run 'apache2 -S' ??

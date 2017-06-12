@@ -1,2 +1,0 @@
- QUESTION: why does my upgrade manager say "Could not download release notes. Please check your internet connection." and not update, i had it updating earlier but it got halfway through and then stopped?, should i try the terminal? i am connect to the internet though, hmmmm
- @ubottu ok then sure thing, this is good and bad news isnt it, good that ubuntu is popular, and bad that the servers cant cope :)

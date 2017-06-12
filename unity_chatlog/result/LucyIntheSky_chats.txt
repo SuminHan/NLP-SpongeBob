@@ -1,7 +1,0 @@
- just updated to natty and my panels are transparent, panel settings shows nothing about transparency...
- bull9408, I see no experimental category
- bull9408, sorry Guess im on xfce, do you know how I can make it normal again
- bull9408, my panels
- bull9408, no upgraded to natty
- they are both transparent even though I told it not to touch my config
- bull9408, im on xfce not gnome.

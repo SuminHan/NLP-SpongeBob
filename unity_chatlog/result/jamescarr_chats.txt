@@ -1,5 +1,0 @@
- Where would be an appropriate location to create a directory for application data that all users can read and write to?
- Captainkrtek, locally... any user logged into the machine, the application should use that same dir for caching :)
- The way it is is that when a user does something it might download 40MB or so of data to the cache, I'd prefer to share it vs. making each user do that download again
- because the apps default is .appname/cache (which can be configured to elsewhre)
- I'll put it /usr/local/share I guess

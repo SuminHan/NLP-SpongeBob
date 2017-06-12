@@ -1,6 +1,0 @@
- hey, how do i update ubuntu with the wubi installer?
- i've read all that
- the only option i can see atm is uninstalling it and installing it again
- are there no other options?
- i'll give that a try, i just don't wanna break anything lol
- oh rught, thanks

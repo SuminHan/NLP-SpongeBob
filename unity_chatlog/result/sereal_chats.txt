@@ -1,6 +1,0 @@
- When doing do-release-upgrade I'm getting "gpg: Can't check signature: public key not found"
- Xeli: I was able to do install xbmc, you gotta be a bit more specific on what the problems were.
- Xeli: also check #xbmc-linux they might be more specific
- When doing do-release-upgrade I'm getting "gpg: Can't check signature: public key not found"
- how do I use apt to show infomation on a package, like what it is/what it does
- Thanks Pici

@@ -1,5 +1,0 @@
- Hey, can someone help me with a problem with Natty Narwhal?
- Cool! So, I've just upgraded from 10.10 (I guess) to NN. After installing and restarting I can still move the mouse thingy but the rest is frozen.
- Is there anything I can do?
- ojii, I tried your first suggestion and I got the message: unable to open x display
- ojii, okay, thanks for helping, anyway. :)

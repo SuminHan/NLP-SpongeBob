@@ -1,4 +1,0 @@
- Hi Guys - Anyone know the time when 11.04 finalrelease will be available for  download from the website
- thanks Incarus6
- Thanks for the heads' up andeeeuk - I think it's still the beta Incarus6 - won't the final drop the name natty?
- Hi All - I've got a weird thing happening in a fresh install of 11.04 - When I goto "About Me ..." and make changes, they aren't saved (There's no SAVE button, only Cancel?)

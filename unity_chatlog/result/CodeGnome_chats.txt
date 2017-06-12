@@ -1,7 +1,0 @@
- BigMig: You mean your desktop is hosed, or what?
- BigMig: That's kind of vague. Screwed how?
- BigMig: You can try a couple of things. Do a cold boot; Windows can hose firmware. If it's just your graphical desktop that's hosed, you can delete your gnome directories and try with a fresh desktop.
- BigMig: So, GDM doesn't show up at all after booting?
- BigMig: Fine, so you're actually booting and getting a desktop. Try CTRL-ALT-F1 to get a TTY, log in, and remove your desktop folders:
- BigMig: .gnome/          .gnome2/         .gnome2_private/
- BigMig: Hope that helps.

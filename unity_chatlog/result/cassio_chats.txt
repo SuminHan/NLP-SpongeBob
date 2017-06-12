@@ -1,9 +1,0 @@
- hi. how can i change the workspace grid from a 2x2 to the old 1x4 grid?
- escott, i can't seem to find it
- escott, Ive looked in expo and desktop wall
- Samsagax, right click on the switcher doesnt bring up any options in the launcher
- Samsagax, yes, Im using 11.04. there's no way to change the 2x2 grid to a 1x4?
- Samsagax, yup, I know in the old version it worked. strange you can't change it in unity
- Samsagax, I like the screen space gain in unity. but it seems to be a little crippled as of yet
- jibadeeha, thanks. that did the trick
- hi. I'm using 11.04. I installed dropbox and it is working fine, but the tray icon is not showing up. if I do dropbox stop and then start it shows up... any idea how can I get it automatically? althought it doesn't show it is working in the background

@@ -1,5 +1,0 @@
- hi, can anyone point me where to find help adding postgresql support to my LAMP setup?
- cdoktor19, be warned though. i think flash isn't that great with 64 flavor yet
- celthunder, i stand corrected
- tripelb, loved that movie. good thing you saved it
- cdoktor19, that's a bit involved. probably best if you stick with 32 bit first, IMHO.

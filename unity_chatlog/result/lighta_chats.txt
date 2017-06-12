@@ -1,1 +1,0 @@
- hi, how can I disable webcam in empathy ?

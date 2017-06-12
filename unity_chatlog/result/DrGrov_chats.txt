@@ -1,7 +1,0 @@
- Evening
- Can I use Simple Backup on 10.04 in order to get a quick backup of my system before I install 11.04 ?
- Or do I need to back it up some other way when I will upgrade to 11.04 ?
- Evening
- How do I easily backup my 10.04 so I can easily do a direct upgrade to 11.04?
- Rehan: Do explain more throughly
- Rehan: Sure, no hurry. Please take it in a PM. Would be good to save it as well

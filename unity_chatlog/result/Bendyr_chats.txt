@@ -1,2 +1,0 @@
- Hey I just installed ubuntu 11.04 on a dell mini 9, replacing a mac osx installation.  When I try to boot I get "boot0: error", but if I boot through a thumb drive I can get into ubuntu fine.  Is there a way to fix the bootloader without doing a full reinstall?
- Hey I just installed ubuntu 11.04 on a dell mini 9, replacing a mac osx installation.  When I try to boot I get "boot0: error", but if I boot through a thumb drive I can get into ubuntu fine.  Is there a way to fix the bootloader without doing a full reinstall?

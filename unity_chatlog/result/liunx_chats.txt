@@ -1,5 +1,0 @@
- hello,
- how to show the tray on unity?
- i want to use iptux etc, but when i close it, i can not see the tray on the up right frame.
-  hello,
- how can i show the tray in the titile bar when i use iptux etc.?

@@ -1,3 +1,0 @@
- mbrochh, I had to reinstall the 4.0.6 guest additions to get unity to work and enable 3D acceleration in the settings
- mbrochh, no probs - obviously unity doesn't work so well unless you fullscreen it unless you disable the auto-hide
- mbrochh, I had some similar problems I think when switching out of seamless mode, changing to the scale mode a few times seemed to sort it out

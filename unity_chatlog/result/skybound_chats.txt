@@ -1,4 +1,0 @@
- RavenHursT: you can use "shopt -s dotglob"; now globbing with "*' will include hidden files
- consolecowboy: i think you'll get more answers when you try to explain what you are trying to do; i still don't get what you are asking; cursor in any (focused) window?
- consolecowboy: i see; didn't know snippits, that actually worked? i don't know about any such program, sorry
- consolecowboy: yes, sounds like a neat idea (reminds me of the plan9 editor/wm?); if the last-typed-word was already in the xclipboard it would be easy, getting it there seems to be the trick; you might want to try some xlib-programming related chan?

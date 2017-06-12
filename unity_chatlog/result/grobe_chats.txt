@@ -1,5 +1,0 @@
- hi guys , , anyone know how to set IP address in natty ? cause my IP address usually change if I disconnect and connect agaain, any idea ?
- anyone can help me please about my problem?
- mysteriousdarren: yeah, how to set it in my ubuntu natty ?
- LAcan: http://pastebin.com/9hrzxpv8
- unity not supported with my graphic card Nvidia RIVA TNT2, is there hardware error, so I'm using ubuntu classic ><

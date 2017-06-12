@@ -1,2 +1,0 @@
- hi, after installing ubuntu 11.04 in my notebook the wireless stop working
- what can i do?

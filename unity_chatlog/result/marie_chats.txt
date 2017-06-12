@@ -1,3 +1,0 @@
- hi
- how to get  time in hh:mi:ss  for ls -l
- knick:  I am  not aware much updates these days, is ubunt 11.04 desktop version is available ?

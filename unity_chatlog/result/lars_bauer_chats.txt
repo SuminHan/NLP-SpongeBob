@@ -1,2 +1,0 @@
- cant find my camera on asus A3000. its a ali
- /dev/video0 not found

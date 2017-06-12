@@ -1,7 +1,0 @@
- hi - I installed startup-manager with ubuntu software center but it does not show up in the gui and dosen't work from the terminal either? Any tips?
- this startup-manager problem relates to natty
- xangua - somtimes called one - somtimes the other - hang on pse..
- xangua: got it - thanks...
- wtf is this #ubuntu-unregged ?? I am registered.. this "channel" opens just as the identify process is being done..?
- Jordan_U: this was never a problem untill 5 mins ago...?
- Jordan_U: and with konversation how do i do this change?

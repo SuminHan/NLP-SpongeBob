@@ -1,1 +1,0 @@
- is there a command which will tell me active services on host, which is located on a local network

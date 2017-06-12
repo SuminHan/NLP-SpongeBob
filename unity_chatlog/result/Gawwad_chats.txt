@@ -1,7 +1,0 @@
- Hello, I'm on Ubuntu 10.4 and wanting to upgrade to 11.4 as I just read it was released. However, it's not listed in the update manager after refreshing. (I have it set to normal releases) Only 10.10 is shown. Am I missing something?
- Ok, thanks! Was sure you were able to upgrade from long term version to another :)
- Oh, I thought all the x.04's were long term
- Thank you coz_
- So 10.4 is LTS but 11.4 is normal? But upgrading from 8.04 to 10.04 would work then?
- No I prefer the newest :)
- Thank for all the info, Pici, coz_ DJones! Bye

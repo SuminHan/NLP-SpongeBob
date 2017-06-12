@@ -1,4 +1,0 @@
- No mini iso yet for 11.04 but it looks like the rest is there
- !ActionParsnip - that iso is not the current build. I dowloaded it a week ago and its the same one and the datestamp is 21April
- Ha...anything with unity can be quirky :)
- whomie: I am biased, but give wattOS a try...its ubuntu based running LXDE :)

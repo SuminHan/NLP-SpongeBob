@@ -1,3 +1,0 @@
- howdy
- anybody have info  on how to reinstall an older version of firefox (3.6.17)?
- probs running the *.bin file

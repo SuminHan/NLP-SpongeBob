@@ -1,3 +1,0 @@
- resc_user_2649, type that in terminal
- resc_user_2649, "uname -r"
- resc_user_2649, without quotes...

@@ -1,1 +1,0 @@
- guys, tried to update Ubuntu under VirtualBox and now getting error: environment block too small - what does that mean please?

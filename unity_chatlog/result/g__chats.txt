@@ -1,3 +1,0 @@
- uhm, hi (Again!)
- hi, i have a completely broken build system, and can't complile anything, would anyone be able to help me through this? for starters: gcc: error trying to exec 'cc1': execvp: No such file or directory
- ricorx7: that's the only error i get

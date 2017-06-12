@@ -1,6 +1,0 @@
- hello, i try to install natty by usb but i always get an "stdin: error 0" error, md5 hashes matches and i use unetbootin to create the disk
- how can i make a bootable usb the best way ?
- jiltdil: unet bootin makes an stdin: error:0 error kellnola startup disk tool i dont know yet, lets have a look
- kellnola: im on windows
- can i move the dash bar ?
- HELP ubuntu 11.04 is turning my laptop fan into a furnace!

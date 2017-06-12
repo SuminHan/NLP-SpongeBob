@@ -1,7 +1,0 @@
- hello, i use 11.04 desktop and I am trying to export VPN settings. When I am to save the file I get an unknown error. Does anybody know why?
- Anything about VPN export???
- hihihi100, logoff, select ubuntu classic and logon again and you ll be in the old classic thing.
- I did n't like it from the begining so I left it. You have to ask somebody else that had work with it.
- hihihi100. I just upgraded to 11.04 yesterday!
- anybody knows about vpn export unknown error?
- I setup a VPN connection and I want to save settings. There is an export button  in the dialog box. When I press it a dialog box appears to save the file. When I confirm file name I get an unknown error. Anybody help???

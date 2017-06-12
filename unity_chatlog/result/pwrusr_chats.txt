@@ -1,5 +1,0 @@
- Hi i'm running natty with gnome3 and cant seem to find where to set up keyboard shortcuts and help woule be greatly appreciated
- am trying to add keyboard shortcuts (via system-settings ==> keyboard) but the (+ -) buttuns are dimmed any ideas as to how to fix this ... my user account has admin privledges
- btw am running natty + gnome3
- no
- brilldoctor_ no

@@ -1,4 +1,0 @@
- despite setting chrome as my default browser, firefox keeps opening when i click links
- xchat, empathy, basically everything that isn't a browser
- ActionParsnip: well, there's the problem... i guess that setting can't be changed via chrome's options
- ActionParsnip: yeah i just fixed it, thank you

@@ -1,2 +1,0 @@
- hfx, #ubuntu-release-party
- cdoktor19, #ubuntu-release-party

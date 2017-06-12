@@ -1,8 +1,0 @@
- hi. after i log in to my system, i get only the desktop background picture, and i can move the mouse, but the buttons don't do anything
- how to deal with this? it was working fine for quite a while up until now
- sebsebseb: oh, actually, this is with either lucid or maverick
- sebsebseb: anyways, the only way i can get around it is to change the session to "xterm" instead of gnome.
- sebsebseb: clean install -- just a couple of days ago.
- sebsebseb: oh. i've used ubuntu -- installed off of the very same disk -- without problems for about half a year now.
- sebsebseb: i simply tried reinstalling -- worked fine until about the 4-th reboot, and now the "gnome" sessions won't work
- sebsebseb: so, based on this, i'm sure it's a relatively trivial problem, but i'm not sure with what.

@@ -1,3 +1,0 @@
- hi guys, anyone has any idea why my network applet is missing after the update?
- hi guys, anyone has any idea why my network applet is missing after the update? It connects just fine but there is no indicator applet for it?
- anyone has any idea why my network applet is missing after the update? It connects just fine but there is no indicator applet for it?

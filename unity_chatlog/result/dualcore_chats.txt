@@ -1,5 +1,0 @@
- 11.04 doesn't see a partition on another hard drive that i need access too. i think it has my old users permissions
- do you guys like 11.04
- or gnome 3
- i installed ubuntu 11.04 and now i am getting 403 - Forbidden for all my lighttpd vhost? help!?
- firestarter is saying it cant read the system log and i can't see any events ?

@@ -1,1 +1,0 @@
- i accidentally disabled unity plugin in compiz and now i cant access any of the applications icons

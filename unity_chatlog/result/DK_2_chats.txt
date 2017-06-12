@@ -1,3 +1,0 @@
- Hi all! Do "bisigi themes" work in natty 11.04? theres no repo past maverick and wondered about being gnome based or something.
- #ubuntu+1 is invite only
- Do "bisigi themes" work in natty 11.04?

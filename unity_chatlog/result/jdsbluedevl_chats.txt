@@ -1,7 +1,0 @@
- hi, just installed Natty, noticing that the Unity desktop is not functional at all
- it flashes my icons for a second, then goes blank
- anyone else have problems with the Unity desktop?
- hi, can someone tell me why the Unity desktop is causing my screen to blink?  GNOME works perfectly fine.
- scorch_: no, desktop
- scorch_: processor is a P4 2.8 GHz, but I don't think that should matter
- how do I wipe the compiz-config settings?  Turning on Unity within GNOME and restarting just caused my desktop to start blinking again

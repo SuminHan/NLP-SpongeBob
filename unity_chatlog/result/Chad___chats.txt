@@ -1,2 +1,0 @@
- How do I make rsync back up Truecrypt files incrementally. As of now, it rewrites the file completely.
- Help with rsync and Truecryot files?

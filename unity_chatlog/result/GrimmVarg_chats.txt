@@ -1,3 +1,0 @@
- hey guys, I just upgraded from 10.10. to 11.04 on my macbook pro and there seems to be some issues realting to kbd. the crash pop up tells me to provide the output here --> http://pastebin.com/LDHGqzfb any help would be appreciated :)
- genewitch: the screen freezes for a few minutes, then showing almost 100 popous about the crash. saying i crash occured provide the output of etc.. :/
- oh :P

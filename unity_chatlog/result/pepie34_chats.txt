@@ -1,1 +1,0 @@
- Hi, I've updated from maverick two computers, only on one PC I've got a problem with ubuntu classic desktop: I can not anymore rearrange task in the taskbar, nor drag and drop file to a task in the task bar. Any idea ?

@@ -1,3 +1,0 @@
- good morning all, I get an error when trying to remove someone or something from my buddy list that I rejected to add. it says, "Are you sure you want to delete brennanhgd@wiredmail.info from your contacts?" and then says, "User could not be removed: Server was unable to read request. ---> There is an error in XML document (4, 173). ---> Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx)." Help please.
- <omichalek> when the boot list comes up, hit "recovery mode" there is an option to update Grub, try that.
- ok good luck

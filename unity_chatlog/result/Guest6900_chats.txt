@@ -1,4 +1,0 @@
- can someone help me make since of these partitions and why there appears to be 2 of the same?     http://imagebin.org/150931
- how can i optimize and consolidate this?
- bitplane, what exactly are the swap partitions?
- bitplane, speaking of memory, i have had problems with that lately, maybe related to this then, for some reason my memory maxed out, cpu2 and wouldnt go down, and it wasnt like i was running anything intense at the time, what could cause this?

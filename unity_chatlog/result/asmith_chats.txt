@@ -1,1 +1,0 @@
- I have a vps, I'm trying to setup pptp on it. I need localip. by ifconfig, under eth0, I get my machine ip. I thought it must be something like 192.168...  should I enter my machine ip as localip?

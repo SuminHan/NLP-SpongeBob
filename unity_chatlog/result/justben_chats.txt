@@ -1,1 +1,0 @@
- Just upgraded to Natty. Liking it so far, but Chrome wants to maximize every time I start it. Anyone have any idea what might cause that?

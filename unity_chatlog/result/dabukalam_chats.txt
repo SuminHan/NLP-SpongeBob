@@ -1,3 +1,0 @@
- I'm trying to install natty, just booted off the disk, and I get the splash screen followed by initramfs giving me a mount error for /dev/loop0 on //filesystem.squashfs or something along those lines.
- gaelfx: #web? #programming? #ISPcomparators?
- !ask | lukenukem

@@ -1,2 +1,0 @@
- has anyone in here successfully used fglrx for ati with -pae kernels ?
- has anyone in here successfully used fglrx for ati with -pae kernels ?

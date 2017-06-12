@@ -1,4 +1,0 @@
- could anyone tell me what the state of softraid is in 11.04, I think the docs I am reading are out of date
- https://wiki.ubuntu.com/ReliableRaid
- I'm looking for information on the current state of software raid in ubuntu, is it on par with rhel yet?
- does anyone in here boot from a softraid 1 or 10 with ubuntu?

@@ -1,3 +1,0 @@
- Got a problem with my wireless.  With in the last 12 hours network-manager suddenly refuses to connect to any wireless network (password protected or not_.
- For some reason network manager isn't running
- Earlier  it decided not to work with any wifi ap, then it said my wireless card wasn't working because the firmware wasn't in place, and now the applet says network manager is not working at all.  Help?

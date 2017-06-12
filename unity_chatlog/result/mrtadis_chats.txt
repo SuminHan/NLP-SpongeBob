@@ -1,1 +1,0 @@
- Hello, what is the problem with Ubuntu 10.10 loading? After grub console I see a black screen for a couple of settings, after that it starts showing kernel loading?

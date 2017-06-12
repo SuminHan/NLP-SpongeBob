@@ -1,3 +1,0 @@
- Hi ! After adding a user with useradd, is there a way to create the default folder ~/.kde or ~/.gnome ?
- I want to do it before they log in ActionParsnip  :p
- Hi ! After adding a user with useradd, is there a way to create the default folder ~/.kde or ~/.gnome (before they log in) ?

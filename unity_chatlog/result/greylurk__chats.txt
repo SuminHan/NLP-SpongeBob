@@ -1,9 +1,0 @@
- any instructions on how to install Oracle JDK in Natty?
- xangua - those only seem to cover maverick and lucid.
- anyone know of a PPA thtat includes Eclipse 3.6.2?
- axisys in 10.10 it has... I haven't tested in 11.04
- axisys the deb on google's site installs the ppa too
- the more I use unity, the better I like it.
- ereals It's pretty good, once you get used to it.
- axisys no problem.
- The only thing I'm not liking about Unity is placing the system preferences under the shutdown icon.

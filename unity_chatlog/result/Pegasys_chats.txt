@@ -1,1 +1,0 @@
- is anyone else having trouble when upgrading using the alternate iso when it gets to fetching files. mine stops at the same point everytime

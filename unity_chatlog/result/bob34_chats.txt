@@ -1,2 +1,0 @@
- hello
- Does it worth installing the proprietary nvidia driver? i dont want to play games neither eye candy... i just want a browser, email, music, videos, some coding and remote desktop. I run ubuntu 11.04 with xfce or fluxbox.

@@ -1,6 +1,0 @@
- is there a guide to removing the new bar on the left hand size and making ubuntu 11.04 not look like 11.04 somewhere? I've tried to grow to like it but I just can't use it, the lack of an open windows list is a real blow.
- Whinis, ahh, thank god. Am I alone in not liking all of the new changes?
- Whinis, ahh, what did you change/get rid of?
- Whinis, ok thanks. I may do that or just end up going to classic. Nvidia was more or less the main reason I updated, 11.04 has a newer driver and doesn't make garbled graphics like the old.
- Whinis, yeah, I had Nvidia before the update, I'll still have it now right?
- whinis, cool thanks.

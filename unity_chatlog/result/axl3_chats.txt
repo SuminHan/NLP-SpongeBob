@@ -1,3 +1,0 @@
- guys, check out: https://bugs.launchpad.net/unity/+bug/773182    any help appreciated
- arnab: kubuntu.sedktop
- arnab: kubuntu-desktop

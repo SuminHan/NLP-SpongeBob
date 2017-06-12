@@ -1,1 +1,0 @@
- What is the best way to configure the SATA controllers in my BIOS?  As AHCI devices?  Or just standard IDE devices?

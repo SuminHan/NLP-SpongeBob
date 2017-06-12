@@ -1,3 +1,0 @@
- hello all!
- which log in /var/log would tell me when the computer restarted?
- thanks escott and acicula

@@ -1,5 +1,0 @@
- so is there any way to move the icon bar on the left to the right side? or to the left side of the right of 2 monitors?
- i (again) feel like these limiting renewals are just retarded.
- vish: whoever decided that i couldn't layout my desktop by my own, deserves to be shot and needs better/other drugs.
- i can just hope no other unix desktop environment would follow this silly limiting b/s.
- ActionParsnip: i'll rather fork unity on my own and hack it to the bone to let it just do what i want.

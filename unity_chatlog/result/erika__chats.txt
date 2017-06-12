@@ -1,2 +1,0 @@
- I have installed ffmpeg-thumbnailer on xubuntu, but get no thumbnails for video files
- pdf, images, etc all work

@@ -1,8 +1,0 @@
- i just installed the latest ubuntu 11.04 Natty Narwhal, and now it doesn't recognize my nvidia video card
- p_res, did it before what?
- yes it came up fine, ran the update and now i have to select safe mode when i boot up
- it tells me to run nvidia-xconfig
- but i'm kind of new to ubuntu and don't know where to run it from,
- tried but let me try again
- when i enter sudo nvidia-xconfig , prompts me for password which i enter then it comes back xconfig command not found
- adios all

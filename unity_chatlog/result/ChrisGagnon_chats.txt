@@ -1,1 +1,0 @@
- saml: you can use 'lshw -C display'

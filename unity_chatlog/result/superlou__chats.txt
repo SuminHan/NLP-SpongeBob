@@ -1,4 +1,0 @@
- Is Simple Backup deprecated from Natty?  This could be really unfortunate :(
- bazhang, thanks.  I was searching for the wrong name.  Saved me my data
- ohsix, need to first recover all my backups from 9.04 :)  Have you found deja-dup to be superior?  Simplebackup was so simple that I actually started making backups regularly
- ohsix, sounds sweet.  I'll check it out

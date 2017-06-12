@@ -1,9 +1,0 @@
- ribot, connect once and it should auto add to your default connections
- you can check your wlan0 right clicking the networking-manager-gnome icon
- which is best to use google chrome or chromium ?
- Incarus6, i'm sure source code is available
- is there a edubuntu edition of natty ?
- google is immediately at your disposal.  specific complex help isn't
- people are human
- night
- /dev/dsp is present in lucid.  if /dev/dsp stopped being present in maverick on out, then will lucid suffice for video capture ?

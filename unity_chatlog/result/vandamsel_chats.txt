@@ -1,4 +1,0 @@
- my installation of 11.04 has hung at "could not find module nvidia_current" after all them painfully slow updates :p
- sebsebseb: ah speak of the devil. its started working after hanging there >1 hour
- sebsebseb: its just booting for the first time now. ill install the additional drivers and see if i have any issues :)
- sebsebseb: the actual installation hung on the same output for over an hour, nothing appeared to be downloading so i dunno why it took so long.

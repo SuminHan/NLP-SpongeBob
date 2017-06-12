@@ -1,3 +1,0 @@
- greetings ! I have problems with my printer Cannon iP2700 series the error message is File '/System/Library/ColorSync/Profiles/sRGB Profile.icc' not found" in Ubuntu natty
- nop, it's a natty fresh installation
- I reinstalled the printer twice with the same results

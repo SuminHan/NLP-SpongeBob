@@ -1,4 +1,0 @@
- hello
- a friend of mine upgraded to natty, and the system is (quietly) crashing at startup... (I suspect about the wifi driver, because it's brcm80211), anyone knows?
- BEWARE, broken brcm80211 *confirmed*
- farewell!

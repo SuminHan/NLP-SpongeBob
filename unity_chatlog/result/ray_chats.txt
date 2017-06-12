@@ -1,2 +1,0 @@
- hello, im trying to recover grub 2 after the 11.04 update because it only shows windows 7 and memtest86, ive tried several howto's but no success, anyone knows how to recover it?
- thanks jeija i will try

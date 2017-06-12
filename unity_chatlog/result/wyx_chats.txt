@@ -1,1 +1,0 @@
- i've some troubles with ldap an postfix. my postconf -n looks like http://paste.ubuntuusers.de/400159/ and my ldap-aliases file http://paste.ubuntuusers.de/400160/ ... when i run postmap -q tux1@tuxdomain.local ldap://etc/postfix/ldap-aliases.cf i get the uid but postfix doesn't know the recipient when i try to send a mail to tux1@ŧuxdomain.local

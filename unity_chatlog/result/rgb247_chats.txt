@@ -1,3 +1,0 @@
- how can I undo deletion from terminal?
- I accidentally typed rm /* from root
- iceroot: can you explain please?

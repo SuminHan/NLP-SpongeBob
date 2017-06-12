@@ -1,2 +1,0 @@
- hey there folks, i'm using 10.10 on my netbook in gnome, and i can't get keyboard shortcut for tomboy to work, alt+F12 is set in the tomboy preferences, and in ngnome keyboard shortcuts there's no conflicting setting i can find.
- but it just does nothing.

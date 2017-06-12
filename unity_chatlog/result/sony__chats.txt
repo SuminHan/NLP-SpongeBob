@@ -1,1 +1,0 @@
- how can i add application to startup at boot, there does'nt seem to be an option in system settings ps i'm on gnome 3 there is no system preference sessions

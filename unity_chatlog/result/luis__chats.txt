@@ -1,2 +1,0 @@
- Hi, how set personal resolutions in ubuntu 11.04 (Amd hd4550) 1792x1344 and 1360x1024
- #ubuntu-ar

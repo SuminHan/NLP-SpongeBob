@@ -1,9 +1,0 @@
- I'm trying to build some program, while the "make" command an error ocurrs, I asked for help at the program home page, and they told me to: "take the command where it tries to compile OSGXmltokenizer.cpp and replace -c with -E". I don't know how to do that, where should I look? what do I do?
- OpenSG
- hi, how do I know a "make" command was succesful?
- how do I know where the error is while "making"?
- how do I record the make output to a file?
- no, I mean, save all the process to look for errors... :S
- I want to look for erros in a "make" command, it is too long
- I want to pastebin it
- what do I need to build with scons?

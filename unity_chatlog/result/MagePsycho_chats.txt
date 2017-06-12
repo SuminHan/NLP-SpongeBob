@@ -1,9 +1,0 @@
- hi guys..
- i am new to ubuntu
- ubuntu official site?
- http://www.ubuntu.com/download/ubuntu/download
- so i need to download from that link: http://www.ubuntu.com/download/ubuntu/download
- and make it bootable and install?
- i am new to ubuntu so
- thanks
- any pre-requisites for installing in Dell Studio 1569 ?

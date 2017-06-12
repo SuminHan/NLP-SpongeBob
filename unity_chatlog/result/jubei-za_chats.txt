@@ -1,2 +1,0 @@
- Evildaemon, you could manually reassign your ip setup on network interface to have no default gateway or dns server. You can also use iptables firewall but this is quite complicated.
- you want your wireless interface to have network communication, but not out to the internet - then you would edit ipconfig of wan0 or somthing like this

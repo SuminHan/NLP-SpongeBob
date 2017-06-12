@@ -1,5 +1,0 @@
- So Unity doesn't support nvidia 7 series? weird cause it works in my laptop and netbook.
- sebsebseb, mine is 7 series so it is old, and yes i have the proprietary driver installed (version 270) i have to use ubuntu classic with no effect bc unity and ubuntu classic freeze my desktop.
- sebsebseb, ahhh cool will try dat, thanks bro
- sebsebseb, oki dokiee, brb
- sebsebseb, ok bro unity works with the experimental driver but the screen contrast and colour are not as crisp if i use the regular nvidia driver. do you know how to fix it? thanks

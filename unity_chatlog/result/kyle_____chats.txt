@@ -1,6 +1,0 @@
- yes
- lease install the package with full kernel sources for your distribution - that is what it says when i try to run the installer for my audio driver
- E: Unable to locate package kernel-headers-2.6.35-28-generic-pae
- how do i fix this?
- it says they are installed
- yes

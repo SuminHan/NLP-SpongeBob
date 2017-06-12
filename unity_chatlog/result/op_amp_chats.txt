@@ -1,6 +1,0 @@
- Hi, when I tried to update to Natty, I got following error. Can not mark xubunut-desktop for upgrade. http://i.imgur.com/ypYh2.png
- *upgrade
- Jordan_U, update-manager -d
- bullgard4, I didn't quite understand the causes. The last one might be the root of the problem as I did build some packages from source code. Removing them.
- I upgraded to Natty but I am unable to log in. It gave some error - unable to load kernel (fail) and Start error log(fail). Rest process were Ok.
- currently I logged in after going in recovery and load in low graphic mode(don't remember exactly)

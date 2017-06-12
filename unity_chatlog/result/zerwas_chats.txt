@@ -1,5 +1,0 @@
- I wanted to create a backtrace for a crash of nautilus, but when i entered "run" in gdb, X crashed
- How can i debug this X crash now?
- elliot_> press the power button in the upper right corner, there you will find a menu item "settings" or so
- Which file should be edited for changes to fglrx from Ubuntu 10.10 upwards?
- Should a file be created in /usr/share/X11/xorg.conf.d/ to add xorg.conf options for my graphics card?

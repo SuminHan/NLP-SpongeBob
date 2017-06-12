@@ -1,9 +1,0 @@
- So, anyone explain ubuntu users and groups (groups part)
- for example the is a group called bluetooth, i have no tick next to group but i'm still able to use.  Why so?
- New install ubuntu 11.4, when using Software Centre it says "Check your internet connection", I am online..  How do i fix this?
- KM0201: OK, you have any idea how to fix?
- New install ubuntu 11.4, when using Software Centre it says "Check your internet connection", I am online..  How do i fix this?
- New install ubuntu 11.4, when using Software Centre it says "Check your internet connection", I am online..  How do i fix this?
- New install ubuntu 11.4, when using Software Centre it says "Check your internet connection", I am online..  How do i fix this?
- New install ubuntu 11.4, when using Software Centre it says "Check your internet connection", I am online..  How do i fix this?
- Where can i find the show desktop icon on the new version of ubuntu

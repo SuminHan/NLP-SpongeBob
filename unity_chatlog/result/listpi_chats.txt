@@ -1,7 +1,0 @@
- what does udisks utility do ?
- what does udisks utility do ?
- Blue1 : thanks but i am using 9.04 ubuntu and on this udisk is not available
- blue1 : tell me what i do
- Blue1 : ya but let me know if i upgrade 9.04 to 9.10 then is there any effect ...i will get the same thing after upgrade
- blue1 : can you tell how to automount local drive on boot
- how to install udisks utility in ubuntu 9.10

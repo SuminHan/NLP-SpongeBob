@@ -1,1 +1,0 @@
- how can I create a encrypted partition for /tmp or any other folder?

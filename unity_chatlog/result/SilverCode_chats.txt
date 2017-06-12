@@ -1,1 +1,0 @@
- does anyone know if the 11.04 power regression will be fixed in a future update, or if it will be pushed out to 11.10?

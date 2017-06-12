@@ -1,5 +1,0 @@
- How can I make gnome tell me how much battery I have left?
- Celt, I'm currently using that, but I hate clickig the terminal all the time
- How can I make launcher for it/
- How can I make launcher for acpi so I don't have to check terminal everytime to check my battery?
- Guess no one could help :l

@@ -1,3 +1,0 @@
- we need a good screenlet for xchat
- unetbootin works fine for creating bootable usb windows 7.  What you need is a live environment of windows 7 on usb, the whole os, not just friggin' those cheasy ghost images
- a install would, but I want a live iso.

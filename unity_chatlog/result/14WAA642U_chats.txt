@@ -1,2 +1,0 @@
- For some reason, after I pair my phone's bluetooth, I don't see the mobile internet connection I created as a network option.  I made sure to save the connection and check "allow all users".
- Anyone know what might cause that?

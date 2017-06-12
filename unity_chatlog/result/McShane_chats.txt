@@ -1,2 +1,0 @@
- is there a way to remove the "Workspace Switcher" button on the Unity launcher menu?
- johnjaylward: look here: http://www.omgubuntu.co.uk/2011/01/the-omg-guide-to-must-have-indicator-applets/

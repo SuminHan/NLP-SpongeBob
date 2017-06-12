@@ -1,5 +1,0 @@
- Hey, anyone here good at getting soundcards to work?
- Okay I would really appreciate help!
- Just installed 11.04 on my media server
- and the internal sound card wont output any sound
- But if I check the sound panel it says "Internal Sound Card"

@@ -1,2 +1,0 @@
- i have beta2 installed. but today, i have no updates. what might be wrong. i tried a couple different mirrors. all are the same.
- how can i install unity in kubuntu? what's the package name?

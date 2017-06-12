@@ -1,9 +1,0 @@
- if you have more pritation you hd may crash
- why?
- but my hd crash last night
- yes but i can`t mount partitions to /home/**
- why i cant use fetch?
- i use natty now
- i think gnome3 is good than natty
- is natty had installed build-essential default?
- hi everyone when i add JAVA_HOME into /etc/environment when i run eclipse it got wrong

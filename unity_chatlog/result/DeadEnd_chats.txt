@@ -1,2 +1,0 @@
- SaiDawi: to use classic desktop with or without effects logout and change to classic desktop
- I have enabled classic desktop but know wish to go back to unity  but the option to change session on the bottom bar below login prompt has dissapered, how do i change my session bk?

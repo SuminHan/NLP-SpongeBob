@@ -1,7 +1,0 @@
- hi all...looking for a little hand holding using webmin to configure proftpd...all i want to do is allow a single user (not myself, or anonymous access to my /home/user/Pictures directory?
- hi all...looking for a little hand holding using webmin to configure proftpd...all i want to do is allow a single user (not myself, or anonymous access to my /home/user/Pictures directory?
- hi all...i need to know about website ripping?
- wget is the way to go?
- 4-tea-2, ok...so how to assign target directory?
- 4-tea-2, one sec..
- 4-tea-2, perfect!!!...thank you much...!

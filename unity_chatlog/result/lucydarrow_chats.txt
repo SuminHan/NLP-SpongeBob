@@ -1,8 +1,0 @@
- Hi, I cannot download restricted extras and vlc from software center or apt. It gives error that problem with fetching, while my connection is okay, and also the repo address, I tried main server.
- jrib: Okay, will try later later, currently downloading Skype.
- jrib: done with that update, but still doesn't work.
- jrib: I tried sudo apt-get install vlc
- jrib: here it is: http://pastebin.com/raw.php?i=WYTeHWxP
- jrib: Okay, changing to US mirror.
- jrib: Thanks, US repo worked, still wondering why main sever caused me a problem. :)
- jrib: Thats explains it. Thanks. See you later I hope.

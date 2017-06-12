@@ -1,8 +1,0 @@
- So does anyone know why the mouse won't respond to clicks in 11.04?
- Can anyone point me to the right channel for 11.04 help, or answer my question?
- I'm having a problem where my mouse refuses to click on anything,
- 11.04
- sometimes one, somtimes both
- it's acting very finnicky
- I'd like to reinstall 10.10
- 11.04 is still buggy as hell

@@ -1,9 +1,0 @@
- I'm watching unity vids on youtube. Is it possible to disable the unified toolbar? (e.g. the OS X toolbar in the top no matter where your window is)
- s/OS X/OS X style
- anyone?
- nmvictor: I'm with you there
- ubuntu: no, it has silly stuff
- killer_: try x-chat
- killer_: most people use that or irssi (console based)
- killer_: yep, haven't used many though
- back later

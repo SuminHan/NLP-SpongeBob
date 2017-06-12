@@ -1,7 +1,0 @@
- you guys have any idea how can i automount hdd. i use 2 internal hdds guide i found online are about partition of same hdd and usb storages i thought you could help me. thanks in advance
- thanks coz_ i'll look into it.
- is removing softwares that came with ubuntu dangerous. i mean softwares like evolution and empathy
- coz_got one more question. is removing softwares that came with ubuntu dangerous. i mean softwares like evolution and empathy
- thanks Sidewinder1
- Hi again. i removed evolution and installed thunderbird but my indicator is not working with it. when i clicked set up mail nothing happens. and yes i changed preferred app from system menu.
- Hi, is it any harm to remove keyring or should i stop its disturbing password questions at start up ?

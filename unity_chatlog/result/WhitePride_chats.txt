@@ -1,5 +1,0 @@
- Need some help!
- I updated ubuntu.
- To the new version.
- But i don't like it.
- Is there any possibility for me to downgrade?

@@ -1,3 +1,0 @@
- hello.. is there a way to make the menubar on the top of the screen static? so that it shows up even if you don't hower over it?
- Dr_Willis, the top one.. by default is shows the name of the application you're on.. if you mouse over it it will give you the menu bars.. how do I make the menubars permantent
- Dr_Willis, webupd8?

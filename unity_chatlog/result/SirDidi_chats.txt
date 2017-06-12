@@ -1,5 +1,0 @@
- is there a more comfortable way to up and download files via ssh besides scp and sftp?
- PythonPup, i know but on the server is no sshfs and i cant install it
- Samo502, for example scp has no autocomplete
- PythonPup, oh nice
- PythonPup, Samo502 thx

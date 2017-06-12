@@ -1,8 +1,0 @@
- itguru: while true; do date; sleep 1; done
- itguru: while true; do date; sleep 1; done
- Ziber: do you have a flash memory stick?
- Ziber: currently running windows, ubuntu, or something else?
- Ziber: if you're currently running Windows, try Wubi
- what are you running?
- Ziber: try just upgrading in place
- Ziber: that or go buy a cd--take your pick

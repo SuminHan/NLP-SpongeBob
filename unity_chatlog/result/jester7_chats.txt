@@ -1,5 +1,0 @@
- I see on the website, the new "dash" for natty is not fullscreen.  It is on mine, how to I resize the dash?
- I see on the website, the new "dash" for natty is not fullscreen.  It is on mine, how to I resize the dash?
- Hello all.  I have been using Natty Since the last alpha and just saw that the overlay scrollbars are now default, but not for me.  How do I turn this on?
- ...I don't think it is
- tripelb: right :)  ubuntu+1 does not work

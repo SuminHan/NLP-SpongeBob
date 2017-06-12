@@ -1,1 +1,0 @@
- hey guys, I am trying to set up freeradius atop ubuntu. is there a way to integrate the username/password to use the already existing username and passwords?
