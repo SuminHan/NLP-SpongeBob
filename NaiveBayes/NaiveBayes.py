@@ -11,7 +11,6 @@ import math
 
 special_chars_remover = re.compile("[^\w'|_]")
 characters = ["Gary", "Mr.Krabs", "Patrick", "Sandy", "SpongeBob", "Squidward"]
-
 stpwd = nltk.corpus.stopwords.words('english')
 
 def remove_special_characters(sentence):
@@ -104,7 +103,10 @@ def calculate_doc_prob(training_sentence, testing_sentence, alpha):
 
 def create_BOW(sentence):
     bow = {}
+    sentence = remove_special_characters(sentence)
+    sentence = sentence.lower()
     tokens = nltk.word_tokenize(sentence)
+
     for word in tokens:
         if len(word) < 1 or word in stpwd: continue
         word = word.lower()
@@ -112,6 +114,8 @@ def create_BOW(sentence):
         bow[word] += 1
     return bow
 
+def remove_special_characters(sentence):
+    return special_chars_remover.sub(' ', sentence)
 
 '''
 Code below is for visualization
