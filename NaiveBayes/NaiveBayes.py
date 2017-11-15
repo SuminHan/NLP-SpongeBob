@@ -14,14 +14,14 @@ characters = ["Gary", "Mr.Krabs", "Patrick", "Sandy", "SpongeBob", "Squidward"]
 
 stpwd = nltk.corpus.stopwords.words('english')
 
-
 def remove_special_characters(sentence):
     return special_chars_remover.sub(' ', sentence)
 
 
 def main():
     training_sentences = read_data()
-    #testing_sentence = "I love my job at the Krusty Krab, I like Jelly-Fishing and Bubble-Blowing. I've never been late for work!"  # Put the text for the test.
+    # Put the text for the testing_sentence.
+    #testing_sentence = "I love my job at the Krusty Krab, I like Jelly-Fishing and Bubble-Blowing. I've never been late for work!"
     testing_sentence = "I hate this job. I want to go home and play clarinet"
     prob_list = naive_bayes(training_sentences, testing_sentence)
 
@@ -59,9 +59,7 @@ def read_data():
 
 def normalize_log_prob(probs):
     '''
-    숙제 4
-    로그로 된 확률값을 표준화합니다.
-    이 부분은 이미 작성되어 있습니다.
+    normalizing the log based probability code
     '''
 
     maxprob = max(probs)
@@ -81,12 +79,8 @@ def calculate_doc_prob(training_sentence, testing_sentence, alpha):
     testing_model = create_BOW(testing_sentence)
 
     '''
-    숙제 3
-    training_sentence로 만들어진 모델이,
-    testing_sentence를 만들어 낼 **로그 확률** 을 구합니다.
-    일반 숫자에서 로그값을 만들기 위해서는 math.log() 를 사용합니다.
-
-    일반 숫자에서의 곱셈이 로그에서는 덧셈, 나눗셈은 뺄셈이 된다는 점에 유의하세요.
+    Calculating the probability that training_model may produce testing_model.
+    We use math.log, so note the use.
     예) 3 * 5 = 15
         log(3) + log(5) = log(15)
 
@@ -120,10 +114,8 @@ def create_BOW(sentence):
 
 
 '''
-이 밑의 코드는 시각화를 위한 코드입니다.
-궁금하다면 살펴보세요.
+Code below is for visualization
 '''
-
 
 def visualize_boxplot(title, values, labels):
     width = .35
